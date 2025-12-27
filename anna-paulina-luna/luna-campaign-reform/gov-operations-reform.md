@@ -1,0 +1,85 @@
+---
+title: Government Operations and Legislative Reform
+description: 
+published: true
+date: 2025-05-04T20:38:32.445Z
+tags: 
+editor: markdown
+dateCreated: 2025-05-04T20:38:28.753Z
+---
+
+# Government Operations and Legislative Reform
+
+### Summary
+
+-   Deep internal GOP divisions surfaced over proxy voting for new parents, culminating in Anna Paulina Luna's resignation from the House Freedom Caucus and public accusations of betrayal and threats by fellow Republicans ([Florida Politics](https://floridapolitics.com/archives/729341-anna-paulina-luna-resigns-from-house-freedom-caucus-after-new-parent-proxy-vote-dustup/), [NBC - 8 WFLA](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6FG3-0G53-SB5T-S2N9-00000-00&context=1519360)).
+
+-   GOP leadership repeatedly blocked or opposed reforms such as remote or proxy voting for new parents, despite bipartisan and cross-aisle efforts, raising concerns about institutional resistance to modernization and family support ([Florida Politics](https://floridapolitics.com/archives/729341-anna-paulina-luna-resigns-from-house-freedom-caucus-after-new-parent-proxy-vote-dustup/), [WFIN Local News](https://wfin.com/fox-political-news/anna-paulina-luna-forces-house-leaderships-hand-on-proxy-voting-as-gop-war-escalates/)).
+
+-   Public airing of GOP infighting---including accusations of smearing, bribery, and procedural sabotage---has damaged party unity and presents a risk of ongoing legislative gridlock ([NBC - 8 WFLA](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6FG3-0G53-SB5T-S2N9-00000-00&context=1519360), [Florida Politics](https://floridapolitics.com/archives/729341-anna-paulina-luna-resigns-from-house-freedom-caucus-after-new-parent-proxy-vote-dustup/)).
+
+-   Disputes over House rules (such as the Motion to Vacate and floor voting procedures) have left leadership vulnerable to internal revolts and criticism for both over-centralization and lack of empowerment for rank-and-file members ([CNN](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BV1-KWD1-F15W-H01J-00000-00&context=1519360)).
+
+-   Legislative process frustrations are mounting, with Luna and others denouncing major bills for being "irresponsibly rushed," indicating a broader problem of perceived procedural unfairness and weak consensus-building ([Tampa Bay Times](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BY3-GS31-JCBJ-Y4F4-00000-00&context=1519360), [South Florida Sun-Sentinel](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BYG-T8S1-DY37-F4H6-00000-00&context=1519360)).
+
+### Reform of Congressional Procedures
+
+#### Proxy Voting and Parental Leave Advocacy
+
+**March 2025: Luna Resigned From House Freedom Caucus Over Proxy Voting Dispute** According to Florida Politics, "U.S. Rep. Anna Paulina Luna is resigning from the House Freedom Caucus, citing betrayal from some of its members over her efforts to pass legislation allowing proxy voting for new parents." \[Florida Politics, [3/31/25](https://floridapolitics.com/archives/729341-anna-paulina-luna-resigns-from-house-freedom-caucus-after-new-parent-proxy-vote-dustup/)\]
+
+**March 2025: Luna Proposed Proxy Voting For New Parent Lawmakers** According to Florida Politics, "she said that respect 'was shattered last week' when some members of the caucus worked to block her effort to bring forward legislation allowing new mothers and fathers in Congress to vote by proxy for 12 weeks." \[Florida Politics, [3/31/25](https://floridapolitics.com/archives/729341-anna-paulina-luna-resigns-from-house-freedom-caucus-after-new-parent-proxy-vote-dustup/)\]
+
+**March 2025: Luna Accused GOP Leaders Of Threats And Bribery To Block Proxy Vote Petition** According to Florida Politics, "Luna had already accused GOP leaders in Congress of making threats to convince members to vote against the proxy voting measure, even bribing some to go along with efforts to block Luna's discharge petition, according to NPR." \[Florida Politics, [3/31/25](https://floridapolitics.com/archives/729341-anna-paulina-luna-resigns-from-house-freedom-caucus-after-new-parent-proxy-vote-dustup/)\]
+
+**2023: Luna's Push For Remote Voting For New Parents Was Rejected By GOP Leadership** According to Florida Politics, "in 2023, after the birth of her child, she had sought rule changes to allow new parents to vote remotely. But her efforts were rejected by then-Speaker Kevin McCarthy and now-Speaker Johnson." \[Florida Politics, [3/31/25](https://floridapolitics.com/archives/729341-anna-paulina-luna-resigns-from-house-freedom-caucus-after-new-parent-proxy-vote-dustup/)\]
+
+**Luna Collaborated With Democrat Brittany Pettersen On Proxy Voting For New Parents** According to Florida Politics, "Luna is reaching across the aisle on the issue, working with Democratic U.S. Rep. Brittany Pettersen of Colorado, who was the 13th member of Congress to have a baby while in office." \[Florida Politics, [3/31/25](https://floridapolitics.com/archives/729341-anna-paulina-luna-resigns-from-house-freedom-caucus-after-new-parent-proxy-vote-dustup/)\]
+
+**April 2025: Luna Forced Vote On Proxy Voting For New Parents In Congress** According to WFIN Local News, "Rep. Anna Paulina Luna, R-Fla., is forcing a vote on legislation to enable new parents serving in Congress to vote remotely in the weeks surrounding the birth of their child." \[WFIN Local News, [4/1/25](https://wfin.com/fox-political-news/anna-paulina-luna-forces-house-leaderships-hand-on-proxy-voting-as-gop-war-escalates/)\]
+
+**April 2025: Luna Introduced Proxy Voting Measure As Privileged Resolution** According to WFIN Local News, "Luna introduced the measure as a 'privileged resolution' on Tuesday, which gives House leaders two legislative days to take up the measure." \[WFIN Local News, [4/1/25](https://wfin.com/fox-political-news/anna-paulina-luna-forces-house-leaderships-hand-on-proxy-voting-as-gop-war-escalates/)\]
+
+**April 2025: Luna's Discharge Petition Garnered Required Signatures** According to WFIN Local News, "Luna's initial plan to fast-track her bill despite opposition from House GOP leaders involved a discharge petition, a mechanism for getting a bill onto the House floor if it gets a majority of lawmakers' signatures --- which Luna's resolution did." \[WFIN Local News, [4/1/25](https://wfin.com/fox-political-news/anna-paulina-luna-forces-house-leaderships-hand-on-proxy-voting-as-gop-war-escalates/)\]
+
+**April 2025: Luna's Bill Proposed 12 Weeks Of Proxy Voting For New Parents In Congress** According to WFIN Local News, "Luna's bill, which is co-led by Rep. Brittney Pettersen, D-Colo., would give new moms and dads serving in Congress the ability to vote by proxy for up to 12 weeks surrounding the birth of their child." \[WFIN Local News, [4/1/25](https://wfin.com/fox-political-news/anna-paulina-luna-forces-house-leaderships-hand-on-proxy-voting-as-gop-war-escalates/)\]
+
+**2025: Luna Collaborated With Democrats And Republicans On Parental Proxy Voting Legislation** According to Times of India, "Luna has allied with Democrats and some Republicans to push for legislation that would allow new parents in the House to vote remotely for up to 12 weeks following the birth of their child." \[Times of India, [4/1/25](https://timesofindia.indiatimes.com/world/us/who-is-anna-paulina-luna-gop-member-quitting-house-freedom-caucus-over-proxy-voting-dispute/articleshow/119839292.cms)\]
+
+**2025: Anna Paulina Luna Proposed Allowing Voting By Proxy For New Parents In Congress** In an interview with FOX News, Anna Paulina Luna said, "I'm currently working on something that would allow new parents, and specifically female members of Congress to vote by proxy when they're recovering from childbirth." \[Interview - Anna Paulina Luna with FOX News (Jesse Watters Primetime), [3/28/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6FFX-BFM3-RYG8-316J-00000-00&context=1519360)\]
+
+#### Unifying House GOP Initiatives
+
+**March 2025: Luna Dismissed Committee Position Offers To Focus On Proxy Voting Reform** According to NBC - 8 WFLA, "Luna, who has been publicly peeved that she did not get the spot she wanted on the House Armed Services Committee, said that she has 'been reached out to multiple times, offering me positions on different committees.' 'I don't want it because this is bigger than me. It's about actually changing the institution for the better,' Luna said." \[NBC - 8 WFLA: Web Edition Articles (Florida), [3/27/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6FFC-S7N3-RRWC-G1CX-00000-00&context=1519360)\]
+
+**March 2025: Luna Expressed Determination To Persist On Proxy Voting Issue** According to NBC - 8 WFLA, 'I'm not changing anything, I haven't heard any suggestions or anything that would help do this in \[an\] easier fashion,' Luna told reporters on Thursday." \[NBC - 8 WFLA: Web Edition Articles (Florida), [3/27/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6FFC-S7N3-RRWC-G1CX-00000-00&context=1519360)\]
+
+**2024: Anna Paulina Luna Urged Speaker Not To Change Motion To Vacate Threshold** In an interview with CNN, Anna Paulina Luna said, "I would urge the speaker not to change that. And I also know that there are Democrats that will also not support that, because that is a parliamentarian toolkit that has been around since the time of Thomas Jefferson and actually empowers the people, in this, the representative, over the speaker." \[Interview - Anna Paulina Luna with CNN, [4/18/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BV1-KWD1-F15W-H01J-00000-00&context=1519360)\]
+
+**2024: Anna Paulina Luna Indicated Hesitancy To Support Motion To Vacate** In an interview with CNN, Anna Paulina Luna said, "As of right now, I'm leaning towards no, yes. But again, you know, it changes things if they're trying to change that threshold because ultimately -- even to Speaker McCarthy's credit, what happens is, is you're removing the power from the representative unless the American people. And we have to ensure that first and foremost we are legislating for them, not any one person or individual." \[Interview - Anna Paulina Luna with CNN, [4/18/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BV1-KWD1-F15W-H01J-00000-00&context=1519360)\]
+
+**2024: Anna Paulina Luna Argued For Separate Votes On Foreign Aid Bills** In an interview with CNN, Anna Paulina Luna said, "If the speaker wants to truly empower representatives on both sides, he needs to separate these bills, and he needs to bring them to the fullest separately and let the representatives vote -- for their constituents." \[Interview - Anna Paulina Luna with CNN, [4/18/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BV1-KWD1-F15W-H01J-00000-00&context=1519360)\]
+
+#### Critique of Congressional Dysfunction
+
+**April 2025: Luna Resigned From House Freedom Caucus** According to NBC - 8 WFLA, "Rep. Anna Paulina Luna (R-Fla.) announced Monday that she is leaving the House Freedom Caucus amid her battle with GOP leadership and hard-line Republicans over her push to allow proxy voting for new parents." \[NBC - 8 WFLA: Web Edition Articles (Florida), [4/1/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6FG3-0G53-SB5T-S2N9-00000-00&context=1519360)\]
+
+**April 2025: Luna Accused Freedom Caucus Members Of Smearing Her** According to NBC - 8 WFLA, "In a letter to Freedom Caucus members, Luna said the 'respect' among lawmakers in the group had been 'shattered last week' as some conservatives tried to thwart her effort to hold a vote on parental proxy voting." \[NBC - 8 WFLA: Web Edition Articles (Florida), [4/1/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6FG3-0G53-SB5T-S2N9-00000-00&context=1519360)\]
+
+**April 2025: Luna Alleged Freedom Caucus Members Threatened To Halt Proceedings** According to NBC - 8 WFLA, "Luna accused hard-line Republicans of having 'threatened the Speaker, voting to halt floor proceedings indefinitely... unless he altered the rules to block my discharge petition.'" \[NBC - 8 WFLA: Web Edition Articles (Florida), [4/1/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6FG3-0G53-SB5T-S2N9-00000-00&context=1519360)\]
+
+**April 2025: Luna Called Opposition To Her Petition A** "**Disgraceful Betrayal**" According to NBC - 8 WFLA, "She called the actions particularly the effort involving the SAVE Act 'a disgraceful betrayal.'" \[NBC - 8 WFLA: Web Edition Articles (Florida), [4/1/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6FG3-0G53-SB5T-S2N9-00000-00&context=1519360)\]
+
+**2024: Luna Cited Lack Of Childcare And Workplace Discrepancies** According to South Florida Sun-Sentinel, "Luna says she has no child care and brings Henry to the Capitol almost every day she is in Washington, perching him on her desk through most of her meetings. \[...\] She noted that congressional aides were afforded maternity leave, but that for lawmakers 'there's nothing.'" \[South Florida Sun-Sentinel, [1/20/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6B4X-1X41-JBM5-R013-00000-00&context=1519360)\]
+
+**2024: Anna Paulina Luna Stated Motion To Vacate Speaker Not In Play But Expressed Concern Over Potential Coalition Government** In an interview with Maria (video clip aired during FBN interview), Representative Anna Paulina Luna said, "I don't believe that the motion to vacate is in play. And, again, my concerns for that currently with timing is that I believe that there would be people that might take a deal and either have coalition government or give the gavel to Hakeem Jeffries. And I simply can't support that." \[Interview - Anna Paulina Luna (video clip during Interview - Rep. Carlos Gimenez with FBN, CAVUTO: COAST TO COAST), [4/26/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BWR-CCG1-F15W-H00J-00000-00&context=1519360)\]
+
+**2024: Anna Paulina Luna Expressed Frustration With Speaker Mike Johnson And Sought Alternative Candidates For Speaker In Fall** In an interview with Maria (video clip aired during FBN interview), Representative Anna Paulina Luna said, "But what I will say, Maria, is that there is a lot of frustration within the Republican body. And although Mike Johnson is a nice man, I can't get behind what he's currently doing. And so I'm looking for other names potentially to float for speaker in the fall." \[Interview - Anna Paulina Luna (video clip during Interview - Rep. Carlos Gimenez with FBN, CAVUTO: COAST TO COAST), [4/26/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BWR-CCG1-F15W-H00J-00000-00&context=1519360)\]
+
+**May 2024: Anna Paulina Luna Criticized The Legislative Process For The Antisemitism Bill** According to Tampa Bay Times, "The bill was irresponsibly rushed and put on the floor against the objections of many members, which is why you saw the bipartisan vote against it." \[Tampa Bay Times, [5/2/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BY3-GS31-JCBJ-Y4F4-00000-00&context=1519360)\]
+
+**May 2024: Luna Criticized The Bill As Irresponsibly Rushed** According to South Florida Sun-Sentinel, "'The bill was irresponsibly rushed and put on the floor against the objections of many members, which is why you saw the bipartisan vote against it.'" \[South Florida Sun-Sentinel, [5/5/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BYG-T8S1-DY37-F4H6-00000-00&context=1519360)\]
+
+**2024: Anna Paulina Luna Urged Against Raising Threshold on Motion to Vacate** In an interview with CNN, Anna Paulina Luna said, "I would urge the speaker not to change that. \[...\] that is a parliamentarian toolkit that has been around since the time of Thomas Jefferson and actually empowers the people, in this, the representative, over the speaker." \[Interview - Anna Paulina Luna with CNN News Central, [4/18/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BV4-GJW1-DY0W-43PB-00000-00&context=1519360)\]
+
+**2024: Anna Paulina Luna Leaned Toward Opposing Motion to Vacate** In an interview with CNN, Anna Paulina Luna said, "As of right now, I'm leaning towards no, yes. But again, you know, it changes things that they're trying to change that threshold because ultimately -- even to Speaker McCarthy's credit, what happens is, is you're removing the power from the representative unless the American people." \[Interview - Anna Paulina Luna with CNN News Central, [4/18/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BV4-GJW1-DY0W-43PB-00000-00&context=1519360)\]

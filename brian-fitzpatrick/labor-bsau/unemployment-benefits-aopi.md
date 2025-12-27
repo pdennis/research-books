@@ -1,0 +1,309 @@
+---
+title: Unemployment Benefits
+description: 
+published: true
+date: 2025-09-22T21:29:53.996Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:29:49.345Z
+---
+
+# Unemployment Benefits
+
+### Drug Testing
+
+**2017: Fitzpatrick Voted To Disapprove A Labor Department Rule Defining
+The Occupations That States Can Require A Drug Test As A Condition For
+Unemployment Benefits.** In February 2017, Fitzpatrick voted for
+disapproving a DOL rule related to drug-testing and unemployment
+benefits via the Congressional Review Act. According to Congressional
+Quarterly, "This resolution disapproves the rule issued by the Labor
+Department on Aug. 1, 2016, that defines the occupations for which
+states can require individuals applying for unemployment benefits to
+undergo drug testing (the rule formally titled 'Federal-State
+Unemployment Compensation Program; Middle Class Tax Relief and Job
+Creation Act of 2012 Provision on Establishing Appropriate Occupations
+for Drug Testing of Unemployment Compensation Applicants'). The measure
+provides that the rule would have no force or effect." The vote was on
+the resolution. The House adopted the legislation by a vote of 236 to
+189. President Trump later signed the bill into law. \[House Vote 97,
+[2/15/17](http://clerk.house.gov/evs/2017/roll097.xml); Congressional
+Quarterly,
+[2/10/17](http://www.cq.com/doc/har-5040651/7?110&search=b6LCd0LZ);
+Congressional Actions, [H. J. Res.
+42](https://www.congress.gov/bill/115th-congress/house-joint-resolution/42/all-actions)\]
+
+-   **2012 Legislation Allowed The Labor Department To Create A Rule
+    Allowing States To Require Drug Testing For Unemployment Benefits
+    For Persons Only If Their "Suitable Work" Normally Conducts Drug
+    Tests, Or If The Person Lost Their Most Recent Job Because Of A
+    Failed Drug Test.** According to Congressional Quarterly, "The 2012
+    Middle Class Tax Relief and Job Creation Act (PL 112-96) permitted
+    states to conduct drug testing on individuals applying for
+    unemployment benefits if the individual's only 'suitable work' is an
+    occupation where drug testing is regularly conducted, or if the
+    applicant was terminated from his or her most recent job because of
+    the unlawful use of controlled substances. In such cases, states
+    could deny unemployment benefits to applicants who test positive for
+    drug use. The 2012 law allowed the Labor Department to issue
+    regulations determining those occupations that regularly conduct
+    drug testing. The department initiated such a rule-making in October
+    2014 and in August 2016 issued a final rule that became effective
+    Sept. 30. Under the final rule, occupations that regularly test for
+    drugs are defined as those 'specifically identified in a State or
+    Federal law as requiring an employee to be tested for controlled
+    substances,' including any new laws that are enacted (the rule as
+    originally proposed would have applied only to those state and
+    federal laws requiring testing that were in effect at that time)."
+    \[Congressional Quarterly,
+    [2/10/17](http://www.cq.com/doc/har-5040651/7?110&search=b6LCd0LZ)\]
+
+-   **The Law Also Allowed For A State To Deny Benefits If The Person
+    Failed The Drug Test.** According to the National Employment Law
+    Project, "Under the Middle Class Tax Relief and Job Creation Act of
+    2012, however, Congress amended section 303 of the Social Security
+    Act to permit states to test UI applicants for drugs if: The
+    applicant was discharged for unlawful use of controlled substances,
+    or The applicant is only available for suitable work in an
+    occupation that regularly conducts drug testing (as determined under
+    regulations issued by the Secretary of Labor). The law also
+    permitted states to deny benefits to an applicant who tests positive
+    for drugs under either of these circumstances." \[National
+    Employment Law Project,
+    [2/17](http://www.nelp.org/content/uploads/Drug-Testing-Unemployment-Insurance-Applicants.pdf)\]
+
+-   **The Occupations Covered By The Rule Included Ones Already Where
+    Drug Testing Was Required By State Or Federal Law, Ones That Require
+    The Person To Carry A Gun, Drive Passenger Vehicles, Aviation Flight
+    Crewmembers, Air Traffic Controllers And Railroad Operators.**
+    According to the National Employment Law Project, "The Department of
+    Labor published a notice of proposed rulemaking on October 8, 2014,
+    and final regulations identifying occupations that regularly conduct
+    drug testing became effective on August 1, 2016. The final
+    regulation defined 'occupation' as a position or class of positions
+    that are required, or may be required in the future, by state or
+    federal law to be drug tested. More specifically, pursuant to the
+    Labor Department's regulations, occupations for which state UI
+    agencies can conduct drug testing include: Occupations where testing
+    is required by state or federal law, Occupations that require
+    carrying a firearm, Motor vehicle operators carrying passengers,
+    Aviation flight crewmembers and air traffic controllers, and
+    Railroad operating crews." \[National Employment Law Project,
+    [2/17](http://www.nelp.org/content/uploads/Drug-Testing-Unemployment-Insurance-Applicants.pdf)\]
+
+-   **By Disapproving The Rule, It Is Possible That Republicans Will
+    Then Attempt To Pass A Law Simply Allowing States To Drug Test For
+    Unemployment Benefits At-Will.** According to the National
+    Employment Law Project, "Congressional Republicans, unhappy with the
+    compromise they agreed to in 2012, have criticized the Labor
+    Department regulations since they were proposed, claiming they were
+    too narrowly drawn even though they closely tracked the legislation.
+    The House of Representatives is now planning to invoke the
+    Congressional Review Act to invalidate these regulations; and
+    presumably, proponents of drug testing are counting on passage of a
+    bill introduced in the 114th Congress by Rep. Kevin Brady (R-TX)
+    that would effectively allow states to drug test all jobless workers
+    filing for unemployment insurance. This bill, which we expect will
+    be reintroduced shortly, would allow states to define occupations
+    that "regularly" drug test to include all occupations where testing
+    (including pre-employment testing) is permitted. If passed, this
+    bill would open the floodgates for states to arbitrarily and
+    unconstitutionally drug test its citizens solely because they are
+    applying for UI benefits." \[National Employment Law Project,
+    [2/17](http://www.nelp.org/content/uploads/Drug-Testing-Unemployment-Insurance-Applicants.pdf)\]
+
+-   **National Employment Law Project: "Requiring A Urine Sample From A
+    Worker Without A Job Only Because She Applies For UI Allows State
+    Governments To Legitimize An Ugly Stereotype."** According to the
+    National Employment Law Project, "Requiring a urine sample from a
+    worker without a job only because she applies for UI allows state
+    governments to legitimize an ugly stereotype that, among other
+    things, will be detrimental to the reemployment efforts of the
+    unemployed. Scapegoating those who need, and are entitled to depend
+    on, basic social insurance programs is inconsistent with the UI
+    program's purpose and history. It is insulting to millions of
+    Americans who are shouldering the greatest burdens of job loss and
+    struggling to get back on the economic ladder." \[National
+    Employment Law Project,
+    [2/17](http://www.nelp.org/content/uploads/Drug-Testing-Unemployment-Insurance-Applicants.pdf)\]
+
+-   **Supporters Of The Rule Believe That Broadly Requiring Drug Testing
+    For Unemployment Is Unconstitutional.** According to Congressional
+    Quarterly, "Opponents of the resolution, primarily Democrats, say
+    that allowing states to broadly require drug testing for
+    unemployment benefits is an unconstitutional practice that
+    unnecessarily punishes workers who have lost their jobs and need
+    support while they seek new work. They argue that it was not the
+    intent of Congress to cover more of the workforce than those
+    occupations for which drug testing is specifically required under
+    state or federal law, and that the final rule provided flexibility
+    by including new laws as they are enacted." \[Congressional
+    Quarterly,
+    [2/10/17](http://www.cq.com/doc/har-5040651/7?110&search=b6LCd0LZ)\]
+
+-   **Rule Opponents Claim That The Final Rule Was Too Limiting In The
+    Number Of Allowable Industries To Drug Test.** According to
+    Congressional Quarterly, "Supporters of the resolution to disapprove
+    the rule, primarily Republicans, say the Labor Department\'s
+    definition of occupations where drug testing may be conducted is too
+    narrow and unnecessarily limits a state's ability to require drug
+    testing as allowed by the 2012 law. They say the public interest is
+    better served by allowing states to implement broader
+    interpretations of when drug testing should be regularly conducted,
+    as the states seek to help their residents find new jobs and improve
+    their readiness to return to work." \[Congressional Quarterly,
+    [2/10/17](http://www.cq.com/doc/har-5040651/7?110&search=b6LCd0LZ)\]
+
+### Fraud Recovery
+
+**2023: Fitzpatrick Voted To Extend The Length Of Time That States Could
+Recover Fraudulent Pandemic-Related Unemployment Insurance Payments And
+Removing \$2 Billion From The Labor Department That Was Provided For
+Pandemic-Related Unemployment Compensation.** In May 2023, according to
+Congressional Quarterly, Fitzpatrick voted for the Protecting Taxpayers
+and Victims of Unemployment Fraud Act, which would "extend the length of
+time that states have to recover fraudulent COVID-19 and regular
+unemployment insurance benefit payments and allow states to retain
+certain percentages of recovered overpayments to use for UI program
+integrity initiatives. Specifically, the bill would extend from five to
+10 years the statute of limitations for criminal charges or civil
+enforcement actions alleging that an individual engaged in UI benefit
+fraud. It would extend, from three to 10 years after a payment is made,
+the amount of time states have to recover UI overpayments made due to
+fraud under pandemic unemployment assistance programs, the mixed earner
+unemployment benefit program established during the pandemic, extended
+UI benefits during the pandemic, and the first week of regular benefits
+that were fully federally-funded during the pandemic. It would allow
+states to retain 25 percent of any such recovered funds and require
+states to use such funds for certain UI program integrity activities,
+including hiring fraud investigators and prosecutors and modernizing
+unemployment compensation systems. Beginning two years after enactment,
+it would allow states to retain five percent of any recovered
+overpayments of regular and extended unemployment insurance benefits,
+unless the overpayment was caused by a state agency\'s error, to be used
+for UI program integrity and administration costs, including deterring,
+detecting and preventing improper payments; payments to the Treasury
+Department on a state loan from the unemployment trust fund; and
+modernizing state UI technology infrastructure. It would establish
+requirements for states to be eligible for retention of such funds,
+including that they use a system for crossmatching UI claimants, use a
+national new hires directory to identify individuals who may have become
+employed, and take actions to prevent payments to incarcerated and
+deceased individuals. It would also reinstate and extend through 2030
+certain flexibility for states to hire temporary staff to identify and
+prosecute fraudulent pandemic UI benefits. As an offset, the bill would
+repeal a provision in the March 2020 coronavirus response law (PL
+116-136) that provided \$2 billion for the Labor Department to detect
+and prevent fraud, promote equitable access, and ensure timely payment
+with respect to unemployment compensation programs." The vote was on
+passage. The House passed the bill by a vote of 230 to 200, thus the
+bill was sent to the Senate. \[House Vote 211,
+[5/11/23](http://clerk.house.gov/evs/2023/roll211.xml); Congressional
+Quarterly, [5/11/23](https://plus.cq.com/vote/2023/H/211?3);
+Congressional Actions, [H.R.
+1163](https://www.congress.gov/bill/118th-congress/house-bill/1163/all-actions)\]
+
+-   **The Bill Would Rescind Unspent Pandemic-Era Funding That Was Given
+    To The Labor Department In An Effort To Address Unemployment
+    Insurance Fraud.** According to Congressional Quarterly, "On a
+    mostly party-line vote of 230-200, the GOP-controlled House passed a
+    bill Thursday that would repeal unspent pandemic-era funds
+    appropriated to the Labor Department for efforts to crack down on
+    unemployment insurance fraud." \[Congressional Quarterly,
+    [5/12/23](https://plus.cq.com/doc/btnews-7740390?7)\]
+
+-   **The Bill Would Rescind \$400 Million In Unobligated Funds, Shift
+    The Money To State For Unemployment Insurance "Program Integrity"
+    Activities And Extend The Time To Recoup Overpayments To 10 Years.**
+    According to Congressional Quarterly, "The bill would take back the
+    \$400 million in unobligated balances in that program and give it to
+    the states for their own unemployment insurance 'program integrity'
+    activities, and extend the time states have to recoup overpayments
+    to 10 years." \[Congressional Quarterly,
+    [5/12/23](https://plus.cq.com/doc/btnews-7740390?7)\]
+
+-   **The Congressional Budget Office Estimated That The Bill Would
+    Decrease Deficits By A Net \$373 Million Over 10 Years.** According
+    to Congressional Quarterly, "The Congressional Budget Office
+    estimates the measure (HR 1163), approved by the Ways and Means
+    Committee in February, would lower deficits by a net \$373 million
+    over a decade. The White House threatened to veto the measure,
+    saying it could cripple efforts to fight fraud and identify theft."
+    \[Congressional Quarterly,
+    [5/12/23](https://plus.cq.com/doc/btnews-7740390?7)\]
+
+-   **The Bill Would Extend The Statute Of Limitations To Address
+    Overpayment Of Pandemic-Related Unemployment Benefits And Authorize
+    States To Keep Some Funds That Were Recovered.** According to
+    Congressional Quarterly, "The bill would extend the statute of
+    limitations for seeking overpayment of unemployment benefits tied to
+    the pandemic and allow states to keep a portion of funds that are
+    recovered from overpayments or fraudulent payments." \[Congressional
+    Quarterly, [5/10/23](https://plus.cq.com/doc/news-7738675?11)\]
+
+-   **The Biden Administration Threatened To Veto The Bill, Arguing It
+    Would Hinder Efforts To Combat Fraud By Rescinding \$2 Billion In
+    Labor Funding To Administer Unemployment Benefits.** According to
+    Congressional Quarterly, "The Biden administration issued a veto
+    threat Monday for the bill, arguing it would undermine efforts to
+    fight fraud by revoking \$2 billion in Labor Department funding to
+    administer unemployment benefits programs." \[Congressional
+    Quarterly, [5/10/23](https://plus.cq.com/doc/news-7738675?11)\]
+
+**2023: Fitzpatrick Effectively Voted For The Protecting Taxpayers And
+Victims Of Unemployment Fraud Act.** In May 2023, according to
+Congressional Quarterly, Fitzpatrick voted against the "motion to
+recommit the bill to the House Ways and Means Committee." The vote was
+on a motion to recommit. The House rejected the motion by a vote of 221
+to 210, thus the House voted on passage subsequently. \[House Vote 210,
+[5/11/23](http://clerk.house.gov/evs/2023/roll210.xml); Congressional
+Quarterly, [5/11/23](https://plus.cq.com/vote/2023/H/210?2);
+Congressional Actions, [H.R.
+1163](https://www.congress.gov/bill/118th-congress/house-bill/1163/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted For The Protecting Taxpayers And
+Victims Of Unemployment Fraud Act.** In May 2023, according to
+Congressional Quarterly, Fitzpatrick voted for the "adoption of the rule
+(H Res 383) that would that would provide for floor consideration of
+\[...\] the Protecting Taxpayers and Victims of Unemployment Fraud Act
+(HR 1163). The rule would provide for up to five hours of debate on the
+Secure the Border Act and up to one hour of debate on the Protecting
+Taxpayers and Victims of Unemployment Fraud Act. It would provide for
+automatic adoption of a Smith, R-Mo., manager's amendment to HR 1163
+that would direct the Treasury Department to use unobligated funds
+provided by previous pandemic relief legislation for administration and
+fraud prevention of unemployment programs to offset any loss in the
+amount of funds deposited in state unemployment funds as a result of the
+bill, subject to appropriations." The vote was on the adoption of the
+rule. The House adopted the rule by a vote of 215 to 209. \[House Vote
+207, [5/10/23](http://clerk.house.gov/evs/2023/roll207.xml);
+Congressional Quarterly,
+[5/10/23](https://plus.cq.com/vote/2023/H/207?3); Congressional Actions,
+[H.Res.
+383](https://www.congress.gov/bill/118th-congress/house-resolution/383/all-actions);
+Congressional Actions, [H.R.
+1163](https://www.congress.gov/bill/118th-congress/house-bill/1163/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted For The Protecting Taxpayers And
+Victims Of Unemployment Fraud Act.** In May 2023, according to
+Congressional Quarterly, Fitzpatrick voted for the "motion to order the
+previous question (thus ending debate and possibility of amendment) on
+the rule (H Res 383) that would that would provide for floor
+consideration of \[...\] the Protecting Taxpayers and Victims of
+Unemployment Fraud Act (HR 1163). The rule would provide for up to five
+hours of debate on the Secure the Border Act and up to one hour of
+debate on the Protecting Taxpayers and Victims of Unemployment Fraud
+Act. It would provide for automatic adoption of a Smith, R-Mo.,
+manager's amendment to HR 1163 that would direct the Treasury Department
+to use unobligated funds provided by previous pandemic relief
+legislation for administration and fraud prevention of unemployment
+programs to offset any loss in the amount of funds deposited in state
+unemployment funds as a result of the bill, subject to appropriations."
+The vote was on a motion to order the previous question. The House
+agreed to the motion by a vote of 215 to 211. \[House Vote 205,
+[5/10/23](http://clerk.house.gov/evs/2023/roll205.xml); Congressional
+Quarterly, [5/10/23](https://plus.cq.com/vote/2023/H/205?4);
+Congressional Actions, [H.Res.
+383](https://www.congress.gov/bill/118th-congress/house-resolution/383/all-actions);
+Congressional Actions, [H.R.
+1163](https://www.congress.gov/bill/118th-congress/house-bill/1163/all-actions)\]

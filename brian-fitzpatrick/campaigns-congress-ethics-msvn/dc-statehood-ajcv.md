@@ -1,0 +1,219 @@
+---
+title: D.C. Statehood
+description: 
+published: true
+date: 2025-09-22T20:22:33.790Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:22:29.193Z
+---
+
+# D.C. Statehood
+
+### Supporting D.C. Statehood
+
+**2021: Fitzpatrick Voted Against Granting Statehood To The District Of
+Columbia, Which Would Grant Governmental Representation In Congress,
+Allow Residents To Participate In Federal Elections, And Repeal The 23rd
+Amendment Of The Constitution.** In April 2021, Fitzpatrick voted
+against the Washington, D.C. Admission Act of 2021 which would,
+according to Congressional Quarterly, "provide for the establishment of
+most of the current District of Columbia as the 51st state in the Union,
+to be known as Washington, Douglass Commonwealth. It would require,
+within 30 days of enactment, an election for two senators and one
+representative for the state in Congress. It would then require the
+president to issue a proclamation announcing the election results, at
+which point the state would be admitted into the Union. The bill would
+define the territory and boundaries of a revised District of Columbia,
+which would remain under federal control \-- including the White House,
+Capitol building, Supreme Court, and federal office buildings located
+adjacent to the National Mall and Capitol. All other territory of the
+current district would be part of the new state. It would provide that
+district executive, legislative and judicial officers at the time of
+admission would serve in the respective offices of the state; the state
+would be considered the legal successor to the district in continued
+judicial proceedings; and the federal government would retain control of
+lands currently held for defense or Coast Guard purposes. It would
+prohibit federal law enforcement agencies from enforcing state laws
+without state authorization. It would also allow residents of the new
+federal district to vote in federal elections by absentee ballot in
+their last state of residence and provide for the repeal of the 23rd
+amendment to the Constitution, which granted District of Columbia
+residents the right to vote in presidential elections." The vote was on
+passage. The House passed the bill by a vote of 216-208. The Senate did
+not take substantive action on the bill. \[House Vote 132,
+[4/22/21](http://clerk.house.gov/evs/2021/roll132.xml); Congressional
+Quarterly, [4/22/21](https://plus.cq.com/vote/2021/H/132?9);
+Congressional Actions, [H.R.
+51](https://www.congress.gov/bill/117th-congress/house-bill/51/actions)\]
+
+-   **Statehood To D.C. "Would Shrink The Federal District To A Nearly
+    Two-Square Mile Federal Capital Enclave That Includes The National
+    Monuments" And All Other Federal Government Buildings, While The
+    Remaining Territory Would Become The 51st State Renamed Washington,
+    Douglass Commonwealth.** According to Congressional Quarterly, "The
+    Constitution requires that the seat of the federal government remain
+    independent of any state. Today, that includes the entirety of D.C.,
+    but the measure would shrink the federal district to a nearly
+    two-square-mile federal capital enclave that includes the national
+    monuments, the Capitol, the White House, the Supreme Court and other
+    nearby federal office buildings. The remaining portion would be
+    admitted to the union as the 51st state named Washington, Douglass
+    Commonwealth, after abolitionist and D.C. resident Frederick
+    Douglass." \[Congressional Quarterly,
+    [4/14/21](https://plus.cq.com/doc/committees-20210414460802?11)\]
+
+-   **D.C. Mayor Would Become Washington, Douglass Commonwealth's
+    Governor, "The District's Council Would Become The Legislative
+    Assembly," And The State Would Have To Elect Two Senators And One
+    Congressional Representative.** According to Congressional
+    Quarterly, "Under the bill, the mayor would become the governor, and
+    the District's council would become the legislative assembly. In
+    addition to the long-sought elections of two senators, it also would
+    authorize the election of a single representative." \[Congressional
+    Quarterly,
+    [4/14/21](https://plus.cq.com/doc/committees-20210414460802?11)\]
+
+**2021: Fitzpatrick Effectively Voted Against The Washington, D.C.
+Admission Act.** In April 2021, according to Congressional Quarterly,
+Fitzpatrick voted against the "adoption of the rule (H Res 330) that
+would provide for House floor consideration of \[...\] the Washington,
+D.C. Admission Act (HR 51). The rule would provide up to one hour of
+general debate on each bill." The vote was on the adoption of the rule.
+The House adopted the rule by a vote 214-207. \[House Vote 124,
+[4/20/21](http://clerk.house.gov/evs/2021/roll124.xml); Congressional
+Quarterly, [4/20/21](https://plus.cq.com/vote/2021/H/124?8);
+Congressional Actions,
+[H.R.](https://www.congress.gov/bill/117th-congress/house-bill/51/actions);
+Congressional Actions, [H.Res.
+330](https://www.congress.gov/bill/117th-congress/house-resolution/330/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against The Washington, D.C.
+Admission Act.** In April 2021, according to Congressional Quarterly,
+Fitzpatrick voted against the "motion to order the previous question
+(thus ending debate and possibility of amendment) on the rule (H Res
+330) that would provide for House floor consideration of \[...\] the
+Washington, D.C. Admission Act (HR 51). The rule would provide up to one
+hour of general debate on each bill." The vote was on a motion to order
+the previous question. The House agreed to the motion by a vote 216-206.
+\[House Vote 123,
+[4/20/21](http://clerk.house.gov/evs/2021/roll123.xml); Congressional
+Quarterly, [4/20/21](https://plus.cq.com/vote/2021/H/123?7);
+Congressional Actions,
+[H.R.](https://www.congress.gov/bill/117th-congress/house-bill/51/actions);
+Congressional Actions, [H.Res.
+330](https://www.congress.gov/bill/117th-congress/house-resolution/330/actions)\]
+
+**2020: Fitzpatrick Voted Against Establishing D.C. As A State.** In
+June 2020, Fitzpatrick voted against a bill that would, according to
+Congressional Quarterly, "provide for the establishment of most of the
+current District of Columbia as the 51st state in the Union, to be known
+as Washington, Douglass Commonwealth. It would require, within 30 days
+of enactment, an election for two senators and one representative for
+the state in Congress. It would then require the president to issue a
+proclamation announcing the election results, at which point the state
+would be admitted into the Union. The bill would define the territory
+and boundaries of a revised District of Columbia, which would remain
+under federal control; the district would include the White House,
+Capitol building, Supreme Court, and federal executive, legislative, and
+judicial office buildings located adjacent to the National Mall and
+Capitol. All other territory of the current district would be part of
+the new state. Under the bill\'s provisions, district executive,
+legislative and judicial officers at the time of admission would serve
+in the respective offices of the state; the state would be considered
+the legal successor to the district in continued judicial proceedings;
+and the federal government would retain control of lands currently held
+for defense or Coast Guard purposes. It would also provide for the
+repeal of the 23rd amendment to the Constitution, which granted District
+of Columbia residents the right to vote in presidential elections. It
+would allow residents of the new federal district to vote in federal
+elections by absentee ballot in their last state of residence" The vote
+was on passage. The House passed the bill by a vote of 232-180. \[House
+Vote 122, [6/26/20](http://clerk.house.gov/evs/2020/roll122.xml);
+Congressional Quarterly,
+[6/26/20](https://plus.cq.com/vote/2020/H/122?0); Congressional Actions,
+[H.R.51](https://www.congress.gov/bill/116th-congress/house-bill/51/all-actions?q=%7b%22search%22%3A%5B%22hr+51%22%5D%7d&s=1&r=1)\]
+
+-   **The Bill Established Washington, Douglass Commonwealth As The 51st
+    State With 2 Senators And A Voting Member In Congress.** According
+    to the New York Times, "The legislation \[...\] would establish a
+    51st state---Washington, Douglass Commonwealth, named in honor of
+    Frederick Douglass---and allow it two senators and a voting
+    representative in the House. The National Mall, the White House,
+    Capitol Hill and some other federal property would remain under
+    congressional jurisdiction, with the rest of the land becoming a new
+    state." \[New York Times,
+    [6/26/20](https://www.nytimes.com/2020/06/26/us/politics/dc-statehood-house-vote.html)\]
+
+-   **The Republican-Controlled Senate Refused To Take Up The Bill, And
+    The White House Opposed The Effort.** According to the Washington
+    Post, "The White House confirmed Thursday that it opposes statehood,
+    and Senate Majority Leader Mitch Mcconnell (R-KY.) has said he will
+    not bring the legislation to a vote in his Republican-controlled
+    chamber." \[Washington Post,
+    [6/26/20](https://www.washingtonpost.com/local/dc-politics/dc-statehood-vote/2020/06/25/c2ac1670-b6ee-11ea-a8da-693df3d7674a_story.html)\]
+
+-   **D.C. Statehood Was A "Civil Rights Litmus Test" For Democrats
+    Given That 46 Percent Of D.C.'s Population Is Black.** According to
+    the Washington Post, "D.C. statehood has become a civil rights
+    litmus test for the Democratic Party's left flank, particularly
+    because the city, once a majority-African American one --- and home
+    to historically black Howard University and a rich tradition of
+    black music from jazz to go-go --- still has a population that is 46
+    percent African American." \[Washington Post,
+    [6/26/20](https://www.washingtonpost.com/local/dc-politics/dc-statehood-vote/2020/06/25/c2ac1670-b6ee-11ea-a8da-693df3d7674a_story.html)\]
+
+-   **Republicans Argued That If Representation Was The Issue, D.C.
+    Should Be Absorbed Into Maryland.** According to the New York Times,
+    "Republicans have long opposed the move to give congressional
+    representation to the District of Columbia, where more than
+    three-quarters of voters are registered Democrats \[...\]
+    Republicans in the Senate \[...\] have rejected the idea, arguing
+    that if representation for its citizens was the sole issue, the
+    District of Columbia should simply be absorbed into Maryland,
+    another heavily Democratic state." \[New York Times,
+    [6/26/20](https://www.nytimes.com/2020/06/26/us/politics/dc-statehood-house-vote.html)\]
+
+-   **Republicans Opposed The Constitutional Merits And Whether D.C. Was
+    Economically Viable To Be A State.** According to the New York
+    Times, "Opponents questioned the constitutional merits, arguing that
+    the founding fathers intentionally did not establish the nation's
+    capital as a state. Others questioned whether the District of
+    Columbia was geographically and economically viable to be a state."
+    \[New York Times,
+    [6/26/20](https://www.nytimes.com/2020/06/26/us/politics/dc-statehood-house-vote.html)\]
+
+-   **The Recent Black Lives Matter Protests Highlighted Issues With
+    Congressional Control Over D.C.** According to the New York Times,
+    "When the administration flooded the streets of Washington with
+    National Guard forces elsewhere and troops in riot gear during
+    protests over the death of George Floyd in police custody, Ms.
+    Bowser had few options this month because of how much Congress
+    maintains over the District of Columbia's finances and laws." \[New
+    York Times,
+    [6/26/20](https://www.nytimes.com/2020/06/26/us/politics/dc-statehood-house-vote.html)\]
+
+**2019: Fitzpatrick Voted Against Supporting D.C. Statehood, As Part Of
+A Larger Anti-Corruption And Democracy Reform Bill.** In March 2019,
+Fitzpatrick voted against The 'For The People Act.' According to Rep.
+Eleanor Norton (D-DC), "The office of Congresswoman Eleanor Holmes
+Norton (D-DC) applauded the passage of H.R. 1, the For the People Act,
+in the U.S. House of Representatives today, marking the first time in
+American history either chamber of Congress has endorsed statehood for
+the District of Columbia. H.R. 1, a pro-democracy bill that includes
+numerous findings to expand democracy in the United States, contains
+extensive findings supporting statehood for D.C. This achievement builds
+on Norton's work to make D.C the 51st state and sets the stage for
+consideration of H.R. 51, the Washington, D.C. Admission Act." The
+overall was, also according to CBS News, "the most sweeping
+anti-corruption measure passed by the House of Representatives in a
+generation, by a vote of 234 to 193. The bill focuses on voting rights,
+campaign finance, and government ethics." The vote was on passage. The
+House passed the bill by a vote of 234 to 193. \[House Vote 118,
+[3/8/19](http://clerk.house.gov/evs/2019/roll118.xml); Press Release
+Eleanor Holmes Norton,
+[3/8/19](https://norton.house.gov/media-center/press-releases/norton-announces-historic-vote-on-hr-1-house-of-representatives-endorses);
+CBS News,
+[3/8/19](https://www.cbsnews.com/news/house-passes-hr-1-sweeping-anti-corruption-and-voting-rights-legislation-today-2019-03-08/);
+Congressional Actions, [H.R.
+1](https://www.congress.gov/bill/116th-congress/house-bill/1/all-actions)\]

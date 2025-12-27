@@ -1,0 +1,565 @@
+---
+title: Israel/Palestine
+description: 
+published: true
+date: 2025-09-22T21:04:13.633Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:04:08.311Z
+---
+
+# Israel/Palestine
+
+### Abraham Accords Special Envoy
+
+**2023: Fitzpatrick Voted To Create The Position Of Special Envoy For
+The Abraham Accords Within The State Department, Tasked With Encouraging
+Diplomatic Relations With Israel, Expanding Relationships Between Israel
+And Muslim Countries, And Supporting Integration Into Cooperative
+Regional Security Efforts.** In June 2023, according to Congressional
+Quarterly, Fitzpatrick voted for the Special Envoy for the Abraham
+Accords Act, which would "create the position of special envoy for the
+Abraham Accords within the State Department. It would specify that the
+envoy\'s duties would include encouraging countries to establish
+diplomatic relations with Israel, expanding existing relationships
+between Israel and Muslim-majority countries, and providing diplomatic
+support for Israel's integration into cooperative regional security
+efforts. The bill would specify that the special envoy would have the
+rank of ambassador and require Senate confirmation. It would require the
+special envoy, within one year of Senate confirmation and annually
+thereafter, to submit to Congress an unclassified report describing all
+U.S. efforts to expand the Abraham Accords." The vote was on passage.
+The House passed the bill by a vote of 413 to 13, thus the bill was sent
+to the Senate. \[House Vote 251,
+[6/13/23](http://clerk.house.gov/evs/2023/roll251.xml); Congressional
+Quarterly, [6/13/23](https://plus.cq.com/vote/2023/H/251?4);
+Congressional Actions, [H.R.
+3099](https://www.congress.gov/bill/118th-congress/house-bill/3099/all-actions)\]
+
+### Aid To Israel
+
+**2024: Fitzpatrick Voted To Require The Biden Administration To Send
+Withheld Aid And Weapons.** In May 2024, Fitzpatrick voted for ,
+according to Congressional Quarterly, "the bill that would prohibit the
+use of funds to withhold military aid to Israel, and require the Biden
+administration to certify to Congress that any withheld aid has been
+sent. It also would condemn the Biden administration\'s decision to
+pause certain arms transfers to Israel. It would withhold funding for
+the 'Operation and Maintenance, Defense-Wide' account within the Office
+of the Secretary of Defense, for the 'Diplomatic Programs' account
+within the Office of the Secretary of State, and for the National
+Security Council and Homeland Security Council in the White House until
+the secretaries of Defense and State and the president have certified to
+the congressional appropriations committees that the withheld funds have
+been sent to Israel. It also would prohibit the use of funds to pay for
+the salaries or expenses of any Defense or State department official who
+takes any action to prevent the provision of such defense articles or
+services to Israel." The House passed the bill by a vote 224 to 187.
+\[House Vote 217,
+[5/16/24](http://clerk.house.gov/evs/2024/roll217.xml); Congressional
+Quarterly, [5/16/24](https://plus.cq.com/vote/2024/H/217?11);
+Congressional Actions, [H.R.
+8369](http://www.congress.gov/bill/118th-congress/house-bill/8369/all-actions)\]
+
+### Boycott, Divest, Or Sanction Israel Movement
+
+**2019: Fitzpatrick Voted For Opposing All BDS Activities Against
+Israel.** In July 2019, Fitzpatrick voted for a resolution that would,
+according to Congressional Quarterly, "state that the House of
+Representatives opposes all efforts to 'delegitimize' Israel, including
+the global boycott, divestment, and sanctions movement targeting Israel.
+It would express support for a negotiated solution to the
+Israeli-Palestinian conflict, state that the BDS movement undermines the
+possibility for such a solution, and encourage ongoing U.S.-Israel
+cooperation on civilian science and technology initiatives to counter
+the effects of the movement." The vote was on a motion to agree to the
+resolution. The House agreed to the resolution by a vote of 398-17.
+\[House Vote 497,
+[7/23/19](http://clerk.house.gov/evs/2019/roll497.xml); Congressional
+Quarterly, [7/23/19](https://plus.cq.com/vote/2019/H/497?14);
+Congressional Actions,
+[H.Res.246](https://www.congress.gov/bill/116th-congress/house-resolution/246/all-actions?q=%7b%22search%22:%5b%22h+res+246%22%5d%7d&s=1&r=1&KWICView=false)\]
+
+### Condemning Pro-Palestine Slogan
+
+**2024: Fitzpatrick Voted To Condemn A Pro-Palestine Slogan As
+Anti-Semitic.** In April 2024, Fitzpatrick voted for , according to
+Congressional Quarterly, "the resolution (H Res 883) that would express
+a sense of the House of Representatives that the slogan, 'from the river
+to the sea, Palestine will be free'' is antisemitic and its use must be
+condemned." The vote was on passage. The House passed the bill by a vote
+of 377 to 44. \[House Vote 134,
+[4/16/24](http://clerk.house.gov/evs/2024/roll134.xml); Congressional
+Quarterly, [4/16/24](https://plus.cq.com/vote/2024/H/134?6);
+Congressional Actions, [H.Res.
+883](https://www.congress.gov/bill/118th-congress/house-resolution/883/all-actions)\]
+
+### Condemning Support Of Hamas, Hezbollah And Other Terrorist Organizations
+
+**2023: Fitzpatrick Voted To Condemn Support Of Hamas, Hezbollah, And
+Other Terrorist Organizations At Institutions Of Higher Education.** In
+November 2023, according to Congressional Quarterly, Fitzpatrick voted
+for the "motion to suspend the rules and agree to the resolution, as
+amended, that would state that the House of Representatives condemns the
+support of Hamas, Hezbollah and other terrorist organizations at higher
+education institutions. It would urge enforcement of federal civil
+rights laws to protect Jewish students from antisemitism. It would also
+call on campus administrators to condemn all forms of antisemitism on
+college campuses and ensure Jewish faculty, students, and guests can
+exercise the same free speech rights as are guaranteed to all others
+without fear of intimidation." The vote was on the adoption of the
+resolution. The House agreed to the resolution by a vote of 396 to 23.
+\[House Vote 578,
+[11/2/23](http://clerk.house.gov/evs/2023/roll578.xml); Congressional
+Quarterly, [11/2/23](https://plus.cq.com/vote/2023/H/578?42);
+Congressional Actions, [H.Res.
+798](https://www.congress.gov/bill/118th-congress/house-resolution/798/all-actions)\]
+
+### Funding
+
+**2021: Fitzpatrick Voted To Authorize \$300 Million To Israel For
+Cooperative Programs.** In December 2021, Fitzpatrick voted for the
+National Defense Authorization Act For FY 2022 which would, according to
+Congressional Quarterly, "authorize \$300 million for cooperative
+programs with Israel; \$345 million for a cooperative threat reduction
+program assisting former Soviet Union countries; and \$300 million in
+security assistance to Ukraine." The vote was on passage. The House
+passed the bill by a vote of 363-70. The bill was sent to President
+Biden and it ultimately became law. \[House Vote 405,
+[12/7/21](http://clerk.house.gov/evs/2021/roll405.xml); Congressional
+Quarterly, [12/7/21](https://plus.cq.com/vote/2021/H/405?4);
+Congressional Actions, [S.
+1605](https://www.congress.gov/bill/117th-congress/senate-bill/1605/actions)\]
+
+### Hostages
+
+**2023: Fitzpatrick Voted To Demand That Hamas Release Hostages Taken
+During October 2023.** In November 2023, according to Congressional
+Quarterly, Fitzpatrick voted for the "motion to suspend the rules and
+pass the bill that would state that the House demands that Hamas
+immediately release all hostages taken during the October 2023 attacks
+on Israel and return them to safety. It would condemn Hamas for
+attacking Israel, taking hostages and making threats against hostages.
+It would also recognize that taking hostages is a violation of
+international humanitarian law and would express sympathy to hostages,
+wounded, deceased and their families." The vote was on passage. The
+House passed the resolution by a vote 414 to 0. \[House Vote 676,
+[11/28/23](http://clerk.house.gov/evs/2023/roll676.xml); Congressional
+Quarterly, [11/28/23](https://plus.cq.com/vote/2023/H/676?24);
+Congressional Actions, H.Res. 793\]
+
+### Humanitarian Aid To Gaza
+
+**2024: Fitzpatrick Voted Against Funding The Joint Logistics
+Over-The-Shore Capability In Gaza.** In June 2024, Fitzpatrick voted for
+, according to Congressional Quarterly, "amendment no. 72 that would
+prohibit the use of funds provided by the bill to support the Defense
+Department\'s Joint Logistics Over-the-Shore capability in the Gaza
+Strip." The vote was on the amendment. The underlying legislation was
+the FY 2025 State-Foreign Operations Appropriations. The House adopted
+the amendment by a vote of 209 to 200. \[House Vote 321,
+[6/27/24](http://clerk.house.gov/evs/2024/roll321.xml); Congressional
+Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/321?11);
+Congressional Actions,
+[H.Amdt.1065](https://www.congress.gov/amendment/118th-congress/house-amendment/1065/actions);
+Congressional Actions, [H.R.
+8771](http://www.congress.gov/bill/118th-congress/house-bill/8771/all-actions)\]
+
+-   **The Joint Logistics Over-The-Shore Capability Refers To The Pier
+    In Gaze For Humanitarian Aid.** According to the Navy Times, "Since
+    President Joe Biden announced during his State of the Union address
+    that the U.S. military would build a humanitarian aid pier on the
+    Gaza Strip, and that 'no U.S. boots will be on the ground' in Gaza,
+    Keith Robbins and other retired military logistics officers have
+    been watching. \[...\] The pier is essentially an erector set-like
+    assembly of metal pieces built at sea and sitting close to the water
+    that can assume a variety of lengths depending on the mission
+    requirements. \[...\] The capability, known as Joint Logistics
+    Over-the-Shore, or JLOTS, will be used to help bring aid to
+    civilians in Gaza as Israeli operations to destroy Hamas continue in
+    the wake of the Palestinian militant group's Oct. 7 attack on
+    Israel, and is expected to cost at least \$320 million." \[Navy
+    Times,
+    [5/16/24](https://www.navytimes.com/news/your-navy/2024/05/16/militarys-novel-floating-pier-arrives-in-gaza-amid-security-concerns/)\]
+
+### Iron Dome Funding
+
+**2021: Fitzpatrick Voted For Providing \$1 Billion In Assistance To The
+Israeli Government For The Procurement Of The Iron Dome Defense System
+Through September 30th, 2024.** In September 2021, Fitzpatrick voted for
+the Iron Dome Supplemental Appropriations Act, 2022 which would,
+according to Congressional Quarterly, "provide \$1 billion in emergency
+funding for the Defense Department to provide assistance to the
+government of Israel for the procurement of the Iron Dome defense system
+to counter short-range rocket threats. The funding would remain
+available through Sept. 30, 2024." The vote was on passage. The House
+passed the bill by a vote of 420-9. \[House Vote 275,
+[9/23/21](http://clerk.house.gov/evs/2021/roll275.xml); Congressional
+Quarterly, [9/23/21](https://plus.cq.com/vote/2021/H/275?17);
+Congressional Actions, [H.R.
+5323](https://www.congress.gov/bill/117th-congress/house-bill/5323/actions)\]
+
+### Military Assistance
+
+**2023: Fitzpatrick Voted Fo The FY 2024 Israel Security Supplemental
+Appropriations Act.** In November 2023, according to Congressional
+Quarterly, Fitzpatrick voted for "passage of the bill that would provide
+\$14.3 billion in security assistance for fiscal 2024 for Israel to
+defend itself in its war with Hamas. It would provide \$9.2 billion for
+the Defense Department to replenish Israeli weapons stocks; \$1.35
+billion for defense research and development, including \$1.2 billion
+for continued work on Israel\'s 'Iron Beam' missile defense system; and
+\$3.5 billion for State Department foreign military financing. The bill
+would also provide approximately \$150 million to enhance security at
+U.S. diplomatic facilities in Israel and other nations in the Middle
+East and provide \$50 million for emergency evacuation of U.S.
+government personnel and citizens in Israel, as well as surrounding
+countries impacted by the war. It would offset funding by rescinding an
+equal amount of IRS funding provided in 2022 under the Inflation
+Reduction Act (PL 117-169)." The vote was on passage. The House rejected
+the amendment by a vote of 226 to 196. \[House Vote 577,
+[11/2/23](http://clerk.house.gov/evs/2023/roll577.xml); Congressional
+Quarterly, [11/2/23](https://plus.cq.com/vote/2023/H/577?37);
+Congressional Actions, [H.R.
+6126](https://www.congress.gov/bill/118th-congress/house-bill/6126/all-actions)\]
+
+-   **The Bill Included A Provision To Cut Tax Enforcement Funding.**
+    According to Congressional Quarterly, "the House on Thursday passed,
+    226-196, a \$14.3 billion supplemental funding bill for Israel that
+    split lawmakers largely along party lines over its inclusion of an
+    equal cut to tax enforcement funding at the Internal Revenue
+    Service." \[Congressional Quarterly,
+    [11/2/23](https://plus.cq.com/doc/news-7871046?41)\]
+
+**2019: Fitzpatrick Effectively Voted For The FY 2020 National Defense
+Authorization Act (NDAA), Which Authorized \$500 Million For Cooperative
+Programs With Israel.** In December 2019, Fitzpatrick effectively voted
+for the FY 2020 NDAA. According to Congressional Quarterly, "The
+agreement authorizes the president's request of \$500 million for
+cooperative programs with Israel and authorizes the Defense secretary to
+carry out joint research, development, test, and evaluation to establish
+capabilities for countering unmanned aerial systems that threaten the
+United States or Israel." The vote was on adoption of the conference
+report to accompany the bill. The House adopted the conference report by
+a vote of 377-48. The bill was later passed by the Senate and signed
+into law by the President. \[House Vote 672,
+[12/11/19](http://clerk.house.gov/evs/2019/roll672.xml); Congressional
+Quarterly,
+[12/17/19](http://www.cq.com/doc/har-5790600?4&search=CSh9Mp8f);
+Congressional Actions,
+[S.1790](https://www.congress.gov/bill/116th-congress/senate-bill/1790/all-actions?q=%7b%22search%22%3A%5B%22s+1790%22%5D%7d&s=1&r=1)\]
+
+**2019: Fitzpatrick Voted For An Omnibus Spending Proposal Preventing
+Another Government Shutdown And Providing \$3.3 Billion For Military
+Assistance For Israel.** In February 2019, Fitzpatrick voted for the FY
+2019 consolidated appropriations bill. According to Congressional
+Quarterly, "This Conference Summary describes the agreement on H J Res
+31, Consolidated Appropriations Act for FY 2019, which provides
+detailed, full-year funding for all seven remaining FY 2019 spending
+bills ---thereby completing the FY 2019 appropriations process. The
+centerpiece, Homeland Security, provides \$1.375 billion for new and
+replacement barriers along the U.S. border with Mexico, including 55
+miles of new fencing, along with an increase of \$1.5 billion in other
+border security funding --- such as for new technology at ports of entry
+and additional Customs officers. Outside of the Homeland bill, it
+includes another \$1.6 billion for border security, as well as a 1.9%
+pay increase for federal civilian employees." The vote was on passage.
+The House passed the bill by a vote of 300 to 128. The bill was later
+signed into law by the president. \[House Vote 87,
+[2/14/19](http://clerk.house.gov/evs/2019/roll087.xml); Congressional
+Quarterly, [2/14/19](http://www.cq.com/doc/har-5463527?7); Congressional
+Actions, [H. J. Res.
+31](https://www.congress.gov/bill/116th-congress/house-joint-resolution/31/all-actions)\]
+
+-   **The Bill Appropriated \$3.3 Billion For Military Assistance For
+    Israel.** According to Congressional Quarterly, "The agreement
+    provides \$3.3 billion in military assistance for Israel. All of the
+    funds are in the form of military financing grants through the
+    Foreign Military Financing program, and would be provided to Israel
+    as cash grants within 30 days of enactment. Of the total, \$815
+    million could be used for purchases or research and development in
+    Israel; the remainder must be spent on U.S. goods and services. The
+    measure provides no economic support funds. It expresses the sense
+    of Congress that Arab League countries should immediately end the
+    boycott against Israel and its trading partners. It also calls on
+    the president to consider a country's participation in the boycott
+    when determining whether to sell U.S. weapons to such nations."
+    \[Congressional Quarterly,
+    [2/14/19](http://www.cq.com/doc/har-5463527?7)\]
+
+### Palestinian Refugees
+
+**2024: Fitzpatrick Was Absent During A Vote On Prohibiting The Use Of
+FY 2025 Defense Funds To Transport Palestinian Refugees To The United
+States.** In June 2024, Fitzpatrick missed a vote on, according to
+Congressional Quarterly, "amendment no. 8 that would prohibit the use of
+funds authorized by the bill or otherwise made available to the Defense
+Department for the operation of any DOD aircraft to transport
+Palestinian refugees to the United States." The vote was on the
+amendment. The underlying legislation was the FY 2025 National Defense
+Authorization Act. The House adopted the amendment by a vote of 204 to
+199. \[House Vote 253,
+[6/12/24](http://clerk.house.gov/evs/2024/roll253.xml); Congressional
+Quarterly, [6/12/24](https://plus.cq.com/vote/2024/H/253?11);
+Congressional Actions,
+[H.Amdt.963](https://www.congress.gov/amendment/118th-congress/house-amendment/963/actions?s=a&r=34);
+Congressional Actions, [H.R.
+8070](http://www.congress.gov/bill/118th-congress/house-bill/8070/all-actions)\]
+
+### Product Labeling Rules
+
+**2024: Fitzpatrick Voted To Require All Products Made In Israel, Gaza,
+Or The West Bank To Be Labeled As Such.** In September 2024, Fitzpatrick
+voted for , according to Congressional Quarterly, "the bill that would
+codify a 2020 U.S. Customs and Border Protection notice which provides
+instructions for the country of origin labeling of goods made in Israel,
+Gaza and the West Bank. The notice would require goods made in parts of
+the West Bank under Israeli control to be labeled 'Made in Israel' or
+with a similar phrase. It also would require products to also be labeled
+as a 'Product of West Bank' or a 'Product of Gaza' when appropriate. It
+also would ban the use of 'West Bank/Gaza' to label goods. The bill also
+would prohibit the State Department or the CBP from using federal funds
+to reverse or change the rule." The vote was on passage. The House
+passed the bill by a vote of 231 to 189. \[House Vote 428,
+[9/18/24](http://clerk.house.gov/evs/2024/roll428.xml); Congressional
+Quarterly, [9/18/24](https://plus.cq.com/vote/2024/H/428?4);
+Congressional Actions, [H.R.
+5179](https://www.congress.gov/bill/118th-congress/house-bill/5179/all-actions)\]
+
+### Refugees
+
+**2024: Fitzpatrick Voted To Prohibit Funding For A Deferred Departure
+Program For Palestinian Refugees.** In June 2024, Fitzpatrick voted for
+according to Congressional Quarterly, "amendment no. 45 that would
+prohibit the use of funds in the bill to administer, implement or
+enforce the 2024 'Memorandum on the Deferred Enforced Departure for
+Certain Palestinians' issued by the president." The adopted was on the
+amendment. The underlying legislation was the FY 2025 Homeland Security
+Appropriations. The House rejected the amendment by a vote of 204 to
+203. \[House Vote 291,
+[6/26/24](http://clerk.house.gov/evs/2024/roll291.xml); Congressional
+Quarterly, [6/26/24](https://plus.cq.com/vote/2024/H/291?11);
+Congressional Actions,
+[H.Amdt.1018](https://www.congress.gov/amendment/118th-congress/house-amendment/1018/actions?s=a&r=29);
+Congressional Actions, [H.R.
+8752](http://www.congress.gov/bill/118th-congress/house-bill/8752/all-actions)\]
+
+**2024: Fitzpatrick Voted To Prohibit Funding For A Deferred Departure
+Program For Palestinian Refugees.** In June 2024, Fitzpatrick voted for
+according to Congressional Quarterly, "amendment no. 45 that would
+prohibit the use of funds in the bill to administer, implement or
+enforce the 2024 'Memorandum on the Deferred Enforced Departure for
+Certain Palestinians' issued by the president." The vote was on the
+amendment. The underlying legislation was the FY 2025 Homeland security
+Appropriations. The House rejected the amendment by a vote of 206 to
+208. \[House Vote 290,
+[6/26/24](http://clerk.house.gov/evs/2024/roll290.xml); Congressional
+Quarterly, [6/26/24](https://plus.cq.com/vote/2024/H/290?11);
+Congressional Actions,
+[H.Amdt.1018](https://www.congress.gov/amendment/118th-congress/house-amendment/1018/actions?s=a&r=29);
+Congressional Actions, [H.R.
+8752](http://www.congress.gov/bill/118th-congress/house-bill/8752/all-actions)\]
+
+### Right To Exist
+
+**2023: Fitzpatrick Voted To Reaffirm Israel's Right To Exist.** In
+November 2023, according to Congressional Quarterly, Fitzpatrick voted
+for the "motion to suspend the rules and pass the bill that would state
+that the House reaffirms the State of Israel\'s right to exist. It would
+also recognize that denying Israel's right to exist is a form of
+antisemitism, reject calls for Israel\'s destruction and the elimination
+of the only Jewish State, and condemn the Hamas-led terrorist attack on
+Israel." The vote was on passage. The House passed the resolution by a
+vote of 412 to 1. \[House Vote 677,
+[11/28/23](http://clerk.house.gov/evs/2023/roll677.xml); Congressional
+Quarterly, [11/28/23](https://plus.cq.com/vote/2023/H/677?27);
+Congressional Actions, [H.Res.
+888](https://www.congress.gov/bill/118th-congress/house-resolution/888/all-actions?q=%7b%22search%22%3A%22hres+888%22%7d&s=2&r=1)\]
+
+### Statement Of Support
+
+**2023: Fitzpatrick Voted To Express That Israel Is Not Racist Or An
+Apartheid State And Voted Explicitly Support Israel.** In July 2023,
+according to Congressional Quarterly, Fitzpatrick voted for a resolution
+that would "express the sense of Congress that Israel is not a racist or
+apartheid state. It would also state that Congress rejects antisemitism
+and xenophobia and that the U.S. will always be a staunch supporter of
+Israel." The vote was on passage. The House passed the resolution by a
+vote of 412 to 9. \[House Vote 338,
+[7/18/23](http://clerk.house.gov/evs/2023/roll338.xml); Congressional
+Quarterly, [7/18/23](https://plus.cq.com/vote/2023/H/338?9);
+Congressional Actions, [H.Con.Res.
+57](https://www.congress.gov/bill/118th-congress/house-concurrent-resolution/57/all-actions)\]
+
+-   **The Resolution Was Introduced In Response To Comments Made By
+    Congresswoman Pramila Jayapal (D), Which Accused Israel Of Being A
+    Racist State.** According to Congressional Quarterly, "The
+    resolution was introduced on Monday by Rep. August Pfluger, R-Texas,
+    in response to weekend comments made --- and partially retracted ---
+    by the chair of the Congressional Progressive Caucus, Pramila
+    Jayapal, D-Wash., who called Israel a 'racist state' at a conference
+    of progressive political activists. Jayapal voted in favor of the
+    resolution on Tuesday." \[Congressional Quarterly,
+    [7/19/23](https://plus.cq.com/doc/news-7797622?2)\]
+
+-   **Several International Human Rights Organizations Concluded That
+    Worsening Living Conditions And Rights In "Palestinian Territories
+    Have Come To Constitute Apartheid."** According to Congressional
+    Quarterly, "Major international human rights organizations such as
+    Amnesty International and Human Rights Watch as well as Israel's
+    leading human rights group, B'Tselem, have concluded the
+    deteriorating living conditions and rights situation in the
+    Palestinian territories have come to constitute apartheid. Still,
+    the use of the word 'apartheid' to characterize the Israeli
+    government's treatment of the Palestinians remains deeply toxic on
+    Capitol Hill." \[Congressional Quarterly,
+    [7/19/23](https://plus.cq.com/doc/news-7797622?2)\]
+
+-   **Israel Policies Included Major Expansions In The West Bank, Raids
+    And Air Strikes By The Israeli Military, Heightened Attacks By
+    Ultranationalist Israelis Against Palestinians, And The Gaza Strip's
+    Blockade Since 2007.** According to Congressional Quarterly, "The
+    Israeli policies include major settlement expansions in the West
+    Bank, raids and air strikes by the Israeli military that result in
+    Palestinian civilian casualties, increasing attacks by
+    ultranationalist Israeli settlers on Palestinians, and the blockade
+    since 2007 of the Gaza Strip." \[Congressional Quarterly,
+    [7/19/23](https://plus.cq.com/doc/news-7797622?2)\]
+
+### Strengthening Normalization Relations Between Israel And Neighbors
+
+**2022: Fitzpatrick Voted To Require The State Department To Develop A
+Strategy To Strengthen Normalization And Encourage Normalization Between
+Israel And Its Neighboring States.** In March 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the first portion of the
+Fiscal 2022 Omnibus Appropriations, which would "require the State
+Department to develop a strategy and regularly report to Congress on its
+efforts to strengthen normalization agreements and promote normalization
+of relations between Israel and its neighboring states." The vote was on
+the motion to concur in the Senate amendment with a House amendment. The
+bill was divided and this vote was the first portion of the bill. The
+House concurred with the Senate by a vote of 361-69. After resolving
+differences, the bill was sent to the President and became law. \[House
+Vote 65, [3/9/22](http://clerk.house.gov/evs/2022/roll065.xml);
+Congressional Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/65?3);
+Congressional Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **The Bill Required The State Department To Create A Strategy To
+    Strengthen Normalization Agreements Between Israel And Arab Neighbor
+    States To Support Economic And Security Cooperation, Encourage A
+    Two-State Solution And Combat Antisemitism.** According to
+    Congressional Quarterly, "The measure requires the State Department,
+    within 90 days of enactment, to submit to Congress a strategy to
+    expand and strengthen normalization agreements between Israel and
+    its Arab neighbor states that help promote economic and security
+    cooperation, promote a negotiated two-state solution to the
+    Israeli-Palestinian conflict, and combat antisemitism."
+    \[Congressional Quarterly,
+    [3/9/22](https://plus.cq.com/doc/har-6475461?1)\]
+
+-   **The Strategy Must Incorporate Opportunities To Encourage Bilateral
+    And Multilateral Cooperation Between Israel, Arab States And Other
+    Nations, The Likelihood Of Normalizing Relations And How The
+    Agreements With Israel Could Advance Peace Between Israelis And
+    Palestinians.** According to Congressional Quarterly, "The strategy
+    must include assessments of opportunities to promote bilateral and
+    multilateral cooperation between Israel, Arab states, and other
+    relevant countries; the likelihood of additional Arab and other
+    relevant countries to normalize relations with Israel; and how
+    normalization agreements with Israel can advanced prospects for
+    peace between Israelis and Palestinians. It must also include a
+    description of how the U.S. government can encourage normalization,
+    economic development, and people-to-people programming."
+    \[Congressional Quarterly,
+    [3/9/22](https://plus.cq.com/doc/har-6475461?1)\]
+
+### Supporting U.S.-Israeli Cooperation
+
+**2023: Fitzpatrick Voted To Encourage The U.S. And Israel To Continue
+To Expand Bilateral Cooperation And Support Security Assistance To
+Israel .** In April 2023, according to Congressional Quarterly,
+Fitzpatrick voted for a resolution that would "state that the House of
+Representatives encourages the United States and Israel to continue to
+'deepen and expand' bilateral cooperation across economic, security and
+civilian issues. It would encourage the expansion and strengthening of
+the 2020 Abraham Accords to urge other nations to normalize relations
+with Israel and 'ensure that existing agreements reap tangible security
+and economic benefits.' It would also express continued support for
+security assistance to Israel as outlined in a 2016 U.S.-Israel
+memorandum of understanding related to military and security assistance
+to support Israeli self-defense and international engagement aligned
+with the U.S.-Israeli partnership." The vote was on passage. The House
+adopted the resolution by a vote of 401 to 19. \[House Vote 194,
+[4/25/23](http://clerk.house.gov/evs/2023/roll194.xml); Congressional
+Quarterly, [4/25/23](https://plus.cq.com/vote/2023/H/194?8);
+Congressional Actions, [H.Res.
+311](https://www.congress.gov/bill/118th-congress/house-resolution/311/all-actions)\]
+
+### Taylor Force Act
+
+**2018: Fitzpatrick Voted For The \$1.3 Trillion FY 2018 Omnibus
+Spending Deal Which Raised Spending By \$138 Billion Over FY 2017
+Levels, Including Legislation Limiting Economic Assistance To The
+Palestinian Authority Until It Ceases To Support Convicted Terrorists
+And Their Families.** In March 2018, Fitzpatrick voted for the FY 2018
+Omnibus spending bill. According to Congressional Quarterly, "Combined,
+the spending measures would provide about \$1.3 trillion in
+discretionary spending, with \$1.2 trillion subject to discretionary
+spending caps, and \$78.1 billion designated as Overseas Contingency
+Operations funds. The measure\'s spending levels are consistent with the
+increased defense and non-defense budget caps set by the two-year budget
+deal agreed to last month. That agreement increased the FY 2018 defense
+cap by \$80 billion and the non-defense cap by \$63 billion. Given that
+the previous caps were set to reduce overall discretionary spending by
+\$5 billion, the net increase provided by the omnibus is \$138 billion
+over the FY 2017 level." The vote was on the motion to concur in the
+Senate Amendment with an Amendment. The House agreed to the motion,
+thereby passing the bill, by a vote of 256 to 167. The Senate later
+agreed to the legislation, sending it to the president, who signed it
+into law. \[House Vote 127,
+[3/22/18](http://clerk.house.gov/evs/2018/roll127.xml); Congressional
+Quarterly, [3/22/18](http://www.cq.com/doc/har-5287294?5); Congressional
+Actions, [H.R.
+1625](https://www.congress.gov/bill/115th-congress/house-bill/1625/all-actions)\]
+
+-   **The Omnibus Included The Taylor Force Act, Which Limited Economic
+    Assistance To The Palestinian Authority Until It Stops Financial
+    Support For Convicted Terrorists And Their Families.** According to
+    the Washington Post, "Included in the spending bill is the Taylor
+    Force Act. Named after an American who was killed by a Palestinian
+    in 2016, the measure curtails certain economic assistance to the
+    Palestinian Authority until it stops financially supporting
+    convicted terrorists and their families. It unanimously passed the
+    House last year." \[Washington Post,
+    [3/22/18](https://www.washingtonpost.com/news/powerpost/wp/2018/03/22/heres-what-congress-is-stuffing-into-its-1-3-trillion-spending-bill/?utm_term=.51975194623a)\]
+
+### U.N. Resolution On Israeli Settlements
+
+**2017: Fitzpatrick Voted For A Resolution Criticizing The United
+Nations Security Council For Condemning Israeli's Settlement
+Construction In The West Bank And East Jerusalem.** In January 2017,
+Fitzpatrick voted for a resolution responding to the UN Security
+Council's December 2016 resolution condemning Israel. According to
+Congressional Quarterly, "Congress is seeking to punish the United
+Nations and the Palestinian Authority for the U.N. Security Council vote
+last month condemning Israel\'s settlement construction in the occupied
+West Bank and East Jerusalem. On Thursday, the House is expected to vote
+on a bipartisan resolution (H Res 11) that criticizes the Security
+Council vote and the Obama administration's decision not to use its veto
+power to kill the measure." The vote was on the resolution. The House
+agreed to the resolution by a vote of 342 to 80. \[House Vote 11,
+[1/5/17](http://clerk.house.gov/evs/2017/roll011.xml); Congressional
+Quarterly, [1/4/17](http://www.cq.com/doc/news-5012452?17);
+Congressional Actions, [H. Res.
+11](https://www.congress.gov/bill/115th-congress/house-resolution/11/all-actions)\]
+
+-   **In December 2016, The Obama Administration Withheld Vetoing The
+    Resolution.** According to Congressional Quarterly, "On Dec. 23, the
+    Obama administration for the first and likely last time abstained
+    from voting on a Security Council resolution critical of Israel.
+    Previous U.S. presidents have supported or abstained from voting on
+    dozens of council measures that to varying degrees were critical of
+    Israeli actions, according to a list of resolutions provided by the
+    State Department." \[Congressional Quarterly,
+    [1/4/17](http://www.cq.com/doc/news-5012452?17)\]

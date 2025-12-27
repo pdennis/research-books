@@ -1,0 +1,33 @@
+---
+title: Chris Carr On Georgia's Racketeer Influenced And Corrupt Organizations Act Law
+description: 
+published: true
+date: 2025-12-22T16:53:35.817Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-17T16:03:09.852Z
+---
+
+## Overview
+
+In 2023, Carr filed [the largest Racketeer Influenced and Corrupt Organizations Act (RICO) case “against protesters in U.S. history”](https://apnews.com/article/atlanta-cop-city-rico-charges-61-9d0928ca44c5ddc931cd640a8805664a) after activists protested the construction of a police training facility on Atlanta public forest land.
+
+Carr filed the charges against 61 protesters who were concerned about the ecological impacts of the deforestation required to build one of [“the largest police-training centers in the country,”](https://dissentmagazine.org/article/the-criminalization-of-solidarity-the-stop-cop-city-prosecutions/) which earned it the nickname “Cop City.” Carr claimed the protesters were members of an [“anarchist, anti-police, and anti-business extremist organization.”](https://www.cnn.com/2023/09/06/us/cop-city-protesters-indicted-rico) 
+
+In 2025, a Georgia judge [tossed the racketeering charges](https://apnews.com/article/atlanta-cop-city-rico-charges-61-9d0928ca44c5ddc931cd640a8805664a) after determining Carr lacked the authority to secure the indictments under Georgia’s RICO law [without the governor’s permission.](https://www.fox5atlanta.com/news/jude-says-he-will-toss-stop-cop-city-rico-charges) 
+
+## Carr Filed Racketeer Influenced And Corrupt Organizations Act (RICO) Charges Against 61 Protesters Without Having The Authority To Do So Under Georgia’s RICO Law
+
+### Carr Filed “The Largest Criminal Racketeering Case Ever Filed Against Protesters In U.S. History” Against 61 “Cop City” Protesters 
+
+**September 2023: Carr Charged 61 Protesters With Violation Of The Racketeer Influenced And Corrupt Organizations Act, Claiming They Were Members Of An “Anarchist, Anti-Police, And Anti-Business Extremist Organization.”** According to CNN, “More than 60 people have been named in a state RICO indictment filed in connection with the yearslong campaign by protesters in Georgia to thwart construction of the Atlanta Public Safety Training Center – dubbed ‘Cop City’ by detractors. ‘All 61 defendants have been charged with Violation of the Racketeer Influenced and Corrupt Organizations Act,’ Republican Attorney General Chris Carr’s office said in a statement Tuesday. ‘Several of the defendants are also facing separate charges of Domestic Terrorism, Attempted Arson in the First Degree, and Money Laundering.’ \[…\] Of the 61 defendants indicted August 28, 13 are from Georgia, the attorney general’s office said. It said all defendants are members of Defend the Atlanta Forest, Carr said, describing it as an ‘anarchist, anti-police, and anti-business extremist organization.’” \[CNN, [9/6/23](https://www.cnn.com/2023/09/06/us/cop-city-protesters-indicted-rico)\]
+
+-   **The Individuals Were Protesting The Construction Of The Atlanta Public Safety Training Center, Nicknamed “Cop City,” Which Was Set To Be One Of “The Largest Police-Training Centers In The Country.”** According to Dissent Magazine, “The following year, the city announced a plan for a $90 million police-training center developed by the Atlanta Police Foundation, a private entity helmed and funded by politicians and corporate executives. Nicknamed Cop City because it is set to include a mock city for urban-warfare and riot-suppression training, the facility would be among the largest police-training centers in the country.” \[Dissent Magazine, [Spring 2024](https://dissentmagazine.org/article/the-criminalization-of-solidarity-the-stop-cop-city-prosecutions/)\]
+-   **The Project Required Cutting Down Public Forests Near Atlanta, Which Protesters Were Concerned Would Threaten “A Major Climate Buffer.”** According to Dissent Magazine, “Building it required cutting down large swaths of a public forest in unincorporated DeKalb County south of Atlanta. In an age of ecological catastrophe, Cop City threatened a major climate buffer, one of the area’s critical defenses against extreme heat, air pollution, and flooding.” \[Dissent Magazine, [Spring 2024](https://dissentmagazine.org/article/the-criminalization-of-solidarity-the-stop-cop-city-prosecutions/)\]
+-   **Carr’s Indictment Was “The Largest Criminal Racketeering Case Ever Filed Against Protesters In U.S. History.”** According to the Associated Press, “Experts believe it was the largest criminal racketeering case ever filed against protesters in U.S. history.” \[Associated Press, [9/9/25](https://apnews.com/article/atlanta-cop-city-rico-charges-61-9d0928ca44c5ddc931cd640a8805664a)\]
+
+### A Georgia Judge Tossed The Racketeering Charges, Saying Carr Did Not Have The Authority Under Georgia’s RICO Law
+
+**September 2025: A Georgia Judge Tossed The Racketeering Charges, Saying Carr Did Not Have “The Authority To Secure The 2023 Indictments Under Georgia’s Racketeer Influenced And Corrupt Organizations Law.”** According to the Associated Press, “A Georgia judge on Tuesday said he will toss the racketeering charges against all 61 defendants accused of a yearslong conspiracy to halt the construction of a police and firefighter training facility that critics pejoratively call ‘Cop City.’ Fulton County Judge Kevin Farmer said he does not believe Republican Attorney General Chris Carr had the authority to secure the 2023 indictments under Georgia’s Racketeer Influenced and Corrupt Organizations law, or RICO. Experts believe it was the largest criminal racketeering case ever filed against protesters in U.S. history.” \[Associated Press, [9/9/25](https://apnews.com/article/atlanta-cop-city-rico-charges-61-9d0928ca44c5ddc931cd640a8805664a)\]
+
+-   **Judge Kevin Farmer Ruled Carr Needed Permission From Governor Kemp To Pursue The RICO Case Instead Of A Local District Attorney But Failed To Obtain Kemp’s Permission.** According to Fox 5 Atlanta, “Judge Kevin Farmer said he does not believe Republican Attorney General Chris Carr had the authority to secure the 2023 indictments under Georgia’s RICO law. Farmer ruled that Carr needed permission from Gov. Brian Kemp to pursue the case instead of leaving it to the local district attorney. Prosecutors conceded they never obtained such an order. ‘It would have been real easy to just ask the governor, ‘Let me do this, give me a letter,’’ Farmer said. ‘The steps just weren’t followed.’” \[Fox 5 Atlanta, [9/9/25](https://www.fox5atlanta.com/news/jude-says-he-will-toss-stop-cop-city-rico-charges)\]

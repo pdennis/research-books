@@ -1,0 +1,940 @@
+---
+title: Ukraine
+description: 
+published: true
+date: 2025-09-22T21:08:05.771Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:07:59.511Z
+---
+
+# Ukraine
+
+### Additional Supplemental Aid
+
+**2022: Fitzpatrick Voted To Provide \$40.1 Billion In Emergency Funding
+To Ukraine To Counter Russian Aggression, Including \$20.1 Billion For
+The Defense Department, \$13.9 Billion For The State Department And
+\$4.4 Billion For The U.S. Agency For International Development.** In
+May 2022, according to Congressional Quarterly, Fitzpatrick voted for
+the Additional Ukraine Supplemental Appropriations Act, 2022, which
+would "provide approximately \$40.1 billion in emergency funding to
+support the Ukrainian resistance against the Russian invasion, including
+approximately \$20.1 billion for the Defense Department, \$13.9 billion
+for the State Department and \$4.4 billion for the U.S. Agency for
+International Development." The vote was on passage. The House passed
+the bill by a vote of 368-57, thus the bill was sent to the Senate and
+President and ultimately became law. \[House Vote 145,
+[5/10/22](http://clerk.house.gov/evs/2022/roll145.xml); Congressional
+Quarterly, [5/10/22](https://plus.cq.com/vote/2022/H/145?17);
+Congressional Actions, [H.R.
+7691](https://www.congress.gov/bill/117th-congress/house-bill/7691/actions)\]
+
+-   **The Bill Authorized \$11 Billion In Presidential Drawdown
+    Authority To Grant Emergency Foreign Military Aid In FY 2022.**
+    According to Congressional Quarterly, "It would also authorize \$11
+    billion in presidential drawdown authority to provide emergency
+    foreign military assistance in fiscal 2022." \[Congressional
+    Quarterly, [5/10/22](https://plus.cq.com/vote/2022/H/145?17)\]
+
+-   **Within Defense Funds, \$17.9 Billion Was Reserved For Military
+    Operations, \$1.2 Billion For Weapon Procurement, And \$600 Million
+    For Purchases Under The Defense Production Act.** According to
+    Congressional Quarterly, "Within Defense funding, it would provide
+    \$17.9 billion for military operations, including \$6 billion for
+    the Ukraine Security Assistance Initiative and \$9.1 billion to
+    replenish defense article stocks and reimburse defense services and
+    training provided by the Defense Department to assist Ukraine; \$1.2
+    billion for weapon procurement, including \$500 million for critical
+    munitions; and \$600 million for purchases under the Defense
+    Production Act." \[Congressional Quarterly,
+    [5/10/22](https://plus.cq.com/vote/2022/H/145?17)\]
+
+-   **The Bill Increased By \$500 Million The Cap On Aid The U.S. Can
+    Provide To Support Foreign Nations In FY 2022.** According to
+    Congressional Quarterly, "It would increase from \$450 million to
+    \$950 million the cap on assistance the U.S. can provide to support
+    friendly foreign countries in fiscal 2022." \[Congressional
+    Quarterly, [5/10/22](https://plus.cq.com/vote/2022/H/145?17)\]
+
+-   **Within State Funds, \$8.8 Billion Was Reserved For The Economic
+    Support Fund, \$4 Billion For The Foreign Military Financing
+    Program, And \$350 Million For Migration And Refugee Aid.**
+    According to Congressional Quarterly, "Within State Department
+    funding, it would provide \$8.8 billion for the Economic Support
+    Fund; \$4 billion for the Foreign Military Financing program; and
+    \$350 million for migration and refugee assistance." \[Congressional
+    Quarterly, [5/10/22](https://plus.cq.com/vote/2022/H/145?17)\]
+
+-   **The Bill Authorized \$900 Million For The Administration For
+    Children And Families To Grant Refugee Aid, \$54 Million For CDC
+    Activities And Medical Support For Displaced Ukrainians, And \$67
+    Million For Justice Department Activities Regarding Seizing
+    Forfeited Property.** According to Congressional Quarterly, "Among
+    other provisions, it would authorize \$900 million for the
+    Administration for Children and Families to provide refugee
+    assistance; \$54 million for Centers for Disease Control and
+    Prevention public health activities and medical support for
+    displaced populations from Ukraine; and \$67 million for Justice
+    Department activities related to seizing forfeited property related
+    to Russian aggression." \[Congressional Quarterly,
+    [5/10/22](https://plus.cq.com/vote/2022/H/145?17)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Additional Ukraine
+Supplemental Appropriations Act, 2022.** In May 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the adoption of "the
+rule (H Res 1097) that would provide for floor consideration of \[...\]
+legislation to provide supplemental funding for Ukraine (HR 7691)." The
+vote was on the adoption of the rule. The House adopted the rule by a
+vote of 217-202. \[House Vote 144,
+[5/10/22](http://clerk.house.gov/evs/2022/roll144.xml); Congressional
+Quarterly, [5/10/22](https://plus.cq.com/vote/2022/H/144?16);
+Congressional Actions, [H.R.
+7691](https://www.congress.gov/bill/117th-congress/house-bill/7691/actions);
+Congressional Actions, [H.Res.
+1097](https://www.congress.gov/bill/117th-congress/house-resolution/1097/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Additional Ukraine
+Supplemental Appropriations Act, 2022.** In May 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the "motion to order
+the previous question (thus limiting debate and possibility of
+amendment) on the rule (H Res 1097) that would provide for floor
+consideration of \[...\] legislation to provide supplemental funding for
+Ukraine (HR 7691)." The vote was on a motion to order the previous
+question. The House agreed to the motion by a vote of 218-203. \[House
+Vote 143, [5/10/22](http://clerk.house.gov/evs/2022/roll143.xml);
+Congressional Quarterly,
+[5/10/22](https://plus.cq.com/vote/2022/H/143?14); Congressional
+Actions, [H.R.
+7691](https://www.congress.gov/bill/117th-congress/house-bill/7691/actions);
+Congressional Actions, [H.Res.
+1097](https://www.congress.gov/bill/117th-congress/house-resolution/1097/actions)\]
+
+### Aid
+
+**2024: Fitzpatrick Voted Against Recommitting The FY 2025 Defense
+Appropriations.** In June 2024, Fitzpatrick voted against , according to
+Congressional Quarterly, the "motion to recommit the bill to the House
+Appropriations Committee." The vote was on the motion to recommit. The
+underlying legislation was the FY 2025 Defense Appropriations. The House
+rejected the motion by a vote of 202 to 211. \[House Vote 330,
+[6/28/24](http://clerk.house.gov/evs/2024/roll330.xml); Congressional
+Quarterly, [6/28/24](https://plus.cq.com/vote/2024/H/330?11);
+Congressional Actions, [H.R.
+8774](http://www.congress.gov/bill/118th-congress/house-bill/8774/all-actions)\]
+
+-   **The Motion Included An Amendment To Appropriate \$300 Million For
+    The Ukraine Security Assistance Program.** According to
+    Congressional Quarterly, "The House rejected, 202-211, a motion to
+    recommit the bill from Rep. Mike Quigley, D-Ill. His amendment would
+    have recommitted the measure to committee with an appropriation of
+    \$300 million for the Ukraine Security Assistance Initiative, which
+    the Biden administration requested but the bill would not fund. The
+    program pays for contracting U.S.-built weapons and training for
+    Ukraine's forces." \[Congressional Quarterly,
+    [6/28/24](https://plus.cq.com/doc/news-8043531?19)\]
+
+**2024: Fitzpatrick Voted Against Prohibiting The Use Of Defense Funds
+For Aid To Ukraine.** In June 2024, Fitzpatrick voted against ,
+according to Congressional Quarterly, "amendment no. 57 that would
+prohibit the use of funding provided by the bill for assistance to
+Ukraine." The vote was on the amendment. The underlying legislation was
+the FY 2025 Defense Appropriations. The House rejected the amendment by
+a vote of 76 to 335. \[House Vote 324,
+[6/27/24](http://clerk.house.gov/evs/2024/roll324.xml); Congressional
+Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/324?11);
+Congressional Actions,
+[H.Amdt.1073](https://www.congress.gov/amendment/118th-congress/house-amendment/1073/actions?s=a&r=29);
+Congressional Actions, [H.R.
+8774](http://www.congress.gov/bill/118th-congress/house-bill/8774/all-actions)\]
+
+**2024: Fitzpatrick Effectively Voted Against Prohibiting Aid To
+Ukraine.** In June 2024, Fitzpatrick voted against , according to
+Congressional Quarterly, "amendment no. 19 that would prohibit the use
+funds provided by the bill for assistance to Ukraine." The vote was on
+the amendment. The underlying legislation was the FY 2025 State-Foreign
+Operations Appropriations. The House rejected the amendment by a vote of
+70 to 342. \[House Vote 307,
+[6/27/24](http://clerk.house.gov/evs/2024/roll307.xml); Congressional
+Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/307?11);
+Congressional Actions,
+[H.Amdt.1043](https://www.congress.gov/amendment/118th-congress/house-amendment/1043/actions);
+Congressional Actions, [H.R.
+8771](http://www.congress.gov/bill/118th-congress/house-bill/8771/all-actions)\]
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Withheld
+FY 2024 Ukraine Aid Until The President Were To Submit A Report On A
+Strategy For U.S. Involvement In Ukraine.** In July 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+National Defense Authorization Act for Fiscal Year 2024, which would
+"require the president, in coordination with the Defense and State
+departments, to submit a report to the congressional defense and foreign
+committees, within 90 days of the bill\'s enactment, on a strategy for
+U.S. involvement in Ukraine. It would stipulate that no funding
+authorized by the bill would be available for Ukraine until the report
+is submitted. It also would require the departments to brief such
+committees, within 45 days of report\'s submission, on plans to
+implement the strategy." The vote was on the adoption of an amendment.
+The House rejected the amendment by a vote of 129 to 301. \[House Vote
+306, [7/13/23](http://clerk.house.gov/evs/2023/roll306.xml);
+Congressional Quarterly,
+[7/13/23](https://plus.cq.com/vote/2023/H/306?6); Congressional Actions,
+[H.R.
+2670](https://www.congress.gov/bill/118th-congress/house-bill/2670/all-actions);
+Congressional Actions, [H.Amdt.
+228](https://www.congress.gov/amendment/118th-congress/house-amendment/228/actions?s=a&r=22)\]
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Barred
+The Use Of Federal Funds To Provide Security Assistance To Ukraine.** In
+July 2023, according to Congressional Quarterly, Fitzpatrick voted
+against an amendment to the National Defense Authorization Act for
+Fiscal Year 2024, which would "prohibit the use of federal funds to
+provide security assistance for Ukraine." The vote was on the adoption
+of an amendment. The House rejected the amendment by a vote of 70 to
+358. \[House Vote 304,
+[7/13/23](http://clerk.house.gov/evs/2023/roll304.xml); Congressional
+Quarterly, [7/13/23](https://plus.cq.com/vote/2023/H/304?4);
+Congressional Actions, [H.R.
+2670](https://www.congress.gov/bill/118th-congress/house-bill/2670/all-actions);
+Congressional Actions, [H.Amdt.
+226](https://www.congress.gov/amendment/118th-congress/house-amendment/226/actions?s=a&r=24)\]
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Removed
+\$300 Million In FY 2024 Defense Funding For Ukraine.** In July 2023,
+according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the National Defense Authorization Act for Fiscal Year
+2024, which would "strike \$300 million in funding authorized for
+Ukraine." The vote was on the adoption of an amendment. The House
+rejected the amendment by a vote of 89 to 341. \[House Vote 303,
+[7/13/23](http://clerk.house.gov/evs/2023/roll303.xml); Congressional
+Quarterly, [7/13/23](https://plus.cq.com/vote/2023/H/303?3);
+Congressional Actions, [H.R.
+2670](https://www.congress.gov/bill/118th-congress/house-bill/2670/all-actions);
+Congressional Actions, [H.Amdt.
+225](https://www.congress.gov/amendment/118th-congress/house-amendment/225/actions?s=a&r=25)\]
+
+**2022: Fitzpatrick Voted To Provide , Within The Appropriated \$13.6
+Billion For Assisting Ukraine, \$4 Billion For The State Department And
+\$2.8 Billion To The U.S. Agency For International Development.** In
+March 2022, according to Congressional Quarterly, Fitzpatrick voted for
+the second portion of the Fiscal 2022 Omnibus Appropriations, which
+would "provide approximately \$13.6 billion to assist Ukraine against
+Russian aggression. In thid section, it would provide \$4 billion for
+the State Department and \$2.8 billion for the U.S. Agency for
+International Development." The vote was on the motion to concur in the
+Senate amendment with a House amendment. The bill was divided and this
+vote was the second portion of the bill. The House concurred with the
+Senate by a vote of 260-171. After resolving differences, the bill was
+sent to the President and became law. \[House Vote 66,
+[3/9/22](http://clerk.house.gov/evs/2022/roll066.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/66?8); Congressional
+Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **The Funds To The U.S. Agency For International Development Would
+    Provide Emergency Food Assistance, Health Care And Support For
+    Vulnerable Ukrainian Population And Support Activists, Journalists
+    And Independent Media To Inform The Public And Hold Russian Human
+    Rights Violations Accountable.** According to Time, "The largest
+    segment of humanitarian aid---\$2.65 billion to the U.S. Agency for
+    International Development (USAID)---goes toward providing emergency
+    food assistance, health care and urgent support for vulnerable
+    populations and communities in Ukraine. USAID will also fund an
+    additional \$120 million in initiatives to provide support for
+    activists, journalists and independent media to help promote public
+    messaging and accountability for Russian human rights violations."
+    \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+**2022: Fitzpatrick Voted To Provide , Within The Appropriated \$13.6
+Billion In Ukrainian Assistance, About \$1.4 Billion For Migration Aid
+To Ukrainian Refugees, \$1.1 Billion For Foreign Assistance Programs For
+Ukraine And Neighboring Nations, And \$650 Million To The State
+Department Foreign Military Financing Program.** In March 2022,
+according to Congressional Quarterly, Fitzpatrick voted for the second
+portion of the Fiscal 2022 Omnibus Appropriations, which "Within total
+funding, it would provide approximately \$1.4 billion for migration
+assistance to Ukrainian refugees; \$1.1 billion for foreign assistance
+programs for Ukraine and neighboring countries, including to address
+economic needs and government continuity; and \$650 million for the
+State Department Foreign Military Financing program." The vote was on
+the motion to concur in the Senate amendment with a House amendment. The
+bill was divided and this vote was the second portion of the bill. The
+House concurred with the Senate by a vote of 260-171. After resolving
+differences, the bill was sent to the President and became law. \[House
+Vote 66, [3/9/22](http://clerk.house.gov/evs/2022/roll066.xml);
+Congressional Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/66?8);
+Congressional Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **One Half Of The Ukrainian Aid Would Provide Humanitarian Aid For
+    Ukrainian Refugees And Displaced Individuals, Including Emergency
+    Food Aid And Helping Respond To Economic Necessities In Ukraine And
+    Neighboring Nations, Like Cybersecurity And Energy Problems.**
+    According to CNN, "Much of the other half of the aid would provide
+    humanitarian support for refugees fleeing Ukraine and people
+    displaced within the country, including emergency food assistance,
+    as well as help to respond to the economic needs in Ukraine and
+    neighboring countries, such as cybersecurity and energy issues."
+    \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Provided \$1.4 Billion To The State Department To Provide
+    Migration Support To Ukrainian Refugees After More Than 2 Million
+    Ukrainians Have Fled Their Country Due To The Russian Invasion.**
+    According to Time, "\$1.4 billion to the State Department will fund
+    migration and refugee assistance to provide support for refugee
+    outflows from Ukraine. More than 2 million Ukrainians have fled
+    their country in the 13 days since Russia began its invasion,
+    according to a tracker from the U.N. refugee agency." \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+-   **The Bill Provided \$1.76 Billion To Support Ukraine In Meeting
+    Their Macroeconomic And Governmental Needs, Like Protecting Their
+    Electrical Grid.** According to Time, "\$1.76 billion will go
+    towards helping Ukraine respond to macroeconomic and governmental
+    needs such as protecting its electrical grid from disruption."
+    \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+**2022: Fitzpatrick Voted To Provide , Within The Appropriated \$13.6
+Billion In Ukrainian Assistance, \$100 Million For Agriculture
+Department Foreign Agricultural Aid To Ukraine.** In March 2022,
+according to Congressional Quarterly, Fitzpatrick voted for the second
+portion of the Fiscal 2022 Omnibus Appropriations, which would "provide
+\$100 million for Agriculture Department foreign agricultural assistance
+to Ukraine." The vote was on the motion to concur in the Senate
+amendment with a House amendment. The bill was divided and this vote was
+the second portion of the bill. The House concurred with the Senate by a
+vote of 260-171. After resolving differences, the bill was sent to the
+President and became law. \[House Vote 66,
+[3/9/22](http://clerk.house.gov/evs/2022/roll066.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/66?8); Congressional
+Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+**2022: Fitzpatrick Voted To Provide , Within The Appropriated \$13.6
+Billion In Ukrainian Assistance, \$25 Million To The U.S. Agency For
+Global Media To Aid Media Capacity And Combat Disinformation In
+Ukraine.** In March 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the second portion of the Fiscal 2022 Omnibus
+Appropriations, which would provide "\$25 million for the U.S. Agency
+for Global Media to support media capacity and address disinformation in
+Ukraine." The vote was on the motion to concur in the Senate amendment
+with a House amendment. The bill was divided and this vote was the
+second portion of the bill. The House concurred with the Senate by a
+vote of 260-171. After resolving differences, the bill was sent to the
+President and became law. \[House Vote 66,
+[3/9/22](http://clerk.house.gov/evs/2022/roll066.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/66?8); Congressional
+Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+**2022: Fitzpatrick Voted To Authorize \$3 Billion In Presidential
+Drawdown Authority To Provide Emergency Foreign Military Aid In FY
+2022.** In March 2022, according to Congressional Quarterly, Fitzpatrick
+voted for the second portion of the Fiscal 2022 Omnibus Appropriations,
+which would "authorize \$3 billion in presidential drawdown authority to
+provide emergency foreign military assistance in fiscal 2022." The vote
+was on the motion to concur in the Senate amendment with a House
+amendment. The bill was divided and this vote was the second portion of
+the bill. The House concurred with the Senate by a vote of 260-171.
+After resolving differences, the bill was sent to the President and
+became law. \[House Vote 66,
+[3/9/22](http://clerk.house.gov/evs/2022/roll066.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/66?8); Congressional
+Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **The Bill Provided President Joe Biden The Authority To Transfer An
+    Extra \$3 Billion In Excess Defense Equipment To Ukraine And Other
+    Allies If Necessary.** According to Time, "The legislation also
+    allows Biden to transfer an additional \$3 billion in excess defense
+    equipment to Ukraine and other regional U.S. allies if needed."
+    \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+**2022: Fitzpatrick Voted To Provide \$13.6 Billion To Assist Ukraine
+Against Russia's Aggression, Including \$6.5 Billion To The Defense
+Department To Restore U.S. Defense Articles Provided To Ukraine And For
+Personnel, Operations, Procurement And Costs Associated To Ukraine.** In
+March 2022, according to Congressional Quarterly, Fitzpatrick voted for
+the first portion of the Fiscal 2022 Omnibus Appropriations, which would
+"provide approximately \$13.6 billion to assist Ukraine against Russian
+aggression. In this section, it would provide \$6.5 billion for the
+Defense Department, including \$3.5 billion to replenish U.S. defense
+articles provided to Ukraine and \$3 billion for personnel, operations,
+procurement and other expenses related to responding to the situation in
+Ukraine." The vote was on the motion to concur in the Senate amendment
+with a House amendment. The bill was divided and this vote was the first
+portion of the bill. The House concurred with the Senate by a vote of
+361-69. After resolving differences, the bill was sent to the President
+and became law. \[House Vote 65,
+[3/9/22](http://clerk.house.gov/evs/2022/roll065.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/65?3); Congressional
+Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **The Bill Provided A Total Of \$13.6 Billion In Ukrainian Aid For
+    Additional Humanitarian, Security And Economic Assistance.**
+    According to CNN, "The \$13.6 billion would provide additional
+    humanitarian, security and economic assistance for Ukraine and
+    allies in the region." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **Half Of The Ukrainian Aid Would Be Utilized To Deploy Troops In
+    The Region And Provide Military Equipment To Ukraine.** According to
+    CNN, "Roughly half of the aid package would be used to deploy troops
+    to the region and send defense equipment to Ukraine, according to a
+    summary of the bill provided by the House Appropriations Committee."
+    \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Biden Administration Requested \$10 Billion In Ukrainian
+    Assistance, But The Bill Provided More Due To The Crisis Worsening
+    And Pleas From The Ukrainian President For More Defense Equipment.**
+    According to Time, "The Biden Administration originally called on
+    lawmakers to approve \$10 billion in aid to Ukraine, but bipartisan
+    efforts and staunch support from the House led that figure to grow
+    in the face of a worsening Russian onslaught and pleas from
+    Ukraine's President Volodymyr Zelensky for more equipment." \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+-   **The Bill Provided \$3 Billion For European Command Operation
+    Mission Support, The Deployment Of Troops In The Region And
+    Intelligence Aid, And \$3.5 Billion To Restore Defense Equipment
+    That Was Sent To Ukraine.** According to Congressional Quarterly,
+    "The supplemental total includes \$6.5 billion for the Defense
+    Department, including \$3.0 billion for European Command operations
+    mission support, the deployment of personnel to the region, and
+    intelligence support; and \$3.5 billion to replenish U.S. stocks of
+    equipment sent to Ukraine through drawdown." \[Congressional
+    Quarterly, [3/9/22](https://plus.cq.com/doc/har-6475461?1)\]
+
+**2022: Fitzpatrick Voted To Appropriate \$59.4 Million For The Justice
+Department To Investigate And Respond To Cyber Threats And Russian
+Sanctions Violations, Including \$43.6 Million To The FBI.** In March
+2022, according to Congressional Quarterly, Fitzpatrick voted for the
+first portion of the Fiscal 2022 Omnibus Appropriations, which would
+"provide \$59.4 million for the Justice Department, intended for
+investigating and responding to cyber threats and Russian sanctions
+violations, including \$43.6 million for the FBI." The vote was on the
+motion to concur in the Senate amendment with a House amendment. The
+bill was divided and this vote was the first portion of the bill. The
+House concurred with the Senate by a vote of 361-69. After resolving
+differences, the bill was sent to the President and became law. \[House
+Vote 65, [3/9/22](http://clerk.house.gov/evs/2022/roll065.xml);
+Congressional Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/65?3);
+Congressional Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+**2021: Fitzpatrick Voted To Authorize \$345 Million To Assist Former
+Soviet Countries Through A Cooperative Threat Reduction Program And
+\$300 Million To Ukraine For Security Assistance.** In December 2021,
+Fitzpatrick voted for the National Defense Authorization Act For FY 2022
+which would, according to Congressional Quarterly, "authorize \$300
+million for cooperative programs with Israel; \$345 million for a
+cooperative threat reduction program assisting former Soviet Union
+countries; and \$300 million in security assistance to Ukraine." The
+vote was on passage. The House passed the bill by a vote of 363-70. The
+bill was sent to President Biden and it ultimately became law. \[House
+Vote 405, [12/7/21](http://clerk.house.gov/evs/2021/roll405.xml);
+Congressional Quarterly,
+[12/7/21](https://plus.cq.com/vote/2021/H/405?4); Congressional Actions,
+[S.
+1605](https://www.congress.gov/bill/117th-congress/senate-bill/1605/actions)\]
+
+-   **The Bill Increased The Foreign Aid To Ukraine By \$50 Million,
+    Which Would Support Ukrainian Security Forces, To Counter Russian
+    Efforts To Build Forces Near The Ukrainian Border.** According to
+    CBS News, "While Russia continues to build up forces near Ukraine's
+    border, prompting concern in the U.S. and Western Europe, the U.S.
+    plans to send more aid to Ukrainian security forces --- the NDAA
+    authorizes a \$50 million increase in assistance for this purpose."
+    \[CBS News,
+    [12/8/21](https://www.cbsnews.com/news/defense-bill-2021-house-vote/)\]
+
+-   **The Bill Would Maintain U.S. Ability To "Resist A Fait Accompli
+    Against Taiwan."** According to CNN, "The bill includes a 'statement
+    of policy on Taiwan,' saying it is US policy to maintain the ability
+    of the United States to resist a fait accompli against Taiwan, that
+    would 'jeopardize the security' of the Taiwanese people, the bill
+    states." \[CNN,
+    [12/8/21](https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html)\]
+
+-   **The Bill Would Provide \$300 Million To The Ukraine Security
+    Assistance Initiative And "\$150 Million For Baltic Security
+    Cooperation."** According to Congressional Quarterly, "Those funds
+    would accompany \$300 million for the Ukraine Security Assistance
+    Initiative, which provides support for the Ukrainian armed forces,
+    and \$150 million for Baltic security cooperation." \[Congressional
+    Quarterly, [12/7/21](https://plus.cq.com/doc/news-6409157?10)\]
+
+### Bilateral Security Agreement
+
+**2024: Fitzpatrick Voted Against Prohibiting The Implementation Of A
+Bilateral Security Agreement With Ukraine.** In June 2024, Fitzpatrick
+voted against , according to Congressional Quarterly, "amendment no. 15
+that would prohibit the use of funds provided by the bill to implement,
+administer or enforce the bilateral security agreement between the U.S.
+and Ukraine." The vote was on the amendment. The underlying legislation
+was the FY 2025 State-Foreign Operations Appropriations. The House
+rejected the amendment by a vote of 76 to 334. \[House Vote 304,
+[6/27/24](http://clerk.house.gov/evs/2024/roll304.xml); Congressional
+Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/304?11);
+Congressional Actions,
+[H.Amdt.1040](https://www.congress.gov/amendment/118th-congress/house-amendment/1040/actions);
+Congressional Actions, [H.R.
+8771](http://www.congress.gov/bill/118th-congress/house-bill/8771/all-actions)\]
+
+### Cluster Munitions Transfer
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Prohibited The Sale Or Transfer Of Cluster Munitions Technology To
+Ukraine.** In July 2023, according to Congressional Quarterly,
+Fitzpatrick voted against an amendment to the National Defense
+Authorization Act for Fiscal Year 2024, which would "prohibit the sale
+or transfer of cluster munitions or cluster munitions technology to
+Ukraine." The vote was on the adoption of an amendment. The House
+rejected the amendment by a vote of 147 to 276. \[House Vote 317,
+[7/13/23](http://clerk.house.gov/evs/2023/roll317.xml); Congressional
+Quarterly, [7/13/23](https://plus.cq.com/vote/2023/H/317?8);
+Congressional Actions, [H.R.
+2670](https://www.congress.gov/bill/118th-congress/house-bill/2670/all-actions);
+Congressional Actions, [H.Amdt.
+243](https://www.congress.gov/amendment/118th-congress/house-amendment/243/actions?s=a&r=10)\]
+
+-   **The Amendment Sought To Block Deliveries Of Cluster Munitions To
+    Ukraine.** According to Congressional Quarterly, "Another amendment
+    from Greene to block deliveries of cluster munitions to Ukraine was
+    not adopted, 147-276, but the vote exposed fractions among both
+    parties on the issue. Forty-nine Democrats supported the provision,
+    while 121 Republicans opposed it." \[Congressional Quarterly,
+    [7/13/23](https://plus.cq.com/doc/news-7791779?11)\]
+
+-   **July 2023: The Biden Administration Announced They Would Send
+    Explosives To The Front Lines In Ukraine, Despite Democratic
+    Concerns that The Munitions Could Harm Civilians.** According to
+    Congressional Quarterly, "The Biden administration earlier this
+    month announced it would send the explosives, which release smaller
+    submunitions, to the front lines in Ukraine --- despite concerns
+    from many Democratic lawmakers that the dual-purpose improved
+    conventional munitions, or DPICMs, would harm civilians."
+    \[Congressional Quarterly,
+    [7/13/23](https://plus.cq.com/doc/news-7791779?11)\]
+
+### Defense Aid
+
+**2024: Fitzpatrick Voted Against Prohibiting The Use Of Defense Funds
+For Aid To Ukraine.** In June 2024, Fitzpatrick voted against ,
+according to Congressional Quarterly, "amendment no. 37 that would
+stipulate that none of the funds made available by the bill could be
+used for assistance to Ukraine." The vote was on the amendment. The
+underlying legislation was the FY 2025 National Defense Authorization
+Act. The House rejected the amendment by a vote of 74 to 343. \[House
+Vote 261, [6/13/24](http://clerk.house.gov/evs/2024/roll261.xml);
+Congressional Quarterly,
+[6/13/24](https://plus.cq.com/vote/2024/H/261?11); Congressional
+Actions,
+[H.Amdt.973](https://www.congress.gov/amendment/118th-congress/house-amendment/973/actions?s=a&r=34);
+Congressional Actions, [H.R.
+8070](http://www.congress.gov/bill/118th-congress/house-bill/8070/all-actions)\]
+
+### Expanding Lend-Lease Authority
+
+**2022: Fitzpatrick Voted To Authorize The President To Lend Or Lease
+Defense Equipment In FY 2022 And 2023 To Ukraine And Eastern European
+Nations To Counter Russian Aggression.** In April 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the Ukraine Democracy
+Defense Lend-Lease Act of 2022, which would "authorize the president, in
+fiscal years 2022 and 2023, to lend or lease defense articles to Ukraine
+and Eastern European countries impacted by Russia\'s invasion of Ukraine
+to bolster those countries\' defense capabilities and protect civilians
+from potential invasion or ongoing military aggression by Russia. It
+would waive certain statutory requirements for such lend-lease
+agreements, including requirements that limit loans to a maximum period
+of five years and hold recipients liable for all costs incurred by the
+lease, including costs for damaged or destroyed weapons. It would
+require the president, within 60 days of enactment, to establish
+expedited procedures for the delivery of any defense article loaned or
+leased under the bill\'s provisions. It would allow the president to
+delegate authority under the bill\'s provisions only to an official
+appointed with the advice and consent of the Senate." The vote was on
+passage. The House passed the bill by a vote of 417-10, thus the bill
+was sent to the President and ultimately became law. \[House Vote 141,
+[4/28/22](http://clerk.house.gov/evs/2022/roll141.xml); Congressional
+Quarterly, [4/28/22](https://plus.cq.com/vote/2022/H/141?7);
+Congressional Actions, [S.
+3522](https://www.congress.gov/bill/117th-congress/senate-bill/3522/actions)\]
+
+-   **The Bill Eliminated Certain Bureaucratic Requirements And
+    Facilitated Deliveries Of U.S. Military Aid To Ukraine As They
+    Countered Russian Aggression.** According to Congressional
+    Quarterly, "Majority Leader Steny H. Hoyer said the House will vote
+    Thursday on a measure (S 3522) that, if enacted, could eliminate
+    some bureaucratic requirements and speed up deliveries of U.S.
+    military aid to Ukraine as the country fights back against a renewed
+    Russian offensive." \[Congressional Quarterly,
+    [4/28/22](https://plus.cq.com/doc/news-6520108?10)\]
+
+-   **The Bill Waived Several Legal Requirements That Slowed The
+    Transfer Of Military Equipment To Ukraine By Expanding The
+    President's Authority Under The Arms Export Control Act.** According
+    to Congressional Quarterly, "If enacted, the new measure would waive
+    several legal requirements currently in place that have slowed the
+    transfer of weapons to Ukraine by broadening President Joe Biden's
+    authorities under the Arms Export Control Act." \[Congressional
+    Quarterly, [4/28/22](https://plus.cq.com/doc/news-6520108?10)\]
+
+-   **The Bill Waived Ukraine From Financial Liability If The Military
+    Equipment Were To Become Damaged Or Destroyed And Waived Time Limits
+    On The Weapon's Leases.** According to Congressional Quarterly, "It
+    would also release Ukraine from financial liability if the weapons
+    are damaged or destroyed and would waive time limits on the leases
+    of those weapons." \[Congressional Quarterly,
+    [4/28/22](https://plus.cq.com/doc/news-6520108?10)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Ukraine Democracy
+Defense Lend-Lease Act Of 2022.** In April 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the "adoption of the
+rule (H Res 1065) that would provide for House consideration of the
+Ukraine Democracy Defense Lend-Lease Act (S 3522). The rule would
+provide for up to one hour of general debate on the bill." The vote was
+on the adoption of the rule. The House adopted the rule by a vote of
+220-205. \[House Vote 140,
+[4/28/22](http://clerk.house.gov/evs/2022/roll140.xml); Congressional
+Quarterly, [4/28/22](https://plus.cq.com/vote/2022/H/140?12);
+Congressional Actions, [S.
+3522](https://www.congress.gov/bill/117th-congress/senate-bill/3522/actions);
+Congressional Actions, [H.Res.
+1065](https://www.congress.gov/bill/117th-congress/house-resolution/1065/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Ukraine Democracy
+Defense Lend-Lease Act Of 2022.** In April 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the "motion to order
+the previous question (thus limiting debate and possibility of
+amendment) on the rule (H Res 1065) that would provide for House
+consideration of the Ukraine Democracy Defense Lend-Lease Act (S 3522).
+The rule would provide for up to one hour of general debate on the
+bill." The vote was on a motion to order the previous question. The
+House agreed to the motion by a vote of 218-204. \[House Vote 139,
+[4/28/22](http://clerk.house.gov/evs/2022/roll139.xml); Congressional
+Quarterly, [4/28/22](https://plus.cq.com/vote/2022/H/139?11);
+Congressional Actions, [S.
+3522](https://www.congress.gov/bill/117th-congress/senate-bill/3522/actions);
+Congressional Actions, [H.Res.
+1065](https://www.congress.gov/bill/117th-congress/house-resolution/1065/actions)\]
+
+### Expressing Support Amid Russian Aggression
+
+**2022: Fitzpatrick Voted To Express The House's Commitment To
+Supporting Ukraine Against Russia's Military Aggression.** In March
+2022, according to Congressional Quarterly, Fitzpatrick voted for a
+resolution that would "express the House of Representatives\' commitment
+to supporting Ukraine against Russian military aggression. Specifically,
+it would state that the House supports Ukraine\'s sovereignty and
+territorial integrity; demands an immediate ceasefire and the full
+withdrawal of Russian forces from Ukrainian territory; commits to
+providing defense and humanitarian assistance to Ukraine; backs the
+continued use of sanctions in coordination with U.S. allies to
+economically isolate Russia in response to its aggression against
+Ukraine; and reaffirms its 'ironclad commitment' to the NATO principle
+of collective defense. Among other provisions, it also would state that
+the House will never recognize or support any Russian-controlled
+government installed through the use of force; reiterates that Crimea
+and the territories controlled by Russian-controlled governments in
+Donetsk and Luhansk are sovereign Ukrainian territory; pledges to
+support U.S. and European energy independence from Russian energy
+imports; demands the immediate release of individuals detained in Russia
+for protesting Russian aggression against Ukraine; and commits to
+ensuring Belarus President Alexander Lukashenko is held accountable for
+permitting the use of Belarusian territory for Russia\'s invasion of
+Ukraine." The vote was on passage. The House passed the resolution by a
+vote of 426-3. \[House Vote 51,
+[3/2/22](http://clerk.house.gov/evs/2022/roll051.xml); Congressional
+Quarterly, [3/2/22](https://plus.cq.com/vote/2022/H/51?17);
+Congressional Actions, [H.Res.
+956](https://www.congress.gov/bill/117th-congress/house-resolution/956/actions)\]
+
+### Funding
+
+**2024: Fitzpatrick Voted For The Ukraine Supplemental Bill.** In April
+2024, Fitzpatrick voted for , according to Congressional Quarterly, "the
+bill, as amended, that would provide a total of \$60.8 billion for
+security assistance to Ukraine and to replenish U.S. stockpiles of
+weapons and other military equipment previously provided to Ukraine. It
+would provide \$48.4 billion for the Defense Department\'s response to
+the ongoing situation in Ukraine, which includes \$13.8 billion for the
+Ukrainian Security Assistance Initiative. It would provide \$7.3 billion
+to support U.S. military deployments and operations in Europe. It would
+provide \$2 billion in bilateral security assistance for Ukraine, and
+\$9.5 billion in forgivable loans to Ukraine. It would provide \$26
+million for the Defense and State departments and U.S. Agency for
+International Development inspectors general to oversee how U.S.
+military and financial assistance to Ukraine is being administered." The
+vote was on passage. The House passed the bill a vote of 311 to 112.
+\[House Vote 151,
+[4/20/24](http://clerk.house.gov/evs/2024/roll151.xml); Congressional
+Quarterly, [4/20/24](https://plus.cq.com/vote/2024/H/151?24);
+Congressional Actions, [H.R.
+8035](https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions)\]
+
+-   **The Bill Differed From The Senate-Passed Bill In That \$9 Billion
+    Of The Funding Was Structured As A Loan.** According to
+    Congressional Quarterly, "In one key difference from the
+    Senate-passed bill, over \$9 billion in economic aid to Ukraine is
+    structured as a loan, though the president could waive the repayment
+    requirement unless Congress votes to block such waivers. That wasn't
+    enough to tamp down criticism from some in the House GOP."
+    \[Congressional Quarterly,
+    [4/20/24](https://plus.cq.com/doc/news-7992683?31)\]
+
+-   **The House Freedom Caucus Opposed The Supplemental As It Was Not
+    Attached To Border Provisions.** According to Congressional
+    Quarterly, "the need for bipartisan support was clear Thursday when
+    the Freedom Caucus, made up of 30 to 40 rebellious conservatives,
+    announced its opposition to the rule for the aid package because it
+    doesn\'t include border security legislation. Republicans control
+    the House with only a two-vote margin so Democratic support is
+    required to offset dozens of GOP defections. 'To secure the border,
+    we must kill the rule,' the Freedom Caucus said in a statement.
+    While Democrats appear willing to back the aid package rule, they
+    will not do so for the separate border bill (HR 3602), which
+    contains key provisions of an earlier, House-passed measure (HR 2)
+    that Democrats uniformly opposed, including tougher asylum
+    restrictions and resuming construction of a border wall. \[...\] Roy
+    said the separate border bill was 'just a sideshow that wasn\'t
+    going to result in anything.' He added that the rule under
+    consideration Thursday for the aid package 'will not include
+    anything that touches the border.'" Congressional Quarterly,
+    [4/19/24](https://plus.cq.com/doc/news-7991013?34)\]
+
+**2024: Fitzpatrick Effectively Voted For The Ukraine Supplemental
+Bill.** In April 2024, Fitzpatrick voted against , according to
+Congressional Quarterly, the "Roy, R-Texas, motion to recommit the bill
+to the House Appropriations Committee." The vote was on the motion to
+recommit. The underlying bill was the Ukraine supplemental
+appropriations. The House rejected the motion by a vote of 88 to 336.
+\[House Vote 150,
+[4/20/24](http://clerk.house.gov/evs/2024/roll150.xml); Congressional
+Quarterly, [4/20/24](https://plus.cq.com/vote/2024/H/150?13);
+Congressional Actions, [H.R.
+8035](https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions)\]
+
+**2024: Fitzpatrick Voted Against Striking All Non-Military Funding In
+The Ukraine Supplemental Bill.** In April 2024, Fitzpatrick voted
+against , according to Congressional Quarterly, "amendment no. 4 that
+would strike funding for several Health and Human Services Department
+and State Department programs." The vote was on the amendment. The House
+rejected the amendment by a vote of 154 to 272. \[House Vote 149,
+[4/20/24](http://clerk.house.gov/evs/2024/roll149.xml); Congressional
+Quarterly, [4/20/24](https://plus.cq.com/vote/2024/H/149?13);
+Congressional Actions, [H.Amdt.
+893](https://www.congress.gov/amendment/118th-congress/house-amendment/893?s=a&r=4);
+Congressional Actions, [H.R.
+8035](https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions)\]
+
+**2024: Fitzpatrick Effectively Voted Against Striking All Funding In
+The Ukraine Supplemental Bill.** In April 2024, Fitzpatrick voted
+against , according to Congressional Quarterly, "amendment no. 2 that
+would reduce each dollar amount in the bill to \$0." The vote was on the
+amendment. The House rejected the amendment by a vote of 71 to 351.
+\[House Vote 148,
+[4/20/24](http://clerk.house.gov/evs/2024/roll148.xml); Congressional
+Quarterly, [4/20/24](https://plus.cq.com/vote/2024/H/148?13);
+Congressional Actions, [H.Amdt.
+892](https://www.congress.gov/amendment/118th-congress/house-amendment/892?s=a&r=4);
+Congressional Actions, [H.R.
+8035](https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions)\]
+
+**2024: Fitzpatrick Voted Against Striking Sections From The Ukraine
+Supplemental Funding Regarding Emergency Exits.** In April 2024,
+Fitzpatrick voted against , according to Congressional Quarterly,
+"amendment no. 1 that would strike sections regarding unforeseen
+emergency exits requiring immediate military assistance to a foreign
+country or international organization, military education and training
+and direct loans to NATO allies, major non-NATO allies and the
+Indo-Pacific region." The vote was on the amendment. The House rejected
+the amendment by a vote of 105 to 319. \[House Vote 147,
+[4/20/24](http://clerk.house.gov/evs/2024/roll147.xml); Congressional
+Quarterly, [4/20/24](https://plus.cq.com/vote/2024/H/147?13);
+Congressional Actions, [H.Amdt.
+891](https://www.congress.gov/amendment/118th-congress/house-amendment/891?s=a&r=4);
+Congressional Actions, [H.R.
+8035](https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions)\]
+
+### Lend-Lease Extension
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Removed
+The Federal Government's Extended Authority To Lend Or Lease Defense
+Articles To Ukraine Through FY 2024.** In July 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+National Defense Authorization Act for Fiscal Year 2024, which would
+"strike language that would extend through fiscal 2024 the federal
+government\'s authority to lend or lease defense articles to Ukraine."
+The vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 71 to 360. \[House Vote 307,
+[7/13/23](http://clerk.house.gov/evs/2023/roll307.xml); Congressional
+Quarterly, [7/13/23](https://plus.cq.com/vote/2023/H/307?3);
+Congressional Actions, [H.R.
+2670](https://www.congress.gov/bill/118th-congress/house-bill/2670/all-actions);
+Congressional Actions, [H.Amdt.
+229](https://www.congress.gov/amendment/118th-congress/house-amendment/229/actions?s=a&r=21)\]
+
+### Military Sales
+
+**2024: Fitzpatrick Voted Against Prohibiting Foreign Military Sales To
+Ukraine.** In June 2024, Fitzpatrick voted against , according to
+Congressional Quarterly, "amendment no. 14 that would prohibit the use
+of funds provided by the bill for foreign military sales to Ukraine."
+The vote was on the amendment. The underlying legislation was the FY
+2025 State-Foreign Operations Appropriations. The House rejected the
+amendment by a vote of 61 to 350. \[House Vote 303,
+[6/27/24](http://clerk.house.gov/evs/2024/roll303.xml); Congressional
+Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/303?11);
+Congressional Actions,
+[H.Amdt.1039](https://www.congress.gov/amendment/118th-congress/house-amendment/1039/actions);
+Congressional Actions, [H.R.
+8771](http://www.congress.gov/bill/118th-congress/house-bill/8771/all-actions)\]
+
+### Study On Ukraine Center Of Excellence
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Eliminated A Defense Bill Provision That Would Instruct A Feasibility
+Study On The Creation Of A Center Of Excellence In Ukraine To Treat
+Traumatic Injuries.** In July 2023, according to Congressional
+Quarterly, Fitzpatrick voted against an amendment to the National
+Defense Authorization Act for Fiscal Year 2024, which would "strike
+language to direct the Defense Department to conduct a feasibility study
+on the creation of a Center of Excellence in Ukraine to treat traumatic
+injuries." The vote was on the adoption of an amendment. The House
+rejected the amendment by a vote of 95 to 332. \[House Vote 305,
+[7/13/23](http://clerk.house.gov/evs/2023/roll305.xml); Congressional
+Quarterly, [7/13/23](https://plus.cq.com/vote/2023/H/305?5);
+Congressional Actions, [H.R.
+2670](https://www.congress.gov/bill/118th-congress/house-bill/2670/all-actions);
+Congressional Actions, [H.Amdt.
+227](https://www.congress.gov/amendment/118th-congress/house-amendment/227/actions?s=a&r=23)\]
+
+### Supplemental Appropriations
+
+**2022: Fitzpatrick Voted For The FY 2023 Omnibus Spending Package,
+Which Provided \$47.3 Billion In Supplemental Appropriations To Support
+Ukraine.** In December 2022, according to Congressional Quarterly,
+Fitzpatrick voted to concur with the Senate amendment to the
+Consolidated Appropriations Act, 2023, which would "provide \$47.3
+billion in supplemental appropriations for aid to Ukraine, including
+more than \$27 billion for military operations, procurement and
+development; \$126 million for defense nuclear nonproliferation; \$13
+billion for economic support; and \$2.4 billion for refugee assistance."
+The vote was on a motion to concur. The House concurred with the Senate
+amendment by a vote of 225-201, thus bill was sent to President Biden
+and ultimately became law. \[House Vote 549,
+[12/23/22](http://clerk.house.gov/evs/2022/roll549.xml); Congressional
+Quarterly, [12/23/22](https://plus.cq.com/vote/2022/H/549?2);
+Congressional Actions, [S.Amdt.
+6552](https://www.congress.gov/amendment/117th-congress/senate-amendment/6552/actions);
+Congressional Actions, [H.R.
+2617](https://www.congress.gov/bill/117th-congress/house-bill/2617/all-actions)\]
+
+-   **An Amendment Was Added To The FY 2023 Omnibus That Allowed The Use
+    Of Seized Assets Of Russian Oligarchs To Provide Financial
+    Assistance To Ukraine.** According to Congressional Quarterly, "A
+    Lindsey Graham, R-S.C., amendment would authorize use of seized
+    assets of Russian oligarchs to provide aid to the Ukrainian people."
+    \[Congressional Quarterly,
+    [12/23/22](https://plus.cq.com/doc/news-7629247?2)\]
+
+-   **Within The Funds For Ukraine, \$9 Billion Would Be Reserved For
+    Ukraine's Military To Pay For Training, Weapons, Logistics And
+    Salaries, And \$12 Bill Would Be Reserved To Replenish U.S. Stocks
+    Of Equipment.** According to CNN, "About \$9 billion of the funding
+    will go to Ukraine's military to pay for a variety of things
+    including training, weapons, logistics support and salaries. Nearly
+    \$12 billion will be used to replenish US stocks of equipment sent
+    to Ukraine through presidential drawdown authority." \[CNN,
+    [12/29/22](https://www.cnn.com/2022/12/20/politics/spending-bill-congress-omnibus/index.html)\]
+
+-   **Within The Funds For Ukraine, \$13 Billion Would Economically
+    Support The Ukrainian Government And Other Funds Would Address
+    Humanitarian And Infrastructure Issues And The European Command
+    Operations.** According to CNN, "Also, the law provides \$13 billion
+    for economic support to the Ukrainian government. Other funds
+    address humanitarian and infrastructure needs, as well as support
+    European Command operations." \[CNN,
+    [12/29/22](https://www.cnn.com/2022/12/20/politics/spending-bill-congress-omnibus/index.html)\]
+
+### U.S. Special Representative For Ukraine's Economic Recovery
+
+**2024: Fitzpatrick Voted Against Prohibiting Funding For The U.S.
+Special Representative For Ukraine's Economic Recovery.** In June 2024,
+Fitzpatrick voted against , according to Congressional Quarterly,
+"amendment no. 16 that would prohibit the use of funds provided by the
+bill for the U.S. special representative for Ukraine\'s economic
+recovery." The vote was on the amendment. The underlying legislation was
+the FY 2025 State-Foreign Operations Appropriations. The House rejected
+the amendment by a vote of 109 to 303. \[House Vote 305,
+[6/27/24](http://clerk.house.gov/evs/2024/roll305.xml); Congressional
+Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/305?11);
+Congressional Actions,
+[H.Amdt.1041](https://www.congress.gov/amendment/118th-congress/house-amendment/1041/actions);
+Congressional Actions, [H.R.
+8771](http://www.congress.gov/bill/118th-congress/house-bill/8771/all-actions)\]
+
+### Urging Suspension Of Ukrainian Debt Payments
+
+**2022: Fitzpatrick Voted To Instruct The U.S. Executive Direct Of Every
+International Financial Institution To Advocate For The Suspension Of
+All Debt Payments Owed By Ukraine And Provide Financial Aid To
+Ukraine.** In May 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the Ukraine Comprehensive Debt Payment Relief Act
+of 2022, which would "require the Treasury Department to instruct the
+U.S. executive director at every international financial institution to
+use the influence and vote of the U.S. to advocate that the institution
+suspend all debt payments owed by Ukraine and provide financial
+assistance to Ukraine, as well as Ukrainian refugees and the countries
+they enter." The vote was on passage. The House passed the bill by a
+vote of 362-56, thus the bill was sent to the Senate. \[House Vote 160,
+[5/11/22](http://clerk.house.gov/evs/2022/roll160.xml); Congressional
+Quarterly, [5/11/22](https://plus.cq.com/vote/2022/H/160?15);
+Congressional Actions, [H.R.
+7081](https://www.congress.gov/bill/117th-congress/house-bill/7081/actions)\]
+
+**2022: Fitzpatrick Voted To Require The Treasury And State Departments
+To Collaborate With Other Governments And Commercial Credit
+Organizations To Seek Debt Payment Relief For Ukraine.** In May 2022,
+according to Congressional Quarterly, Fitzpatrick voted for the Ukraine
+Comprehensive Debt Payment Relief Act of 2022, which would "require the
+and State departments to coordinate with other governments and
+commercial creditor groups to pursue debt payment relief for Ukraine."
+The vote was on passage. The House passed the bill by a vote of 362-56,
+thus the bill was sent to the Senate. \[House Vote 160,
+[5/11/22](http://clerk.house.gov/evs/2022/roll160.xml); Congressional
+Quarterly, [5/11/22](https://plus.cq.com/vote/2022/H/160?15);
+Congressional Actions, [H.R.
+7081](https://www.congress.gov/bill/117th-congress/house-bill/7081/actions)\]
+
+-   **The Bill Would Require The President To Annually Submit A Report
+    On Activities Taken Under The Bill.** According to Congressional
+    Quarterly, "It would require the president to submit an annual
+    report to Congress on activities undertaken under the bill's
+    provisions." \[Congressional Quarterly,
+    [5/11/22](https://plus.cq.com/vote/2022/H/160?15)\]
+
+-   **The Bill Would Provide For A "National Interest Waiver By The
+    President" For Seven Years.** According to Congressional Quarterly,
+    "It would provide for a national interest waiver by the president
+    and sunset the bill's provisions seven years after enactment."
+    \[Congressional Quarterly,
+    [5/11/22](https://plus.cq.com/vote/2022/H/160?15)\]
+
+-   **Ukraine Owes \$21.7 Billion To Multilateral Banks, \$6.5 Billion
+    To Government And \$3.5 Billion To Commercial Creditors, Thus The
+    Debt Suspension Would Alleviate The \$4.6 Billion Debt In 2022 For
+    Ukraine.** According to Congressional Quarterly, "Ukraine owes
+    \$21.7 billion to multilateral banks, including the International
+    Monetary Fund and the World Bank, \$6.5 billion to government and
+    \$3.5 billion to commercial creditors. Suspending debt payments
+    would free up \$4.6 billion for Ukraine in 2022, according to a memo
+    from the committee." \[Congressional Quarterly,
+    [3/17/22](https://plus.cq.com/doc/committees-20220317482545?17)\]

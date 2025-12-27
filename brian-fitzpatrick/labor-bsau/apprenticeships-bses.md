@@ -1,0 +1,264 @@
+---
+title: Apprenticeships
+description: 
+published: true
+date: 2025-09-22T21:25:29.163Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:25:25.106Z
+---
+
+# Apprenticeships
+
+### Labor Partnership Requirement
+
+**2021: Fitzpatrick Voted Against An Amendment That Would Require
+Apprenticeship Program Applicants To Be A Part Of An Industry
+Partnership Or Partner With A Labor Or Joint Labor Management Group,
+Instead Of Having To Do Both.** In February 2021, Fitzpatrick voted
+against an amendment to the National Apprenticeship Act of 2021 which
+would, according to Congressional Quarterly, "modify an eligibility
+requirement for Labor Department apprenticeship program grants to
+require applicants, to the extent practical, to be part of an industry
+or sector partnership or to partner with a labor or joint labor
+management organization, as opposed to both." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+186-236. \[House Vote 29,
+[2/5/21](http://clerk.house.gov/evs/2021/roll029.xml); Congressional
+Quarterly, [2/5/21](https://plus.cq.com/vote/2021/H/29?32);
+Congressional Actions, [H.Amdt.
+8](https://www.congress.gov/amendment/117th-congress/house-amendment/8/actions?r=2&s=a);
+Congressional Actions, [H.R.
+447](https://www.congress.gov/bill/117th-congress/house-bill/447/actions)\]
+
+**2020: Fitzpatrick Voted For An Amendment To The National
+Apprenticeship Act Of 2020 That Would Require Eligible Entities To Form
+Partnerships With Labor Or Joint-Labor Organizations.** In November
+2020, Fitzpatrick voted for an amendment to the National Apprenticeship
+Act that would, according to Congressional Quarterly, "require eligible
+entities for the Labor Department apprenticeship grant program to
+partner with a labor or joint labor-management organization, to the
+extent practicable." The vote was on adoption. The House adopted the
+amendment by a vote of 236-152. \[House Vote 225,
+[11/20/20](http://clerk.house.gov/evs/2020/roll225.xml); Congressional
+Quarterly, [11/20/20](https://plus.cq.com/vote/2020/H/225?5);
+Congressional Actions, [H.Amdt.
+901](https://www.congress.gov/amendment/116th-congress/house-amendment/901/actions?r=1&s=a);
+Congressional Actions, [H.R.
+8294](https://www.congress.gov/bill/116th-congress/house-bill/8294/actions)\]
+
+### Reauthorization
+
+**2021: Fitzpatrick Voted For Reauthorizing And Expanding Programs Under
+The National Apprenticeship System With \$3.9 Billion For Grants And
+Program Administration.** In February 2021, Fitzpatrick voted for the
+National Apprenticeship Act of 2021 which would, according to
+Congressional Quarterly, "reauthorize and expand programs and activities
+under the Labor Department national apprenticeship system, authorizing a
+total of \$3.9 billion for program administration and grants to
+apprenticeship programs." The vote was on passage. The House passed the
+bill by a vote of 247-173. The Senate did not take substantive action on
+the bill. \[House Vote 31,
+[2/5/21](http://clerk.house.gov/evs/2021/roll031.xml); Congressional
+Quarterly, [2/5/21](https://plus.cq.com/vote/2021/H/31?30);
+Congressional Actions, [H.R.
+447](https://www.congress.gov/bill/117th-congress/house-bill/447/actions)\]
+
+-   **Republicans Claimed The National Apprenticeship Act Of 2021 "Was
+    Not Innovative Enough" And Called For The Expansion Of The
+    Traditional System.** According to Congressional Quarterly,
+    "Republicans said the bill was not innovative enough, urging
+    expansion of the national apprenticeship program beyond the
+    traditional registered apprenticeship system, while Democrats
+    suggested the traditional program's success precluded a need for
+    sweeping changes, particularly during an economic crisis."
+    \[Congressional Quarterly,
+    [2/2/21](https://plus.cq.com/doc/committees-20210202456734?35)\]
+
+-   **The Bill Would Codify Apprenticeship Program Guidelines And
+    Include Pre-Apprenticeship And Youth Apprenticeship Programs.**
+    According to Congressional Quarterly, "largely codify apprenticeship
+    program standards and expand the system to include
+    pre-apprenticeship and youth apprenticeship programs."
+    \[Congressional Quarterly,
+    [2/5/21](https://plus.cq.com/vote/2021/H/31?30)\]
+
+-   **The Bill Would Provide \$350 Million Through FY 2026 To Establish
+    An Office Of The National Apprenticeship Program, Program Research
+    And Evaluation And An Apprenticeship Advisory Committee.** According
+    to Congressional Quarterly, "authorize a total of \$350 million
+    through fiscal 2026 for the formal establishment of a Labor
+    Department office of apprenticeship to oversee the national
+    apprenticeship system, as well as for program research and
+    evaluation and the establishment of an apprenticeship advisory
+    committee." \[Congressional Quarterly,
+    [2/5/21](https://plus.cq.com/vote/2021/H/31?30)\]
+
+-   **The Bill Would Provide \$70 Million Through FY 2026 To The Labor
+    Department To Work With The Education Department To Integrate The
+    System With Educational Institutions, \$475 Million Through FY 2026
+    For State Apprenticeship Agencies, And \$3 Billion Through FY 2026
+    For Grants And Program Expansion.** According to Congressional
+    Quarterly, "authorize a total of \$70 million for the Labor
+    Department to carry out an agreement with the Education Department
+    to support integration and alignment of the national apprenticeship
+    system with the education system; \$475 million for state
+    apprenticeship agencies; and \$3 billion for grants and agreements
+    to support apprenticeship programs, including to expand programs in
+    nontraditional apprenticeship industries and high-need social
+    service industries and programs targeting individuals with barriers
+    to employment." \[Congressional Quarterly,
+    [2/5/21](https://plus.cq.com/vote/2021/H/31?30)\]
+
+-   **The Bill Would Require A 25% Match Of Federal Funds By State
+    Apprenticeship Agencies And Grant Recipients.** According to
+    Congressional Quarterly, "require state apprenticeship agencies and
+    grant recipients to match 25% of federal funds received."
+    \[Congressional Quarterly,
+    [2/5/21](https://plus.cq.com/vote/2021/H/31?30)\]
+
+-   **The Bill Would Establish Quality Standards, Registration
+    Requirements, Planning And Implementation Requirements For States,
+    And Eligible Occupations.** According to Congressional Quarterly,
+    "establish a number of apprenticeship program quality standards;
+    requirements for registration, planning and implementation of
+    programs by states; and requirements for occupations to be approved
+    as 'apprenticeable occupations' within the national apprenticeship
+    system." \[Congressional Quarterly,
+    [2/5/21](https://plus.cq.com/vote/2021/H/31?30)\]
+
+-   **The Bill Would Require The National Office Of Apprenticeship To
+    Supervise The Program's Standards, Provide Tech Assistance, And
+    Promote Diversity In The Program.** According to Congressional
+    Quarterly, "require the national office of apprenticeship to oversee
+    such standards; establish and provide technical assistance to state
+    offices of apprenticeship; and promote diversity within the system
+    through recruitment, employment and retention of nontraditional
+    apprenticeship participants, industries and occupations."
+    \[Congressional Quarterly,
+    [2/5/21](https://plus.cq.com/vote/2021/H/31?30)\]
+
+**2020: Fitzpatrick Voted For The Reauthorization And Expansion Of The
+National Apprenticeship System, Approving \$3.9 Billion For
+Administration And Grants.** In November 2020, Fitzpatrick voted for
+National Apprenticeship Act that would, according to Congressional
+Quarterly, "reauthorize and expand programs and activities under the
+Labor Department national apprenticeship system, authorizing a total of
+\$3.9 billion for program administration and grants to apprenticeship
+programs. It would largely codify apprenticeship program standards and
+expand the system to include pre-apprenticeship and youth apprenticeship
+programs. It would authorize a total of \$350 million through fiscal
+2025 for the formal establishment of a Labor Department office of
+apprenticeship to oversee the national apprenticeship system, as well as
+for program research and evaluation and the establishment of an
+apprenticeship advisory committee. Through fiscal 2025, it would
+authorize a total of \$70 million for the Labor Department to carry out
+an agreement with the Education Department to support integration and
+alignment of the national apprenticeship system with the education
+system; \$475 million for state apprenticeship agencies; and \$3 billion
+for grants and agreements to support apprenticeship programs, including
+to expand programs in nontraditional apprenticeship industries and
+high-need social service industries and programs targeting individuals
+with barriers to employment. It would require state apprenticeship
+agencies and grant recipients to match 25% of federal funds received. It
+would establish a number of apprenticeship program quality standards;
+requirements for registration, planning and implementation of programs
+by states; and requirements for occupations to be approved as
+'apprenticeable occupations' within the national apprenticeship system.
+It would require the national office of apprenticeship to oversee such
+standards; establish and provide technical assistance to state offices
+of apprenticeship; and promote diversity within the system through
+recruitment, employment and retention of nontraditional apprenticeship
+participants, industries and occupations." The vote was on passage. The
+House passed the bill by a vote of 246-140. The Senate did not take
+substantive action on the bill. \[House Vote 227,
+[11/20/20](http://clerk.house.gov/evs/2020/roll227.xml); Congressional
+Quarterly, [11/20/20](https://plus.cq.com/vote/2020/H/227?8);
+Congressional Actions, [H.R.
+8294](https://www.congress.gov/bill/116th-congress/house-bill/8294/actions)\]
+
+-   **The National Apprenticeship Act Of 2020 Was Projected To Create
+    Approximately A Million New Apprenticeship Opportunities.**
+    According to SHRM, "This legislation is projected to create nearly
+    one million new apprenticeship opportunities over the next five
+    years in addition to the normal, expected growth of the programs."
+    \[SHRM,
+    [11/30/20](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/house-approves-apprenticeship-overhaul.aspx)\]
+
+-   **Many Republicans Opposed The National Apprenticeship Act Of 2020
+    Due To President Trump's Industry Recognized Apprenticeship Programs
+    Being Left Out Of The Legislation.** According to SHRM, "While
+    expanding apprenticeships has bipartisan support, the main sticking
+    point for Republicans opposing the legislation is the rejection of
+    funding for President Donald Trump\'s Industry-Recognized
+    Apprenticeship Programs (IRAPs). The IRAP system was established
+    this year to exist alongside the DOL-regulated system. The model is
+    meant to encourage industries to participate in work-based learning
+    programs by turning over recognition and oversight of the programs
+    to third parties, such as businesses, trade groups, nonprofits and
+    unions." \[SHRM,
+    [11/30/20](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/house-approves-apprenticeship-overhaul.aspx)\]
+
+-   **Industry Recognized Apprenticeship Programs Were Not Included In
+    Legislation Due To Lack Of Government Oversight May Lead To Fewer
+    Worker Protections And Would Reduce Funding For Registered
+    Programs.** According to SHRM, "critics of the IRAPs contend that
+    replacing government oversight with industry-run accreditation will
+    lead to fewer worker protections \[...\] The bill does not mention
+    the IRAP model, and House Democrats say they have no intention of
+    funding the new system because doing so would take money away from
+    registered programs." \[SHRM,
+    [11/30/20](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/house-approves-apprenticeship-overhaul.aspx)\]
+
+### Remove Federal Oversight Requirements
+
+**2020: Fitzpatrick Voted Against An Amendment To The National
+Apprenticeship Act Of 2020 That Would Remove Certain Federal Oversight
+Requirements And Certain Funding Requirements, And Would Eliminate The
+Establishment Requirement Of A Labor Department Advisory Committee On
+Apprenticeships And An Interagency Agreement.** In November 2020,
+Fitzpatrick voted against an amendment to the National Apprenticeship
+Act that would, according to Congressional Quarterly, "replace the text
+of the bill to make a number of changes. Among other provisions, it
+would authorize all programs at lower amounts; modify requirements
+related to state planning of apprenticeship programs, including to
+eliminate certain requirements for federal oversight and requirements
+that funding be used for alignment with state workforce and education
+activities; and strike requirements for establishment of a Labor
+Department advisory committee on apprenticeships and an interagency
+agreement with the Education Department to support the integration of
+apprenticeship and educational programs." The vote was on adoption. The
+House rejected the amendment by a vote of 142-243. \[House Vote 226,
+[11/20/20](http://clerk.house.gov/evs/2020/roll226.xml); Congressional
+Quarterly, [11/20/20](https://plus.cq.com/vote/2020/H/226?7);
+Congressional Actions,
+[H.Amdt.902](https://www.congress.gov/amendment/116th-congress/house-amendment/902/actions?r=1&s=a);
+Congressional Actions, [H.R.
+8294](https://www.congress.gov/bill/116th-congress/house-bill/8294/actions)\]
+
+### Substitute Amendment
+
+**2021: Fitzpatrick Voted Against An Amendment That Would Authorize
+Extra Work-Based Learning Programs, Remove A Labor Department Advisory
+Committee On Apprenticeships, Remove An Interagency Collaboration To
+Integrate The Apprenticeship Program With Educational Institutions, And
+Increase State Plan Process Flexibility.** In February 2021, Fitzpatrick
+voted against a substitute amendment to the National Apprenticeship Act
+of 2021 which would, according to Congressional Quarterly, "replace the
+text of the bill to add or modify a number of provisions. Among other
+provisions, it would authorize additional work-based learning programs,
+strike the establishment of a Labor Department advisory committee on
+apprenticeships, and strike an interagency agreement with the Education
+Department to 'promote and support' the integration and alignment of
+national apprenticeship system programs with educational institutions.
+It would also increase 'flexibility' for the state plan process related
+to how the national apprenticeship system aligns with state workforce
+and education activities." The vote was on the adoption of a substitute
+amendment. The House rejected the amendment by a vote of 175-245.
+\[House Vote 30, [2/5/21](http://clerk.house.gov/evs/2021/roll030.xml);
+Congressional Quarterly,
+[2/5/21](https://plus.cq.com/vote/2021/H/30?33); Congressional Actions,
+[H.Amdt.
+9](https://www.congress.gov/amendment/117th-congress/house-amendment/9/actions?r=1&s=a);
+Congressional Actions, [H.R.
+447](https://www.congress.gov/bill/117th-congress/house-bill/447/actions)\]

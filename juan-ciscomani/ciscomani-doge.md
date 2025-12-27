@@ -1,0 +1,71 @@
+---
+title: Juan Ciscomani Stood By While Social Security Was Attacked
+description: 
+published: true
+date: 2025-12-05T21:22:00.015Z
+tags: 
+editor: markdown
+dateCreated: 2025-05-27T11:43:18.242Z
+---
+
+## Overview
+
+Ciscomani stood by while Trump’s “Department of Government Efficiency” made cuts and reductions that affected the federal government’s ability to deliver services to seniors. [More than 232,000 Arizonans](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/az.pdf) in Ciscomani’s district relied on Social Security benefits. Ciscomani was even [“thrilled”](https://ciscomani.house.gov/media/press-releases/ciscomani-joins-doge-caucus-rein-wasteful-spending-and-make-government-more) to join the congressional DOGE caucus and claimed people needed to [trust Trump and his decisions](https://www.gvnews.com/free_access/q-a-ciscomani-looks-at-trumps-first-four-weeks/article_9150683a-f008-11ef-bb2f-abdfeb76f9dd.html). 
+
+## Ciscomani Was A Rubber Stamp For Trump And DOGE’s Harmful Agenda
+
+### January 2025: Ciscomani Joined the Congressional Doge Caucus
+
+**January 2025: Ciscomani Said He Was Proud To Join The DOGE Caucus To Rein In Wasteful Spending And Put America Back On The Track Of Fiscal Responsibility.** According to an op-ed by Juan Ciscomani in the Washington Reporter, "This is why, as Arizona’s sole House appropriator, I was proud to join the Delivering Outstanding Government Efficiency (DOGE) Caucus to work closely with President Donald Trump’s newly formed Department of Government Efficiency (DOGE) to rein in wasteful spending, streamline bloated government bureaucracies, and put America back on the path of fiscal responsibility." \[Juan Ciscomani Op-Ed, Washington Reporter, [1/24/25](https://washingtonreporter.news/p/op-ed-rep-juan-ciscomani-our-national)\]
+
+-   **12/6/24: Ciscomani Said He Was “Thrilled” To Join The DOGE Caucus.** According to a press release from Rep. Juan Ciscomani, "‘The United States’ national debt recently surpassed $36 trillion and is becoming increasingly unsustainable every day, risking our nation’s fiscal stability,’ said Ciscomani. ‘This is why I am thrilled to join the DOGE Caucus to work closely with President-elect Trump’s newly formed Department of Government Efficiency to reduce waste, cut unnecessary red-tape, streamline bloated government bureaucracies, safeguard taxpayer dollars, and put America back on the path of fiscal responsibility.’" \[Press Release – Rep. Juan Ciscomani, [12/6/24](https://ciscomani.house.gov/media/press-releases/ciscomani-joins-doge-caucus-rein-wasteful-spending-and-make-government-more)\]
+
+**Ciscomani Said His Approach To DOGE Cuts Was To Tackle Waste, Fraud, And Abuse And Root Out Outdated Programs In The Federal Government.** According to the Tucson Sentinel, "Ciscomani, a member of the new DOGE Caucus in the House of Representatives, met with Musk on Dec. 5 alongside House Speaker Mike Johnson and other Republican lawmakers. Ciscomani said Monday his approach to the DOGE effort ‘is to make sure that government spending is being held accountable and that we can tackle and identify the waste, the fraud, the abuse within the government that is not reaching its intended purpose. And when you do that, you're going to find areas that don't need this funding anymore. You're gonna find programs that are not meeting their standards, programs that are outdated and no longer necessary.’" \[Tucson Sentinel, [2/18/25](https://www.tucsonsentinel.com/local/report/021825_cisco_town_hall/ciscomani-praises-doge-work-while-protestors-warn-that-us-sliding-into-fascism/)\]
+
+### DOGE Cuts Created Chaos and Resulted in Layoffs in Arizona
+
+**There Were Roughly 15,000 Federal Workers In Ciscomani’s District.** According to the Kentucky Lantern, "There are also thousands of federal employees spread throughout the 18 House districts identified as toss-up races by The Cook Political Report with Amy Walter, according to a report from the nonpartisan Congressional Research Service.  The eight GOP-held House seats that could swing to Democrats following the 2026 midterms include Arizona’s 6th Congressional District, currently represented by Rep. Juan Ciscomani and home to about 15,000 federal workers." \[Kentucky Lantern, [2/18/25](https://kentuckylantern.com/2025/02/18/repub/republicans-worry-gop-led-states-will-suffer-from-trumps-firings-of-federal-workers/)\]
+
+**The Trump Administration Laid Off 1,400 Workers At The Department Of Veterans Affairs Which Included Therapists And Mental Health Professionals In Arizona.** According to the Arizona Republic, "The Trump administration laid off 1,400 workers at the Department of Veteran Affairs across the country, bringing the total firings at the agency to 2,400 workers in the past month. The terminated employees held ‘non-mission critical positions,’ the VA said in a news release. \[…\] Taylor Hernandez, a 23-year-old recreation therapist at the VA, was fired in the same way and has also appealed the decision. She warned the Community Living Center unit where she worked would no longer meet the therapist-to-veteran ratio standard and the remaining therapist would likely be overwhelmed with work. The Department of Veterans Affairs did not say how many employees were laid off in Arizona, but Hernandez said the cuts here included other therapists and mental health professionals." \[Arizona Republic, [2/27/25](https://www.azcentral.com/story/news/politics/arizona/2025/02/27/trumps-doge-firings-hit-phoenix-va-therapists/80570579007/)\]
+
+**Ten Staffers Were Fired At The Arizona Rural Development Office, Which Was An Arm Of The U.S. Department Of Agriculture.** According to the Arizona Republic, "Ten staffers were fired from Arizona’s rural development office last month, an organization that oversees government loans for rural public works projects. It’s a significant cut to the office, which a former employee said employed 30 to 40 people. The office is part of the U.S. Department of Agriculture. The massive agency employs 100,000 people across the nation. It’s not clear how many USDA employees have been fired from their jobs this year." \[Arizona Republic, [2/27/25](https://www.azcentral.com/story/news/politics/arizona/2025/02/27/trumps-doge-firings-hit-phoenix-va-therapists/80570579007/)\]
+
+**HEADLINE: "DOGE Cuts Leases For Several National Park Service Offices In Arizona"** \[AZFamily, [3/26/25](https://www.azfamily.com/2025/03/27/doge-cuts-leases-several-national-park-service-offices-arizona/)\]
+
+**HEADLINE: “Veterans, Supporters Protest DOGE In Front Of Tucson VA Hospital”** \[KGUN 9 Tucson (ABC), [3/14/25](https://www.kgun9.com/news/community-inspired-journalism/southside-news/veterans-supporters-protest-doge-in-front-of-tucson-va-hospital)\]
+
+**HEADLINE: “Trump Federal Firings Could Hit Arizona Veterans Hard”** \[Axios Phoenix, [3/21/25](https://www.axios.com/local/phoenix/2025/03/21/trump-federal-job-cuts-veterans-impact)\]
+
+**HEADLINE: “Arizona Museums, Libraries Could Lose $3.8 Million In Grants From Federal Cuts”** \[Tucson Sentinel, [4/9/25](https://www.tucsonsentinel.com/local/report/040925_library_cuts/arizona-museums-libraries-could-lose-38-million-grants-from-federal-cuts/)\]
+
+### February 2025: Asked if He Disagreed with Anything Trump Was Doing, Ciscomani Claimed People Should Trust Trump
+
+**Ciscomani: “People Need To Trust Trump With These Decisions Just As They Trusted Him With Their Vote In November.”** According to Green Valley News, "Q: Are there any decisions President Trump has made that you’re uncomfortable with?  A: Ciscomani granted that Trump’s ‘style’ isn’t for everybody, and doesn’t mesh with his own. But people need to trust Trump with these decisions just as they trusted him with their vote in November, and let it play out. He added there is tremendous support for Trump's actions and how fast they are playing out." \[Green Valley News, [2/21/25](https://www.gvnews.com/free_access/q-a-ciscomani-looks-at-trumps-first-four-weeks/article_9150683a-f008-11ef-bb2f-abdfeb76f9dd.html)\]
+
+**When Asked If There Was A Decision Trump Had Made In His First Two Months In Office That He Disagreed With, Ciscomani Gave No Specific Example And Said There Was Tremendous Support For The President’s Actions.** According to Green Valley News, "Q: Are there any decisions President Trump has made that you’re uncomfortable with?  A: Ciscomani granted that Trump’s ‘style’ isn’t for everybody, and doesn’t mesh with his own. But people need to trust Trump with these decisions just as they trusted him with their vote in November, and let it play out. He added there is tremendous support for Trump's actions and how fast they are playing out." \[Green Valley News, [2/21/25](https://www.gvnews.com/free_access/q-a-ciscomani-looks-at-trumps-first-four-weeks/article_9150683a-f008-11ef-bb2f-abdfeb76f9dd.html)\]
+
+### At The Social Security Administration, Doge Had Forced Mass Layoffs, Longer Wait Times And Frequent Website Crashes
+
+**HEADLINE: "Social Security Stops Reporting Call Wait Times And Other Metrics"** \[Washington Post, [6/20/25](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/)\]
+
+**HEADLINE: "As Social Security Services Are Cut Back, Millions Of Seniors Face Long Drives"** \[Axios, [6/8/25](https://www.axios.com/2025/04/08/social-security-seniors-drive)\]
+
+**HEADLINE: "Social Security Website Keeps Crashing, As DOGE Demands Cuts To IT Staff"** \[Washington Post, [4/7/25](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/)\]
+
+**HEADLINE: "Social Security Faces Thousands More Job Cuts Even With Service In Tailspin"** \[Washington Post, [4/4/25](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/)\]
+
+**The Social Security Administration Website Crashed Four Times In Ten Days In March Because Servers Were Overloaded.** According to the Washington Post, "The Social Security Administration website crashed four times in 10 days this month because the servers were overloaded, blocking millions of retirees and disabled Americans from logging in to their online accounts. In the field, office managers have resorted to answering phones in place of receptionists because so many employees have been pushed out. Amid all this, the agency no longer has a system to monitor customer experience because that office was eliminated as part of the cost-cutting efforts led by Elon Musk. And the phones keep ringing. And ringing." \[Washington Post, [3/25/25](https://www.washingtonpost.com/politics/2025/03/25/social-security-phones-doge-cuts/)\] 
+
+**Field Office Managers At Social Security Offices Had To Answer Phones In Place Of Receptionists Because DOGE Had Pushed Out So Many Federal Employees.** According to the Washington Post, "The Social Security Administration website crashed four times in 10 days this month because the servers were overloaded, blocking millions of retirees and disabled Americans from logging in to their online accounts. In the field, office managers have resorted to answering phones in place of receptionists because so many employees have been pushed out. Amid all this, the agency no longer has a system to monitor customer experience because that office was eliminated as part of the cost-cutting efforts led by Elon Musk. And the phones keep ringing. And ringing." \[Washington Post, [3/25/25](https://www.washingtonpost.com/politics/2025/03/25/social-security-phones-doge-cuts/)\]
+
+**DOGE Eliminated The Social Security Administration’s System To Monitor Customer Experience.** According to the Washington Post, "The Social Security Administration website crashed four times in 10 days this month because the servers were overloaded, blocking millions of retirees and disabled Americans from logging in to their online accounts. In the field, office managers have resorted to answering phones in place of receptionists because so many employees have been pushed out. Amid all this, the agency no longer has a system to monitor customer experience because that office was eliminated as part of the cost-cutting efforts led by Elon Musk. And the phones keep ringing. And ringing." \[Washington Post, [3/25/25](https://www.washingtonpost.com/politics/2025/03/25/social-security-phones-doge-cuts/)\]
+
+**Early February-Late March 2025: AARP Said More Than 2,000 People Per Week Had Called Expressing Concerns About Whether They Would Continue To Get Their Social Security Benefits.** According to the Washington Post, "Alarmed lawmakers are straining to answer questions back home from angry constituents. Calls have flooded into congressional offices. AARP announced Monday that more than 2,000 people a week have called the retiree organization since early February — double the usual number — with concerns about whether benefits they paid for during their working careers will continue. Social Security is the primary source of income for about 40 percent of older Americans." \[Washington Post, [3/25/25](https://www.washingtonpost.com/politics/2025/03/25/social-security-phones-doge-cuts/)\]
+
+#### 2024: Ciscomani Promised He Would Not Raise The Retirement Age Or Support Cuts To Social Security
+
+**2024: While Running For Re-Election, Ciscomani Shared A Campaign Ad Claiming He Was Focused On Protecting Medicare And Social Security.** According to a post on Juan Ciscomani’s Twitter, “My family came here to live the American Dream, but today it is falling further and further out of reach for everyday Americans.  That’s why I’m focused on solutions: Lower prices, protecting Medicare and Social Security, supporting our veterans and securing our border.” \[Twitter, @JuanCiscomani, [8/6/24](https://x.com/JuanCiscomani/status/1820851711784968243)\] (video) 
+
+### More Than 232,000 Arizonans In The 6^th^ Congressional District Relied On Social Security Benefits
+
+**2024: 232,166 Arizonans In The 6^th^ Congressional District Relied On Social Security Benefits.** According to the Social Security Administration, in 2024, 232,166 Arizonans in the 6^th^ congressional district received Social Security benefits. \[Social Security Administration, Arizona, [2024](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/az.pdf)\]

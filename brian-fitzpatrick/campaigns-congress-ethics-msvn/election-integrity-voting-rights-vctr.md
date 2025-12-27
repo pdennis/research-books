@@ -1,0 +1,339 @@
+---
+title: Election Integrity And Voting Rights
+description: 
+published: true
+date: 2025-09-22T20:23:21.562Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:23:17.101Z
+---
+
+# Election Integrity And Voting Rights
+
+**2022: Fitzpatrick Effectively Voted Against An Election Integrity And
+Voting Rights Package.** In January 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "adoption of the rule (H Res
+868) that would provide for floor consideration of the House amendment
+to the Senate amendment to the legislative vehicle (HR 5746) for voting
+rights legislation. It would provide for up to one hour of debate on a
+motion to concur in the Senate amendment to the bill, with a further
+House amendment." The vote was on the adoption of the rule. The House
+adopted the rule by a vote of 220-202. \[House Vote 8,
+[1/12/22](http://clerk.house.gov/evs/2022/roll008.xml); Congressional
+Quarterly, [1/12/22](https://plus.cq.com/vote/2022/H/8?19);
+Congressional Actions, [H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions);
+Congressional Actions, [H.Res.
+868](https://www.congress.gov/bill/117th-congress/house-resolution/868/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against An Election Integrity And
+Voting Rights Package.** In January 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "motion to order the previous
+question (thus ending debate and possibility of amendment) on the rule
+(H Res 868) that would provide for floor consideration of the House
+amendment to the Senate amendment to the legislative vehicle (HR 5746)
+for voting rights legislation. It would provide for up to one hour of
+debate on a motion to concur in the Senate amendment to the bill, with a
+further House amendment." The vote was on a motion to order the previous
+question. The House agreed to the motion by a vote of 220-201. \[House
+Vote 7, [1/12/22](http://clerk.house.gov/evs/2022/roll007.xml);
+Congressional Quarterly,
+[1/12/22](https://plus.cq.com/vote/2022/H/7?14); Congressional Actions,
+[H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions);
+Congressional Actions, [H.Res.
+868](https://www.congress.gov/bill/117th-congress/house-resolution/868/actions)\]
+
+-   **The Bill Would Extend The Authority For NASA To Lease Property And
+    The House Would Attach An Amendment That Adds Provisions From Voting
+    Rights Bills.** According to Congressional Quarterly, "The rule (H
+    Res 868) would allow the House Administration chairperson or her
+    designee to make a motion to concur in the Senate amendment to a
+    NASA leasing extension bill (HR 5746) with a House amendment that
+    would replace the text of the underlying measure with the provisions
+    of the voting rights bills. " \[Congressional Quarterly,
+    [1/12/22](https://plus.cq.com/doc/committees-20220112478878?18)\]
+
+### Campaign Finance Reporting And Restrictions
+
+**2022: Fitzpatrick Voted Against The Freedom To Vote Act, Which
+Expanded Disclosure Requirements For Large Campaign Contributions,
+Required Reporting Of Foreign Contracts To The FBI, And Prohibited The
+Creation Of Corporations To Hide Foreign Election Contributions.** In
+January 2022, according to Congressional Quarterly, Fitzpatrick voted
+against concurring in the Senate amendment with a House amendment to the
+Freedom to Vote: John R. Lewis Act, which in part would "expand
+disclosure requirements for large campaign contributions, require
+candidates and political committees to report foreign contacts to the
+Federal Bureau of Investigation, and prohibit the creation of
+corporations to conceal foreign election contributions." The vote was on
+a motion to concur. The House agreed to the motion by a vote of 220-203,
+thus the bill was sent to the Senate. The Senate subsequently failed to
+invoke cloture. \[House Vote 9,
+[1/13/22](http://clerk.house.gov/evs/2022/roll009.xml); Congressional
+Quarterly, [1/13/22](https://plus.cq.com/vote/2022/H/9?3); Congressional
+Actions, [H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions)\]
+
+-   **The Freedom To Vote Act Would Regulate Campaign Finance By
+    Limiting Dark Money By Political Action Committees And Requiring
+    Groups That Spend Over \$10K To Disclose Their Donors.** According
+    to NPR, "It would also impose new rules on how campaigns are paid
+    for by limiting the use of so-called dark money by political action
+    committees. Any group that spends more than \$10,000 to influence an
+    election would be required to disclose all donors." \[NPR,
+    [1/18/22](https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act)\]
+
+-   **The Freedom To Vote Act Would Fortify The Federal Election
+    Commission's Authority To Investigate Campaign Abuse Charges And
+    Require The Replacement Of Outdated Voting Machines With Machines
+    That Provide Voters Paper Receipts Of Their Ballots.** According to
+    NPR, "The measure would also strengthen the Federal Election
+    Commission's ability to investigate charges of campaign abuses and
+    require that states replace outdated voting machines with ones that,
+    among other things, provide voters with paper records of their
+    ballots." \[NPR,
+    [1/18/22](https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act)\]
+
+-   **The Bill Required Additional Campaign Finance Disclosures,
+    Strengthened Prohibitions On Foreign Spending On Elections,
+    Including Ballot Initiatives, And Required Additional Disclosures On
+    Money Sources For Political Groups That Spend To Influence
+    Elections.** According to Congressional Quarterly, "The bill also
+    includes provisions that would require more disclosures of political
+    money. It would toughen prohibitions on foreign nationals' spending
+    on elections, including on ballot initiatives, and would require
+    additional disclosures of the sources of money for groups that spend
+    to influence elections." \[Congressional Quarterly,
+    [1/13/22](https://plus.cq.com/doc/news-6432782?1)\]
+
+### Expanding Voter Registration And Access
+
+**2022: Fitzpatrick Voted Against The Freedom To Vote Act, Which
+Required States To Permit Online And Same-Day Voter Registration,
+Automatically Register Voters, Permit Early Voting, Enact A
+Ballot-Tracking Program For All Absentee Ballots, Require Paper Ballot
+Voting, And Expand Valid Forms Of Voter Identification.** In January
+2022, according to Congressional Quarterly, Fitzpatrick voted against
+concurring in the Senate amendment with a House amendment to the Freedom
+to Vote: John R. Lewis Act, which in part would "require states to allow
+online and same-day registration, automatically register eligible
+voters, allow early voting at least 15 days before election day, carry
+out a program to track and confirm receipt of all absentee ballots,
+require voting via paper ballots, and accept certain alternate forms of
+voter identification." The vote was on a motion to concur. The House
+agreed to the motion by a vote of 220-203, thus the bill was sent to the
+Senate. The Senate subsequently failed to invoke cloture. \[House Vote
+9, [1/13/22](http://clerk.house.gov/evs/2022/roll009.xml); Congressional
+Quarterly, [1/13/22](https://plus.cq.com/vote/2022/H/9?3); Congressional
+Actions, [H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions)\]
+
+-   **The Freedom To Vote Act Would Make Election Day A National
+    Holiday, Permit States To Have At Least 2 Weeks Of Early Voting,
+    Allow No-Excuse Absentee Ballot Voting, Require Greater
+    Accessibility For People With Disabilities, Require States To
+    Broaden Their Valid Photo Identification Requirements, And Require
+    States To Offer Same-Day And Online Voter Registration.** According
+    to NPR, "The measure would: make Election Day a national holiday,
+    aimed at making easier for all voters to get to the polls that day;
+    allow states to have early voting for at least two weeks prior to
+    Election Day, including nights and weekends; allow voting by mail
+    with no excuses needed, and voters could put their ballots in drop
+    boxes; require that states make voting more accessible for people
+    with disabilities; require that states that require IDs for voting
+    would have to broaden the types of identification acceptable. States
+    would also have to offer same-day voting registration and online
+    registration and also make it easier to register at places like
+    departments of motor vehicles." \[NPR,
+    [1/18/22](https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act)\]
+
+**2022: Fitzpatrick Voted Against The Freedom To Vote Act, Which
+Established Election Day As A Federal Holiday And Improved Voter Access
+For People With Disabilities.** In January 2022, according to
+Congressional Quarterly, Fitzpatrick voted against concurring in the
+Senate amendment with a House amendment to the Freedom to Vote: John R.
+Lewis Act, which in part would "make Election Day a federal holiday and
+include provisions to improve voter access for individuals with
+disabilities." The vote was on a motion to concur. The House agreed to
+the motion by a vote of 220-203, thus the bill was sent to the Senate.
+The Senate subsequently failed to invoke cloture. \[House Vote 9,
+[1/13/22](http://clerk.house.gov/evs/2022/roll009.xml); Congressional
+Quarterly, [1/13/22](https://plus.cq.com/vote/2022/H/9?3); Congressional
+Actions, [H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions)\]
+
+### Preclearance Requirements
+
+**2022: Fitzpatrick Voted Against The Freedom To Vote Act, Which Would
+Strengthen Anti-Discrimination Enforcement By Restoring Preclearance
+Requirements Under The Voting Rights Act.** In January 2022, according
+to Congressional Quarterly, Fitzpatrick voted against concurring in the
+Senate amendment with a House amendment to the Freedom to Vote: John R.
+Lewis Act, which "Among other provisions to strengthen
+anti-discrimination enforcement authorities in relation to voting
+practices, the bill would effectively restore preclearance requirements
+under the Voting Rights Act for any changes to voting practices in
+states and localities with a history of voting rights violations in the
+previous 25 years. It would establish formulas to identify such
+jurisdictions, which would be required to submit proposed changes to the
+Justice Department for preclearance before implementation." The vote was
+on a motion to concur. The House agreed to the motion by a vote of
+220-203, thus the bill was sent to the Senate. The Senate subsequently
+failed to invoke cloture. \[House Vote 9,
+[1/13/22](http://clerk.house.gov/evs/2022/roll009.xml); Congressional
+Quarterly, [1/13/22](https://plus.cq.com/vote/2022/H/9?3); Congressional
+Actions, [H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions)\]
+
+**2022: Fitzpatrick Voted Against The Freedom To Vote Act, Which
+Required States And Localities To Review Election Practices To Identify
+Regulations That May Hinder Voting Rights And Subject Such Practices To
+Federal Preclearance, And Expanded Justice Department Authority To
+Assign Federal Election Observers.** In January 2022, according to
+Congressional Quarterly, Fitzpatrick voted against concurring in the
+Senate amendment with a House amendment to the Freedom to Vote: John R.
+Lewis Act, which in part would "require states and localities to review
+election practices to identify any practices that could impact the
+ability to vote based on race, color or language minority group and
+subject any such practices to federal preclearance. It would expand
+Justice Department authority to assign federal election observers to
+ensure compliance with federal voting rights protections." The vote was
+on a motion to concur. The House agreed to the motion by a vote of
+220-203, thus the bill was sent to the Senate. The Senate subsequently
+failed to invoke cloture. \[House Vote 9,
+[1/13/22](http://clerk.house.gov/evs/2022/roll009.xml); Congressional
+Quarterly, [1/13/22](https://plus.cq.com/vote/2022/H/9?3); Congressional
+Actions, [H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions)\]
+
+-   **The Bill Required States To Have A Specific Governmental Interest
+    For Implementing Election Changes That Could Substantially Affect
+    Voting Rights And Such Changes Would Need To Be The Least
+    Restrictive Way To Achieve Their Governmental Interest.** According
+    to Congressional Quarterly, "The new language would require states
+    to have an important and specific government interest if they want
+    to implement election changes that would substantially impair the
+    right to vote or have the vote be counted. And those election
+    changes would have to be the least restrictive way of accomplishing
+    that interest." \[Congressional Quarterly,
+    [1/13/22](https://plus.cq.com/doc/news-6432782?1)\]
+
+-   **The Bill Defined "Substantial Impairment" As A Mechanism That Were
+    To Make It More Difficult To Vote Or Have Their Vote Counted, Even
+    If Voters Were Able To Vote And Have Their Votes Counted Under
+    Electoral Changes.** According to Congressional Quarterly, "The bill
+    also includes new language that would define a substantial
+    impairment as 'one that makes it more difficult to vote or have
+    one's vote counted,' even if the voters are able to vote and have it
+    counted under those changes." \[Congressional Quarterly,
+    [1/13/22](https://plus.cq.com/doc/news-6432782?1)\]
+
+### Prohibiting Partisan Gerrymandering
+
+**2022: Fitzpatrick Voted Against The Freedom To Vote Act, Which
+Established Redistricting Criteria To Prevent Partisan Gerrymandering
+And Protect Political Participation Of Minorities.** In January 2022,
+according to Congressional Quarterly, Fitzpatrick voted against
+concurring in the Senate amendment with a House amendment to the Freedom
+to Vote: John R. Lewis Act, which in part would "establish uniform
+criteria for states\' congressional redistricting plans to prevent
+partisan gerrymandering and protect political participation of minority
+groups." The vote was on a motion to concur. The House agreed to the
+motion by a vote of 220-203, thus the bill was sent to the Senate. The
+Senate subsequently failed to invoke cloture. \[House Vote 9,
+[1/13/22](http://clerk.house.gov/evs/2022/roll009.xml); Congressional
+Quarterly, [1/13/22](https://plus.cq.com/vote/2022/H/9?3); Congressional
+Actions, [H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions)\]
+
+-   **The Freedom To Vote Act Was A Broad Measure That Affected
+    Congressional Redistricting And Campaign Finance.** According to
+    NPR, "The second bill the Senate is considering is the Freedom to
+    Vote Act. It's a more sweeping measure of the two, and would affect
+    everything from the way congressional districts are drawn to how
+    campaigns are financed." \[NPR,
+    [1/18/22](https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act)\]
+
+-   **The Freedom To Vote Act Would Prohibit Partisan Gerrymandering And
+    Limit How States May Conduct Voter Purges From Voter Checklists.**
+    According to NPR, "The measure would also outlaw partisan
+    gerrymandering --- that is, drawing congressional boundaries to the
+    political advantage of one party or another --- and would limit the
+    ways states can purge people from voting rolls." \[NPR,
+    [1/18/22](https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act)\]
+
+### Prohibiting Voter Intimidation And Harassment
+
+**2022: Fitzpatrick Voted Against The Freedom To Vote Act, Which
+Prohibited Intimidating Individuals From Registering To Vote, Engaging
+In Voter Intimidation And Harassment Of Election Workers, And
+Restricting Food And Non-Alcoholic Drinks At Polling Locations.** In
+January 2022, according to Congressional Quarterly, Fitzpatrick voted
+against concurring in the Senate amendment with a House amendment to the
+Freedom to Vote: John R. Lewis Act, which in part would "prohibit any
+attempt to prevent an individual from registering to vote, prohibit
+certain practices related to voter intimidation and harassment of
+election workers, and prohibit states from restricting the provision of
+food and nonalcoholic beverages at polling locations." The vote was on a
+motion to concur. The House agreed to the motion by a vote of 220-203,
+thus the bill was sent to the Senate. The Senate subsequently failed to
+invoke cloture. \[House Vote 9,
+[1/13/22](http://clerk.house.gov/evs/2022/roll009.xml); Congressional
+Quarterly, [1/13/22](https://plus.cq.com/vote/2022/H/9?3); Congressional
+Actions, [H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions)\]
+
+### Public Campaign Finance Systems
+
+**2022: Fitzpatrick Voted Against The Freedom To Vote Act, Which
+Established Public Financing Systems For Presidential And Congressional
+Campaigns And Created A Public Financing Voucher Pilot Program In Three
+States.** In January 2022, according to Congressional Quarterly,
+Fitzpatrick voted against concurring in the Senate amendment with a
+House amendment to the Freedom to Vote: John R. Lewis Act, which in part
+would "modify or establish public financing mechanisms for presidential
+and congressional election campaigns that would match 600% of each
+contribution of up to \$200 for candidates whose campaigns do not accept
+contributions of more than \$1,000 per individual donor and do not use
+more than \$50,000 of the candidate\'s personal funds. It would create a
+public financing voucher pilot program in three states, under which each
+eligible voter could donate \$25 in public funding credit to House
+candidates." The vote was on a motion to concur. The House agreed to the
+motion by a vote of 220-203, thus the bill was sent to the Senate. The
+Senate subsequently failed to invoke cloture. \[House Vote 9,
+[1/13/22](http://clerk.house.gov/evs/2022/roll009.xml); Congressional
+Quarterly, [1/13/22](https://plus.cq.com/vote/2022/H/9?3); Congressional
+Actions, [H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions)\]
+
+-   **The Freedom To Vote Act Would Establish A Small Donor Matching
+    System For House Candidates, In Which The Election Assistance And
+    Innovation Fund Would Match Contributions Up To \$200 At A 6 To 1
+    Ratio.** According to NPR, "A small donor matching system would be
+    set up for House candidates. A new Election Assistance and
+    Innovation Fund would match contributions up to \$200 at a 6:1
+    ratio. The fund would not use taxpayer dollars and instead be
+    financed through assessments paid on fines, penalties and
+    settlements for certain tax crimes and corporate malfeasance."
+    \[NPR,
+    [1/18/22](https://www.npr.org/2022/01/18/1073021462/senate-voting-rights-freedom-to-vote-john-lewis-voting-rights-advancement-act)\]
+
+### Public Notices
+
+**2022: Fitzpatrick Voted Against The Freedom To Vote Act, Which Would
+Require States And Localities To Provide Public Notice Of Voting
+Procedure Changes Within 180 Days Of A Federal Election.** In January
+2022, according to Congressional Quarterly, Fitzpatrick voted against
+concurring in the Senate amendment with a House amendment to the Freedom
+to Vote: John R. Lewis Act, which in part would "require states and
+localities to provide public notice regarding any changes to voting
+procedures made within 180 days of a federal election, and regarding
+updated demographic data following any electoral district boundary
+changes." The vote was on a motion to concur. The House agreed to the
+motion by a vote of 220-203, thus the bill was sent to the Senate. The
+Senate subsequently failed to invoke cloture. \[House Vote 9,
+[1/13/22](http://clerk.house.gov/evs/2022/roll009.xml); Congressional
+Quarterly, [1/13/22](https://plus.cq.com/vote/2022/H/9?3); Congressional
+Actions, [H.R.
+5746](https://www.congress.gov/bill/117th-congress/house-bill/5746/actions)\]

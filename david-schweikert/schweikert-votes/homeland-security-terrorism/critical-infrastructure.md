@@ -1,0 +1,17 @@
+---
+title: Critical Infrastructure
+description: 
+published: true
+date: 2025-09-24T21:29:22.843Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T21:29:18.254Z
+---
+
+# Critical Infrastructure
+
+**2015: Schweikert Voted Against An Amendment To The RAPID Act, Which Modified The Environmental Review Process For Federally Funded Projects, To Prevent The Bill From Impacting Permitting Projects That Could Be A Terrorist Target.** In September 2015, Schweikert voted against an amendment that would have, according to Congressional Quarterly, "bar\[red\] the \[underlying\] bill's provisions from affecting permitting projects that could be a potential target for a terrorist attack or that involve chemical facilities and other critical infrastructure." The underlying bill was H.R. 348, the RAPID Act which modified the environmental review process for federally funded projects. The measure limited the type of alternative projects that could be reviewed. The vote was on the amendment. The House rejected the amendment by a vote of 176 to 232. \[House Vote 515, [9/25/15](http://clerk.house.gov/evs/2015/roll515.xml); Congressional Quarterly, [9/25/15](http://www.cq.com/vote/2015/h/515?3); Congressional Quarterly, [9/18/15](http://www.cq.com/doc/har-4757357/13?17&search=nm6C1ET2)\]
+
+-   **Underlying Legislation Would Require A "Lead Agency" With The Primary Jurisdiction To Set A Schedule For Review; Upon Receipt, The Agency Would Have 45 Days To Initiate The Process And Two Years To Complete.** According to Congressional Quarterly, "The bill requires the 'lead agency' with primary jurisdiction over a project to set a schedule for review and to oversee the preparation of a single environmental review document that will serve to satisfy NEPA review requirements. Upon receiving a project initiation request from a project sponsor (e.g., a state or local unit of government, public-private partnership or private company), the lead agency would have 45 days to initiate the review process and two years to complete the NEPA review. A lead agency could extend the review period by up to 12 months. For projects that require a less rigorous environmental assessment, the lead agency would be required to issue a finding of 'no significant impact' or provide notice that it intends to issue an environmental impact statement within one year. The lead agency could extend this assessment period by up to six months." \[Congressional Quarterly, [9/18/15](http://www.cq.com/doc/har-4757357/13?17&search=nm6C1ET2)\]
+
+-   **Underlying Legislation Limits The Project Alternatives To Those That Are Only Technically And Economically Feasible, The Sponsor's Preferred Alterative And Requires Reviews Of Alternatives To Include Analysis Of Employment.** According to Congressional Quarterly, "The measure limits the scope of project alternatives that may be considered as part of a NEPA review to those that are technically and economically feasible, as well as the project sponsor\'s preferred alternative. It also requires that reviews of alternatives include an analysis of their potential effect on short- and long-term employment." \[Congressional Quarterly, [9/18/15](http://www.cq.com/doc/har-4757357/13?17&search=nm6C1ET2)\]

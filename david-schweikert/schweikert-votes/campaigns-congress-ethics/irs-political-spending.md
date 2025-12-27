@@ -1,0 +1,17 @@
+---
+title: IRS Procedures Regarding Political Spending
+description: 
+published: true
+date: 2025-09-24T20:20:50.390Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:20:45.736Z
+---
+
+# IRS Procedures Regarding Political Spending
+
+**2015: Schweikert Voted To Modify IRS Policies And Procedures With Regard To Political Spending As Part Of A Larger Tax Extender Passage.** In December 2015, Schweikert voted for a bill that modified IRS procedures towards tax-exempt groups. According to Congressional Quarterly, legislation would have "modifies\[d\] a number of IRS policies and procedures with regard to taxpayer rights and the process for groups to obtain tax-exempt status, including by providing for the quick termination of IRS employees who take official actions for political purposes." The underlying measure would "retroactively \[renew\] for the current 2015 tax year most of the expired provisions and further extends them for varying periods, including by making more than a dozen permanent and extending most others for two years (2015 and 2016)." The vote was on concurring in the Senate amendment to the bill with an amendment. The House passed the amendment by a vote of 318 to 109. The legislation was later combined with an Omnibus appropriations bill. The Senate passed the larger measure and the president signed it. \[House Vote 703, [12/17/15](http://clerk.house.gov/evs/2015/roll703.xml); Congressional Quarterly, [12/16/15](http://www.cq.com/doc/har-4808184?7); Congressional Actions, [H.R. 2029](https://www.congress.gov/bill/114th-congress/house-bill/2029/all-actions)\]
+
+-   **Legislation Prohibits The IRS From Taking Any Step Toward Issuing A Rule Governing The Political Activities Of So-Called 501(C)4 Nonprofit Organizations.** According to the Los Angeles Times, "The IRS provision prohibits the agency from taking any step toward issuing a rule governing the political activities of so-called 501(c)4 nonprofit organizations. By law, these nonprofits aren't supposed to be involved in politics at all. They're 'social welfare' organizations that by law must be devoted primarily to programs broadly serving their communities, not private groups; the category used to be limited to religious groups; cultural, educational and veterans organizations, homeowners associations, volunteer fire departments; and the like." \[Los Angeles Times, [12/16/15](http://www.latimes.com/business/hiltzik/la-fi-mh-budget-deal-secret-money-in-politics-20151216-column.html)\]
+
+-   **Legislation Prohibits The SEC "From Spending Any Funds To 'Finalize, Issue, Or Implement' Any Rule On Disclosure Of Political Contributions."** According to the Los Angeles Times, "The second provision relates to a campaign by investors and Democrats to prod the SEC into forcing corporations to disclose their political spending. The idea gained steam from a 2011 petition by a group of corporate law experts arguing that the Citizens United decision made corporate disclosure especially urgent. The petition has attracted 1.2 million public comments, the most in the SEC\'s history. The budget bill prohibits the agency from spending any funds to \"finalize, issue, or implement\" any rule on disclosure of political contributions." \[Los Angeles Times, [12/16/15](http://www.latimes.com/business/hiltzik/la-fi-mh-budget-deal-secret-money-in-politics-20151216-column.html)\]

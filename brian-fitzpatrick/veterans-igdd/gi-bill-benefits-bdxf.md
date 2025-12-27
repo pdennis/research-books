@@ -1,0 +1,248 @@
+---
+title: G.I. Bill Benefits
+description: 
+published: true
+date: 2025-09-22T21:48:16.757Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:48:11.850Z
+---
+
+# G.I. Bill Benefits
+
+**2022: Fitzpatrick Effectively Voted Against The Guard And Reserve G.I.
+Bill Parity Act.** In January 2022, according to Congressional
+Quarterly, Fitzpatrick voted for the "motion to recommit the bill to the
+House Veterans\' Affairs Committee." The vote was on a motion to
+recommit. The House rejected the motion by a vote 204-219. \[House Vote
+5, [1/12/22](http://clerk.house.gov/evs/2022/roll005.xml); Congressional
+Quarterly, [1/12/22](https://plus.cq.com/vote/2022/H/5?6); Congressional
+Actions, [H.R.
+1836](https://www.congress.gov/bill/117th-congress/house-bill/1836/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Guard And Reserve G.I.
+Bill Parity Act.** In January 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "adoption of the rule (H Res
+860) that would provide for floor consideration of the Guard and Reserve
+GI Bill Parity Act (HR 1836) \[...\] It would provide for one hour of
+general debate on each bill and floor consideration of two amendments to
+HR 1836." The vote was on the adoption of the rule. The House adopted
+the rule by a vote of 219-203. \[House Vote 3,
+[1/11/22](http://clerk.house.gov/evs/2022/roll003.xml); Congressional
+Quarterly, [1/11/22](https://plus.cq.com/vote/2022/H/3?4); Congressional
+Actions, [H.R.
+1836](https://www.congress.gov/bill/117th-congress/house-bill/1836/actions);
+Congressional Actions, [H.Res.
+860](https://www.congress.gov/bill/117th-congress/house-resolution/860/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Guard And Reserve G.I.
+Bill Parity Act.** In January 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "motion to order the previous
+question (thus ending debate and possibility of amendment) on the rule
+(H Res 860) that would provide for floor consideration of the Guard and
+Reserve GI Bill Parity Act (HR 1836) \[...\] It would provide for one
+hour of general debate on each bill and floor consideration of two
+amendments to HR 1836." The vote was on a motion to order the previous
+question. The House agreed to the motion by a vote of 219-203. \[House
+Vote 2, [1/11/22](http://clerk.house.gov/evs/2022/roll002.xml);
+Congressional Quarterly, [1/11/22](https://plus.cq.com/vote/2022/H/2?3);
+Congressional Actions, [H.R.
+1836](https://www.congress.gov/bill/117th-congress/house-bill/1836/actions);
+Congressional Actions, [H.Res.
+860](https://www.congress.gov/bill/117th-congress/house-resolution/860/actions)\]
+
+### Emergency Flexibility And Protections
+
+**2022: Fitzpatrick Voted To Provide Flexibility And Protections For
+Veteran Educational And Vocational Rehabilitation And Training Benefits
+If Such Benefits Were Negatively Impacted By A Declared Emergency, Such
+As 4 Additional Weeks Educational Assistance Or Work-Study Or
+Maintaining Benefit Eligibility If Veterans Withdrew From Programs Due
+To The Emergency.** In December 2022, according to Congressional
+Quarterly, Fitzpatrick voted to concur with the Senate amendment to the
+Veterans Auto and Education Improvement Act of 2022, which would
+"provide certain flexibilities and protections for recipients of
+Veterans Affairs Department educational and vocational rehabilitation
+and training benefits whose studies or training are negatively affected
+by an emergency situation declared by the president or the VA. Among
+other provisions, it would allow the VA to provide four additional weeks
+of educational or work-study assistance to individuals whose educational
+programs are truncated, delayed, relocated, canceled or converted to
+distance learning due to an emergency. It would specify that individuals
+who withdraw from an educational program for reasons related to an
+emergency --- such as illness, childcare needs or financial
+hardship\--would still be eligible to receive benefits related to the
+program. It would specify that time during an emergency would not count
+toward time limitations on when veterans may use their educational
+benefits if the emergency prevents them from pursuing their chosen
+program. The bill would also make disabled veterans eligible for vehicle
+or other transportation assistance if more than 30 years have elapsed
+since they last received such assistance or, in cases 10 years after the
+bill's enactment, if more than 10 years have elapsed since they last
+received such assistance. The bill would make several other changes to
+VA educational and vocational training programs, including to clarify
+benefit eligibility for individuals who receive a sole survivorship
+discharge; outline processes for VA approval of study-abroad courses;
+require the use of standardized applications for course approval; and
+require the VA to provide not more than one business day of notice
+before a targeted compliance survey of an educational program. It would
+also allow servicemembers to terminate utilities contracts and provide
+for the transfer of professional licenses of servicemembers and their
+spouses if they are ordered to relocate. As an offset, it would extend
+the limitation on pensions paid to veterans without dependents who are
+in residential care an additional three years, through Nov. 30, 2031."
+The vote was on a motion to concur. The House concurred with the Senate
+by a vote of 380-35, thus the bill was sent to President Biden and it
+ultimately became law. \[House Vote 546,
+[12/22/22](http://clerk.house.gov/evs/2022/roll546.xml); Congressional
+Quarterly, [12/22/22](https://plus.cq.com/vote/2022/H/546?35);
+Congressional Actions, [H.R.
+7939](https://www.congress.gov/bill/117th-congress/house-bill/7939/all-actions)\]
+
+### Expiration Dates
+
+**2022: Fitzpatrick Voted For Specifying That The Accrued G.I. Bill
+Benefits Through Training Before August 1, 2025 Would Expire By August
+1, 2040 And Benefits Thereafter Would Not Expire.** In January 2022,
+Fitzpatrick voted for the Guard and Reserve G.I. Bill Parity Act of 2021
+which would, according to Congressional Quarterly, "specify that such
+benefits accrued through training before Aug. 1, 2025, would expire by
+Aug. 1, 2040, while benefits accrued through training after that date
+would not expire." The vote was on passage. The House passed the bill by
+a vote of 287-135. \[House Vote 6,
+[1/12/22](http://clerk.house.gov/evs/2022/roll006.xml); Congressional
+Quarterly, [1/12/22](https://plus.cq.com/vote/2022/H/6?7); Congressional
+Actions, [H.R.
+1836](https://www.congress.gov/bill/117th-congress/house-bill/1836/actions)\]
+
+### Including Training As Eligible Service
+
+**2022: Fitzpatrick Voted For Expanding G.I. Bill Benefits For The
+National Guard And Reserve By Considering Training As Qualified Service
+Regarding Educational Aid.** In January 2022, Fitzpatrick voted for the
+Guard and Reserve G.I. Bill Parity Act of 2021 which would, according to
+Congressional Quarterly, "expand GI Bill benefits for National Guard and
+Reserve members by including their training as eligible service with
+respect to educational assistance." The vote was on passage. The House
+passed the bill by a vote of 287-135. \[House Vote 6,
+[1/12/22](http://clerk.house.gov/evs/2022/roll006.xml); Congressional
+Quarterly, [1/12/22](https://plus.cq.com/vote/2022/H/6?7); Congressional
+Actions, [H.R.
+1836](https://www.congress.gov/bill/117th-congress/house-bill/1836/actions)\]
+
+-   **The Bill Would Include Training Days When Determining The G.I.
+    Bill Benefits For The National Guard And Reserve Troops, Closing The
+    Gap Between Them And Active Duty Members.** According to
+    Congressional Quarterly, "The first of the pair (HR 1836) would
+    enable National Guard and Reserve troops to count training days when
+    determining the amount of their GI bill benefits, on par with active
+    duty servicemembers." \[Congressional Quarterly,
+    [1/10/22](https://plus.cq.com/doc/committees-20220110478558?11)\]
+
+-   **The Bill Would Include Training Hours To Count Toward Time
+    Eligibility For Educational Assistance Under The G.I. Bill, So
+    Reservists Would Be Able To Count Annual Trainings, Weekend Drills,
+    And Certain Missions Towards The Eligibility Requirements.**
+    According to Congressional Quarterly, "The House on Wednesday
+    passed, 287-135, a bill (HR 1836) that would count certain training
+    hours for reservists toward the time that earns them educational
+    benefits under the Post-9/11 GI Bill. That law (PL 110-252) provides
+    U.S. military personnel the ability to access money for tuition,
+    housing and other expenses, depending on the servicemembers' length
+    of service. Military personnel who net 36 months or more on active
+    duty can get about \$100,000 in such benefits. Reservists who are
+    called to active duty for certain missions can earn hours needed to
+    make them eligible for those GI Bill benefits. But the measure the
+    House passed Wednesday, by California Democrat Mike Levin, would for
+    the first time count annual training and weekend drills by National
+    Guard and Reserves forces toward that service-time tally."
+    \[Congressional Quarterly,
+    [1/13/22](https://plus.cq.com/doc/news-6431486?13)\]
+
+-   **Under Current Law, National Guard And Military Reservists Do Not
+    Accumulate The Same Benefits At Active-Duty Members.** According to
+    The Hill, "National Guard and military reservists currently don't
+    accrue the same benefits as their active-duty counterparts under the
+    GI Bill, which helps qualifying veterans and their family members
+    pay for higher education." \[The Hill,
+    [1/12/22](https://thehill.com/policy/defense/589508-house-votes-to-expand-gi-benefits-for-national-guard-reserve-troops)\]
+
+-   **The Bill Would Include Federal Missions And Training Days As
+    Eligible Service Towards G.I. Benefits For The Guard And Reserve.**
+    According to The Hill, "The legislation approved by the House would
+    eliminate that disparity by allowing all federal missions, as well
+    as training days in uniform, to count toward GI benefits for
+    National Guard and Reserve troops." \[The Hill,
+    [1/12/22](https://thehill.com/policy/defense/589508-house-votes-to-expand-gi-benefits-for-national-guard-reserve-troops)\]
+
+-   **According To The Congressional Budget Office, This Bill Would Help
+    More Than 40,000 National Guard And Reserve Troops Increase Their
+    Eligibility For Benefits.** According to The Hill, "Based on data
+    from the Department of Veterans' Affairs, the Congressional Budget
+    Office estimated that the increased eligibility under the bill would
+    affect more than 40,000 National Guard and Reserve troops." \[The
+    Hill,
+    [1/12/22](https://thehill.com/policy/defense/589508-house-votes-to-expand-gi-benefits-for-national-guard-reserve-troops)\]
+
+-   **The Republicans Who Opposed The Bill Claimed The Expansion Of
+    Eligibility For Benefits Would Increase Costs.** According to The
+    Hill, "But other Republicans argued that allowing training to count
+    toward accruing GI benefits would drive up costs." \[The Hill,
+    [1/12/22](https://thehill.com/policy/defense/589508-house-votes-to-expand-gi-benefits-for-national-guard-reserve-troops)\]
+
+### Offsetting Costs
+
+**2022: Fitzpatrick Voted For Offsetting The Bill By Delaying Certain
+Rate Reductions In 2031 And Raising Rates For Interest Rate Reduction
+Refinancing Loans Closed From July 1, 2022 Through September 30, 2030.**
+In January 2022, Fitzpatrick voted for the Guard and Reserve G.I. Bill
+Parity Act of 2021 which would, according to Congressional Quarterly,
+"modify borrower fee rates for certain VA housing loans by delaying
+certain scheduled rate reductions for several months in 2031 and
+increasing rates for interest rate reduction refinancing loans closed
+from July 1, 2022, through Sept. 30, 2030." The vote was on passage. The
+House passed the bill by a vote of 287-135. \[House Vote 6,
+[1/12/22](http://clerk.house.gov/evs/2022/roll006.xml); Congressional
+Quarterly, [1/12/22](https://plus.cq.com/vote/2022/H/6?7); Congressional
+Actions, [H.R.
+1836](https://www.congress.gov/bill/117th-congress/house-bill/1836/actions)\]
+
+### Raising Fees For Veterans Affairs Rate Reduction Housing Financing Loans
+
+**2022: Fitzpatrick Voted For An Amendment That Would Temporarily Raise
+Borrower Fee Rates For Veterans Affairs Rate Reduction Housing
+Refinancing Loans To Expand G.I. Bill Benefits For The National Guard
+And Reserve.** In January 2022, Fitzpatrick voted for an amendment to
+the Guard and Reserve G.I. Bill Parity Act of 2021 which would,
+according to Congressional Quarterly, "strike the bill\'s text and
+replace it with provisions that would expand GI Bill benefits for
+National Guard and Reserve members by including certain mandatory drills
+and field exercises, not including training, as eligible active-duty
+service with respect to educational assistance. As an offset, it would
+temporarily increase borrower fee rates for VA interest rate reduction
+housing refinancing loans." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 198-225.
+\[House Vote 4, [1/12/22](http://clerk.house.gov/evs/2022/roll004.xml);
+Congressional Quarterly, [1/12/22](https://plus.cq.com/vote/2022/H/4?5);
+Congressional Actions, [H.Amdt.
+152](https://www.congress.gov/amendment/117th-congress/house-amendment/152/actions?r=1&s=a);
+Congressional Actions, [H.R.
+1836](https://www.congress.gov/bill/117th-congress/house-bill/1836/actions)\]
+
+### Veterans Affair Benefits Information To New Veterans
+
+**2022: Fitzpatrick Voted For Providing New Veterans With Proper
+Information Over Their Eligibility For Medical Care, Including Care
+Provided Through Community Providers, Mental Health And Military Sexual
+Trauma Care.** In January 2022, Fitzpatrick voted for the Guard and
+Reserve G.I. Bill Parity Act of 2021 which would, according to
+Congressional Quarterly, "also require the Veterans Affairs Department
+to provide new veterans with information regarding medical care they are
+eligible for through VA benefits, including care provided through
+community providers, mental health care and military sexual trauma
+care." The vote was on passage. The House passed the bill by a vote of
+287-135. \[House Vote 6,
+[1/12/22](http://clerk.house.gov/evs/2022/roll006.xml); Congressional
+Quarterly, [1/12/22](https://plus.cq.com/vote/2022/H/6?7); Congressional
+Actions, [H.R.
+1836](https://www.congress.gov/bill/117th-congress/house-bill/1836/actions)\]

@@ -1,0 +1,33 @@
+---
+title: Sexual Harassment
+description: 
+published: true
+date: 2025-09-24T20:40:03.675Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:39:58.920Z
+---
+
+# Sexual Harassment
+
+### Denying Food Stamps For Individuals Who Voluntary Quit Their Jobs With No Exceptions
+
+**2013: Schweikert Voted For Denying Food Stamps For At Least Two Months To Recipients Who Quit Their Job "Voluntarily," Regardless Of The Reason.** In June 2013, Schweikert voted for an amendment to the Federal Agriculture Reform and Risk Management Act of 2013 that would have effectively denied supplemental nutrition assistance (SNAP) to anyone who quit their job voluntarily. The bill included a reauthorization of SNAP; the amendment would have required each state participating in SNAP to create a "work activation program," and required, among other things, that "each able-bodied individual participating in the program \[...\] shall not voluntarily \[...\] quit a job." Those who violated that requirement -- or any other requirement for the "work activation program," would not receive any SNAP assistance for at least two months. The amendment failed by a vote of 175 to 250. \[House Vote 283, [6/20/13](http://clerk.house.gov/evs/2013/roll283.xml); House Report 113-117, [6/19/13](http://www.gpo.gov/fdsys/pkg/CRPT-113hrpt117/pdf/CRPT-113hrpt117.pdf#page=93); Congressional Actions, [H. Amdt. 230](https://www.congress.gov/amendment/113th-congress/house-amendment/230/actions); Congressional Actions, [H.R. 1947](https://www.congress.gov/bill/113th-congress/house-bill/1947/all-actions)\]
+
+-   **Amendment Offered No Exceptions To Requirement.** The amendment simply stated that "each able-bodied individual participating in the program" shall meet certain requirements, one of which was that they "shall not voluntarily \[...\] quit a job." \[House Report 113-117, [6/19/13](http://www.gpo.gov/fdsys/pkg/CRPT-113hrpt117/pdf/CRPT-113hrpt117.pdf#page=93)\]
+
+-   **Amendment Also Forbade Reducing Weekly Work Hours To Under 30 Without Compensating Increase By Another Adult In The Family.** The amendment also stated that participates in the work program "shall not voluntarily \[...\] reduce work effort and, after the reduction, the individual is working less than 30 hours per week, unless another adult in the same family unit increases employment at the same time by an amount equal to the reduction in work effort by the first adult." \[House Report 113-117, [6/19/13](http://www.gpo.gov/fdsys/pkg/CRPT-113hrpt117/pdf/CRPT-113hrpt117.pdf#page=93)\]
+
+-   **Other Requirements Had Exceptions For Good Cause.** The amendment had other requirements for participants in the "work activation program," including accepting a job offer that paid at least the applicable minimum wage or, if not applicable, 80 percent of the federal minimum wage; and providing the state with enough information to determine their employment status or availability to work. Both of those requirements allowed violation "with good cause." \[House Report 113-117, [6/19/13](http://www.gpo.gov/fdsys/pkg/CRPT-113hrpt117/pdf/CRPT-113hrpt117.pdf#page=93)\]
+
+### Federal Employees
+
+**2019: Schweikert Effectively Voted To Prevent Federal Employees Who Had Been Disciplined For Sexual Misconduct From Receiving A Federal Pay Increase Authorized By The Underlying Bill.** In January 2019, Schweikert effectively voted for an amendment that would have, according to Congressional Quarterly, "prohibit\[ed\] the use of government funds for the purpose of providing an increase in pay for calendar year 2019 for any federal employee who has been disciplined for sexual misconduct in the workplace." The underlying legislation raised pay for federal civilian employees. The vote was on a motion to recommit. The House rejected to the motion by a vote of 206 to 216. The House later passed the underlying bill. \[House Vote 63, [1/30/19](http://clerk.house.gov/evs/2019/roll063.xml); Congressional Quarterly, [1/30/19](http://cq.com/vote/2019/H/63?1); Congressional Actions, [H.R. 790](https://www.congress.gov/bill/116th-congress/house-bill/790/all-actions)\]
+
+### Limiting Non-Disclosure Agreements
+
+**2022: Schweikert Voted To Prohibit Enforcement Of Pre-Dispute Non-Disclosure And Non-Disparagement Clauses Relating To Sexual Or Harassment Disputes.** In November 2022, according to Congressional Quarterly, Schweikert voted for with the Speak Out Act, which would "make predispute nondisclosure and nondisparagement clauses, which are common in employment contracts, unenforceable with respect to sexual assault or harassment disputes under federal, state or tribal law, thus allowing parties to such disputes to disclose information on conduct and settlements related to the dispute. The bill would specify that states and localities may enforce laws that are at least as protective as the bill's provisions regarding individuals' rights 'to speak freely,' and that it would not supersede any federal, state or local law governing the use of pseudonyms in the filing of claims involving sexual assault or harassment." The vote was on passage. The House passed the bill by a vote of 315-109, thus the bill was sent to President Biden and it ultimately became law. \[House Vote 480, [11/16/22](http://clerk.house.gov/evs/2022/roll480.xml); Congressional Quarterly, [11/16/22](https://plus.cq.com/vote/2022/H/480?10); Congressional Actions, [S. 4524](https://www.congress.gov/bill/117th-congress/senate-bill/4524/all-actions)\]
+
+-   **The Bill Banned Enforcement Of Pre-Dispute Non-Disclosure And Non-Disparagement Clauses Regarding Sexual Assault Or Harassment.** According to Congressional Quarterly, "Convenes at noon to consider 11 bills under suspension of the rules, postponed Tuesday, and a bill (S 4524) to prohibit enforcement of predispute nondisclosure and nondisparagement clauses relating to sexual assault or sexual harassment." \[Congressional Quarterly, [11/16/22](https://plus.cq.com/doc/news-7603089?13)\]
+
+-   **The Bill Allowed Employees To Talk About Their Sexual Harassment Or Assault Experiences At Work By Nullifying Non-Disclosure Agreements That Coerced Workers To Remain Silent On These Cases.** According to Forbes, "The U.S. House voted today to pass the Speak Out Act to restore the voices of victims of sexual harassment and assault. The law will allow employees to talk about their experiences with harassment or assault at work by invalidating nondisclosure agreements (NDAs) that force workers to remain silent in these cases." \[Forbes, [11/16/22](https://www.forbes.com/sites/kimelsesser/2022/11/16/congress-passes-law-restoring-victims-voices-banning-ndas-in-sexual-harassment-cases/?sh=192470bf7b30)\]

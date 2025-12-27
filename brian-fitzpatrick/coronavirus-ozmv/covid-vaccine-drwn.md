@@ -1,0 +1,312 @@
+---
+title: COVID-19 Vaccine
+description: 
+published: true
+date: 2025-09-22T20:32:59.437Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:32:54.675Z
+---
+
+# COVID-19 Vaccine
+
+### CDC Report On Entry Denials
+
+**2023: Fitzpatrick Voted For An Amendment That Would Require The CDC To
+Report On How Many People Who Were Denied U.S. Entry Under The COVID-19
+Vaccine Mandate Rule For Foreign Travelers.** In February 2023,
+according to Congressional Quarterly, Fitzpatrick voted for an amendment
+to a bill that would "require the Centers for Disease Control and
+Prevention, within 90 days of enactment, to submit a report to Congress
+on the number of individuals denied entry to the U.S. under the vaccine
+mandate terminated by the bill." The vote was on the adoption the
+amendment. The House adopted the amendment by a vote of 253 to 168.
+\[House Vote 111, [2/8/23](http://clerk.house.gov/evs/2023/roll111.xml);
+Congressional Quarterly,
+[2/8/23](https://plus.cq.com/vote/2023/H/111?16); Congressional Actions,
+[H.Amdt.
+81](https://www.congress.gov/amendment/118th-congress/house-amendment/81/actions?s=a&r=4);
+Congressional Actions, [H.R.
+185](https://www.congress.gov/bill/118th-congress/house-bill/185/all-actions)\]
+
+### Coverage
+
+**2021: Fitzpatrick Voted Against The American Rescue Plan Act Of 2021,
+Which Directed Medicaid And Children's Health Insurance Program To Cover
+All The Costs Of COVID Vaccines.** In March 2021, Fitzpatrick voted
+against concurring in the Senate amendment to the American Rescue Plan
+Act of 2021 which would, according to Congressional Quarterly, "require
+Medicaid and the Children\'s Health Insurance Program to fully cover the
+cost of COVID-19 vaccines." The vote was on concurring in the Senate
+amendment to the bill. The House concurred with the Senate by a vote of
+220-211 and sent to the President and ultimately the bill became law.
+\[House Vote 72, [3/10/21](http://clerk.house.gov/evs/2021/roll072.xml);
+Congressional Quarterly,
+[3/10/21](https://plus.cq.com/vote/2021/H/72?24); Congressional Actions,
+[H.R.
+1319](https://www.congress.gov/bill/117th-congress/house-bill/1319/actions)\]
+
+-   **The American Rescue Plan Required Medicaid And CHIP To Cover
+    Expenses Associated To COVID Testing, Treatment And Vaccines,
+    Including People With Limited Benefits, And Required The Federal
+    Government To Cover COVID Testing, Treatment And Vaccines For
+    Uninsured Individuals.** According to Health Law, "For all Medicaid
+    enrollees, the ARP explicitly requires Medicaid and CHIP to provide
+    testing, treatment and vaccines without any cost-sharing. And all
+    individuals, even those in limited scope benefit categories (e.g.
+    only receiving Medicaid for treatment of breast or cervical cancer
+    or family planning services and supplies), will receive the COVID
+    vaccine. These requirements continue until the end of the first
+    quarter after the end of the public health emergency. Further, the
+    ARP expands a state to not only cover COVID testing but also
+    treatment and vaccines for uninsured individuals. The federal
+    government covers 100% of the costs for these individuals." \[Health
+    Law,
+    [3/12/21](https://healthlaw.org/the-american-rescue-plan-act-whats-it-do-for-health/)\]
+
+### Defense Department Vaccine Restrictions
+
+**2022: Fitzpatrick Voted To Require The Department Of Defense To
+Rescind Their COVID-19 Vaccine Mandate.** In December 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the James M. Inhofe
+National Defense Authorization Act for Fiscal Year 2023, which would, in
+part, "require the DOD, within 30 days of enactment, to rescind the
+mandate that servicemembers be vaccinated against COVID-19." The vote
+was on passage. The House passed the bill by a vote of 350-80, thus the
+bill was sent to the Senate for final concurrence. The Senate concurred
+with the House, sent the final bill to President Biden, and it
+ultimately became law. \[House Vote 516,
+[12/8/22](http://clerk.house.gov/evs/2022/roll516.xml); Congressional
+Quarterly, [12/8/22](https://plus.cq.com/vote/2022/H/516?24);
+Congressional Actions, [H.Res.
+1512](https://www.congress.gov/bill/117th-congress/house-resolution/1512/all-actions);
+Congressional Actions, [H.R.
+7776](https://www.congress.gov/bill/117th-congress/house-bill/7776/all-actions)\]
+
+-   **The Final FY 2023 Spending Bill Included A Demand That The Defense
+    Department Rescind Their 2021 Rule That Troops Be Vaccinated Against
+    COVID-19 Unless They Had A Medical Or Religious Exemption.**
+    According to Congressional Quarterly, "The final NDAA is noteworthy
+    for several reasons, not least because it would rescind a 2021
+    Defense Department directive that troops be vaccinated against the
+    coronavirus unless they have an allowable exemption for medical or
+    religious reasons." \[Congressional Quarterly,
+    [12/15/22](https://plus.cq.com/doc/news-7623137?3)\]
+
+### Ending CDC Foreign Traveler Vaccine Rule
+
+**2023: Fitzpatrick Voted To Terminate The CDC's COVID-19 Vaccination
+Requirement For Foreign Travelers.** In February 2023, according to
+Congressional Quarterly, Fitzpatrick voted for a bill that would
+"terminate the April 2022 Centers for Disease Control and Prevention
+rule requiring COVID-19 vaccinations for noncitizen, nonimmigrant
+travelers entering the United States by air travel. It would also deem
+any subsequent similar CDC vaccine requirements as having no force or
+effect." The vote was on passage. The House passed the bill by a vote of
+227 to 201, thus the bill was sent to the Senate. \[House Vote 116,
+[2/8/23](http://clerk.house.gov/evs/2023/roll116.xml); Congressional
+Quarterly, [2/8/23](https://plus.cq.com/vote/2023/H/116?21);
+Congressional Actions, [H.R.
+185](https://www.congress.gov/bill/118th-congress/house-bill/185/all-actions)\]
+
+-   **The Bill Would End A Requirement For Most Foreign Air Travelers To
+    Be Vaccinated Against COVID-19.** According to Reuters, "The U.S.
+    House of Representatives on Wednesday voted to end a requirement
+    that most foreign air travelers be vaccinated against COVID-19, one
+    of the few remaining pandemic travel restrictions still in place.
+    The vote was 227 to 201 with seven Democrats joining Republicans. No
+    Republicans voted against the bill." \[Reuters,
+    [2/8/23](https://www.reuters.com/world/us/us-house-votes-end-foreign-air-traveler-covid-vaccine-requirement-2023-02-08/#:~:text=WASHINGTON%2C Feb 8 (Reuters),with seven Democrats joining Republicans.)\]
+
+-   **The Biden Administration Had Already Rescinded A Requirement For
+    Negative COVID-19 Tests For Foreign Travelers But Did Not Lift
+    Vaccine Requirements.** According to Reuters, "The Biden
+    administration in June dropped its requirement that people arriving
+    in the United States by air must test negative for COVID but has not
+    lifted Centers for Disease Control and Prevention (CDC) vaccination
+    requirements for most foreign travelers." \[Reuters,
+    [2/8/23](https://www.reuters.com/world/us/us-house-votes-end-foreign-air-traveler-covid-vaccine-requirement-2023-02-08/#:~:text=WASHINGTON%2C Feb 8 (Reuters),with seven Democrats joining Republicans.)\]
+
+-   **Democrats Warned That The Bill Did Not Allow For Future Mandates
+    In The Event That COVID-19 Cases Rise Or If The Virus Mutates.**
+    According to The Hill, "Democrats argued the legislation doesn't
+    allow for any future mandates if cases rise or the virus mutates,
+    putting more people at risk." \[The Hill,
+    [2/8/23](https://thehill.com/policy/healthcare/3847337-house-passes-bill-to-end-covid-vaccine-requirement-for-foreign-air-travelers/)\]
+
+**2023: Fitzpatrick Effectively Voted To Terminate The CDC's COVID-19
+Vaccination Requirement For Foreign Travelers.** In February 2023,
+according to Congressional Quarterly, Fitzpatrick voted against the
+"motion to recommit the bill to the House Energy and Commerce
+Committee." The vote was on a motion to recommit. The House rejected the
+motion by a vote of 220 to 208. \[House Vote 115,
+[2/8/23](http://clerk.house.gov/evs/2023/roll115.xml); Congressional
+Quarterly, [2/8/23](https://plus.cq.com/vote/2023/H/115?20);
+Congressional Actions, [H.R.
+185](https://www.congress.gov/bill/118th-congress/house-bill/185/all-actions)\]
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Delayed
+Ending The COVID-19 Foreign Traveler Vaccine Rule Until HHS Were To
+Certify That Ending The Rule Would Not Increase COVID-19
+Hospitalizations.** In February 2023, according to Congressional
+Quarterly, Fitzpatrick voted against an amendment to a bill that would
+"delay the bill\'s effective date until the Health and Human Services
+Department certifies to Congress that its requirements would not result
+in an increase in hospitalizations due to the COVID-19 pandemic." The
+vote was on the adoption the amendment. The House rejected the amendment
+by a vote of 209 to 224. \[House Vote 114,
+[2/8/23](http://clerk.house.gov/evs/2023/roll114.xml); Congressional
+Quarterly, [2/8/23](https://plus.cq.com/vote/2023/H/114?19);
+Congressional Actions, [H.Amdt.
+84](https://www.congress.gov/amendment/118th-congress/house-amendment/84/actions?s=a&r=1);
+Congressional Actions, [H.R.
+185](https://www.congress.gov/bill/118th-congress/house-bill/185/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted To Terminate The CDC's COVID-19
+Vaccination Requirement For Foreign Travelers.** In February 2023,
+according to Congressional Quarterly, Fitzpatrick voted for the
+"adoption of the rule (H Res 97) that would provide for consideration of
+a bill (HR 185) to terminate the CDC's vaccination requirement for
+foreign travelers. \[...\] The rule would provide up to one hour of
+general debate on each measure and floor consideration of five
+amendments to HR 185." The vote was on the adoption of the rule. The
+House adopted the rule by a vote of 217 to 208. \[House Vote 109,
+[2/7/23](http://clerk.house.gov/evs/2023/roll109.xml); Congressional
+Quarterly, [2/7/23](https://plus.cq.com/vote/2023/H/109?14);
+Congressional Actions, [H.R.
+185](https://www.congress.gov/bill/118th-congress/house-bill/185/all-actions);
+Congressional Actions, [H.Res.
+97](https://www.congress.gov/bill/118th-congress/house-resolution/97/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted To Terminate The CDC's COVID-19
+Vaccination Requirement For Foreign Travelers.** In February 2023,
+according to Congressional Quarterly, Fitzpatrick voted for the "motion
+to order the previous question (thus ending debate and possibility of
+amendment) on the rule (H Res 97) that would provide for consideration
+of a bill (HR 185) to terminate the CDC's vaccination requirement for
+foreign travelers. \[...\] The rule would provide up to one hour of
+general debate on each measure and floor consideration of five
+amendments to HR 185." The vote was on a motion to order the previous
+question. The House agreed to the motion by a vote of 217 to 208.
+\[House Vote 108, [2/7/23](http://clerk.house.gov/evs/2023/roll108.xml);
+Congressional Quarterly,
+[2/7/23](https://plus.cq.com/vote/2023/H/108?13); Congressional Actions,
+[H.R.
+185](https://www.congress.gov/bill/118th-congress/house-bill/185/all-actions);
+Congressional Actions, [H.Res.
+97](https://www.congress.gov/bill/118th-congress/house-resolution/97/all-actions)\]
+
+### Prohibiting HHS Vaccine Rule
+
+**2023: Fitzpatrick To Prohibit The Department Of Health And Human
+Services From Implementing And Enforcing A Rule Requiring Health Care
+Providers In Medicare And Medicaid To Be Vaccinated Against COVID-19.**
+In January 2023, according to Congressional Quarterly, Fitzpatrick voted
+for the Freedom for Health Care Workers Act, which would "prohibit the
+Health and Human Services Department from implementing or enforcing the
+November 2021 rule requiring vaccinations for health care providers in
+Medicare- and Medicaid-certified facilities. It would also prohibit the
+department from promulgating any 'substantially similar' rule." The vote
+was on a motion to recommit. The House rejected the motion by a vote of
+227 to 203, thus the bill was sent to the Senate. \[House Vote 98,
+[1/31/23](http://clerk.house.gov/evs/2023/roll098.xml); Congressional
+Quarterly, [1/31/23](https://plus.cq.com/vote/2023/H/98?6);
+Congressional Actions, [H.R.
+497](https://www.congress.gov/bill/118th-congress/house-bill/497/all-actions)\]
+
+-   **The Bill Would Reverse COVID-19 Vaccine Requirements For Health
+    Care Providers In Medicare And Medicaid Facilities And President
+    Biden Pledged To Veto The Bill.** According to Congressional
+    Quarterly, "The third bill (HR 497) is from Rep. Jeff Duncan, R-S.C.
+    It would reverse COVID-19 vaccine mandates for health care workers
+    in facilities that participate in Medicare and Medicaid. The
+    president has pledged to veto the measure, per a statement of
+    administration policy. That bill is on today's schedule."
+    \[Congressional Quarterly,
+    [1/31/23](https://plus.cq.com/doc/news-7650970?9)\]
+
+-   **The HHS Rule, Over 10 Million Health Workers At Medicare And
+    Medicaid Facilities Are Required To Have At Least The First Dose Of
+    The COVID-19 Vaccine.** According to The Hill, "The measure,
+    introduced by Rep. Jeff Duncan (R-S.C.), calls for stopping the
+    Health and Human Services secretary from enforcing workplace
+    regulations and standards enacted during the COVID-19 pandemic ---
+    including the vaccine mandate --- at Medicare and Medicaid-certified
+    facilities. Under the rules, health workers at Medicare and
+    Medicaid-certified facilities are required to have at least their
+    first dose in a primary series of coronavirus vaccinations in order
+    to provide care, treatment or services. More than 10 million health
+    industry workers across roughly 76,000 facilities are subject to the
+    vaccine requirements." \[The Hill,
+    [1/31/23](https://thehill.com/policy/healthcare/3838199-house-passes-bill-to-block-hhs-from-enforcing-vaccine-mandate-at-some-health-facilities/)\]
+
+-   **The Rule Was Contested In Court, But The U.S. Supreme Court Upheld
+    The Vaccine Mandate For Health Workers And Overturned Vaccine
+    Mandates For Large Employers.** According to The Hill, "The
+    emergency standards were first issued by the Occupational Safety and
+    Health Administration (OSHA) in 2021 to minimize the risk of
+    spreading the coronavirus among health care workers and patients and
+    went into effect at the start of last year. The regulations were
+    hotly contested in courts, with the Supreme Court ultimately ruling
+    last year to uphold the requirements set for health workers while
+    also overturning a similar requirement that was proposed for large
+    employers." \[The Hill,
+    [1/31/23](https://thehill.com/policy/healthcare/3838199-house-passes-bill-to-block-hhs-from-enforcing-vaccine-mandate-at-some-health-facilities/)\]
+
+-   **Under The Rule, Health Workers Who Refuse To Comply With The
+    Vaccine Mandate Could Face Personal Termination Or Termination From
+    Medicare Or Medicaid Programs If The Entire Facility Does Not
+    Comply, But The Rule Provides Religious And Medical Exemptions.**
+    According to The Hill, "Employees including doctors, technicians and
+    nurses potentially face termination if they do not comply with the
+    mandate, though some exceptions for religious and medical reasons
+    are included in the requirements. If noncompliance occurs across an
+    entire facility, then termination from Medicare and Medicaid
+    programs could occur." \[The Hill,
+    [1/31/23](https://thehill.com/policy/healthcare/3838199-house-passes-bill-to-block-hhs-from-enforcing-vaccine-mandate-at-some-health-facilities/)\]
+
+**2023: Fitzpatrick Effectively Voted For The Freedom For Health Care
+Workers Act, Which Would Nullify A Requirement For Health Care Providers
+To Be Vaccinated Against COVID-19.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted against the "motion to
+recommit the bill to the House Energy and Commerce Committee." The vote
+was on a motion to recommit. The House rejected the motion by a vote of
+210 to 219, thus the House subsequently voted on passage. \[House Vote
+97, [1/31/23](http://clerk.house.gov/evs/2023/roll097.xml);
+Congressional Quarterly,
+[1/31/23](https://plus.cq.com/vote/2023/H/97?5); Congressional Actions,
+[H.R.
+497](https://www.congress.gov/bill/118th-congress/house-bill/497/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted For The Freedom For Health Care
+Workers Act, Which Would Nullify A Requirement For Health Care Providers
+To Be Vaccinated Against COVID-19.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted for the "adoption of the rule
+(H Res 75) that would provide for floor consideration of \[...\] the
+Freedom for Health Care Workers Act (HR 497). The rule would provide for
+one hour of general debate on each bill." The vote was on the adoption
+of the rule. The House adopted the rule by a vote of 216 to 208. \[House
+Vote 96, [1/31/23](http://clerk.house.gov/evs/2023/roll096.xml);
+Congressional Quarterly,
+[1/31/23](https://plus.cq.com/vote/2023/H/96?4); Congressional Actions,
+[H.R.
+497](https://www.congress.gov/bill/118th-congress/house-bill/497/all-actions);
+Congressional Actions, [H.Res.
+75](https://www.congress.gov/bill/118th-congress/house-resolution/75/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted For The Freedom For Health Care
+Workers Act, Which Would Nullify A Requirement For Health Care Providers
+To Be Vaccinated Against COVID-19.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted for the "motion to order the
+previous question (thus ending debate and possibility of amendment) on
+the rule (H Res 75) that would provide for floor consideration of
+\[...\] the Freedom for Health Care Workers Act (HR 497). The rule would
+provide for one hour of general debate on each bill." The vote was on a
+motion to order the previous question. The House agreed to the motion by
+a vote of 218 to 209. \[House Vote 95,
+[1/31/23](http://clerk.house.gov/evs/2023/roll095.xml); Congressional
+Quarterly, [1/31/23](https://plus.cq.com/vote/2023/H/95?3);
+Congressional Actions, [H.R.
+497](https://www.congress.gov/bill/118th-congress/house-bill/497/all-actions);
+Congressional Actions, [H.Res.
+75](https://www.congress.gov/bill/118th-congress/house-resolution/75/all-actions)\]

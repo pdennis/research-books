@@ -1,0 +1,82 @@
+---
+title: Coronavirus Stimulus Package
+description: 
+published: true
+date: 2025-09-22T20:19:51.685Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:19:47.516Z
+---
+
+# Coronavirus Stimulus Package
+
+**2020: Fitzpatrick Voted Against A \$2.2 Trillion Coronavirus Aid
+Package.** In October 2020, Fitzpatrick voted against a coronavirus
+relief package that would, according to Congressional Quarterly,
+"provide roughly \$2.2 trillion in funding to further address the health
+and economic effects of COVID-19, including approximately \$436 billion
+for direct aid to state and local governments; \$120 billion for
+assistance to restaurants; \$75 billion for a national testing program;
+\$28.3 billion for an extended airline industry payroll support program;
+and funding for state and federal response related to health care,
+education, housing, and food supply. It would reinstate federal funding
+of expanded unemployment compensation benefits through January 2021,
+provide an additional round of tax rebates of \$1,200 for individuals
+with incomes of \$75,000 or less, and extend the Paycheck Protection
+Program. The bill would provide \$257 billion for states, territories,
+and tribal governments and \$179 billion for local governments to
+address costs and economic impacts associated with the COVID-19
+pandemic." The vote was on a motion to concur in the Senate amendment to
+the bill. The House passed the bill by a vote of 214-207. \[House Vote
+214, [10/1/20](http://clerk.house.gov/evs/2020/roll214.xml);
+Congressional Quarterly,
+[10/1/20](https://plus.cq.com/vote/2020/H/214?12); Congressional
+Actions,
+[H.R.925](https://www.congress.gov/bill/116th-congress/house-bill/925/all-actions?q=%7b%22search%22%3A%5B%22hr+925%22%5D%7d&s=4&r=1)\]
+
+-   **House Democrats Passed The Bill Largely As A "Symbolic Expression"
+    Of Their Frustration With Stalled Talks On Another Coronavirus Aid
+    Package.** According to Congressional Quarterly, "House Democrats
+    passed their own revised version of a coronavirus aid package
+    Thursday, in a largely symbolic expression of frustration with
+    protracted talks on a bipartisan compromise. On a party-line vote of
+    2014-207, the House sent to the Senate a \$2.2 trillion package that
+    Republicans have lambasted as a costly 'liberal wish list.' No House
+    GOP lawmaker voted for it." \[Congressional Quarterly,
+    [10/1/20](https://plus.cq.com/doc/news-6021891?1)\]
+
+-   **The Trump Administration Package Offered \$1.5 Trillion, And The
+    Senate Republicans' Proposal Provided Only \$640 Billion.**
+    According to Congressional Quarterly, "The Trump administration has
+    offered about \$1.5 trillion \[...\] Senate Republicans want to
+    spend even less: They chafed even at a \$1 trillion package over the
+    summer before backing a bill with just \$650 billion in relief ---
+    more than half of it offset." \[Congressional Quarterly,
+    [10/1/20](https://plus.cq.com/doc/news-6021891?1)\]
+
+-   **The House Democrat Relief Package Included Another Round Of
+    \$1,200 Tax Rebates, Expanded Unemployment Benefits, And Funding For
+    Schools, Health Care, And State And Local Governments.** According
+    to Congressional Quarterly, "The Democratic bill provide another
+    round of \$1,200-per-adult tax rebates, expanded unemployment
+    benefits, and more money for schools, health care and state and
+    local governments, among other things \[...\] Democrats also pumped
+    some additional money into new priorities since their May
+    legislation. Chief among them is a \$120 billion fund for the
+    pandemic-battered restaurant industry, along with \$28 billion for
+    the airline industry." \[Congressional Quarterly,
+    [10/1/20](https://plus.cq.com/doc/news-6021891?1)\]
+
+-   **Senate Republicans Are Opposed To Spending Significant Funds On
+    Another Aid Package.** According to the Wall Street Journal, "In
+    reaching a deal, House Democrats and the Trump administration also
+    face another obstacle: Senate Republicans opposed to again doling
+    out money for a major aid package. Many Republicans in the Senate
+    see the economy recovering without additional aid injections and are
+    wary of further deficit spending. After a \$1 trillion plan from GOP
+    leaders didn't draw broad support in their party, last month, Senate
+    Republicans put together a 'skinny' proposal to try to unify their
+    ranks. That bill, which called for \$300 billion in new funds and
+    repurposing \$350 billion in other funds, failed in the Senate when
+    Democrats blocked it." \[Congressional Quarterly,
+    [10/1/20](https://www.wsj.com/articles/coronavirus-aid-talks-still-stuck-after-counteroffer-by-mnuchin-11601570240)\]

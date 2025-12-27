@@ -1,0 +1,27 @@
+---
+title: Federal Investigations
+description: 
+published: true
+date: 2025-09-24T20:36:15.319Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:36:10.878Z
+---
+
+# Federal Investigations
+
+### Allowed Those Under Federal Investigation To Record Their Conservations With Investigators
+
+**2013: Schweikert Voted For A Bill That Would Have Given Those Under Federal Investigation The Right To Record Their Conversations With Investigators, And Created New Options For Disciplining Senior Government Executives.** In August 2013, Schweikert voted for a bill that would have, according to Congressional Quarterly, "allow\[ed\] those under federal investigation to record conversations with investigators including phone calls and in-person conversations. It would \[have\] require\[d\] federal agencies to provide notice to individuals about their right to record conversations. Employees who \[did\] not comply would \[have been\] subject to disciplinary action. It also would \[have\] expand\[ed\] options for disciplining senior government executives, including allowing for termination for misappropriation of funds. The bill also would \[have\] cap\[ped\] federal employee bonuses during budget sequestration to 5 percent of their base pay." The vote was on the House's version of the Stop Government Abuse Act, which the House passed by a vote of 239 to 176. The Senate took no substantive action on the bill. \[House Vote 436, [8/1/13](http://clerk.house.gov/evs/2013/roll436.xml); Congressional Quarterly, [8/1/13](http://www.cq.com/doc/floorvote-241383000); Congressional Actions, [H.R. 2879](https://www.congress.gov/bill/113th-congress/house-bill/2879/all-actions)\]
+
+-   **Bill Was Part Of Republicans' "Stop Government Abuse Week."** According to Congressional Quarterly, "House Republican leaders planned their floor agenda leading into the summer recess as a platform to display their disdain for Washington, dubbing it 'Stop Government Abuse Week.' 'Our plan is to stop the reckless waste of taxpayer dollars with new controls for federal agencies' spending and to give new powers to our citizens so government bureaucrats can be held accountable for any political intimidation or poor customer service that may occur,' Majority Leader Eric Cantor, R-Va., said." \[Congressional Quarterly, [8/1/13](http://www.cq.com/doc/news-4327460?wr=U2ZyOGV0Ymg1TTNQNGdJTlAtSnRvdw)\]
+
+-   **Proponents Of Allowing Recording Said Americans Are More Likely To Have Interactions With Federal Agencies Than With Courts.** According to Congressional Quarterly, "Proponents of the provisions note that Americans are much more likely to have interactions with federal agencies than with courts, saying executive agency employees complete about 939,000 adjudicatory proceedings every year, while federal judges complete about 95,000." \[Congressional Quarterly, [8/1/13](http://www.cq.com/doc/news-4327460?wr=U2ZyOGV0Ymg1TTNQNGdJTlAtSnRvdw)\]
+
+-   **Opponents Argued The Bill Might Supersede State Laws That Require Both Parties To Consent To The Recording Of A Phone Or In-Person Conversation.** According to Congressional Quarterly, "Opponents expressed concern that the bill would supersede state laws --- including in Maryland, where many federal agency offices are located --- that require both parties to expressly consent to the recording of a phone or in-person conversation." \[Congressional Quarterly, [8/1/13](http://www.cq.com/doc/news-4327460?wr=U2ZyOGV0Ymg1TTNQNGdJTlAtSnRvdw)\]
+
+-   **Rep. Cummings (D-MD) Said The Bill Could Impede Law Enforcement And "Continue\[d\] Senseless Attacks" On Federal Workers.** According to Congressional Quarterly, "Elijah E. Cummings of Maryland, the top Democrat on the Oversight and Government Reform Committee, said the bill threatens to impede law enforcement efforts and 'continues senseless attacks' on federal workers." \[Congressional Quarterly, [8/1/13](http://www.cq.com/doc/news-4327460?wr=U2ZyOGV0Ymg1TTNQNGdJTlAtSnRvdw)\]
+
+-   **Bill Included New Disciplinary Options For Senior Government Executives; Sponsor Said They Could Have Been Used To Suspend IRS Official Lois Lerner, Who Led Office That Allegedly Targeted Conservative Groups Seeking Tax-Exempt Status.** According to Congressional Quarterly, "Sponsor Mike Kelly, R-Pa., introduced the legislation last year after learning that there was no mechanism to suspend without pay a General Services Administration official who allegedly overspent on an agency conference. He said the authority could be used to suspend Lois Lerner, who led an IRS office when it targeted conservative groups applying for tax-exempt status for extra scrutiny." \[Congressional Quarterly, [8/1/13](http://www.cq.com/doc/news-4327460?wr=U2ZyOGV0Ymg1TTNQNGdJTlAtSnRvdw)\]
+
+-   **Democrats Said Disciplinary Provisions Did Not Adequately Protect Those Wrongly Accused.** According to Congressional Quarterly, "Democrats said the measure does not contain adequate due process protections because it would allow employees to appeal their dismissal only after it has been finalized. The dismissal system 'presumes guilt before we get all the facts, and that is completely inconsistent with the principles of our Constitution,' Stephen F. Lynch, D-Mass, said Wednesday." \[Congressional Quarterly, [8/1/13](http://www.cq.com/doc/news-4327460?wr=U2ZyOGV0Ymg1TTNQNGdJTlAtSnRvdw)\]

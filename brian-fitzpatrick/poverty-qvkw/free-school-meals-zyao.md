@@ -1,0 +1,91 @@
+---
+title: Free School Meals
+description: 
+published: true
+date: 2025-09-22T21:33:51.189Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:33:46.976Z
+---
+
+# Free School Meals
+
+### Extending Waivers And Expanding Eligibility
+
+**2022: Fitzpatrick Voted To Extend The School Lunch Program Waiver To
+Provide Free Meals Through 2022 Summer Programs And Through The
+2022-2023 School Year And Expand Free School Lunch Eligibility To
+Students With Family Incomes Below 185% Of The Federal Poverty Line.**
+In June 2022, according to Congressional Quarterly, Fitzpatrick voted
+for the Keep Kids Fed Act of 2022, which would "extend Agriculture
+Department National School Lunch Program waiver authority to allow
+schools flexibility in providing free school meals. It would extend
+waiver authority for school district summer meal programs through
+September 2022; provide new waiver authority for the 2022-2023 school
+year; and extend 'meal pattern' waiver authority to exempt certain
+school districts from food nutrition requirements through June 2023. For
+the 2022-2023 school year, it would increase federal reimbursement
+rates, providing an additional 40 cents for school lunches and 15 cents
+for school breakfasts, and it would expand eligibility for free school
+lunches to all students from families with incomes at or below 185
+percent of the federal poverty line. It would also increase federal
+reimbursement rates to provide an additional 10 cents for meals provided
+under the Child and Adult Care Food Program for day care centers. It
+would provide such sums as necessary for the costs of waivers and
+increased reimbursements and require the USDA to provide technical
+assistance to states and school food authorities to assist with
+transitioning school meal program operations after waivers expire. As an
+offset, it would permanently rescind \$3.9 billion in unobligated
+COVID-19 relief funding." The vote was on passage. The House passed the
+bill by a vote of 376-42, thus the bill was sent to the President and
+became law. \[House Vote 290,
+[6/23/22](http://clerk.house.gov/evs/2022/roll290.xml); Congressional
+Quarterly, [6/23/22](https://plus.cq.com/vote/2022/H/290?15);
+Congressional Actions, [S.
+2089](https://www.congress.gov/bill/117th-congress/senate-bill/2089/actions)\]
+
+-   **The Bill Was Signed Into Law Five Days Before Partial School Meal
+    Flexibilities Were Set To Expire.** According to NPR, "President Joe
+    Biden signed the Keep Kids Fed Act on Saturday morning, extending
+    partial school meal flexibilities through the next school year five
+    days before they were set to expire." \[NPR,
+    [6/25/22](https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate)\]
+
+-   **The \$3 Billion Plan Extended All Pandemic School Meal Waivers
+    Through The Summer Of 2022 And Increased Federal Reimbursements
+    Through The 2022-2023 School Year.** According to NPR, "Earlier this
+    week, a bipartisan group of lawmakers brokered a deal to expand some
+    of the waivers, days before they would expire. The House on Friday
+    morning approved Senate changes to a nearly \$3 billion plan to
+    extend all pandemic school meal waivers through the summer and
+    supply chain flexibilities and increased federal reimbursements for
+    school through the 2022-23 school year." \[NPR,
+    [6/25/22](https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate)\]
+
+-   **The Bill Extended All Waivers Through The Summer Of 2022 To Permit
+    Meal Deliveries And "Grab-And-Go Options" And Extended Supply Chain
+    Flexibilities And Increased Reimbursement Rates.** According to NPR,
+    "The bill would fully extend all waivers through the summer to allow
+    meal deliveries and grab-and-go options for students. It would also
+    extend supply chain flexibilities and higher than pre-pandemic
+    federal reimbursement rates through the 2022-2023 school year."
+    \[NPR,
+    [6/25/22](https://www.npr.org/2022/06/23/1106760802/school-meal-waivers-passes-house-june-30-deadline-senate)\]
+
+### Healthier Meals Funding
+
+**2022: Fitzpatrick Voted For An Amendment That Reallocated \$3 Million
+For The National School Lunch Program To Serve Healthier Meals.** In
+July 2022, according to Congressional Quarterly, Fitzpatrick voted for
+en bloc amendments no. 2 to the Transportation, Housing and Urban
+Development, and Related Agencies Appropriations Act, 2023, which would,
+in part, "reallocate \$3 million for the national school lunch program
+for the purpose of supporting equipment grants to help schools serve
+healthier meals." The vote was on the adoption of amendments. The House
+adopted the amendments by a vote 336-90. \[House Vote 368,
+[7/19/22](http://clerk.house.gov/evs/2022/roll368.xml); Congressional
+Quarterly, [7/19/22](https://plus.cq.com/vote/2022/H/368?2);
+Congressional Actions, [H.Amdt.
+294](https://www.congress.gov/amendment/117th-congress/house-amendment/294/actions?s=a&r=8);
+Congressional Actions, [H.R.
+8294](https://www.congress.gov/bill/117th-congress/house-bill/8294/actions)\]

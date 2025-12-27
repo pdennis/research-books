@@ -1,0 +1,100 @@
+---
+title: Mortgage Interest Deduction
+description: 
+published: true
+date: 2025-09-22T21:41:47.615Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:41:43.282Z
+---
+
+# Mortgage Interest Deduction
+
+### Cap And Reform
+
+**2017: Fitzpatrick Voted For The Final Version Of Trump's Tax Reform
+Plan, Which Substantially Cut Taxes For Rich Americans And Corporations,
+Including Capping The Mortgage Interest Deduction.** In December 2017,
+Fitzpatrick voted for the Tax Cut and Jobs Act, also known as Trump's
+tax reform bill. According to Congressional Quarterly, "This Conference
+Summary deals with the conference report on HR 1, Tax Cuts and Jobs Act,
+which the House will consider Tuesday. The agreement significantly cuts
+corporate and individual taxes and seeks to simply the tax code,
+although most individual tax provisions would expire after 2025. It
+reduces the corporate tax from 35% to 21% and reduces taxation of
+so-called 'pass-through' businesses where profits are taxed at the
+individual rate. For corporate taxes it also establishes a 'territorial'
+tax system that exempts most overseas income from U.S. taxation. Most
+individual tax rate rates would be reduced, including by dropping the
+top rate from 39.6% to 37%, and it eliminates personal exemptions but
+nearly doubles the standard deduction so fewer taxpayers will itemize
+deductions." The vote was on passage. The House passed the bill by a
+vote of 227 to 203. The Senate later passed a slightly modified version
+of the bill, which the House later agreed to. President Trump later
+signed an amended version of the bill into law. \[House Vote 692,
+[12/19/17](http://clerk.house.gov/evs/2017/roll692.xml); Congressional
+Quarterly, [12/18/17](http://www.cq.com/doc/har-5236225?0);
+Congressional Actions, [H.R.
+1](https://www.congress.gov/bill/115th-congress/house-bill/1/all-actions)\]
+
+-   **Bill Caps The Mortgage Interest Deduction For New Loans At Up To
+    \$750,000.** According to Congressional Quarterly, "Limits the
+    amount of mortgage interest that can be deducted to just that
+    associated with the first \$750,000 of a home loan (down from \$1
+    million), and eliminates through 2025 the deduction for interest on
+    second homes and home equity loans (the House bill would have set
+    the mortgage interest limit at \$500,000)" \[Congressional
+    Quarterly, [12/18/17](http://www.cq.com/doc/har-5236225?0)\]
+
+**2017: Fitzpatrick Voted For The House GOP's 2017 Tax Reform Plan Which
+Significantly Cut Taxes For The Rich And Corporations And Lowered The
+Cap For The Mortgage Interest Deduction.** In November 2017, Fitzpatrick
+voted for reconciliation legislation which significantly altered the
+federal tax code. According to Congressional Quarterly, "The bill
+substantially restructures the U.S. tax code to simplify the code and
+reduce taxes on individuals, corporations and small businesses. For
+individuals, it consolidates the current seven tax brackets down to four
+and eliminates or restricts many tax credits and deductions, including
+by eliminating the deduction for state and local income taxes and
+limiting the deduction for property taxes to \$10,000 and the interest
+deduction for a home mortgage to the first \$500,000 worth of a loan.
+\[...\] On the business side, it reduces the corporate tax from 35% to
+20% and establishes a 'territorial' tax system that would exempt most
+income derived overseas from U.S. corporate taxation. It allows
+businesses to immediately expense 100% of the cost of assets acquired
+and placed into service, and for small businesses it raises the Section
+179 expensing limit to \$5 million for five years. It also establishes a
+25% rate for a portion of pass-through business income that would
+otherwise have to be paid at the ordinary individual tax level, and for
+small businesses where an individual would receive less than \$150,000
+in pass-through income it taxes the first \$75,000 of that income at a
+9% rate." The vote was on passage. The House passed the bill by a vote
+of 227 to 205. President Trump later signed an amended version of the
+bill into law. \[House Vote 637,
+[11/16/17](http://clerk.house.gov/evs/2017/roll637.xml); Congressional
+Quarterly, [11/15/17](http://www.cq.com/doc/har-5217156?4);
+Congressional Actions, [H.R.
+1](https://www.congress.gov/bill/115th-congress/house-bill/1/all-actions)\]
+
+-   **Legislation Alters The Mortgage Interest Deductions To Cap New
+    Debt Incurred After November 1st, 2017 At \$500,000 And Eliminates
+    The Deduction For Second Homes And Equity Loans.** According to
+    Congressional Quarterly, "Limits the amount of mortgage interest
+    that can be deducted to just that associated with the first
+    \$500,000 of a home loan (down from \$1 million), and eliminates the
+    deduction for interest on second homes and home equity loans
+    (interest associated with existing mortgages as of Nov. 1, 2017,
+    could still be deducted)." \[Congressional Quarterly,
+    [11/15/17](http://www.cq.com/doc/har-5217156?4)\]
+
+-   **National Association Of Realtors Opposed The Legislation Because
+    Doubling The Standard Deduction Would Reduce The Incentive Of Some
+    To Use The Mortgage Interest Deduction.** According to the
+    Washington Post, "The National Association of Realtors denounced the
+    blueprint, saying in a statement Wednesday that the proposal to
+    double the standard deduction would "all but nullify the incentive
+    to purchase a home" for most taxpayers. With the standard deduction
+    doubling, more homeowners would probably use that deduction when
+    they filed their tax returns, rather than taking advantage of the
+    lucrative mortgage interest deduction." \[Washington Post,
+    [9/27/17](https://www.washingtonpost.com/business/economy/gop-tax-document-reveals-plan-for-massive-tax-cuts-preserves-key-deductions/2017/09/27/684ea40e-a387-11e7-ade1-76d061d56efa_story.html?utm_term=.a97fc0af0b90)\]

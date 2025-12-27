@@ -1,0 +1,1397 @@
+---
+title: Oil And Gas Leasing On Public Lands
+description: 
+published: true
+date: 2025-09-22T20:58:17.002Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:58:09.994Z
+---
+
+# Oil And Gas Leasing On Public Lands
+
+### \"Disproportionate Burden\" Leasing Prohibition
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+Oil And Gas Leasing In Federal Lands That Would Amplify Or Result In
+Disproportionate Burdens On Communities Of Color, Low-Income
+Communities, And Indigenous Communities.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted for an amendment to the
+Strategic Production Response Act, which would "prohibit the oil and gas
+leasing plan required by the bill from including any federal land where
+such leasing would result in or exacerbate disproportionate burdens on
+communities of color, low-income communities, and tribal and indigenous
+communities." The vote was on the adoption of an amendment. The House
+rejected the amendment by a vote of 213 to 219. \[House Vote 53,
+[1/26/23](http://clerk.house.gov/evs/2023/roll053.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/53?11);
+Congressional Actions, [H.Amdt.
+28](https://www.congress.gov/amendment/118th-congress/house-amendment/28/actions?s=a&r=40);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### "Fair Return" Leasing Requirement
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Prohibited Increasing Oil And Gas Leasing From Leased Federal Lands That
+Would Not Provide A "Fair Return" To Taxpayers.** In January 2023,
+according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the Strategic Production Response Act, which would
+"prohibit the oil and gas leasing plan required by the bill from
+providing an increase in leased federal lands that would not provide a
+'fair return' to taxpayers." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 210 to 222.
+\[House Vote 51, [1/26/23](http://clerk.house.gov/evs/2023/roll051.xml);
+Congressional Quarterly,
+[1/26/23](https://plus.cq.com/vote/2023/H/51?9); Congressional Actions,
+[H.Amdt.
+26](https://www.congress.gov/amendment/118th-congress/house-amendment/26/actions?s=a&r=42);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Abandoned Wells
+
+**2024: Fitzpatrick Voted To Authorize A Research Program To Improve The
+Remediation Of Abandoned Oil And Gas Wells.** In April 2024, Fitzpatrick
+voted for , according to Congressional Quarterly, "the bill, as amended,
+that would establish within the Veterans Affairs Department the Veterans
+Economic Opportunity and Transition Administration (VEOTA), which
+beginning in fiscal 2025 would be responsible for managing readjustment
+benefits and home loan guarantees. It also would establish an
+undersecretary for Veterans and Economic Opportunity and Transition, and
+authorize the creation of a commission to help advise the president for
+this new position. It would require the VA, within 180 days of the
+bill's enactment, to submit a report to Congress on the progress toward
+establishing the new administration. It also would require the VA to
+certify to Congress that the transition of providing services through
+the VEOTA will not negatively affect the provision of services to
+veterans. The bill also would extend for approximately six weeks,
+through Dec. 27, 2031, the higher fees the VA currently charges
+borrowers for its housing loan guarantees, as an offset for the cost of
+implementing the bill's provisions." The vote was on passage. The House
+passed the bill by a vote of 333 to 75. \[House Vote 157,
+[4/30/24](http://clerk.house.gov/evs/2024/roll157.xml); Congressional
+Quarterly, [4/30/24](https://plus.cq.com/vote/2024/H/157?7);
+Congressional Actions, [H.R.
+4877](https://www.congress.gov/bill/118th-congress/house-bill/4877/all-actions)\]
+
+### Air Quality Leasing Prohibition
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Engaging In Oil And Gas Activities
+That Would Negatively Impact Air Quality.** In January 2023, according
+to Congressional Quarterly, Fitzpatrick voted for an amendment to the
+Strategic Production Response Act, which would "prohibit the oil and gas
+leasing plan required by the bill from providing any entity with the
+opportunity to engage in oil or gas production activities unless such
+activities will not negatively impact air quality." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+199 to 232. \[House Vote 59,
+[1/26/23](http://clerk.house.gov/evs/2023/roll059.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/59?25);
+Congressional Actions, [H.Amdt.
+35](https://www.congress.gov/amendment/118th-congress/house-amendment/35/actions?s=a&r=34);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Arctic National Wildlife Refuge
+
+**2024: Fitzpatrick Voted Against Allowing Oil And Gas Leasing In The
+Arctic National Wildlife Refuge.** In May 2024, Fitzpatrick voted
+against , according to Congressional Quarterly, "the bill, as amended,
+that would prevent any action taken that would place a moratorium on,
+suspend or pause oil and natural gas leasing in the coastal plain of the
+Arctic National Wildlife Refuge from having any force or effect. It
+would ratify and approve all authorizations, permits, verifications,
+extensions, biological opinions, incidental take statements and other
+approvals or orders necessary for the establishment and administration
+of the Coastal Plain and Gas Leasing Program. It would require that
+within 30 days of the bill\'s enactment, the Interior Department accept
+the highest valid bid for each coastal plain lease tract received on
+Jan. 6, 2021. It also would require the DOI conduct a second lease sale
+for the coastal plain as required by the 2017 tax law by Dec. 22, 2024.
+It would nullify a proposed rule published Sept 8, 2023, titled
+'Management and Protection of the National Petroleum Reserve in Alaska'
+and prevent any action to finalize or administer a substantially similar
+rule. It also would prevent the use of federal funds to administer a
+January 2021 executive order regarding public health and climate change
+or a June 2021 department order to halt all activities in the Arctic
+National Wildlife Refuge relating to the Coastal Plain Oil and Gas
+Leasing Program." The vote was on passage. The House passed the bill by
+a vote of 214 to 199. \[House Vote 174,
+[5/1/24](http://clerk.house.gov/evs/2024/roll174.xml); Congressional
+Quarterly, [5/1/24](https://plus.cq.com/vote/2024/H/174?24);
+Congressional Actions, [H.R.
+6285](https://www.congress.gov/bill/118th-congress/house-bill/6285/all-actions)\]
+
+### Certification Of No Gas Or Diesel Price Increases
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Postponed
+The Effective Date Of The Strategic Production Response Act Until The
+Department Of Energy Were To Certify That Gas Prices Would Not Increase
+In Any Of The 5 U.S. Petroleum Administration Districts During The
+Development Of The Oil And Gas Leasing Plan.** In January 2023,
+according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the Strategic Production Response Act, which would
+"postpone the effective date of the bill's requirements until the Energy
+Department submits a certification to Congress stating that the price of
+gasoline and diesel fuel will not increase in any of the five U.S.
+petroleum administration districts during the development of the oil and
+gas leasing plan required by the bill." The vote was on the adoption of
+an amendment. The House rejected the amendment by a vote of 213 to 218.
+\[House Vote 43, [1/26/23](http://clerk.house.gov/evs/2023/roll043.xml);
+Congressional Quarterly,
+[1/26/23](https://plus.cq.com/vote/2023/H/43?26); Congressional Actions,
+[H.Amdt.
+13](https://www.congress.gov/amendment/118th-congress/house-amendment/13/actions?s=a&r=51);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Consultation With EPA And Environmental Quality Council
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Required The
+Energy Department Consult With The EPA And The Council On Environmental
+Quality To Create The Oil And Gas Leasing Plan Required By The Strategic
+Production Response Act.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Strategic
+Production Response Act, which would "require the Energy Department to
+develop the oil and gas leasing plan required by the bill in
+consultation with the EPA and the Council on Environmental Quality." The
+vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 205 to 220. \[House Vote 37,
+[1/26/23](http://clerk.house.gov/evs/2023/roll037.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/37?12);
+Congressional Actions, [H.Amdt.
+19](https://www.congress.gov/amendment/118th-congress/house-amendment/19/actions?s=a&r=48);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Continuing Quarterly Leases
+
+**2023: Fitzpatrick Voted Against Continuing Quarterly Oil And Gas Lease
+Sales On Federal Lands.** In March 2023, according to Congressional
+Quarterly, Fitzpatrick voted against the Lower Energy Costs Act, which,
+"Among provisions to boost oil and gas leasing and production, the bill
+would require the Interior Department to resume quarterly oil and gas
+lease sales on federal lands; complete certain proposed sales on the
+Outer Continental Shelf; and implement at least two lease sales per year
+in each of the Gulf of Mexico and the Alaska regions of the Shelf." The
+vote was on passage. The House passed the bill by a vote of 225 to 204,
+thus the bill was sent to the Senate for their consideration. \[House
+Vote 182, [3/30/23](http://clerk.house.gov/evs/2023/roll182.xml);
+Congressional Quarterly,
+[3/30/23](https://plus.cq.com/vote/2023/H/182?5); Congressional Actions,
+[H.R.
+1](https://www.congress.gov/bill/118th-congress/house-bill/1/all-actions)\]
+
+-   **The Bill Would Require The Interior Department To Continue
+    Quarterly Lease Sales Of Oil And Gas, End A Moratorium On Coal
+    Leasing In Federal Lands, And Bar The President From Banning
+    Fracking.** According to Congressional Quarterly, "The legislation
+    passed Thursday requires the Interior Department to complete
+    quarterly lease sales of oil and gas, lift a moratorium on coal
+    leasing on federal land and prohibit the president from declaring a
+    national ban on hydraulic fracturing, or fracking." \[Congressional
+    Quarterly, [3/30/23](https://plus.cq.com/doc/news-7703192?5)\]
+
+-   **The Bill Would Streamline The Permitting Process Under The
+    National Environmental Policy Act, Require More Oil And Gas Lease
+    Sales, And Encourage The Export Of Liquefied Natural Gas.**
+    According to Congressional Quarterly, "The bill would accelerate the
+    permitting process under the National Environmental Policy Act,
+    mandate more oil and gas lease sales and support the export of
+    liquefied natural gas, or LNG." \[Congressional Quarterly,
+    [3/30/23](https://plus.cq.com/doc/news-7703192?5)\]
+
+-   **The Bill Passed After The Intergovernmental Panel On Climate
+    Change Urged Action To Swiftly Reduce Greenhouse Gas Emissions And
+    End Burning Fossil Fuels To Prevent Catastrophic Climate Change.**
+    According to Congressional Quarterly, "Passage comes a little more
+    than a week after the Intergovernmental Panel on Climate Change, the
+    world's leading body of climate scientists, warned humanity must
+    work swiftly to slash greenhouse gas emissions and stop burning
+    fossil fuels to avert catastrophic rapid climate change."
+    \[Congressional Quarterly,
+    [3/30/23](https://plus.cq.com/doc/news-7703192?5)\]
+
+### Domestic Oil Production
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Removed
+The Requirement For An Increase In The Percentage Of Federal Lands
+Leased For Gas Production And Prohibited Increasing The Percentage Of
+Federal Lands Leased For Oil Production Unless The Amount Proposed To
+Drawdown Were More Than The Oil Expected To Be Domestically Produced And
+Exported In The Next 6 Months.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Strategic Production Response Act, which would "remove the requirement
+that the oil and gas leasing plan required by the bill increase the
+percentage of federal lands leased for gas production. It would also
+prohibit the plan from increasing the percentage of federal lands leased
+for oil production unless the Energy Department determines that the
+amount of a proposed drawdown from the Strategic Petroleum Reserve is
+greater than the amount of oil expected to be domestically produced and
+exported in the following six months." The vote was on the adoption of
+an amendment. The House rejected the amendment by a vote of 195 to 229.
+\[House Vote 74, [1/27/23](http://clerk.house.gov/evs/2023/roll074.xml);
+Congressional Quarterly,
+[1/27/23](https://plus.cq.com/vote/2023/H/74?14); Congressional Actions,
+[H.Amdt.
+49](https://www.congress.gov/amendment/118th-congress/house-amendment/49/actions?s=a&r=21);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Domestic Sourcing For The Strategic Petroleum Reserve
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Required
+The Energy Department To Acquire Petroleum Products For The Strategic
+Petroleum Reserve From Domestic Sources, Instead Of Mandating An Oil And
+Gas Leasing Plan For Increased Leasing On Federal Lands.** In January
+2023, according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the Strategic Production Response Act, which would "strike
+the text of the bill and substitute it with a requirement that the
+Energy Department, to the greatest extent possible, should acquire
+petroleum products for the Strategic Petroleum Reserve that are produced
+from domestic sources." The vote was on the adoption of an amendment.
+The House rejected the amendment by a vote of 187 to 240. \[House Vote
+81, [1/27/23](http://clerk.house.gov/evs/2023/roll081.xml);
+Congressional Quarterly,
+[1/27/23](https://plus.cq.com/vote/2023/H/81?22); Congressional Actions,
+[H.Amdt.
+58](https://www.congress.gov/amendment/118th-congress/house-amendment/58/actions?s=a&r=12);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Drawdown Authority To Lower Gas Prices
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Specified
+That The Strategic Production Response Act Would Not Impact The
+Presidential Authority Or The Energy Department's Authority To
+Initiative Drawdowns From The Strategic Petroleum Reserve To Lower Gas
+Prices.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted against an amendment to the Strategic Production
+Response Act, which would "specify that the bill does not impact the
+authority of the president or the Energy Department to initiate
+drawdowns from the Strategic Petroleum Reserve for the purpose of
+lowering gas prices." The vote was on the adoption of an amendment. The
+House rejected the amendment by a vote of 204 to 222. \[House Vote 65,
+[1/27/23](http://clerk.house.gov/evs/2023/roll065.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/65?31);
+Congressional Actions, [H.Amdt.
+39](https://www.congress.gov/amendment/118th-congress/house-amendment/39/actions?s=a&r=30);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Drawdowns For Federal Profit
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Allowed
+The Energy Department To Make Drawdowns Before The Creation Of An Oil
+and Gas Leasing Plan If The Drawdown Would Provide A Net Profit For The
+Federal Government.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted against an amendment to the Strategic
+Production Response Act, which would "allow the Energy Department to
+make drawdowns from the Strategic Petroleum Reserve prior to the
+development of an oil and gas leasing plan if such drawdown would result
+in a net profit for the federal government." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+198 to 229. \[House Vote 91,
+[1/27/23](http://clerk.house.gov/evs/2023/roll091.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/91?33);
+Congressional Actions, [H.Amdt.
+76](https://www.congress.gov/amendment/118th-congress/house-amendment/76/actions?s=a&r=2);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Drawdowns For Foreign Nations
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Allowed
+The Energy Department To Make Drawdowns From The Strategic Petroleum
+Reserve Before The Oil And Gas Leasing Plan Development If The Products
+Were To Be Exchanged With Foreign Nations And Required The Energy
+Department To Report On The Necessity Of Refilling The Reserve.** In
+January 2023, according to Congressional Quarterly, Fitzpatrick voted
+against an amendment to the Strategic Production Response Act, which
+would "allow the Energy Department to make drawdowns from the Strategic
+Petroleum Reserve prior to the development of an oil and gas leasing
+plan if the products drawn down will be exchanged with foreign nations.
+It would also postpone the effective date of the bill\'s requirements
+until the Energy Department reports to Congress on the necessity of
+refilling the Strategic Petroleum Reserve." The vote was on the adoption
+of an amendment. The House rejected the amendment by a vote of 205 to
+224. \[House Vote 70,
+[1/27/23](http://clerk.house.gov/evs/2023/roll070.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/70?10);
+Congressional Actions, [H.Amdt.
+45](https://www.congress.gov/amendment/118th-congress/house-amendment/45/actions?s=a&r=25);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Drawdowns To Avoid Gas Price Increases
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Allowed
+The Energy Department To Make Drawdowns From The Strategic Petroleum
+Reserve Before The Creation Of The Oil And Gas Leasing Plan If A Delay
+Would Increase Gas Prices.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted against an amendment to the Strategic
+Production Response Act, which would "allow the Energy Department to
+make drawdowns from the Strategic Petroleum Reserve prior to the
+development of an oil and gas leasing plan if a delay in executing a
+drawdown would increase gas prices." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 207 to 221.
+\[House Vote 77, [1/27/23](http://clerk.house.gov/evs/2023/roll077.xml);
+Congressional Quarterly,
+[1/27/23](https://plus.cq.com/vote/2023/H/77?18); Congressional Actions,
+[H.Amdt.
+54](https://www.congress.gov/amendment/118th-congress/house-amendment/54/actions?s=a&r=16);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Drawdowns To Avoid National Security Impacts
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Allowed
+The Energy Department To Make Drawdowns Before The Creation Of An Oil
+and Gas Leasing Plan If The Delay Would Impact National Security.** In
+January 2023, according to Congressional Quarterly, Fitzpatrick voted
+against an amendment to the Strategic Production Response Act, which
+would "allow the Energy Department to make drawdowns from the Strategic
+Petroleum Reserve prior to the development of an oil and gas leasing
+plan if the department determines that a delay in drawing down products
+will harm national security." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 210 to 220.
+\[House Vote 90, [1/27/23](http://clerk.house.gov/evs/2023/roll090.xml);
+Congressional Quarterly,
+[1/27/23](https://plus.cq.com/vote/2023/H/90?32); Congressional Actions,
+[H.Amdt.
+72](https://www.congress.gov/amendment/118th-congress/house-amendment/72/actions?s=a&r=3);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Drawdowns To Prevent Inflation
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Allowed
+The Energy Department To Make Drawdowns Before The Creation Of An Oil
+and Gas Leasing Plan If A Delay Would Worsen Inflation.** In January
+2023, according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the Strategic Production Response Act, which would "allow
+the Energy Department to make drawdowns from the Strategic Petroleum
+Reserve prior to the development of an oil and gas leasing plan if a
+delay in executing a drawdown would worsen inflation." The vote was on
+the adoption of an amendment. The House rejected the amendment by a vote
+of 207 to 222. \[House Vote 92,
+[1/27/23](http://clerk.house.gov/evs/2023/roll092.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/92?34);
+Congressional Actions, [H.Amdt.
+78](https://www.congress.gov/amendment/118th-congress/house-amendment/78/actions?s=a&r=1);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Elimination Of Gas Leasing
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Removed The
+Requirement For An Increase In The Percentage Of Federal Lands Leased
+For Gas Production.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Strategic
+Production Response Act, which would "remove the requirement that the
+oil and gas leasing plan required by the bill increase the percentage of
+federal lands leased for gas production." The vote was on the adoption
+of an amendment. The House rejected the amendment by a vote of 191 to
+237. \[House Vote 75,
+[1/27/23](http://clerk.house.gov/evs/2023/roll075.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/75?15);
+Congressional Actions, [H.Amdt.
+50](https://www.congress.gov/amendment/118th-congress/house-amendment/50/actions?s=a&r=20);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Energy Leasing Expansion Plans For Strategic Petroleum Reserve Drawdowns
+
+**2023: Fitzpatrick Voted To Restrain The Energy Secretary's Ability To
+Drawdown The Strategic Petroleum Reserve Until The Energy Department
+Develops A Plan To Increase The Percentage Of Federal Lands Leased For
+Oil And Gas Production By An Amount Equal To The Percentage Of Petroleum
+In The Reserve That Would Be Drawn Down.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted for the Strategic Production
+Response Act, which would "prohibit the Department of Energy, after the
+bill's enactment, from executing a first drawdown of petroleum products
+from the U.S. Strategic Petroleum Reserve for sale, exchange or loan
+until the DOE first develops a plan --- in consultation with the
+Agriculture, Interior and Defense departments --- to increase the
+percentage of federal lands leased for oil and gas production by an
+amount equal to the percentage of petroleum in the Reserve that would be
+drawn down, up to a maximum of 15 percent." The vote was on passage. The
+House passed the bill by a vote of 221 to 205, thus the bill was sent to
+the Senate. \[House Vote 93,
+[1/27/23](http://clerk.house.gov/evs/2023/roll093.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/93?35);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+-   **The Bill Would Prohibit The Energy Department From Drawing Down
+    Petroleum Products From The Strategic Petroleum Reserve For Sale,
+    Exchange Or Loan Until They Develop The Oil And Gas Leasing Plan.**
+    According to Congressional Quarterly, "Passage of the bill, as
+    amended, that would prohibit the Department of Energy, after the
+    bill's enactment, from executing a first drawdown of petroleum
+    products from the U.S. Strategic Petroleum Reserve for sale,
+    exchange or loan until the DOE first develops a plan."
+    \[Congressional Quarterly,
+    [1/27/23](https://plus.cq.com/vote/2023/H/93?35)\]
+
+-   **The Bill Would Provide An Exception To The Planning Requirement If
+    The President Were To Determine That A Drawdown Is Needed Due To A
+    Severer Energy Supply Interruption That Could Result In Price Hikes
+    And Impacts To The Economy.** According to Congressional Quarterly,
+    "The bill would provide an exception to the planning requirement if
+    the president determines a drawdown is required due to a severe
+    energy supply interruption, defined as an emergency situation
+    reducing the supply of petroleum products and resulting in price
+    increases that would have a major adverse impact on the national
+    economy." \[Congressional Quarterly,
+    [1/27/23](https://plus.cq.com/vote/2023/H/93?35)\]
+
+-   **The Bill Would Apply The Planning Requirement Retroactively To
+    Drawdowns Initiated Since January 21, 2021.** According to
+    Congressional Quarterly, "Prior to passage, the House adopted 12
+    amendments to the bill. As amended, the bill would also apply the
+    oil and gas leasing plan requirement retroactively to drawdowns
+    initiated on Jan. 21, 2021, and afterward;" \[Congressional
+    Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/93?35)\]
+
+-   **The Bill Would Require The Energy Department To Ensure That The
+    Plans Do Not Allow For The Sale Of Petroleum Products To Iran,
+    China, North Korea Or Russia, And Require The Energy Department To
+    Submit Their Oil And Gas Leasing Plans To Congress.** According to
+    Congressional Quarterly, "require DOE to ensure that such plans
+    would not result in the sale of drawn-down petroleum products to
+    Iran, China, North Korea or Russia; and require DOE to submit such
+    plans to Congress, among other provisions." \[Congressional
+    Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/93?35)\]
+
+-   **The Bill Would Limit The Authority Of The Energy Secretary To
+    Drawdown From The Strategic Oil Reserve Without First Developing
+    Plans To Increase The Amount Of Federal Lands Leased For Oil And Gas
+    Drilling.** According to Reuters, "The U.S. House of Representatives
+    passed a bill on Friday limiting the ability of the energy secretary
+    to tap the strategic oil reserve without developing plans to
+    increase the amount of public lands available for oil and gas
+    drilling." \[Reuters,
+    [1/27/23](https://www.reuters.com/world/us/us-house-backs-bill-limiting-drawdowns-oil-reserve-2023-01-27/)\]
+
+-   **President Biden Threatened To Veto The Bill And The Bill Was
+    Unlikely To Pass In The Democratic-Controlled Senate.** According to
+    Reuters, "Representatives backed the bill 221 to 205, with support
+    from only one Democrat. President Joe Biden would veto the
+    legislation should it pass Congress, the White House said this week.
+    The bill is expected to face an uphill battle in the Senate, which
+    unlike the House, is controlled by Biden's fellow Democrats."
+    \[Reuters,
+    [1/27/23](https://www.reuters.com/world/us/us-house-backs-bill-limiting-drawdowns-oil-reserve-2023-01-27/)\]
+
+-   **The Bill Required The Energy Secretary To Develop A Plan To
+    Enhance Oil And Gas Leasing On Public Lands, Including The Outer
+    Continental Shelf, Before Drawing From The Strategic Petroleum
+    Reserve, But Would Not Prevent The President From Tapping The
+    Reserve In Case Of An Emergency.** According to Reuters, "The
+    Strategic Production Response Act, or H.R.21, requires the U.S.
+    energy secretary to develop a plan to increase oil and gas leasing
+    on federal lands, including submerged ones on the Outer Continental
+    Shelf, before tapping the Strategic Petroleum Reserve. It would not
+    stop the president from tapping the SPR in case of an emergency,
+    such as a hurricane that halts production of crude." \[Reuters,
+    [1/27/23](https://www.reuters.com/world/us/us-house-backs-bill-limiting-drawdowns-oil-reserve-2023-01-27/)\]
+
+-   **Republicans Claimed The Biden Administration "Acted Recklessly" By
+    Selling 180 Million Barrels From The Strategic Petroleum Reserve In
+    2022, Which Led To The Lowest Level In The Reserve Since 1983.**
+    According to Reuters, "Republican backers of the bill said the Biden
+    administration acted recklessly in selling 180 million barrels from
+    the reserve last year, or 1 million barrels a day for six months, in
+    the biggest release ever. That drawdown and others Biden approved
+    have pushed the level of the SPR to its lowest level since 1983."
+    \[Reuters,
+    [1/27/23](https://www.reuters.com/world/us/us-house-backs-bill-limiting-drawdowns-oil-reserve-2023-01-27/)\]
+
+-   **The Biden Administration Argued That They Sold The Reserve's Oil
+    To Counter Gasoline Prices That Had Increased To \$5 Per Gallon And
+    Had Contributed To High Inflation Levels.** According to Reuters,
+    "The Biden administration, which is pursuing an aggressive policy to
+    curb climate change by supporting the energy transition off fossil
+    fuels, has said it sold the oil to counter gasoline prices that had
+    risen to \$5.00 a gallon and helped fuel the highest inflation
+    levels in decades. Oil prices spiked last year on Russia's invasion
+    of Ukraine and as the world began to emerge from the pandemic."
+    \[Reuters,
+    [1/27/23](https://www.reuters.com/world/us/us-house-backs-bill-limiting-drawdowns-oil-reserve-2023-01-27/)\]
+
+### Environmental Injustice
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Postponed The
+Implementation Of The Strategic Production Response Act Until The Energy
+Department Were To Certify That An Increase In Oil And Gas Leasing On
+Federal Lands Would Not Perpetuate Environmental Injustice.** In January
+2023, according to Congressional Quarterly, Fitzpatrick voted for an
+amendment to the Strategic Production Response Act, which would
+"postpone the effective date of the bill\'s requirements until the
+Energy Department certifies that an increase of federal lands leased for
+oil and gas production would not perpetuate environmental injustice."
+The vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 207 to 223. \[House Vote 61,
+[1/27/23](http://clerk.house.gov/evs/2023/roll061.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/61?27);
+Congressional Actions, [H.Amdt.
+37](https://www.congress.gov/amendment/118th-congress/house-amendment/37/actions?s=a&r=32);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Equity Security Leasing Prohibition
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Prohibited The Oil And Gas Leasing Plan From Including A Land Lease To A
+Company That Had Purchased An Equity Security Of A Company Listed On A
+National Securities Exchange List Within The Last 10 Years.** In January
+2023, according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the Strategic Production Response Act, which would
+"prohibit the oil and gas leasing plan required by the bill from
+including the lease of any land to a company that has purchased an
+equity security within the last decade of a company that is listed on a
+national securities exchange." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 171 to 256.
+\[House Vote 67, [1/27/23](http://clerk.house.gov/evs/2023/roll067.xml);
+Congressional Quarterly,
+[1/27/23](https://plus.cq.com/vote/2023/H/67?0); Congressional Actions,
+[H.Amdt.
+42](https://www.congress.gov/amendment/118th-congress/house-amendment/42/actions?s=a&r=28);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Federal Land Leasing Increase
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Increase The
+Maximum Percentage Increase Of Federal Land That Could Be Leased For Oil
+And Gas Production From 10% To 15%.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Strategic Production Response Act, which would "increase, from 10 to 15
+percent, the maximum percentage increase of federal land that may be
+leased for oil and gas production under the leasing plan required by the
+bill." The vote was on the adoption of an amendment. The House adopted
+the amendment by a vote of 220 to 212. \[House Vote 44,
+[1/26/23](http://clerk.house.gov/evs/2023/roll044.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/44?30);
+Congressional Actions, [H.Amdt.
+14](https://www.congress.gov/amendment/118th-congress/house-amendment/14/actions?s=a&r=50);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+-   **The Amendment Increased The Permitted Percentage Of Public Lands
+    For Oil And Gas Leasing Under The Bill From 10% To 15%.** According
+    to Congressional Quarterly, "An amendment from Rep. Lauren Boebert,
+    R-Colo., increased the allowable percentage of federal lands for oil
+    and gas leasing under the plan from 10 to 15 percent, which was
+    adopted by a vote of 220-212." \[Congressional Quarterly,
+    [1/27/23](https://plus.cq.com/doc/news-7649408?33)\]
+
+### Fossil Fuel Industry Participation
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Removed
+The Requirement For An Increase In The Percentage Of Federal Lands
+Leased For Gas Production And Prohibited Fossil Fuel Industry
+Participation In The Oil Production Activities Under The Oil And Gas
+Leasing Plan Without A Plan To Reduce And Eliminate Pollution.** In
+January 2023, according to Congressional Quarterly, Fitzpatrick voted
+against an amendment to the Strategic Production Response Act, which
+would "remove the requirement that the oil and gas leasing plan required
+by the bill increase the percentage of federal lands leased for gas
+production. It would also prohibit fossil fuel industry participation in
+oil production activities under the plan unless an industry entity
+submits a plan to the Energy Department for reducing its global
+warming-related pollution by 50 percent of 2022 levels by 2030, without
+offsets; eliminating such pollution by 2050, without offsets; and
+limiting its methane emissions from oil production." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+199 to 231. \[House Vote 73,
+[1/27/23](http://clerk.house.gov/evs/2023/roll073.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/73?13);
+Congressional Actions, [H.Amdt.
+48](https://www.congress.gov/amendment/118th-congress/house-amendment/48/actions?s=a&r=22);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Greenhouse Gases Certification Requirement
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Postponed The
+Implementation Of The Strategic Production Response Act Until The Energy
+Department Were To Certify That An Increase In Oil And Gas Leasing On
+Federal Lands Would Not Lead To Increased Greenhouse Gas Emissions.** In
+January 2023, according to Congressional Quarterly, Fitzpatrick voted
+for an amendment to the Strategic Production Response Act, which would
+"postpone the effective date of the bill\'s requirements until the
+Energy Department certifies to Congress that an increase in the
+percentage of federal lands leased for oil and gas production will not
+result in an increase in greenhouse gas emissions." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+199 to 230. \[House Vote 60,
+[1/26/23](http://clerk.house.gov/evs/2023/roll060.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/60?26);
+Congressional Actions, [H.Amdt.
+36](https://www.congress.gov/amendment/118th-congress/house-amendment/36/actions?s=a&r=33);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Lease Sale Requirements
+
+**2022: Fitzpatrick Voted Against Requiring The Interior Department To
+Accept Bids For Certain Oil And Gas Leases That Were Cancelled On The
+Outer Continental Shelf.** In August 2022, according to Congressional
+Quarterly, Fitzpatrick voted against concurring in the Senate amendment
+to the Inflation Reduction Act of 2022, which would "require the
+Interior Department to accept bids for certain canceled oil and gas
+leases on the outer continental shelf." The vote was on a motion to
+concur. The House concurred with the Senate by a vote 220-207, thus the
+bill was sent to President Biden for final signage. President Biden
+signed the bill and it ultimately became law. \[House Vote 420,
+[8/12/22](http://clerk.house.gov/evs/2022/roll420.xml); Congressional
+Quarterly, [8/12/22](https://plus.cq.com/vote/2022/H/420?6);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions)\]
+
+-   **The Inflation Reduction Act Required New Oil And Gas Leasing In
+    The Gulf Of Mexico And Off The Coast Of Alaska.** According to The
+    Washington Post, "Democrats agreed to mandate new oil and gas
+    leasing in the Gulf of Mexico and off the coast of Alaska, while
+    party leaders committed to pursue a separate bill in the coming
+    months that makes it easier for developers to override some
+    environmental objections." \[The Washington Post,
+    [8/7/22](https://www.washingtonpost.com/us-policy/2022/08/07/senate-inflation-reduction-act-climate/)\]
+
+-   **The Bill Allowed New Oil And Gas Lease Sales "On Up To 2 Million
+    Acres Offshore And 60 Million On Shore Over The Next Ten Years."**
+    According to Congressional Quarterly, "To assuage Manchin, Schumer
+    agreed to allow new lease sales for oil and gas development on up to
+    2 million acres offshore and 60 million on shore, over the next
+    decade." \[Congressional Quarterly,
+    [8/7/22](https://plus.cq.com/doc/news-7546698?2)\]
+
+### Leasing Impact On Home Heating
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Postponed
+The Implementation Of The Strategic Production Response Act Until The
+Energy Department Were To Certify That The Oil And Gas Leasing Plan
+Would Not Negatively Impact Consumers Who Homes Use Heating Oil Or
+Petroleum-Based Fuels.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted against an amendment to the Strategic
+Production Response Act, which would "postpone the effective date of the
+bill\'s requirements until the Energy Department determines that the
+bill\'s oil and gas leasing plan will not negatively affect consumers
+whose homes are heated using heating oil or other petroleum-based
+fuels." The vote was on the adoption of an amendment. The House rejected
+the amendment by a vote of 205 to 220. \[House Vote 66,
+[1/27/23](http://clerk.house.gov/evs/2023/roll066.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/66?32);
+Congressional Actions, [H.Amdt.
+40](https://www.congress.gov/amendment/118th-congress/house-amendment/40/actions?s=a&r=29);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Leasing Prohibition In Certain Areas
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Tracts In The
+Washington/Oregon Planning Area If The Lease Would Affect Coastal
+Fisheries.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted for an amendment to the Strategic Production Response
+Act, which would "prohibit the oil and gas leasing plan required by the
+bill from including any tract in the Washington/Oregon planning area if
+such leasing would adversely impact coastal fisheries." The vote was on
+the adoption of an amendment. The House rejected the amendment by a vote
+of 210 to 219. \[House Vote 87,
+[1/27/23](http://clerk.house.gov/evs/2023/roll087.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/87?29);
+Congressional Actions, [H.Amdt.
+67](https://www.congress.gov/amendment/118th-congress/house-amendment/67/actions?s=a&r=6);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Prohibited The Oil And Gas Leasing Plan From Including Leasing Of
+Federal Lands That Are Within 3,200 Feet Of A Residence, School Or
+Hospital.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted against an amendment to the Strategic Production
+Response Act, which would "prohibit the oil and gas leasing plan
+required by the bill from including any federal land with a boundary
+within 3,200 feet of a residence, school or hospital." The vote was on
+the adoption of an amendment. The House rejected the amendment by a vote
+of 209 to 219. \[House Vote 85,
+[1/27/23](http://clerk.house.gov/evs/2023/roll085.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/85?26);
+Congressional Actions, [H.Amdt.
+65](https://www.congress.gov/amendment/118th-congress/house-amendment/65/actions?s=a&r=8);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Leasing Any Areas Of The Outer
+Continental Shelf Off Of The Coasts Of Maine, New Hampshire,
+Massachusetts, Rhode Island, Connecticut Or New York.** In January 2023,
+according to Congressional Quarterly, Fitzpatrick voted for an amendment
+to the Strategic Production Response Act, which would "prohibit the oil
+and gas leasing plan required by the bill from providing for leasing for
+oil and gas production in any area of the outer Continental Shelf off
+the coasts of Maine, New Hampshire, Massachusetts, Rhode Island,
+Connecticut or New York." The vote was on the adoption of an amendment.
+The House rejected the amendment by a vote of 211 to 217. \[House Vote
+82, [1/27/23](http://clerk.house.gov/evs/2023/roll082.xml);
+Congressional Quarterly,
+[1/27/23](https://plus.cq.com/vote/2023/H/82?23); Congressional Actions,
+H.Amdt. 59; Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Excluded The
+Submerged Lands Of The Outer Continental Shelf From The Oil And Gas
+Leasing Plan.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted for an amendment to the Strategic Production Response
+Act, which would "exclude submerged lands of the Outer Continental Shelf
+from the oil and gas leasing plan required by the bill." The vote was on
+the adoption of an amendment. The House rejected the amendment by a vote
+of 206 to 220. \[House Vote 76,
+[1/27/23](http://clerk.house.gov/evs/2023/roll076.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/76?16);
+Congressional Actions, [H.Amdt.
+53](https://www.congress.gov/amendment/118th-congress/house-amendment/53/actions?s=a&r=17);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Leasing In The Mid-Atlantic
+Planning Area.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted for an amendment to the Strategic Production Response
+Act, which would "prohibit the oil and gas leasing plan required by the
+bill from including leasing in the Mid-Atlantic Planning Area." The vote
+was on the adoption of an amendment. The House rejected the amendment by
+a vote of 212 to 218. \[House Vote 72,
+[1/27/23](http://clerk.house.gov/evs/2023/roll072.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/72?12);
+Congressional Actions, [H.Amdt.
+47](https://www.congress.gov/amendment/118th-congress/house-amendment/47/actions?s=a&r=23);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Leasing In The Great
+Lakes.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted for an amendment to the Strategic Production Response
+Act, which would "prohibit the oil and leasing plan required by the bill
+from including any tract located within the Big Cypress National
+Preserve in Florida." The vote was on the adoption of an amendment. The
+House rejected the amendment by a vote of 209 to 215. \[House Vote 64,
+[1/27/23](http://clerk.house.gov/evs/2023/roll064.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/64?30);
+Congressional Actions, [H.Amdt.
+52](https://www.congress.gov/amendment/118th-congress/house-amendment/52/actions?s=a&r=18);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Tracts Within The Big
+Cypress National Preserve In Florida.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted for an amendment to the
+Strategic Production Response Act, which would "prohibit the oil and
+leasing plan required by the bill from including any tract located
+within the Big Cypress National Preserve in Florida." The vote was on
+the adoption of an amendment. The House rejected the amendment by a vote
+of 212 to 215. \[House Vote 63,
+[1/27/23](http://clerk.house.gov/evs/2023/roll063.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/63?29);
+Congressional Actions, [H.Amdt.
+51](https://www.congress.gov/amendment/118th-congress/house-amendment/51/actions?s=a&r=19);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Leasing In The
+Washington/Oregon Planning Area.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted for an amendment to the
+Strategic Production Response Act, which would "prohibit the oil and gas
+leasing plan required by the bill from including leasing located in the
+Washington/Oregon planning area." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 213 to 219.
+\[House Vote 50, [1/26/23](http://clerk.house.gov/evs/2023/roll050.xml);
+Congressional Quarterly,
+[1/26/23](https://plus.cq.com/vote/2023/H/50?8); Congressional Actions,
+[H.Amdt.
+24](https://www.congress.gov/amendment/118th-congress/house-amendment/24/actions?s=a&r=43);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Tracts In The Southern
+California Planning Area.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Strategic
+Production Response Act, which would "prohibit the oil and gas leasing
+plan required by the bill from including any tract located in the
+Southern California planning area." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 213 to 218.
+\[House Vote 49, [1/26/23](http://clerk.house.gov/evs/2023/roll049.xml);
+Congressional Quarterly,
+[1/26/23](https://plus.cq.com/vote/2023/H/49?7); Congressional Actions,
+[H.Amdt.
+23](https://www.congress.gov/amendment/118th-congress/house-amendment/23/actions?s=a&r=44);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Barred Oil
+And Gas Leasing In Tracts In The Central California Planning Area.** In
+January 2023, according to Congressional Quarterly, Fitzpatrick voted
+for an amendment to the Strategic Production Response Act, which would
+"prohibit the oil and gas leasing plan required by the bill from
+including any tract located in the Central California planning area."
+The vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 213 to 218. \[House Vote 48,
+[1/26/23](http://clerk.house.gov/evs/2023/roll048.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/48?5);
+Congressional Actions, [H.Amdt.
+22](https://www.congress.gov/amendment/118th-congress/house-amendment/22/actions?s=a&r=45);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Tracts Of Land Where The
+Leasing Would Lower Land And Water Available For Outdoor Recreation.**
+In January 2023, according to Congressional Quarterly, Fitzpatrick voted
+for an amendment to the Strategic Production Response Act, which would
+"prohibit the oil and gas leasing plan required by the bill from
+including tracts of land where oil and gas leasing would decrease land
+and water available for outdoor recreation." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+205 to 225. \[House Vote 47,
+[1/26/23](http://clerk.house.gov/evs/2023/roll047.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/47?4);
+Congressional Actions, [H.Amdt.
+21](https://www.congress.gov/amendment/118th-congress/house-amendment/21/actions?s=a&r=46);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Tracts In The Northern
+California Planning Area.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Strategic
+Production Response Act, which would "prohibit the oil and gas leasing
+plan required by the bill from including any tract located in the
+Northern California planning area." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 212 to 218.
+\[House Vote 46, [1/26/23](http://clerk.house.gov/evs/2023/roll046.xml);
+Congressional Quarterly,
+[1/26/23](https://plus.cq.com/vote/2023/H/46?35); Congressional Actions,
+[H.Amdt.
+20](https://www.congress.gov/amendment/118th-congress/house-amendment/20/actions?s=a&r=47);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Tracts Off The Coast Of
+Virginia.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted for an amendment to the Strategic Production Response
+Act, which would "prohibit the oil and gas leasing plan required by the
+bill from including any tract located off the coast of Virginia." The
+vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 213 to 218. \[House Vote 45,
+[1/26/23](http://clerk.house.gov/evs/2023/roll045.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/45?34);
+Congressional Actions, [H.Amdt.
+15](https://www.congress.gov/amendment/118th-congress/house-amendment/15/actions?s=a&r=49);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Preserve The
+Prohibition On The Oil And Gas Leasing Within The South Atlantic
+Planning Area.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted for an amendment to the Strategic Production Response
+Act, which would "not affect any statutory or regulatory restrictions in
+effect at the time of enactment that prohibit oil and gas leasing within
+the South Atlantic planning area." The vote was on the adoption of an
+amendment. The House adopted the amendment by a vote of 389 to 42.
+\[House Vote 41, [1/26/23](http://clerk.house.gov/evs/2023/roll041.xml);
+Congressional Quarterly,
+[1/26/23](https://plus.cq.com/vote/2023/H/41?17); Congressional Actions,
+[H.Amdt.
+4](https://www.congress.gov/amendment/118th-congress/house-amendment/4/actions?s=a&r=55);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+-   **The Amendment Specified The Bill Would Not Affect Restrictions On
+    Oil And Gas Leasing Off The South Atlantic Coast.** According to
+    Congressional Quarterly, "Reps. Nancy Mace, R-S.C., and Nick LaLota,
+    R-N.Y., successfully sponsored separate amendments that would
+    specify the bill also does not affect restrictions on oil and gas
+    leasing off the south and north Atlantic coasts, respectively.
+    Mace's was adopted by a vote of 389-42 while LaLota's was adopted by
+    voice vote." \[Congressional Quarterly,
+    [1/27/23](https://plus.cq.com/doc/news-7649408?20)\]
+
+-   **By Voice Vote, The House Passed An Amendment That Specified The
+    Bill Would Not Affect Restrictions On Oil And Gas Leasing Off The
+    North Atlantic Coast.** According to Congressional Quarterly, "Reps.
+    Nancy Mace, R-S.C., and Nick LaLota, R-N.Y., successfully sponsored
+    separate amendments that would specify the bill also does not affect
+    restrictions on oil and gas leasing off the south and north Atlantic
+    coasts, respectively. Mace's was adopted by a vote of 389-42 while
+    LaLota's was adopted by voice vote." \[Congressional Quarterly,
+    [1/27/23](https://plus.cq.com/doc/news-7649408?20)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Tracts In The North Atlantic
+Planning Area.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted for an amendment to the Strategic Production Response
+Act, which would "prohibit the oil and gas leasing plan required by the
+bill from including any tract located in the North Atlantic planning
+area." The vote was on the adoption of an amendment. The House rejected
+the amendment by a vote of 214 to 219. \[House Vote 40,
+[1/26/23](http://clerk.house.gov/evs/2023/roll040.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/40?16);
+Congressional Actions, [H.Amdt.
+3](https://www.congress.gov/amendment/118th-congress/house-amendment/3/actions?s=a&r=56);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Leasing In The South
+Atlantic Planning Area, Straits Of Florida, And Certain Areas In The
+Eastern Gulf Of Mexico.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Strategic
+Production Response Act, which would "prohibit the oil and gas leasing
+plan required by the bill from including leasing located in the South
+Atlantic Planning Area, Straits of Florida, and certain areas in the
+Eastern Gulf of Mexico." The vote was on the adoption of an amendment.
+The House rejected the amendment by a vote of 214 to 219. \[House Vote
+39, [1/26/23](http://clerk.house.gov/evs/2023/roll039.xml);
+Congressional Quarterly,
+[1/26/23](https://plus.cq.com/vote/2023/H/39?15); Congressional Actions,
+[H.Amdt.
+5](https://www.congress.gov/amendment/118th-congress/house-amendment/5/actions?s=a&r=54);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Oil And Gas Development Potential
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Increasing Leasing In Federal Lands
+That Have A Low Potential For Oil And Gas Development.** In January
+2023, according to Congressional Quarterly, Fitzpatrick voted for an
+amendment to the Strategic Production Response Act, which would
+"prohibit the oil and gas leasing plan required by the bill from
+increasing the amount of federal lands leased that have no or low
+potential for oil and gas development." The vote was on the adoption of
+an amendment. The House rejected the amendment by a vote of 207 to 221.
+\[House Vote 78, [1/27/23](http://clerk.house.gov/evs/2023/roll078.xml);
+Congressional Quarterly,
+[1/27/23](https://plus.cq.com/vote/2023/H/78?19); Congressional Actions,
+[H.Amdt.
+55](https://www.congress.gov/amendment/118th-congress/house-amendment/55/actions?s=a&r=15);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Orphaned Well Areas Leasing Prohibition
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Leasing Of Federal Lands
+With A High Number Of Orphaned Oil and Gas Wells.** In January 2023,
+according to Congressional Quarterly, Fitzpatrick voted for an amendment
+to the Strategic Production Response Act, which would "prohibit the oil
+and gas leasing plan required by the bill from including leasing of
+federal lands with a high concentration of orphaned oil and gas wells."
+The vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 197 to 230. \[House Vote 84,
+[1/27/23](http://clerk.house.gov/evs/2023/roll084.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/84?25);
+Congressional Actions, [H.Amdt.
+64](https://www.congress.gov/amendment/118th-congress/house-amendment/64/actions?s=a&r=9);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Paris Agreement Commitments
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Being Inconsistent With The Goals Of
+The Paris Climate Accords.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Strategic
+Production Response Act, which would "prohibit the oil and gas leasing
+plan required by the bill from including the leasing of federal land
+that would be inconsistent with the goals of the Paris Climate Accords."
+The vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 199 to 229. \[House Vote 69,
+[1/27/23](http://clerk.house.gov/evs/2023/roll069.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/69?9);
+Congressional Actions, [H.Amdt.
+44](https://www.congress.gov/amendment/118th-congress/house-amendment/44/actions?s=a&r=26);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+Using The Strategic Production Response Act To Rescind U.S. Commitments
+Under The Paris Agreement To Reduce Greenhouse Gas Emissions.** In
+January 2023, according to Congressional Quarterly, Fitzpatrick voted
+for an amendment to the Strategic Production Response Act, which would
+"specify that the bill may not be used to controvert U.S. commitments
+under the Paris Agreement to reduce greenhouse gas emissions." The vote
+was on the adoption of an amendment. The House rejected the amendment by
+a vote of 213 to 218. \[House Vote 38,
+[1/26/23](http://clerk.house.gov/evs/2023/roll038.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/38?14);
+Congressional Actions, [H.Amdt.
+7](https://www.congress.gov/amendment/118th-congress/house-amendment/7/actions?s=a&r=52);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Preventing Energy Price Increases
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Postponed
+The Implementation Of The Strategic Production Response Act Until The
+Energy Department Were To Certify That The Act Would Not Increase The
+Average Price Of Energy For Consumers.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Strategic Production Response Act, which would "postpone the effective
+date of the bill's requirements until the Energy Department submits a
+certification to Congress stating that implementing the bill will not
+increase the average price of energy for consumers." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+209 to 221. \[House Vote 86,
+[1/27/23](http://clerk.house.gov/evs/2023/roll086.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/86?27);
+Congressional Actions, [H.Amdt.
+66](https://www.congress.gov/amendment/118th-congress/house-amendment/66/actions?s=a&r=7);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Preventing Petroleum Sales To Adversaries
+
+**2023: Fitzpatrick Voted For An Amendment That Would Require The Energy
+Department To Guarantee That The Oil And Gas Leasing Plan Would Not
+Result In The Sale Of Draw-Down Petroleum Products To Iran, China, North
+Korea Or Russia.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Strategic
+Production Response Act, which would "require the Energy Department to
+ensure that the oil and gas leasing plan required by the bill would not
+result in the sale of drawn-down petroleum products to Iran, China,
+North Korea or Russia." The vote was on the adoption of an amendment.
+The House adopted the amendment by a vote of 418 to 12. \[House Vote 58,
+[1/26/23](http://clerk.house.gov/evs/2023/roll058.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/58?20);
+Congressional Actions, [H.Amdt.
+34](https://www.congress.gov/amendment/118th-congress/house-amendment/34/actions?s=a&r=35);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+-   **The Amendment Would Instruct The Energy Secretary To Ensure That
+    Drawdowns Do Not End Up Being Petroleum Sales To Iran, China, North
+    Korea Or Russia.** According to Congressional Quarterly, "The second
+    would require the Energy secretary to ensure that a drawdown doesn't
+    result in the sale of petroleum products to Iran, China, North
+    Korea, or Russia. It was adopted 418-12." \[Congressional Quarterly,
+    [1/27/23](https://plus.cq.com/doc/news-7649408?23)\]
+
+### Preventing Price Increases During Energy Supply Interruptions
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Required
+The Energy Department To Certify That A Potential Oil And Gas Lease
+Would Not "Excessively Increase" The Price Of Petroleum Products During
+A Severe Energy Supply Interruption.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Strategic Production Response Act, which would "specify that the oil and
+gas leasing plan required by the bill would only allow a lease or permit
+to be issued if it certifies to the Energy Department that such lease or
+permit would not excessively increase the sale price of petroleum
+products during a severe energy supply interruption or a period of
+decreased supply of petroleum products." The vote was on the adoption of
+an amendment. The House rejected the amendment by a vote of 212 to 220.
+\[House Vote 55, [1/26/23](http://clerk.house.gov/evs/2023/roll055.xml);
+Congressional Quarterly,
+[1/26/23](https://plus.cq.com/vote/2023/H/55?13); Congressional Actions,
+[H.Amdt.
+31](https://www.congress.gov/amendment/118th-congress/house-amendment/31/actions?s=a&r=38);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Prohibiting Contributors To Oil And Gas Price-Gouging
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Prohibited The Oil And Gas Leasing Plan From Allowing The Participation
+Of Entities That Contributed To The Oil And Gas Price-Gouging In 2022.**
+In January 2023, according to Congressional Quarterly, Fitzpatrick voted
+against an amendment to the Strategic Production Response Act, which
+would "prohibit the oil and gas leasing plan required by the bill from
+authorizing the participation, including in any lease auction, of any
+corporation or entity that the Energy Department determines to have
+contributed to oil and gas price-gouging in 2022." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+201 to 229. \[House Vote 88,
+[1/27/23](http://clerk.house.gov/evs/2023/roll088.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/88?30);
+Congressional Actions, [H.Amdt.
+68](https://www.congress.gov/amendment/118th-congress/house-amendment/68/actions?s=a&r=5);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Prohibiting Entities That Deplete Natural Resources
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Prohibited The Oil And Gas Leasing Plan From Financially Benefitting Or
+Allowing The Participation Of Any Entities That Are Allowed To Deplete
+Natural Resources, Such As Mining Companies.** In January 2023,
+according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the Strategic Production Response Act, which would
+"prohibit the oil and gas leasing plan required by the bill from
+providing for the financial benefit or participation of any entities,
+such as mining companies, that are allowed to deplete natural resources
+under existing law." The vote was on the adoption of an amendment. The
+House rejected the amendment by a vote of 173 to 256. \[House Vote 79,
+[1/27/23](http://clerk.house.gov/evs/2023/roll079.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/79?20);
+Congressional Actions, [H.Amdt.
+56](https://www.congress.gov/amendment/118th-congress/house-amendment/56/actions?s=a&r=14);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Prohibiting Leasing That Benefits Sanctioned Foreign Entities
+
+**2023: Fitzpatrick Voted For An Amendment That Would Prohibit The Oil
+And Gas Leasing Plan From Providing Financial Benefits Or Allowing
+Participation Of Any Entity That Is Owned Or Influenced By China, North
+Korea, Russia, Iran Or Any Other Nation Subject To U.S. Sanctions.** In
+January 2023, according to Congressional Quarterly, Fitzpatrick voted
+for an amendment to the Strategic Production Response Act, which would
+"prohibit the oil and gas leasing plan required by the bill from
+providing for the financial benefit or participation of any entity that
+has a contractual relationship with, or is owned, controlled or under
+the influence of China, North Korea, Russia, Iran or any other country
+whose government is subject to U.S. sanctions." The vote was on the
+adoption of an amendment. The House adopted the amendment by a vote of
+419 to 13. \[House Vote 57,
+[1/26/23](http://clerk.house.gov/evs/2023/roll057.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/57?16);
+Congressional Actions, [H.Amdt.
+33](https://www.congress.gov/amendment/118th-congress/house-amendment/33/actions?s=a&r=36);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+-   **The Amendment Prohibited Sales From The Strategic Petroleum
+    Reserve To Entities Owner Or Influenced By China, North Korea,
+    Russia, Iran, Or Any Other U.S.-Sanctioned Country.** According to
+    Congressional Quarterly, "Democrats introduced the vast majority of
+    the amendments, but saw only two of them adopted, both from Rep.
+    Josh Gottheimer, D-N.J. The first, adopted by a vote of 419-13,
+    would prohibit sales from the SPR to entities owned or controlled by
+    China, North Korea, Russia, Iran or any other nation under U.S.
+    sanctions." \[Congressional Quarterly,
+    [1/27/23](https://plus.cq.com/doc/news-7649408?19)\]
+
+### Prohibition On Increasing Carbon Emissions
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Increasing Net Carbon Emissions.** In
+January 2023, according to Congressional Quarterly, Fitzpatrick voted
+for an amendment to the Strategic Production Response Act, which would
+"prohibit the oil and gas leasing plan required by the bill from
+including the lease of federal land that would increase net carbon
+emissions." The vote was on the adoption of an amendment. The House
+rejected the amendment by a vote of 193 to 228. \[House Vote 68,
+[1/27/23](http://clerk.house.gov/evs/2023/roll068.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/68?8);
+Congressional Actions, [H.Amdt.
+43](https://www.congress.gov/amendment/118th-congress/house-amendment/43/actions?s=a&r=27);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Protected Public Land Leasing Prohibition
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Prohibited
+The Oil And Gas Leasing Plan From Including Any Protected Public Lands,
+Such As The National Park System Units, National Refuge System Units,
+National Monuments, National Recreation Areas, And Areas Of Critical
+Environmental Concern.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Strategic
+Production Response Act, which would "prohibit the oil and gas leasing
+plan required by the bill from including leasing on any protected public
+lands, including National Park System units, National Wildlife Refuge
+System units, national monuments, national recreation areas and areas of
+critical environmental concern." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 210 to 218.
+\[House Vote 89, [1/27/23](http://clerk.house.gov/evs/2023/roll089.xml);
+Congressional Quarterly,
+[1/27/23](https://plus.cq.com/vote/2023/H/89?31); Congressional Actions,
+[H.Amdt.
+71](https://www.congress.gov/amendment/118th-congress/house-amendment/71/actions?s=a&r=4);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Renewable Energy Lands Leasing Prohibition
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Excluded
+Federal Lands That Were Viable For Renewable Energy Production From The
+Oil And Gas Leasing Plan.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Strategic
+Production Response Act, which would "exclude federal lands that are
+viable for renewable energy production from the oil and gas leasing plan
+required by the bill." The vote was on the adoption of an amendment. The
+House rejected the amendment by a vote of 197 to 235. \[House Vote 54,
+[1/26/23](http://clerk.house.gov/evs/2023/roll054.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/54?12);
+Congressional Actions, [H.Amdt.
+29](https://www.congress.gov/amendment/118th-congress/house-amendment/29/actions?s=a&r=39);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Royalties
+
+**2024: Fitzpatrick Voted Against Increasing The Value Of Reclamation
+Bonds That Drilling Companies Must Post.** In March 2024, Fitzpatrick
+voted for , according to Congressional Quarterly, "the bill (HR 6009)
+that would require the Bureau of Land Management to withdraw its
+proposed 2023 rule that addresses reclamation bonds and other issues for
+onshore subsurface oil and gas leases, in particular by significantly
+increasing the value of required reclamation surety bonds that must be
+posted by drilling companies. It also would prohibit the BLM from
+implementing or enforcing that or any substantially similar rule in the
+future." The vote was on passage. The House passed the bill by a vote of
+216 to 200. \[House Vote 95,
+[3/20/24](http://clerk.house.gov/evs/2024/roll095.xml); Congressional
+Quarterly, [3/20/24](https://plus.cq.com/vote/2024/H/95?0);
+Congressional Actions, [H.R.
+6009](http://www.congress.gov/bill/118th-congress/house-bill/6009/all-actions)\]
+
+-   **The Bill Prevented The Bureau Of Land Management From Increasing
+    Royalty Rates For Drilling.** According to Congressional Quarterly,
+    "A second bill (HR 6009) sponsored by Rep. Lauren Boebert, R-Colo.,
+    would prevent the Bureau of Land Management from increasing royalty
+    rates for oil drilling on public lands. It passed 216-200, with
+    three Democrats joining Republicans in support." \[Congressional
+    Quarterly, [3/25/24](https://plus.cq.com/doc/news-7970673?2)\]
+
+### Strategic Petroleum Reserve Replenishment Certification
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Postponed
+Implementation Of The Strategic Production Response Act Until The Energy
+Department Were To Certify That The Oil And Gas Leasing Plan Was
+Necessary To Replenish The Strategic Petroleum Reserve To The Amount It
+Had In February 23, 2022.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted against an amendment to the Strategic
+Production Response Act, which would "postpone the effective date of the
+bill's requirements until the Energy Department certifies that the oil
+and gas leasing plan required by the bill is necessary to replenish the
+Strategic Petroleum Reserve to its size on Feb. 23, 2022." The vote was
+on the adoption of an amendment. The House rejected the amendment by a
+vote of 204 to 228. \[House Vote 56,
+[1/26/23](http://clerk.house.gov/evs/2023/roll056.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/56?14);
+Congressional Actions, [H.Amdt.
+32](https://www.congress.gov/amendment/118th-congress/house-amendment/32/actions?s=a&r=37);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Striking Energy Supply Interruption Exemption
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Prohibited The Energy Department From Drawing From The Strategic
+Petroleum Reserve Before The Oil And Gas Leasing Were Developed In The
+Case Of An Energy Supply Interruption.** In January 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Strategic Production Response Act, which would "strike an exemption in
+the bill allowing the Energy Department to make drawdowns from the
+Strategic Petroleum Reserve prior to the development of an oil and gas
+leasing plan in the case of a severe energy supply interruption." The
+vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 14 to 418. \[House Vote 42,
+[1/26/23](http://clerk.house.gov/evs/2023/roll042.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/42?21);
+Congressional Actions, [H.Amdt.
+6](https://www.congress.gov/amendment/118th-congress/house-amendment/6/actions?s=a&r=53);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+-   **The Amendment Would Have Removed An Exemption In The Bill That
+    Would Allow Drawdowns From The Reserve Before The Development Of An
+    Oil And Gas Leasing Plan In The Case Of A Serious Energy Supply
+    Interruption.** According to Congressional Quarterly, "Only once did
+    a majority of one party oppose an effort from its own side, when
+    Rep. Marjorie Taylor Greene, R-Ga., introduced an amendment that
+    would have removed an exemption in the bill allowing drawdowns from
+    the SPR prior to the development of an oil and gas leasing plan in
+    the case of a severe energy supply interruption. The amendment was
+    rejected 14-418." \[Congressional Quarterly,
+    [1/27/23](https://plus.cq.com/doc/news-7649408?24)\]
+
+### Test Drawdowns
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Allowed
+The Energy Department To Make Test Drawdowns From The Strategic
+Petroleum Reserve Before The Oil And Gas Leasing Plan Development And
+Required The Energy Department To Report On The Necessity Of Refilling
+The Reserve.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted against an amendment to the Strategic Production
+Response Act, which would "allow the Energy Department to make test
+drawdowns from the Strategic Petroleum Reserve prior to the development
+of an oil and gas leasing plan. It would also postpone the effective
+date of the bill\'s requirements until the Energy Department reports to
+Congress on the necessity of refilling the Strategic Petroleum Reserve."
+The vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 207 to 220. \[House Vote 71,
+[1/27/23](http://clerk.house.gov/evs/2023/roll071.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/71?11);
+Congressional Actions, [H.Amdt.
+46](https://www.congress.gov/amendment/118th-congress/house-amendment/46/actions?s=a&r=24);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Tribal Consultation
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Required
+Tribal Consultation Between Tribal Governments And The Departments Of
+Interior, Agriculture, Defense And Energy For The Oil And Gas Leasing
+Plan.** In January 2023, according to Congressional Quarterly,
+Fitzpatrick voted for an amendment to the Strategic Production Response
+Act, which would "require the oil and gas leasing plan required by the
+bill to include a tribal consultation plan with tribal governments and
+the Interior, Agriculture, Defense and Energy departments." The vote was
+on the adoption of an amendment. The House rejected the amendment by a
+vote of 213 to 219. \[House Vote 52,
+[1/26/23](http://clerk.house.gov/evs/2023/roll052.xml); Congressional
+Quarterly, [1/26/23](https://plus.cq.com/vote/2023/H/52?10);
+Congressional Actions, [H.Amdt.
+27](https://www.congress.gov/amendment/118th-congress/house-amendment/27/actions?s=a&r=41);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+### Unused Oil And Gas Drilling Permits
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Required The
+Energy Department To Take In Consideration The Number Of Inactive But
+Approved Federal Oil And Gas Leases And Permits While Developing The Oil
+And Gas Lease Plan.** In January 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Strategic
+Production Response Act, which would "require the Energy Department, in
+developing the oil and gas leasing plan required by the bill, to
+consider the number of inactive but approved federal oil and gas leases
+and permits issued before bill\'s enactment." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+208 to 221. \[House Vote 83,
+[1/27/23](http://clerk.house.gov/evs/2023/roll083.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/83?24);
+Congressional Actions, [H.Amdt.
+62](https://www.congress.gov/amendment/118th-congress/house-amendment/62/actions?s=a&r=10);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Postponed The
+Implementation Of The Strategic Production Response Act Until The Energy
+And Interior Departments Were To Report The Information Of All Unused
+Permits For Oil And Gas Drilling On Federal Lands.** In January 2023,
+according to Congressional Quarterly, Fitzpatrick voted for an amendment
+to the Strategic Production Response Act, which would "postpone the
+effective date of the bill\'s requirements until the Energy Department,
+in consultation with the Interior Department, publishes a report on the
+number, location and owner of all unused permits to drill for oil and
+gas on federal land." The vote was on the adoption of an amendment. The
+House rejected the amendment by a vote of 204 to 224. \[House Vote 80,
+[1/27/23](http://clerk.house.gov/evs/2023/roll080.xml); Congressional
+Quarterly, [1/27/23](https://plus.cq.com/vote/2023/H/80?21);
+Congressional Actions, [H.Amdt.
+57](https://www.congress.gov/amendment/118th-congress/house-amendment/57/actions?s=a&r=13);
+Congressional Actions, [H.R.
+21](https://www.congress.gov/bill/118th-congress/house-bill/21/all-actions)\]

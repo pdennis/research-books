@@ -1,0 +1,19 @@
+---
+title: Textbooks
+description: 
+published: true
+date: 2025-09-24T20:52:47.425Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:52:43.137Z
+---
+
+# Textbooks
+
+### Appoint A Neutral Ombudsman "Dedicated To Overseeing And Resolving State Disputes On Textbook Standards For K-12"
+
+**2015: Schweikert Voted Against An Amendment Appointing A Neutral Ombudsman "Dedicated To Overseeing And Resolving State Disputes On Textbook Standards For K-12."** In February 2015, Schweikert voted against an amendment that would appoint an ombudsman in the Education Department to oversee K-12 textbook standards. The text of the amendment notes, "The Secretary shall appoint an ombudsman who is dedicated to overseeing and resolving State disputes on textbooks standards for K-12 grade levels in order to ensure that States are held accountable for upholding the highest academic standards for K-12 textbooks." The amendment was to HR 5, which would "give states and school districts more flexibility in spending federal education dollars, while maintaining annual student testing requirements. It also would let states design their own teacher and school evaluation systems, as well as allow low-income students to take their federal funding from school to school." The vote was on the amendment which the House rejected 182 to 243. \[House Vote 97, [2/26/15](http://clerk.house.gov/evs/2015/roll097.xml); Congressional Quarterly, [2/26/15](http://www.cq.com/vote/2015/H/97?3); Congressional Quarterly, [2/10/15](http://www.cq.com/doc/billwatch-4621442?7); Congressional Record, [2/26/15](https://www.congress.gov/congressional-record/2015/02/26/house-section/article/H1193-3); Congressional Actions, [H. Amdt. 29](https://www.congress.gov/amendment/114th-congress/house-amendment/29/actions); Congressional Actions, [H.R. 5](https://www.congress.gov/bill/114th-congress/house-bill/5/all-actions)\]
+
+-   **Rep. Joaquin Castro (D-TX): The Ombudsman Would Be Independent Of The Secretary Of Education And Could Not Overturn State Decisions.** In his floor speech introducing the amendment, Rep. Castro said, "this is a commonsense amendment that seeks to appoint a neutral ombudsperson within the Department of Education to address student K-12 textbook standards and concerns. This neutral ombudsperson would be somebody who could receive complaints from students, teachers, administrators\--anybody in the schools. This person would be independent of the Secretary. And most importantly, because I know that we yield much power to the States over curriculum in textbooks, this is somebody who would not have any authority to make binding decisions to overturn State decisions, but somebody who could help take in complaints or concerns and also help resolve those concerns." \[Congressional Record, [2/26/15](https://www.congress.gov/congressional-record/2015/02/26/house-section/article/H1193-3)\]
+
+-   **Rep. Todd Rokita (R-IN): "There Is No Federal Role In Determining What Those Books Are Or Judging The Quality Of Them."** In his floor speech, Rep. Todd Rokita said, "I thank the gentleman for offering his amendment, even though I am opposed to it. Mr. Chairman, States should have good textbooks for students that cover the material thoroughly, fairly, and most importantly, accurately. But there is no Federal role in determining what those books are or judging the quality of them, frankly. All the arguments the gentleman makes can be taken care of at the State level and at the local level." \[Congressional Record, [2/26/15](https://www.congress.gov/congressional-record/2015/02/26/house-section/article/H1193-3)\]

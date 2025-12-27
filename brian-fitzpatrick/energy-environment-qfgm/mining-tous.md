@@ -1,0 +1,273 @@
+---
+title: Mining
+description: 
+published: true
+date: 2025-09-22T20:57:01.237Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:56:56.348Z
+---
+
+# Mining
+
+### Claims On Public Lands
+
+**2024: Fitzpatrick Voted Against Allowing Mining Companies To Stake
+Claims On Public Lands Without Proof Of A Mineral Deposit.** In May
+2024, Fitzpatrick voted against , according to Congressional Quarterly,
+"the bill that would amend current law on mining plans to allow a mining
+claimant to have the right to use and occupy the land to conduct
+operations on public land with or without the discovery of a valuable
+mineral if the claimant makes timely payment of fees, including lands
+for mining-support activities such as waste or processing sites. It
+would stipulate that a claimant who fulfills the fee requirements would
+be deemed in compliance with current law regarding payment for the fair
+market value of the use of public land and its resources." The vote was
+on passage. The House passed the bill by a vote of 216 to 195. \[House
+Vote 191, [5/8/24](http://clerk.house.gov/evs/2024/roll191.xml);
+Congressional Quarterly, 5/8/24; Congressional Quarterly,
+[5/1/24](https://plus.cq.com/doc/news-8000475?46); Congressional
+Actions, [H.R.
+2925](https://www.congress.gov/bill/118th-congress/house-bill/2925/all-actions)\]
+
+-   **The Bill Could Have Allowed Activities Like The Burial Of Toxic
+    Waste Or Stalled Renewable Energy Projects.** According to
+    Congressional Quarterly, "Critics of the bill said it could allow
+    activities such as burial of toxic waste on public lands, or simply
+    allow opponents of renewables projects to place stakes in the ground
+    and thereby claim the land for themselves in order to stall
+    progress." \[Congressional Quarterly,
+    [5/1/24](https://plus.cq.com/doc/news-8000475?46)\]
+
+-   **The Bill Was Previously Pulled From The Floor Due To A Protest
+    Vote By GOP Hardliners.** According to Congressional Quarterly, "The
+    House on Wednesday will revisit a Republican-drafted mining bill
+    that was pulled from the floor last week in what seemed to be a
+    rebuke of Republican leadership by a few of the party\'s hard-line
+    members. Six Republicans joined the Democratic-led motion to
+    recommit the bill (HR 2925) on May 1, a step normally employed by
+    the minority party that\'s rarely successful. Despite its success
+    this time, however, leadership was not technically required to send
+    the bill back to the House Natural Resources Committee, and instead
+    can bring it back to the floor." \[Congressional Quarterly,
+    [5/8/24](https://plus.cq.com/doc/news-8004923?35)\]
+
+**2024: Fitzpatrick Effectively Voted For A Bill Allowing Mining
+Companies To Stake Claims On Public Lands Without Proof Of A Mineral
+Deposit.** In May 2024, Fitzpatrick voted against , according to
+Congressional Quarterly, the "Leger-Fernandez, D-N.M., motion to
+recommit the bill to the House Natural Resources Committee." The bill
+would "allow hardrock mining companies to stake claims on public lands
+without first having proven the existence of a valuable mineral deposit
+was yanked off the floor and sent back to committee on Wednesday, a
+procedural move that hasn\'t been seen possibly in decades." The vote
+was on the motion to recommit. The House rejected to the motion by a
+vote of 203 to 208. \[House Vote 190,
+[5/8/24](http://clerk.house.gov/evs/2024/roll190.xml); Congressional
+Quarterly, [5/8/24](https://plus.cq.com/vote/2024/H/190?33);
+Congressional Quarterly,
+[5/1/24](https://plus.cq.com/doc/news-8000475?46); Congressional
+Actions, [H.R.
+2925](https://www.congress.gov/bill/118th-congress/house-bill/2925/all-actions)\]
+
+-   **The Bill Could Have Allowed Activities Like The Burial Of Toxic
+    Waste Or Stalled Renewable Energy Projects.** According to
+    Congressional Quarterly, "Critics of the bill said it could allow
+    activities such as burial of toxic waste on public lands, or simply
+    allow opponents of renewables projects to place stakes in the ground
+    and thereby claim the land for themselves in order to stall
+    progress." \[Congressional Quarterly,
+    [5/1/24](https://plus.cq.com/doc/news-8000475?46)\]
+
+**2024: Fitzpatrick Effectively Voted For A Bill Allowing Mining
+Companies To Stake Claims On Public Lands Without Proof Of A Mineral
+Deposit.** In May 2024, Fitzpatrick voted against , according to
+Congressional Quarterly, the "Leger-Fernandez, D-N.M., motion to
+recommit the bill to the House Natural Resources Committee." The bill
+would "allow hardrock mining companies to stake claims on public lands
+without first having proven the existence of a valuable mineral deposit
+was yanked off the floor and sent back to committee on Wednesday, a
+procedural move that hasn\'t been seen possibly in decades." The vote
+was on the motion to recommit. The House agreed to the motion by a vote
+of 210 to 204. \[House Vote 175,
+[5/1/24](http://clerk.house.gov/evs/2024/roll175.xml); Congressional
+Quarterly, [5/1/24](https://plus.cq.com/vote/2024/H/175?33);
+Congressional Quarterly,
+[5/1/24](https://plus.cq.com/doc/news-8000475?46); Congressional
+Actions, [H.R.
+2925](https://www.congress.gov/bill/118th-congress/house-bill/2925/all-actions)\]
+
+-   **The Bill Could Have Allowed Activities Like The Burial Of Toxic
+    Waste Or Stalled Renewable Energy Projects.** According to
+    Congressional Quarterly, "Critics of the bill said it could allow
+    activities such as burial of toxic waste on public lands, or simply
+    allow opponents of renewables projects to place stakes in the ground
+    and thereby claim the land for themselves in order to stall
+    progress." \[Congressional Quarterly,
+    [5/1/24](https://plus.cq.com/doc/news-8000475?46)\]
+
+### Pebble Mine
+
+**2019: Fitzpatrick Voted For Blocking Mining In The Pebble Mine of
+Alaska.** In June 2019, Fitzpatrick voted for an amendment that would,
+according to Congressional Quarterly, "prohibit the use of funds made
+available by the bill to finalize the environmental impact statement for
+a proposed Army Corps of Engineers infrastructure project in southwest
+Alaska, including a mine site, port, transportation corridor, and
+natural gas pipeline." The vote was on adoption of the amendment. The
+House adopted the amendment by a vote of 233-201. \[House Vote 363,
+[6/19/19](http://clerk.house.gov/evs/2019/roll363.xml); Congressional
+Quarterly, [6/19/19](https://plus.cq.com/vote/2019/H/363?21);
+Congressional Actions,
+[H.Amdt.384](https://www.congress.gov/amendment/116th-congress/house-amendment/384/actions);
+Congressional Actions, [H.R.
+2740](https://www.congress.gov/bill/116th-congress/house-bill/2740/all-actions)\]
+
+-   **The Amendment Prevented Mining At Pebble Mine In Alaska, Which The
+    NRDC States Would Put A \$1.5 Billion Annual Fishery At Risk.**
+    According to NRDC, "Pebble Mine is a reckless scheme that carries
+    unprecedented risk. The giant gold and copper mine proposed at the
+    headwaters of Bristol Bay's legendary salmon runs is an
+    ill-conceived project fraught with economic, environmental, social
+    and legal risk \[...\] The mine would put at risk a \$1.5 billion
+    annual sustainable commercial fishery that provides 14,000 jobs and
+    supplies half of the world's sockeye salmon \[...\] It's no surprise
+    that the Pebble Mine faces opposition from a fierce and diverse
+    group of people, including Bristol Bay tribes, village corporations,
+    commercial, subsistence, and recreational fishermen, hunters, lodge
+    owners, businesses, and conservationists." \[NRDC,
+    [1/21/19](https://www.nrdc.org/experts/taryn-kiekow-heimer/pebble-mine-opponents-warn-investors-risks)\]
+
+-   **NRDC: The Trump Administration Was "Inexplicably Fast-Tracking A
+    Permit" For Pebble Mine.** According to NRDC, "Nonetheless, the
+    Trump administration is inexplicably fast-tracking a permit for this
+    colossal mistake \[...\] the U.S. Army Corps of Engineers is rushing
+    ahead with a fatally flawed and wholly inadequate draft
+    Environmental Impact Statement (EIS). The draft EIS lacks critical
+    information and analysis and fails to properly evaluate the risks of
+    Pebble to Bristol Bay water, fisheries, wildlife, communities, and
+    cultures." \[NRDC,
+    [1/21/19](https://www.nrdc.org/experts/taryn-kiekow-heimer/pebble-mine-opponents-warn-investors-risks)\]
+
+### Regulations
+
+**2020: Fitzpatrick Voted For Prohibiting New Mining Or Mineral
+Production On 1.3 Million Acres Of Federal Land In Arizona And
+Colorado.** In July 2020, Fitzpatrick voted for an amendment to the FY
+2021 NDAA that would, according to Congressional Quarterly, "effectively
+prohibit any new mining or mineral production activities on
+approximately one million acres of federal lands in the Grand Canyon
+region of Arizona and approximately 261,000 acres of land in Colorado by
+withdrawing the federal lands from eligibility for mining and mineral
+and geothermal leasing. It would also designate or expand a number of
+federal land management areas in Colorado; designate the Camp Hale
+National Historic Landscape in Colorado and authorize \$10 million for
+its administration; and modify or expand certain Interior Department
+land use authorities, including authorities related to land transfer and
+acquisition, livestock grazing and military high altitude flight
+training." The vote was on adoption. The House adopted the amendment by
+a vote of 234-181. \[House Vote 147,
+[7/21/20](http://clerk.house.gov/evs/2020/roll147.xml); Congressional
+Quarterly, [7/21/20](https://plus.cq.com/vote/2020/H/147?1);
+Congressional Actions,
+[H.Amdt.838](https://www.congress.gov/amendment/116th-congress/house-amendment/838/actions);
+Congressional Actions,
+[H.R.6395](https://www.congress.gov/bill/116th-congress/house-bill/6395/all-actions?q=%7b%22search%22%3A%5B%22hr+6395%22%5D%7d&s=1&r=1)\]
+
+**2018: Fitzpatrick Voted For The \$1.3 Trillion FY 2018 Omnibus
+Spending Deal Which Raised Spending By \$138 Billion Over FY 2017
+Levels, Including \$374 Million For The Mine Safety And Health
+Administration For Administration, Salaries And Expenses.** In March
+2018, Fitzpatrick voted for the FY 2018 Omnibus spending bill. According
+to Congressional Quarterly, "Combined, the spending measures would
+provide about \$1.3 trillion in discretionary spending, with \$1.2
+trillion subject to discretionary spending caps, and \$78.1 billion
+designated as Overseas Contingency Operations funds. The measure\'s
+spending levels are consistent with the increased defense and
+non-defense budget caps set by the two-year budget deal agreed to last
+month. That agreement increased the FY 2018 defense cap by \$80 billion
+and the non-defense cap by \$63 billion. Given that the previous caps
+were set to reduce overall discretionary spending by \$5 billion, the
+net increase provided by the omnibus is \$138 billion over the FY 2017
+level." The vote was on the motion to concur in the Senate Amendment
+with an Amendment. The House agreed to the motion, thereby passing the
+bill, by a vote of 256 to 167. The Senate later agreed to the
+legislation, sending it to the president, who signed it into law.
+\[House Vote 127,
+[3/22/18](http://clerk.house.gov/evs/2018/roll127.xml); Congressional
+Quarterly, [3/22/18](http://www.cq.com/doc/har-5287294?5); Congressional
+Actions, [H.R.
+1625](https://www.congress.gov/bill/115th-congress/house-bill/1625/all-actions)\]
+
+-   **Bill Appropriated \$374 Million For MSHA For Administration,
+    Salaries And Expenses.** According to Congressional Quarterly, "The
+    measure provides \$553 million for the Occupational Safety and
+    Health Administration (OSHA), equal to FY 2017. In its report, the
+    House committee said that OSHA's over-reliance on enforcement had
+    created bad feeling between the agency and employers, which
+    undermines the agency's goals and the federal policies of economic
+    growth and job creation. It also provides \$374 million for
+    administration, salaries and expenses of the Mine Safety and Health
+    Administration (MSHA), equal to FY 2017. The committee noted that it
+    continues to receive reports that mine inspectors are exceeding
+    appropriate levels of oversight, and it questioned whether the costs
+    outweigh the benefits." \[Congressional Quarterly,
+    [3/22/18](http://www.cq.com/doc/har-5287294?5)\]
+
+**2017: Fitzpatrick Voted For Legislation That Would Have Repealed
+Significant Portions Of Dodd-Frank, Including Repealing A Rule Requiring
+Mining Companies Include Mine Safety And Health Violations In SEC
+Reports.** In June 2017, Fitzpatrick voted for the Financial Choice Act.
+According to NPR, "House Republicans voted Thursday to deliver on their
+promise to repeal Dodd-Frank --- the massive set of Wall Street
+regulations President Barack Obama signed into law after the 2008
+financial crisis. In a near party-line vote, the House approved a bill,
+dubbed the Financial Choice Act, which scales back or eliminates many of
+the post-crisis banking rules." The vote was on passage. The House
+passed the bill by a vote of 233 to 186. The Senate took no substantive
+action on the legislation. \[House Vote 299,
+[6/8/17](http://clerk.house.gov/evs/2017/roll299.xml); NPR,
+[6/8/17](http://www.npr.org/2017/06/08/532036374/house-passes-bill-aimed-at-reversing-dodd-frank-financial-regulations);
+Congressional Actions, [H.R.
+10](https://www.congress.gov/bill/115th-congress/house-bill/10/all-actions)\]
+
+-   **The Financial Choice Act Repealed Section 1503 Of Dodd-Frank.**
+    According to the text of H.R. 10, "SEC. 862. REPEAL. (a)
+    REPEAL.---The following sections of title XV of the Dodd-Frank Wall
+    Street Reform and Consumer Protection Act are repealed, and the
+    provisions of law amended or repealed by such sections are restored
+    or revived as if such sections had not been enacted: (1)
+    Section 1502. (2) Section 1503." \[Congress.gov, [H.R.
+    10](https://www.congress.gov/115/bills/hr10/BILLS-115hr10rfs.pdf)\]
+
+-   **Section 1503 of Dodd-Frank Required Mining Companies To Include
+    Safety Violations In SEC Reports.** According to the SEC, "Under
+    Section 1503 of the Dodd-Frank Act, mining companies are required to
+    include information about mine safety and health in the quarterly
+    and annual reports they file with the SEC. The Dodd-Frank Act
+    disclosure requirements are based on the safety and health
+    requirements that apply to mines under the Federal Mine Safety and
+    Health Act of 1977, which is administered by the Mine Safety and
+    Health Administration (MSHA). The new SEC rules, which take effect
+    30 days after publication in the Federal Register, specifically
+    require those companies to provide mine-by-mine totals for the
+    following: Significant and substantial violations of mandatory
+    health or safety standards under section 104 of the Mine Act for
+    which the operator received a citation from MSHA Orders under
+    section 104(b) of the Mine Act Citations and orders for
+    unwarrantable failure of the mine operator to comply with section
+    104(d) of the Mine Act Flagrant violations under section 110(b)(2)
+    of the Mine Act Imminent danger orders issued under section 107(a)
+    of the Mine Act The dollar value of proposed assessments from MSHA
+    Notices from MSHA of a pattern of violations or potential to have a
+    pattern of violations under section 104(e) of the Mine Act Pending
+    legal actions before the Federal Mine Safety and Health Review
+    Commission Mining-related fatalities The accompanying instructions
+    specify that a mining company must report the total penalties
+    assessed in the reporting period, even if the company is contesting
+    an assessment. For legal actions, mining companies are instructed to
+    report the number instituted and resolved during the reporting
+    period, report the number pending on the last day of the reporting
+    period, and categorize the actions based on the type of proceeding."
+    \[SEC,
+    [12/21/11](https://www.sec.gov/news/press/2011/2011-273.htm)\]

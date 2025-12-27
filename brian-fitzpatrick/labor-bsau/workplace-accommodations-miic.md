@@ -1,0 +1,149 @@
+---
+title: Workplace Accommodations
+description: 
+published: true
+date: 2025-09-22T21:30:46.734Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:30:42.065Z
+---
+
+# Workplace Accommodations
+
+### Breastfeeding Accommodations
+
+**2022: Fitzpatrick Voted For The FY 2023 Omnibus Spending Package,
+Which Included Requirements For All Employers To Provide Breastfeeding
+Workplace Accommodations.** In December 2022, according to Congressional
+Quarterly, Fitzpatrick voted to concur with the Senate amendment to the
+Consolidated Appropriations Act, 2023, which would "include provisions
+to address flexibility for state and local coronavirus relief funding,
+use of Russian asset seizures for Ukraine aid, breastfeeding workplace
+accommodations, compensation for 9/11 victims, aviation preparedness,
+ocean and land conservation programs, consumer protections, pesticide
+safety and lobster fishing regulations." The vote was on a motion to
+concur. The House concurred with the Senate amendment by a vote of
+225-201, thus bill was sent to President Biden and ultimately became
+law. \[House Vote 549,
+[12/23/22](http://clerk.house.gov/evs/2022/roll549.xml); Congressional
+Quarterly, [12/23/22](https://plus.cq.com/vote/2022/H/549?2);
+Congressional Actions, [S.Amdt.
+6552](https://www.congress.gov/amendment/117th-congress/senate-amendment/6552/actions);
+Congressional Actions, [H.R.
+2617](https://www.congress.gov/bill/117th-congress/house-bill/2617/all-actions)\]
+
+-   **Added To The Omnibus As An Amendment, The Breastfeeding
+    Accommodations Provision Mandated Employers To Provide A Designated
+    Breastfeeding Location Other Than A Restroom And Provide A
+    "Reasonable Break Time" To Breastfeed.** According to Congressional
+    Quarterly, "The original bill (S 1658) would mandate that employers
+    provide nursing workers with a designated breastfeeding space other
+    than a bathroom as well as 'reasonable break time' to breastfeed,
+    lasting for up to a year after the child's birth. The amendment,
+    which was subject to a 60-vote threshold, was approved 92-5. The
+    Senate later voted 68-29 to pass the omnibus spending bill (HR
+    2617), paving the way for the House to clear the legislation ahead
+    of government spending (PL 117-229) running out at midnight on
+    Friday." \[Congressional Quarterly,
+    [12/22/22](https://plus.cq.com/doc/news-7629178?1)\]
+
+-   **The Provision Exempted Airlines From The Breastfeeding
+    Accommodation Mandate And State Accommodation Mandates And Provided
+    Some Protections To The Rail Industry, Including Not Requiring Them
+    To Retrofit Rail Cars.** According to Congressional Quarterly, "But
+    the final text includes language that would exempt airlines both
+    from providing crew members with in-flight breastfeeding
+    accommodations and from state laws mandating such accommodations.
+    The rail industry, which also expressed concerns with language in
+    the bill in the past, is not completely exempt from the mandates,
+    but has some protections such as not having to retrofit rail cars."
+    \[Congressional Quarterly,
+    [12/22/22](https://plus.cq.com/doc/news-7629178?1)\]
+
+-   **The FY 2023 Omnibus Included A Provision That Guaranteed Workplace
+    Accommodations For Nursing Workers To Pump Their Breastmilk.**
+    According to CNN, "Also, another provision in the package guarantees
+    workplace accommodations -- particularly time to pump -- for more
+    nursing workers." \[CNN,
+    [12/29/22](https://www.cnn.com/2022/12/20/politics/spending-bill-congress-omnibus/index.html)\]
+
+### Pregnant Workers
+
+**2022: Fitzpatrick Voted For The FY 2023 Omnibus Spending Package,
+Which Included Protections For Pregnant Workers Against Workplace
+Discrimination.** In December 2022, according to Congressional
+Quarterly, Fitzpatrick voted to concur with the Senate amendment to the
+Consolidated Appropriations Act, 2023, which would "put in place
+protections for pregnant workers against workplace discrimination." The
+vote was on a motion to concur. The House concurred with the Senate
+amendment by a vote of 225-201, thus bill was sent to President Biden
+and ultimately became law. \[House Vote 549,
+[12/23/22](http://clerk.house.gov/evs/2022/roll549.xml); Congressional
+Quarterly, [12/23/22](https://plus.cq.com/vote/2022/H/549?2);
+Congressional Actions, [S.Amdt.
+6552](https://www.congress.gov/amendment/117th-congress/senate-amendment/6552/actions);
+Congressional Actions, [H.R.
+2617](https://www.congress.gov/bill/117th-congress/house-bill/2617/all-actions)\]
+
+-   **The FY 2023 Omnibus Granted Workplace Accommodation Requirements
+    For Pregnant Workers, Like Extra Bathroom Breaks, Stools Or Relief
+    From Physical Duties, And Prevented Retaliation, Coercion To Take
+    Paid Or Unpaid Leave, Or Denying Employment To Women Based On Their
+    Need For Accommodations.** According to CNN, "The law provides
+    pregnant workers with workplace accommodations -- such as additional
+    bathroom breaks, stools or relief from heavy lifting duties --
+    needed for healthy pregnancies. It will prevent them from being
+    forced to take leave or losing their jobs, as well as bar employers
+    from denying employment opportunities to women based on their need
+    for reasonable accommodations due to childbirth or related medical
+    conditions." \[CNN,
+    [12/29/22](https://www.cnn.com/2022/12/20/politics/spending-bill-congress-omnibus/index.html)\]
+
+**2021: Fitzpatrick Voted To Require Employers To Make Reasonable
+Accommodations For Pregnant Employees.** In May 2021, Fitzpatrick voted
+for the Pregnant Workers Fairness Act of 2021 which would, according to
+Congressional Quarterly, "require public employers and private employers
+with at least 15 employees to make reasonable accommodations to
+employees for known limitations related to pregnancy, childbirth or
+related medical conditions, unless the employer demonstrates that such
+accommodations would impose an undue hardship on their operations." The
+vote was on passage. The House passed the bill by a vote of 315-101. The
+Senate did not take substantive action on the bill. \[House Vote 143,
+[5/14/21](http://clerk.house.gov/evs/2021/roll143.xml); Congressional
+Quarterly, [5/14/21](https://plus.cq.com/vote/2021/H/143?7);
+Congressional Actions, [H.R.
+1065](https://www.congress.gov/bill/117th-congress/house-bill/1065/actions)\]
+
+-   **The Bill Would Have Provided Legal Benefits For Pregnant Employees
+    Denied Workplace Accommodation.** According to Congressional
+    Quarterly, "provide legal remedies for employees denied reasonable
+    accommodations, including rights to compensatory damages, lost pay
+    and reasonable attorney fees." The vote was on passage. The House
+    passed the bill by a vote of 315-101. \[House Vote 143,
+    [5/14/21](http://clerk.house.gov/evs/2021/roll143.xml);
+    Congressional Quarterly,
+    [5/14/21](https://plus.cq.com/vote/2021/H/143?7); Congressional
+    Actions, [H.R.
+    1065](https://www.congress.gov/bill/117th-congress/house-bill/1065/actions)\]
+
+-   **The Bill Would Have Required The Equal Employment Opportunity
+    Commission To Provide Examples Of Reasonable Accommodations For
+    Pregnant Employees.** According to Congressional Quarterly, "require
+    the Equal Employment Opportunity Commission, within two years of
+    enactment, to issue regulations to carry out the bill\'s provisions,
+    including to provide examples of reasonable accommodations for
+    pregnant workers." \[Congressional Quarterly,
+    [5/14/21](https://plus.cq.com/vote/2021/H/143?7)\]
+
+-   **The Bill Would Have Prohibited Employers From Terminating Or
+    Denying Pregnant Individuals Employment And Prohibited Employers
+    From Coercing Pregnant Workers Into Taking Paid Or Unpaid Leave If
+    Reasonable Accommodations Were Available.** According to
+    Congressional Quarterly, "prohibit employers from denying employment
+    opportunities to or retaliating against such employees based on the
+    need to provide accommodations. It would prohibit employers from
+    requiring such employees to take paid or unpaid leave if reasonable
+    accommodations can be provided or to accept any accommodation other
+    than a reasonable accommodation arrived at through an interactive
+    process between the employer and employee." \[Congressional
+    Quarterly, [5/14/21](https://plus.cq.com/vote/2021/H/143?7)\]

@@ -1,0 +1,99 @@
+---
+title: Relationships with Alaska Communities and Groups
+description: 
+published: true
+date: 2025-05-04T14:54:16.317Z
+tags: 
+editor: markdown
+dateCreated: 2025-05-04T14:54:13.192Z
+---
+
+# Relationships with Alaska Communities and Groups
+
+### Summary
+
+-   Nick Begich and his family have a longstanding history of engagement and advocacy for Alaska Native communities, including work on the Alaska Native Claims Settlement Act and personal relationships with tribal leaders ([Alaska Beacon](https://alaskabeacon.com/jamesbrooks), [Bristol Bay Times & Dutch Harbor Fisherman](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D3G-X591-DXVP-T0ST-00000-00&context=1519360)).
+
+-   Begich regularly affirms his commitment to engaging and listening to Alaska Natives, promising open communication and collaboration on statewide challenges ([Arctic Sounder](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D3H-JHM1-DXVP-T1MP-00000-00&context=1519360), [Bristol Bay Times & Dutch Harbor Fisherman](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D3G-X591-DXVP-T0ST-00000-00&context=1519360)).
+
+-   Begich is well known across Alaska due to his family's political legacy and ranks the Alaska Federation of Natives Convention among his top community events ([NBC - 2 KTUU](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6CM2-8111-JBCN-339S-00000-00&context=1519360), [Juneau Empire](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:66P1-R5C1-F0HF-82J6-00000-00&context=1519360)).
+
+-   Begich has engaged with diverse communities, from Kodiak's fishing sector to grassroots supporters in the Matanuska-Susitna Valley, earning both praise and criticism for his responsiveness and ability to connect ([Kodiak Daily Mirror](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6C8P-VHS1-JBCN-311G-00000-00&context=1519360), [Peninsula Clarion](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:65NJ-XK71-F0HF-805D-00000-00&context=1519360), [Alaska Dispatch News](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:65KR-Y9R1-DYTM-N2DM-00000-00&context=1519360)).
+
+-   There is some criticism regarding Begich's toughness and whether he truly understands or represents the needs of all Alaskans, with some community members calling him out for being out of touch or too confrontational ([Fairbanks Daily News-Miner](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D7W-V3H1-DXVP-T3RT-00000-00&context=1519360), [Anchorage Daily News](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:69X8-T051-DYRB-S14Y-00000-00&context=1519360)).
+
+-   Begich has occasionally faced intra-family political divisions, such as Senator Tom Begich declining to support his congressional campaign due to partisan differences ([Alaska Landmine](https://alaskalandmine.com/landmines/nick-begich-received-thousands-in-donations-from-prominent-democrats-and-unions-in-2016-assembly-race/)).
+
+### Family and Historical Ties in Alaska
+
+#### Begich Family Legacy
+
+**April 2022: Tom Begich Explained His 2016 Support For Nick Begich** According to Alaska Landmine, Senator Tom Begich said, "My nephew was running in a race at the time against Amy Demboski, who I believed was harmful to the interests of Anchorage, and she's borne that out serving as municipal manager. So Nick's judgement -- while I don't always agree with it -- was sound in that race." \[Alaska Landmine, [4/28/22](https://alaskalandmine.com/landmines/nick-begich-received-thousands-in-donations-from-prominent-democrats-and-unions-in-2016-assembly-race/)\]
+
+**April 2022: Tom Begich Declined To Support Nick Begich's Congressional Campaign** According to Alaska Landmine, "When asked whether he would donate to Nick Begich's congressional campaign, Tom Begich plainly responded, 'Why would I do that? He's a conservative Republican,' and added, 'My nephew has never donated to any of my campaigns, which is disappointing.'" \[Alaska Landmine, [4/28/22](https://alaskalandmine.com/landmines/nick-begich-received-thousands-in-donations-from-prominent-democrats-and-unions-in-2016-assembly-race/)\]
+
+**2024: Nick Begich Denied Encouraging Democrats To Vote For Eric Hafner** According to Daily Sitka Sentinel (Alaska), "Begich turned Peltola's question back on her, noting that she hasn't endorsed Democratic presidential candidate Kamala Harris, while Hafner has. 'If I recall my comments, I think we were talking about the fact that Eric Hafner at least has the ability to admit who he's going to vote for for president, and you did not, and I found that interesting,' Begich said." \[Daily Sitka Sentinel (Alaska), [10/22/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D91-N3M1-DXVP-T4FY-00000-00&context=1519360)\]
+
+**October 2024: Begich Referenced Suggesting Democrats Vote For Eric Hafner Over Peltola** According to NBC - 2 KTUU (Anchorage, Alaska), "Peltola asked Begich about comments he made on former Republican U.S. Senate candidate Kelly Tshibaka's podcast encouraging voters to vote for New York federal prisoner Eric Hafner who appears as another Democratic ballot option over Peltola in the general election." \[NBC - 2 KTUU (Anchorage, Alaska), [10/22/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D7R-V2H1-JBCN-32WB-00000-00&context=1519360)\]
+
+**2025: Begich Reiterated Support For Calling The Mountain Denali But Did Not Take Position On Legislative Renaming** In an interview with Alaska's News Source, Nick Begich said, "I've always called the mountain Denali, and I'm going to continue to call it Denali. \[...\] How we choose to name a mountain is probably not the most important priority for most Alaskans." \[Interview - Nick Begich with NBC - 2 KTUU (Anchorage, Alaska), [2/19/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6F5B-GTC3-RW88-932C-00000-00&context=1519360)\]
+
+**2024: Ivan Moore Claimed Nick Begich Had Historic Alaska Political Name Recognition** According to NBC - 2 KTUU (Anchorage, Alaska), "March polling numbers from progressive research firm Data For Progress showed Peltola leading her both Republican challengers, with Begich who also has historic Alaska political name recognition in second place." \[NBC - 2 KTUU (Anchorage, Alaska), [7/25/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6CM2-8111-JBCN-339S-00000-00&context=1519360)\]
+
+### Engagement with Alaska Natives and Local Communities
+
+#### Commitment to Alaska Natives
+
+**2024: Nick Begich Cited Family History Of Working With Alaska Natives** According to Alaska Beacon, "My grandfather worked tirelessly to pass the Alaska Native Claims Settlement Act (ANCSA) out of the House. My father worked as a tribal administrator and village planner for Chickaloon Village and was even ceremonially adopted by Clan Grandmother Katie Wade. Our family has a long history of working to address the needs of all Alaskans, including Alaska's first people," he said. \[Alaska Beacon, [9/26/24](https://alaskabeacon.com/jamesbrooks)\]
+
+**2024: Nick Begich Expressed Willingness To Engage With Alaska Native Community** According to Alaska Beacon, "To all Alaska Natives across the state: I hear you, and I want to talk to you. My door is always open and nothing will stop my commitment to listen to you and to work with you to solve the challenges that we face as Alaskans." \[Alaska Beacon, [9/26/24](https://alaskabeacon.com/jamesbrooks)\]
+
+**Begich Cited Family History Serving Alaska Natives** According to Bristol Bay Times & Dutch Harbor Fisherman, "'My grandfather worked tirelessly to pass the Alaska Native Claims Settlement Act out of the House. My father worked as a tribal administrator and village planner for Chickaloon Village and was even ceremonially adopted by Clan Grandmother Katie Wade. Our family has a long history of working to address the needs of all Alaskans, including Alaska's first people,' he said." \[Bristol Bay Times & Dutch Harbor Fisherman, [10/3/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D3G-X591-DXVP-T0ST-00000-00&context=1519360)\]
+
+**Begich Expressed Commitment To Engage With Alaska Natives** According to Bristol Bay Times & Dutch Harbor Fisherman, "'To all Alaska Natives across the state: I hear you, and I want to talk to you. My door is always open and nothing will stop my commitment to listen to you and to work with you to solve the challenges that we face as Alaskans.'" \[Bristol Bay Times & Dutch Harbor Fisherman, [10/3/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D3G-X591-DXVP-T0ST-00000-00&context=1519360)\]
+
+**Nick Begich Stated Commitment To Alaska Natives In 2024 House Race** According to Arctic Sounder, 'To all Alaska Natives across the state: I hear you, and I want to talk to you. My door is always open and nothing will stop my commitment to listen to you and to work with you to solve the challenges that we face as Alaskans.' \[Arctic Sounder, [10/3/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D3H-JHM1-DXVP-T1MP-00000-00&context=1519360)\]
+
+**January 2025: Begich's Spokesperson Characterized Begich's Profanity As Showing Passion For Alaska** According to Anchorage Daily News, "A spokesperson for Begich defended the choice of words as a sign of his passion for Alaska. \[...\] Prout replied in a text, 'it is clear to see here that Congressman Begich is extremely passionate about fighting for Alaska's future, and he will continue to exemplify that fighting spirit in Washington.'" \[Anchorage Daily News, [1/6/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6DV3-T063-RSSN-54XC-00000-00&context=1519360)\]
+
+**January 2025: Begich's Spokesperson Defended His Profanity As Passion For Alaska** According to Anchorage Daily News, "A spokesperson for Begich defended the choice of words as a sign of his passion for Alaska." \[Anchorage Daily News (Alaska), [1/6/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6DV6-KB93-S4RS-V14M-00000-00&context=1519360)\]
+
+**1972: Rep. Nick Begich Requested AFN Commitment To Back House Land Claims Bill** According to Fairbanks Daily News-Miner (Alaska), "Rep. Nick Begich, D-Alaska, today told the Alaska Federation of Natives meeting here he must have a commitment from AFN backing the House land claims bill if the bill is to be acted upon this session. Begich said this is one of a series of commitments he has to have to show that Alaska is unified in its support of the bill. He said the House Rules Committee would act on the bill next week if he can report unity in the state. If not, Begich said, the bill is lost for the session and probably will not see further congressional attention." \[Fairbanks Daily News-Miner (Alaska), [10/9/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:66K7-HJH1-DXVP-V443-00000-00&context=1519360)\]
+
+#### Community Outreach and Public Debates
+
+**2024: Begich Objected To AFN's Decision Not To Hold Candidate Forum** According to Bristol Bay Times & Dutch Harbor Fisherman, "'The opportunity to debate ideas and direction for our communities is a bedrock of our Republic. In my view, it is a disservice to the Alaska Native community to deprive AFN members of the opportunity to make an informed decision after comparing both congressional candidates' ideas and records,' Begich said by email." \[Bristol Bay Times & Dutch Harbor Fisherman, [10/3/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D3G-X591-DXVP-T0ST-00000-00&context=1519360)\]
+
+**2022: Begich Ranked Alaska Federation Of Natives Convention Among His Top Five Conventions** According to Juneau Empire, '"Top five for sure," Begich said, adding after a pause "I told you I'm an honest politician."' \[Juneau Empire, [10/22/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:66P1-R5C1-F0HF-82J6-00000-00&context=1519360)\]
+
+**2024: Silver J. Prout Praised Nick Begich's Engagement With Kodiak's Fishing Community** According to a letter to the editor published in Kodiak Daily Mirror (Alaska), "During Nick's visit to Kodiak, he had the opportunity to engage with local fishermen, business owners, and many residents who underscored the challenges Kodiak faces." \[Letter to the Editor - Kodiak Daily Mirror (Alaska), [6/17/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6C8P-VHS1-JBCN-311G-00000-00&context=1519360)\]
+
+**2024: Silver J. Prout Asserted That Nick Begich Understood The Importance Of Preserving Kodiak's Fishing Heritage** According to a letter to the editor published in Kodiak Daily Mirror (Alaska), "If we want a sustainable future, we must elect leaders who understand the importance of preserving our fishing heritage and empowering small businesses to thrive. Nick Begich's unwavering dedication to principles of freedom and prosperity make him the ideal candidate to represent the interests of coastal communities like Kodiak in Washington, D.C." \[Letter to the Editor - Kodiak Daily Mirror (Alaska), [6/17/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6C8P-VHS1-JBCN-311G-00000-00&context=1519360)\]
+
+**1971: Begich Said House Rules Committee Would Act On Land Claims Bill Only If Alaska Showed Unity** According to Fairbanks Daily News-Miner (Alaska), "Begich said this is one of a series of commitments he has to have to show that Alaska is unified in its support of the bill. He said the House Rules Committee would act on the bill next week if he can report unity in the state. If not, Begich said, the bill is lost for the session and probably will not see further congressional attention." \[Fairbanks Daily News-Miner (Alaska), [10/9/21](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:63TG-MC51-JBCN-40R2-00000-00&context=1519360)\]
+
+**February 2025: Nick Begich Expressed Personal Preference For The Denali Mountain Name** According to Alaska Beacon, "'I've always called the mountain Denali, and I know many Alaskans will,' he said." \[Alaska Beacon, [2/6/25](https://alaskabeacon.com/2025/02/06/u-s-house-passes-two-bills-from-alaska-rep-nick-begich/)\]
+
+#### Constituent Services
+
+**September 1972: Rep. Nick Begich Announced Lack Of Funding For Fairbanks-To-Airport Railroad Spur** According to Fairbanks Daily News-Miner (Alaska), "the long-awaited railroad spur from the city of Fairbanks to its international airport apparently will not be funded by the government, according to Rep. Nick Begich, D-Alaska. Begich said here today he has received a letter from Secretary of Transportation John Volpe saying that the current adverse economy prevents spending any money for the project, which Begich said was virtually assured earlier this summer." \[Fairbanks Daily News-Miner (Alaska), [9/10/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:66C4-V2W1-DXVP-V1N5-00000-00&context=1519360)\]
+
+### Connections with Voters and Supporters
+
+#### Interactions with Voters
+
+**2024: Letter Writer Edward Debevec Criticized Nick Begich's Concept of Toughness** According to a letter to the editor published in Fairbanks Daily News-Miner, "Clearly, Nick Begich does not know what it means to be tough. He thinks grabbing someone by the throat is being tough. That's not being tough. That's being violent. Big difference. Being tough is standing up to a bully, not being one." \[Letter to the Editor - Fairbanks Daily News-Miner, [10/22/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D7W-V3H1-DXVP-T3RT-00000-00&context=1519360)\]
+
+**2025: Protester Martinez Urged Begich To Prioritize Alaskans Over Corporate Interests** According to Fairbanks Daily News-Miner, "\[Begich\] needs to make sure that he is making decisions not at the behest of corporate billionaires, but based on what Alaskans are asking him for," protestor Bella Martinez said. \[Fairbanks Daily News-Miner, [2/17/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6F55-1B63-S133-C46P-00000-00&context=1519360)\]
+
+**2022: Letter Writer Michael Coons Reported Positive Voter Reactions After Interactions with Nick Begich** According to a letter to the editor published in Mat-Su Valley Frontiersman, "From what Nick has told me, many of them, if not all of them now will and have voted for Nick! Funny how that works! People who have opposed because of his name and what they have heard, when they talk to him, they support him!" \[Letter to the Editor - Mat-Su Valley Frontiersman (Wasilla, Alaska), [10/23/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:66R5-02T1-JBCN-4063-00000-00&context=1519360)\]
+
+**2023: Letter Writer Dave Ellison Criticized Nick Begich III as Out of Touch with Alaskans** According to a letter to the editor published in Anchorage Daily News, "Nick Begich III is so out of touch with what Alaskans need that if I were in his shoes, I would refrain from embarrassing myself. I ask him to please walk and stand with us blue-collar workers who are on the streets day after day, and listen to our voices. No Trump. No at so many levels." \[Letter to the Editor - Anchorage Daily News, [12/19/23](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:69X8-T051-DYRB-S14Y-00000-00&context=1519360)\]
+
+#### Grassroots Support and Endorsements
+
+**2022: Nick Begich Considered Matanuska-Susitna Region One of His Strongest Areas** According to a letter to the editor published in Alaska Dispatch News, "Begich said he considers the Matanuska-Susitna region, a conservative hotbed that includes Sarah Palin's hometown of Wasilla, one of his strongest areas." \[Letter to the Editor - Alaska Dispatch News, [6/3/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:65KR-Y9R1-DYTM-N2DM-00000-00&context=1519360)\]
+
+**June 2022: Begich Campaign Reported High Grassroots Support Across Alaska** According to Peninsula Clarion, "It's very encouraging to see the grassroots support for Nick across the state, and we are feeling very confident about our chances," \[Begich's campaign manager Truman Reed\] said. \[Peninsula Clarion, [6/10/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:65NJ-XK71-F0HF-805D-00000-00&context=1519360)\]
+
+**2024: Letter Writer Cindy Glassmaker Supported Nick Begich's Stance on Protecting Alaskan Children and Families** According to a letter to the editor published in Peninsula Clarion, "Congressional candidate Nick Begich is a symbol of hope for many Alaskans who are tired of typical politicians who spew empty promises. He is a dedicated husband, father and embodies the tough Alaskan spirit and grit that makes our state stand out. \[...\] Nick Begich exemplifies this leadership and is poised to advocate fiercely for our children and uphold the principles that define us. Begich's is dedicated to safeguarding our freedoms and putting families first. This dedication resonates deeply with many Alaskan parents. He also recognizes the importance of upholding our Constitutional rights and liberties which have come under attack under the current Administration." \[Letter to the Editor - Peninsula Clarion, [8/8/24](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6CNT-YV01-JD2C-J1CS-00000-00&context=1519360)\]

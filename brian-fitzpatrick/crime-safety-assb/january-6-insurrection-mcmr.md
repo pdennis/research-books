@@ -1,0 +1,113 @@
+---
+title: January 6th Insurrection
+description: 
+published: true
+date: 2025-09-22T20:36:58.183Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:36:54.438Z
+---
+
+# January 6th Insurrection
+
+### Capitol Police Awards
+
+**2021: Fitzpatrick Voted To Award Congressional Gold Medals To The U.S.
+Capitol Police For Their Bravery In Defending The Capitol During The
+January 6th Insurrection.** In March 2021, Fitzpatrick voted for a bill
+which would, according to Congressional Quarterly, "award three
+congressional gold medals to the U.S. Capitol Police and those who
+protected the U.S. Capitol on Jan. 6, 2021. It would require the
+presentation of one medal each to the U.S. Capitol Police and the
+Metropolitan Police Department of the District of Columbia for display
+at their headquarters, and one medal to the Smithsonian Institution for
+display and research, along with a plaque listing the other law
+enforcement agencies that participated in protecting the Capitol." The
+vote was on passage. The House passed the bill by a vote of 413-12. The
+Senate did not take substantive action on the bill. \[House Vote 87,
+[3/17/21](http://clerk.house.gov/evs/2021/roll087.xml); Congressional
+Quarterly, [3/17/21](https://plus.cq.com/vote/2021/H/87?7);
+Congressional Actions, [H.R.
+1085](https://www.congress.gov/bill/117th-congress/house-bill/1085/actions)\]
+
+-   **Some Republicans Had Issues With Using The Term "Insurrection" In
+    The Bill Awarding Congressional Gold Medals To Capitol Police.**
+    According to Congressional Quarterly, "Some Republicans who didn't
+    co-sponsor the bill said they had concerns about the language,
+    including the use of the term 'insurrection' and calling the Capitol
+    a 'temple.' A dozen ended up voting 'no.'" \[Congressional
+    Quarterly, [3/17/21](https://plus.cq.com/doc/news-6164977?9)\]
+
+-   **The Legislation Honored The Three Police Officers Who Died Due To
+    The January 6th Insurrection.** According to Congressional
+    Quarterly, "Her bill also names the three officers who died: Capitol
+    Police Officer Brian Sicknick, who died of injuries suffered in the
+    attack, and Capitol Police Officer Howard Liebengood and D.C. Metro
+    Police Officer Jeffrey Smith, who both died by suicide after the
+    events of Jan. 6." \[Congressional Quarterly,
+    [3/17/21](https://plus.cq.com/doc/news-6164977?9)\]
+
+### House Committee
+
+**2021: Fitzpatrick Voted Against Establishing A Special House Committee
+To Investigate The January 6th Insurrection.** In June 2021, Fitzpatrick
+voted against a bill which would, according to Congressional Quarterly,
+"establish a special committee in the House of Representatives to
+investigate facts and causes related to the Jan. 6, 2021, 'domestic
+terrorist attack' on the U.S. Capitol; examine and evaluate evidence
+developed by relevant federal, state and local governmental agencies;
+and build upon the investigations of other entities. It would require
+the committee to investigate facts and circumstances of the attack
+related to intelligence and law enforcement agency activities and
+factors contributing to the attack, including online platforms and
+foreign influence operations; identify and analyze the causes of and
+lessons learned from the attack with regard to law enforcement
+operations and security protocol at the Capitol; and submit to Congress
+reports including findings and conclusions of its investigations,
+legislative recommendations, and recommendations for corrective
+measures. The resolution would authorize the speaker of the House to
+appoint 13 members to the committee, including five members after
+consultation with the minority leader. Among other provisions, it would
+authorize the committee chair to issue subpoenas, authorize such sums as
+may be necessary for committee expenses, and specify that the committee
+would terminate 30 days after filing its final report to Congress." The
+vote was on passage. The House passed the resolution by a vote of
+222-190. \[House Vote 197,
+[6/30/21](http://clerk.house.gov/evs/2021/roll197.xml); Congressional
+Quarterly, [6/30/21](https://plus.cq.com/vote/2021/H/197?55);
+Congressional Actions, [H.R.
+503](https://www.congress.gov/bill/117th-congress/house-resolution/503/actions)\]
+
+### National Commission
+
+**2021: Fitzpatrick Voted To Establish A National Commission That Would
+Investigate The January 6th Attack On The Capitol.** In May 2021,
+Fitzpatrick voted for the National Commission to Investigate the January
+6 Attack on the United States Capitol Complex Act which would, according
+to Congressional Quarterly, "establish a national commission to
+investigate facts and causes related to the Jan. 6, 2021, 'domestic
+terrorist attack' on the U.S. Capitol; examine and evaluate evidence
+developed by relevant federal, state and local governmental agencies;
+and build upon the investigations of other entities. It would require
+the commission to investigate facts and circumstances of the attack
+related to intelligence and law enforcement agency activities and
+factors contributing to the attack, including online platforms and
+foreign influence operations; identify and analyze the causes of and
+lessons learned from the attack with regard to law enforcement
+operations and security protocol at the Capitol; and submit to the
+president and Congress reports containing findings and recommendations
+for corrective measures that are agreed to by a majority of the
+commission. The commission would be composed of ten members, evenly
+chosen by the majority and minority parties, who have national
+recognition and significant experience in at least two subject areas
+related to the attack, such as law enforcement, intelligence, law, civil
+rights and counterterrorism. Among other provisions, the bill would
+authorize the commission to issue subpoenas and hold hearings and
+specify that the commission would submit its final report by the end of
+2021 and terminate 60 days after submitting the report." The vote was on
+passage. The House passed the bill by a vote of 252-175. The Senate did
+not take substantive action on the bill. \[House Vote 154,
+[5/19/21](http://clerk.house.gov/evs/2021/roll154.xml); Congressional
+Quarterly, [5/19/21](https://plus.cq.com/vote/2021/H/154?2);
+Congressional Actions, [H.R.
+3233](https://www.congress.gov/bill/117th-congress/house-bill/3233/actions)\]

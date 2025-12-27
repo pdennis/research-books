@@ -1,0 +1,17 @@
+---
+title: Transportation
+description: 
+published: true
+date: 2025-09-24T21:22:32.273Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T21:22:28.338Z
+---
+
+# Transportation
+
+### Prohibiting Arrest Under State Law For Transporting An Unloaded, Locked In A Secured Container Firearm
+
+**2016: Schweikert Voted To Prohibit Arrest Under State Law For Transporting An Unloaded, Locked In A Secured Container Firearm.** In February 2016, Schweikert voted for a bill which expanded hunting and fishing on federal lands which also prohibited the arrest under state law for transportation an unloaded, locked in a secured container firearm. According to Congressional Quarterly, the legislation would have "prohibit\[ed\] arrest under state law of an individual transporting an unloaded firearm that is stored in a locked container, secured by a safety device or is not accessible from the vehicle's passenger compartment, unless there is probable cause to believe that the firearm isn\'t being transported in such a manner." The underlying bill would have, according to The Hill, "expand\[ed\] public access to recreational shooting and hunting on federal lands." The vote was on passage. The House passed the bill by a vote of 242 to 161. The Senate took no substantive action on the bill. \[House Vote 101, [2/26/16](http://clerk.house.gov/evs/2016/roll101.xml); Congressional Quarterly, [2/26/16](http://www.cq.com/vote/2016/H/101?18); The Hill, [2/26/16](http://thehill.com/blogs/floor-action/house/270934-house-passes-sportsmens-bill); Congressional Actions, [H.R. 2406](https://www.congress.gov/bill/114th-congress/house-bill/2406/all-actions)\]
+
+**2016: Schweikert Voted To Prohibit Arrest Under State Law For Transporting An Unloaded, Locked In A Secured Container Firearm.** In February 2016, Schweikert voted for an amendment that would have, according to Congressional Quarterly, "prohibit\[ed\] arrest under state law of individuals transporting a firearm if they are transporting an unloaded firearm that is stored in a locked container, secured by a safety device or is not accessible from the vehicle's passenger compartment. Arrest would \[have\] require\[d\] probable cause to believe the person is transporting the firearm in a manner that is not provided for under standards outlined in the amendment. It also would \[have\] provide\[d\] for a defendant who prevails in asserting the amendment's provisions as a defense in a criminal case to be awarded reasonable attorney\'s fees." The underlying legislation was a bill that, according to AP would have "expand\[ed\] access to hunting and fishing areas on public lands, extend\[ed\] protections for the use of lead bullets in hunting and strip\[ped\] wolves of federal protections in four states." The vote was on the amendment. The House passed the amendment by a vote of 239 to 165. The House later passed the underlying legislation, but the Senate took no substantive action on the legislation. \[House Vote 96, [2/26/16](http://clerk.house.gov/evs/2016/roll096.xml); Congressional Quarterly, [2/26/16](http://www.cq.com/vote/2016/H/96?5); AP Via US News & World Report, [2/26/16](http://www.usnews.com/news/politics/articles/2016-02-26/house-backs-bill-to-boost-hunting-fishing-on-public-lands); Congressional Actions, [H. Amdt. 957](https://www.congress.gov/amendment/114th-congress/house-amendment/957/actions); Congressional Actions, [H.R. 2406](https://www.congress.gov/bill/114th-congress/house-bill/2406/all-actions)\]

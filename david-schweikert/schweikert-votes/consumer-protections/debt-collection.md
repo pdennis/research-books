@@ -1,0 +1,29 @@
+---
+title: Debt Collection
+description: 
+published: true
+date: 2025-09-24T20:29:22.557Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:29:18.286Z
+---
+
+# Debt Collection
+
+### Extended Protections
+
+**2021: Schweikert Voted Against Modifying Consumer Protection Laws Against Debt Collectors, Which Would Include Protections Regarding Electronic Communications, Student And Medical Debt, Debt Collection From Military Members, And Debt Collection Conducted By Government Contractors.** In May 2021, Schweikert voted against the Comprehensive Debt Collection Improvement Act of 2021 which would, according to Congressional Quarterly, "make numerous modifications to existing law related to consumer protections against debt collection practices, including to extend protections related to electronic communications by debt collectors, student loan and medical debt, debt collection from servicemembers and debt collection by government contractors \[...\] The bill would take effect 180 days after its enactment." The vote was on passage. The House passed the bill by a vote of 215-207. The Senate did not take substantive action on the bill. \[House Vote 141, [5/13/21](http://clerk.house.gov/evs/2021/roll141.xml); Congressional Quarterly, [5/13/21](https://plus.cq.com/vote/2021/H/141?9); Congressional Actions, [H.R. 2547](https://www.congress.gov/bill/117th-congress/house-bill/2547/actions)\]
+
+-   **The Bill Would Have Prohibited Debt Collectors From Electronically Contacting Consumers Without Their Consent And Authorized The CFBP To Require Collectors To Allow Consumer To Opt Out Of Any Means Of Communication And Prohibited Sending Unlimited Electronic Communications To Consumers.** According to Congressional Quarterly, "prohibit debt collectors from contacting consumers by email, text message or social media without the consumer\'s consent. It would authorize the Consumer Financial Protection Bureau to issue rules requiring debt collectors to allow consumers to opt out of any method of communication and prohibit the agency from issuing rules allowing debt collectors to send unlimited electronic communications to consumers." \[Congressional Quarterly, [5/13/21](https://plus.cq.com/vote/2021/H/141?9)\]
+
+-   **The Bill Would Have Extended Prohibitions On Excessive Debt Collection Activities To Government Contractors, Which Would Include Requiring Federal Agencies To Hold Off 90 Days And Notifying Consumers At Least 3 Times Before Selling Debt To A Debt Collector, And Bar The Treasury Department From Hiring Debt Collectors For FEMA Aid Overpayments.** According to Congressional Quarterly, "extend existing prohibitions on unfair or excessive debt collection tactics to apply to debt collectors hired as contractors by federal, state or local governments; require federal agencies to wait at least 90 days after a debt becomes delinquent and notify consumers at least three times before transferring or selling such debt to a debt collector; and prohibit the Treasury Department from contracting debt collectors to recoup Federal Emergency Management Agency aid overpayments, unless they occurred because of fraud or deceit of the recipient." \[Congressional Quarterly, [5/13/21](https://plus.cq.com/vote/2021/H/141?9)\]
+
+-   **The Bill Would Have Authorized Courts To Grant Injunctions For Debt Collection Violations While Increasing Civil Penalties.** According to Congressional Quarterly, "increase civil penalties and authorize courts to award injunctive relief for violations of debt collection practices law; specify that such law applies to entities engaging in non-judicial foreclosures." The vote was on passage. The House passed the bill by a vote of 215-207. \[House Vote 141, [5/13/21](http://clerk.house.gov/evs/2021/roll141.xml); Congressional Quarterly, [5/13/21](https://plus.cq.com/vote/2021/H/141?9); Congressional Actions, [H.R. 2547](https://www.congress.gov/bill/117th-congress/house-bill/2547/actions)\]
+
+-   **The Bill Would Have Restricted Commercial Loan And Other Credits' Written Agreements That Include Judgement Confession Or Other Waiver Of Rights Regarding Lawsuits.** According to Congressional Quarterly, "restrict the use of written agreements in connection with commercial loans or other credits that include a confession of judgment or other waiver of rights in relation to a legal suit." \[Congressional Quarterly, [5/13/21](https://plus.cq.com/vote/2021/H/141?9)\]
+
+-   **The Bill Would Have Required Reports And Studies Over Debt Collection Impacts On Military Members And Impacts Of Tactics During The COVID Pandemic.** According to Congressional Quarterly, "require numerous Government Accountability Office studies and reports to Congress, including on debt collection practices experienced by servicemembers and debt collection practices during the COVID-19 pandemic." \[Congressional Quarterly, [5/13/21](https://plus.cq.com/vote/2021/H/141?9)\]
+
+### Veterans And Military Members
+
+**2021: Schweikert Voted Against Prohibiting Aggressive Debt Collection Activities Against Active-Duty And Recently Discharged Military Members.** In May 2021, Schweikert voted against the Comprehensive Debt Collection Improvement Act of 2021 which would, according to Congressional Quarterly, "prohibit debt collectors from using certain aggressive debt collection tactics against active-duty or recently discharged servicemembers, including threatening a servicemember with a reduction in rank, having their security clearance revoked or prosecuting them under the military justice system." The vote was on passage. The House passed the bill by a vote of 215-207. The Senate did not take substantive action on the bill. \[House Vote 141, [5/13/21](http://clerk.house.gov/evs/2021/roll141.xml); Congressional Quarterly, [5/13/21](https://plus.cq.com/vote/2021/H/141?9); Congressional Actions, [H.R. 2547](https://www.congress.gov/bill/117th-congress/house-bill/2547/actions)\]

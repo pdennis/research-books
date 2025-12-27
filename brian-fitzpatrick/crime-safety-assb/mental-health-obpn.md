@@ -1,0 +1,99 @@
+---
+title: Mental Health
+description: 
+published: true
+date: 2025-09-22T20:37:42.574Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:37:38.743Z
+---
+
+# Mental Health
+
+### Expanding Justice And Mental Health Collaboration Programs
+
+**2022: Fitzpatrick Voted To Allow Mental Health Collaboration Program
+Grants To Be Used For Training For Prosecutors Over Diversion Programs,
+Implementing Crisis Call Response Teams, Implementing Suicide Prevention
+Services For Imprisoned Individuals, Enhancing Access To Mental Health
+And Substance Use Disorder Services For Qualified Offenders, And
+Expanding The 988 National Suicide Prevention And Mental Health Crisis
+Hotline.** In November 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the Justice and Mental Health Collaboration
+Reauthorization Act of 2022, which would "expand eligible uses of
+Justice Department Mental Health Collaboration Program grants to states,
+local governments and tribes to plan and implement programs to serve
+individuals accused of an offense who have been diagnosed with a mental
+illness. Specifically, the bill would allow grants to be used for
+training prosecutors about diversion programs, which are mental health
+treatment alternatives to incarceration; implementing multidisciplinary
+crisis call response teams that include specially trained officers and
+mental health crisis workers; developing and implementing suicide
+prevention services for incarcerated individuals; increasing access to
+mental health care and substance use disorder services and providing
+case management services for qualified offenders and individuals
+released from prison; and implementing and expanding the 988 national
+suicide prevention and mental health crisis hotline system. It would
+require multidisciplinary crisis response teams that receive grant
+funding to provide response capability 24 hours each day and seven days
+each week, to the extent practicable. The bill would also reauthorize
+\$2 million annually through fiscal 2027 for a Justice Department report
+on the prevalence of offenders with serious mental illness." The vote
+was on passage. The House passed the bill by a vote of 389-22, thus the
+bill was sent to President Biden and it ultimately became law. \[House
+Vote 487, [11/29/22](http://clerk.house.gov/evs/2022/roll487.xml);
+Congressional Quarterly,
+[11/29/22](https://plus.cq.com/vote/2022/H/487?20); Congressional
+Actions, [S.
+3846](https://www.congress.gov/bill/117th-congress/senate-bill/3846/all-actions)\]
+
+### Intervention Grants
+
+**2022: Fitzpatrick Voted To Award Grants To State, Local And Tribal
+Governments To Establish Or Expand Programs That Dispatch Mental Health
+Experts Instead Of Law Enforcement Officers If A Person Experiences A
+Mental Health Crisis.** In September 2022, according to Congressional
+Quarterly, Fitzpatrick voted for the Mental Health Justice Act of 2022,
+which would "require the Health and Human Services Department to award
+grants to states, localities, tribes and tribal organizations to
+establish or expand programs to hire, train and dispatch mental health
+professionals to respond in lieu of law enforcement officers in
+emergencies where an individual calls an emergency hotline regarding a
+mental health crisis or where a law enforcement officer or first
+responder identifies that an individual has a mental illness or
+disability, or is under the influence of drugs. The grants could also be
+used for training mental health professionals in de-escalation and
+developmentally appropriate techniques, connecting individuals with
+voluntary community-based services, training dispatch center staff and
+coordinating with law enforcement agencies. The bill would authorize
+\$250 million annually through fiscal 2027 for the program. It would
+require HHS to distribute additional funds to grantees that demonstrate
+program success and to prioritize grant recipients that are located in
+high-need areas or that commit to certain community support approaches.
+It would establish program reporting requirements and policies for
+revoking grants. It would require HHS and the Justice Department to
+conduct a study, within three years of enactment, on the effectiveness
+of funded programs and activities." The vote was on passage. The House
+passed the bill by a vote of 223-206. The Senate did not take
+substantive action on the bill. \[House Vote 452,
+[9/22/22](http://clerk.house.gov/evs/2022/roll452.xml); Congressional
+Quarterly, [9/22/22](https://plus.cq.com/vote/2022/H/452?8);
+Congressional Actions, [H.R.
+8542](https://www.congress.gov/bill/117th-congress/house-bill/8542/all-actions)\]
+
+-   **The Bill Would Have Created A Grant Program For State And Local
+    Governments To Train And Dispatch Mental Health Experts, Instead Of
+    Police Officers, To Respond To Behavioral Health Emergencies.**
+    According to The Washington Post, "The Mental Health Justice Act of
+    2022, sponsored by Rep. Katie Porter (D-Calif.), seeks to create a
+    grant program for states and local governments to train and dispatch
+    mental health professionals --- instead of law enforcement officers
+    --- to respond to emergencies that involve people with behavioral
+    health needs." \[The Washington Post,
+    [9/22/22](https://www.washingtonpost.com/politics/2022/09/22/house-democrats-policing/)\]
+
+-   **The Bill Would Have Authorized \$250 Million Annually Through FY
+    2027 For The Mental Health Grants.** According to Congressional
+    Quarterly, "The bill would authorize \$250 million annually through
+    fiscal 2027 for the program." \[Congressional Quarterly,
+    [9/22/22](https://plus.cq.com/vote/2022/H/452?8)\]

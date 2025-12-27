@@ -1,0 +1,159 @@
+---
+title: LGBTQ Rights
+description: 
+published: true
+date: 2025-09-22T21:04:35.010Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:04:30.777Z
+---
+
+# LGBTQ Rights
+
+### Global Respect Act Sanctions
+
+**2022: Fitzpatrick Voted To Impose Visa Sanctions On Foreign
+Individuals And Their Immediate Family Members Involved In Human Rights
+Violations Based On Sexual Orientation Or Gender Identity.** In February
+2022, according to Congressional Quarterly, Fitzpatrick voted for the
+Global Respect Act, which would "impose visa sanctions on foreign
+individuals responsible for or complicit in the denial of human rights
+based on a person\'s actual or perceived sexual orientation, gender
+identity or sex characteristics, making such individuals and their
+immediate family members ineligible for entry into the United States."
+The vote was on passage. The House passed the bill by a vote of 227-206.
+\[House Vote 43, [2/9/22](http://clerk.house.gov/evs/2022/roll043.xml);
+Congressional Quarterly,
+[2/9/22](https://plus.cq.com/vote/2022/H/43?11); Congressional Actions,
+[H.R.
+3485](https://www.congress.gov/bill/117th-congress/house-bill/3485/actions)\]
+
+-   **The Global Respect Act Required The President To Submit A List Of
+    Individuals Subject To The Visa Sanctions.** According to
+    Congressional Quarterly, "It would require the president, within 180
+    days of enactment and biannually thereafter, to submit to Congress a
+    list of individuals determined to be subject to the ban."
+    \[Congressional Quarterly,
+    [2/9/22](https://plus.cq.com/vote/2022/H/43?11)\]
+
+-   **The Global Respect Act Required The State Department To Annually
+    Report On The Implementation Of The Visa Sanctions And Any Efforts
+    To Coordinate With Other Foreign Countries To Establish Similar
+    Sanctions.** According to Congressional Quarterly, "It would require
+    the State Department to report annually to Congress on
+    implementation of the sanctions, including changes to the list, and
+    any efforts by the president to coordinate with foreign countries to
+    impose similar sanctions." \[Congressional Quarterly,
+    [2/9/22](https://plus.cq.com/vote/2022/H/43?11)\]
+
+-   **The Global Respect Act Required The State Department To Designate
+    At Least One Officer To Track Violence And Human Rights Violations
+    Based On Sexual Orientation, Gender Identity Or Sex
+    Characteristics.** According to Congressional Quarterly, "It would
+    also require the department to designate one or more officers
+    responsible for tracking violence and the denial of human rights
+    based on actual or perceived sexual orientation, gender identity or
+    sex characteristics in foreign countries, and to include related
+    information in its annual report on human rights practices."
+    \[Congressional Quarterly,
+    [2/9/22](https://plus.cq.com/vote/2022/H/43?11)\]
+
+**2022: Fitzpatrick Voted For Amendments That Would Allow The President
+To Exempt Family Members Of Individuals Subject To The Global Respect
+Act's Sanctions If They Fear Persecutions Based On Sexual Orientation,
+Gender Identity, Race, Religion, Nationality Or Political Beliefs.** In
+February 2022, according to Congressional Quarterly, Fitzpatrick voted
+for en bloc amendments no. 1 to the Global Respect Act, which would in
+part "authorize the president to exempt family members of individuals
+subject to sanctions under the bill\'s provisions if they have a
+reasonable fear of persecution based on actual or perceived sexual
+orientation or gender identity, race, religion, nationality or political
+beliefs." The vote was on the adoption of amendments. The House adopted
+the amendments by a vote of 223-207. \[House Vote 42,
+[2/9/22](http://clerk.house.gov/evs/2022/roll042.xml); Congressional
+Quarterly, [2/9/22](https://plus.cq.com/vote/2022/H/42?10);
+Congressional Actions, [H.Amdt.
+175](https://www.congress.gov/amendment/117th-congress/house-amendment/175/actions?r=1&s=a);
+Congressional Actions, [H.R.
+3485](https://www.congress.gov/bill/117th-congress/house-bill/3485/actions)\]
+
+**2022: Fitzpatrick Voted For Amendments That Specified The Global
+Respect Act Would Not Impose Sanctions Against Foreign Individuals Based
+Solely On Religious Beliefs.** In February 2022, according to
+Congressional Quarterly, Fitzpatrick voted for en bloc amendments no. 1
+to the Global Respect Act, which would in part "specify that the bill
+would not allow the imposition of sanctions against any foreign person
+based solely upon religious belief." The vote was on the adoption of
+amendments. The House adopted the amendments by a vote of 223-207.
+\[House Vote 42, [2/9/22](http://clerk.house.gov/evs/2022/roll042.xml);
+Congressional Quarterly,
+[2/9/22](https://plus.cq.com/vote/2022/H/42?10); Congressional Actions,
+[H.Amdt.
+175](https://www.congress.gov/amendment/117th-congress/house-amendment/175/actions?r=1&s=a);
+Congressional Actions, [H.R.
+3485](https://www.congress.gov/bill/117th-congress/house-bill/3485/actions)\]
+
+**2022: Fitzpatrick Voted For Amendments That Specified "Torture" As A
+Human Rights Violation Subject To Sanctions Imposed By The Global
+Respect Act.** In February 2022, according to Congressional Quarterly,
+Fitzpatrick voted for en bloc amendments no. 1 to the Global Respect
+Act, which would in part "specify 'torture' as a human rights violation
+subject to sanctions under the bill. "The vote was on the adoption of
+amendments. The House adopted the amendments by a vote of 223-207.
+\[House Vote 42, [2/9/22](http://clerk.house.gov/evs/2022/roll042.xml);
+Congressional Quarterly,
+[2/9/22](https://plus.cq.com/vote/2022/H/42?10); Congressional Actions,
+[H.Amdt.
+175](https://www.congress.gov/amendment/117th-congress/house-amendment/175/actions?r=1&s=a);
+Congressional Actions, [H.R.
+3485](https://www.congress.gov/bill/117th-congress/house-bill/3485/actions)\]
+
+**2022: Fitzpatrick Voted For Amendments That Required The State
+Department To Report On The Past Risks Of LGBTQ+ Individuals, Regional
+Differences Among The Risks, And How The Department Could Collaborate
+With Public, Private And Advocacy Entities To Prevent Human Rights
+Violations.** In February 2022, according to Congressional Quarterly,
+Fitzpatrick voted for en bloc amendments no. 1 to the Global Respect
+Act, which would in part "specify that the State Department report on
+the bill\'s implementation would be in unclassified form but may include
+a classified annex; and require the State Department to submit reports
+to Congress regarding past risks to LGBTQI individuals, regional
+differences regarding those risks, and ways the department can improve
+coordination with foreign governments, civil society groups and the
+private sector to prevent human rights violations covered by the bill."
+The vote was on the adoption of amendments. The House adopted the
+amendments by a vote of 223-207. \[House Vote 42,
+[2/9/22](http://clerk.house.gov/evs/2022/roll042.xml); Congressional
+Quarterly, [2/9/22](https://plus.cq.com/vote/2022/H/42?10);
+Congressional Actions, [H.Amdt.
+175](https://www.congress.gov/amendment/117th-congress/house-amendment/175/actions?r=1&s=a);
+Congressional Actions, [H.R.
+3485](https://www.congress.gov/bill/117th-congress/house-bill/3485/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Global Respect Act.**
+In February 2022, according to Congressional Quarterly, Fitzpatrick
+voted against the "adoption of the rule (H Res 900) that would provide
+for House floor consideration of \[...\] a bill (HR 3485) related to
+global protections for LGBTQ individuals." The vote was on the adoption
+of the rule. The House adopted the rule by a vote of 219-203. \[House
+Vote 17, [2/2/22](http://clerk.house.gov/evs/2022/roll017.xml);
+Congressional Quarterly, [2/2/22](https://plus.cq.com/vote/2022/H/17?8);
+Congressional Actions, [H.R.
+3485](https://www.congress.gov/bill/117th-congress/house-bill/3485/actions);
+Congressional Actions, [H.Res.
+900](https://www.congress.gov/bill/117th-congress/house-resolution/900/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Global Respect Act.**
+In February 2022, according to Congressional Quarterly, Fitzpatrick
+voted against the "motion to order the previous question (thus ending
+debate and possibility of amendment) on the rule (H Res 900) that would
+provide for House floor consideration of \[...\] a bill (HR 3485)
+related to global protections for LGBTQ individuals." The vote was on a
+motion to order the previous question. The House agreed to the motion by
+a vote of 219-205. \[House Vote 16,
+[2/2/22](http://clerk.house.gov/evs/2022/roll016.xml); Congressional
+Quarterly, [2/2/22](https://plus.cq.com/vote/2022/H/16?5); Congressional
+Actions, [H.R.
+3485](https://www.congress.gov/bill/117th-congress/house-bill/3485/actions);
+Congressional Actions, [H.Res.
+900](https://www.congress.gov/bill/117th-congress/house-resolution/900/actions)\]

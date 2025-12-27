@@ -1,0 +1,19 @@
+---
+title: Trucking
+description: 
+published: true
+date: 2025-09-24T22:10:16.445Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T22:10:12.016Z
+---
+
+# Trucking
+
+### Allowing States To Permit Trucks That Exceed The Current Weight Limit Of 80,000 Pounds On The Interstate Highway System
+
+**2015: Schweikert Voted For Allowing States To Permit Trucks That Exceed The Current Weight Limit Of 80,000 Pounds On The Interstate Highway System.** In November 2015, Schweikert voted for an amendment that would have, according to Congressional Quarterly, "allow\[ed\] states to permit trucks on their Interstate highways that exceed the current weight limit of 80,000 pounds. Trucks would \[have\] need\[ed\] to be equipped with a sixth axle and could not exceed a gross weight of 91,000 pounds." The underlying legislation was a surface transportation reauthorization. The vote was on the amendment. The House rejected the amendment by a vote of 187 to 236. \[House Vote 588, [11/3/15](http://clerk.house.gov/evs/2015/roll588.xml); Congressional Quarterly, [11/3/15](http://www.cq.com/vote/2015/h/588?11); Congressional Actions, [H. Amdt. 747](https://www.congress.gov/amendment/114th-congress/house-amendment/747/actions); Congressional Actions, [H. Amdt. 734](https://www.congress.gov/amendment/114th-congress/house-amendment/734/actions); Congressional Actions, [H.R. 22](https://www.congress.gov/bill/114th-congress/house-bill/22/actions)\]
+
+-   **Rep. Reid Ribble (R-WI): Current Federal Weight Policy Is Two Decades Old; 25 States Allow Heavier Trucks On State And Local Roads.** In a floor speech, Rep. Ribble said, "Madam Chair, we are facing a capacity crunch in the United States today. Overall freight tonnage is projected to increase by 25 percent over the next decade. Our Federal truck weight policy is two decades old, and it must be updated if we are going to stay competitive with our trading partners, especially those in this hemisphere. My bipartisan amendment would give States the option of increasing truck weight limits on their interstate highways from 80,000 pounds to 91,000 pounds if those trucks add a sixth axle. I want to remind everyone it is an option, not a mandate, and it does not govern weight limits on State and local roads. Twenty-five of the 50 States, including my home State of Wisconsin, already allow heavier trucks on their State or local roads. So here we have an opportunity to move those trucks over to the interstate system, the safest place for trucks to travel." \[Congressional Record, [11/3/15](https://www.congress.gov/congressional-record/2015/11/03/house-section/article/H7412-2)\]
+
+-   **Rep. Michael Capuano (D-MA): Amendment Would Allow Trucks That Are 14 Percent Larger; Families Would Not Want To Be Driving Next To Such Large Trucks And Numerous Policy Associations Are Against The Amendment.** In a floor speech, Rep. Capuano said, "When it comes to these humongously long trucks, what are we talking about? We are talking about a 14 percent increase in weight in a truck that is up to 100 feet long. Now, if you want your moms, dads, and kids to be driving next to them, that is your prerogative in your State. I don't want them in my State, and that is up to us. As a Member of Congress, I don't want them on the Interstate Highway System. \[...\] I will end on this particular note. We have to understand who else is with us who opposes this at this time. The National Troopers Association, the National Sheriffs' Association, the International Association of Chiefs of Police, the National Association of Police Organizations, the AAA organization, the United States Conference of Mayors, the Advocates for Auto Safety, and the Teamsters Union" \[Congressional Record, [11/3/15](https://www.congress.gov/congressional-record/2015/11/03/house-section/article/H7412-2)\]

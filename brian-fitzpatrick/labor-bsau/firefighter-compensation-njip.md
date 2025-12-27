@@ -1,0 +1,156 @@
+---
+title: Firefighter Workers' Compensation
+description: 
+published: true
+date: 2025-09-22T21:27:16.657Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:27:12.510Z
+---
+
+# Firefighter Workers' Compensation
+
+**2022: Fitzpatrick Effectively Voted Against The Federal Firefighters
+Fairness Act Of 2022.** In May 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the adoption of "the rule (H Res
+1097) that would provide for floor consideration of \[...\] the Federal
+Firefighters Fairness Act (HR 2499)." The vote was on the adoption of
+the rule. The House adopted the rule by a vote of 217-202. \[House Vote
+144, [5/10/22](http://clerk.house.gov/evs/2022/roll144.xml);
+Congressional Quarterly,
+[5/10/22](https://plus.cq.com/vote/2022/H/144?16); Congressional
+Actions, [H.R.
+2499](https://www.congress.gov/bill/117th-congress/house-bill/2499/actions);
+Congressional Actions, [H.Res.
+1097](https://www.congress.gov/bill/117th-congress/house-resolution/1097/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Federal Firefighters
+Fairness Act Of 2022.** In May 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "motion to order the previous
+question (thus limiting debate and possibility of amendment) on the rule
+(H Res 1097) that would provide for floor consideration of \[...\] the
+Federal Firefighters Fairness Act (HR 2499)." The vote was on a motion
+to order the previous question. The House agreed to the motion by a vote
+of 218-203. \[House Vote 143,
+[5/10/22](http://clerk.house.gov/evs/2022/roll143.xml); Congressional
+Quarterly, [5/10/22](https://plus.cq.com/vote/2022/H/143?14);
+Congressional Actions, [H.R.
+2499](https://www.congress.gov/bill/117th-congress/house-bill/2499/actions);
+Congressional Actions, [H.Res.
+1097](https://www.congress.gov/bill/117th-congress/house-resolution/1097/actions)\]
+
+### Legal Presumption
+
+**2022: Fitzpatrick Voted To Establish A Presumption Of Employment As A
+Proximate Cause For Federal Firefighters Diagnosed With Certain Chronic
+Diseases, Cancers And Strokes In Relation To Their Eligibility For
+Federal Workers' Compensation.** In May 2022, according to Congressional
+Quarterly, Fitzpatrick voted for the Federal Firefighters Fairness Act
+of 2022, which would "establish a presumption of employment as a
+proximate cause for certain diseases contracted by federal fire
+protection employees, with respect to their eligibility for federal
+workers\' compensation benefits. Specifically, it would establish the
+presumption with respect to chronic obstructive pulmonary disease; a
+sudden cardiac event or stroke within 24 hours of being engaged in fire
+protection or emergency response duties; and 14 specified types of
+cancer, including brain cancer, lung cancer, leukemia and mesothelioma."
+The vote was on passage. The House passed the bill by a vote of 288-131,
+thus the bill was sent to the Senate. \[House Vote 149,
+[5/11/22](http://clerk.house.gov/evs/2022/roll149.xml); Congressional
+Quarterly, [5/11/22](https://plus.cq.com/vote/2022/H/149?12);
+Congressional Actions, [H.R.
+2499](https://www.congress.gov/bill/117th-congress/house-bill/2499/actions)\]
+
+-   **The Bill Would Require The Labor Department To Periodically
+    Evaluate The List Of Diseases And Add Diseases To The List By Rule
+    Upon Petition Or Determination That Were Was A Significant Risk For
+    Firefighters To Develop Such Illness.** According to Congressional
+    Quarterly, "It would require the Labor Department, in consultation
+    with the National Institute for Occupational Safety and Health, to
+    periodically review the list of diseases and add a disease to the
+    list by rule upon a petition or determination by the department that
+    there is 'significant risk' to firefighters of developing the
+    disease based on the best available scientific evidence."
+    \[Congressional Quarterly,
+    [5/11/22](https://plus.cq.com/vote/2022/H/149?12)\]
+
+-   **The Bill Would Create A Petition Process For The Addition Of A
+    Disease And Require The Labor Department To Evaluate And Either
+    Approve Or Deny Such Petitions Within 18 Months.** According to
+    Congressional Quarterly, "It would establish a process for
+    individuals to petition for the addition of a disease and require
+    the department to substantively evaluate and either grant or deny
+    such petitions within 18 months of receipt." \[Congressional
+    Quarterly, [5/11/22](https://plus.cq.com/vote/2022/H/149?12)\]
+
+-   **The Bill Would Require The Labor Department To Examine Whether To
+    Add Breast Cancer, Gynecologic Cancer Or Rhabdomyolysis To The
+    List.** According to Congressional Quarterly, "It would require the
+    department, within three years, to evaluate and determine whether to
+    add breast cancer, gynecologic cancer or rhabdomyolysis to the
+    list." \[Congressional Quarterly,
+    [5/11/22](https://plus.cq.com/vote/2022/H/149?12)\]
+
+-   **The Bill Would Establish A Process For Firefighters Who Were
+    Filing A Claim To Voluntarily Enroll In The National Firefighter
+    Registry Or A Similar Public Health Initiative Conducted By The
+    CDC.** According to Congressional Quarterly, "It would also require
+    the Labor Department to establish a process by which firefighters
+    filing a claim related to a disease on the bill's list may
+    voluntarily enroll in the National Firefighter Registry or a similar
+    research or public health initiative conducted by the Centers for
+    Disease Control and Prevention." \[Congressional Quarterly,
+    [5/11/22](https://plus.cq.com/vote/2022/H/149?12)\]
+
+-   **The Bill Would Expand Health Care Access For Federal Firefighters,
+    Including Paramedics, Ambulance Drivers And Hazardous Materials
+    Workers Who Developed Chronic Illnesses Like Strokes And Cancer.**
+    According to Congressional Quarterly, "The House passed a bill
+    Wednesday to expand health care access for federal firefighters,
+    sending the legislation to the Senate at the start of what is
+    expected to be an unusually active wildfire season. Members voted
+    288-131 to advance a bill (HR 2499) to expand health care access for
+    federal firefighters and other federally employed first responders
+    like paramedics, ambulance drivers and hazardous materials workers
+    who develop serious ailments such as strokes or cancer."
+    \[Congressional Quarterly,
+    [5/11/22](https://plus.cq.com/doc/news-6532431?1)\]
+
+-   **The Bill Would Establish A Legal Presumption For Federal
+    Firefighters Linking Their Duties To Their Chronic Illnesses And
+    Such Presumption Would Facilitate Their Ability To Obtain Workers'
+    Compensation And Health Care Access.** According to Congressional
+    Quarterly, "The House-passed legislation would establish a legal
+    presumption for federal firefighters linking their employment to
+    chronic obstructive pulmonary disease, a sudden cardiac event or
+    stroke within a day for fire protection activities, and 14 types of
+    cancer. That presumption would make it easier to get workers'
+    compensation and medical treatment." \[Congressional Quarterly,
+    [5/11/22](https://plus.cq.com/doc/news-6532431?1)\]
+
+### Substitute Amendment
+
+**2022: Fitzpatrick Voted Against An Amendment That Would Replace The
+Bill With Language That Would Establish A Firefighter Special Claims
+Unit And Require A Governmental Accountability Office Report On Health
+Care Benefits And Treatments Provided To Federal Firefighters Worth
+Certain Cancers And Medical Conditions.** In May 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the Republican
+substitute amendment to the Federal Firefighters Fairness Act of 2022,
+which would "replace the bill\'s provisions with language to establish
+within the Labor Department Office of Workers\' Compensation Programs a
+firefighter special claims unit. It would require the Government
+Accountability Office to report to Congress on the health care benefits
+and treatment provided to federal firefighters with certain cancers and
+other medical conditions, including a description of barriers to the
+delivery of health care; an evaluation of approved and denied claims;
+and a description of the standard used to determine causation of
+condition with respect to claims." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 180-242.
+\[House Vote 148,
+[5/11/22](http://clerk.house.gov/evs/2022/roll148.xml); Congressional
+Quarterly, [5/11/22](https://plus.cq.com/vote/2022/H/148?8);
+Congressional Actions, [H.Amdt.
+196](https://www.congress.gov/amendment/117th-congress/house-amendment/196/actions?r=1&s=a);
+Congressional Actions, [H.R.
+2499](https://www.congress.gov/bill/117th-congress/house-bill/2499/actions)\]

@@ -1,0 +1,33 @@
+---
+title: Local Infrastructure Funding
+description: 
+published: true
+date: 2025-09-24T22:08:57.488Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T22:08:53.395Z
+---
+
+# Local Infrastructure Funding
+
+### Devolution
+
+**2015: Schweikert Voted To Declare That Congress Believes That The Federal Role In Transportation Should Give The States Maximum Authority For Elements Not The Direct Purview Of The Federal Government.** In November 2015, Schweikert voted for an amendment that would have, according to Congressional Quarterly, "state\[d\] the sense of Congress that the Transportation secretary should provide a new policy blueprint for the federal role in transportation that would give states the maximum authority for elements of the national surface transportation system that are not the direct purview of the federal government." The underlying legislation was a surface transportation reauthorization. The House rejected the amendment by a vote of 118 to 310. \[House Vote 606, [11/4/15](http://clerk.house.gov/evs/2015/roll606.xml); Congressional Quarterly, [11/4/15](http://cq.com/vote/2015/H/606?1); Congressional Actions, [H. Amdt. 802](https://www.congress.gov/amendment/114th-congress/house-amendment/802/actions); Congressional Actions, [H. Amdt. 734](https://www.congress.gov/amendment/114th-congress/house-amendment/734/actions); Congressional Actions, [H.R. 22](https://www.congress.gov/bill/114th-congress/house-bill/22/all-actions)\]
+
+-   **Koch Brothers Backed Organization, American For Prosperity, Urged Representatives To Vote Yes And Included The Vote In Their Annual Scorecard.** \[Americans for Prosperity, [114th Congress Scorecard](http://afpscorecard.org/)\]
+
+### Landscape Costs
+
+**2015: Schweikert Voted To Eliminate The Secretary Of Transportation's Authority To Approve Landscape And Roadside Development Costs When Part Of Building Federal Highways.** In November 2015, Schweikert voted for an amendment that would have, according to Congressional Quarterly, "eliminate\[d\] the authority of the Transportation secretary to approve the cost of landscape and roadside development as part of the construction of federal-aid highways." The underlying legislation was a surface transportation bill. The vote was on the amendment. The House rejected the amendment by a vote of 172 to 255. \[House Vote 594, [11/4/15](http://clerk.house.gov/evs/2015/roll594.xml); Congressional Quarterly, [11/4/15](http://cq.com/vote/2015/H/594?0); Congressional Actions, [H. Amdt. 769](https://www.congress.gov/amendment/114th-congress/house-amendment/769/actions/); Congressional Actions, [H. Amdt. 734](https://www.congress.gov/amendment/114th-congress/house-amendment/734/actions); Congressional Actions, [H.R. 22](https://www.congress.gov/bill/114th-congress/house-bill/22/all-actions)\]
+
+-   **Koch Brothers Backed Organization, American For Prosperity, Urged Representatives To Vote Yes And Included The Vote In Their Annual Scorecard.** \[Americans for Prosperity, [114th Congress Scorecard](http://afpscorecard.org/)\]
+
+### New Starts Transit Program
+
+**2015: Schweikert Voted To Eliminate Funding For The New Starts Transit Program As Part Of The FY 2016 Republican Study Committee Budget Resolution.** In March 2015, Schweikert voted for eliminating funding for the New Starts Transit Program. According to the Republican Study Committee, the budget proposes to "Eliminate the New Starts Transit Program\[.\] The New Starts Program provides billions in subsidies to local transit for capital improvements to fixed-guideway projects, including streetcars, subways, and dedicated bus lanes. Often these projects are inefficient and fail to reduce congestion. Because this program subsidizes new projects, it incentivizes transit agencies to build expensive projects without regard to cost, putting taxpayers on the hook for operating costs down the road. Eliminating New Starts beginning in FY 2016 would save taxpayers \$2.1 billion per year." The underlying budget resolution would have, according to Congressional Quarterly, "provide\[d\] for \$2.804 trillion in new budget authority in fiscal 2016, not including off-budget accounts. The substitute would call for reducing spending by \$7.1 trillion over 10 years compared to the Congressional Budget Office baseline." The vote was on the substitute amendment to a Budget Resolution. The House rejected the amendment by a vote of 132 to 294. \[House Vote 138, [3/25/15](http://clerk.house.gov/evs/2015/roll138.xml); Republican Study Committee, [FY 2016 Budget](http://rsc.flores.house.gov/files/Initiatives/rsc-budget.pdf); Congressional Quarterly, [3/25/15](http://www.cq.com/vote/2015/h/138?23); Congress.gov, [H. Amdt. 83](https://www.congress.gov/amendment/114th-congress/house-amendment/83); Congressional Actions, [H. Con. Res. 27](https://www.congress.gov/bill/114th-congress/house-concurrent-resolution/27/all-actions)\]
+
+### Transpiration Alternatives Program
+
+**2015: Schweikert Voted To Eliminate The Transportation Alternatives Program As Part Of The FY 2016 Republican Study Committee Budget Resolution.** In March 2015, Schweikert voted for eliminating the Transportation Alternatives Program. According to the Republican Study Committee, the budget would have "Eliminat\[ed\] the TAP." The underlying budget resolution would have, according to Congressional Quarterly, "provide\[d\] for \$2.804 trillion in new budget authority in fiscal 2016, not including off-budget accounts. The substitute would call for reducing spending by \$7.1 trillion over 10 years compared to the Congressional Budget Office baseline." The vote was on the substitute amendment to a Budget Resolution. The House rejected the amendment by a vote of 132 to 294. \[House Vote 138, [3/25/15](http://clerk.house.gov/evs/2015/roll138.xml); Republican Study Committee, [FY 2016 Budget](http://rsc.flores.house.gov/files/Initiatives/rsc-budget.pdf); Congressional Quarterly, [3/25/15](http://www.cq.com/vote/2015/h/138?23); Congress.gov, [H. Amdt. 83](https://www.congress.gov/amendment/114th-congress/house-amendment/83); Congressional Actions, [H. Con. Res. 27](https://www.congress.gov/bill/114th-congress/house-concurrent-resolution/27/all-actions)\]
+
+-   **The Transportation Alternatives Program Funds Bike Paths, Sidewalks And Trails.** According to the Republican Study Committee, "TAP provides federal funding for a number of local alternative transportation projects, including bike paths, trails, medians, sidewalks, historical preservation, archeological activities, landscaping, environmental mitigation, and scenic overlooks." \[Republican Study Committee, [FY 2016 Budget](http://rsc.flores.house.gov/files/Initiatives/rsc-budget.pdf)\]

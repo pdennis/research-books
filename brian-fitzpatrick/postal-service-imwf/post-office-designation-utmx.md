@@ -1,0 +1,143 @@
+---
+title: Post Office Designation
+description: 
+published: true
+date: 2025-09-22T21:33:12.394Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:33:08.144Z
+---
+
+# Post Office Designation
+
+### John R. Hatcher III
+
+**2022: Fitzpatrick Voted To Designate A Postal Office In Oxnard,
+California As The "John R. Hatcher III Post Office Building."** In July
+2022, according to Congressional Quarterly, Fitzpatrick voted for a
+resolution, which would "designate the postal facility located at 1961
+North C St. in Oxnard, Calif., as the 'John R. Hatcher III Post Office
+Building.'" The vote was on passage. The House passed the bill by a vote
+348-63, thus the bill was sent to the Senate. The Senate passed the
+bill, sent it to President Biden, and ultimately became law. \[House
+Vote 358, [7/14/22](http://clerk.house.gov/evs/2022/roll358.xml);
+Congressional Quarterly,
+[7/14/22](https://plus.cq.com/vote/2022/H/358?29); Congressional
+Actions, [H.R.
+5659](https://www.congress.gov/bill/117th-congress/house-bill/5659/all-actions)\]
+
+-   **Civil Rights Leader, Hatcher, Led The Ventura County NAACP For
+    Nearly 40 Years.** According to Ventura County Star, "Five years
+    after the death of Ventura County civil rights leader John R.
+    Hatcher III, Congress has named an Oxnard federal building in his
+    honor. President Joe Biden signed a bill Tuesday designating the
+    U.S. Postal Service facility at 1961 N. C St. as the John R. Hatcher
+    III Post Office Building. U.S. Rep. Julia Brownley, D-Westlake
+    Village, introduced the bill last year to honor Hatcher, who led the
+    Ventura County NAACP for nearly four decades and rose to national
+    prominence within the organization." \[Ventura County Star,
+    [12/29/22](https://www.vcstar.com/story/news/2022/12/29/oxnard-post-office-renamed-for-john-hatcher-local-civil-rights-leader/69764720007/)\]
+
+-   **Hatcher Fought To Remove A Confederate Flag Near Ventura Road,
+    Advocated For The Oxnard School To Be Named After Thurgood Marshall,
+    And Helped Create The Ventura County African-American Chamber Of
+    Commerce And The Tri-County Sentry Newspaper.** According to Ventura
+    County Star, "Hatcher fought for the removal of a Confederate flag
+    near Ventura Road and pleaded for calm when the KKK came to Oxnard
+    in the late 1970s. He advocated naming an Oxnard school after
+    Thurgood Marshall, the first Black justice to sit on the U.S.
+    Supreme Court. He also helped establish the Ventura County
+    African-American Chamber of Commerce and the Tri-County Sentry
+    newspaper." \[Ventura County Star,
+    [12/29/22](https://www.vcstar.com/story/news/2022/12/29/oxnard-post-office-renamed-for-john-hatcher-local-civil-rights-leader/69764720007/)\]
+
+### Lynn C. Woolsey Post Office Building
+
+**2022: Fitzpatrick Voted To Name A Postal Office In Petaluma,
+California After Former Congresswoman Lynn C. Woolsey.** In May 2022,
+according to Congressional Quarterly, Fitzpatrick voted for a bill that
+would "designate the postal facility located at 120 4th Street in
+Petaluma, Calif., as the 'Lynn C. Woolsey Post Office Building.'" The
+vote was on passage. The House passed the bill by a vote of 230-190,
+thus the bill was sent to the President. \[House Vote 212,
+[5/18/22](http://clerk.house.gov/evs/2022/roll212.xml); Congressional
+Quarterly, [5/18/22](https://plus.cq.com/vote/2022/H/212?15);
+Congressional Actions, [S.
+2938](https://www.congress.gov/bill/117th-congress/senate-bill/2938/actions)\]
+
+**2022: Fitzpatrick Voted To Name A Postal Office In Petaluma,
+California After Former Congresswoman Lynn C. Woolsey.** In February
+2022, according to Congressional Quarterly, Fitzpatrick voted for a bill
+that would "designate the postal facility located at 120 4th Street in
+Petaluma, Calif., as the 'Lynn C. Woolsey Post Office Building.'" The
+vote was on passage. The House lacked a 2/3 majority and rejected the
+bill by a vote of 245-167. \[House Vote 45,
+[2/9/22](http://clerk.house.gov/evs/2022/roll045.xml); Congressional
+Quarterly, [2/9/22](https://plus.cq.com/vote/2022/H/45?6); Congressional
+Actions, [H.R.
+2842](https://www.congress.gov/bill/117th-congress/house-bill/2842/actions)\]
+
+-   **Republicans Prevented The Passage Of A Bill That Would Name A
+    Californian Post Office After Former Congresswoman Lynn Woolsey, Who
+    Served In The House From 1993 To 2013 And Co-Chaired The
+    Congressional Progressive Caucus.** According to The Hill, "The
+    House on Wednesday failed to pass a bill that would name a
+    California post office after one of its own former members after
+    most Republicans prevented it from advancing under a fast-track
+    process. The bill's failure is yet another example of the ever more
+    partisan environment in the House, given that bills to name post
+    offices typically pass handily, either by voice vote or nearly
+    unanimously. The legislation would rename a post office in Petaluma,
+    Calif., after former Rep. Lynn Woolsey (D-Calif.), who served in the
+    House for two decades from 1993 to 2013 and was a co-chair of the
+    Congressional Progressive Caucus." \[The Hill,
+    [2/9/22](https://thehill.com/homenews/house/593543-house-fails-to-pass-bill-naming-post-office-after-former-progressive-rep/)\]
+
+-   **Congressman Matt Rosendale (R) Led Efforts To Oppose The Bill By
+    Citing Woolsey's Vote Against Certifying The 2004 President Election
+    Results In Ohio And Her Use Of Congressional Stationery To Seek A
+    Lenient Sentence For A Convicted Rapist Who Was The Son Of One Of
+    Her Employees.** According to The Hill, "Rep. Matt Rosendale
+    (R-Mont.) spearheaded the GOP opposition to the bill after taking
+    objection to two particular events in Woolsey's record. The first
+    was that Woolsey was one of 31 Democrats who voted against
+    certifying the 2004 presidential election results in Ohio, which
+    former President George W. Bush won by 118,457 votes. A recount of
+    Ohio's election results found that Bush won the state by about 300
+    fewer votes than initially recorded. Republicans have pointed to
+    Democrats' past objections to GOP presidential victories as
+    justification for their own challenges to states that President
+    Biden won in 2020 leading up to the Jan. 6, 2021, attack on the
+    Capitol by a mob of former President Trump's supporters. The second
+    was that Woolsey sought a lenient sentence --- using congressional
+    stationery --- for a convicted rapist who was the son of one of her
+    staffers. Woolsey later apologized for 'making a horrible situation
+    worse.'" \[The Hill,
+    [2/9/22](https://thehill.com/homenews/house/593543-house-fails-to-pass-bill-naming-post-office-after-former-progressive-rep/)\]
+
+-   **Congressman Jared Huffman (D) Praised Woolsey As A "One-Of-A-Kind,
+    Barrier-Breaking Trailblazer And A Lifelong Aviate For Women And
+    Working Families."** According to The Hill, "Huffman called his
+    predecessor a 'one-of-a-kind, barrier-breaking trailblazer and a
+    lifelong advocate for women and working families' during his House
+    floor remarks. He cited Woolsey's background as a single mother who
+    turned to public assistance to support her three children and her
+    advocacy in opposition to the Iraq War. 'Her work in Congress was
+    all about fighting for children and families, and nothing made her
+    prouder than her own children and family,' Huffman said." \[The
+    Hill,
+    [2/9/22](https://thehill.com/homenews/house/593543-house-fails-to-pass-bill-naming-post-office-after-former-progressive-rep/)\]
+
+### Madeleine Albright
+
+**2024: Fitzpatrick Voted To Designate A Virginia Post Office The
+"Secretary Of State Madeleine Albright Post Office Building."** In May
+2024, Fitzpatrick voted for , according to Congressional Quarterly, the
+"motion to suspend the rules and pass the bill that would designate the
+postal facility located in Purcellville, Va., as the 'Secretary of State
+Madeleine Albright Post Office Building.'" The vote was on passage. The
+House passed the bill by a vote of 371 to 28. \[House Vote 179,
+[5/7/24](http://clerk.house.gov/evs/2024/roll179.xml); Congressional
+Quarterly, [5/7/24](https://plus.cq.com/vote/2024/H/179?5);
+Congressional Actions, [H.R.
+3354](https://www.congress.gov/bill/118th-congress/house-bill/3354/all-actions)\]

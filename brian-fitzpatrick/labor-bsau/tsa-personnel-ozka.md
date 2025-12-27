@@ -1,0 +1,281 @@
+---
+title: TSA Personnel System
+description: 
+published: true
+date: 2025-09-22T21:29:38.968Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:29:34.388Z
+---
+
+# TSA Personnel System
+
+**2022: Fitzpatrick Effectively Voted Against The Rights For The
+Transportation Security Administration Workforce Act Of 2021.** In May
+2022, according to Congressional Quarterly, Fitzpatrick voted against
+the adoption of "the rule (H Res 1097) that would provide for floor
+consideration of the Rights for the TSA Workforce Act (HR 903)." The
+vote was on the adoption of the rule. The House adopted the rule by a
+vote of 217-202. \[House Vote 144,
+[5/10/22](http://clerk.house.gov/evs/2022/roll144.xml); Congressional
+Quarterly, [5/10/22](https://plus.cq.com/vote/2022/H/144?16);
+Congressional Actions, [H.R.
+903](https://www.congress.gov/bill/117th-congress/house-bill/903/actions);
+Congressional Actions, [H.Res.
+1097](https://www.congress.gov/bill/117th-congress/house-resolution/1097/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Rights For The
+Transportation Security Administration Workforce Act Of 2021.** In May
+2022, according to Congressional Quarterly, Fitzpatrick voted against
+the "motion to order the previous question (thus limiting debate and
+possibility of amendment) on the rule (H Res 1097) that would provide
+for floor consideration of the Rights for the TSA Workforce Act (HR
+903)." The vote was on a motion to order the previous question. The
+House agreed to the motion by a vote of 218-203. \[House Vote 143,
+[5/10/22](http://clerk.house.gov/evs/2022/roll143.xml); Congressional
+Quarterly, [5/10/22](https://plus.cq.com/vote/2022/H/143?14);
+Congressional Actions, [H.R.
+903](https://www.congress.gov/bill/117th-congress/house-bill/903/actions);
+Congressional Actions, [H.Res.
+1097](https://www.congress.gov/bill/117th-congress/house-resolution/1097/actions)\]
+
+### Assault And Threat Incidents
+
+**2022: Fitzpatrick Voted For Amendments That Required TSA To Brief
+Congress On Reports Of Assault And Threats Made By A Member Of The
+General Public Against A TSA Worker And The Preventative And Response
+Measures Taken By TSA To Address Assaults And Threats.** In May 2022,
+according to Congressional Quarterly, Fitzpatrick voted for en bloc
+amendments no. 1 to the Rights for the Transportation Security
+Administration Workforce Act of 2021, which in part would "require the
+TSA to brief Congress, within 90 days of the bill\'s enactment, on
+reports of instances of physical or verbal assault or threat made by a
+member of the general public against a TSA employee; procedures for
+reporting assaults and threats; steps taken by the TSA to prevent and
+respond to assaults and threats; related civil actions and criminal
+referrals made annually since Jan. 1, 2019; and additional authorities
+needed to better prevent or respond to assaults and threats." The vote
+was on the adoption of amendments. The House adopted the amendments by a
+vote of 215-198. \[House Vote 168,
+[5/12/22](http://clerk.house.gov/evs/2022/roll168.xml); Congressional
+Quarterly, [5/12/22](https://plus.cq.com/vote/2022/H/168?11);
+Congressional Actions, [H.Amdt.
+198](https://www.congress.gov/amendment/117th-congress/house-amendment/198/actions?r=3&s=a);
+Congressional Actions, [H.R.
+903](https://www.congress.gov/bill/117th-congress/house-bill/903/actions)\]
+
+### Equity And Diversity
+
+**2022: Fitzpatrick Voted For Amendments That Required The Government
+Accountability Office To Report On TSA's Efforts To Ensure Equitable
+Recruitment, Hiring And Promotion Opportunities And TSA's Efforts To
+Provide For Diversity Among Senior Leadership.** In May 2022, according
+to Congressional Quarterly, Fitzpatrick voted for en bloc amendments no.
+1 to the Rights for the Transportation Security Administration Workforce
+Act of 2021, which in part would "require the Government Accountability
+Office, within one year of the bill\'s enactment, to submit to Congress
+a report on the Transportation Security Administration\'s efforts to
+ensure that recruitment, hiring, promotion and advancement opportunities
+are equitable and provide for demographics among senior leadership that
+are reflective of the U.S. workforce demographics." The vote was on the
+adoption of amendments. The House adopted the amendments by a vote of
+215-198. \[House Vote 168,
+[5/12/22](http://clerk.house.gov/evs/2022/roll168.xml); Congressional
+Quarterly, [5/12/22](https://plus.cq.com/vote/2022/H/168?11);
+Congressional Actions, [H.Amdt.
+198](https://www.congress.gov/amendment/117th-congress/house-amendment/198/actions?r=3&s=a);
+Congressional Actions, [H.R.
+903](https://www.congress.gov/bill/117th-congress/house-bill/903/actions)\]
+
+### Feasibility Of Counting Certain Work Hours
+
+**2022: Fitzpatrick Voted For Amendments That Required TSA To Study The
+Feasibility Of Permitting Certain Workers Who Carry Out Screening Duties
+To Count Towards Their Working Hours The Time They Spend Traveling
+Between Airport Parking Lots, Bus And Transit Stops And Screening
+Checkpoints Before And After Working Hours.** In May 2022, according to
+Congressional Quarterly, Fitzpatrick voted for en bloc amendments no. 1
+to the Rights for the Transportation Security Administration Workforce
+Act of 2021, which in part would "require the TSA to submit to Congress,
+within 270 days of the bill\'s enactment, a study on the feasibility of
+allowing certain employees who carry out screening functions to count
+toward their employment hours the time they spend regularly traveling
+between airport parking lots, bus and transit stops and screening
+checkpoints before and after their regular work day." The vote was on
+the adoption of amendments. The House adopted the amendments by a vote
+of 215-198. \[House Vote 168,
+[5/12/22](http://clerk.house.gov/evs/2022/roll168.xml); Congressional
+Quarterly, [5/12/22](https://plus.cq.com/vote/2022/H/168?11);
+Congressional Actions, [H.Amdt.
+198](https://www.congress.gov/amendment/117th-congress/house-amendment/198/actions?r=3&s=a);
+Congressional Actions, [H.R.
+903](https://www.congress.gov/bill/117th-congress/house-bill/903/actions)\]
+
+### Job Satisfaction And Retention
+
+**2022: Fitzpatrick Voted For Amendments That Required TSA To Submit A
+Report Containing An Analysis Of The Federal Employee Viewpoint Survey
+To Determine Job Satisfaction Rates Of TSA Workers And Retention
+Rates.** In May 2022, according to Congressional Quarterly, Fitzpatrick
+voted for en bloc amendments no. 1 to the Rights for the Transportation
+Security Administration Workforce Act of 2021, which in part would
+"require the TSA, within one year of the bill\'s enactment and annually
+thereafter, to submit a report to Congress containing an analysis of the
+Office of Personnel Management\'s Federal Employee Viewpoint Survey to
+determine job satisfaction rates of TSA employees; information relating
+to retention rates of employees at each airport; and information
+relating to actions taken by TSA to improve workforce morale and
+retention; and authorize the TSA to communicate with organizations
+representing federal air marshals to address concerns related to
+equipment and training and work schedules and shifts, including mandated
+periods of rest." The vote was on the adoption of amendments. The House
+adopted the amendments by a vote of 215-198. \[House Vote 168,
+[5/12/22](http://clerk.house.gov/evs/2022/roll168.xml); Congressional
+Quarterly, [5/12/22](https://plus.cq.com/vote/2022/H/168?11);
+Congressional Actions, [H.Amdt.
+198](https://www.congress.gov/amendment/117th-congress/house-amendment/198/actions?r=3&s=a);
+Congressional Actions, [H.R.
+903](https://www.congress.gov/bill/117th-congress/house-bill/903/actions)\]
+
+### Preventing Collective Bargaining Limits On Screening Procedure Modifications
+
+**2022: Fitzpatrick Voted For An Amendment That Specified That TSA
+Personnel System's Collective Bargaining Would Not Limit TSA's Authority
+To Impose Without Delay New Security Screening Procedures Or Change
+Existing Procedures To Address A National Security Or Public Safety
+Threat.** In May 2022, according to Congressional Quarterly, Fitzpatrick
+voted for an amendment to the Rights for the Transportation Security
+Administration Workforce Act of 2021, which would "specify that nothing
+in the bill could be construed to limit the Transportation Security
+Administration\'s authority to impose without delay new security
+screening procedures or requirements, or change, alter or modify
+existing security screening procedures or requirements, to address a
+national security or public safety threat, without regard to collective
+bargaining." The vote was on the adoption of an amendment. The House
+rejected the amendment by a vote of 204-216. \[House Vote 169,
+[5/12/22](http://clerk.house.gov/evs/2022/roll169.xml); Congressional
+Quarterly, [5/12/22](https://plus.cq.com/vote/2022/H/169?14);
+Congressional Actions, [H.Amdt.
+199](https://www.congress.gov/amendment/117th-congress/house-amendment/199/actions?r=2&s=a);
+Congressional Actions, [H.R.
+903](https://www.congress.gov/bill/117th-congress/house-bill/903/actions)\]
+
+### Sunset Bill Provisions
+
+**2022: Fitzpatrick Voted For An Amendment That Would Sunset The Bill
+After FY 2022 If Sufficient Funds Were Note Specifically Appropriated To
+Enact The Bill's Provisions.** In May 2022, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Rights for the
+Transportation Security Administration Workforce Act of 2021, which
+would "sunset all provisions of the bill after fiscal 2022 if sufficient
+funds have not been specifically appropriated to carry out the
+provisions." The vote was on the adoption of an amendment. The House
+rejected the amendment by a vote of 200-221. \[House Vote 170,
+[5/12/22](http://clerk.house.gov/evs/2022/roll170.xml); Congressional
+Quarterly, [5/12/22](https://plus.cq.com/vote/2022/H/170?15);
+Congressional Actions, [H.Amdt.
+200](https://www.congress.gov/amendment/117th-congress/house-amendment/200/actions?r=1&s=a);
+Congressional Actions, [H.R.
+903](https://www.congress.gov/bill/117th-congress/house-bill/903/actions)\]
+
+### Title 5 System Conversion
+
+**2022: Fitzpatrick Voted To Require TSA To Convert Its Employee
+Personnel Management System To The Title 5 System Used For Most Federal
+Civil Service Workers.** In May 2022, according to Congressional
+Quarterly, Fitzpatrick voted for the Rights for the Transportation
+Security Administration Workforce Act of 2021, which would "repeal the
+Transportation Security Administration\'s special employment authority
+and require the agency, within 180 days of enactment, to convert its
+employee personnel management system to the Title 5 system used for most
+federal civil service employees." The vote was on passage. The House
+passed the bill by a vote of 220-201. \[House Vote 172,
+[5/12/22](http://clerk.house.gov/evs/2022/roll172.xml); Congressional
+Quarterly, [5/12/22](https://plus.cq.com/vote/2022/H/172?17);
+Congressional Actions, [H.R.
+903](https://www.congress.gov/bill/117th-congress/house-bill/903/actions)\]
+
+-   **The Bill Would Specify That Non-Supervisory TSA Screening
+    Personnel Would Be Eligible For Collective Bargaining Until The
+    Title 5 Conversion, Consider The TSA Screener's Labor Union As Their
+    Exclusive Representative After Conversion, And Require DHS To
+    Consult With The Union Within A Week To Enact The Conversion.**
+    According to Congressional Quarterly, "It would specify that
+    non-supervisory TSA screening personnel would remain eligible for
+    collective bargaining until the conversion; require the TSA
+    screeners' labor union to be considered their exclusive
+    representative after the conversion; and require the Homeland
+    Security Department to consult with the union within seven days of
+    enactment on its plans and deadlines to carry out the conversion."
+    \[Congressional Quarterly,
+    [5/12/22](https://plus.cq.com/vote/2022/H/172?17)\]
+
+-   **The Bill Would Bar TSA From Lowering Pay Or Benefits For Workers
+    During The Conversion And Specify That TSA Employees Would Maintain
+    Their Right To Strike.** According to Congressional Quarterly,
+    "Among other provisions, it would prohibit the TSA from reducing pay
+    or benefits for employees during the conversion, including with
+    respect to determining their years of service; specify that TSA
+    workers would continue to have the right to strike;" \[Congressional
+    Quarterly, [5/12/22](https://plus.cq.com/vote/2022/H/172?17)\]
+
+-   **The Bill Would Require TSA To Grant A "One-Time Hazard Duty Bonus
+    Payment Of \$3,000" To Each Worker Who Had Significant Public
+    Contact During The Coronavirus Pandemic.** According to
+    Congressional Quarterly, "require the TSA to provide a one-time
+    hazard duty bonus payment of \$3,000 to each employee who had
+    substantial contact with the public during the COVID-19 national
+    emergency;" \[Congressional Quarterly,
+    [5/12/22](https://plus.cq.com/vote/2022/H/172?17)\]
+
+-   **The Bill Would Require TSA To Provide COVID-19 Prevention And
+    Protection Guidance And Resources To Employees.** According to
+    Congressional Quarterly, "require the TSA to provide guidance and
+    resources to employees regarding COVID-19 prevention and
+    protections;" \[Congressional Quarterly,
+    [5/12/22](https://plus.cq.com/vote/2022/H/172?17)\]
+
+-   **The Bill Would Authorize TSA To Collaborate With Organizations
+    Representing Federal Air Marshals To Address Issues Regarding
+    Health, Morale And Working Conditions, Including Required Periods Of
+    Rest.** According to Congressional Quarterly, "authorize the TSA to
+    communicate with organizations representing federal air marshals to
+    address concerns related to health, morale and working conditions,
+    including mandated periods of rest." \[Congressional Quarterly,
+    [5/12/22](https://plus.cq.com/vote/2022/H/172?17)\]
+
+-   **The Bill Would Provide TSA Workers The Rights And Protections
+    Under Title 5 Of The U.S. Code, Which Would Enable TSA Workers To
+    Unionize And Enforce New Conditions For Determining Pay In
+    Accordance With The General Schedule Wage System.** According to The
+    Hill, "The legislation calls for giving TSA employees the rights and
+    protections provided by Title 5 of the U.S. code, which is what
+    other federal workers are subject to. If passed by the Senate and
+    signed into law, TSA workers would be eligible to form a collective
+    bargaining unit. Additionally, the bill would enforce new terms for
+    determining pay in accordance with the General Schedule wage
+    system." \[The Hill,
+    [5/12/22](https://thehill.com/news/house/3486865-house-passes-bill-to-improve-working-conditions-for-tsa-employees/)\]
+
+### Workplace Safety
+
+**2022: Fitzpatrick Voted For Amendments That Required The Government
+Accountability Office To Report On TSA's Policies To Ensure Staff Safety
+Regarding Workplace Harassment And Assault, Including Sexual Harassment
+And Discrimination-Based Incidents.** In May 2022, according to
+Congressional Quarterly, Fitzpatrick voted for en bloc amendments no. 1
+to the Rights for the Transportation Security Administration Workforce
+Act of 2021, which in part would "require the GAO, within one year of
+the bill's enactment, to report to Congress on the TSA\'s policies and
+procedures to ensure staff safety in relation to workplace harassment
+and assault, including incidents of sexual harassment; incidents
+motivated by an individual\'s ethnicity, religion, gender identity or
+sexuality; and incidents in which the alleged perpetrator is a member of
+the general public." The vote was on the adoption of amendments. The
+House adopted the amendments by a vote of 215-198. \[House Vote 168,
+[5/12/22](http://clerk.house.gov/evs/2022/roll168.xml); Congressional
+Quarterly, [5/12/22](https://plus.cq.com/vote/2022/H/168?11);
+Congressional Actions, [H.Amdt.
+198](https://www.congress.gov/amendment/117th-congress/house-amendment/198/actions?r=3&s=a);
+Congressional Actions, [H.R.
+903](https://www.congress.gov/bill/117th-congress/house-bill/903/actions)\]

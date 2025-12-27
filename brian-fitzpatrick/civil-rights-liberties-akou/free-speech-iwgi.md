@@ -1,0 +1,112 @@
+---
+title: Free Speech
+description: 
+published: true
+date: 2025-09-22T20:28:21.078Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:28:16.979Z
+---
+
+# Free Speech
+
+### Banning Online Censorship By Federal Officials
+
+**2023: Fitzpatrick Voted To Ban Federal Employees From Using Their
+Official Authority To Promote The Censorship Of Online Speech On Social
+Media Platforms.** In March 2023, according to Congressional Quarterly,
+Fitzpatrick voted for the Protecting Speech from Government Interference
+Act, which would "prohibit federal employees from using their official
+authority, whether on or off duty, to influence or promote the
+censorship of any private entity's lawful speech on online social media
+platforms, including if the employee is in any federal workplace,
+wearing an official uniform or insignia, or using a federal vehicle or
+federal information technology, such as email. It would state
+congressional policy that employees acting in their official capacity
+should not influence or promote such censorship; require all agencies to
+provide mandatory annual compliance training for employees; direct the
+Office of Special Counsel to investigate any allegations of censorship
+activities prohibited by the bill; and establish penalties for employees
+who violate the bill's provisions, including disciplinary actions and
+fines of up to \$1,000, or up to \$50,000 for certain senior officials.
+It would provide an exception to the prohibition for employees engaging
+in legitimate law enforcement activities against unlawful speech,
+provided that the employing agency submits a report to Congress and the
+Office of Special Counsel at least 72 hours prior to any censorship
+action detailing the action to be taken and the agency's legal authority
+to exercise the law enforcement function; but the reporting requirement
+would not apply to law enforcement activities relating to combating
+child exploitation and human or drug trafficking, and reports may be
+submitted within 72 hours after the action is taken in the case of
+actions to prevent the dissemination of classified national security
+information." The vote was on passage. The House passed the bill by a
+vote of 219 to 206, thus the bill was sent to the Senate. \[House Vote
+141, [3/9/23](http://clerk.house.gov/evs/2023/roll141.xml);
+Congressional Quarterly,
+[3/9/23](https://plus.cq.com/vote/2023/H/141?55); Congressional Actions,
+[H.R.
+140](https://www.congress.gov/bill/118th-congress/house-bill/140/all-actions)\]
+
+-   **The Bill Was Perceived To Hinder Governmental Efforts To Tackle
+    Online Content That Is Perceived As Harmful.** According to
+    Congressional Quarterly, "The bill that senior House Republicans
+    introduced this month to prohibit federal officials from pressuring
+    social media companies to censor speech could hamstring government
+    efforts to combat online content that's widely perceived as harmful,
+    including threats to public safety." \[Congressional Quarterly,
+    [1/24/23](https://plus.cq.com/doc/news-7645115?58)\]
+
+-   **The Bill Would Prohibit Federal Officials From Pressuring Online
+    Social Media Platforms To Censor Speech.** According to
+    Congressional Quarterly, "The bill that senior House Republicans
+    introduced this month to prohibit federal officials from pressuring
+    social media companies to censor speech could hamstring government
+    efforts to combat online content that's widely perceived as harmful,
+    including threats to public safety." \[Congressional Quarterly,
+    [1/24/23](https://plus.cq.com/doc/news-7645115?58)\]
+
+-   **The Bill Would Prohibit Officials From Using Their Authority Or
+    Influence To Promote For The Removal Of Online Content.** According
+    to Congressional Quarterly, "Republicans say the bill (HR 140) is
+    designed to protect free speech on social media, but language
+    directing officials not to use their authority or influence to
+    'promote' or 'advocate' the removal of content is raising questions
+    about how those terms would be defined and whether public officials
+    might themselves be muzzled." \[Congressional Quarterly,
+    [1/24/23](https://plus.cq.com/doc/news-7645115?58)\]
+
+-   **The Bill Could Interpret Federal Warnings About Online Russian
+    Disinformation, Health Disinformation, And Public Safety As
+    "Pressuring" Social Media Platforms To Remove Such Content.**
+    According to Congressional Quarterly, "Federal warnings about online
+    Russian disinformation, health problems that result from online
+    behavior, and public safety could, given the reach of federal
+    officials, be interpreted as pressuring the platforms to remove that
+    content." \[Congressional Quarterly,
+    [1/24/23](https://plus.cq.com/doc/news-7645115?58)\]
+
+-   **According To Congressman James Comer (R), The Bill Sought To Stop
+    The Biden Administration From Coercing Social Media Platforms To
+    Censor Certain Viewpoints And News.** According to Congressional
+    Quarterly, "James R. Comer, R-Ky., who leads the House Oversight and
+    Accountability Committee, is the bill sponsor, reintroducing a
+    measure he first offered in the last Congress. He said in a
+    statement that it's meant to stop the Biden administration from
+    'bullying social media companies to censor certain views and news.'"
+    \[Congressional Quarterly,
+    [1/24/23](https://plus.cq.com/doc/news-7645115?58)\]
+
+-   **Legal Experts Argued That The Bill Could Be Used To Prevent
+    Federal Officials From Notifying Social Media Outlets About
+    Potentially Harmful Content.** According to Congressional Quarterly,
+    "But legal experts said the bill language could be construed to
+    prevent federal officials from even notifying social media companies
+    about potentially harmful content." \[Congressional Quarterly,
+    [1/24/23](https://plus.cq.com/doc/news-7645115?58)\]
+
+-   **The Bill Would Impose Fines Up To \$50,000 On Certain Senior
+    Officials Who Violate The Online Censorship Ban.** According to
+    Congressional Quarterly, "The bill would levy fines as high as
+    \$50,000 on certain senior officials who violate the measure's
+    restrictions." \[Congressional Quarterly,
+    [3/14/23](https://plus.cq.com/doc/news-7687775?59)\]

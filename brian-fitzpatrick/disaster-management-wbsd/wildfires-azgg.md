@@ -1,0 +1,133 @@
+---
+title: Wildfires
+description: 
+published: true
+date: 2025-09-22T20:47:08.460Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:47:04.012Z
+---
+
+# Wildfires
+
+### Fall 2017 California Wildfires
+
+**2017: Fitzpatrick Effectively Voted For Emergency Hurricane And
+Wildfire Appropriations, Which Included \$577 In Funding For Combatting
+Wildfires.** In October 2017, Fitzpatrick effectively voted for
+legislation that would, according to Congressional Quarterly, "make
+available \$36.5 billion in emergency supplemental funding for fiscal
+2018 to partially cover the costs of responding to multiple natural
+disasters, including hurricanes and wildfires. The measure would include
+\$18.7 billion for the Federal Emergency Management Agency's Disaster
+Relief Fund - \$4.9 billion of which would be used for disaster relief
+loans to Puerto Rico and the U.S. Virgin Islands. It would also cancel
+\$16 billion of the Treasury debt incurred by FEMA's National Flood
+Insurance Program, would release \$1.2 billion in contingency reserves
+from the Supplemental Nutrition Assistance Program for use in Puerto
+Rico would provide \$577 million in funding to fight wildfires." The
+vote was on a motion to suspend the rules and agree to a resolution that
+would have effectively concurred in the Senate amendment to H.R. 2266
+with a House amendment. The House agreed to the motion, thereby
+effectively passing the legislation, by a vote of 353 to 69. The Senate
+later passed the legislation and the president later signed it into law.
+\[House Vote 566,
+[10/12/17](http://clerk.house.gov/evs/2017/roll566.xml); Congressional
+Quarterly, [10/12/17](http://cq.com/vote/2017/H/566?2); Congressional
+Actions, [H.R.
+2266](https://www.congress.gov/bill/115th-congress/house-bill/2266/all-actions);
+Congressional Actions, [H. Res.
+569](https://www.congress.gov/bill/115th-congress/house-resolution/569/all-actions)\]
+
+### Hazardous Fuel Reduction And Restoration
+
+**2022: Fitzpatrick Voted Against Providing \$2.15 Billion For Hazardous
+Fuel Reduction And Restoration Projects.** In August 2022, according to
+Congressional Quarterly, Fitzpatrick voted against concurring in the
+Senate amendment to the Inflation Reduction Act of 2022, which would
+provide "\$2.15 billion for hazardous fuel reduction and restoration
+projects." The vote was on a motion to concur. The House concurred with
+the Senate by a vote 220-207, thus the bill was sent to President Biden
+for final signage. President Biden signed the bill and it ultimately
+became law. \[House Vote 420,
+[8/12/22](http://clerk.house.gov/evs/2022/roll420.xml); Congressional
+Quarterly, [8/12/22](https://plus.cq.com/vote/2022/H/420?6);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions)\]
+
+### Management Funding
+
+**2022: Fitzpatrick Voted Against Appropriating \$6.4 Billion For
+Wildfire Management In FY 2023.** In July 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the Transportation,
+Housing and Urban Development, and Related Agencies Appropriations Act,
+2023, which would provide "\$6.4 billion for wildfire management." The
+vote was on passage. The House passed the bill by a vote 220-207, thus
+the bill was sent to the Senate. The Senate did not take substantive
+action on the legislation. Congress passed and signed into law the FY
+2023 Budget through H.R. 2617. \[House Vote 383,
+[7/20/22](http://clerk.house.gov/evs/2022/roll383.xml); Congressional
+Quarterly, [7/20/22](https://plus.cq.com/vote/2022/H/383?13);
+Congressional Actions, [H.R.
+8294](https://www.congress.gov/bill/117th-congress/house-bill/8294/actions)\]
+
+### Prevention And Response
+
+**2022: Fitzpatrick Voted To Authorize \$1.5 Billion Annually Through FY
+2032 For The Agriculture And Interior Departments To Establish A 10-Year
+Plan To Mitigate Wildfires, Including Forest Restoration Projects.** In
+July 2022, according to Congressional Quarterly, Fitzpatrick voted for
+the Continental Divide Trail Completion Act, which "For wildfire
+prevention and response, it would authorize \$1.5 billion annually
+through fiscal 2032 for the Agriculture Department, in coordination with
+the Interior Department, to implement a ten-year national plan to
+address wildfires, including to undertake up to 20 landscape-scale
+forest restoration projects within the next five years." The vote was on
+passage. The House passed the bill by a vote of 218-199, thus the bill
+was sent to the Senate. The Senate did not take substantive action on
+the bill. \[House Vote 414,
+[7/29/22](http://clerk.house.gov/evs/2022/roll414.xml); Congressional
+Quarterly, [7/29/22](https://plus.cq.com/vote/2022/H/414?5);
+Congressional Actions, [H.R.
+5118](https://www.congress.gov/bill/117th-congress/house-bill/5118/actions)\]
+
+-   **The Bill Would Require The Agriculture And Interior Departments To
+    Collaborate With Conservation And Youth Corps Programs To Implement
+    The 10-Year Plan Whenever Feasible.** According to Congressional
+    Quarterly, "It would require the department to work with
+    conservation and youth corps programs in carrying out the plan when
+    possible." \[Congressional Quarterly,
+    [7/29/22](https://plus.cq.com/vote/2022/H/414?5)\]
+
+**2022: Fitzpatrick Voted To Require The Agriculture Department To Have
+At Least One Interdisciplinary National Environmental Policy Act Strike
+Team Per Region To Respond To Wildfires.** In July 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the Continental Divide
+Trail Completion Act, which would "require the department to maintain at
+least one interdisciplinary National Environmental Policy Act strike
+team per region to respond to wildfires and related risks." The vote was
+on passage. The House passed the bill by a vote of 218-199, thus the
+bill was sent to the Senate. The Senate did not take substantive action
+on the bill. \[House Vote 414,
+[7/29/22](http://clerk.house.gov/evs/2022/roll414.xml); Congressional
+Quarterly, [7/29/22](https://plus.cq.com/vote/2022/H/414?5);
+Congressional Actions, [H.R.
+5118](https://www.congress.gov/bill/117th-congress/house-bill/5118/actions)\]
+
+### Wildfire Smoke Mitigation
+
+**2022: Fitzpatrick Voted To Authorize \$50 Million Annually Starting In
+FY 2023 For EPA Grants To Support Communities In The Implementation Of
+Mitigation Plans For Health And Environmental Impacts Of Wildfire
+Smoke.** In July 2022, according to Congressional Quarterly, Fitzpatrick
+voted for the Continental Divide Trail Completion Act, which would
+"authorize \$50 million annually beginning in fiscal 2023 for EPA grants
+to help communities implement collaborative plans to mitigate the health
+and environmental effects of wildfire smoke." The vote was on passage.
+The House passed the bill by a vote of 218-199, thus the bill was sent
+to the Senate. The Senate did not take substantive action on the bill.
+\[House Vote 414,
+[7/29/22](http://clerk.house.gov/evs/2022/roll414.xml); Congressional
+Quarterly, [7/29/22](https://plus.cq.com/vote/2022/H/414?5);
+Congressional Actions, [H.R.
+5118](https://www.congress.gov/bill/117th-congress/house-bill/5118/actions)\]

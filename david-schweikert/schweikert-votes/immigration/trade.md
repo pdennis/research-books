@@ -1,0 +1,19 @@
+---
+title: Trade
+description: 
+published: true
+date: 2025-09-24T21:38:12.010Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T21:38:07.767Z
+---
+
+# Trade
+
+### Opposition To Trade Deals Requiring Immigration Law Changes
+
+**2015: Schweikert Voted To Prohibit Future Trade Deals From Requiring Changes To U.S. Immigration Laws As Part Of Trade Enforcement Legislation.** In June 2015, Schweikert voted for legislation that modified U.S. trade objectives to include a requirement that no trade deal could include climate change obligations as part of a trade enforcement bill. According to Congressional Quarterly, the legislation would have "amend\[ed\] Trade Promotion Authority within HR 1314, once it is enacted, to add additional trade negotiating objectives, including language on Immigration - To ensure that trade agreements 'do not require changes to the immigration laws of the United States or obligate the United States to grant access or expand access to visas issued' under U.S. immigration laws." The underlying legislation "formally establish\[ed\] U.S. Customs and Border Protection (CBP) in statute \[...\] \[and\] include\[ed\] a number of provisions dealing with enforcement of U.S. trade laws, including U.S. intellectual property rights and anti-dumping and countervailing duty laws." The vote was on a motion to concur with the Senate amendments with an amendment. The House agreed to the amendment by a vote of 240 to 190. The House and Senate later conferenced, and a final version of the bill, with a similar provision, was signed into law. \[House Vote 363, [6/12/15](http://clerk.house.gov/evs/2015/roll363.xml); Congressional Quarterly, [6/11/15](http://www.cq.com/doc/har-4704138?4); Congressional Quarterly, [6/12/15](http://www.cq.com/vote/2015/H/363?47); Congressional Actions, [H.R. 644](https://www.congress.gov/bill/114th-congress/house-bill/644/all-actions)\]
+
+### Trade Deals Requiring Immigration Law Changes
+
+**2015: Schweikert Was Absent During A Vote On Prohibiting Future Trade Deals From Requiring Changes To U.S. Immigration Laws As Part Of A Customs And Trade Enforcement Bill.** In December 2015, Schweikert missed a vote on legislation that modified future U.S. trade objectives to include a requirement that no trade deal could require changes to U.S. immigration laws as part of a customs and trade enforcement bill. According to Congressional Quarterly, the legislation would have "amend\[ed\] the Trade Promotion Authority law (PL 114-26) enacted earlier this year to add more negotiating objectives for future trade agreements, including language: \[...\] To ensure that trade agreements 'do not require changes to the immigration laws of the United States or obligate the United States to grant access or expand access to visas issued' under U.S. immigration laws." The underlying legislation was a conference report that would have "formally establish\[ed\] the U.S. Customs and Border Protection (CBP) and authorize\[d\] the CBP to use an automated import-export processing system \[...\] strengthen\[ed\] enforcement of intellectual property rights and \[...\] would \[have\] permanently ban\[ned\] state and local taxation of Internet access and ends grandfathered Internet access taxation in seven states." The vote was on the conference report. The House passed the legislation by a vote of 256 to 158. The Senate then passed the bill, which was signed into law by the president. \[House Vote 693, [12/11/15](http://clerk.house.gov/evs/2015/roll693.xml); Congressional Quarterly, [12/11/15](http://clerk.house.gov/evs/2015/roll693.xml); Congressional Quarterly, [12/10/15](http://www.cq.com/doc/har-4804827?20&search=oNzJXGtv); Congressional Actions, [H.R. 644](https://www.congress.gov/bill/114th-congress/house-bill/644/all-actions)\]

@@ -1,0 +1,33 @@
+---
+title: Chris Carr Was Silent On Trump's Tariffs
+description: 
+published: true
+date: 2025-12-22T16:50:12.818Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-17T15:49:59.327Z
+---
+
+## Overview
+
+In 2025, Carr [remained silent](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/) on Trump’s tariffs, dooming Georgia’s ranking as [7^th^ in the nation](https://www.fox5atlanta.com/news/trumps-tariff-plan-sparks-economic-uncertainty-georgia) for net exports and harming the state’s key industries of agriculture, automotive manufacturing, construction, and port logistics. Rather than speaking out against the devastating tariffs, Carr merely pledged to [“work with the administration”](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/) to treat domestic businesses [“fairly,”](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/) even while [two-thirds of Georgians](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/) believed the tariffs would cause their everyday costs to increase.
+
+## Carr Was Silent On Trump’s Tariffs Despite The Harm They Could Cause To Georgia’s Economy
+
+### Carr Was Silent On Trump’s Devastating Tariffs, Even As The Stock Market Crashed
+
+#### Carr Would Not Say If He Supported Trump’s Tariffs, But Pledged To “Work With The Administration” To Treat Domestic Businesses “Fairly”
+
+**April 2025: Carr Refused To Say Whether He Supported Trump’s Tariffs, And Only Pledged To “Work With The Administration And Hard-Working Georgians To Ensure That The World’s Markets Are Open To Our Products And That Our Domestic Businesses Are Treated Fairly At The Same Time.”** According to the Atlanta Journal-Constitution, “A spokesman for Chris Carr’s gubernatorial campaign did not address whether he supported Trump’s tariffs. Instead, Neil Bitting said in a statement that the attorney general ‘will work with the administration and hard-working Georgians to ensure that the world’s markets are open to our products and that our domestic businesses are treated fairly at the same time.’” \[Atlanta Journal-Constitution, [4/18/25](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/)\]
+
+**April 2-4, 2025: The U.S. Stock Market Crashed As Trump’s Tariffs “Escalated A Global Trade War And Wiped Out Trillions Of Dollars In Value.”** According to NPR, “Wall Street plummeted for a second straight day on Friday, as President Trump's tariffs escalated a global trade war and wiped out trillions of dollars in value from the U.S. stock market.  The two-day selloff served as the financial community's most brutal warning yet about the potential fallout of Trump's trade policy. Investors, businesses, and consumers are all expressing mounting terror about how these sweeping new taxes could upend the global economy.” \[NPR, [4/4/25](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs)\]
+
+### Trump’s Tariffs Were Hurting Small Businesses, Families And Key Industries In Georgia, And Threatening Georgia’s Ranking As 7^Th^ In The Nation For net Exports
+
+**2024: The Georgia Chamber Of Commerce Reported That Georgia Was “Especially Vulnerable” To Trump’s Tariffs Because The State Ranked 7^th^ Nationally For Net Exports, Exporting $53.1 Billion In Goods And Importing $145.6 Billion.** According to FOX 5 Atlanta, “With a robust global trade profile, Georgia is especially vulnerable to the fallout, according to a report from the Georgia Chamber of Commerce. In 2024, the state set records with $53.1 billion in exports and $145.6 billion in imports, ranking 7^th^ nationally for net exports. Georgia’s goods reached nearly 300 global markets. To help businesses prepare, the Georgia Chamber of Commerce released a comprehensive analysis titled ‘Tariffs Briefing: April 2025 – New U.S. Tariffs + Potential Georgia Impact.’ The report outlines specific threats to agriculture, automotive manufacturing, construction, and port logistics.” \[FOX 5 Atlanta, [4/8/25](https://www.fox5atlanta.com/news/trumps-tariff-plan-sparks-economic-uncertainty-georgia)\]
+
+-   **The Georgia Chamber Of Commerce Reported The Tariffs Most Threatened The State’s Agriculture, Automotive Manufacturing, Construction, And Port Logistics Industries.** According to FOX 5 Atlanta, “To help businesses prepare, the Georgia Chamber of Commerce released a comprehensive analysis titled ‘Tariffs Briefing: April 2025 – New U.S. Tariffs + Potential Georgia Impact.’ The report outlines specific threats to agriculture, automotive manufacturing, construction, and port logistics.” \[FOX 5 Atlanta, [4/8/25](https://www.fox5atlanta.com/news/trumps-tariff-plan-sparks-economic-uncertainty-georgia)\]
+
+**Trump’s Tariffs Threatened Georgia’s Agricultural Industry, Which Produced “Far More Than The Local Market Demands,” And Relied On Exports To Other Countries, With A “Significant Share” Going To China.** According to the Atlanta Journal-Constitution, “And Savannah’s booming ports are bracing for a slowdown as tariff threats and other business headwinds exact a toll on global shipping. Georgia imports more from China than from any other country, although the share of Chinese goods coming through the Savannah port is shrinking. Few sectors are more vulnerable than agriculture, Georgia’s largest industry. State farmers produce far more than the local market demands, and much of that is shipped overseas. A significant share goes to China, the epicenter of the trade battle.” \[Atlanta Journal-Constitution, [4/18/25](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/)\]
+
+**April 2025 Morning Consult Survey: More Than Two-Thirds Of Georgia Voters Believed Tariffs Would “Push Up Prices On Everyday Goods,” And A Majority Said They Were “Already Cutting Back On Spending, Avoiding Big Purchases, Or Stocking Up Before Price Hikes Hit.”** According to the Atlanta Journal-Constitution, “And economic anxiety is already showing up in polling. A Morning Consult survey released this month found more than two-thirds of Georgia voters believe tariffs will push up prices on everyday goods. A majority say they are already cutting back on spending, avoiding big purchases or stocking up before price hikes hit.” \[Atlanta Journal-Constitution, [4/18/25](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/)\]

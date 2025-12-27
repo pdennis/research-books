@@ -1,0 +1,29 @@
+---
+title: Bureau Of Land Management
+description: 
+published: true
+date: 2025-09-24T20:54:14.510Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:54:10.288Z
+---
+
+# Bureau Of Land Management
+
+### Conservation
+
+**2024: Schweikert Voted To Nullify A 2023 Bureau Of Land Management Conservation And Landscape Health Rule.** In April 2024, Schweikert voted for , according to Congressional Quarterly, "the bill that would nullify the Bureau of Land Management\'s proposed 2023 'Conservation and Landscape Health' rule and any final rule derived from it --- including the April 2023 final rule issued by the Biden administration. The final rule would amend how the agency implements conservation programs under the Federal Land Policy and Management Act." The vote was on passage. The House passed the bill by a vote of 212 to 202. \[House Vote 165, [4/30/24](http://clerk.house.gov/evs/2024/roll165.xml); Congressional Quarterly, [4/30/24](https://plus.cq.com/vote/2024/H/165?12); Congressional Actions, [H.R. 3397](https://www.congress.gov/bill/118th-congress/house-bill/3397/all-actions)\]
+
+-   **The Rule Stated That Conservation Was A Use Of Public Lands, In Turn Limiting Land Uses Incompatible With Environmental Goals.** According to Congressional Quarterly, "The Bureau of Land Management on Thursday finalized a rule to put conservation on 'equal footing' with other uses for public lands, including resource extraction, a move that congressional Republicans are vowing to repeal. The agency said the rule will help address threats facing these lands, including climate change. The rule will apply to the land bureau\'s approximately 245 million acres, or about one-tenth of the nation's land mass. It clarifies that conservation is a 'use' under the law governing the administration of BLM lands, which the agency said would allow it to promote conservation activities and limit other land uses that are incompatible with environmental goals." \[Congressional Quarterly, [4/18/24](https://plus.cq.com/doc/news-7990828?20)\]
+
+### Director Tracy Stone-Manning
+
+**2024: Schweikert Voted Against Reducing The Salary Of Tracy Stone-Manning, The Director Of The Bureau Of Land Management, To \$1.** In July 2024, Schweikert voted against , according to Congressional Quarterly, "amendment no. 20 that would reduce to \$1 the salary of Bureau of Land Management Director Tracy Stone-Manning." The vote was on the amendment. The underlying legislation was the FY 2025 Interior-Environment appropriations. The House rejected the amendment by a vote of 145 to 268. \[House Vote 385, [7/23/24](http://clerk.house.gov/evs/2024/roll385.xml); Congressional Quarterly, [7/23/24](https://plus.cq.com/vote/2024/H/385?3); Congressional Actions, [H.Amdt.1140](https://www.congress.gov/amendment/118th-congress/house-amendment/1140/actions); Congressional Actions, [H.R. 8998](https://www.congress.gov/bill/118th-congress/house-bill/8998/all-actions)\]
+
+### Drone Interference In Wildlife Suppression
+
+**2020: Schweikert Voted For Conducting A Study Over The Effects Of Drone Interference In Wildfire Suppression Efforts.** In December 2020, Schweikert voted for the Aerial Incursion Repercussion Safety (AIR) Act which would, according to Congressional Quarterly, "direct the Bureau of Land Management to conduct a study on the effects of drone incursions on wildfire suppression efforts on lands managed by the Interior or Agriculture departments. It would require the bureau to submit to Congress, within 18 months of enactment, a report describing the number of drone incursion occurrences that interfered with wildfire suppression and specific effects of each occurrence, as well as the feasibility and effectiveness of various actions to prevent drone incursions." The vote was on passage. The House passed the bill by a vote of 382-6. \[House Vote 243, [12/10/20](http://clerk.house.gov/evs/2020/roll243.xml); Congressional Quarterly, [12/10/20](https://plus.cq.com/vote/2020/H/243?41); Congressional Actions, [H.R. 5040](https://www.congress.gov/bill/116th-congress/house-bill/5040)\]
+
+### Superior National Forest
+
+**2024: Schweikert Voted To Allow Mining In The Superior National Forest.** In April 2024, Schweikert voted for , according to Congressional Quarterly, "the bill that would rescind the 2023 Bureau of Land Management order that withdrew approximately 225,504 acres of National Forest System land in the Superior National Forest in Minnesota from disposition under mineral and geothermal leasing laws. It would require the Interior and Agriculture departments to complete all necessary environmental and regulatory reviews, including those under the National Environmental Policy Act, for all mine operation plans within the forest. Specifically, it would direct the departments to complete these reviews within 18 months of the bill\'s enactment for plans submitted or resubmitted before the enactment date or within 18 months of a mine plan of operations submission or resubmission in the seven years period after the enactment date. It would require the departments to reissue, on the same terms, each mineral lease, preference right lease and prospecting permit canceled between Jan. 31, 2021 and the date of the bill's enactment. It would prohibit judicial review of these leases and permits." The vote was on passage. The House passed the bill by a vote of 212 to 203, thus, it was sent to the Senate. \[House Vote 171, [4/30/24](http://clerk.house.gov/evs/2024/roll171.xml); Congressional Quarterly, [4/30/24](https://plus.cq.com/vote/2024/H/171?11); Congressional Actions, [H.R. 3195](https://www.congress.gov/bill/118th-congress/house-bill/3195/all-actions)\]

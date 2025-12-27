@@ -1,0 +1,23 @@
+---
+title: Food Safety
+description: 
+published: true
+date: 2025-09-24T20:29:46.282Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:29:42.013Z
+---
+
+# Food Safety
+
+### Calorie Disclosure
+
+**2016: Schweikert Voted To Modify Food Calorie Disclosure Requirements For Restaurants By No Longer Requiring Them To Disclosure The Calorie Number In A Standard Menu Item To Instead Allow Them To List The Number Of Calories Per Serving Along With The Number Of Servings.** In February 2016, Schweikert voted for legislation that would have, according to Congressional Quarterly, "change\[d\] the requirement for how restaurants and similar retail establishments with more than 20 locations must disclose calorie information on their menus. Instead of the current requirement for businesses to disclose the number of calories in a 'standard menu item,' businesses could opt to disclose the number of calories per serving along with the number of servings or disclose the number of calories per common unit division of the standard menu item. The bill would \[have\] allow\[ed\] for disclosures to have variations from actual nutrient content, including inadvertent human error, variations in ingredients and serving size, and other reasonable variations. Additionally, the bill would \[have\] allow\[ed\] businesses to disclose calorie information solely online if the majority of their customers order their food off-premises, pre-empt\[ed\] the ability of states to petition the Food and Drug Administration to require menu labeling that is different from federal requirements and would \[have\] restrict\[ed\] civil lawsuits for alleged violation of the menu labeling law." The vote was on passage. The House passed the bill by a vote of 266 to 144. The Senate took no substantive action on the bill. \[House Vote 81, [2/12/16](http://clerk.house.gov/evs/2016/roll081.xml); Congressional Quarterly, [2/12/16](http://cq.com/vote/2016/H/81?0); Congressional Actions, [H.R. 2017](https://www.congress.gov/bill/114th-congress/house-bill/2017/all-actions)\]
+
+-   **S** tatement Of Administration Policy: Legislation "Would Reduce Consumers' Access To Nutrition Information." According to a Statement of Administration Policy, "The Administration opposes H.R. 2017, the Common Sense Nutrition Disclosure Act of 2015. \[\...\] H.R. 2017 would undercut the objective of providing clear, consistent calorie information to consumers. If enacted, it would reduce consumers\' access to nutrition information and likely create consumer confusion by introducing a great deal of variability into how calories are declared. The legislation also would create unnecessary delays in the implementation of menu labeling." \[Statement of Administration Policy, [2/10/16](http://www.cq.com/pdf/4833175.pdf)\]
+
+-   **Koch Brothers Backed Organization, American For Prosperity, Urged Representatives To Vote Yes And Included The Vote In Their Annual Scorecard.** \[Americans for Prosperity, [114th Congress Scorecard](http://afpscorecard.org/)\]
+
+### Foodborne Illness Regulations
+
+**2017: Schweikert Voted Against Exempting Regulations Related To Food Borne Safety From Legislation That Would Add Requirements For How Federal Rules Are Made.** In January 2017, Schweikert voted against an amendment that would have, according to Congressional Quarterly, "exempt\[ed\] rules related to the prevention of foodborne illness transmission. It would \[have\] remove the bill's provision that would effectively overturn two Supreme Court decisions that require federal courts to defer to an agency's interpretation of the underlying law or rule when considering challenges to agency rules." The underlying legislation, also according to Congressional Quarterly, "would modify the federal rule-making process, including by codifying requirements for agencies to consider costs and benefits of alternatives. The bill would create additional steps that agencies would need to follow when planning 'major' rules with annual costs of more than \$100 million or 'high-impact' rules with annual costs of more than \$1 billion." The vote was on the amendment. The House rejected the amendment by a vote of 190 to 232. \[House Vote 38, [1/11/17](http://clerk.house.gov/evs/2017/roll038.xml); Congressional Quarterly, [1/11/17](http://cq.com/vote/2017/H/38); Congressional Quarterly, [1/11/17](http://cq.com/vote/2017/H/45?4); Congressional Actions, [H. Amdt. 24](https://www.congress.gov/amendment/115th-congress/house-amendment/24/actions); Congressional Actions, [H.R. 5](https://www.congress.gov/bill/115th-congress/house-bill/5/all-actions)\]

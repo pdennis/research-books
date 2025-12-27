@@ -1,0 +1,108 @@
+---
+title: FAA
+description: 
+published: true
+date: 2025-09-22T21:44:28.340Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:44:23.900Z
+---
+
+# FAA
+
+### 2024 Reauthorization
+
+**2024: Fitzpatrick Voted For The 2024 FAA Reauthorization That Required
+Airlines To Issue Refunds For Delayed And Canceled Flights And Added 10
+Flight Slot Exemptions For The Ronald Reagan Washington National
+Airport.** In May 2024, Fitzpatrick voted for , according to
+Congressional Quarterly, the "motion to suspend the rules and concur in
+the Senate amendment to the FAA reauthorization bill (HR 3935), that
+would reauthorize federal aviation programs for five years through
+fiscal 2028. The bill would authorize more than \$105 billion for the
+Federal Aviation Administration, including \$66.7 billion for FAA
+operations; \$19.35 billion for airport planning and development; \$17.8
+billion for facilities and equipment; and \$1.6 billion for civil
+aviation research and development. It would require domestic and foreign
+airlines to grant refunds when the airline cancels or delays a flight by
+three or more hours for domestic flights or six or more hours for
+international flights and make refund requests easily available on the
+carrier\'s website. It also would require domestic and foreign airlines
+to update passenger notification systems to ensure passengers are
+notified of their right to a refund. It also would establish
+requirements for the Enhanced Qualification Program for air carriers who
+are certified to provide enhanced training for pilots seeking to obtain
+restricted airline transport certificates. It also would require the
+Transportation Department, within 60 days of the bill\'s enactment, to
+add 10 flight slot exemptions --- allowing five new round-trip flights
+through Ronald Reagan Washington National Airport. It would prohibit the
+operation of aircraft manufactured one year after the bill's enactment
+unless it has a voice recorder that retains the last 25 hours of
+recorded information. The bill also would require, within six years of
+its enactment, all aircraft in use to be equipped with a voice recorder
+that retains the last 25 hours of recorded information." The vote was on
+the motion to concur in the Senate amendments. The House concurred by a
+vote of 387 to 26, thus, it was sent to President Biden who signed it
+into law. \[House Vote 200,
+[5/15/24](http://clerk.house.gov/evs/2024/roll200.xml); Congressional
+Quarterly, [5/15/24](https://plus.cq.com/vote/2024/H/200?12);
+Congressional Actions, [H.R.
+3935](http://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions)\]
+
+-   **The Bill Increased Funding For The Airport Improvement Program To
+    \$4 Billion From \$3.4 Billion In The Past 10 Years.** According to
+    Congressional Quarterly, "\[The bill\] would also boost
+    authorizations for the Airport Improvement Program, which funds new
+    infrastructure, to \$4 billion a year, the first increase for a
+    program that's been set at \$3.4 billion annually for the past 10
+    years." \[Congressional Quarterly,
+    [5/15/24](https://plus.cq.com/doc/news-8010682?15)\]
+
+-   **The Bill Included Various Provisions To Address Workforce
+    Shortages.** According to Congressional Quarterly, "The measure
+    would require the FAA to make its hiring target for air traffic
+    controllers equal to the maximum number of trainees that can be
+    taught at the FAA Academy. The number of air traffic controllers has
+    severely declined in the past decade or so, a shortage that Congress
+    has linked to a number of close-call airplane collisions. Aviation
+    and engineering unions have applauded other workforce language in
+    the bill, including provisions that would require the FAA to update
+    its aviation safety inspector model to boost hiring of safety
+    inspectors and other specialists. The bill would also expand the
+    Aviation Workforce Development Grant Program to include hiring and
+    training of the aviation manufacturing workforce." \[Congressional
+    Quarterly, [5/15/24](https://plus.cq.com/doc/news-8010682?15)\]
+
+-   **The Bill Expanded The Use Of Unmanned Aircraft Systems Like Drones
+    For Inspection, Operations, And Construction Purposes as Well As In
+    The Response To Wildfires.** According to Congressional Quarterly,
+    "To promote the adoption of unmanned aircraft systems like drones
+    into the national airspace, the bill would expand use of
+    beyond-visual-line-of-sight operations and establish a program to
+    provide grants to support the use of small UAS for more efficient
+    inspection, operations and construction of infrastructure. It also
+    would require the FAA to collaborate with agencies to create a plan
+    to use UAS in wildfire response efforts." \[Congressional Quarterly,
+    [5/15/24](https://plus.cq.com/doc/news-8010682?15)\]
+
+**2024: Fitzpatrick Voted To Extend The FAA Authorization For A Week
+Until The House Could Vote On The Senate-Passed Five Year
+Reauthorization.** In May 2024, Fitzpatrick voted for , according to
+Congressional Quarterly, the "motion to suspend the rules and pass the
+bill that would extend through May 17, 2024 the authorization of Federal
+Aviation Administration programs. It would extend the authorization of
+approximately \$2.1 billion for the Airport Improvement Program and
+approximately \$335 million in supplemental discretionary funds for use
+through that date. It also would extend a number of expiring authorities
+for FAA programs, including Homeland Security Department authorities to
+counter unmanned aircraft systems and the date on which the
+Transportation Department can propose regulations for commercial space
+flight. It would extend through May 17, 2024 aviation related excise
+taxes used to fund the Airport and Airway Trust Fund and the authority
+to spend amounts in the fund through May 18, 2024." The vote was on
+passage. The House passed the bill by a vote of 385 to 24. \[House Vote
+187, [5/8/24](http://clerk.house.gov/evs/2024/roll187.xml);
+Congressional Quarterly,
+[5/8/24](https://plus.cq.com/vote/2024/H/187?18); Congressional Actions,
+[H.R.
+8289](https://www.congress.gov/bill/118th-congress/house-bill/8289/all-actions)\]

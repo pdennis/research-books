@@ -1,0 +1,17 @@
+---
+title: Gang Of Eight
+description: 
+published: true
+date: 2025-09-24T21:36:19.320Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T21:36:15.074Z
+---
+
+# Gang Of Eight
+
+### 2013 Comprehensive Immigration Reform Bill
+
+**2014: Schweikert Voted Against The Democratic Substitute FY 2015 Budget Resolution Which Repealed The Sequester, Assumed An Increase Of The Minimum Wage To \$10.10 And The Passage Of The Gang Of Eight.** In April 2014, Schweikert voted against the Democratic FY 2015 substitute budget resolution. According to Congressional Quarterly, the resolution would "provide for \$3.078 trillion in new budget authority in fiscal 2015, not including off-budget accounts. The plan would call for repealing the sequester, including cuts to Medicare. It also would propose eliminating the non-defense discretionary sequester starting in 2016. The substitute would assume an increase of the minimum wage to \$10.10 per hour and enactment of the Senate-passed immigration overhaul. It would propose extending expired unemployment benefits for one year and extending the tax credits from the 2012 extension of Bush-era income and other tax cuts due to expire at the end of 2017. It would assume implementation of the 2010 health care overhaul and assume increases in physician fees for primary care services under Medicaid. It would accommodate deficit-neutral legislation to permanently address the Medicare physician reimbursement rate issue known as the 'doc fix.' The plan would propose expanding tax incentives aimed at encouraging low- and middle-income taxpayers to attend college and save for retirement. It would call on Congress to raise revenue by ending tax breaks for special interests and the very wealthy." The vote was on the substitute amendment to the FY 2015 Ryan budget. The House rejected the amendment by a vote of 163 to 261. \[House Vote 176, [4/10/14](http://clerk.house.gov/evs/2014/roll176.xml); Congressional Quarterly, [4/10/14](http://cq.com/vote/2014/H/176?0); Congressional Record, [4/10/14](https://www.congress.gov/crec/2014/04/10/CREC-2014-04-10-pt1-PgH3164-2.pdf); Congressional Actions, [H. Amdt. 616](https://www.congress.gov/amendment/113th-congress/house-amendment/616/actions); Congressional Actions, [H. Con. Res. 96](https://www.congress.gov/bill/113th-congress/house-concurrent-resolution/96/all-actions)\]
+
+-   **Bill Would Establish Procedures For Increasing Merit-Based Visas And Set Separate Tracks For High And Low Skilled Workers And Repealed Visa Lottery Program.** According to Congressional Quarterly, "The bill would establish the number of merit-based visas to be offered each year and a process for increasing the number. It would prohibit any increase if the unemployment rate is higher than 8.5 percent. It would create two types of merit-based visas: tier 1 and tier 2, for high- and low-skilled workers, respectively. \[...\] It would repeal the diversity visa program. The lottery, created in 1990, awards 50,000 visas each year to random residents of countries that the State Department determines are underrepresented among legal immigrants, mostly European and African." \[Congressional Quarterly, [10/2/13](http://www.cq.com/doc/billwatch-4262076)\]

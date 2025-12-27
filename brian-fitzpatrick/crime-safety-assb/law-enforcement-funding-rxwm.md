@@ -1,0 +1,551 @@
+---
+title: Law Enforcement Funding
+description: 
+published: true
+date: 2025-09-22T20:37:14.378Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:37:09.482Z
+---
+
+# Law Enforcement Funding
+
+### Condemning Calls To Defund The Police
+
+**2024: Fitzpatrick Voted To Condemn Calls To Defund The Police And To
+State That Such Calls Result In Increased Violence Towards Law
+Enforcement.** In May 2024, Fitzpatrick voted for , according to
+Congressional Quarterly, "the resolution that would condemn calls to
+defund the police, which it says has 'increased violence towards law
+enforcement officers.' It would recognize that law enforcement officers
+must have the equipment, training and resources needed to protect the
+health and safety of the public as well as their fellow law enforcement
+officers on the job. It would recognize the need for better data
+collection on law enforcement officers who are assaulted, injured, or
+disabled in the line of duty. It also would acknowledge the mental
+stress and strain law enforcement officers suffer not only because of
+the job's pressures and realities, but also the 'negative environment in
+which they often must work.'" The House adopted the resolution by a vote
+of 337 to 61. \[House Vote 218,
+[5/17/24](http://clerk.house.gov/evs/2024/roll218.xml); Congressional
+Quarterly, 5/17/24; Congressional Actions, [H.Res.
+1213](http://www.congress.gov/bill/118th-congress/house-resolution/1213/all-actions)\]
+
+**2023: Fitzpatrick Voted To Praise Local Law Enforcement And Condemn
+Calls To Defund Or Abolish The Police.** In May 2023, according to
+Congressional Quarterly, Fitzpatrick voted for a concurrent resolution
+that would "express that Congress recognizes and appreciates the
+'dedication and devotion' of local law enforcement officers and condemns
+'calls to defund, disband, dismantle, or abolish the police.' Among
+other provisions, the resolution\'s preamble would state that 'looting,
+rioting, and violence in major cities' in the summer of 2020 caused the
+destruction of many businesses; that the national murder rate in 2020
+was the highest total since 1995; that 'leftist activists and
+progressive politicians' have called for defunding or dismantling police
+and 'actively encouraged resentment toward local law enforcement'; that
+'the defund police movement vilifies and demonizes local law enforcement
+officers and puts them at greater risk of danger;' and that 'violent
+leftist extremists have repeatedly attacked and assaulted local law
+enforcement officers.' As amended, it would express that local law
+enforcement officers who have been accused of misconduct should have
+certain rights in the course of investigations and encourage states to
+adopt a 'Bill of Rights' related to such officers\' rights." The vote
+was on passage. The House passed the resolution by a vote of 301 to 119.
+\[House Vote 227,
+[5/18/23](http://clerk.house.gov/evs/2023/roll227.xml); Congressional
+Quarterly, [5/18/23](https://plus.cq.com/vote/2023/H/227?8);
+Congressional Actions, [H.Con.Res.
+40](https://www.congress.gov/bill/118th-congress/house-concurrent-resolution/40/all-actions)\]
+
+-   **Many Democrats Opposed The Resolution's Exclusion Of Federal Law
+    Enforcement From Recognition And Praise.** According to
+    Congressional Quarterly, "A third measure in the package is not
+    slated for a vote Wednesday. It praises local law enforcement and
+    condemns efforts to defund the police (H Con Res 40), though it
+    excludes federal law enforcement from recognition, which has
+    prompted opposition by many Democrats." \[Congressional Quarterly,
+    [5/17/23](https://plus.cq.com/doc/news-7744603?13)\]
+
+**2023: Fitzpatrick Effectively Voted To Condemn Calls To Defund Law
+Enforcement Agencies.** In May 2023, according to Congressional
+Quarterly, Fitzpatrick voted for the "adoption of the rule that would
+provide for floor consideration of \[...\] the concurrent resolution (H
+Con Res 40) expressing support for law enforcement and condemning
+efforts to defund law enforcement agencies. The rule would provide for
+one hour of general debate on each bill. It would make in order floor
+consideration of two amendments to HR 2494, four amendments to HR 3091
+and one amendment to H Con Res 40." The vote was on the adoption of the
+rule. The House adopted the rule by a vote of 222 to 203. \[House Vote
+216, [5/16/23](http://clerk.house.gov/evs/2023/roll216.xml);
+Congressional Quarterly,
+[5/16/23](https://plus.cq.com/vote/2023/H/216?3); Congressional Actions,
+[H.Res.
+398](https://www.congress.gov/bill/118th-congress/house-resolution/398/all-actions);
+Congressional Actions, [H.Con.Res.
+40](https://www.congress.gov/bill/118th-congress/house-concurrent-resolution/40/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted To Condemn Calls To Defund Law
+Enforcement Agencies.** In May 2023, according to Congressional
+Quarterly, Fitzpatrick voted for the "motion to order the previous
+question (thus ending debate and possibility of amendment) on the rule
+that would provide for floor consideration of \[...\] the concurrent
+resolution (H Con Res 40) expressing support for law enforcement and
+condemning efforts to defund law enforcement agencies. The rule would
+provide for one hour of general debate on each bill. It would make in
+order floor consideration of two amendments to HR 2494, four amendments
+to HR 3091 and one amendment to H Con Res 40." The vote was on a motion
+to order the previous question. The House agreed to the motion by a vote
+of 220 to 209. \[House Vote 215,
+[5/16/23](http://clerk.house.gov/evs/2023/roll215.xml); Congressional
+Quarterly, [5/16/23](https://plus.cq.com/vote/2023/H/215?17);
+Congressional Actions, [H.Res.
+398](https://www.congress.gov/bill/118th-congress/house-resolution/398/all-actions);
+Congressional Actions, [H.Con.Res.
+40](https://www.congress.gov/bill/118th-congress/house-concurrent-resolution/40/all-actions)\]
+
+### COPS
+
+**2019: Fitzpatrick Voted For An Omnibus Spending Proposal Preventing
+Another Government Shutdown And Providing \$304 Million For The
+Community Oriented Policing Services Program.** In February 2019,
+Fitzpatrick voted for the FY 2019 consolidated appropriations bill.
+According to Congressional Quarterly, "This Conference Summary describes
+the agreement on H J Res 31, Consolidated Appropriations Act for FY
+2019, which provides detailed, full-year funding for all seven remaining
+FY 2019 spending bills ---thereby completing the FY 2019 appropriations
+process. The centerpiece, Homeland Security, provides \$1.375 billion
+for new and replacement barriers along the U.S. border with Mexico,
+including 55 miles of new fencing, along with an increase of \$1.5
+billion in other border security funding --- such as for new technology
+at ports of entry and additional Customs officers. Outside of the
+Homeland bill, it includes another \$1.6 billion for border security, as
+well as a 1.9% pay increase for federal civilian employees." The vote
+was on passage. The House passed the bill by a vote of 300 to 128. The
+bill was later signed into law by the president. \[House Vote 87,
+[2/14/19](http://clerk.house.gov/evs/2019/roll087.xml); Congressional
+Quarterly, [2/14/19](http://www.cq.com/doc/har-5463527?7); Congressional
+Actions, [H. J. Res.
+31](https://www.congress.gov/bill/116th-congress/house-joint-resolution/31/all-actions)\]
+
+-   **The Legislation Appropriated \$304 Million For The COPS Program,
+    Which Was \$28 Million More Than FY 2018.** According to
+    Congressional Quarterly, "Community Oriented Policing Services
+    (COPS) --- \$304 million to support local law enforcement agencies
+    through the COPS programs. This total is \$28 million (10%) more
+    than FY 2018; the administration requested no funding for the
+    program." \[Congressional Quarterly,
+    [2/14/19](http://www.cq.com/doc/har-5463527?7)\]
+
+### Criminal Justice Response Policies
+
+**2021: Fitzpatrick Voted For An Amendment That Would Allocate 2%
+Funding And Authorize \$8 Million Annually Through FY 2026 To Improve
+Criminal Justice Response Policies And Enhance LGBTQ-Related Victim
+Services.** In March 2021, Fitzpatrick voted for en bloc amendments no.1
+which would, according to Congressional Quarterly, "reserve 2 percent of
+funding authorized by the bill for grants to improve criminal justice
+response policies and grants to support families in the justice system
+for grants to enhance LGBTQ-specific victim services, and authorize an
+additional \$8 million annually through fiscal 2026 for such purposes."
+The vote was on the adoption of amendments. The House adopted the
+amendments by a vote of 228-197. \[House Vote 83,
+[3/17/21](http://clerk.house.gov/evs/2021/roll083.xml); Congressional
+Quarterly, [3/17/21](https://plus.cq.com/vote/2021/H/83?12);
+Congressional Actions, [H.Amdt.
+31](https://www.congress.gov/amendment/117th-congress/house-amendment/31/actions?r=3&s=a);
+Congressional Actions, [H.R.
+1620](https://www.congress.gov/bill/117th-congress/house-bill/1620/actions)\]
+
+### Grants To Prosecute Domestic Violence
+
+**2021: Fitzpatrick Voted For An Amendment That Would Expand A Justice
+Department Grant Program To Develop And Strengthen Policies And Training
+For Police Officers, Prosecutors, And The Judiciary To Prosecute
+Instances Of Domestic Violence And Sexual Assault And Harassment.** In
+March 2021, Fitzpatrick voted for an amendment which would, according to
+Congressional Quarterly, "expand an existing Justice Department grant
+program aimed at improving criminal justice policies in response to
+domestic violence, dating violence, sexual assault and stalking against
+individuals who have had contact with the justice system to allow the
+department to make grants to develop or strengthen policies and training
+for law enforcement officers, prosecutors, and the judiciary in
+recognizing and prosecuting instances of such violence." The vote was on
+the adoption of an amendment. The House adopted the amendment by a vote
+of 242-174. \[House Vote 84,
+[3/17/21](http://clerk.house.gov/evs/2021/roll084.xml); Congressional
+Quarterly, [3/17/21](https://plus.cq.com/vote/2021/H/84?3);
+Congressional Actions, [H.Amdt.
+33](https://www.congress.gov/amendment/117th-congress/house-amendment/33/actions?r=1&s=a);
+Congressional Actions, [H.R.
+1620](https://www.congress.gov/bill/117th-congress/house-bill/1620/actions)\]
+
+### January 6th Insurrection Response
+
+**2021: Fitzpatrick Voted Against Responding To The January 6th
+Insurrection By Providing \$520.9 Million To The National Guard And
+Various Law Enforcement Agencies And \$66.8 Million To D.C. For
+Terrorist Threat And Federal Presence Expenses.** In May 2021,
+Fitzpatrick voted against the Emergency Security Supplemental
+Appropriations Act which would, according to Congressional Quarterly,
+"For expenses related to the Jan. 6 attack and to prevent similar
+incidents, it would provide \$520.9 million for the National Guard and
+funding for several law enforcement agencies, including the FBI and
+National Park Service. It would provide \$66.8 million to the District
+of Columbia for public safety expenses related to terrorist threats and
+federal presence in the district." The vote was on passage. The House
+passed the bill by a vote of 213-212, and was sent to the Senate and the
+President and ultimately became law. \[House Vote 156,
+[5/20/21](http://clerk.house.gov/evs/2021/roll156.xml); Congressional
+Quarterly, [5/20/21](https://plus.cq.com/vote/2021/H/156?7);
+Congressional Actions, [H.R.
+3237](https://www.congress.gov/bill/117th-congress/house-bill/3237/actions)\]
+
+-   **The Bill Established A Quick Reaction Force Within The D.C.
+    National Guard With \$200 Million In Funding, Provided \$5 Million
+    For Federal Building Security Improvements, And \$2.3 Million For
+    National Park Service Officer Body Cameras.** According to
+    Congressional Quarterly, "provide \$200 million to establish a quick
+    reaction force within the D.C. National Guard; \$6.8 million for the
+    U.S. Secret Service; \$5 million for General Services Administration
+    security improvement studies of federal buildings; and \$2.3 million
+    to provide body cameras for National Park Service officers."
+    \[Congressional Quarterly,
+    [5/20/21](https://plus.cq.com/vote/2021/H/156?7)\]
+
+### Police Reform
+
+**2021: Fitzpatrick Voted Against The George Floyd Justice In Policing
+Act Of 2021, Which Would Create Policing Data Requirements And Restrict
+Law Enforcement Agencies From Using Certain Policing Practices.** In
+March 2021, Fitzpatrick voted against the George Floyd Justice in
+Policing Act of 2021 which would, according to Congressional Quarterly,
+"establish reporting and oversight requirements related to policing data
+and restrict the use of certain policing practices by federal law
+enforcement agencies and state and local agencies receiving certain
+federal policing grants." The vote was on passage. The House passed the
+bill by a vote of 220-212. The Senate did not take substantive action on
+the bill. \[House Vote 60,
+[3/3/21](http://clerk.house.gov/evs/2021/roll060.xml); Congressional
+Quarterly, [3/3/21](https://plus.cq.com/vote/2021/H/60?48);
+Congressional Actions, [H.R.
+1280](https://www.congress.gov/bill/117th-congress/house-bill/1280/actions)\]
+
+-   **House Democrats Drafted Identical Legislation During The 116th
+    Congress After The Killing Of George Floyd, Followed By The Deaths
+    Of Other Black Americans And Continued Police Violence In Spring
+    2021 Where At Least 23 Black Americans Were Killed.** According to
+    Vox, "In June 2020, House Democrats crafted identical legislation in
+    response to the worldwide demonstrations against police brutality
+    that were sparked by the killing of George Floyd by then-Minnesota
+    police officer Derek Chauvin --- and that were sustained by the
+    deaths of dozens of other Black Americans, including Breonna Taylor,
+    Daniel Prude, and Rayshard Brooks. Since then, police violence
+    against Black Americans has not waned. In the first few months of
+    2021, police have killed at least 23 Black Americans; prominent
+    incidents of violence include an officer in Rochester, New York,
+    pepper-spraying a handcuffed 9-year-old girl, and police killing
+    52-year-old Patrick Lynn Warren following a mental health 911 call
+    placed on his behalf." \[Vox,
+    [3/3/21](https://www.vox.com/2021/3/3/22295856/george-floyd-justice-in-policing-act-2021-passed-house)\]
+
+-   **The Policies Placed By The Measure Would Be Tied To The Federal
+    Funding Of State And Local Governments.** According to Politico,
+    "The federal policies would be tied to law enforcement funding for
+    governments at the state and local levels." \[Politico,
+    [3/3/21](https://www.politico.com/news/2021/03/03/house-passes-police-reform-bill-473476)\]
+
+-   **The Police Reform Bill Was Named After George Floyd, Who Was
+    Killed After A White Minneapolis Police Officer Knelt On His Neck
+    For Minutes, And The Police Officer Was Scheduled To Go On Trial
+    Days After The Passage Of The Bill.** According to CBS News, "The
+    bill is named after Floyd, the Black man who died May 25 after a
+    white Minneapolis police officer knelt on his neck for minutes. The
+    officer, Derek Chauvin, was fired, and he faces charges of
+    second-degree murder and manslaughter. His trial and jury selection
+    are scheduled to begin Monday." \[CBS News,
+    [3/3/21](https://www.nbcnews.com/politics/congress/house-passes-police-reform-act-named-george-floyd-n1259548)\]
+
+-   **House Republican Leader Kevin McCarthy Claimed The Bill Would
+    "Defund The Police" By Placing New Regulations That Would
+    Effectively "Drain" The Resources Of Police Departments.** According
+    to The New York Times, "Representative Kevin McCarthy of California,
+    the Republican leader, repeated one of those attacks on Thursday,
+    asserting that the bill would 'defund the police' by imposing
+    'mountains of new regulations' that would drain departments'
+    resources." \[The New York Times,
+    [3/4/21](https://www.nytimes.com/2021/03/04/us/george-floyd-act.html)\]
+
+-   **The Bill Would Have Allowed For Subpoenas For Evidence In
+    Potential Constitutional Rights Violations By Law Enforcement And
+    Authorized State Grants To Aid Investigations.** According to
+    Congressional Quarterly, "authorize subpoenas by the Justice
+    Department or state attorneys general for evidence related to
+    potential violations of constitutional rights by law enforcement and
+    authorize grants to states to support such investigations."
+    \[Congressional Quarterly,
+    [3/3/21](https://plus.cq.com/vote/2021/H/60?48)\]
+
+-   **The Bill Would Have Authorized Funds For Community-Based Policing
+    Practices And Non-Police Public Safety Initiatives.** According to
+    Congressional Quarterly, "authorize grant funding for activities
+    related to community-based policing practices and non-police public
+    safety initiatives." \[Congressional Quarterly,
+    [3/3/21](https://plus.cq.com/vote/2021/H/60?48)\]
+
+-   **The Bill Would Have Limited The Transfer Of Military Equipment To
+    State And Local Law Enforcement Agencies.** According to
+    Congressional Quarterly, "limit the transfer of military equipment
+    from the Defense Department to state and local law enforcement
+    agencies." \[Congressional Quarterly,
+    [3/3/21](https://plus.cq.com/vote/2021/H/60?48)\]
+
+**2021: Fitzpatrick Voted Against Prohibiting No-Knock Warrants,
+Chokeholds And The Use Of Deadly Or Less Lethal Force Before Using
+De-Escalation Methods.** In March 2021, Fitzpatrick voted against the
+George Floyd Justice in Policing Act of 2021 which would, according to
+Congressional Quarterly, "restrict a number of policing practices by
+federal law enforcement agencies and state and local agencies that
+receive federal funding, including to prohibit the use of 'no-knock
+warrants' to execute searches in drug cases; the use of deadly force,
+including chokeholds, except as a 'last resort' to prevent imminent
+injury to an officer or another person; and the use of deadly or 'less
+lethal' force before exhausting reasonable alternatives, including
+deescalation tactics." The vote was on passage. The House passed the
+bill by a vote of 220-212. The Senate did not take substantive action on
+the bill. \[House Vote 60,
+[3/3/21](http://clerk.house.gov/evs/2021/roll060.xml); Congressional
+Quarterly, [3/3/21](https://plus.cq.com/vote/2021/H/60?48);
+Congressional Actions, [H.R.
+1280](https://www.congress.gov/bill/117th-congress/house-bill/1280/actions)\]
+
+-   **June 2020: Senate Republicans Wanted A Plan That Would Not Ban
+    Chokeholds Outright, But Democrats Said It Would Not Address Racial
+    Inequity.** According to NPR, "The bill passed the House by a
+    220-212 vote, mostly along party lines. But it has faced an uphill
+    climb in the Senate, where Republicans have sought to revive a
+    competing plan by Sen. Tim Scott, R-S.C., designed to diminish the
+    use of chokeholds --- but not ban them outright --- and increase
+    federal reporting requirements for use of force and no-knock
+    warrants. Democrats blocked the plan last June, saying it did not go
+    far enough to address racial inequality." \[NPR,
+    [4/21/21](https://www.npr.org/sections/trial-over-killing-of-george-floyd/2021/04/21/989500468/where-efforts-to-overhaul-policing-stand-in-congress-after-chauvin-verdict)\]
+
+-   **The Measure Would Ban Chokeholds At The Federal Level And No-Knock
+    Warrants In Drug Cases At The Federal Level.** According to
+    Politico, "The bill would prohibit racial and religious profiling by
+    law enforcement at every level while banning chokeholds at the
+    federal level and no-knock warrants in federal drug cases."
+    \[Politico,
+    [3/3/21](https://www.politico.com/news/2021/03/03/house-passes-police-reform-bill-473476)\]
+
+**2021: Fitzpatrick Voted Against Prohibiting Racial Profiling, Against
+Authorizing Legal Action Against Racial Profiling And Against Requiring
+Racial Profiling Training And Oversight Procedures.** In March 2021,
+Fitzpatrick voted against the George Floyd Justice in Policing Act of
+2021 which would, according to Congressional Quarterly, "prohibit racial
+profiling by law enforcement, authorize lawsuits regarding violations of
+the prohibition, and require agencies to implement racial profiling
+training and oversight procedures." The vote was on passage. The House
+passed the bill by a vote of 220-212. The Senate did not take
+substantive action on the bill. \[House Vote 60,
+[3/3/21](http://clerk.house.gov/evs/2021/roll060.xml); Congressional
+Quarterly, [3/3/21](https://plus.cq.com/vote/2021/H/60?48);
+Congressional Actions, [H.R.
+1280](https://www.congress.gov/bill/117th-congress/house-bill/1280/actions)\]
+
+-   **The Measure Would Prohibit Law Enforcement From Racial And
+    Religious Profiling At Every Level Of Government.** According to
+    Politico, "The bill would prohibit racial and religious profiling by
+    law enforcement at every level while banning chokeholds at the
+    federal level and no-knock warrants in federal drug cases."
+    \[Politico,
+    [3/3/21](https://www.politico.com/news/2021/03/03/house-passes-police-reform-bill-473476)\]
+
+**2021: Fitzpatrick Voted Against Eliminating Qualified Immunity By
+Prohibiting Using "Acting In Good Faith" And The Lack Of Established Law
+As Legal Defenses For Charged Police Officers.** In March 2021,
+Fitzpatrick voted against the George Floyd Justice in Policing Act of
+2021 which would, according to Congressional Quarterly, "eliminate
+'qualified immunity' protections for law enforcement officers by
+prohibiting legal defenses based on an officer acting 'in good faith' or
+the purported absence of 'clearly established' law." The vote was on
+passage. The House passed the bill by a vote of 220-212. The Senate did
+not take substantive action on the bill. \[House Vote 60,
+[3/3/21](http://clerk.house.gov/evs/2021/roll060.xml); Congressional
+Quarterly, [3/3/21](https://plus.cq.com/vote/2021/H/60?48);
+Congressional Actions, [H.R.
+1280](https://www.congress.gov/bill/117th-congress/house-bill/1280/actions)\]
+
+-   **The Measure Would Eliminate Qualified Immunity For Law Enforcement
+    And, Subsequently, Facilitate Pursuing Claims Of Police
+    Misconduct.** According to NPR, "House lawmakers on Wednesday passed
+    the George Floyd Justice in Policing Act, a reform bill that would
+    ban chokeholds and alter so-called qualified immunity for law
+    enforcement, which would make it easier to pursue claims of police
+    misconduct." \[NPR,
+    [3/3/21](https://www.npr.org/2021/03/03/973111306/house-approves-police-reform-bill-named-after-george-floyd)\]
+
+**2021: Fitzpatrick Voted Against Requiring Federal Law Enforcement To
+Use Body And Dashboard Cameras And State And Local Agencies To Grant
+Funds To Buy And Implement Body Cameras.** In March 2021, Fitzpatrick
+voted against the George Floyd Justice in Policing Act of 2021 which
+would, according to Congressional Quarterly, "require federal law
+enforcement officers to use body cameras and dashboard cameras and
+require state and local agencies to use certain grant funding to
+purchase body cameras and develop protocols for their use." The vote was
+on passage. The House passed the bill by a vote of 220-212. The Senate
+did not take substantive action on the bill. \[House Vote 60,
+[3/3/21](http://clerk.house.gov/evs/2021/roll060.xml); Congressional
+Quarterly, [3/3/21](https://plus.cq.com/vote/2021/H/60?48);
+Congressional Actions, [H.R.
+1280](https://www.congress.gov/bill/117th-congress/house-bill/1280/actions)\]
+
+**2021: Fitzpatrick Voted Against Providing \$750 Million Annually
+Through FY 2024 To Support Independent Investigations Of Law Enforcement
+Usage Of Deadly Force, Including The Creation Of Civilian Review
+Boards.** In March 2021, Fitzpatrick voted against the George Floyd
+Justice in Policing Act of 2021 which would, according to Congressional
+Quarterly, "authorize \$750 million annually through fiscal 2024 for
+grants to support independent investigations into police use of deadly
+force, including to create civilian review boards." The vote was on
+passage. The House passed the bill by a vote of 220-212. The Senate did
+not take substantive action on the bill. \[House Vote 60,
+[3/3/21](http://clerk.house.gov/evs/2021/roll060.xml); Congressional
+Quarterly, [3/3/21](https://plus.cq.com/vote/2021/H/60?48);
+Congressional Actions, [H.R.
+1280](https://www.congress.gov/bill/117th-congress/house-bill/1280/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against The George Floyd In
+Policing Act, Which Would Be A Policing Overhaul.** In March 2021,
+according to Congressional Quarterly, Fitzpatrick voted for the "motion
+to recommit the bill to the House Judiciary Committee." The vote was on
+a motion to recommit. The House rejected the motion by a vote of
+208-219. \[House Vote 59,
+[3/3/21](http://clerk.house.gov/evs/2021/roll059.xml); Congressional
+Quarterly, [3/3/21](https://plus.cq.com/vote/2021/H/59?5); Congressional
+Actions, [H.R.
+1280](https://www.congress.gov/bill/117th-congress/house-bill/1280/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against The George Floyd In
+Policing Act, Which Would Be A Policing Overhaul.** In March 2021,
+according to Congressional Quarterly, Fitzpatrick voted against the
+"adoption of the rule that would provide for House floor consideration
+of \[...\] the George Floyd Justice in Policing Act (HR 1280)." The vote
+was on the adoption of the rule. The House adopted the rule by a vote of
+218-207. \[House Vote 51,
+[3/1/21](http://clerk.house.gov/evs/2021/roll051.xml); Congressional
+Quarterly, [3/1/21](https://plus.cq.com/vote/2021/H/51?3); Congressional
+Actions, [H.R.
+1280](https://www.congress.gov/bill/117th-congress/house-bill/1280/actions);
+Congressional Actions, [H.Res.
+179](https://www.congress.gov/bill/117th-congress/house-resolution/179/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against The George Floyd In
+Policing Act, Which Would Be A Policing Overhaul.** In March 2021,
+according to Congressional Quarterly, Fitzpatrick voted against the
+"motion to order the previous question (thus ending debate and
+possibility of amendment) on the rule (H Res 179) that would provide for
+House floor consideration of \[...\] the George Floyd Justice in
+Policing Act (HR 1280)." The vote was on a motion to order the previous
+question. The House agreed to the motion by a vote of 220-201. \[House
+Vote 50, [3/1/21](http://clerk.house.gov/evs/2021/roll050.xml);
+Congressional Quarterly, [3/1/21](https://plus.cq.com/vote/2021/H/50?5);
+Congressional Actions, [H.R.
+1280](https://www.congress.gov/bill/117th-congress/house-bill/1280/actions);
+Congressional Actions, [H.Res.
+179](https://www.congress.gov/bill/117th-congress/house-resolution/179/actions)\]
+
+**2020: Fitzpatrick Voted For The George Floyd Justice In Policing
+Act.** In June 2020, Fitzpatrick voted for the House police reform bill
+that would, according to Congressional Quarterly, "establish reporting
+and oversight requirements related to policing data and restrict the use
+of certain policing practices by federal law enforcement agencies and
+state and local agencies receiving certain federal policing grants. It
+would restrict a number of policing practices \[...\] including to
+prohibit the use of 'no-knock warrants' to execute searches in drug
+cases; the use of deadly force, including chokeholds, except as a 'last
+resort' to prevent imminent injury to an officer or another person; and
+the use of deadly or 'less lethal' force before exhausting reasonable
+alternatives, including deescalation tactics. It would prohibit racial
+profiling by law enforcement, authorize lawsuits regarding violations of
+the prohibition, and require agencies to implement racial profiling
+training and oversight procedures. It would require the Justice
+Department to establish a national police misconduct registry, and it
+would establish a number of reporting requirements for law enforcement
+agencies, including on use of force, racial profiling, officer
+misconduct records and routine policing practices \[...\] It would
+eliminate 'qualified immunity' protections for law enforcement officers
+by prohibiting legal defenses based on an officer acting 'in good faith'
+or the purported absence of 'clearly established' law. It would require
+federal law enforcement officers to use body cameras and dashboard
+cameras." The vote was on passage. The House passed the bill by a vote
+of 236-181. \[House Vote 119,
+[6/25/20](http://clerk.house.gov/evs/2020/roll119.xml); Congressional
+Quarterly, [6/25/20](https://plus.cq.com/vote/2020/H/119?2);
+Congressional Actions,
+[H.R.7120](https://www.congress.gov/bill/116th-congress/house-bill/7120/all-actions?q=%7b%22search%22%3A%5B%22hr+7120%22%5D%7d&s=2&r=1)\]
+
+-   **The Legislation Eliminated Legal Protections For Police Officers
+    And Banned Uses Of Deadly Force Such As Chokeholds.** According to
+    the New York Times, "The House on Thursday passed an expansive
+    policing overhaul bill aimed at combating racial discrimination and
+    excessive use of force in law enforcement \[...\] It would eliminate
+    legal protection that shield police officers from lawsuits, make it
+    easier to prosecute them for wrongdoing, impose a new set of
+    restrictions on the use of deadly force, and effectively ban the use
+    of chokeholds." \[New York Times,
+    [6/25/20](https://www.nytimes.com/2020/06/25/us/politics/house-police-overhaul-bill.html)\]
+
+-   **The Bill Created A National Registry To Track Police Misconduct.**
+    According to the New York Times, "The bill would also create a
+    national registry to track police misconduct and require law
+    enforcement agencies to report data on the use of force, aim to
+    force departments to eliminate the use of chokeholds, and conditions
+    some federal grants on the adoption of anti-discrimination training
+    and practices." \[New York Times,
+    [6/25/20](https://www.nytimes.com/2020/06/25/us/politics/house-police-overhaul-bill.html)\]
+
+-   **The Bill Received Support From Over 100 Civil Rights Groups, As
+    Well As Some Parents Of Black Americans Killed By The Police
+    Including Tamir Rice And Eric Garner's Mothers.** According to the
+    New York Times, "Over 100 civil rights groups endorsed the
+    legislation, as did some families of black Americans killed by the
+    police, including Gwen Carr, the mother of Eric Garner, who died in
+    2014 after an officer put him in a chokehold, and Samaria Rice, the
+    mother of Tamir rice, a 12-year-old boy who was shot for carrying a
+    toy gun \[...\] Law enforcement organizations and police unions
+    forcefully opposed it." \[New York Times,
+    [6/25/20](https://www.nytimes.com/2020/06/25/us/politics/house-police-overhaul-bill.html)\]
+
+-   **Republicans Stated The Bill Is A Federal Overreach, And The White
+    House Issued A Veto Statement, Claiming It Would "Weaken The Ability
+    Of Law Enforcement Agencies To Reduce Crime."** According to the New
+    York Times, "Republicans have said the bill is a federal overreach
+    into policing that will never pass the Senate \[...\] The white
+    House issued an official threat to veto the measure, calling it
+    'overboard' and arguing that it would 'deter good people from
+    pursuing careers in law enforcement' and 'weaken the ability of law
+    enforcement agencies to reduce crime.'" \[New York Times,
+    [6/25/20](https://www.nytimes.com/2020/06/25/us/politics/house-police-overhaul-bill.html)\]
+
+-   **Despite Bipartisan Determination To Pass A Police Reform Bill, The
+    Refusal To Compromise On Both Sides Will Likely Thwart Any
+    Legislation From Being Passed This Year.** According to the New York
+    Times, "Passage of the legislation \[...\] only underscored the
+    depth of the stalemate in Congress over how to bring about law
+    enforcement changes that both parties say are needed \[...\] Over
+    two weeks ago, as protestors thronged streets in big cities and
+    small towns across the nation, many lawmakers on Capitol Hill hoped
+    that they would be able to bridge a previously insurmountable gulf
+    on police reform efforts and pass legislation addressing systemic
+    racism in law enforcement. Those hopes have rapidly fizzled,
+    replaced by bitter recriminations after Senate Democrats refused on
+    Wednesday even to allow the Republican bill to come up for debate,
+    calling it 'woefully inadequate.' \[...\] Both Republicans and
+    Democrats have insisted that the opportunity to revive policing
+    reform efforts has not been foreclosed. But given the partisan
+    gridlock, and with lawmakers in both chambers expected to be out of
+    Washington for extended periods of time leading up to the November
+    election, many of them privately concede that a compromise will be
+    difficult to strike." \[New York Times,
+    [6/25/20](https://www.nytimes.com/2020/06/25/us/politics/house-police-overhaul-bill.html)\]

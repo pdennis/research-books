@@ -1,0 +1,427 @@
+---
+title: Federal Aviation Administration
+description: 
+published: true
+date: 2025-09-22T21:44:37.015Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:44:31.895Z
+---
+
+# Federal Aviation Administration
+
+### Appropriations
+
+**2019: Fitzpatrick Voted For An Omnibus Spending Proposal Preventing
+Another Government Shutdown And Providing \$17.5 Billion For The FAA.**
+In February 2019, Fitzpatrick voted for the FY 2019 consolidated
+appropriations bill. According to Congressional Quarterly, "This
+Conference Summary describes the agreement on H J Res 31, Consolidated
+Appropriations Act for FY 2019, which provides detailed, full-year
+funding for all seven remaining FY 2019 spending bills ---thereby
+completing the FY 2019 appropriations process. The centerpiece, Homeland
+Security, provides \$1.375 billion for new and replacement barriers
+along the U.S. border with Mexico, including 55 miles of new fencing,
+along with an increase of \$1.5 billion in other border security funding
+--- such as for new technology at ports of entry and additional Customs
+officers. Outside of the Homeland bill, it includes another \$1.6
+billion for border security, as well as a 1.9% pay increase for federal
+civilian employees." The vote was on passage. The House passed the bill
+by a vote of 300 to 128. The bill was later signed into law by the
+president. \[House Vote 87,
+[2/14/19](http://clerk.house.gov/evs/2019/roll087.xml); Congressional
+Quarterly, [2/14/19](http://www.cq.com/doc/har-5463527?7); Congressional
+Actions, [H. J. Res.
+31](https://www.congress.gov/bill/116th-congress/house-joint-resolution/31/all-actions)\]
+
+-   **The Bill Appropriated \$17.5 Billion For The FAA, Which Was \$549
+    Million Less Than FY 2018.** According to Congressional Quarterly,
+    "The measure includes a total of \$86.5 billion for transportation,
+    including \$9 billion for new transportation infrastructure
+    according to conferees. It provides \$17.5 billion for the Federal
+    Aviation Administration (\$549 million less than FY 2018) and \$49.3
+    billion for the Federal Highway Administration (\$1.8 billion more
+    than FY 2018). It also increases funding for National Highway
+    Traffic Safety Administration, the Pipeline and Hazardous Materials
+    Safety Administration and the U.S. Maritime Administration, but
+    decreases funding for the Federal Motor Carrier Safety
+    Administration, Federal Transit Administration and Federal Railroad
+    Administration activities." \[Congressional Quarterly,
+    [2/14/19](http://www.cq.com/doc/har-5463527?7)\]
+
+### Authorization
+
+**2024: Fitzpatrick Voted To Extend The Authorization For Federal
+Aviation Administration Programs And Aviation Taxes.** In February 2024,
+Fitzpatrick voted for , according to Congressional Quarterly, "the bill
+that would extend the authorization for various Federal Aviation
+Administration programs, as well as the aviation taxes that finance the
+Airport and Airway Trust Fund and the authority to release money from
+the trust fund, through May 10, 2024." The vote was on passage. The
+House passed the bill by a vote of 401 to 19. \[House Vote 59,
+[2/29/24](http://clerk.house.gov/evs/2024/roll059.xml); Congressional
+Quarterly, [2/29/24](https://plus.cq.com/vote/2024/H/59?28);
+Congressional Actions, [H.R.
+7454](https://www.congress.gov/bill/118th-congress/house-bill/7454/all-actions)\]
+
+### Beyond Program Social Factors
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Removed
+The Requirement For The Federal Aviation Administration To Address The
+Social Factors Of Expanding The FAA Beyond Program.** In July 2023,
+according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the Securing Growth and Robust Leadership in American
+Aviation Act, which would "strike language to require the Federal
+Aviation Administration to address the social factors of expanding the
+FAA Beyond Program." The vote was on the adoption of an amendment. The
+House rejected the amendment by a vote of 191 to 244. \[House Vote 355,
+[7/19/23](http://clerk.house.gov/evs/2023/roll355.xml); Congressional
+Quarterly, [7/19/23](https://plus.cq.com/vote/2023/H/355?3);
+Congressional Actions, [H.R.
+3935](https://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions);
+Congressional Actions, [H.Amdt.
+281](https://www.congress.gov/amendment/118th-congress/house-amendment/281/actions?s=a&r=9)\]
+
+-   **The Amendment Would Have Removed "Social" From The Score Of
+    Factors Evaluated Under A FAA Program That Seeks To Integrate Drones
+    At The National Airspace System.** According to Congressional
+    Quarterly, "The chamber also rejected an amendment from Rep. Mary
+    Miller, R-Ill., in a 181-254 vote that would restrict funding for
+    diversity, equity, and inclusion officials or training and another
+    from Rep. Andy Ogles, R-Tenn., in a 191-244 vote, that would strike
+    'social' from the scope of factors examined under an FAA program
+    aimed at integrating drones into the National Airspace System."
+    \[Congressional Quarterly,
+    [7/20/23](https://plus.cq.com/doc/news-7798266?6)\]
+
+### Climate Change Study
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Required
+The Federal Aviation Administration To Study Air Turbulence Impacts Of
+Weather Instead Of Climate Change.** In July 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Securing Growth and Robust Leadership in American Aviation Act, which
+would "require the Federal Aviation Administration to include in a study
+on air turbulence the impacts of weather, rather than climate change."
+The vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 206 to 227. \[House Vote 356,
+[7/19/23](http://clerk.house.gov/evs/2023/roll356.xml); Congressional
+Quarterly, [7/19/23](https://plus.cq.com/vote/2023/H/356?7);
+Congressional Actions, [H.R.
+3935](https://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions);
+Congressional Actions, [H.Amdt.
+282](https://www.congress.gov/amendment/118th-congress/house-amendment/282/actions?s=a&r=8)\]
+
+### Continuous Lower Energy, Emission And Noise (CLEEN) Program
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Eliminated A FAA Reauthorization Bill Provision That Directs The FAA To
+Consider Expanding And Broadening Eligibility For The Continuous Lower
+Energy, Emission And Noise (CLEEN) Program.** In July 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Securing Growth and Robust Leadership in American Aviation Act, which
+would "strike from the bill a section to direct the Federal Aviation
+Administration to consider expanding and broadening eligibility for the
+Continuous Lower Energy, Emission and Noise (CLEEN) program." The vote
+was on the adoption of an amendment. The House rejected the amendment by
+a vote of 127 to 308. \[House Vote 358,
+[7/19/23](http://clerk.house.gov/evs/2023/roll358.xml); Congressional
+Quarterly, [7/19/23](https://plus.cq.com/vote/2023/H/358?13);
+Congressional Actions, [H.R.
+3935](https://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions);
+Congressional Actions, [H.Amdt.
+284](https://www.congress.gov/amendment/118th-congress/house-amendment/284/actions?s=a&r=6)\]
+
+### Extension
+
+**2023: Fitzpatrick Voted To Extend Authorization For Federal Aviation
+Administration And Aviation Taxes.** In December 2023, according to
+Congressional Quarterly, Fitzpatrick voted for the "motion to suspend
+the rules and pass the bill that would extend the authorization for
+various Federal Aviation Administration programs, as well as the
+aviation taxes that finance the Airport and Airway Trust Fund and the
+authority to release money from the trust fund, until March 8, 2024."
+The vote was on passage. The House passed the bill by a vote of 376 to
+15, thus it was sent to the Senate. \[House Vote 709,
+[12/11/23](http://clerk.house.gov/evs/2023/roll709.xml); Congressional
+Quarterly, [12/11/23](https://plus.cq.com/vote/2023/H/709?38);
+Congressional Actions, [H.R.
+6503](https://www.congress.gov/bill/118th-congress/house-bill/6503/all-actions?q=%7b%22search%22%3A%22hr+6503%22%7d&s=5&r=1)\]
+
+### Funding
+
+**2019: Fitzpatrick Voted For The FY 2020 Minibus Appropriations Bill,
+Which Provided \$166 Million More In Funding To The Federal Aviation
+Administration Than In FY 2019.** In December 2019, Fitzpatrick voted
+for the FY 2020 minibus spending bill, which represented 8 of the 12
+appropriations bills. According to Congressional Quarterly, "For
+programs and activities of the Federal Aviation Administration (FAA0,
+\[the bill\] provides \$166 million (1%) more than FY 2019 and \$513
+million (3%) more than requested. The total includes \$3.35 billion in
+obligations from the Airport and Airway Trust Fund for airport grants."
+The vote was a motion to concur in the Senate amendment. The House
+agreed to the motion by a vote of 297-120. The Senate later passed the
+bill and the President signed the bill into law. \[House Vote 689,
+[12/17/19](http://clerk.house.gov/evs/2019/roll689.xml); Congressional
+Quarterly, [12/17/19](https://plus.cq.com/vote/2019/H/689?8);
+Congressional Actions,
+[H.R.1865](https://www.congress.gov/bill/116th-congress/house-bill/1865/all-actions?q=%7b%22search%22%3A%5B%22hr+1865%22%5D%7d&s=4&r=1)\]
+
+### Minimum Seat Size Standards
+
+**2022: Fitzpatrick Voted For An Amendment That Shifted \$1 Million For
+The Federal Aviation Administration, Intended For A Moratorium On
+Further Shrinking Airplane Seats And Passenger Space Until The FAA
+Finalizes A Rule For Minimum Seat Size Standards.** In July 2022,
+according to Congressional Quarterly, Fitzpatrick voted for en bloc
+amendments no. 3 to the Transportation, Housing and Urban Development,
+and Related Agencies Appropriations Act, 2023, which would, in part,
+"increase and decrease by \$1 million funding for Federal Aviation
+Administration operations, intended to express that there be a
+moratorium on the further shrinkage of airline seat sizes and passenger
+space until the FAA publishes a final rule for minimum seat size
+standards." The vote was on the adoption of amendments. The House
+adopted the amendments by a vote 225-201. \[House Vote 369,
+[7/19/22](http://clerk.house.gov/evs/2022/roll369.xml); Congressional
+Quarterly, [7/19/22](https://plus.cq.com/vote/2022/H/369?3);
+Congressional Actions, [H.Amdt.
+295](https://www.congress.gov/amendment/117th-congress/house-amendment/295/actions?s=a&r=7);
+Congressional Actions, [H.R.
+8294](https://www.congress.gov/bill/117th-congress/house-bill/8294/actions)\]
+
+### PFAS-Free Airport Equipment Grants
+
+**2022: Fitzpatrick Voted To Require The Federal Aviation
+Administration's Airport Improvement Program To Cover All Project Costs
+For The Procurement Of Input-Based Testing Equipment To Test
+Firefighting Systems That Contain PFAS Without Discharging PFAS.** In
+September 2022, according to Congressional Quarterly, Fitzpatrick voted
+for the Preventing PFAS Runoff at Airports Act, which would "require the
+federal government, under the Federal Aviation Administration\'s airport
+improvement program and for five years after enactment, to cover 100
+percent of project costs for the purchase of input-based testing
+equipment that enables commercial airports to test their firefighting
+systems without discharging aqueous film-forming foam that contains per-
+and polyfluoroalkyl substances. It would also require the FAA to conduct
+an outreach effort to make airports aware of their eligibility for the
+program and submit a report to Congress on possible ways to reimburse
+airports that purchased covered testing equipment before the cost-share
+increase was implemented." The vote was on passage. The House passed the
+bill by a vote of 381-42, thus the bill was sent to President Biden and
+it ultimately became law. \[House Vote 468,
+[9/29/22](http://clerk.house.gov/evs/2022/roll468.xml); Congressional
+Quarterly, [9/29/22](https://plus.cq.com/vote/2022/H/468?19);
+Congressional Actions, [S.
+3662](https://www.congress.gov/bill/117th-congress/senate-bill/3662/all-actions)\]
+
+### Prohibiting DEI Officials And Trainings
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Prohibited The Use Of Federal Aviation Administration Funds To Hire
+Diversity, Equity And Inclusion Officials Or Conduct DEI Trainings.** In
+July 2023, according to Congressional Quarterly, Fitzpatrick voted
+against an amendment to the Securing Growth and Robust Leadership in
+American Aviation Act, which would "prohibit the use of funds authorized
+by the bill to hire diversity, equity, and inclusion officials or to
+conduct DEI training." The vote was on the adoption of an amendment. The
+House rejected the amendment by a vote of 181 to 254. \[House Vote 353,
+[7/19/23](http://clerk.house.gov/evs/2023/roll353.xml); Congressional
+Quarterly, [7/19/23](https://plus.cq.com/vote/2023/H/353?9);
+Congressional Actions, [H.R.
+3935](https://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions);
+Congressional Actions, [H.Amdt.
+278](https://www.congress.gov/amendment/118th-congress/house-amendment/278/actions?s=a&r=11)\]
+
+### Reauthorization
+
+**2023: Fitzpatrick Voted To Reauthorize Federal Aviation Programs
+Through FY 2028 And Provide \$12.7 Billion In FY 2024 And \$14 Billion
+By FY 2028 For FAA Operations.** In July 2023, according to
+Congressional Quarterly, Fitzpatrick voted for the Securing Growth and
+Robust Leadership in American Aviation Act, which would "reauthorize
+federal aviation programs through fiscal 2028. The measure would
+authorize \$12.7 billion in fiscal 2024, and gradually increase that
+amount to \$14 billion in fiscal 2028, for Federal Aviation
+Administration operations; \$4 billion annually for airport planning and
+development; \$3.4 billion in fiscal 2024, and gradually increase that
+amount to \$3.5 billion in fiscal 2028, for facilities and equipment;
+and \$255 million in fiscal 2024, and gradually increase that amount to
+\$279 million in fiscal 2028, for research and development. It also
+would expand workforce development programs and increase, from 65 to 67,
+the mandatory retirement age for commercial pilots. It would transfer
+oversight authority over unmanned aircraft systems from the
+Transportation Department to the FAA and direct the agency to determine
+how to integrate UAS operations into the national airspace system. It
+also would require air carriers to establish food and lodging
+reimbursement policies for travelers whose flights are canceled, require
+children to be seated next to their parents at no additional cost, and
+establish training standards for personnel who assist wheelchair users
+in boarding a plane or who stow wheelchairs and scooters. As amended,
+the bill would establish an apprenticeship program to bolster the
+qualified pilot pipeline, require the Transportation Department to
+provide more detailed information about the cause of a commercial
+passenger flight cancellation or delay, and allow an airport or retail
+fuel seller to sell approved unleaded aviation gasoline, if there is
+industry consensus for its use." The vote was on passage. The House
+passed the bill by a vote of 351 to 69, thus the bill was sent to the
+Senate. \[House Vote 364,
+[7/20/23](http://clerk.house.gov/evs/2023/roll364.xml); Congressional
+Quarterly, [7/20/23](https://plus.cq.com/vote/2023/H/364?11);
+Congressional Actions, [H.R.
+3935](https://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions)\]
+
+-   **The Bill Would Increase The Mandatory Retirement Age Fro
+    Commercial Pilots From 65 To 67 Years-Old.** According to
+    Congressional Quarterly, "It also would expand workforce development
+    programs and increase, from 65 to 67, the mandatory retirement age
+    for commercial pilots." \[Congressional Quarterly,
+    [7/20/23](https://plus.cq.com/vote/2023/H/364?11)\]
+
+-   **The Bill Would Require Airlines To Establish Food And Lodging
+    Reimbursement Policies For Travelers Experiencing Cancelled Flights,
+    Require Children To Be Seated With Their Parents Without Extra
+    Costs, And Create Training Standards To Assist Wheelchair Users.**
+    According to Congressional Quarterly, "It also would require air
+    carriers to establish food and lodging reimbursement policies for
+    travelers whose flights are canceled, require children to be seated
+    next to their parents at no additional cost, and establish training
+    standards for personnel who assist wheelchair users in boarding a
+    plane or who stow wheelchairs and scooters." \[Congressional
+    Quarterly, [7/20/23](https://plus.cq.com/vote/2023/H/364?11)\]
+
+-   **The Bill Would Create An Apprenticeship Program To Enhance The
+    Qualified Pilot Pipeline, Instruct The Transportation Department To
+    Report On Flight Cancellations Or Delays, And Permit Airports And
+    Retail Fuel Sellers To Sell Approved Aviation Gasoline With Industry
+    Consensus.** According to Congressional Quarterly, "As amended, the
+    bill would establish an apprenticeship program to bolster the
+    qualified pilot pipeline, require the Transportation Department to
+    provide more detailed information about the cause of a commercial
+    passenger flight cancellation or delay, and allow an airport or
+    retail fuel seller to sell approved unleaded aviation gasoline, if
+    there is industry consensus for its use." \[Congressional Quarterly,
+    [7/20/23](https://plus.cq.com/vote/2023/H/364?11)\]
+
+-   **The Bill Would Authorize Approximately \$108 Billion Between FY
+    2024 And FY 2028 And Would Reinstate A Pilot Training Rule And
+    Address Workforce Issues.** According to Congressional Quarterly,
+    "The House passed its Federal Aviation Administration
+    reauthorization bill in a 351-69 vote Thursday, shifting attention
+    to the Senate, where lawmakers so far haven't even scheduled a
+    markup on the legislation. Prior to passage, the House adopted
+    roughly 80 amendments to the bill (HR 3935), including those that
+    would reinstate a pilot training rule and aim to address workforce
+    challenges. The legislation would authorize about \$108 billion of
+    appropriations between 2024 and 2028, according to a Congressional
+    Budget Office cost estimate." \[Congressional Quarterly,
+    [7/20/23](https://plus.cq.com/doc/news-7798866?14)\]
+
+-   **The Bill Would Instruct The FAA To Raise Hiring Standards For Air
+    Traffic Controllers, Create Workforce Programs To Improve Aviation
+    Recruitment And Retention, Raise The Retirement Age For Commercial
+    Pilots, And Reauthorize The National Safety Board Through FY 2028.**
+    According to CNN, "Among a wide range of provisions, the bill
+    directs the FAA to increase hiring targets for air traffic
+    controllers, sets up workforce development programs to improve
+    recruitment and retention in the aviation industry, and raises the
+    retirement age for commercial airline pilots from 65 to 67. The bill
+    also reauthorizes the National Transportation Safety Board through
+    fiscal year 2028." \[CNN,
+    [7/20/23](https://www.cnn.com/2023/07/20/politics/house-faa-reauthorization-bill/index.html)\]
+
+**2023: Fitzpatrick Effectively Voted For The Securing Growth And Robust
+Leadership In American Aviation Act, Which Would Reauthorize The Federal
+Aviation Administration.** In July 2023, according to Congressional
+Quarterly, Fitzpatrick voted for the "adoption of the rule (H Res 597)
+that would provide for floor consideration of the Schools Not Shelters
+Act (HR 3941) and the Securing Growth and Robust Leadership in American
+Aviation Act (HR 3935). The rule would provide for one hour of general
+debate on each bill and make in order 104 amendments to HR 3935, which
+may be offered en bloc, and one amendment to HR 3941." The vote was on
+the adoption of the rule. The House adopted the rule by a vote of 213 to
+206. \[House Vote 332,
+[7/18/23](http://clerk.house.gov/evs/2023/roll332.xml); Congressional
+Quarterly, [7/18/23](https://plus.cq.com/vote/2023/H/332?20);
+Congressional Actions, [H.Res.
+597](https://www.congress.gov/bill/118th-congress/house-resolution/597/all-actions);
+Congressional Actions, [H.R.
+3935](https://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted For The Securing Growth And Robust
+Leadership In American Aviation Act, Which Would Reauthorize The Federal
+Aviation Administration.** In July 2023, according to Congressional
+Quarterly, Fitzpatrick voted for the "motion to order the previous
+question (thus ending debate and possibility of amendment) on the rule
+(H Res 597) that would provide for floor consideration of the Schools
+Not Shelters Act (HR 3941) and the Securing Growth and Robust Leadership
+in American Aviation Act (HR 3935). The rule would provide for one hour
+of general debate on each bill and make in order 104 amendments to HR
+3935, which may be offered en bloc, and one amendment to HR 3941." The
+vote was on a motion to order the previous question. The House agreed to
+the motion by a vote of 213 to 207. \[House Vote 331,
+[7/18/23](http://clerk.house.gov/evs/2023/roll331.xml); Congressional
+Quarterly, [7/18/23](https://plus.cq.com/vote/2023/H/331?8);
+Congressional Actions, [H.Res.
+597](https://www.congress.gov/bill/118th-congress/house-resolution/597/all-actions);
+Congressional Actions, [H.R.
+3935](https://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions)\]
+
+### Telework Policies
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Rescinded
+FAA Telework Policies And Instead Required For The FAA To Reinstate
+Their Telework Policies That Were In Effect Before 2020.** In July 2023,
+according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the Securing Growth and Robust Leadership in American
+Aviation Act, which would "strike from the bill language to authorize
+the Federal Aviation Administration to establish telework policies and
+add a requirement for the FAA, within 30 days of enactment, to reinstate
+its telework policy in effect as of Dec. 31, 2019." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+195 to 226. \[House Vote 363,
+[7/20/23](http://clerk.house.gov/evs/2023/roll363.xml); Congressional
+Quarterly, [7/20/23](https://plus.cq.com/vote/2023/H/363?5);
+Congressional Actions, [H.R.
+3935](https://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions);
+Congressional Actions, [H.Amdt.
+289](https://www.congress.gov/amendment/118th-congress/house-amendment/289/actions?s=a&r=1)\]
+
+### Topline Reduction
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Decreased
+The Funding Authorized Through FY 2028 For Airport Planning And
+Development By \$200 Million, For FAA Operations By \$700 Million, And
+For Research And Development By \$47 Million.** In July 2023, according
+to Congressional Quarterly, Fitzpatrick voted against an amendment to
+the Securing Growth and Robust Leadership in American Aviation Act,
+which would "reduce the amount authorized annually through fiscal 2028
+for airport planning and development by \$200 million, for Federal
+Aviation Administration operations by approximately \$700 million; and
+for research and development by \$47 million." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+52 to 381. \[House Vote 359,
+[7/19/23](http://clerk.house.gov/evs/2023/roll359.xml); Congressional
+Quarterly, [7/19/23](https://plus.cq.com/vote/2023/H/359?18);
+Congressional Actions, [H.R.
+3935](https://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions);
+Congressional Actions, [H.Amdt.
+285](https://www.congress.gov/amendment/118th-congress/house-amendment/285/actions?s=a&r=5)\]
+
+### Transportation Secretary Flight Records
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Required
+The Federal Aviation Administration To Report On The Transportation
+Secretary's Flight Records For The Previous 3 Years.** In July 2023,
+according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the Securing Growth and Robust Leadership in American
+Aviation Act, which would "require the Federal Aviation Administration
+to report to Congress on the Transportation secretary\'s flight records
+for the previous three years." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 216 to 219.
+\[House Vote 352,
+[7/19/23](http://clerk.house.gov/evs/2023/roll352.xml); Congressional
+Quarterly, [7/19/23](https://plus.cq.com/vote/2023/H/352?4);
+Congressional Actions, [H.R.
+3935](https://www.congress.gov/bill/118th-congress/house-bill/3935/all-actions);
+Congressional Actions, [H.Amdt.
+277](https://www.congress.gov/amendment/118th-congress/house-amendment/277/actions?s=a&r=12)\]

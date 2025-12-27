@@ -1,0 +1,233 @@
+---
+title: Disaster Assistance, Generally
+description: 
+published: true
+date: 2025-09-22T20:44:42.616Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:44:38.370Z
+---
+
+# Disaster Assistance, Generally
+
+### FY 2019
+
+**2019: Fitzpatrick Voted For Providing \$19.1 Billion In Supplemental
+Funds For Damage Caused By Natural Disasters.** In June 2019,
+Fitzpatrick voted for a motion that would, according to Congressional
+Quarterly, "provide \$19.1 billion in supplemental disaster funds for
+response efforts to damage caused by hurricanes, wildfires, earthquakes,
+tornadoes, floods, and other natural disasters that occurred in 2017,
+2018, and 2019." The vote was on a motion to suspend the rules and
+concur in the Senate. The House agreed to the motion by a vote of
+354-58. \[House Vote 232,
+[6/3/19](http://clerk.house.gov/evs/2019/roll232.xml); Congressional
+Quarterly, [6/3/19](https://plus.cq.com/vote/2019/H/232?4);
+Congressional Actions,
+[H.R.2157](https://www.congress.gov/bill/116th-congress/house-bill/2157/all-actions?q=%7b%22search%22%3A%5B%22hr+2157%22%5D%7d&s=3&r=1)\]
+
+-   **The Bill Was Delayed Due To Debates Over How Much Additional Aid
+    Should Go To Puerto Rico.** According to Congressional Quarterly,
+    "The bill took months to come together and was delayed for a variety
+    of reasons, including debate about how much additional aid should go
+    to Puerto Rico to help it continue to recover from two devastating
+    hurricanes that claimed about 3,000 lives in 2017." \[Congressional
+    Quarterly, [6/3/19](https://plus.cq.com/doc/news-5556112?14)\]
+
+-   **Conservatives Opposed The Bill Because Of Its Cost.** According to
+    The Hill, "Critics of the legislation \[...\] cited concerns over
+    its impact on the national debt and its lack of border funding as
+    factors in their decision to vote against the measure \[...\]
+    Conservative groups including Club for Growth and FreedomWorks
+    advocated against its passage, arguing that Congress failed to
+    provide offsets for the spending, and blasted the attempts to pass
+    the measure during pro forma sessions. 'The bill is simply nothing
+    that any Republican should support. It appropriates too much money;
+    more money than last month's previously-passed versions of the
+    legislation which 150 Republicans voted against,' FreedomWorks
+    wrote." \[The Hill,
+    [6/3/19](https://thehill.com/homenews/house/446762-58-gop-lawmakers-vote-against-disaster-aid-bill)\]
+
+**2019: Fitzpatrick Voted For An FY 2019 Disaster Relief Supplemental
+Appropriations Bill That Provided \$19.1 Billion Relief For Wildfires,
+Hurricanes -- Including For Puerto Rico, And Flooding, And Extended
+Flood Insurance Through The End Of September.** In May 2019, Fitzpatrick
+voted for an FY disaster relief supplemental appropriations bill.
+According to Congressional Quarterly, "\[p\]assage of the bill, as
+amended, that would provide \$17.4 billion in supplemental disaster
+funds for response efforts to damage caused by hurricanes, wildfires,
+earthquakes, tornadoes, floods, and other natural disasters that
+occurred in 2017, 2018, and 2019. It would provide \$693 million in
+disaster nutrition and Medicaid assistance for individuals impacted by
+natural disasters in Puerto Rico, the Commonwealth of the Northern
+Mariana Islands, and American Samoa. It would extend the National Flood
+Insurance Program, which will expire on May 31, through September 30,
+2019. It would also provide funds for areas impacted by natural
+disasters for economic development, training and employment services,
+and behavioral and social health services. The bill includes a total of
+\$4.3 billion for Agriculture Department disaster-related activities,
+including \$3 billion for crop, tree, bush, vine, and livestock losses
+from hurricanes, wildfires and other declared disasters that occurred in
+2018 and 2019. The bill would provide \$2.2 billion for a Housing and
+Urban Development Department community development block grant program,
+and \$1.7 billion for Transportation Department programs and activities,
+including \$1.65 billion for the cost of federal highway and bridge
+repairs. It would provide \$1.5 billion to the Defense Department to
+repair military facilities damaged by hurricanes Florence and Michael,
+\$2.8 billion to the Army Corps of Engineers for civil construction
+projects, and \$2 billion the Army Corps for facility repairs. It would
+also state that military construction funds provided by the bill may
+only be used for purposes specified in the bill. As amended, the bill
+would authorize an additional \$1.9 billion in funding for disaster
+response efforts, including \$955 million for Armed Services
+construction and repair planning, \$500 million for highway and road
+repairs, \$310 million for the Farm Service Agency emergency watershed
+protection program, and \$91.2 million for repairs to federal buildings
+and courthouses damaged as a result of Hurricane Florence." The vote was
+on passage. The House passed the bill by a vote of 257 to 150. \[House
+Vote 202, [5/10/19](http://clerk.house.gov/evs/2019/roll202.xml);
+Congressional Quarterly, [5/10/19](http://cq.com/vote/2019/H/202?2);
+Congressional Quarterly,
+[5/10/19](http://www.cq.com/doc/news-5534655?3&search=gG43XpHJ);
+Congressional Actions, [H.R.
+2157](https://www.congress.gov/bill/116th-congress/house-bill/2157/all-actions)\]
+
+-   **The Bill Provided Funding For Midwestern Farms Hit By Flooding.**
+    According to Congressional Quarterly, "Hours after Trump told
+    Republicans to reject the disaster relief bill, the House backed
+    millions of dollars for Midwest farms ravaged by flooding, Southern
+    states still struggling after tornadoes, Western locales devastated
+    by wildfires and other regions affected since 2017." \[Washington
+    Post,
+    [5/10/19](https://www.washingtonpost.com/politics/trump-urges-republicans-to-vote-against-disaster-relief-bill/2019/05/10/defc4f8e-7315-11e9-9eb4-0828f5389013_story.html?noredirect=on&utm_term=.6509706ba055)\]
+
+-   **The President Did Not Want To Give Additional Money To Puerto
+    Rico.** According to Congressional Quarterly, "The House
+    overwhelmingly passed a \$19.1 billion bill Friday to provide
+    federal aid to communities and military installations hit hard by
+    natural disasters, ignoring President Trump's opposition to the
+    package over its assistance for Puerto Rico. \[...\] The major
+    sticking point for the president is the additional funding Democrats
+    included to help Puerto Rico rebuild after Hurricane Maria severely
+    damaged the island and left an eventual death toll that Puerto Rico
+    puts at around 3,000. The additional funding amounts to more than
+    \$3 billion, including \$600 million for nutritional assistance."
+    \[Washington Post,
+    [5/10/19](https://www.washingtonpost.com/politics/trump-urges-republicans-to-vote-against-disaster-relief-bill/2019/05/10/defc4f8e-7315-11e9-9eb4-0828f5389013_story.html?noredirect=on&utm_term=.6509706ba055)\]
+
+-   **Flood Insurance Was Set To Expire At The End Of May.** According
+    to Congressional Quarterly, "It would extend the National Flood
+    Insurance Program, which will expire on May 31, through September
+    30, 2019." \[Congressional Quarterly,
+    [5/10/19](http://cq.com/vote/2019/H/202?2)\]
+
+**2019: Fitzpatrick Voted For A Bill That Extended Government Funding
+Via A CR Through February 8, 2019 And Provided \$12.1 Billion In
+Supplemental Disaster Funds For Hurricanes, Wildfires, Earthquakes And
+Other Natural Disasters In 2017 And 2018.** In January 2019, Fitzpatrick
+voted for a CR and disaster supplemental bill. According to
+Congressional Quarterly, "Passage of the bill that would provide
+continuing appropriations for operations of the federal government at
+current funding levels through Feb. 8, 2019. Additionally, the bill
+provides \$12.1 billion in supplemental disaster funds for response
+efforts to damage caused by hurricanes, wildfires, earthquakes and other
+natural disasters that occurred in 2017 and 2018. The bill includes a
+total of \$2.7 billion for Agriculture Department disaster-related
+activities, including \$1.1 billion for crop (including milk), tree,
+bush, vine, and livestock losses from 2018 hurricanes, wildfires and
+other declared disasters. The bill provides \$1.16 billion for the
+Housing and Urban Development Department's Community Development Block
+Grants-Disaster Recovery Program, and \$1.7 billion for Transportation
+Department programs and activities, including \$1.65 billion for the
+cost of federal highway and bridge repairs. It provides \$1.46 billion
+to the Defense Department to repair military facilities damaged by
+hurricanes Florence and Michael, primarily for repairing damage to
+military facilities in the Carolinas and Florida. As amended, the bill
+would prohibit funds provided in the bill for the Army Corps of
+Engineers or the Homeland Security Department from being used to
+construct a 'new physical barrier' along the southwest border of the
+U.S. Also as amended, the bill would permit the use of emergency funds
+provided to the Agriculture Department for 2018 crop losses to be used
+to cover harvested wine grapes that were found to have been tainted by
+smoke from wildfires." The vote was on passage. The House passed the
+bill by a vote of 237 to 187. \[House Vote 39,
+[1/16/19](http://clerk.house.gov/evs/2019/roll039.xml); Congressional
+Quarterly, [1/16/19](http://cq.com/vote/2019/H/39?20); Congressional
+Actions, [H.R.
+268](https://www.congress.gov/bill/116th-congress/house-bill/268/all-actions)\]
+
+### FY 2022
+
+**2021: Fitzpatrick Voted To Provide \$28.6 Billion For Natural Disaster
+Relief, Including To Cover Agricultural Losses, Flood And Storm Damage
+Response, Community Development Block Grants, To Reimburse State For
+Road And Bridge Damages, For The Forest Service, Wildfire Response,
+Small Business Administration Disaster Loans, Navy And Air Force
+Facility Repairs, The National Oceanic And Atmospheric Administration,
+And To Investigate Building Collapses.** In September 2021, Fitzpatrick
+voted for a motion to concur in the Senate amendment to the Extending
+Government Funding and Delivering Emergency Assistance Act of 2021 which
+would, according to Congressional Quarterly, "provide \$28.6 billion in
+supplemental appropriations for natural disaster relief, including \$10
+billion for the Agriculture Department to cover agricultural losses;
+\$5.7 billion for Army Corps of Engineers flood and storm damage
+response; \$5 billion for disaster-related community development block
+grants; \$2.6 billion to reimburse states and territories for damage to
+roads and bridges; \$1.36 billion for the Forest Service and \$636
+million for the Interior Department, including for wildfire response;
+\$1.2 billion for Small Business Administration disaster loans; \$895
+million for Navy and Air Force facility repairs; \$345 million for the
+National Oceanic and Atmospheric Administration, including \$200 million
+for fishery disaster response; and \$22 million for the National
+Institute of Standards and Technology to investigate building
+collapses." The vote was on a motion to concur in the Senate amendment.
+The House agreed to the motion by a vote of 254-175 and sent to the
+President and became law. \[House Vote 311,
+[9/30/21](http://clerk.house.gov/evs/2021/roll311.xml); Congressional
+Quarterly, [9/30/21](https://plus.cq.com/vote/2021/H/311?3);
+Congressional Actions, [H.R.
+5305](https://www.congress.gov/bill/117th-congress/house-bill/5305/actions)\]
+
+-   **The Legislation Would Address The Damages Left By Hurricane Ida By
+    Providing \$28.6 Billion In Natural Disaster Relief.** According to
+    Congressional Quarterly, "The measure provides \$28.6 billion to
+    address natural disasters like Hurricane Ida which slammed into the
+    Gulf Coast earlier this month." \[Congressional Quarterly,
+    [9/30/21](https://plus.cq.com/doc/news-6355076?2)\]
+
+### National Disaster Safety Board
+
+**2022: Fitzpatrick Voted To Establish A National Disaster Safety Board
+To Examine Fatal Natural Disaster Events And Recommend Similar Outcomes
+In Future Natural Disasters.** In July 2022, according to Congressional
+Quarterly, Fitzpatrick voted for the Continental Divide Trail Completion
+Act, which would "establish a National Disaster Safety Board to review
+fatal natural disaster events and make recommendations to prevent
+similar outcomes in the future, requiring the Transportation Department
+to transfer \$175 million to the board over four years and providing \$4
+million annually beginning in fiscal 2023 for a board emergency fund."
+The vote was on passage. The House passed the bill by a vote of 218-199,
+thus the bill was sent to the Senate. The Senate did not take
+substantive action on the bill. \[House Vote 414,
+[7/29/22](http://clerk.house.gov/evs/2022/roll414.xml); Congressional
+Quarterly, [7/29/22](https://plus.cq.com/vote/2022/H/414?5);
+Congressional Actions, [H.R.
+5118](https://www.congress.gov/bill/117th-congress/house-bill/5118/actions)\]
+
+### National Oceanic and Atmospheric Administration
+
+**2019: Fitzpatrick Voted To Increase Funding For The NOAA For Improving
+Hurricane, Flood, And Wildfire Forecasting.** In May 2019, Fitzpatrick
+voted for an amendment that would have, according to Congressional
+Quarterly, "increase\[d\] by \$5 million funding for the National
+Oceanic and Atmospheric Administration for the purposes of improving
+hurricane, flood, and wildfire forecasting models." The underlying
+legislation was an FY 2019 disaster relief supplemental appropriations
+bill. The House agreed to the amendment by a vote of 247 to 165. The
+House later passed the underlying bill. \[House Vote 197,
+[5/10/19](http://clerk.house.gov/evs/2019/roll197.xml); Congressional
+Quarterly, [5/10/19](http://cq.com/vote/2019/H/197?0); Congressional
+Actions, [H. Amdt.
+209](https://www.congress.gov/amendment/116th-congress/house-amendment/209/actions);
+Congressional Actions, [H.R.
+2157](https://www.congress.gov/bill/116th-congress/house-bill/2157/all-actions)\]

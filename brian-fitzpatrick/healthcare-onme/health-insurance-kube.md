@@ -1,0 +1,291 @@
+---
+title: Health Insurances
+description: 
+published: true
+date: 2025-09-22T21:14:17.711Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:14:13.575Z
+---
+
+# Health Insurances
+
+### COBRA Premiums And Co-Pays
+
+**2021: Fitzpatrick Voted Against The American Rescue Plan Act Of 2021,
+Which Granted Federal Subsidies Of Individual COBRA Premiums And
+Directed Veteran Affairs To Waive Co-Pays For Health Treatments Through
+September 2021.** In March 2021, Fitzpatrick voted against concurring in
+the Senate amendment to the American Rescue Plan Act of 2021 which
+would, according to Congressional Quarterly, "provide for full federal
+subsidies of individual COBRA premiums and require the VA to waive
+health treatment copayments through September 2021." The vote was on
+concurring in the Senate amendment to the bill. The House concurred with
+the Senate by a vote of 220-211 and sent to the President and ultimately
+the bill became law. \[House Vote 72,
+[3/10/21](http://clerk.house.gov/evs/2021/roll072.xml); Congressional
+Quarterly, [3/10/21](https://plus.cq.com/vote/2021/H/72?24);
+Congressional Actions, [H.R.
+1319](https://www.congress.gov/bill/117th-congress/house-bill/1319/actions)\]
+
+-   **The American Rescue Plan Provided A Temporary Full Subsidy For
+    COBRA Premiums For Unemployment Individuals Who Wished To Keep Their
+    Employer Coverage.** According to AP via CBS News, "Other people who
+    lose their jobs may want to keep their employer coverage. A federal
+    law known as COBRA allows that, but the employee has to pay the full
+    premium, often a prohibitive expense. The bill would provide a
+    temporary 100% subsidy." \[AP via CBS News,
+    [3/9/21](https://www.cbsnews.com/news/covid-relief-bill-health-care-cost-savings/)\]
+
+-   **The American Rescue Plan Fully Covered COBRA Premiums Through
+    September 30, 2021, And Individuals Who Found COBRA Too Costly
+    During Their Initial Eligibility Were Able To Enroll During A New 60
+    Day Window.** According to Health Law, "ARP also pays for 100% of
+    COBRA premiums for individuals through September 30, 2021.
+    Individuals who found COBRA too expensive at the time of their
+    initial eligibility would have a new 60 day window to enroll after
+    being informed of the ARP COBRA provisions." \[Health Law,
+    [3/12/21](https://healthlaw.org/the-american-rescue-plan-act-whats-it-do-for-health/)\]
+
+### Coverage For Congenital Anomalies
+
+**2022: Fitzpatrick Voted To Require Health Insurances To Cover
+Diagnoses And Treatment Services Related To Congenital Anomalies Or
+Birth Defects, Including Dental Care.** In April 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the Ensuring Lasting
+Smiles Act, which would "require health insurers to provide coverage for
+services related to the diagnosis and treatment of congenital anomalies
+or birth defects, including dental or orthodontic care. It would specify
+that coverage must include any medically necessary service that
+functionally improves, repairs or restores normal bodily function or
+appearance, and may not have coverage limits or cost-sharing
+requirements more restrictive than the predominant requirements under
+the plan. It would not require coverage of cosmetic surgery to improve
+appearance or self-esteem." The vote was on passage. The House passed
+the bill by a vote of 310-110, thus the bill was sent to the Senate.
+\[House Vote 109, [4/4/22](http://clerk.house.gov/evs/2022/roll109.xml);
+Congressional Quarterly,
+[4/4/22](https://plus.cq.com/vote/2022/H/109?3); Congressional Actions,
+[H.R.
+1916](https://www.congress.gov/bill/117th-congress/house-bill/1916/actions)\]
+
+### Flexibilities For Employer-Sponsored Health Care
+
+**2023: Fitzpatrick Voted To Create Additional Flexibilities For
+Employers Providing Health Insurance Benefits To Workers, Such As
+Allowing Groups Of Employers And Self-Employed People To Establish Group
+Health Plans, Allowing Employer-Sponsored Health Reimbursement
+Arrangements (HRA), And Preempting States From Restricting Stop-Loss
+Insurance.** In June 2023, according to Congressional Quarterly,
+Fitzpatrick voted for the Custom Health Option and Individual Care
+Expense Arrangement (CHOICE) Act, which would "create additional
+flexibilities for employers providing health insurance. The bill would
+allow groups of employers to establish and maintain group health plans
+for employees. It would require such groups to provide coverage to at
+least 51 employees and to have been in existence for at least two years
+prior to establishing the health plan. It would allow self-employed
+individuals to establish a group for the purpose of maintaining a group
+health plan. The bill would also allow employer-financed health
+reimbursement arrangements (HRA) to be used by employees to purchase
+insurance plans on state exchanges. It would also deem such HRAs
+compliant with requirements under current law for employers to provide
+health insurance coverage. To be eligible, it would require employers to
+offer the same HRA plan to all employees of a certain class, as defined
+by the bill, including full- and part-time employees, employees under
+the same collective bargaining agreement, and non-resident alien
+employees. It would also require employers to give eligible employees 90
+days' written notice prior to the beginning of the plan year of their
+rights and obligations. Among other provisions, the bill would rescind
+\$245 million in fiscal 2024 from the Health and Human Services
+Department's Prevention and Public Health Fund, specify that stop-loss
+policies obtained by a self-insured group health plan or plan sponsor do
+not qualify as health insurance coverage under the Employee Retirement
+Income Security Act, and require the Treasury Department, within one
+year of enactment, to notify employers of the availability of
+tax-advantaged flexible health insurance benefits, with an initial focus
+on small businesses. HR 3799 also contains the text of the Small
+Business Flexibility Act (HR 3798), the Association Health Plans Act (HR
+2868) and the Self-Insurance Protection Act (HR 2813)." The vote was on
+passage. The House passed the bill by a vote of 220 to 209, thus the
+bill was sent to the Senate. \[House Vote 282,
+[6/21/23](http://clerk.house.gov/evs/2023/roll282.xml); Congressional
+Quarterly, [6/21/23](https://plus.cq.com/vote/2023/H/282?3);
+Congressional Actions, [H.R.
+3799](https://www.congress.gov/bill/118th-congress/house-bill/3799/all-actions)\]
+
+-   **Republicans Claimed The Bill Would Expand Health Care Choices For
+    Workers, While Democrats Argued It Hindered The Affordable Care Act
+    And Would Lead To Decreased Comprehensive Coverage.** According to
+    Congressional Quarterly, "The House passed a package of bills
+    Wednesday that Republicans contend would expand health care options
+    for workers, but Democrats argue it would undermine the 2010 health
+    care law and lead to less comprehensive coverage." \[Congressional
+    Quarterly, [6/21/23](https://plus.cq.com/doc/news-7775901?6)\]
+
+-   **The Bill Mainly Focused On GOP-Supported Health Care Policies,
+    Such As Association Health Plans And Health Reimbursement
+    Arrangements, Which The GOP Claimed Would Help Small Businesses
+    Provide Health Benefits To Workers.** According to Congressional
+    Quarterly, "The package (HR 3799), which includes the texts of three
+    additional measures (HR 3798, HR 2868 and HR 2813), passed 220-209
+    on a party-line vote. It would mainly focus on health care policies
+    Republicans have touted for years, like association health plans and
+    health reimbursement arrangements, which they say would help small
+    businesses offer coverage to their workers." \[Congressional
+    Quarterly, [6/21/23](https://plus.cq.com/doc/news-7775901?6)\]
+
+-   **One Provision Would Codify A Trump-Era Regulation That Allowed
+    Employers To Provide Health Reimbursement Arrangements (HRA), Which
+    Provide Workers Employer-Funded Accounts To Buy Insurance On The
+    Individual Market Exchanges.** According to Congressional Quarterly,
+    "One measure, sponsored by Rep. Kevin Hern, R-Okla., would codify a
+    Trump-era rule allowing employers to offer health reimbursement
+    arrangements, which provide employees employer-funded accounts to
+    purchase insurance on the individual market exchanges; Rep. Claudia
+    Tenney's bill would notify small employers about the HRAs and
+    available tax credits." \[Congressional Quarterly,
+    [6/21/23](https://plus.cq.com/doc/news-7775901?6)\]
+
+-   **One Provision Would Permit Small Businesses And Self-Employed
+    Individuals To Collaborate To Purchase Health Insurance And Form
+    Association Health Plans.** According to Congressional Quarterly,
+    "Another bill, sponsored by Rep. Tim Walberg, R-Mich., would allow
+    small businesses and self-employed people to band together to buy
+    health insurance and form association health plans." \[Congressional
+    Quarterly, [6/21/23](https://plus.cq.com/doc/news-7775901?6)\]
+
+-   **Republicans Claimed Associated Health Plans Would Provide Small
+    Business Workers A More Affordable Alternative And Claimed HRAs
+    Would Permit Employers To Offer Health Coverage To Workers Without
+    Managing Complex Health Plans.** According to Congressional
+    Quarterly, "Republicans argue AHPs would give employees of small
+    businesses a more affordable alternative to plans sold on the
+    insurance exchanges, and HRAs would allow employers to provide
+    health care coverage to workers without needing to manage complex
+    health plans." \[Congressional Quarterly,
+    [6/21/23](https://plus.cq.com/doc/news-7775901?6)\]
+
+-   **Democrats Argued That Association Health Plans Can Charge Higher
+    Premium Rates Based On Gender And Age, Claiming Businesses Could
+    Have Healthier Workers Create Association Health Plans Or Transfer
+    Their Sicker Workers Into HRAs.** According to Congressional
+    Quarterly, "Democrats say association health plans are problematic
+    because they can charge higher premiums based on gender and age.
+    Both HSAs and HRAs could lead to higher premiums in the health
+    insurance markets because businesses with healthier workers would
+    leave to create association health plans or shift their sicker
+    workers into HRAs, Democrats argue." \[Congressional Quarterly,
+    [6/21/23](https://plus.cq.com/doc/news-7775901?6)\]
+
+-   **A Provision Would Preempt State Laws That Restrict Employers That
+    Self-Fund Their Plans From Buying "Stop Loss" Insurance To Shield
+    Against Unexpected Claims Losses.** According to Congressional
+    Quarterly, "A third measure included in the package, sponsored by
+    Rep. Bob Good, R-Va., would preempt state laws that prevent
+    employers that self-fund their plans from purchasing 'stop loss'
+    insurance to protect against unexpected claims losses."
+    \[Congressional Quarterly,
+    [6/21/23](https://plus.cq.com/doc/news-7775901?6)\]
+
+-   **Republicans Argued "Stop-Loss" Insurance Was Crucial To The
+    Efficiency Of Self-Funded Plans And Guard Against Some Of The
+    Financial Risks Associated With Providing Health Care Coverage To
+    Workers.** According to Congressional Quarterly, "Under a
+    self-funded plan, employers typically assume all of the financial
+    risk of providing health care coverage to its workers, but in some
+    states can also buy stop-loss to guard against some of that risk.
+    However, some states like New York have barred companies with less
+    than 50 employees from buying stop-loss insurance, which Republicans
+    say is crucial to making self-funded plans work." \[Congressional
+    Quarterly, [6/21/23](https://plus.cq.com/doc/news-7775901?6)\]
+
+**2023: Fitzpatrick Voted For An Amendment That Would Require The Labor
+Department To Notify Small Business Employers In Rural Communities Of
+The Availability Of Tax-Advantaged Health Insurance Benefits.** In June
+2023, according to Congressional Quarterly, Fitzpatrick voted for an
+amendment to the Custom Health Option and Individual Care Expense
+Arrangement (CHOICE) Act, which would "require the Labor Department to
+focus on notifying small business employers in rural areas of the
+availability of tax-advantaged flexible health insurance benefits." The
+vote was on the adoption of an amendment. The House adopted the
+amendment by a vote of 281 to 151. \[House Vote 279,
+[6/21/23](http://clerk.house.gov/evs/2023/roll279.xml); Congressional
+Quarterly, [6/21/23](https://plus.cq.com/vote/2023/H/279?35);
+Congressional Actions, [H.R.
+3799](https://www.congress.gov/bill/118th-congress/house-bill/3799/all-actions);
+Congressional Actions, [H.Amdt.
+208](https://www.congress.gov/amendment/118th-congress/house-amendment/208/actions?s=a&r=2)\]
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Delayed
+Implementation Of The CHOICE Act Until The Labor Department Would Have
+Certified That It Would Not Result In Higher Premium Rates For Senior
+Workers.** In June 2023, according to Congressional Quarterly,
+Fitzpatrick voted against an amendment to the Custom Health Option and
+Individual Care Expense Arrangement (CHOICE) Act, which would "delay the
+effective date of the bill\'s provisions until the Labor Department
+certifies that they would not result in higher premium rates for older
+workers." The vote was on the adoption of an amendment. The House
+rejected the amendment by a vote of 211 to 220. \[House Vote 278,
+[6/21/23](http://clerk.house.gov/evs/2023/roll278.xml); Congressional
+Quarterly, [6/21/23](https://plus.cq.com/vote/2023/H/278?34);
+Congressional Actions, [H.R.
+3799](https://www.congress.gov/bill/118th-congress/house-bill/3799/all-actions);
+Congressional Actions, [H.Amdt.
+207](https://www.congress.gov/amendment/118th-congress/house-amendment/207/actions?s=a&r=3)\]
+
+**2023: Fitzpatrick Effectively Voted For The Custom Health Option And
+Individual Care Expense (CHOICE) Arrangement Act, Which Would Provide
+Flexibilities For Employer-Provided Health Care.** In June 2023,
+according to Congressional Quarterly, Fitzpatrick voted for the
+"adoption of the rule (H Res 524) that would provide for floor
+consideration of \[...\] the Custom Health Option and Individual Care
+Expense (CHOICE) Arrangement Act (HR 3799) \[...\] The rule would
+provide for up to 80 minutes of general debate on HR 3799 and one hour
+of general debate on HR 3564 and H Res 461." The vote was on the
+adoption of the rule. The House adopted the rule by a vote of 215 to
+211. \[House Vote 275,
+[6/21/23](http://clerk.house.gov/evs/2023/roll275.xml); Congressional
+Quarterly, [6/21/23](https://plus.cq.com/vote/2023/H/275?18);
+Congressional Actions, [H.Res.
+524](https://www.congress.gov/bill/118th-congress/house-resolution/524/all-actions);
+Congressional Actions, [H.R.
+3799](https://www.congress.gov/bill/118th-congress/house-bill/3799/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted For The Custom Health Option And
+Individual Care Expense (CHOICE) Arrangement Act, Which Would Provide
+Flexibilities For Employer-Provided Health Care.** In June 2023,
+according to Congressional Quarterly, Fitzpatrick voted for the "motion
+to order the previous question (thus ending debate and possibility of
+amendment) on the rule (H Res 524) that would provide for floor
+consideration of \[...\] the Custom Health Option and Individual Care
+Expense (CHOICE) Arrangement Act (HR 3799) \[...\] The rule would
+provide for up to 80 minutes of general debate on HR 3799 and one hour
+of general debate on HR 3564 and H Res 461." The vote was on a motion to
+order the previous question. The House agreed to the motion by a vote of
+215 to 207. \[House Vote 274,
+[6/21/23](http://clerk.house.gov/evs/2023/roll274.xml); Congressional
+Quarterly, [6/21/23](https://plus.cq.com/vote/2023/H/274?14);
+Congressional Actions, [H.Res.
+524](https://www.congress.gov/bill/118th-congress/house-resolution/524/all-actions);
+Congressional Actions, [H.R.
+3799](https://www.congress.gov/bill/118th-congress/house-bill/3799/all-actions)\]
+
+### Health Care Freedom
+
+**2023: Fitzpatrick Voted To Claim That The Future Of Health Care
+Depends On Healthcare Freedom, Not Socialized Medicine, And That
+Expansion Of Direct Health Care Access Should Be Prioritized Instead Of
+Coverage Expansion.** In June 2023, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Custom Health
+Option and Individual Care Expense Arrangement (CHOICE) Act, which would
+"express the sense of Congress that the 'future of healthcare lies in
+healthcare freedom, not in socialized medicine' and that expanding
+direct access to health care should be prioritized over expanding access
+to coverage." The vote was on the adoption of an amendment. The House
+adopted the amendment by a vote of 228 to 206. \[House Vote 280,
+[6/21/23](http://clerk.house.gov/evs/2023/roll280.xml); Congressional
+Quarterly, [6/21/23](https://plus.cq.com/vote/2023/H/280?2);
+Congressional Actions, [H.R.
+3799](https://www.congress.gov/bill/118th-congress/house-bill/3799/all-actions);
+Congressional Actions, [H.Amdt.
+209](https://www.congress.gov/amendment/118th-congress/house-amendment/209/actions?s=a&r=1)\]

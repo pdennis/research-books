@@ -1,0 +1,208 @@
+---
+title: Build Back Better Act
+description: 
+published: true
+date: 2025-09-22T20:17:20.734Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:17:16.429Z
+---
+
+# Build Back Better Act
+
+**2021: Fitzpatrick Voted To Reconsider The Vote On The Build Back
+Better Act, Which Would Address Climate Change And Social Safety Net
+Policies Through Nearly \$2 Trillion In Investments And Tax Cuts.** In
+November 2021, right after the Build Back Better Act passed, Fitzpatrick
+voted against tabling , thus killing, according to Congressional
+Quarterly, a "motion to reconsider the vote on the fiscal 2022 budget
+reconciliation bill." The vote was on a motion to table. The House
+agreed to the motion by a vote of 217-105. \[House Vote 386,
+[11/19/21](http://clerk.house.gov/evs/2021/roll386.xml); Congressional
+Quarterly, [11/19/21](https://plus.cq.com/vote/2021/H/386?2);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions)\]
+
+**2021: Fitzpatrick Voted Against The Build Back Better Act, Which Would
+Address Climate Change And Social Safety Net Policies Through Nearly \$2
+Trillion In Investments And Tax Cuts.** In November 2021, Fitzpatrick
+voted against the Build Back Better act which would, according to
+Congressional Quarterly, "provide approximately \$2 trillion in
+investments and tax cuts to address climate change and child care,
+health care, education, housing and other social policies intended to
+support families." The vote was on passage. The House passed the bill by
+a vote of 220-213. \[House Vote 385,
+[11/19/21](http://clerk.house.gov/evs/2021/roll385.xml); Congressional
+Quarterly, [11/19/21](https://plus.cq.com/vote/2021/H/385?16);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions)\]
+
+-   **The Congressional Budget Office Estimated That The Build Back
+    Better Act Would Raise The Deficit By More Than \$367 Billion Over
+    10 Years, But Did Not Put Into Consideration The Expected Revenue
+    From Increasing Tax Enforcement.** According to CBS News, "The CBO
+    said it would increase the deficit by more than \$367 billion over
+    10 years. But the estimate did not include the revenue that could be
+    generated from increasing IRS enforcement, which the CBO suggested
+    would be \$207 billion." \[CBS News,
+    [11/19/21](https://www.cbsnews.com/live-updates/build-back-better-passes-house/)\]
+
+-   **According To Treasury Secretary Yellen, The Build Back Better
+    Would Be Paid For Due To Estimates That Tax Enforcement Would
+    Generate \$400 Billion, And Ultimately The Package Would Decrease
+    The National Debt Over Time By Raising Over \$2 Trillion By Raising
+    Taxes On The Rich And Big Corporations.** According to CBS News,
+    "Treasury Secretary Janet Yellen welcomed the CBO's analysis. Noting
+    that the Treasury Department estimates that the crackdown on tax
+    evaders would raise \$400 billion, she said in a statement that the
+    combined CBO score, Joint Committee on Taxation estimates and her
+    own department's analysis 'make it clear that Build Back Better is
+    fully paid for, and in fact will reduce our nation's debt over time
+    by generating more than \$2 trillion through reforms that ask the
+    wealthiest Americans and large corporations to pay their fair
+    share.'" \[CBS News,
+    [11/19/21](https://www.cbsnews.com/live-updates/build-back-better-passes-house/)\]
+
+**2021: Fitzpatrick Effectively Voted Against The Build Back Better Act,
+Which Would Include A Social Safety Net Package And Climate Policy
+Provisions.** In November 2021, when considering the Build Back Better
+Act, Fitzpatrick voted for , according to Congressional Quarterly, a
+"motion to recommit the bill to the House Budget Committee." The vote
+was on a motion to recommit. The House rejected the motion by a vote of
+208-220. \[House Vote 384,
+[11/19/21](http://clerk.house.gov/evs/2021/roll384.xml); Congressional
+Quarterly, [11/19/21](https://plus.cq.com/vote/2021/H/384?15);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against The Build Back Better Act,
+Which Would Include A Social Safety Net Package And Climate Policy
+Provisions.** In November 2021, Fitzpatrick voted against the adoption
+of the rule which would, according to Congressional Quarterly, "provide
+for House floor consideration of the fiscal 2022 budget reconciliation
+bill (HR 5376) containing a package of social safety net and climate
+policy provisions. The rule would provide for up to two hours of debate
+on the bill." The vote was on the adoption of the rule. The House
+adopted the rule by a vote of 221-213. \[House Vote 372,
+[11/6/21](http://clerk.house.gov/evs/2021/roll372.xml); Congressional
+Quarterly, [11/6/21](https://plus.cq.com/vote/2021/H/372?3);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+774](https://www.congress.gov/bill/117th-congress/house-resolution/774/actions)\]
+
+-   **The House Passed The Procedural Votes That Would Open Up Debate
+    And Eventually Pass President Biden's Priority Build Back Better
+    Act, Which Would Provide A Social Safety Net And Address Climate
+    Change.** According to CNBC, "The House of Representatives passed a
+    key procedural vote early Saturday morning to line up eventual
+    passage of the Build Back Better Act, President Joe Biden's
+    signature social safety net and climate change bill." \[CNBC,
+    [11/6/21](https://www.cnbc.com/2021/11/06/biden-build-back-better-bill-passes-procedural-vote-in-house.html)\]
+
+-   **The House Initially Planned On Passing The Bipartisan
+    Infrastructure Bill And The Build Back Better Act Together On
+    November 5th, 2021, But A Group Of Moderates Refused To Vote For The
+    Build Back Better Act Until The Congressional Budget Office Would
+    Disclose The Economic Impacts Of The Bill On The Budget Deficit.**
+    According to CNBC, "The procedural vote on the bigger social
+    services and climate plan represented just a partial victory for the
+    White House and Democratic leaders in the House, who had hoped to
+    pass both the procedural vote and the final bill Friday. \[...\] The
+    final passage plan fell apart late Friday morning, when it became
+    clear that a small group of House moderates would not vote for the
+    bill until they saw an economic analysis from the Congressional
+    Budget Office of the bill's long term impacts on the budget deficit,
+    known as a CBO score." \[CNBC,
+    [11/6/21](https://www.cnbc.com/2021/11/06/biden-build-back-better-bill-passes-procedural-vote-in-house.html)\]
+
+-   **Progressives Threatened To Oppose The Bipartisan Infrastructure
+    Package If The Build Back Better Act Would Not Pass, And Moderates
+    Threatened To Not Vote For The Build Back Better Act Until They Were
+    Assured It Would Not Harm The Economy.** According to CBS News,
+    "Progressives have been threatening to tank the infrastructure bill
+    without passing the Build Back Better Act, while moderates have been
+    threatening to not vote for the bill without further assurances that
+    it will be fully paid for and won't hurt the economy." \[CBS News,
+    [11/6/21](https://www.cbsnews.com/news/infrastructure-bill-build-back-better-house-vote-biden-remarks-2021-11-06/)\]
+
+**2021: Fitzpatrick Effectively Voted Against The Build Back Better Act,
+Which Would Include A Social Safety Net Package And Climate Policy
+Provisions.** In November 2021, Fitzpatrick voted against the motion to
+order the previous question on the rule which would, according to
+Congressional Quarterly, "provide for House floor consideration of the
+fiscal 2022 budget reconciliation bill (HR 5376) containing a package of
+social safety net and climate policy provisions. The rule would provide
+for up to two hours of debate on the bill." The vote was on a motion to
+order the previous question. The House agreed to the motion by a vote of
+221-213. \[House Vote 371,
+[11/6/21](http://clerk.house.gov/evs/2021/roll371.xml); Congressional
+Quarterly, [11/6/21](https://plus.cq.com/vote/2021/H/371?5);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+774](https://www.congress.gov/bill/117th-congress/house-resolution/774/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against The Build Back Better Act,
+Which Would Include A Social Safety Net Package And Climate Policy
+Provisions.** In November 2021, Fitzpatrick voted against the question
+of consideration of the resolution which would, according to
+Congressional Quarterly, "provide for floor consideration of the fiscal
+2022 budget reconciliation bill (HR 5376) containing a package of social
+safety net and climate policy provisions." The vote was on a question of
+consideration. The House agreed to the motion by a vote of 215-212.
+\[House Vote 368,
+[11/5/21](http://clerk.house.gov/evs/2021/roll368.xml); Congressional
+Quarterly, [11/5/21](https://plus.cq.com/vote/2021/H/368?31);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+774](https://www.congress.gov/bill/117th-congress/house-resolution/774/actions)\]
+
+### Manager's Amendment
+
+**2021: Fitzpatrick Effectively Voted Against A Manager's Amendment That
+Would Strike A Provision Of \$2 Billion For The Social Security
+Administration, Modify Requirements For Fund Distribution For
+Infrastructure In U.S. Territories And U.S. Geological Survey Climate
+Adaption Centers, And Make Several Technical Changes.** In November
+2021, Fitzpatrick voted against the adoption of the rule which would,
+according to Congressional Quarterly, "provide for automatic adoption of
+a second Yarmuth D-Ky., manager's amendment during further consideration
+of the fiscal 2022 budget reconciliation bill (HR 5376). The manager\'s
+amendment would strike language providing \$2 billion for Social
+Security Administration administrative expenses; modify requirements for
+distribution of funding provided for critical infrastructure activities
+in U.S. territories and U.S. Geological Survey climate adaptation
+centers; and make a number of technical and conforming changes." The
+vote was on the adoption of the rule. The House adopted the rule by a
+vote of 220-211. \[House Vote 383,
+[11/18/21](http://clerk.house.gov/evs/2021/roll383.xml); Congressional
+Quarterly, [11/18/21](https://plus.cq.com/vote/2021/H/383?11);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+803](https://www.congress.gov/bill/117th-congress/house-resolution/803/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against A Manager's Amendment That
+Would Strike A Provision Of \$2 Billion For The Social Security
+Administration, Modify Requirements For Fund Distribution For
+Infrastructure In U.S. Territories And U.S. Geological Survey Climate
+Adaption Centers, And Make Several Technical Changes.** In November
+2021, Fitzpatrick voted against the adoption of the rule which would,
+according to Congressional Quarterly, "provide for automatic adoption of
+a second Yarmuth D-Ky., manager's amendment during further consideration
+of the fiscal 2022 budget reconciliation bill (HR 5376). The manager\'s
+amendment would strike language providing \$2 billion for Social
+Security Administration administrative expenses; modify requirements for
+distribution of funding provided for critical infrastructure activities
+in U.S. territories and U.S. Geological Survey climate adaptation
+centers; and make a number of technical and conforming changes." The
+vote was on a motion to order the previous question. The House agreed to
+the motion by a vote of 220-210. \[House Vote 382,
+[11/18/21](http://clerk.house.gov/evs/2021/roll382.xml); Congressional
+Quarterly, [11/18/21](https://plus.cq.com/vote/2021/H/382?37);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+803](https://www.congress.gov/bill/117th-congress/house-resolution/803/actions)\]

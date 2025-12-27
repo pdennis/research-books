@@ -1,0 +1,19 @@
+---
+title: Native Americans
+description: 
+published: true
+date: 2025-09-24T20:04:00.754Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:03:56.689Z
+---
+
+# Native Americans
+
+### Guaranteeing Tribal Sovereignty Over The Ability To Grow Genetically Engineered Food On Or Near Tribal Lands
+
+**2015: Schweikert Voted Against An Amendment Guaranteeing Tribal Sovereignty Over The Ability To Grow Genetically Engineered Food On Or Near Tribal Lands.** In July 2015, Schweikert voted against an amendment guaranteeing tribal sovereignty to decide whether to grow genetically engineered foods on or near tribal lands. According to Congressional Quarterly, the amendment would have, "ensure\[d\] tribal sovereignty and would guarantee that the bill does not prohibit or limit the right to cultivate genetically engineered plants on or near tribal lands." The underlying measure was H.R. 1599, which established a voluntary national genetically engineered food certification program whereby food producers could choose to label their products as including or not including genetically engineered ingredients. The vote was on the amendment and the House rejected the amendment 196 to 227. \[House Vote 460, [7/23/15](http://clerk.house.gov/evs/2015/roll460.xml); Congressional Quarterly, [7/23/15](http://www.cq.com/vote/2015/h/460?1); Congressional Actions, [H. Amdt. 679](https://www.congress.gov/amendment/114th-congress/house-amendment/679/actions); Congressional Actions, [HR 1599](https://www.congress.gov/bill/114th-congress/house-bill/1599/all-actions)\]
+
+-   **Rep. Jared Huffman (D-CA): The Amendment Would Explicitly Protect Tribal Decisions About Genetically Engineered Food And Dispense With Any Ambiguity In The Underlying Bill.** According to a floor speech by Rep. Huffman, "I agree with my colleagues: we deserve to know what is in our food, and this bill prevents local and State governments from providing consumers with that information, the information they want. But in today's debate, little has been said about the need to protect the principle of tribal self-governance. I recognize that some of my colleagues believe the manager's amendment addresses any concerns regarding preemption and tribal sovereignty. I disagree. That is why I am offering this amendment to address any potential ambiguity in the bill, and to ensure that tribes can continue to take action on GMOs, as many of them have sought to do. If the underlying bill is supposed to protect tribal sovereignty, I would hope that the bill supporters wouldn\'t mind making that protection explicit by passing this amendment. \[...\] With the significant concerns over GE foods and the proactive steps that tribes are taking on their lands and resources, we ought to make clear that this bill will not affect tribes\' authorities to prohibit or restrict the cultivation of GE plants on or near tribal lands." \[Congressional Record, [7/23/15](https://www.congress.gov/congressional-record/2015/07/23/house-section/article/H5416-1)\]
+
+-   **Rep. Mike Pompeo (R-KA): Tribal Lands Were Sovereign And Would Not Have Been Impacted By The Legislation.** According to a floor speech by Rep. Pompeo, "Mr. Chairman, simply put, H.R. 1599 does not prohibit local governments from passing and enforcing bans on cultivation of genetically engineered crops. Similarly, it does not do that with respect to tribal sovereignty either. The bill before us applies only to the food use and labels. There is nothing in this legislation that any opponent can point to that suggests or implies interference with State or local ordinances related to plant cultivation, period. Likewise, the preemption provision that the amendment seeks to modify only applies to States and political subdivisions thereof. Tribal lands are sovereign. They are not affected." \[Congressional Record, [7/23/15](https://www.congress.gov/congressional-record/2015/07/23/house-section/article/H5416-1)\]

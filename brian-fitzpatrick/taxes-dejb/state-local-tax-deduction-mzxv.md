@@ -1,0 +1,340 @@
+---
+title: State And Local Tax Deduction
+description: 
+published: true
+date: 2025-09-22T21:42:27.368Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:42:22.416Z
+---
+
+# State And Local Tax Deduction
+
+### Cap
+
+**2021: Fitzpatrick Voted Against Increasing The Annual Cap On The
+Deduction For State And Local Taxes From \$10,000 To \$80,000 For Tax
+Years 2021 Through 2030.** In November 2021, Fitzpatrick voted against
+the Build Back Better act which would, according to Congressional
+Quarterly, "temporarily increase from \$10,000 to \$80,000 the annual
+cap on the deduction for state and local taxes for tax years 2021
+through 2030." The vote was on passage. The House passed the bill by a
+vote of 220-213. \[House Vote 385,
+[11/19/21](http://clerk.house.gov/evs/2021/roll385.xml); Congressional
+Quarterly, [11/19/21](https://plus.cq.com/vote/2021/H/385?16);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against A Manager's Amendment To
+The Build Back Better Act, Which Would Increase The Raised Annual Cap To
+\$80,000 On State And Local Tax Deductions For 2021 Through 2030 And
+Reinstate The Cap To \$10,000 In 2031.** In November 2021, Fitzpatrick
+voted against the adoption of the rule which would, according to
+Congressional Quarterly, "provide for automatic adoption of a Yarmuth,
+D-Ky., manager\'s amendment to HR 5376 that would increase from \$72,500
+to \$80,000 the raised annual cap on the deduction for state and local
+taxes for tax years 2021 through 2030, but reinstate the original cap of
+\$10,000 in 2031." The vote was on the adoption of the rule. The House
+adopted the rule by a vote of 221-213, thus the manager's amendment was
+automatically adopted. \[House Vote 372,
+[11/6/21](http://clerk.house.gov/evs/2021/roll372.xml); Congressional
+Quarterly, [11/6/21](https://plus.cq.com/vote/2021/H/372?3);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+774](https://www.congress.gov/bill/117th-congress/house-resolution/774/actions)\]
+
+-   **Before The Amendment, The Legislation Increased The Cap On The
+    Deduction Of State And Local Taxes To \$72,500 From \$10,000 And
+    Extended The Higher Cap Through 2031.** According to CBS News, "The
+    latest version also increases the cap on the deduction of state and
+    local taxes (known as SALT) from \$10,000 to \$72,500 (or \$36,250
+    in the case of an estate, trust or married individual filing a
+    separate return), and extends the higher cap through 2031, instead
+    of 2025." \[CBS News,
+    [11/6/21](https://www.cbsnews.com/news/infrastructure-bill-build-back-better-house-vote-biden-remarks-2021-11-06/)\]
+
+**2021: Fitzpatrick Effectively Voted Against A Manager's Amendment To
+The Build Back Better Act, Which Would Increase The Raised Annual Cap To
+\$80,000 On State And Local Tax Deductions For 2021 Through 2030 And
+Reinstate The Cap To \$10,000 In 2031.** In November 2021, Fitzpatrick
+voted against the motion to order the previous question on the rule
+which would, according to Congressional Quarterly, "provide for
+automatic adoption of a Yarmuth, D-Ky., manager\'s amendment to HR 5376
+that would increase from \$72,500 to \$80,000 the raised annual cap on
+the deduction for state and local taxes for tax years 2021 through 2030,
+but reinstate the original cap of \$10,000 in 2031." The vote was on a
+motion to order the previous question. The House agreed to the motion by
+a vote of 221-213. \[House Vote 371,
+[11/6/21](http://clerk.house.gov/evs/2021/roll371.xml); Congressional
+Quarterly, [11/6/21](https://plus.cq.com/vote/2021/H/371?5);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+774](https://www.congress.gov/bill/117th-congress/house-resolution/774/actions)\]
+
+### Increase
+
+**2024: Fitzpatrick Effectively Voted To Increase The State And Local
+Tax Deduction.** In February 2024, Fitzpatrick voted for , according to
+Congressional Quarterly, "adoption of the rule (H Res 994) that would
+provide for floor consideration of the SALT Marriage Penalty Elimination
+Act (HR 7160) and the resolution (H Res 987) denouncing the Biden
+administration\'s energy policies. The rule would provide for up to one
+hour of debate on each bill." The vote was on the rule. The House
+rejected the motion by a vote of 195 to 225. \[House Vote 48,
+[2/14/24](http://clerk.house.gov/evs/2024/roll048.xml); Congressional
+Quarterly, [2/14/24](https://plus.cq.com/vote/2024/H/48?4);
+Congressional Actions, [H.Res.
+994](https://www.congress.gov/bill/118th-congress/house-resolution/994/all-actions);
+Congressional Actions, [H.R.
+7160](https://www.congress.gov/bill/118th-congress/house-bill/7160/all-actions)\]
+
+-   **The Bill Would Have Doubled The State And Local Tax Deduction For
+    Households Earning Under \$500,000.** According to Congressional
+    Quarterly, "The House rejected a rule that would provide for floor
+    consideration of a bill to double the cap on state and local tax
+    deductions for married couples earning up to \$500,000, striking a
+    blow to legislation championed by blue-state Republicans."
+    \[Congressional Quarterly, 2/14/24\]
+
+### Repeal
+
+**2017: Fitzpatrick Voted For The Final Version Of Trump's Tax Reform
+Plan, Which Substantially Cut Taxes For Rich Americans And Corporations,
+And Significantly Lowered The State And Local Tax Deduction.** In
+December 2017, Fitzpatrick voted for the Tax Cut and Jobs Act, also
+known as Trump's tax reform bill. According to Congressional Quarterly,
+"This Conference Summary deals with the conference report on HR 1, Tax
+Cuts and Jobs Act, which the House will consider Tuesday. The agreement
+significantly cuts corporate and individual taxes and seeks to simply
+the tax code, although most individual tax provisions would expire after
+2025. It reduces the corporate tax from 35% to 21% and reduces taxation
+of so-called 'pass-through' businesses where profits are taxed at the
+individual rate. For corporate taxes it also establishes a 'territorial'
+tax system that exempts most overseas income from U.S. taxation. Most
+individual tax rate rates would be reduced, including by dropping the
+top rate from 39.6% to 37%, and it eliminates personal exemptions but
+nearly doubles the standard deduction so fewer taxpayers will itemize
+deductions." The vote was on passage. The House passed the bill by a
+vote of 227 to 203. The Senate later passed a slightly modified version
+of the bill, which the House later agreed to. President Trump later
+signed an amended version of the bill into law. \[House Vote 692,
+[12/19/17](http://clerk.house.gov/evs/2017/roll692.xml); Congressional
+Quarterly, [12/18/17](http://www.cq.com/doc/har-5236225?0);
+Congressional Actions, [H.R.
+1](https://www.congress.gov/bill/115th-congress/house-bill/1/all-actions)\]
+
+-   **Bill Capped The State And Local Tax Deduction At \$10,000, For
+    Individuals Or Married Couple.** "You can deduct just \$10,000 in
+    state, local and property taxes: One of the most controversial parts
+    of the GOP tax plan is the push to greatly scale back how much state
+    and local taxes Americans can deduct on their federal income taxes.
+    Under current law, the state and local deduction (SALT) is
+    unlimited. In the final GOP plan, people can deduct up to \$10,000
+    (married couples are also limited to just \$10,000). \[...\] The
+    move is widely viewed as a hit to blue states such as New York,
+    Connecticut and California, and there are concerns it could cause
+    property values to fall in high-tax cities and leave less money for
+    public schools and road repairs." \[Washington Post,
+    [12/15/17](https://www.washingtonpost.com/news/wonk/wp/2017/12/15/the-final-gop-tax-bill-is-complete-heres-what-is-in-it/?utm_term=.6baabd4ead20)\]
+
+-   **The State And Local Tax Deduction Is Effectively A Subsidy For
+    Local Services.** According to the Center on Budget and Policy
+    Priorities, "Second, the SALT deduction helps state and local
+    governments fund public services that provide widely shared
+    benefits. That's because, with this deduction, higher-income filers
+    are more willing to support state and local taxes. Repealing the
+    deduction would almost certainly make it harder for states and
+    localities --- many of which already face serious budget strains ---
+    to raise sufficient revenues in the coming years to invest in
+    high-quality education, infrastructure, and other priorities crucial
+    to the nation's long-term economic prospects. State borrowing costs
+    could also rise as bond rating agencies react to the reduced
+    capacity of states to raise adequate revenue, making needed
+    infrastructure projects more expensive. States and localities could
+    also respond by raising taxes or fees that fall less heavily on the
+    higher-income residents most affected by the deduction's loss. That
+    would push more costs to middle- and low-income people, and make
+    state and local tax systems even more regressive overall than they
+    already are." \[Center on Budget Policy Priorities,
+    [10/24/17](https://www.cbpp.org/blog/repeal-of-state-and-local-deduction-is-a-poor-trade-for-tax-cuts-for-wealthy)\]
+
+**2017: Fitzpatrick Effectively Voted To Repeal The State And Local Tax
+Deduction For Income Taxes.** In December 2017, Fitzpatrick voted
+against a motion that, according to Congressional Quarterly,
+"instruct\[ed\] conferees to disagree with the Senate amendment that
+would repeal the individual health insurance mandate, and to recede from
+the section House bill that would eliminate the deduction for state and
+local income taxes through 2025." The vote was on a motion to instruct
+the conference committee on the tax reform bill. The House rejected to
+the motion by a vote of 186 to 233. \[House Vote 654,
+[12/4/17](http://clerk.house.gov/evs/2017/roll654.xml); Congressional
+Quarterly, [12/4/17](http://cq.com/vote/2017/H/654?0); Congressional
+Actions, [H.R.
+1](https://www.congress.gov/bill/115th-congress/house-bill/1/all-actions)\]
+
+### Restoration
+
+**2019: Fitzpatrick Voted For Restoring The State And Local Tax
+Deductions, Lifting A \$10,000 Limit Put In Place By The Trump Tax
+Reform Bill.** In December 2019, Fitzpatrick voted for a bill that
+would, according to Congressional Quarterly, "would reduce or eliminate
+the existing \$10,000 cap on federal tax deductions for state and local
+taxes, which was established under the 2017 tax law, for tax years 2019
+through 2021. Specifically, it would double the cap to \$20,000 for
+married couples filing a joint tax return for tax year 2019, and it
+would eliminate the cap for tax years 2020 and 2021. As amended, the
+bill would retain the cap for taxpayers whose adjusted gross incomes
+exceed \$100 million in a taxable year. As an offset, the bill would
+increase the top individual income tax rate from 37% to 39.6% and it
+would reduce the corresponding income thresholds at which the top tax
+bracket applies." The vote was on passage. The House passed the bill by
+a vote of 218-206. \[House Vote 700,
+[12/19/19](http://clerk.house.gov/evs/2019/roll700.xml); Congressional
+Quarterly, [12/19/19](https://plus.cq.com/vote/2019/H/700?6);
+Congressional Actions,
+[H.R.5377](https://www.congress.gov/bill/116th-congress/house-bill/5377/all-actions?q=%7b%22search%22%3A%5B%22hr+5377%22%5D%7d&s=2&r=1)\]
+
+-   **Restoring The SALT Deductions Was A Top Democratic Priority,
+    Though The Move Was Largely Symbolic.** According to Congressional
+    Quarterly, "House Democrats dealt a symbolic blow to Republicans\'
+    tax code overhaul Thursday on the two-year anniversary of that
+    law\'s passage \[...\] \[the bill\] would make good on a top
+    Democratic tax priority: lifting a \$10,000 limit on state and local
+    tax deductions, known as SALT." \[Congressional Quarterly,
+    [12/19/19](https://plus.cq.com/doc/news-5799212?14)\]
+
+-   **The Bill Allowed Taxpayers To Write Off The Full Cost Of SALT And
+    Doubled The SALT Deduction Limit For Married Couples.** According to
+    Congressional Quarterly, "The bill would generally give taxpayers a
+    two-year reprieve on the deduction limit Republicans imposed as part
+    of their 2017 tax code overhaul. Taxpayers would be able to write
+    off the full cost of state and local taxes when they file 2020 and
+    2021 federal returns. The measure would also double the SALT
+    deduction limit for married couples on 2019 returns."
+    \[Congressional Quarterly,
+    [12/19/19](https://plus.cq.com/doc/news-5799212?14)\]
+
+-   **Joint Committee On Taxation: The Bill Would Provide \$61 Billion
+    In Tax Cuts, With 59% Of The Total Benefit Going To Households That
+    Earn More Than \$500,000.** According to Congressional Quarterly,
+    "According to the Joint Committee on Taxation, in 2021 the total tax
+    cut under the combined effect of removing the SALT cap and raising
+    the top rate would be \$61 billion. Of that figure, about 59 percent
+    of the total benefit would flow to households earning more than
+    \$500,000, who would get an average tax cut of about \$18,000. For
+    millionaire households, the average tax cut jumps to nearly
+    \$32,000." \[Congressional Quarterly,
+    [12/19/19](https://plus.cq.com/doc/news-5799212?14)\]
+
+-   **Congressional Quarterly: The Bill Disproportionately Benefited
+    High-Tax States, Which Democrats Believed Would "Even The Score"
+    After the GOP Tax Bill Imposed The SALT Cap "To Punish Blue
+    States."** According to Congressional Quarterly, "The benefit is
+    unevenly distributed among the states, however. According to a study
+    by the Institute on Taxation and Economic Policy, just three
+    states --- New York, New Jersey and California --- would see nearly
+    59 percent of the benefit. Those three states have 21 percent of the
+    U.S. population, according to census data \[...\] Democrats said the
+    bill would simply even the score with the 2017 tax law, which cut
+    taxes for households in lower-tax states while raising them on their
+    own constituents. Speaker Nancy Pelosi, D-Calif., told reporters
+    earlier that Republicans imposed the SALT cap in order 'to punish
+    blue states.'" \[Congressional Quarterly,
+    [12/19/19](https://plus.cq.com/doc/news-5799212?14)\]
+
+-   **The Bill Increased The Top Marginal Tax Rate From 37 Percent To
+    36.9 Percent To Make Up For Lost Revenue.** According to
+    Congressional Quarterly, "To make up for the bill's estimated
+    \$184.5 billion drain in federal revenues over the coming decade,
+    the measure would increase the top marginal tax rate for individuals
+    from 37 percent to 39.6 percent --- the same level that existed
+    before the GOP tax overhaul. That rate would effectively become
+    permanent, while the SALT cap would return in 2022 under the bill."
+    \[Congressional Quarterly,
+    [12/20/19](https://plus.cq.com/doc/btnews-5799152?26)\]
+
+-   **Republicans Included A Provision That Prevented Households Earning
+    More Than \$100,000 Million From Claiming Unlimited Deductions.**
+    According to Congressional Quarterly, "in a rare procedural
+    victory, House Republicans won approval of an amendment that would
+    prevent households earning more than \$100 million from claiming
+    unlimited deductions. Democratic managers of the bill initially
+    resisted the move, but then agreed to accept it. \[Congressional
+    Quarterly, [12/20/19](https://plus.cq.com/doc/btnews-5799152?26)\]
+
+-   **The White House Threatened To Veto The Bill If It Passed The
+    Senate.** According to Congressional Quarterly, "The White House
+    issued a veto threat this week, saying in a statement that the bill
+    'would force all Federal taxpayers to subsidize a tax break for the
+    wealthy.' The Statement of Administration Policy also said the
+    increase in the top marginal rate would 'stifle economic growth by
+    placing an undue burden on thousands of small businesses.'"
+    \[Congressional Quarterly,
+    [12/19/19](https://plus.cq.com/doc/news-5799212?14)\]
+
+-   **Center For American Progress Opposed The Bill, Stating That It
+    Would "Overwhelmingly Benefit The Wealthy" And "Waste The
+    Opportunity To Invest In Other, More Progressive Priorities.**
+    According to the Center for American Progress, "While \[the\] Tax
+    Cuts and Jobs Act (TCJA) was fundamentally misguided and needs to be
+    overhauled, fully repealing the SALT deduction limit would cost
+    hundreds of billions of dollars in revenue and overwhelmingly
+    benefit the wealthy, not the middle class \[...\] H.R. 5377 offsets
+    the substantial revenue loss from repealing the SALT cap for 2020
+    and 2021 by restoring the pre-TCJA top individual tax rate of 39.6
+    percent and lowering the income thresholds above which the top rate
+    applies. Yet dedicating that revenue to repealing the SALT cap would
+    waste the opportunity to invest it in other, more progressive
+    priorities." \[Center for American progress,
+    [12/10/19](https://www.americanprogress.org/issues/economy/news/2019/12/10/478598/repealing-salt-cap-not-top-priority-reforming-2017-tax-law/)\]
+
+-   **Center On Budget And Policy Priorities Also Opposed The Bill, As
+    It Would Benefit The Wealthy And Ultimately Would Not Address The
+    "Two Central Flaws" Of The 2017 Tax Overhaul.** According to the
+    Center on Budget and Policy Priorities, "By itself, repealing the
+    SALT cap would overwhelmingly benefit high-income households, since
+    most low- and middle-income taxpayers don't face the SALT cap. In
+    addition, paying for repeal by raising the top rate would use up a
+    source of progressive revenue that would no longer be available to
+    fund other, more critical priorities. As a result, the Ways and
+    Means bill would not address two central flaws of the 2017 tax law
+    overall: its steep cost and its heavy tilt toward wealthy
+    individuals and profitable corporations. \[Center on Budget and
+    Policy Priorities,
+    [12/10/19](https://www.cbpp.org/research/federal-tax/repealing-salt-cap-would-be-regressive-and-proposed-offset-would-use-up-needed)\]
+
+**2019: Fitzpatrick Effectively Voted For An Amendment That Provided An
+Exception To The Bill's Elimination Of The \$10K Cap On Federal Tax
+Deductions For State And Local Taxes, So The Cap Would Only Apply To
+Incomes Over \$100 Million.** In December 2019, Fitzpatrick voted for a
+motion to recommit the SALT restoration tax bill to the House Ways and
+Means Committee that would, according to Congressional Quarterly,
+"report it back immediately with an amendment that would make an
+exception to the bill\'s elimination of the \$10,000 cap on federal tax
+deductions for state and local taxes, such that the cap would still
+apply for taxpayers whose adjusted gross incomes exceed \$100 million in
+a taxable year. It would double to \$1,000 the tax deductions
+established by the bill for professional development costs for teachers
+and first responders." The vote was on a motion to recommit. The House
+agreed to the motion by a vote of 388-36. \[House Vote 699,
+[12/19/19](http://clerk.house.gov/evs/2019/roll699.xml); Congressional
+Quarterly, [12/19/19](https://plus.cq.com/vote/2019/H/699?27);
+Congressional Actions,
+[H.R.5377](https://www.congress.gov/bill/116th-congress/house-bill/5377/all-actions?q=%7b%22search%22%3A%5B%22hr+5377%22%5D%7d&s=2&r=1)\]
+
+-   **Congressional Quarterly: The Motion Was "Intended To Put Democrats
+    On The Spot" But Was Ultimately Adopted As An Amendment to The
+    Bill.** According to Congressional Quarterly, "Republicans sought to
+    turn the tables with a procedural motion intended to put Democrats
+    on the spot. The motion to recommit, from Tom Rice of South
+    Carolina, would prohibit householders with adjusted gross income
+    above \$100 million from benefiting, putting the \$7 billion in
+    savings into doubling the new deductions for teachers and first
+    responders. House Ways and Means Select Revenue Subcommittee
+    Chairman Mike Thompson, D-Calif., accepted the language, however.
+    Rice insisted on a roll call vote on his motion anyway, which was
+    adopted 388-36. Rice's proposal was then adopted as an amendment to
+    the underlying bill." \[Congressional Quarterly,
+    [12/19/19](https://plus.cq.com/doc/news-5799212?14)\]

@@ -1,0 +1,104 @@
+---
+title: Regulations
+description: 
+published: true
+date: 2025-09-22T20:16:20.561Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:16:16.377Z
+---
+
+# Regulations
+
+### Digital Assets
+
+**2025: Fitzpatrick Voted To Disapprove An IRS Rule That Established
+Reporting Requirements For Digital Asset Proceeds.** In March 205,
+Fitzpatrick voted for , "the bill that would provide for Congressional
+disapproval of, and nullify, a December 2024 IRS rule related to gross
+proceeds reporting by brokers involved in digital asset sales. The rule
+imposed reporting requirements, beginning in 2027, on non-custodial
+barkers who participate in the decentralized digital asset market. It
+also required brokers to file information returns and provide payee
+statements reporting gross proceeds from certain digital asset sales and
+transactions." The vote was on passage. The House passed the bill by a
+vote of 292 to 132. \[House Vote 71,
+[3/11/25](http://clerk.house.gov/evs/2025/roll071.xml); Congressional
+Quarterly, [3/11/25](https://plus.cq.com/vote/2025/H/71?4);
+Congressional Actions, [H.J. Res.
+25](https://www.congress.gov/bill/119th-congress/house-joint-resolution/25/all-actions)\]
+
+**2024: Fitzpatrick Voted To Establish A Regulatory Framework For
+Determining Jurisdiction Of Digital Assets.** In May 2024, Fitzpatrick
+voted for , according to Congressional Quarterly, "the bill, as amended,
+that would establish a federal regulatory framework for determining when
+the Securities and Exchange Commission or the Commodity Futures Trading
+Commission has jurisdiction over a digital asset, and it would create a
+process for the regulation of a digital asset to move from the SEC to
+the CFTC. Specifically, a digital asset would be subject to SEC
+regulation if it is linked to a blockchain system that is not
+decentralized (to be known as a 'restricted digital asset'), while
+digital assets linked to blockchains on decentralized networks would be
+subject to CFTC regulation (and be known as 'digital commodities'). The
+measure would provide a process for a blockchain system to become
+certified by the SEC as decentralized, at which point the blockchain
+system, its market and intermediaries, and associated digital assets
+would come under the jurisdiction of the CFTC. It would establish
+registration requirements for intermediaries in digital markets under
+both the SEC and the CFTC, generally setting requirements comparable to
+those already in place under current law and regulation. It also would
+require the SEC and CFTC to undertake rulemakings (including joint
+rulemakings) to implement the bill\'s requirements. It also would
+require the agency to collect fees from market entities to fund the
+CFTC\'s new responsibilities for overseeing the digital commodities
+market. As amended, it would apply a bank secrecy law to digital asset
+and digital commodity entities. It also would require the Government
+Accountability Office and the Treasury Department to submit various
+reports to Congress." The vote was on passage. The House passed the bill
+by a vote of 279 to 136. \[House Vote 226,
+[5/22/24](http://clerk.house.gov/evs/2024/roll226.xml); Congressional
+Quarterly, [5/22/24](https://plus.cq.com/vote/2024/H/226?11);
+Congressional Actions, [H.R.
+4763](http://www.congress.gov/bill/118th-congress/house-bill/4763/all-actions)\]
+
+-   **Republican Supporters Of The Bill Stated Comprehensive Regulations
+    Would Encourage The Cryptocurrency Industry And Protect Consumers
+    While Democrat Opponents Stated That The Existing Regulations
+    Work.** According to Congressional Quarterly, "McHenry and other
+    Republicans say creating a comprehensive regulatory regime for
+    cryptocurrency and its markets will encourage the industry and
+    protect consumers. Democrats who oppose the bill say the existing
+    system is working and the measure would create a legal framework
+    that undermines a decades-long test for defining securities."
+    \[Congressional Quarterly,
+    [5/21/24](https://plus.cq.com/doc/news-8016452?16)\]
+
+-   **Democrat Opponents Of The Bill Had Concerns That Investors Would
+    Not Have Adequate Protections Under The Measure And That Certain
+    Securities Would Go Unregulated.** According to Congressional
+    Quarterly, "House Democrats supporting the bill (HR 4763) broke with
+    colleagues who say they're concerned investors won't be protected if
+    the bill\'s provisions to hand much of digital asset oversight to
+    the nation's commodities regulator become law. House Financial
+    Services ranking member Maxine Waters, D-Calif. issued a lengthy
+    warning, saying language was added to the bill after it was marked
+    up that would allow some traditional securities to exist in a
+    'regulatory no-man's-land.'" \[Congressional Quarterly,
+    [6/4/24](https://plus.cq.com/doc/news-8025134?20)\]
+
+### Spot Markets
+
+**2024: Fitzpatrick Voted To Prohibit Regulation Of Spot Markets.** In
+May 2024, Fitzpatrick voted for , according to Congressional Quarterly,
+"amendment no. 4 that would express the sense of Congress that nothing
+in the bill should be interpreted to authorize any entity to regulate
+any commodity, other than a digital commodity, on any spot market." The
+vote was on the amendment. The underlying legislation established a
+system of regulation of digital assets. The House adopted the amendment
+by a vote of 225 to 191. \[House Vote 225,
+[5/22/24](http://clerk.house.gov/evs/2024/roll225.xml); Congressional
+Quarterly, [5/22/24](https://plus.cq.com/vote/2024/H/225?11);
+Congressional Actions,
+[H.Amdt.922](https://www.congress.gov/amendment/118th-congress/house-amendment/922/actions?s=a&r=1);
+Congressional Actions, [H.R.
+4763](http://www.congress.gov/bill/118th-congress/house-bill/4763/all-actions)\]

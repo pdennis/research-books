@@ -1,0 +1,113 @@
+---
+title: Federal Housing Finance Agency
+description: 
+published: true
+date: 2025-09-22T21:20:00.520Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:19:56.363Z
+---
+
+# Federal Housing Finance Agency
+
+### Loan Price Adjustments
+
+**2023: Fitzpatrick Voted To Rescind The Fannie Mae And Freddie Mac
+Loan-Level Pricing Adjustment Framework And Re-Implement The Loan-Level
+Price Adjustment Framework For Single-Family Mortgages That Was In
+Effect Before May 2023.** In June 2023, according to Congressional
+Quarterly, Fitzpatrick voted for the Middle Class Borrower Protection
+Act of 2023, which would "rescind, within 60 days of the bill\'s
+enactment, the Fannie Mae and Freddie Mac loan-level pricing adjustment
+framework issued in 2023 by the Federal Housing Finance Agency. It would
+require the FHFA to reimplement the LLPA framework for single-family
+mortgages that was in effect prior to May 1, 2023. It would prohibit
+FHFA from further modifying the LLPA framework until 90 days after the
+Government Accountability Office has completed a study on the effects of
+the modifications made by FHFA in January 2023. It would require the GAO
+to analyze the methodology used by FHFA to develop the revised LLPAs,
+the economic impact of such revisions, their effects on the safety and
+soundness on Fannie Mae and Freddie Mac, and whether the revised
+framework deviated from the principle of risk-based pricing. It would
+require the GAO to submit a report to Congress on the study within 14
+months of the bill\'s enactment. The bill would require FHFA to follow
+administrative rulemaking procedures as 'close as practicable\' when
+proposing future adjustments to the LLPA framework following the
+completion of the GAO study. It would require such revisions to be
+based, to the 'greatest extent feasible,' on the risk posed by mortgage
+loans to Fannie Mae and Freddie Mac. It would prohibit FHFA or Fannie
+and Freddie from imposing any loan-level pricing adjustment fee that is
+based on a borrower\'s debt-to-income ratio." The vote was on passage.
+The House passed the bill by a vote of 230 to 189, thus the bill was
+sent to the Senate. \[House Vote 289,
+[6/23/23](http://clerk.house.gov/evs/2023/roll289.xml); Congressional
+Quarterly, [6/23/23](https://plus.cq.com/vote/2023/H/289?33);
+Congressional Actions, [H.R.
+3564](https://www.congress.gov/bill/118th-congress/house-bill/3564/all-actions)\]
+
+-   **The Bill Would Rescind The New Fannie Mae And Freddie Mac
+    Loan-Level Pricing Adjustment Framework.** According to
+    Congressional Quarterly, "Convenes at 9 a.m. to consider legislation
+    (HR 3564) to rescind the new Fannie Mae and Freddie Mac loan-level
+    pricing adjustment framework, with votes expected at 10:45 a.m."
+    \[Congressional Quarterly,
+    [6/23/23](https://plus.cq.com/doc/news-7776822?36)\]
+
+-   **Representative Patrick McHenry (R) Claimed The Loan-Level Pricing
+    Adjustment Framework Made Housing Less Affordable, Put Taxpayers At
+    Risk By Threatening The Housing Finance System, And Potentially
+    Imposed An Additional \$1.8 Billion In New Fees For 2 Years For
+    Americans With Credit Scores Over 680.** According to Housingwire,
+    "'The Biden administration wants to use mortgage fees to put their
+    finger on the scale and decide who gets to pay more and who gets to
+    pay less,' House Financial Services Committee Chairman Patrick
+    McHenry (R-N.C.) said in a statement. 'This will make housing less
+    affordable, not more, and puts taxpayers at risk by threatening the
+    safety and soundness of our housing finance system.' Nearly 95% of
+    Americans have credit scores above 680, and the group could face an
+    extra \$1.8 billion in new fees over the next two years under the
+    LLPA plan, according to McHenry." \[Housingwire,
+    [6/27/23](https://www.housingwire.com/articles/house-republicans-pass-bill-to-block-llpa-changes/)\]
+
+-   **FHFA Director Sandra Thompson Shut Down Claims That The Proposed
+    Loan-Level Changes Would Punish Borrowers With Good Credit.**
+    According to Housingwire, "The proposed LLPA changes caused uproar
+    when announced earlier this year. The main issue stemmed from the
+    belief that the changes would punish borrowers with good credit,
+    which FHFA Director Sandra Thompson later characterized as a
+    misconception." \[Housingwire,
+    [6/27/23](https://www.housingwire.com/articles/house-republicans-pass-bill-to-block-llpa-changes/)\]
+
+**2023: Fitzpatrick Effectively Voted For The Middle Class Borrower
+Protection Act, Which Would Rescind Federal Housing Finance Agency Loan
+Price Adjustments.** In June 2023, according to Congressional Quarterly,
+Fitzpatrick voted for the "adoption of the rule (H Res 524) that would
+provide for floor consideration of the Middle Class Borrower Protection
+Act (HR 3564) \[...\] The rule would provide for up to 80 minutes of
+general debate on HR 3799 and one hour of general debate on HR 3564 and
+H Res 461." The vote was on the adoption of the rule. The House adopted
+the rule by a vote of 215 to 211. \[House Vote 275,
+[6/21/23](http://clerk.house.gov/evs/2023/roll275.xml); Congressional
+Quarterly, [6/21/23](https://plus.cq.com/vote/2023/H/275?18);
+Congressional Actions, [H.Res.
+524](https://www.congress.gov/bill/118th-congress/house-resolution/524/all-actions);
+Congressional Actions, [H.R.
+3564](https://www.congress.gov/bill/118th-congress/house-bill/3564/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted For The Middle Class Borrower
+Protection Act, Which Would Rescind Federal Housing Finance Agency Loan
+Price Adjustments.** In June 2023, according to Congressional Quarterly,
+Fitzpatrick voted for the "motion to order the previous question (thus
+ending debate and possibility of amendment) on the rule (H Res 524) that
+would provide for floor consideration of the Middle Class Borrower
+Protection Act (HR 3564) \[...\] The rule would provide for up to 80
+minutes of general debate on HR 3799 and one hour of general debate on
+HR 3564 and H Res 461." The vote was on a motion to order the previous
+question. The House agreed to the motion by a vote of 215 to 207.
+\[House Vote 274,
+[6/21/23](http://clerk.house.gov/evs/2023/roll274.xml); Congressional
+Quarterly, [6/21/23](https://plus.cq.com/vote/2023/H/274?14);
+Congressional Actions, [H.Res.
+524](https://www.congress.gov/bill/118th-congress/house-resolution/524/all-actions);
+Congressional Actions, [H.R.
+3564](https://www.congress.gov/bill/118th-congress/house-bill/3564/all-actions)\]

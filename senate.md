@@ -2,7 +2,7 @@
 title: Senate Races
 description: 
 published: true
-date: 2025-12-27T04:57:20.624Z
+date: 2025-12-27T04:57:24.628Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T03:01:09.377Z

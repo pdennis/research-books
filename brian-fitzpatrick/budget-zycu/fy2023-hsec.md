@@ -1,0 +1,595 @@
+---
+title: FY 2023
+description: 
+published: true
+date: 2025-09-22T20:18:28.473Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:18:23.468Z
+---
+
+# FY 2023
+
+### Agriculture Appropriations
+
+**2023: Fitzpatrick Voted Against Reducing Total Agriculture Funding By
+\$717 Million.** In September 2023, according to Congressional
+Quarterly, Fitzpatrick voted against "amendment no. 102 that would
+reduce the total funding provided by the bill by \$717 million." The
+vote was on the amendment. The House rejected the amendment by a vote of
+71 to 362. \[House Vote 430,
+[9/27/23](http://clerk.house.gov/evs/2023/roll430.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/430?19);
+Congressional Actions, [H.R.
+4368](https://www.congress.gov/bill/118th-congress/house-bill/4368/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Reducing The Salary Of The Director Of
+The FDA's Division Of Risk Management To \$1.** In September 2023,
+according to Congressional Quarterly, Fitzpatrick voted against
+" amendment no. 91 that would reduce the salary of the Food and Drug
+Administration\'s Director of the Division of Risk Management Cynthia
+LaCivita to \$1." The vote was on the amendment. The House rejected the
+amendment by a vote of 159 to 272. \[House Vote 423,
+[9/27/23](http://clerk.house.gov/evs/2023/roll423.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/423?11);
+Congressional Actions, [H.R.
+4368](https://www.congress.gov/bill/118th-congress/house-bill/4368/all-actions)\]
+
+### Appropriations
+
+**2023: Fitzpatrick Effectively Voted For The Defense, Homeland
+Security, Agriculture, And State Appropriations Bills.** In September
+2023, according to Congressional Quarterly, Fitzpatrick voted for the
+"adoption of the rule (H Res 723) that would provide for House floor
+consideration of the Department of Defense Appropriations Act (HR 4365),
+the Department of Homeland Security Appropriations Act (HR 4367), the
+Agriculture, Rural Development, Food and Drug Administration, and
+Related Agencies Appropriations Act (HR 4368) and the Department of
+State, Foreign Operations, and Related Programs Appropriations Act (HR
+4665)." The vote was on the adoption of the rule. The House agreed to
+the motion by a vote of 216 to 212. \[House Vote 406,
+[9/26/23](http://clerk.house.gov/evs/2023/roll406.xml); Congressional
+Quarterly, [9/26/23](https://plus.cq.com/vote/2023/H/406?19);
+Congressional Actions, [H.Res.
+723](https://www.congress.gov/bill/118th-congress/house-resolution/723/all-actions)\]
+
+### Budget Enforcement Authority
+
+**2022: Fitzpatrick Effectively Voted Against Providing Budget
+Enforcement Authority For FY 2023, Which Would Set A Total Discretionary
+Spending Limit Of \$1.603 Trillion Until A FY 2023 Budget Resolution Is
+Adopted By Both Chambers.** In June 2022, according to Congressional
+Quarterly, Fitzpatrick effectively voted against the "automatic
+agreement to a resolution (H Res 1151) that would provide budget
+enforcement authority for fiscal 2023, setting a total discretionary
+spending limit of \$1.603 trillion, applicable until a fiscal 2023
+budget resolution is agreed to in both chambers. It would authorize
+spending cap adjustments of up to \$2.6 billion for wildfire suppression
+activities; up to \$1.5 billion for continuing disability reviews with
+respect to social security benefit eligibility; up to \$576 million for
+the Health and Human Services Department health care fraud and abuse
+control program; and up to \$258 million for Labor Department
+reemployment services and eligibility assessments. It would also
+authorize spending cap adjustments for disaster relief, not to exceed
+certain amounts based on formulas related to spending in the previous 10
+fiscal years, and it would prohibit any fiscal 2023 appropriations
+measures from providing advance appropriations, with the exception of
+funding for certain veterans\' services for fiscal 2024 and up to \$28.9
+billion in new budget authority for other specified programs funded by
+advance appropriations for fiscal years 2024 and 2025." The vote was on
+the adoption of the rule. The House adopted the rule by a vote of
+218-205, thus the resolution was automatically adopted. \[House Vote
+236, [6/8/22](http://clerk.house.gov/evs/2022/roll236.xml);
+Congressional Quarterly,
+[6/8/22](https://plus.cq.com/vote/2022/H/236?26); Congressional Actions,
+[H.Res.
+1151](https://www.congress.gov/bill/117th-congress/house-resolution/1151/actions);
+Congressional Actions, [H.Res.
+1153](https://www.congress.gov/bill/117th-congress/house-resolution/1153/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against Providing Budget
+Enforcement Authority For FY 2023.** In June 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the "motion to order
+the previous question on the rule (H Res 1153) that would provide for
+\[...\] automatic agreement to a resolution (H Res 1151) providing
+budget enforcement authority for fiscal 2023." The vote was on a motion
+to order the previous question. The House agreed to the motion by a vote
+of 217-205. \[House Vote 235,
+[6/8/22](http://clerk.house.gov/evs/2022/roll235.xml); Congressional
+Quarterly, [6/8/22](https://plus.cq.com/vote/2022/H/235?25);
+Congressional Actions, [H.Res.
+1151](https://www.congress.gov/bill/117th-congress/house-resolution/1151/actions);
+Congressional Actions, [H.Res.
+1153](https://www.congress.gov/bill/117th-congress/house-resolution/1153/actions)\]
+
+### Omnibus Appropriations
+
+**2022: Fitzpatrick Voted For The FY 2023 Omnibus Spending Package,
+Which Provided \$1.7 Trillion In Discretionary Funding, Emergency
+Supplemental Appropriations For Ukraine Aid And Disaster Relief.** In
+December 2022, according to Congressional Quarterly, Fitzpatrick voted
+to concur with the Senate amendment to the Consolidated Appropriations
+Act, 2023, which would "provide approximately \$1.7 trillion in
+discretionary funding for the 12 fiscal 2023 appropriations bills and
+emergency supplemental appropriations for aid to Ukraine and disaster
+relief, along with a wide range of other policy provisions." The vote
+was on a motion to concur. The House concurred with the Senate amendment
+by a vote of 225-201, thus bill was sent to President Biden and
+ultimately became law. \[House Vote 549,
+[12/23/22](http://clerk.house.gov/evs/2022/roll549.xml); Congressional
+Quarterly, [12/23/22](https://plus.cq.com/vote/2022/H/549?2);
+Congressional Actions, [S.Amdt.
+6552](https://www.congress.gov/amendment/117th-congress/senate-amendment/6552/actions);
+Congressional Actions, [H.R.
+2617](https://www.congress.gov/bill/117th-congress/house-bill/2617/all-actions)\]
+
+-   **The FY 2023 Omnibus Package Included \$858.4 Billion In Defense
+    Spending, Which Was A 10% Increase From FY 2022, And \$787.4 Billion
+    In Non-Defense Spending, Which Was About An 8% Increase.** According
+    to Congressional Quarterly, "The bill (HR 2617) includes \$858.4
+    billion in defense spending, a 10 percent increase over the previous
+    fiscal year, and \$787.4 billion in nondefense spending, close to an
+    8 percent increase." \[Congressional Quarterly,
+    [12/29/22](https://plus.cq.com/doc/news-7632105?2)\]
+
+-   **The FY 2023 Omnibus Package Provided \$1.65 Trillion In Regular
+    Discretionary Spending, \$47 Billion In Assistance To Ukraine
+    Against Russian Aggression, And About \$38 Billion For Hurricane And
+    Disaster Relief.** According to Congressional Quarterly, "The
+    4,126-page legislation features a total of \$1.65 trillion in
+    regular discretionary spending for fiscal 2023, \$47 billion for
+    Ukraine as it fights Russia's invasion and roughly \$38 billion for
+    hurricane and other disaster relief." \[Congressional Quarterly,
+    [12/29/22](https://plus.cq.com/doc/news-7632105?2)\]
+
+-   **An Amendment Was Included Into The FY 2023 Omnibus That Gave State
+    And Local Governments Greater Flexibility In Spending Coronavirus
+    Relief Federal Funds.** According to Congressional Quarterly, "A
+    proposal from John Cornyn, R-Texas, and Alex Padilla, D-Calif.,
+    would give state and local officials more flexibility in spending
+    coronavirus relief dollars." \[Congressional Quarterly,
+    [12/23/22](https://plus.cq.com/doc/news-7629247?2)\]
+
+-   **The FY 2023 Omnibus Package Included Reforms To The Electoral
+    Vote-Counting Process, Workplace Protections For Pregnant Workers, A
+    Boost To Retirement Savings Rules, And A Prohibition Of TikTok Usage
+    On Federal Devices.** According to CNN, "The sweeping package
+    includes roughly \$45 billion in emergency assistance to Ukraine and
+    NATO allies, an overhaul of the electoral vote-counting law,
+    protections for pregnant workers, an enhancement to retirement
+    savings rules and a TikTok ban on federal devices." \[CNN,
+    [12/29/22](https://www.cnn.com/2022/12/20/politics/spending-bill-congress-omnibus/index.html)\]
+
+-   **The FY 2023 Omnibus Package Enhanced Spending For Disaster Aid,
+    Access To Higher Education, Child Care, Mental Health And Food
+    Assistance, Support For Military And Veterans, And Extra Funding For
+    Capitol Police.** According to CNN, "It also provides a boost in
+    spending for disaster aid, college access, child care, mental health
+    and food assistance, more support for the military and veterans and
+    additional funds for the US Capitol Police." \[CNN,
+    [12/29/22](https://www.cnn.com/2022/12/20/politics/spending-bill-congress-omnibus/index.html)\]
+
+**2022: Fitzpatrick Effectively Voted Against The FY 2023 Omnibus
+Spending Package, Which Provided \$1.7 Trillion In Discretionary
+Funding, Emergency Supplemental Appropriations For Ukraine Aid And
+Disaster Relief.** In December 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "adoption of the rule (H Res
+1531) providing for floor consideration of the Senate amendment to the
+fiscal 2023 omnibus appropriations package (HR 2617)." The vote was on
+the adoption of the rule. The House adopted the rule by a vote of
+215-206. \[House Vote 547,
+[12/23/22](http://clerk.house.gov/evs/2022/roll547.xml); Congressional
+Quarterly, [12/23/22](https://plus.cq.com/vote/2022/H/547?36);
+Congressional Actions, [H.Res.
+1531](https://www.congress.gov/bill/117th-congress/house-resolution/1531/all-actions);
+Congressional Actions, [H.R.
+2617](https://www.congress.gov/bill/117th-congress/house-bill/2617/all-actions)\]
+
+### Second Short Term Appropriations
+
+**2022: Fitzpatrick Voted To Fund The Federal Government At FY 2022
+Levels Through December 23, 2022, Which Prevented A Government
+Shutdown.** In December 2022, according to Congressional Quarterly,
+Fitzpatrick voted to concur with the Senate amendment with a further
+House amendment to the Further Continuing Appropriations and Extensions
+Act, 2023, which would "provide funding for federal government
+operations and services through Dec. 23, 2022, at fiscal 2022 levels. It
+would extend, for the duration of the continuing resolution, a number of
+expiring programs and authorities extended by the prior continuing
+resolution (PL 117-180), including the Temporary Assistance for Needy
+Families program, the National Flood Insurance Program, the U.S. Parole
+Commission, the Indian Health Service, the Federal Communications
+Commission's authority to auction radio spectrum and issue licenses, and
+various Medicare and other health care authorities, offset by a
+reduction of \$30 million for the Medicare Improvement Fund." The vote
+was on a motion to concur. The House concurred with the Senate by a vote
+of 224-201, thus the bill was sent to the Senate for final concurrence.
+The Senate concurred with the House, sent the bill to President Biden,
+and it ultimately became law and prevented a government shutdown.
+\[House Vote 523,
+[12/14/22](http://clerk.house.gov/evs/2022/roll523.xml); Congressional
+Quarterly, [12/14/22](https://plus.cq.com/vote/2022/H/523?51);
+Congressional Actions, [H.R.
+1437](https://www.congress.gov/bill/117th-congress/house-bill/1437/all-actions)\]
+
+-   **The Bill Provided An Additional \$1.7 Million For Several FDA
+    Programs, Including For Incentive Programs That Would Develop
+    Pediatric Drugs, Humanitarian Devices And Orphan Drugs.** According
+    to Congressional Quarterly, "It would provide an additional \$1.7
+    million for various Food and Drug Administration programs extended
+    by the bill, including incentive programs for developing pediatric
+    drugs, humanitarian devices and orphan drugs." \[Congressional
+    Quarterly, [12/14/22](https://plus.cq.com/vote/2022/H/523?51)\]
+
+-   **The One-Week Continuing Resolution Funded The Federal Government
+    Through December 23, 2022 And Provided A Week To Finalize The
+    Omnibus Spending Package.** According to Congressional Quarterly,
+    "The Senate on Thursday cleared a one-week continuing resolution to
+    keep the government funded through Dec. 23, as Appropriations
+    Committee leaders distributed final spending allocations to their
+    dozen subcommittees to ready a sprawling omnibus package they plan
+    to unveil Monday afternoon. The stopgap extension (HR 1437) cleared
+    on a 71-19 vote, likely a benchmark for potential support on the
+    omnibus next week. That measure will start in the Senate, where the
+    plan is to attach it to a shell vehicle (HR 2617) the House sent
+    over Wednesday." \[Congressional Quarterly,
+    [12/15/22](https://plus.cq.com/doc/news-7622730?1)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Further Continuing
+Appropriations And Extensions Act, 2023, Which Was A Second, One-Week FY
+2023 Stopgap Bill.** In December 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "adoption of the rule (H Res
+1518) that would provide for floor consideration of \[...\] a second,
+one-week fiscal 2023 continuing resolution (legislative vehicle HR
+1437), via motion to concur with a House amendment containing the CR
+text. The bill would provide for one hour of general debate for each
+bill." The vote was on the adoption of the rule. The House adopted the
+rule by a vote of 216-206. \[House Vote 521,
+[12/14/22](http://clerk.house.gov/evs/2022/roll521.xml); Congressional
+Quarterly, [12/14/22](https://plus.cq.com/vote/2022/H/521?38);
+Congressional Actions, [H.Res.
+1518](https://www.congress.gov/bill/117th-congress/house-resolution/1518/all-actions);
+Congressional Actions, [H.R.
+1437](https://www.congress.gov/bill/117th-congress/house-bill/1437/all-actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Further Continuing
+Appropriations And Extensions Act, 2023, Which Was A Second, One-Week FY
+2023 Stopgap Bill.** In December 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "motion to order the previous
+question (thus ending debate and possibility of amendment) on the rule
+(H Res 1518) that would provide for floor consideration of \[...\] a
+second, one-week fiscal 2023 continuing resolution (legislative vehicle
+HR 1437), via motion to concur with a House amendment containing the CR
+text. The bill would provide for one hour of general debate for each
+bill." The vote was on a motion to order the previous question. The
+House agreed to the motion by a vote of 212-210. \[House Vote 520,
+[12/14/22](http://clerk.house.gov/evs/2022/roll520.xml); Congressional
+Quarterly, [12/14/22](https://plus.cq.com/vote/2022/H/520?32);
+Congressional Actions, [H.Res.
+1518](https://www.congress.gov/bill/117th-congress/house-resolution/1518/all-actions);
+Congressional Actions, [H.R.
+1437](https://www.congress.gov/bill/117th-congress/house-bill/1437/all-actions?q=%7b%22search%22%3A%5B%22hr+1437%22%5D%7d&s=1&r=15)\]
+
+### Short-Term Appropriations
+
+**2022: Fitzpatrick Voted To Provide Short-Term Federal Funding Through
+December 16, 2022 At FY 2022 Levels, Including \$12.3 Billion To Ukraine
+And Emergency Funding For Afghan Refugee Settlement And Natural Disaster
+Relief.** In September 2022, according to Congressional Quarterly,
+Fitzpatrick voted to concur with the Senate amendment on the Continuing
+Appropriations And Ukraine Supplemental Appropriations Act, 2023, which
+would "provide funding for federal government operations and services
+through Dec. 16, 2022, at fiscal 2022 levels and provide emergency
+funding for Ukraine, Afghan refugee resettlement, and natural disaster
+relief. In supplemental fiscal 2023 appropriations, it would provide
+approximately \$12.3 billion in further military and economic aid to
+Ukraine, including \$7.8 billion for military, intelligence and other
+defense support, \$4.5 billion for bilateral economic support and \$35
+million for nuclear nonproliferation activities." The vote was on a
+motion to concur. The House concurred with the Senate by a vote of
+230-201, thus the bill was sent to President Biden for signage. The bill
+was signed into law. \[House Vote 476,
+[9/30/22](http://clerk.house.gov/evs/2022/roll476.xml); Congressional
+Quarterly, [9/30/22](https://plus.cq.com/vote/2022/H/476?5);
+Congressional Actions, [H.R.
+6833](https://www.congress.gov/bill/117th-congress/house-bill/6833/actions)\]
+
+-   **From The Military And Economic Aid To Ukraine, \$7.8 Billion Would
+    Be For Defense And Intelligence Activities, \$4.5 Billion For
+    Bilateral Economic Support, And \$35 Million For Nuclear
+    Nonproliferation Activities.** According to Congressional Quarterly,
+    "In supplemental fiscal 2023 appropriations, it would provide
+    approximately \$12.3 billion in further military and economic aid to
+    Ukraine, including \$7.8 billion for military, intelligence and
+    other defense support, \$4.5 billion for bilateral economic support
+    and \$35 million for nuclear nonproliferation activities."
+    \[Congressional Quarterly,
+    [9/30/22](https://plus.cq.com/vote/2022/H/476?5)\]
+
+-   **The Stopgap Bill Allowed The Defense Department To Transfer Up To
+    \$3 Billion To The State Department To Support Afghan Refugee
+    Resettlement Activities And Grant \$15.3 Million For FBI
+    Activities.** According to Congressional Quarterly, "It would allow
+    the Defense Department to transfer up to \$3 billion to the State
+    Department to assist with Afghan refugee resettlement and provide
+    \$15.3 million for related FBI investigative activities."
+    \[Congressional Quarterly,
+    [9/30/22](https://plus.cq.com/vote/2022/H/476?5)\]
+
+-   **The Bill Provided \$2.5 Billion For New Mexico's 2022 Hermits
+    Peak/Calf Canyon Wildfire, \$2 Billion For Community Development
+    Block Grants For Disaster Response, And \$20 Million For Water
+    Infrastructure Projects In Jackson, Mississippi With The Army Corps
+    Of Engineers.** According to Congressional Quarterly, "For natural
+    disaster relief, it would provide \$2.5 billion for the 2022 Hermits
+    Peak/Calf Canyon wildfire in New Mexico, \$2 billion for Community
+    Development Block Grants specifically for disaster response, and
+    \$20 million for Army Corps of Engineers water infrastructure
+    projects in Jackson, Miss." \[Congressional Quarterly,
+    [9/30/22](https://plus.cq.com/vote/2022/H/476?5)\]
+
+-   **The Bill Established A New Federal Emergency Management Agency
+    (FEMA) Office To Process Compensation Claims From The New Mexico's
+    2022 Wildfire.** According to Congressional Quarterly, "It would
+    also establish a new Federal Emergency Management Agency office to
+    process compensation claims resulting from the 2022 New Mexico
+    wildfire." \[Congressional Quarterly,
+    [9/30/22](https://plus.cq.com/vote/2022/H/476?5)\]
+
+-   **The Bill Appropriated \$1.8 Billion For Health And Human Services
+    Department Refugee Resettlement Activities, \$1 Billion For Energy
+    Payment Aid For Low-Income Households And \$112.5 For Security In
+    Federal Courts.** According to Congressional Quarterly, "Among other
+    funding, it would provide \$1.8 billion for HHS refugee resettlement
+    activities, \$1 billion for HHS energy payment assistance for
+    low-income households and \$112.5 million for federal court
+    security." \[Congressional Quarterly,
+    [9/30/22](https://plus.cq.com/vote/2022/H/476?5)\]
+
+-   **The Bill Extended Several Expiring Programs And Authorities,
+    Including The Temporary Assistance For Needy Families Program, The
+    National Flood Insurance Program, The Authority To Auction Radio
+    Spectrum And Provide Licenses By The Federal Communications
+    Commission, And Several Medicare Authorities.** According to
+    Congressional Quarterly, "The bill would extend a number of expiring
+    programs and authorities for the duration of the continuing
+    resolution, including the Temporary Assistance for Needy Families
+    program, the National Flood Insurance Program, the Federal
+    Communications Commission's authority to auction radio spectrum and
+    issue licenses, and various Medicare authorities, offset by a
+    reduction of \$192 million for the Medicare Improvement Fund."
+    \[Congressional Quarterly,
+    [9/30/22](https://plus.cq.com/vote/2022/H/476?5)\]
+
+-   **The Bill Extended Several Veterans Affairs Programs Through
+    September Or December 2024, Such As The Homeless And Housing
+    Assistance Programs.** According to Congressional Quarterly, "It
+    would extend various Veterans Affairs Department programs and
+    authorities through Sept. or Dec. 2024, including homelessness and
+    housing assistance programs." \[Congressional Quarterly,
+    [9/30/22](https://plus.cq.com/vote/2022/H/476?5)\]
+
+-   **The Bill Revised And Reauthorized The FDA's User Fee Programs For
+    Prescription Drugs, Medical Devices, Generic Drugs And Biosimilar
+    Biological Products Through FY 2027.** According to Congressional
+    Quarterly, "It would also revise and reauthorize, through fiscal
+    2027, the Food and Drug Administration's user fee programs for
+    prescription drugs, medical devices, generic drugs, and biosimilar
+    biological products." \[Congressional Quarterly,
+    [9/30/22](https://plus.cq.com/vote/2022/H/476?5)\]
+
+-   **The Stopgap Bill Provided Almost \$19 Billion Into FEMA's Main
+    Disaster Relief Fund As Florida Recovers From Hurricane Ian And
+    Puerto Rico Seeks To Repair Its Electricity Grid Due To Hurricane
+    Damages.** According to Congressional Quarterly, "The stopgap also
+    would inject nearly \$19 billion into the Federal Emergency
+    Management Agency's main disaster relief fund as Florida tries to
+    recover from Hurricane Ian and Puerto Rico seeks to rebuild its
+    electricity grid after extensive hurricane damage on the U.S.
+    territory." \[Congressional Quarterly,
+    [9/29/22](https://plus.cq.com/doc/news-7579493?1)\]
+
+-   **The Stopgap Bill Lacked Funding For COVID-19 And Monkeypox
+    Vaccines, Testing And Treatment.** According to NPR, "The
+    legislation does not include funding for vaccines, testing and
+    treatment for the coronavirus or monkeypox that the White House had
+    requested." \[NPR,
+    [9/29/22](https://www.npr.org/2022/09/29/1125749481/government-funding-bill-senate-vote-continuing-resolution)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Continuing
+Appropriations And Ukraine Supplemental Appropriations Act, 2023.** In
+September 2022, according to Congressional Quarterly, Fitzpatrick voted
+against the "adoption of the rule (H Res 1404) that would provide for
+House floor consideration of the fiscal 2023 continuing resolution and
+supplemental funding package (HR 6833)." The vote was on the adoption of
+the rule. The House adopted the rule by a vote of 219-209. \[House Vote
+475, [9/30/22](http://clerk.house.gov/evs/2022/roll475.xml);
+Congressional Quarterly,
+[9/30/22](https://plus.cq.com/vote/2022/H/475?4); Congressional Actions,
+[H.R.
+6833](https://www.congress.gov/bill/117th-congress/house-bill/6833/actions);
+Congressional Actions, [H.Res.
+1404](https://www.congress.gov/bill/117th-congress/house-resolution/1404/actions)\]
+
+-   **Congress Needed To Pass The Stopgap Bill Before September 30th,
+    2022 In Order To Avoid A Partial Government Shutdown.** According to
+    Congressional Quarterly, "Senate leaders released the text and
+    summary of stopgap funding legislation near midnight Monday, in time
+    for a procedural vote Tuesday evening. The continuing resolution
+    must pass by the end of the week to avoid a partial government
+    shutdown when the current fiscal year ends." \[Congressional
+    Quarterly, [9/27/22](https://plus.cq.com/doc/news-7576939?6)\]
+
+-   **The Short-Term Appropriations Bill Included Approximately \$12
+    Billion In Aid To Ukraine, Funding For Afghan Refugee Resettlement,
+    Disaster Aid, And Winter Heating Aid.** According to Congressional
+    Quarterly, "The funding bill includes about \$12 billion in aid for
+    Ukraine, as well as funding for Afghan refugee resettlement,
+    disaster assistance including for Jackson, Miss., and winter heating
+    aid, according to a source familiar with the talks." \[Congressional
+    Quarterly, [9/27/22](https://plus.cq.com/doc/news-7576939?6)\]
+
+-   **Democrats Removed The Controversial Energy Infrastructure
+    Permitting Proposal Sponsored By Senator Joe Manchin.** According to
+    Congressional Quarterly, "The Senate voted 72-23 Tuesday to end
+    debate on the motion to proceed to the continuing resolution, after
+    top Democrats said they'd drop a contentious environmental policy
+    rider that had drawn critiques from the right and left. Sen. Joe
+    Manchin III, D-W.Va., agreed Tuesday to remove his energy
+    infrastructure permitting proposal from the short-term spending
+    bill, eliminating what had been the chief obstacle to bipartisan
+    support. Senate Majority Leader Charles E. Schumer, D-N.Y., said on
+    the floor he accepted Manchin's offer and would offer a new version
+    without the permitting language." \[Congressional Quarterly,
+    [9/27/22](https://plus.cq.com/doc/news-7577649?7)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Continuing
+Appropriations And Ukraine Supplemental Appropriations Act, 2023.** In
+September 2022, according to Congressional Quarterly, Fitzpatrick voted
+against the "motion to order the previous question (thus ending debate
+and possibility of amendment) on the rule (H Res 1404) that would
+provide for House floor consideration of the fiscal 2023 continuing
+resolution and supplemental funding package (HR 6833)." The vote was on
+a motion to order the previous question. The House agreed to the motion
+by a vote of 219-208. \[House Vote 474,
+[9/30/22](http://clerk.house.gov/evs/2022/roll474.xml); Congressional
+Quarterly, [9/30/22](https://plus.cq.com/vote/2022/H/474?2);
+Congressional Actions, [H.R.
+6833](https://www.congress.gov/bill/117th-congress/house-bill/6833/actions);
+Congressional Actions, [H.Res.
+1404](https://www.congress.gov/bill/117th-congress/house-resolution/1404/actions)\]
+
+### Six-Bill Appropriations Package
+
+**2022: Fitzpatrick Effectively Voted Against Transportation, Housing
+And Urban Development, And Related Agencies Appropriations Act, 2023.**
+In July 2022, according to Congressional Quarterly, Fitzpatrick voted
+against the "adoption of the rule (H Res 1232) that would provide for
+one hour of general debate on each bill." The vote was on the adoption
+of the rule. The House adopted the rule by a vote 219-200. \[House Vote
+366, [7/19/22](http://clerk.house.gov/evs/2022/roll366.xml);
+Congressional Quarterly,
+[7/19/22](https://plus.cq.com/vote/2022/H/366?4); Congressional Actions,
+[H.R.
+8294](https://www.congress.gov/bill/117th-congress/house-bill/8294/actions);
+Congressional Actions, [H.Res.
+1232](https://www.congress.gov/bill/117th-congress/house-resolution/1232/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against Transportation, Housing
+And Urban Development, And Related Agencies Appropriations Act, 2023.**
+In July 2022, according to Congressional Quarterly, Fitzpatrick voted
+against the "motion to order the previous question (thus ending debate
+and possibility of amendment) on the rule (H Res 1232) that would
+provide for one hour of general debate on each bill." The vote was on a
+motion to order the previous question. The House agreed to the motion by
+a vote 219-199. \[House Vote 365,
+[7/19/22](http://clerk.house.gov/evs/2022/roll365.xml); Congressional
+Quarterly, [7/19/22](https://plus.cq.com/vote/2022/H/365?2);
+Congressional Actions, [H.R.
+8294](https://www.congress.gov/bill/117th-congress/house-bill/8294/actions);
+Congressional Actions, [H.Res.
+1232](https://www.congress.gov/bill/117th-congress/house-resolution/1232/actions)\]
+
+### Third Short Term Appropriations
+
+**2022: Fitzpatrick Effectively Voted Against A Third Additional
+One-Week Stopgap Bill That Funded The Federal Government Through
+December 30, 2022 At FY 2022 Levels, Which Avoided A Government
+Shutdown.** In December 2022, according to Congressional Quarterly,
+Fitzpatrick voted against the "automatic passage of / agreement to: an
+additional one-week continuing resolution (HR 4373); \[...\] HR 4373
+would provide funding for federal government operations and services for
+an additional week through Dec. 30, 2022, at fiscal 2022 levels and
+extend, for the same period, expiring programs and authorities extended
+by the prior continuing resolutions (PL 117-180, PL 117-229)." The vote
+was on the adoption of the rule and automatic passage of the bill. The
+House adopted the rule and passed the bill by a vote of 215-206, thus
+the bill was sent to President Biden and it ultimately became law.
+\[House Vote 547,
+[12/23/22](http://clerk.house.gov/evs/2022/roll547.xml); Congressional
+Quarterly, [12/23/22](https://plus.cq.com/vote/2022/H/547?36);
+Congressional Actions, [H.Res.
+1531](https://www.congress.gov/bill/117th-congress/house-resolution/1531/all-actions);
+Congressional Actions, [H.R.
+4373](https://www.congress.gov/bill/117th-congress/house-bill/4373/all-actions)\]
+
+### Transportation, Housing And Urban Development, And Related Agencies
+
+**2022: Fitzpatrick Voted Against Appropriating \$402.1 Billion In FY
+2023 Discretionary Funding For The Departments Of Transportation,
+Housing And Urban Development, Agriculture, Energy, Treasury, Interior,
+Veterans Affairs, Environmental Protection Agency, And Federal Judiciary
+And Executive Agencies.** In July 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the Transportation, Housing and
+Urban Development, and Related Agencies Appropriations Act, 2023, which
+would "provide roughly \$402.1 billion in scored discretionary funding
+for six of the 12 fiscal 2023 appropriations bills, including \$168.5
+billion for the Transportation and Housing and Urban Development
+departments and related agencies; \$27.2 billion for the Agriculture
+Department and related agencies; \$56.3 billion for the Energy
+Department and federal water projects; \$29.8 billion for the Treasury
+Department, federal judiciary and executive agencies; \$44.8 billion for
+the Interior Department, Environmental Protection Agency and related
+agencies; and \$150.5 billion for the Veterans Affairs Department,
+military construction and related agencies." The vote was on passage.
+The House passed the bill by a vote 220-207, thus the bill was sent to
+the Senate. The Senate did not take substantive action on the
+legislation. Congress passed and signed into law the FY 2023 Budget
+through H.R. 2617. \[House Vote 383,
+[7/20/22](http://clerk.house.gov/evs/2022/roll383.xml); Congressional
+Quarterly, [7/20/22](https://plus.cq.com/vote/2022/H/383?13);
+Congressional Actions, [H.R.
+8294](https://www.congress.gov/bill/117th-congress/house-bill/8294/actions)\]
+
+-   **The Bill Included A 18% Increase In Funding To The Departments Of
+    Interior And Energy And Related Agencies And Included Spending
+    Increases In Military Construction And The Departments Of Veterans
+    Affairs, Housing And Urban Development, And Transportation.**
+    According to The Hill, "The legislation passed Wednesday includes
+    funding for a slew of Democratic-backed priorities, with a proposed
+    18 percent boost in spending from the current fiscal year's levels
+    for the Department of the Interior, the Department of Energy and
+    related agencies, as well as double digit spending increases in
+    areas like military construction and the VA, HUD and DOT." \[The
+    Hill,
+    [7/20/22](https://thehill.com/policy/3567710-house-approves-over-400-billion-of-government-funding-in-minibus-package/)\]
+
+-   **The Bill Included A 17% Increase For FY 2023 To Financial Services
+    And General Government Funding, Including Funding For The Small
+    Business Administration, Election Security Grants, And The IRS To
+    Combat Tax Evasion By The Wealthy.** According to The Hill, "The
+    House also approved a 17 percent boost in dollars for the 2023
+    financial services and general government funding, which includes
+    funding for the Small Business Administration, election security
+    grants and measures Democrats say are aimed at rebuilding the IRS to
+    ensure wealthy corporations and individuals pay their 'fair share.'"
+    \[The Hill,
+    [7/20/22](https://thehill.com/policy/3567710-house-approves-over-400-billion-of-government-funding-in-minibus-package/)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Transportation,
+Housing And Urban Development, And Related Agencies Appropriations Act,
+2023.** In July 2022, according to Congressional Quarterly, Fitzpatrick
+voted for "motion to recommit the bill to the House Appropriations
+Committee." The vote was on a motion to recommit. The House rejected the
+motion by a vote 206-219, thus the House voted on passage subsequently.
+\[House Vote 382,
+[7/20/22](http://clerk.house.gov/evs/2022/roll382.xml); Congressional
+Quarterly, [7/20/22](https://plus.cq.com/vote/2022/H/382?5);
+Congressional Actions, [H.R.
+8294](https://www.congress.gov/bill/117th-congress/house-bill/8294/actions)\]
+
+**2022: Fitzpatrick Voted Against An Amendment That Would Have Reduced
+Overall Funding Authorized Under The FY 2023 Budget For Transportation,
+Housing And Urban Development And Related Agencies.** In July 2022,
+according to Congressional Quarterly, Fitzpatrick voted against an
+amendment to the Transportation, Housing and Urban Development, and
+Related Agencies Appropriations Act, 2023, which would "reduce overall
+funding levels authorized throughout the bill." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote
+199-229. \[House Vote 367,
+[7/19/22](http://clerk.house.gov/evs/2022/roll367.xml); Congressional
+Quarterly, [7/19/22](https://plus.cq.com/vote/2022/H/367?4);
+Congressional Actions, [H.Amdt.
+293](https://www.congress.gov/amendment/117th-congress/house-amendment/293/actions?r=9&s=a);
+Congressional Actions, [H.R.
+8294](https://www.congress.gov/bill/117th-congress/house-bill/8294/actions)\]

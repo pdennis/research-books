@@ -1,0 +1,101 @@
+---
+title: Interior-Environment Appropriations
+description: 
+published: true
+date: 2025-09-22T20:56:09.341Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:56:05.094Z
+---
+
+# Interior-Environment Appropriations
+
+### FY 2025
+
+**2024: Fitzpatrick Voted Against The FY 2025 Interior-Environment
+Appropriations.** In July 2024, Fitzpatrick voted against , according to
+Congressional Quarterly, "the bill, as amended, that would provide
+\$42.2 billion in discretionary funding for the EPA, U.S. Forest
+Service, Interior Department agencies and related programs\--\$38.5
+billion of which would fall under discretionary spending caps and \$2.75
+billion under the wildfire suppression cap adjustment. The bill would
+provide \$7.4 billion in funding for the EPA. \[...\] It also would
+provide \$15.1 billion for the Interior Department, including \$3.1
+billion for the National Park Service and \$1.3 billion for the Bureau
+of Land Management. It would provide \$8.4 billion for the U.S. Forest
+Service. \[...\] It would provide \$204 million each for the National
+Endowment for the Arts and the National Endowment for the Humanities.
+The bill also includes \$1 billion in earmarks for 895 projects
+requested by members." The vote was on passage. The House rejected the
+bill by a vote of 178 to 234. \[House Vote 399,
+[7/24/24](http://clerk.house.gov/evs/2024/roll399.xml); Congressional
+Quarterly, [7/24/24](https://plus.cq.com/vote/2024/H/399?3);
+Congressional Actions, [H.R.
+8998](https://www.congress.gov/bill/118th-congress/house-bill/8998/all-actions)\]
+
+-   **The Bill Restricted The EPA From Implementing Various Standards
+    And Fees.** According to Congressional Quarterly, "It would restrict
+    the EPA from taking numerous actions, including finalizing or
+    implementing emissions standards, imposing certain methane fees on
+    oil and gas producers, as well as implementing vehicle fuel
+    standards." \[Congressional Quarterly,
+    [7/24/24](https://plus.cq.com/vote/2024/H/399?3)\]
+
+-   **The Bill Required The Department Of The Interior To Resume The
+    Issuance Of Oil And Gas Leases, Prohibited The Cancellation Of
+    Leases, Required The Reinstatement Of Two Mineral Mining Leases In
+    Minnesota, And Prohibited Certain Species From Being Listed As
+    Endangered.** According to Congressional Quarterly, "The bill would
+    require the Interior Department to resume issuing offshore oil and
+    gas leases and prohibit the cancellation of leases in the Arctic
+    National Wildlife Refuge or National Petroleum Reserve in Alaska. It
+    would require the BLM to reinstate two mineral mining leases in the
+    Superior National Forest in Minnesota and it would prohibit certain
+    species from being designated as endangered or threatened under the
+    Endangered Species Act and require the gray wolf to be delisted."
+    \[Congressional Quarterly,
+    [7/24/24](https://plus.cq.com/vote/2024/H/399?3)\]
+
+-   **Overall Funding Was Cut By .2 Percent From The Previous Fiscal
+    Year With The EPA Base Budget Facing A 20% Cut, The Smithsonian A
+    12% Cut, The National Parks Service A 6% Cut, And The Council On
+    Environmental Quality An 80% Cut.** According to Congressional
+    Quarterly, "The base bill would provide about \$38.5 billion for the
+    EPA, most of the Interior Department and a range of environmental
+    and cultural agencies, from the Smithsonian Institution to the
+    National Endowment for the Arts. From a technical accounting
+    standpoint, that\'s a slight trim, about \$72 million, or about 0.2
+    percent on average, from the current fiscal year\'s comparable
+    level. Some parts of the bill would be cut more deeply than others:
+    EPA\'s base budget would be sliced by 20 percent, the Smithsonian by
+    12 percent and the National Park Service would take a 6 percent hit.
+    The relatively tiny Council on Environmental Quality would see its
+    funding cut by nearly 80 percent, down to just \$1 million."
+    \[Congressional Quarterly,
+    [7/24/24](https://plus.cq.com/doc/news-8058720?2)\]
+
+-   **Partisan Amendments Banned The EPA From Implementing Or Allowing
+    Certain Vehicle Standards And Prohibited Funding For The EPA's
+    Justice, Equity, Diversity, And Inclusion Workgroup.** According to
+    Congressional Quarterly, "These included amendments to bar the EPA
+    from implementing its heavy-duty vehicle emissions standards;
+    another that would prohibit funds for the EPA's Justice, Equity,
+    Diversity and Inclusion Workgroup; and one that would bar the EPA
+    from allowing California to set more stringent standards for
+    locomotive emissions." \[Congressional Quarterly,
+    [7/24/24](https://plus.cq.com/doc/news-8058720?2)\]
+
+**2024: Fitzpatrick Voted Against Prohibiting The Use Of
+Interior-Environment Funds For Diversity, Equity, And Inclusion
+Programs.** In July 2024, Fitzpatrick voted against , according to
+Congressional Quarterly, "amendment no. 25 that would prohibit the use
+of funds under the bill for diversity, equity and inclusion programs."
+The vote was on the amendment. The underlying legislation was the FY
+2025 Interior-Environment appropriations. The House adopted the
+amendment by a vote of 211 to 202. \[House Vote 388,
+[7/24/24](http://clerk.house.gov/evs/2024/roll388.xml); Congressional
+Quarterly, [7/24/24](https://plus.cq.com/vote/2024/H/388?3);
+Congressional Actions,
+[H.Amdt.1145](https://www.congress.gov/amendment/118th-congress/house-amendment/1145/actions);
+Congressional Actions, [H.R.
+8998](https://www.congress.gov/bill/118th-congress/house-bill/8998/all-actions)\]

@@ -1,0 +1,160 @@
+---
+title: National Competitiveness
+description: 
+published: true
+date: 2025-09-22T21:37:54.008Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:37:49.500Z
+---
+
+# National Competitiveness
+
+### Energy Department Activities
+
+**2022: Fitzpatrick Voted To Authorize Over \$67 Billion Through FY 2027
+For Science Activities At The Department Of Energy, Including For
+Research And Development Related To Renewable And Alternative Energy And
+Microelectronics Manufacturing.** In July 2022, according to
+Congressional Quarterly, Fitzpatrick voted to concur with the Senate
+amendment to the Chips and Science Act, which would "authorize more than
+\$67 billion through fiscal 2027 for Energy Department science
+activities, including for laboratory upgrades and research and
+development related to renewable and alternative energy, quantum
+technologies, energy technology commercialization and microelectronics
+manufacturing." The vote was on a motion to concur. The House concurred
+with the Senate by a vote of 243-187, thus the bill was sent to the
+President. \[House Vote 404,
+[7/28/22](http://clerk.house.gov/evs/2022/roll404.xml); Congressional
+Quarterly, [7/28/22](https://plus.cq.com/vote/2022/H/404?12);
+Congressional Actions, [H.R.
+4346](https://www.congress.gov/bill/117th-congress/house-bill/4346/actions)\]
+
+-   **Within The Reserved Funding For The Energy Department, \$15
+    Billion Would Go Towards Basic Energy Sciences, \$7 Billion For Each
+    Advanced Scientific Computing And High-Energy Physics, \$16 Billion
+    For Nuclear Physics, And Almost \$5 Billion For Biological And
+    Environmental Sciences.** According to Congressional Quarterly, "The
+    bill would also provide five-year funding authorizations for various
+    Energy Department research and development programs and facility
+    upgrades, including roughly \$15 billion for basic energy sciences,
+    around \$7 billion each for advanced scientific computing and
+    high-energy physics, roughly \$6 billion for nuclear physics and
+    nearly \$5 billion for biological and environmental sciences, among
+    others." \[Congressional Quarterly,
+    [7/27/22](https://plus.cq.com/doc/news-7535056?3)\]
+
+### Federal Research And Development Priorities
+
+**2022: Fitzpatrick Voted To Identify "Key Technology Focus" Areas As
+Federal Research And Development Priorities, Including Artificial
+Intelligence, Automation And Advanced Manufacturing, Quantum Computing,
+Biotechnology And Advanced Energy.** In July 2022, according to
+Congressional Quarterly, Fitzpatrick voted to concur with the Senate
+amendment to the Chips and Science Act, which would "identify 'key
+technology focus' areas as federal research and development priorities,
+including artificial intelligence, automation and advanced
+manufacturing, quantum computing, biotechnology and advanced energy."
+The vote was on a motion to concur. The House concurred with the Senate
+by a vote of 243-187, thus the bill was sent to the President. \[House
+Vote 404, [7/28/22](http://clerk.house.gov/evs/2022/roll404.xml);
+Congressional Quarterly,
+[7/28/22](https://plus.cq.com/vote/2022/H/404?12); Congressional
+Actions, [H.R.
+4346](https://www.congress.gov/bill/117th-congress/house-bill/4346/actions)\]
+
+-   **The Bill Established An Interagency Initiative To Advance
+    Engineering Biology And Bio-Manufacturing Research And
+    Development.** According to Congressional Quarterly, "It would
+    establish an interagency initiative to advance research and
+    development in engineering biology and biomanufacturing."
+    \[Congressional Quarterly,
+    [7/28/22](https://plus.cq.com/vote/2022/H/404?12)\]
+
+-   **The Bill Authorized Several Programs To Expand Workforce
+    Development, Education And Participation Of Minorities In The Field
+    Of STEM.** According to Congressional Quarterly, "It would authorize
+    a variety of programs to expand workforce development, education and
+    participation of underrepresented groups in the fields of science,
+    technology, engineering and mathematics." \[Congressional Quarterly,
+    [7/28/22](https://plus.cq.com/vote/2022/H/404?12)\]
+
+-   **The Bill Increased Funding For Various Research Programs That
+    Would Cost Approximately \$200 Billion Over The Span Of A Decade.**
+    According to the Associated Press, "It calls for increased spending
+    on various research programs that would total about \$200 billion
+    over 10 years, according to the Congressional Budget Office."
+    \[Associated Press,
+    [7/29/22](https://apnews.com/article/biden-science-technology-united-states-economy-2fa651c540c9869890dfe670bcdcb7ea)\]
+
+-   **According To The Congressional Budget Office, The Research And
+    Technological Innovation Spending Would Increase The Deficit By
+    Approximately \$79 Billion Over The Decade.** According to the
+    Associated Press, "The CBO also projected that the bill would
+    increase deficits by about \$79 billion over the coming decade."
+    \[Associated Press,
+    [7/29/22](https://apnews.com/article/biden-science-technology-united-states-economy-2fa651c540c9869890dfe670bcdcb7ea)\]
+
+### NASA Programs And Activities
+
+**2022: Fitzpatrick Voted To Authorize New And Existing NASA Programs
+And Activities, Including A Program For Human Exploration Of The Moon
+And Mars And Development Prioritization Of Nuclear Propulsion And
+Low-Enriched Uranium Technologies.** In July 2022, according to
+Congressional Quarterly, Fitzpatrick voted to concur with the Senate
+amendment to the Chips and Science Act, which would "authorize new and
+existing NASA programs and activities, including to formally authorize a
+program to support human exploration of the moon and Mars and require
+NASA to prioritize development of nuclear propulsion and low-enriched
+uranium technologies." The vote was on a motion to concur. The House
+concurred with the Senate by a vote of 243-187, thus the bill was sent
+to the President. \[House Vote 404,
+[7/28/22](http://clerk.house.gov/evs/2022/roll404.xml); Congressional
+Quarterly, [7/28/22](https://plus.cq.com/vote/2022/H/404?12);
+Congressional Actions, [H.R.
+4346](https://www.congress.gov/bill/117th-congress/house-bill/4346/actions)\]
+
+### Regional Technology Innovation Hubs
+
+**2022: Fitzpatrick Voted To Authorize \$11 Billion Through FY 2027 For
+Economic Development Activities At The Commerce Department, Primarily
+For Regional Technology Innovation Hubs.** In July 2022, according to
+Congressional Quarterly, Fitzpatrick voted to concur with the Senate
+amendment to the Chips and Science Act, which would "authorize \$11
+billion through fiscal 2027 for Commerce Department economic development
+activities, primarily for regional technology innovation hubs designated
+by the Economic Development Administration." The vote was on a motion to
+concur. The House concurred with the Senate by a vote of 243-187, thus
+the bill was sent to the President. \[House Vote 404,
+[7/28/22](http://clerk.house.gov/evs/2022/roll404.xml); Congressional
+Quarterly, [7/28/22](https://plus.cq.com/vote/2022/H/404?12);
+Congressional Actions, [H.R.
+4346](https://www.congress.gov/bill/117th-congress/house-bill/4346/actions)\]
+
+-   **The Funding Provided To The Commerce Department Included \$10
+    Billion For Regional Technology Hubs And \$1 Billion For An Economic
+    Development Grant Pilot Program For "Persistently Distressed
+    Communities."** According to Congressional Quarterly, "The \$11
+    billion Commerce Department authorization, all of which is on top of
+    baseline funding, includes \$10 billion for regional technology hubs
+    and \$1 billion for a pilot program to provide economic development
+    grants to persistently distressed communities." \[Congressional
+    Quarterly, [7/27/22](https://plus.cq.com/doc/news-7535056?3)\]
+
+### U.S. Capabilities And National Science And Technology Strategies
+
+**2022: Fitzpatrick Voted To Require The White House Office Of Science
+And Technology Policy To Evaluate U.S. Capabilities Every Four Years And
+Develop Science And Technology Strategies To Advance National
+Competitiveness.** In July 2022, according to Congressional Quarterly,
+Fitzpatrick voted to concur with the Senate amendment to the Chips and
+Science Act, which would "require the White House Office of Science and
+Technology Policy to review quadrennially U.S. capabilities and develop
+a national science and technology strategy to improve national
+competitiveness." The vote was on a motion to concur. The House
+concurred with the Senate by a vote of 243-187, thus the bill was sent
+to the President. \[House Vote 404,
+[7/28/22](http://clerk.house.gov/evs/2022/roll404.xml); Congressional
+Quarterly, [7/28/22](https://plus.cq.com/vote/2022/H/404?12);
+Congressional Actions, [H.R.
+4346](https://www.congress.gov/bill/117th-congress/house-bill/4346/actions)\]

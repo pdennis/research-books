@@ -1,0 +1,152 @@
+---
+title: Puerto Rico
+description: 
+published: true
+date: 2025-09-22T20:26:13.446Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:26:09.239Z
+---
+
+# Puerto Rico
+
+### Referendum
+
+**2022: Fitzpatrick Voted To Require Puerto Rico State Elections
+Commission To Hold A Referendum, Which Would Determine Puerto Rico's
+Status As An Independent Sovereign Nation, A Sovereign Nation In Free
+Association With The United States, Or A U.S. State.** In December 2022,
+according to Congressional Quarterly, Fitzpatrick voted for the Puerto
+Rico Status Act, which would "require the Puerto Rico State Elections
+Commission to hold a plebiscite on Nov. 5, 2023, to determine the
+political status of Puerto Rico and establish transitional procedures
+based on the vote outcome. It would require a majority vote to approve
+Puerto Rico's status as an independent sovereign nation, a sovereign
+nation in free association with the United States or a U.S. state. If no
+status receives a majority of votes, it would require a runoff election
+on March 3, 2024. The bill would establish procedures for the Justice
+Department to review ballot design and voter education materials for the
+plebiscite and authorize such sums as necessary for the Puerto Rico
+elections commission to carry out a voter education campaign on how each
+outcome would impact international representation, citizenship and
+immigration, and treatment under U.S. federal law and programs. In the
+case of statehood, the bill would require the U.S. president, upon
+receiving the plebiscite results, to issue a proclamation admitting
+Puerto Rico to the Union as a state, effective within one year. It would
+specify that the current constitution of Puerto Rico would be its state
+constitution, and all territorial laws would continue until amended or
+repealed by the state. It would provide for Puerto Rico to elect two
+senators and the same number of House members as the state with the
+census population closest to, but less than, that of Puerto Rico,
+temporarily increasing total House membership until the next
+census-based reapportionment cycle. In the case of independence or free
+association, the bill would require the election of delegates to a
+constitutional convention within six months of the election's
+certification; a vote on ratification of the constitution within one
+year of the convention; and an election for officers of the new nation
+within one month of ratification. It would require the U.S. president to
+establish a joint transition commission tasked with transferring
+government functions to the Puerto Rican government and, within one
+month of Puerto Rico's election of officers, issue a proclamation to
+surrender U.S. control over Puerto Rico. In the case of free
+association, the bill would also require the establishment of a
+bilateral negotiating commission to expedite the transfer of federal
+functions and negotiate the government-to-government relationship
+between the two nations under articles of free association, which may
+subsequently be terminated by either party at will. The bill would allow
+benefits available to current Puerto Rico residents, such as Social
+Security and veterans' benefits, to be administered through the Puerto
+Rican government until such benefits are extinguished. It would specify
+that current U.S. citizens would not lose citizenship as a result of the
+plebiscite or obtaining Puerto Rican citizenship, but individuals born
+in Puerto Rico to a parent who became a U.S. citizen under previous law
+that made Puerto Rican residents citizens would not become U.S. citizens
+at birth, other than during a transition period under the articles of
+free association. It would allow Puerto Rican citizens who are not U.S.
+citizens to enter, work and establish residence in the United States as
+nonimmigrants without obtaining a visa for a 25-year transition period
+following Puerto Rican independence or as long as the two countries
+remain in free association." The vote was on a passage. The House passed
+the bill by a vote of 233 -- 191. The Senate took no action on the
+legislation. \[House Vote 529,
+[12/15/22](http://clerk.house.gov/evs/2022/roll529.xml); Congressional
+Quarterly, [12/15/22](https://plus.cq.com/vote/2022/H/529?2);
+Congressional Actions, [H.R.
+8393](https://www.congress.gov/bill/117th-congress/house-bill/8393/all-actions?overview=closed#tabs)\]
+
+-   **The Bill Established Procedures For The Justice Department To
+    Review Ballot Design And Voter Education Materials For The
+    Referendum And Authorized The Necessary Funds For Puerto Rico's
+    Elections Commission To Carry Out The Voter Education Campaign.**
+    According to Congressional Quarterly, "The bill would establish
+    procedures for the Justice Department to review ballot design and
+    voter education materials for the plebiscite and authorize such sums
+    as necessary for the Puerto Rico elections commission to carry out a
+    voter education campaign on how each outcome would impact
+    international representation, citizenship and immigration, and
+    treatment under U.S. federal law and programs." \[Congressional
+    Quarterly,
+    [12/15/22](https://clerk.house.gov/Votes/2022529?Page=2&RollCallNum=529)\]
+
+-   **The Bill Would Have Given Puerto Ricans The Ability To Determine
+    The Island's Future Relationship With The U.S., Including Whether To
+    Become An Official U.S. State.** According to Congressional
+    Quarterly, "The House has passed legislation that would let voters
+    in Puerto Rico determine the island territory's future relationship
+    with the United States, including whether to become a state."
+    \[Congressional Quarterly,
+    [12/15/22](https://plus.cq.com/doc/news-7623067?9)\]
+
+-   **The Bill Would Have Provided Three Outcomes For A Plebiscite,
+    Would Have Directed The President To Help Implement The Outcome, And
+    Would Have Allowed Puerto Rico To Become Independent Or Join The
+    U.S. As A State Without Further Congressional Action.** According to
+    Congressional Quarterly, "The bill proposes three choices for a
+    plebiscite, and it would direct the president to take action to help
+    implement whatever option secures a majority vote in support, either
+    during a regular election or a runoff. In effect, Puerto Rico could
+    become a state or move toward independence without further action by
+    Congress if the measure became law." \[Congressional Quarterly,
+    [12/15/22](https://plus.cq.com/doc/news-7623067?9)\]
+
+-   **Republicans Expressed Concerns With Transferring Military Bases
+    Back To The U.S. If Puerto Rico Were To Become Independent And The
+    Potential Taxpayer Burden To Pay Back Relief Funds Given To Puerto
+    Rico During Natural Disasters.** According to Congressional
+    Quarterly, "Republicans withholding their support for the measure
+    have cited complications with transferring military bases back to
+    the United States should the island become sovereign or independent,
+    and the potential burden on taxpayers to pay back relief funds given
+    to the island during natural disasters. They have also taken issue
+    with the lack of a fiscal impact score from the Congressional Budget
+    Office." \[Congressional Quarterly,
+    [12/15/22](https://plus.cq.com/doc/news-7623067?9)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Puerto Rico Status
+Act, Which Would Have Allowed Puerto Rico To Hold A Referendum To
+Determine Puerto Rico's Future As A Sovereign Nation Or A U.S. State.**
+In December 2022, according to Congressional Quarterly, Fitzpatrick
+voted for the "motion to recommit the Puerto Rico Status Act (HR 8393)
+to the House Natural Resources Committee." The vote was on a motion to
+recommit. The House rejected the motion by a vote of 209 -- 217. \[House
+Vote 528, [12/15/22](http://clerk.house.gov/evs/2022/roll528.xml);
+Congressional Quarterly,
+[12/15/22](https://plus.cq.com/vote/2022/H/528?5); Congressional
+Actions, [H.R.
+8393](https://www.congress.gov/bill/117th-congress/house-bill/8393/all-actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Puerto Rico Status
+Act, Which Would Have Allowed Puerto Rico To Hold A Referendum To
+Determine Puerto Rico's Future As A Sovereign Nation Or A U.S. State.**
+In December 2022, according to the Congressional Quarterly, Fitzpatrick
+voted against the "adoption of the rule (H Res 1519) that would provide
+for House floor consideration of the Puerto Rico Status Act (HR 8393).
+The rule would provide for up to one hour of debate on the bill." The
+vote was on the adoption of the rule. The House adopted the rule by a
+vote of 217 -- 201. \[House Vote 527,
+[12/15/22](http://clerk.house.gov/evs/2022/roll527.xml); Congressional
+Quarterly, [12/15/22](https://plus.cq.com/vote/2022/H/527?4);
+Congressional Actions, [H.Res.
+1519](https://www.congress.gov/bill/117th-congress/house-resolution/1519/all-actions);
+Congressional Actions, [H.R.
+8393](https://www.congress.gov/bill/117th-congress/house-bill/8393/all-actions)\]

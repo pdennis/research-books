@@ -1,0 +1,35 @@
+---
+title: Brad Sherman on Increasing Taxes
+description: 
+published: true
+date: 2025-12-22T19:51:22.710Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-18T22:12:22.392Z
+---
+
+## Overview
+
+In October 2025, Brad Sherman [suggested a “big” sales tax proposal](https://www.youtube.com/watch?v=9KP3ANKC2JY) to replace property taxes. Since Iowa [lowered](https://iowacapitaldispatch.com/2025/01/02/iowas-income-tax-drops-to-single-3-8-rate-in-2025/#:~:text=By:%20Robin%20Opsahl%20%2D%20January%202,year%20compared%20to%20last%20year) their flat income tax in 2024, a sales tax increase would shift more of the [tax burden](https://taxpolicycenter.org/briefing-book/who-bears-burden-national-retail-sales-tax) onto everyday purchases and lower-income Iowans.
+
+Iowa’s tax cuts [shifted benefits to the wealthy](https://www.cbpp.org/blog/iowas-big-tax-cut-for-the-rich-already-straining-state-services) while leaving working families paying more and local governments struggling with [underfunded services](https://www.cbpp.org/blog/iowas-big-tax-cut-for-the-rich-already-straining-state-services), [revenue gaps](https://www.cbpp.org/blog/iowas-property-tax-cuts-threaten-local-budgets-and-essential-services), and pressure to cut core programs.
+
+## Brad Sherman Pushed A Sales Tax Increase Even While Iowa’s Tax Cuts Already Raised Costs And Strained Public Services
+
+### **Brad Sherman Suggested A Large Sales Tax Increase Even As Iowa Leaders Lowered Income Taxes**  
+
+**October 2025: Brad Sherman Suggested A “Big” Sales Tax Increase To Replace Property Taxes.** According to an interview with Iowa Press Sherman said “I would love to see no property tax. I would be it'd be great, but I don't know there's a way to fund our essential services. You know, if we were to cut out all property taxes, how do you do that? There's only two ways you could do that. One you could do a sales tax, and the other would be an income tax. The only two first two that come to my mind, and we've been cutting income tax so, so that's something we probably shouldn't look at right now, but if a sales tax to replace a property tax elimination, first, it would be a big sales tax.” \[Iowa Press, [10/17/25](https://www.youtube.com/watch?v=9KP3ANKC2JY)\] (VIDEO) 
+
+-   **2024: Iowa Lowered Its Flat Income Tax Rate To 3.8 Percent.** According to the Iowa Capital Dispatch, “The law, signed by Gov. Kim Reynolds in May 2024, lowers individual income tax rates from 5.7% in 2024 to a single 3.8% rate. It will give Iowa the sixth-lowest income tax rates among the 41 states that have the tax, according to the Tax Foundation. The measure built on a 2022 law that moved the state’s individual income tax to a 3.9% single rate by 2026.” \[Iowa Capital Dispatch, [1/2/25](https://iowacapitaldispatch.com/2025/01/02/iowas-income-tax-drops-to-single-3-8-rate-in-2025/#:~:text=By:%20Robin%20Opsahl%20%2D%20January%202,year%20compared%20to%20last%20year)\]
+
+**Tax Policy Center: The Burden Of Sales Tax Falls On Lower-Income Households Because They Spend A Greater Share Of Their Income.** According to the Tax Policy Center, “Because lower-income households spend a greater share of their income than higher-income households do, the burden of a retail sales tax is regressive when measured as a share of current income: the tax burden as a share of income is highest for low-income households and falls sharply as household income rises. The burden of a sales tax is more proportional to income when measured as a share of income over a lifetime. Even by a lifetime income measure, however, the burden of a sales tax as a share of income is lower for high-income households than for other households: a sales tax (like any consumption tax) does not tax the returns (such as dividends and capital gains) from new capital investment and income from capital makes up a larger portion of the total income of high-income households.” \[Tax Policy Center, [1/24](https://taxpolicycenter.org/briefing-book/who-bears-burden-national-retail-sales-tax)\]
+
+### **Iowa’s Existing Tax Cuts Already Strained Public Services And Raised Costs For Families**  
+  
+**HEADLINE: “Iowa’s Big Tax Cut For The Rich Already Straining State Services”** \[Center On Budget And Policy Priorities, [11/11/24](https://www.cbpp.org/blog/iowas-big-tax-cut-for-the-rich-already-straining-state-services)\]
+
+**2024: Center On Budget And Policy Priorities Found Iowa’s Tax Cuts Created A Revenue Gap That Threatened Medicaid, Universities, And Core Services.** According to the Center on Budget and Policy Priorities, “While cutting taxes, Iowa has underfunded services, budgeting only about 80 percent of available resources for four straight years. \[…\] Lower-income residents will face the brunt of reduced funding for public services, education, and health programs as the state shifts resources to fund tax cuts for the wealthy. For example, the projected $517 million revenue gap this year alone could have covered almost a third of the state cost of Medicaid or nearly all of the state’s spending on its three flagship universities. Already, health care and student tuition are big challenges for families. Now, Iowa will need to find alternative sources to make up these funds or consider cutbacks in critical services for families and communities.” \[Center On Budget And Policy Priorities, [11/11/24](https://www.cbpp.org/blog/iowas-big-tax-cut-for-the-rich-already-straining-state-services)\]
+
+-   **2024: Iowa’s Flat Income Tax Shifted Benefits To The Wealthy While Working Families Paid More.** According to the Center on Budget and Policy Priorities, “The 3.8 percent flat income tax structure benefits Iowa’s wealthiest residents far more than low- and middle-income families, who already pay a greater share of their income in state and local taxes than the wealthy. Recent estimates from the state’s Department of Revenue show that nearly half of the tax benefits go to the top 5 percent of taxpayers.” \[Center On Budget And Policy Priorities, [11/11/24](https://www.cbpp.org/blog/iowas-big-tax-cut-for-the-rich-already-straining-state-services)\]  
+     
+-   **2025: Budget Experts Said Property Tax Caps Would Push Cities To Cut Core Services Or Dip Into Reserves.** According to the Center on Budget and Policy Priorities, “Iowa lawmakers are considering another round of property tax cuts that would primarily benefit wealthy homeowners while straining local budgets and essential services. The proposal would siphon revenue from the state’s general fund to “buy down” school property tax rates — an across-the-board measure that would disproportionately help owners of luxury homes and vacation properties rather than families struggling to afford their mortgages or renters. \[…\] Across the state, local governments are caught in a state-imposed revenue bind, forced to choose between cutting services, issuing more debt, or enacting franchise fees that could raise Iowans’ utility costs.” \[Center On Budget And Policy Priorities, [3/31/25](https://www.cbpp.org/blog/iowas-property-tax-cuts-threaten-local-budgets-and-essential-services)\]

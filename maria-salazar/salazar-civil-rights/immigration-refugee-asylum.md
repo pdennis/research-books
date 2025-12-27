@@ -1,0 +1,93 @@
+---
+title: Immigration, Refugee, and Asylum Policies
+description: 
+published: true
+date: 2025-05-04T20:57:50.034Z
+tags: 
+editor: markdown
+dateCreated: 2025-05-04T20:57:46.214Z
+---
+
+# Immigration, Refugee, and Asylum Policies
+
+### Summary
+
+-   Rep. María Elvira Salazar co-sponsored and supported bipartisan efforts in 2021 and 2022 to reinstate and improve the Cuban Family Reunification Parole Program, which had been suspended since 2017 due to safety concerns affecting U.S. diplomats ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64X1-F1R1-JC3J-X3S0-00000-00&context=1519360), [El Nuevo Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:62GV-FHX1-JC3J-X1YH-00000-00&context=1519360)).
+
+-   Salazar advocated for the resumption of U.S. consular services in Cuba, with a focus on prioritizing human rights activists, pro-democracy advocates, and those with urgent humanitarian needs, while highlighting concerns about staff safety (e.g., Havana syndrome) ([South Florida Sun-Sentinel](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64XV-1X61-JBM5-R3D7-00000-00&context=1519360)).
+
+-   In December 2022, Salazar called for the Department of Homeland Security to halt deportations of Cuban migrants whose identities were exposed in a federal data leak, arguing this posed a life-threatening risk and that the Cuban regime might now target those individuals ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4J8-00000-00&context=1519360), [El Nuevo Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4KB-00000-00&context=1519360)).
+
+-   Salazar consistently stated that U.S. policy toward Cuban migrants and asylum seekers must prioritize the safety and well-being of those fleeing persecution, warning that communication with the Cuban government could endanger political opposition ([Miami Herald Editorial](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674X-V8B1-JC3J-X0N4-00000-00&context=1519360), [El Nuevo Herald Editorial](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6758-TG91-DYJM-M2XR-00000-00&context=1519360)).
+
+-   Editorial boards from both Miami Herald and El Nuevo Herald publicly endorsed Salazar's demands for enhanced protection and reassessment of asylum claims for Cubans endangered by the data leak ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674X-V8B1-JC3J-X0N4-00000-00&context=1519360), [El Nuevo Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6758-TG91-DYJM-M2XR-00000-00&context=1519360)).
+
+-   Potential vulnerabilities highlighted include the ongoing risks to Cuban migrants from both U.S. government actions (such as data leaks) and reprisals by the Cuban regime, with no guaranteed safety for deported asylum seekers.
+
+### Support for Immigrant and Refugee Protection
+
+#### April 2021: Bipartisan Bill on Cuban Family Reunification Visas
+
+**April 2021: María Elvira Salazar Presented Bipartisan Bill On Cuban Family Reunification Visa Processing** According to El Nuevo Herald, "Los congresistas de Miami Mario Díaz-Balart y María Elvira Salazar, presentaron el martes un proyecto de ley que en palabras de Salazar intentaba ser 'una solución salomónica' para procesar las visas del Programa de Reunificación Familiar Cubano, suspendido desde 2017 tras los misteriosos ataques que sufrieron decenas de diplomáticos." \[El Nuevo Herald, [4/21/21](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:62GV-FHX1-JC3J-X1YH-00000-00&context=1519360)\]
+
+**April 2021: Rep. María Elvira Salazar Introduced Bipartisan Bill To Reinstate Cuban Family Reunification Program** According to Miami Herald, "In April 2021, Representatives Stephanie Murphy, Maria Elvira Salazar, Carlos A. Gimenez and I introduced a bipartisan bill that reinstates this program while addressing these serious concerns." \[Miami Herald, [3/2/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64X1-F1R1-JC3J-X3S0-00000-00&context=1519360)\]
+
+**Rep. Salazar Supported Efforts To Restore Cuban Family Reunification Program in 2022** According to Miami Herald, "Meanwhile, Rep. Salazar said that while the new bill had not been shared with her office, she applauded any efforts to propel the family reunification program forward. Like Díaz-Balart, she emphasized a policy that involved a bipartisan solution and guaranteed the safety of U.S. diplomats." \[Miami Herald, [3/2/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64X1-F1R1-JC3J-X3S0-00000-00&context=1519360)\]
+
+**February 2022: Rep. Salazar Requested Resumption Of Consular Services In Cuba** According to Miami Herald, "The trio of Florida Republicans asked President Joe Biden last month to restart consular services in Cuba, prioritizing human rights and pro-democracy activists and people with urgent medical or humanitarian needs. In the letter, they also asked for the parole program's application processing to be resumed and warned of safety issues, including Havana syndrome, that embassy staffers could face in Cuba." \[Miami Herald, [3/2/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64X1-F1R1-JC3J-X3S0-00000-00&context=1519360)\]
+
+**April 2021: María Elvira Salazar Presentó Un Proyecto De Ley Para Reanudar El Programa De Reunificación Familiar Cubana** According to El Nuevo Herald, "los representantes republicanos de la Florida María Elvira Salazar, Carlos Gimenez y Mario Díaz-Balart, junto con la representante demócrata Murphy, presentaron su propia versión de un proyecto de ley para reanudar el programa en abril de 2021. A través de su proyecto de ley, la Base Naval de Estados Unidos en la Bahía de Guantánamo, al sureste de Cuba, sería la sede de las entrevistas presenciales y otros servicios de solicitantes al programa." \[El Nuevo Herald, [3/2/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64X4-4F31-JC3J-X4BP-00000-00&context=1519360)\]
+
+**March 2022: Salazar Afirmó Apoyar Esfuerzos Para Impulsar El Programa De Reunificación Familiar** According to El Nuevo Herald, "la representante Salazar dijo que si bien el proyecto de ley nuevo no se había compartido con su oficina, aplaude cualquier esfuerzo por impulsar el programa de reunificación familiar. Al igual que Díaz-Balart, enfatizó una solución bipartidista que garantiza la seguridad de los diplomáticos estadounidenses." \[El Nuevo Herald, [3/2/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64X4-4F31-JC3J-X4BP-00000-00&context=1519360)\]
+
+**March 2022: Salazar Instó Al Diálogo Bipartidista Sobre El Programa De Reunificación** According to El Nuevo Herald, 'Espero que mis colegas se sienten a la mesa y negocien con sus homólogos republicanos', dijo \[Salazar\]. \[El Nuevo Herald, [3/2/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64X4-4F31-JC3J-X4BP-00000-00&context=1519360)\]
+
+**February 2022: Salazar Solicitó A Biden Reanudar Servicios Consulares Y Priorizar Casos Humanitarios** According to El Nuevo Herald, "el trío de republicanos de la Florida le pidió al presidente Joe Biden el mes pasado que reiniciara los servicios consulares en Cuba y que se le de prioridad a los activistas de derechos humanos y a favor de la democracia y las personas con necesidades médicas o humanitarias urgentes." \[El Nuevo Herald, [3/2/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64X4-4F31-JC3J-X4BP-00000-00&context=1519360)\]
+
+**April 2021: Rep. María Elvira Salazar Co-Sponsored Bipartisan Bill To Reinstate Cuban Family Reunification Parole Program** According to South Florida Sun-Sentinel, "Republican Reps. María Elvira Salazar, Carlos Gimenez and Mario Díaz-Balart of Florida, along with Democratic Rep. Murphy, introduced their own version of a bill to bring the program back in April 2021. Their bill would have resumed in-person interviews and other services for the program in the U.S. Naval Base in Guantánamo Bay, in southeastern Cuba." \[South Florida Sun-Sentinel, [3/6/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64XV-1X61-JBM5-R3D7-00000-00&context=1519360)\]
+
+**March 2022: Rep. Salazar Applauded Efforts To Propel Cuban Family Reunification Program Forward** According to South Florida Sun-Sentinel, "Meanwhile, Rep. Salazar said that while the new bill had not been shared with her office, she applauded any efforts to propel the family reunification program forward. Like Díaz-Balart, she emphasized a policy that involved a bipartisan solution and guaranteed the safety of U.S. diplomats." \[South Florida Sun-Sentinel, [3/6/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64XV-1X61-JBM5-R3D7-00000-00&context=1519360)\]
+
+**February 2022: Rep. Salazar Urged Biden To Restart Consular Services In Cuba For Priority Cases** According to South Florida Sun-Sentinel, "The trio of Florida Republicans asked President Joe Biden last month to restart consular services in Cuba, prioritizing human rights and pro-democracy activists and people with urgent medical or humanitarian needs. In the letter, they also asked for the parole program's application processing to be resumed and warned of safety issues, including Havana syndrome, that embassy staffers could face in Cuba." \[South Florida Sun-Sentinel, [3/6/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64XV-1X61-JBM5-R3D7-00000-00&context=1519360)\]
+
+### Advocacy for Foreign Dissidents and Exiles
+
+#### Protections for Refugees after Data Leaks
+
+**December 2022: Rep. Salazar Requested DHS Halt Deportations Of Cubans After Data Leak** According to Miami Herald, "U.S. Rep. Maria Elvira Salazar asked the head of the Department of Homeland Security on Wednesday evening to stop the deportations of Cubans whose information the federal government accidentally published online." \[Miami Herald, [12/21/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4J8-00000-00&context=1519360)\]
+
+**Salazar Called Government Leak** '**Life-Threatening And Unacceptable**' **In 2022** According to Miami Herald, "In her letter, Salazar called the leak 'life-threatening and unacceptable,' and urged Mayorkas to take 'the necessary steps to protect these individuals and reassess their asylum petitions.'" \[Miami Herald, [12/21/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4J8-00000-00&context=1519360)\]
+
+**Salazar Claimed There Was No Way To Guarantee Safety Of Affected Cuban Migrants In December 2022** According to Miami Herald, "She also said there was no way to guarantee the safety of Cubans affected by the leak, which she said involved 46 Cuban migrants, if they are deported." \[Miami Herald, [12/21/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4J8-00000-00&context=1519360)\]
+
+**Salazar Stated The Cuban Regime Had** '**Put A Target On Their Back**' **After Data Leak In 2022** According to Miami Herald, "Salazar said that the 'Cuban regime has now put a target on their back.'" \[Miami Herald, [12/21/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4J8-00000-00&context=1519360)\]
+
+**Salazar Emphasized Safety Of Cuban Refugees Must Guide U.S. Policy In 2022** According to Miami Herald, 'The safety and well-being of refugees fleeing from the regime must be the guiding principle of our Cuban migrant policy,' she wrote. \[Miami Herald, [12/21/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4J8-00000-00&context=1519360)\]
+
+**December 2022: Salazar Urged DHS To Halt Deportation Of Cubans After Data Leak** According to El Nuevo Herald, "La representante estadounidense María Elvira Salazar pidió el miércoles al jefe del Departamento de Seguridad Nacional que detuviera las deportaciones de cubanos cuya información el gobierno federal publicó accidentalmente en línea." \[El Nuevo Herald (Miami, Florida), [12/21/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4KB-00000-00&context=1519360)\]
+
+**December 2022: Salazar Called The Data Leak** "**A Threat To Life And Unacceptable**" According to El Nuevo Herald, "En su carta, Salazar calificó la filtración como 'una amenaza para la vida e inaceptable' e instó a Mayorkas a tomar 'las medidas necesarias para proteger a estas personas y reevaluar sus solicitudes de asilo.'" \[El Nuevo Herald (Miami, Florida), [12/21/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4KB-00000-00&context=1519360)\]
+
+**December 2022: Salazar Stated That Deporting Data Leak Victims Would Endanger Them** According to El Nuevo Herald, "También dijo que no había forma de garantizar la seguridad de los cubanos afectados por la fuga de datos, que dijo involucra a 46 migrantes de la isla, si son deportados." \[El Nuevo Herald (Miami, Florida), [12/21/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4KB-00000-00&context=1519360)\]
+
+**2022: Miami Herald Editorial Board Supported Salazar's Demand That U.S. Protect Exposed Cuban Asylum Seekers** According to an editorial published in Miami Herald, "The Cuban-American Salazar is right step up to protect the lives of the 46 asylum seekers. She should. \[...\] Salazar wrote to DHS head Alejandro Mayorkas, demanding he take the necessary steps to protect these individuals and reassess their asylum petitions." \[Editorial - Miami Herald, [12/22/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674X-V8B1-JC3J-X0N4-00000-00&context=1519360)\]
+
+**2022: María Salazar Demanded Protection and Reassessment of Asylum Petitions for Exposed Cuban Migrants** According to an editorial published in Miami Herald, "In her letter to the administration, Salazar wrote to DHS head Alejandro Mayorkas, demanding he take the necessary steps to protect these individuals and reassess their asylum petitions." \[Editorial - Miami Herald, [12/22/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674X-V8B1-JC3J-X0N4-00000-00&context=1519360)\]
+
+**2022: María Salazar Argued U.S. Should Not Endanger Asylum Seekers Fleeing Persecution** According to an editorial published in Miami Herald, "'The United States cannot continue to be a beacon of freedom if we put those fleeing persecution and violence at risk,'' Salazar, a Miami Republican, wrote." \[Editorial - Miami Herald, [12/22/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674X-V8B1-JC3J-X0N4-00000-00&context=1519360)\]
+
+**2022: El Nuevo Herald Editorial Board Supported Salazar's Demands to Protect Cuban Asylum Seekers** According to an editorial published in El Nuevo Herald, "la congresista María Elvira Salazar tiene razón al exigir que corrija su peligrosa equivocación \[...\] Salazar tiene razón en dar un paso adelante para proteger la vida de los 46 solicitantes de asilo. Debía hacerlo." \[Editorial - El Nuevo Herald, [12/24/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6758-TG91-DYJM-M2XR-00000-00&context=1519360)\]
+
+**2022: Salazar Urged DHS to Take Action to Protect Cuban Asylum Seekers After Data Leak** According to an editorial published in El Nuevo Herald, "En su carta a la administración, Salazar escribió al jefe del DHS, Alejandro Mayorkas, exigiéndole que tome las medidas necesarias para proteger a estas personas y reevalúe sus peticiones de asilo." \[Editorial - El Nuevo Herald, [12/24/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6758-TG91-DYJM-M2XR-00000-00&context=1519360)\]
+
+**2022: Salazar Warned U.S. Cannot Risk Asylum Seekers' Lives If It Wants to Be a Beacon of Liberty** According to an editorial published in El Nuevo Herald, '"Estados Unidos no puede seguir siendo un faro de libertad si ponemos en peligro a quienes huyen de la persecución y la violencia", escribió Salazar, republicana por Miami.' \[Editorial - El Nuevo Herald, [12/24/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6758-TG91-DYJM-M2XR-00000-00&context=1519360)\]
+
+#### Statements on Cuban and Nicaraguan Regimes
+
+**December 2022: Salazar Emphasized The Need To Protect Cuban Refugees Fleeing The Regime** According to El Nuevo Herald, "La seguridad y el bienestar de los refugiados que huyen del régimen debe ser el principio rector de nuestra política migratoria cubana", escribió. \[El Nuevo Herald (Miami, Florida), [12/21/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4KB-00000-00&context=1519360)\]
+
+**December 2022: Salazar Asserted That The Cuban Regime Targeted Refugees After Leak** According to El Nuevo Herald, "Salazar dijo que 'el régimen cubano ahora les ha puesto un blanco en la espalda.'" \[El Nuevo Herald (Miami, Florida), [12/21/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674T-JC71-JC3J-X4KB-00000-00&context=1519360)\]
+
+**2022: María Salazar Warned That Communication With Cuban Regime Endangers Political Opposition** According to an editorial published in Miami Herald, "'Anything that is said in a meeting with the Cuban regime can and will be used against the political opposition, which is at constant risk of detainment and torture. The safety and well-being of refugees fleeing from the regime must be the guiding principle of our Cuban migrant policy,' she made clear in her letter." \[Editorial - Miami Herald, [12/22/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:674X-V8B1-JC3J-X0N4-00000-00&context=1519360)\]
+
+**2022: Salazar Stated U.S. Must Prioritize Refugee Safety in Cuban Migration Policy** According to an editorial published in El Nuevo Herald, '"La seguridad y el bienestar de los refugiados que huyen del régimen deben ser el principio rector de nuestra política migratoria cubana", dejó claro en su carta.' \[Editorial - El Nuevo Herald, [12/24/22](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6758-TG91-DYJM-M2XR-00000-00&context=1519360)\]

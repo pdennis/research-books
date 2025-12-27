@@ -1,0 +1,139 @@
+---
+title: Saudi Arabia
+description: 
+published: true
+date: 2025-09-22T21:06:26.511Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:06:22.360Z
+---
+
+# Saudi Arabia
+
+### Air Force Support
+
+**2021: Fitzpatrick Voted Against An Amendment That Would Suspend Saudi
+Air Force Support Who Have Been Responsible For Civilian Casualties In
+Yemen.** In September 2021, Fitzpatrick voted against an amendment to
+the National Defense Authorization Act for Fiscal Year 2022 which would,
+according to Congressional Quarterly, "suspend U.S. maintenance support
+for Saudi air force units determined to be responsible for airstrikes
+resulting in civilian casualties in Yemen." The vote was on adoption of
+an amendment. The House adopted the amendment by a vote of 223-204.
+\[House Vote 279,
+[9/23/21](http://clerk.house.gov/evs/2021/roll279.xml); Congressional
+Quarterly, [9/23/21](https://plus.cq.com/vote/2021/H/279?21);
+Congressional Actions, [H.Amdt.
+114](https://www.congress.gov/amendment/117th-congress/house-amendment/114/actions?r=14&s=a);
+Congressional Actions, [H.R.
+4350](https://www.congress.gov/bill/117th-congress/house-bill/4350/actions)\]
+
+### Harassment Of Saudi Nationals Reports
+
+**2021: Fitzpatrick Voted To Require Reports Regarding Harassment Of
+Saudi Nationals Within The U.S., Including Whether Saudi Diplomats
+Tracked Other Saudi Nationals In The U.S., Whether Saudi Officials Were
+Harrassing Journalist Jamal Khashoggi, And Whether The Intelligence
+Community Warned Khashoggi Of Any Threats.** In April 2021, Fitzpatrick
+voted for the Protection of Saudi Dissidents Act of 2021 which would,
+according to Congressional Quarterly, "require multiple reports to
+Congress related to intimidation or harassment of Saudi nationals in the
+United States, including on whether Saudi diplomatic officials in the
+U.S. used diplomatic credentials or facilities to facilitate harm to or
+monitoring, surveillance, or harassment of other Saudi nationals in the
+country; whether any Saudi official engaged in a consistent pattern of
+intimidation or harassment against journalist Jamal Khashoggi or other
+individuals in the U.S.; and whether and how the U.S. intelligence
+community fulfilled its duty to warn Khashoggi of threats against him."
+The vote was on passage." The House passed the bill by a vote of 350-71.
+\[House Vote 130,
+[4/21/21](http://clerk.house.gov/evs/2021/roll130.xml); Congressional
+Quarterly, [4/21/21](https://plus.cq.com/vote/2021/H/130?7);
+Congressional Actions, [H.R.
+1392](https://www.congress.gov/bill/117th-congress/house-bill/1392/actions)\]
+
+### Military Support
+
+**2021: Fitzpatrick Voted Against An Amendment That Would End U.S.
+Military Logistical Support For Saudi Aerial Strikes Against Yemen, End
+Intelligence Sharing And End All U.S. Efforts To Help Saudi-Led
+Coalition Forces In Yemen.** In September 2021, Fitzpatrick voted
+against an amendment to the National Defense Authorization Act for
+Fiscal Year 2022 which would, according to Congressional Quarterly,
+"terminate U.S. military logistical support and transfer of spare parts
+to Saudi warplanes conducting aerial strikes against the Houthis in
+Yemen. It would also permanently end intelligence sharing that enables
+offensive strikes and any U.S. effort to command, coordinate,
+participate in the movement of, or accompany Saudi-led coalition forces
+in the war in Yemen." The vote was on adoption of an amendment. The
+House adopted the amendment by a vote of 219-207. \[House Vote 278,
+[9/23/21](http://clerk.house.gov/evs/2021/roll278.xml); Congressional
+Quarterly, [9/23/21](https://plus.cq.com/vote/2021/H/278?20);
+Congressional Actions, [H.Amdt.
+113](https://www.congress.gov/amendment/117th-congress/house-amendment/113/actions?r=15&s=a);
+Congressional Actions, [H.R.
+4350](https://www.congress.gov/bill/117th-congress/house-bill/4350/actions)\]
+
+### Restricting Arms Sales
+
+**2022: Fitzpatrick Voted For An Amendment That Temporarily Limited Arms
+Sales To Saudi Arabia And Required Several Reports On The Death Of
+Journalist Jamal Khashoggi.** In July 2022, according to Congressional
+Quarterly, Fitzpatrick voted for en bloc amendments no. 4 to the
+National Defense Authorization Act for Fiscal Year 2023, which would, in
+part, "impose temporary limits on arms sales to Saudi Arabia and require
+various reports and actions related to the death of Saudi Arabian
+journalist Jamal Khashoggi." The vote was on the adoption of amendments.
+The House adopted the amendments by a vote 277-150. \[House Vote 334,
+[7/14/22](http://clerk.house.gov/evs/2022/roll334.xml); Congressional
+Quarterly, [7/14/22](https://plus.cq.com/vote/2022/H/334?4);
+Congressional Actions, [H.Amdt.
+271](https://www.congress.gov/amendment/117th-congress/house-amendment/271/actions?s=a&r=16);
+Congressional Actions, [H.R.
+7900](https://www.congress.gov/bill/117th-congress/house-bill/7900/actions)\]
+
+**2021: Fitzpatrick Voted To Temporarily Limit Arms Sales To Saudi
+Arabia, Unless The President Were To Certify To Congress That Saudi
+Arabia Has Not Exiled, Harmed, Or Killed Dissidents, Has Not Unjustly
+Incarcerated U.S. Citizens Or Residents, And/Or Has Not Tortured
+Detainees.** In April 2021, Fitzpatrick voted for the Protection of
+Saudi Dissidents Act of 2021 which would, according to Congressional
+Quarterly, "prohibit, for 120 days, the sale, licensing or transfer of
+any defense article or services from the U.S. to an intelligence,
+security or law enforcement agency of the government of Saudi Arabia. It
+would permit such activities to resume if the president certifies to
+Congress that Saudi Arabia, in the previous 120 days, has not forced the
+repatriation, intimidation or murder of dissidents in other countries;
+unjustly imprisoned U.S. citizens or permanent residents in Saudi
+Arabia; or tortured detainees in its custody. It would provide
+exceptions to the prohibition related to the defense of Saudi Arabia
+from external threats and the defense of U.S. personnel and facilities
+in Saudi Arabia." The vote was on passage. The House passed the bill by
+a vote of 350-71. \[House Vote 130,
+[4/21/21](http://clerk.house.gov/evs/2021/roll130.xml); Congressional
+Quarterly, [4/21/21](https://plus.cq.com/vote/2021/H/130?7);
+Congressional Actions, [H.R.
+1392](https://www.congress.gov/bill/117th-congress/house-bill/1392/actions)\]
+
+-   **H.R. 1392 Would Prohibit The Sales Of Defense Services To Saudi
+    Agencies, Unless The President Were To Certify That Saudi Arabia Has
+    Not Participated In Human Rights Violations Such As Repatriation,
+    Silencing Or Murdering Dissidents.** According to Congressional
+    Quarterly, "One of the measures (HR 1392), which was approved by
+    voice vote as part of an en bloc package, would prohibit the
+    transfer of defense articles or services to a Saudi intelligence,
+    internal security or law enforcement agency, unless the president
+    certifies that the Middle Eastern country hasn't conducted any
+    activities that constitute forced repatriation, silencing or killing
+    of dissidents in other countries, among other human rights
+    requirements." \[Congressional Quarterly,
+    [3/25/21](https://plus.cq.com/doc/committees-20210325460081?1)\]
+
+-   **The Restriction On Arm Sales Would Have An Exception To Saudi
+    Territory Defense Or U.S. Military Or Diplomatic Facilities Defense
+    In Saudi Arabia.** According to Congressional Quarterly, "The
+    committee adopted a Meeks substitute amendment to the bill that
+    would specify an exception if the military equipment is for the
+    defense of Saudi Arabian territory or U.S. military or diplomatic
+    personnel or facilities in the country." \[Congressional Quarterly,
+    [3/25/21](https://plus.cq.com/doc/committees-20210325460081?1)\]

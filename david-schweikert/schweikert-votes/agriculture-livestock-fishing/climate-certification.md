@@ -1,0 +1,23 @@
+---
+title: Climate Market Certification Program
+description: 
+published: true
+date: 2025-09-24T20:01:28.120Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:01:24.012Z
+---
+
+# Climate Market Certification Program
+
+### Voluntary Environmental Credit Markets
+
+**2022: Schweikert Voted Against The FY 2023 Omnibus Spending Package, Which Included The Growing Climate Solutions Act And Established A Framework For Voluntary Environmental Credit Markets To Incentivize The Agriculture Industry To Reduce And Mitigate Greenhouse Gas Emissions.** In December 2022, according to Congressional Quarterly, Schweikert voted against concurring with the Senate amendment to the Consolidated Appropriations Act, 2023, which would "establish a framework for voluntary environmental credit markets to incentivize activities by farmers, ranchers and foresters to reduce or mitigate greenhouse gas emission or sequester carbon." The vote was on a motion to concur. The House concurred with the Senate amendment by a vote of 225-201, thus bill was sent to President Biden and ultimately became law. \[House Vote 549, [12/23/22](http://clerk.house.gov/evs/2022/roll549.xml); Congressional Quarterly, [12/23/22](https://plus.cq.com/vote/2022/H/549?2); Congressional Actions, [S.Amdt. 6552](https://www.congress.gov/amendment/117th-congress/senate-amendment/6552/actions); Congressional Actions, [H.R. 2617](https://www.congress.gov/bill/117th-congress/house-bill/2617/all-actions)\]
+
+-   **The FY 2023 Omnibus Included The Growing Climate Solutions Act, Which Would Support "Farmers Measure And Verify Greenhouse Gas Reductions" By Encouraging Third-Party Conservation Vendors To Partner With Farmers And The Department Of Agriculture.** According to E&E News, "A bill to help farmers measure and verify greenhouse gas reductions was included in an omnibus spending package released early Tuesday morning. House Republican aides said the agreement on the 'Growing Climate Solutions Act' takes into account the demands of the incoming chair of the House Agriculture Committee, Rep. Glenn Thompson of Pennsylvania, who'd sought what he called a more farmer-friendly approach to the measure's proposed network of third-party conservation vendors. The climate bill, which would encourage the vendors to partner with farmers and the Department of Agriculture, was introduced in the House and Senate by Rep. Abigail Spanberger (D-Va.), Sen. Mike Braun (R-Ind.) and others in April 2021." \[E&E News, [12/20/22](https://www.eenews.net/articles/climate-focused-agriculture-bill-hitches-ride-on-omnibus/)\]
+
+-   **The Growing Climate Solutions Act Within The FY 2023 Omnibus Would Establish A Registry Of Third-Party Vendors Whom Farmers Could Partner With To Measure Carbon Benefits Of Several Farm Practices, Which Would Also Support Voluntary Carbon Markets.** According to E&E News, "The newly negotiated version would create a registry of third-party vendors whom farmers could consult to help measure the carbon benefits of various farm practices, with the idea of supporting voluntary carbon markets. But it wouldn't certify the consultants through the Agriculture Department as the introduced bills proposed." \[E&E News, [12/20/22](https://www.eenews.net/articles/climate-focused-agriculture-bill-hitches-ride-on-omnibus/)\]
+
+-   **Unlike The Version That Passed The Senate In 2021, The Growing Climate Solutions Act In The FY 2023 Omnibus Would Not Certify The Consultants Through The Department Of Agriculture To Ensure It Was More Farmer-Focused.** According to E&E News, "But it wouldn't certify the consultants through the Agriculture Department as the introduced bills proposed. The initial bill, Thompson has said, was too focused on certifying vendors, who might benefit more financially from the bill than the farmers they served." \[E&E News, [12/20/22](https://www.eenews.net/articles/climate-focused-agriculture-bill-hitches-ride-on-omnibus/)\]
+
+-   **The Growing Climate Solutions Act In The FY 2023 Omnibus Sought To Benefit Producers Mainly By Requiring The Agriculture Secretary To Guarantee Fair Distribution Of Revenues To Farmers From Sold Credits In The Program.** According to E&E News, "The bill also aims to direct benefits mainly to producers, partly by requiring the Agriculture secretary to ensure that farmers receive fair distribution of revenues from any sales of credits related to the program." \[E&E News, [12/20/22](https://www.eenews.net/articles/climate-focused-agriculture-bill-hitches-ride-on-omnibus/)\]

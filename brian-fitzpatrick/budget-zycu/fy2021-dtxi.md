@@ -1,0 +1,639 @@
+---
+title: FY 2021
+description: 
+published: true
+date: 2025-09-22T20:18:10.387Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:18:04.940Z
+---
+
+# FY 2021
+
+### Additional Short-Term Appropriations
+
+**2020: Fitzpatrick Voted For A FY 2021 Continuing Resolution, Which
+Provided Funding For Federal Agencies From December 20 Through December
+21, 2020 And Prevented A Government Shutdown.** In December 2020,
+Fitzpatrick voted for a joint resolution which would, according to
+Congressional Quarterly, "provide continued funding for federal
+government operations and services through Dec. 21, 2020, at fiscal 2020
+levels. It would extend for the duration of the continuing resolution a
+number of Medicare, Medicaid and other public health programs and
+authorities extended by prior continuing resolutions." The vote was on
+passage. The House passed the resolution by a vote of 329-65 and sent to
+the President and ultimately became law. \[House Vote 248,
+[12/20/20](http://clerk.house.gov/evs/2020/roll248.xml); Congressional
+Quarterly, [12/20/20](https://plus.cq.com/vote/2020/H/248?9);
+Congressional Actions, [H.J. Res.
+110](https://www.congress.gov/bill/116th-congress/house-joint-resolution/110/actions)\]
+
+-   **Congress Passed The One-Day Appropriations Extension To Avoid A
+    Partial Government Shutdown And To Have Until Midnight To Vote On
+    COVID Relief Package.** According to Congressional Quarterly, "All
+    the procedural hoops required Congress to pass a one-day stopgap
+    measure Sunday (H J Res 110) to avoid a partial government shutdown
+    Monday morning. They now have until midnight Monday to pass the
+    omnibus package." \[Congressional Quarterly,
+    [12/21/20](https://plus.cq.com/doc/btnews-6080639?13)\]
+
+**2020: Fitzpatrick Voted For A FY 2021 Continuing Resolution, Which
+Provided Funding For Federal Agencies From December 18 Through December
+20, 2020 And Prevented A Government Shutdown.** In December 2020,
+Fitzpatrick voted for a joint resolution which would, according to
+Congressional Quarterly, "provide funding for federal government
+operations and services through Dec. 20, 2020, at fiscal 2020 levels. It
+would extend for the duration of the continuing resolution a number of
+Medicare, Medicaid and other public health programs and authorities
+extended by prior continuing resolutions." The vote was on passage. The
+House passed the resolution by a vote of 320-60 and sent to the
+President and ultimately became law. \[House Vote 247,
+[12/18/20](http://clerk.house.gov/evs/2020/roll247.xml); Congressional
+Quarterly, [12/18/20](https://plus.cq.com/vote/2020/H/247?46);
+Congressional Actions, [H.J. Res.
+107](https://www.congress.gov/bill/116th-congress/house-joint-resolution/107/actions)\]
+
+**2020: Fitzpatrick Voted For Continuing FY2021 Appropriations To
+Federal Agencies From December 11 Through December 18, 2020 Which Would
+Prevent A Government Shutdown.** In December 2020, Fitzpatrick voted for
+the Further Continuing Appropriations Act, 2021, and Other Extensions
+Act which would, according to Congressional Quarterly, "provide funding
+for federal government operations and services through Dec. 18, 2020, at
+fiscal 2020 levels and extend authorizations for a number of expiring
+programs and entities. It would extend for the duration of the
+continuing resolution a number of Medicare and Medicaid programs,
+including state health insurance assistance programs and the community
+mental health services demonstration program. For the same period, it
+would extend and increase funding for several other public health
+programs, including the National Health Service Corps and community
+health centers. It would extend through Dec. 19 the delay of scheduled
+reductions to Medicaid payments for disproportionate share hospitals. It
+would also include provisions of a bill (HR 1375) to modify Medicare
+secondary payer reporting requirements to improve coordination of
+reimbursement in the case of claims by Medicare beneficiaries whose
+expenses are also covered by another plan, such as liability insurance
+or workers\' compensation and a bill (HR 2281) to require the Justice
+Department to revise regulations to allow health practitioners to
+dispense up to a three-day supply of narcotic drugs at one time to
+patients in drug maintenance or detoxification programs to relieve acute
+withdrawal symptoms from opioid use disorder." The vote was on passage.
+The House passed the bill by a vote of 343-67 and was sent to the
+President and ultimately became law. \[House Vote 240,
+[12/9/20](http://clerk.house.gov/evs/2020/roll240.xml); Congressional
+Quarterly, [12/9/20](https://plus.cq.com/vote/2020/H/240?17);
+Congressional Actions, [H.R.
+8900](https://www.congress.gov/bill/116th-congress/house-bill/8900/actions)\]
+
+### Appropriations
+
+**2020: Fitzpatrick Voted Against The \$1.31 Trillion Six-Bill FY 2021
+Appropriations Package That Blocked A Number Of Trump Policies Including
+The Transgender Military Ban And Efforts To Repeal The ACA.** In July
+2020, Fitzpatrick voted against the FY 2021 six-bill appropriations
+package that would, according to Congressional Quarterly, "provide
+\$1.31 trillion in discretionary funding for six of the twelve fiscal
+2021 appropriations bills, including \$694.6 billion for the Defense
+Department, \$75.4 billion for Commerce and Justice departments and
+science and related agencies, \$49.6 billion for the Energy Department
+and federal water projects, \$24.6 billion for the Treasury Department,
+federal judiciary and executive agencies, \$198 billion for the Labor,
+Health and Human Services and Education departments and related
+agencies; and \$75.9 billion for the Transportation and Housing and
+Urban Development departments and related agencies. Within total
+funding, the bill would provide \$68.4 billion in overseas contingency
+operations funding and \$210 billion in emergency funding for COVID-19
+pandemic response activities and infrastructure investments, not subject
+to discretionary spending caps. Within emergency funding, the bill would
+provide \$75 billion for transportation and housing infrastructure; \$61
+billion to expand broadband services; \$43.5 billion for water and
+energy infrastructure projects; and \$24.4 billion for HHS public health
+activities, including \$4 billion for an enhanced influenza vaccine
+campaign; \$3.5 billion for development and production of vaccines and
+therapeutics and \$1 billion for global preparedness and response." The
+vote was on passage. The House passed the bill by a vote of 217-197. The
+Senate did not take substantive action on the bill. \[House Vote 178,
+[7/31/20](http://clerk.house.gov/evs/2020/roll178.xml); Congressional
+Quarterly, [7/31/20](https://plus.cq.com/vote/2020/H/178?0);
+Congressional Actions,
+[H.R.7617](https://www.congress.gov/bill/116th-congress/house-bill/7617/all-actions?q=%7b%22search%22%3A%5B%22hr+7617%22%5D%7d&s=3&r=1)\]
+
+-   **The Package Included FY 2021 Appropriations For Defense,
+    Commerce-Justice-Science, Energy-Water, Financial Services,
+    Labor-HHS-Education, And Transportation-HUD.** According to
+    Congressional Quarterly, "The spending package includes the
+    underlying Defense bill, Commerce-Justice Science, Energy-Water,
+    Financial Services, Labor-HHS-Education, and Transportation-HUD
+    bills. The Homeland Security and Legislative Branch spending bills
+    are the only remaining bills held back from floor debate thus far
+    amid disputes about spending levels and policy." \[Congressional
+    Quarterly, [7/31/20](https://plus.cq.com/doc/news-5973019?17)\]
+
+-   **The Package Provided \$210 Billion In Emergency Money To Help
+    Federal Agencies Fight The Coronavirus Pandemic.** According to
+    Politico, "The House approved a colossal \$1.3 trillion spending
+    package today that includes \$210 billion in emergency money to help
+    federal agencies fight the coronavirus pandemic \[...\] The package
+    also includes billions of dollars in off-the-book spending for state
+    and local public health departments, public health prevention
+    efforts, medical research, infrastructure, public housing and more."
+    \[Politico,
+    [7/31/20](https://www.politico.com/states/new-york/city-hall/story/2020/07/31/house-clears-13t-spending-bill-with-210b-in-emergency-cash-1304469)\]
+
+-   **The House Voted On Nearly 340 Amendments, Most Of Them Bundled
+    Together In An "En Bloc" Package That Prevented Lawmakers From
+    Recording Individual Votes.** According to Congressional Quarterly,
+    "Lawmakers voted on nearly 340 amendments Thursday in about three
+    hours, mostly bundled together in giant 'en bloc' packages that
+    deprived lawmakers of the opportunity to vote on them
+    individually. A handful of standalone amendments were allowed,
+    however, such as the lone vote held over to Friday: an effort
+    by Rick W. Allen, R-Ga., to cut the \$209.2 billion
+    Labor-HHS-Education division of the package by 5 percent. That
+    amendment was rejected, 123-292. House members voted separately on
+    an amendment by Alexandria Ocasio-Cortez, D-N.Y., to block the
+    military from recruiting using e-sports platforms like Twitch, which
+    was defeated." \[Congressional Quarterly,
+    [7/31/20](https://plus.cq.com/doc/news-5973019?17)\]
+
+-   **Included In The En Bloc Amendments Was A Provision To Effectively
+    End Trump's Transgender Military Ban.** According to Congressional
+    Quarterly, "The House adopted by voice vote an amendment to the
+    fiscal 2021 Defense appropriations bill Thursday that would
+    effectively bring an end to the Trump administration's severe
+    restrictions on transgender people serving openly in the U.S.
+    military. The amendment was tucked into a massive en bloc package of
+    amendments that were attached to the six-bill spending package that
+    includes defense funding \[...\] the amendment would block the use
+    of funds to implement policy issued in April 2019 that would bar
+    transgender people from joining the military and even keep some
+    transgender people who are already serving from staying in."
+    \[Congressional Quarterly,
+    [7/30/20](https://plus.cq.com/doc/news-5971667?15)\]
+
+-   **Another Provision In The En Bloc Amendments Prohibited Funds From
+    Being Used Towards The Administration's "Zero-Tolerance Police" In
+    Regards To Persecuting Criminal Immigration Offenses.** According to
+    Congressional Quarterly, "Also included in the first en bloc package
+    are a number of other politically contentious amendments \[...\] One
+    such amendment by Rep. Veronica Escobar, D-Texas, would prohibit the
+    use of funds provided by the defense bill to implement an April 2018
+    Justice Department memorandum regarding a 'zero-tolerance policy' in
+    the prosecution of criminal immigration offenses along the southwest
+    U.S. border." \[Congressional Quarterly,
+    [7/30/20](https://plus.cq.com/doc/news-5971667?15)\]
+
+-   **Democrats Pushed Through Additional Amendments To Block The DOJ
+    From Interfering With State Marijuana Laws And From Gutting The ACA
+    In Court.** According to Congressional Quarterly, "They also voted
+    on an amendment from Earl Blumenauer, D-Ore., to block the
+    administration from intervening with state and tribal cannabis
+    legalization efforts, and one from Lauren Underwood, D-Ill., to
+    prevent the White House from trying to gut the 2010 health care law
+    in court. Both amendments were adopted." \[Congressional Quarterly,
+    [7/31/20](https://plus.cq.com/doc/news-5973019?17)\]
+
+-   **Another Amendment Prohibited Funds To BE Used For Buying Chemical
+    Weapons For Domestic Riot Control.** According to Congressional
+    Quarterly, "Another, sponsored by Rep. Alma Adams, D-N.C., would
+    prohibit the bill's funds from being used for the acquisition of
+    chemical weapons for domestic riot control. The language comes after
+    an at times violent response by federal and local enforcement to the
+    nationwide protests that emerged following the police killing of
+    George Floyd." \[Congressional Quarterly,
+    [7/30/20](https://plus.cq.com/doc/news-5971667?15)\]
+
+-   **Republicans Tried To Cut A \$15 Million Pilot Program Providing
+    Grants To Nonprofit Organizations Helping Asylum Seekers At The
+    Mexico Border.** According to Congressional Quarterly, "Before final
+    passage, the House rejected a motion to recommit from Republicans, a
+    procedural maneuver that would have amended the bill, that would
+    have eliminated \$15 million for a pilot program to provide grants
+    to nonprofit organizations providing legal representation for asylum
+    seekers at the Mexico border. Republicans wanted to move that
+    money to the Byrne grants program, which provides funding for local,
+    state and tribal police departments \[...\] the grant program would
+    help reduce the backlog of claims that has led to crowded conditions
+    at immigration detention facilities." \[Congressional Quarterly,
+    [7/31/20](https://plus.cq.com/doc/news-5973019?17)\]
+
+-   **The White House Issued A Veto Threat For The Six-Bill Package,
+    Citing Issues Ranging From Use Of Military Force Authorizations To
+    Face Mask Requirements.** According to Congressional Quarterly, the
+    White House issued a veto threat and "took issue with everything
+    from repeal of Bush-era authorizations for the use of military force
+    to a mandate that airline, rail, and transit passengers wear face
+    masks \[...\] the vote margin wasn't large enough to override a
+    potential veto by President Donald Trump. The final spending bills
+    will have to be negotiated with the White House and GOP-controlled
+    Senate, most likely after November elections." \[Congressional
+    Quarterly, [7/31/20](https://plus.cq.com/doc/news-5973019?17)\]
+
+**2020: Fitzpatrick Voted Against The \$260 Billion House FY 2021
+Four-Bill Appropriations Package That, Among Other Provisions, Required
+The Military To Rename Bases That Honor Confederate Soldiers.** In July
+2020, Fitzpatrick voted against the FY 2021 four-bill appropriations
+package that would, according to Congressional Quarterly, "provide
+\$259.5 billion in discretionary funding for four of the twelve fiscal
+2021 appropriations bills, including \$65.9 billion for the State
+Department and related agencies, \$24 billion for the Agriculture
+Department and related agencies, \$115.5 billion for the Veterans
+Affairs Department, military construction, and related agencies, and
+\$36.8 billion for the Interior Department, Environmental Protection
+Agency, and related agencies. Within total funding, the bill would
+provide \$8.35 billion in overseas contingency operations funding and
+\$37.5 billion in emergency funding related to the COVID-19 pandemic,
+veterans\' healthcare, and infrastructure projects, not subject to
+discretionary spending caps. Among other provisions, the bill would
+provide approximately \$10 billion across a number of foreign assistance
+accounts for COVID-19 preparedness and response, including \$1.3 billion
+for the United Nations global humanitarian response plan; \$9 billion
+for international security assistance, including at least \$3.3 billion
+for foreign military financing for Israel and \$1.4 billion for
+narcotics control activities. It would provide loan authority of \$25.3
+billion for Agriculture Department rural housing service loans. It would
+provide \$9.4 billion in discretionary funding for the Environmental
+Protection Agency, as well as \$13 billion in emergency supplemental
+funding for infrastructure investments; and it would provide \$2 billion
+in emergency infrastructure investment funding for Indian health and
+education programs. It would provide \$90.9 billion for the Veterans
+Health Administration and \$10.1 billion for military construction
+activities, and it would prohibit the use of funds provided for
+construction of a physical barrier on the southern U.S. border or for
+construction on a military installation named for a confederate officer,
+unless a process to rename the installation has begun. As amended, the
+bill would provide an additional \$529 million for the Supplemental
+Nutrition Assistance Program in Puerto Rico and an additional \$500
+million for EPA safe drinking water grants to states and tribes. It
+would also prohibit the use of funds provided by the bill to withdraw
+the U.S. from the World Health Organization, or to implement a number of
+Trump administration policies, including a rule related to environmental
+impact assessments under the National Environmental Policy Act and an
+executive order related to Defense Production Act authority to ensure
+continued meat and poultry production during the COVID-19 national
+emergency." The vote was on passage. The House passed the bill by a vote
+of 224-189. The Senate did not take up the bill. \[House Vote 166,
+[7/24/20](http://clerk.house.gov/evs/2020/roll166.xml); Congressional
+Quarterly, [7/24/20](https://plus.cq.com/vote/2020/H/166?7);
+Congressional Actions,
+[H.R.7608](https://www.congress.gov/bill/116th-congress/house-bill/7608/all-actions?q=%7b%22search%22%3A%5B%22hr+7608%22%5D%7d&s=3&r=1)\]
+
+-   **The Package Funded The Departments Of Agriculture, Interior,
+    Environment, VA, And State.** According to Congressional Quarterly,
+    "The House voted 224-189 to approve a \$259.5 billion four-bill
+    measure consisting of the Agriculture, Interior-Environment,
+    Military Construction-VA and State-Foreign Operations bills. The
+    package includes \$27.5 billion in emergency spending that
+    Republicans and the White House contend busts the budget caps deal
+    reached last summer and contains numerous policy riders they labeled
+    'poison pills.'" \[Congressional Quarterly,
+    [7/24/20](https://plus.cq.com/doc/news-5966059?9)\]
+
+-   **The White House Opposed, Among Other Provisions, Overturning An
+    Administration Ban On Funds For Overseas Groups Promoting Abortions,
+    Food Stamps Restrictions, And Renaming Bases Named For Confederate
+    Soldiers.** According to Congressional Quarterly, "The 13-page White
+    House veto threat delivered Thursday took issue with provisions that
+    would, among others, "overturn a Trump administration ban on funds
+    for overseas groups that perform or promote abortions. Prevent the
+    administration from shuttering Peace Corps activities in China.
+    Block food stamps restrictions for able-bodied adults with children.
+    Require the National Park Service to take down plaques, statues and
+    other items commemorating the Confederacy, and rename military bases
+    named for Confederate soldiers. Block the White House from shifting
+    funds from military construction projects to President Donald
+    Trump\'s prized border wall project." \[Congressional Quarterly,
+    [7/24/20](https://plus.cq.com/doc/news-5966059?9)\]
+
+-   **Republicans Attempted To Shift \$102.5 Million From A Fund That
+    Helped Developing Nations Reduce Greenhouse Gas Emissions Towards A
+    New "Countering Chinese Influence Fund."** According to
+    Congressional Quarterly, "The GOP motion to recommit, a procedural
+    move that would have had the same effect as an amendment, would have
+    shifted \$102.5 million from the foreign aid account that funds
+    economic support initiatives to the account that funds anti-poverty
+    and democracy-building activities. Republicans said the intent was
+    to take the money out of \$500 million set aside for 'a dedicated
+    international' fund to help developing nations reduce greenhouse gas
+    emissions, such as the United Nations\' Green Climate Fund. Instead,
+    the \$102.5 million would be shifted to a newly established
+    'Countering Chinese Influence Fund,' which was funded at 'not less
+    than' \$300 million in fiscal 2020 " \[Congressional Quarterly,
+    [7/24/20](https://plus.cq.com/doc/news-5966059?9)\]
+
+-   **The House Rejected GOP Amendments To Reduce Interior And EPA
+    Amendments And Passed An Amendment To Prevent The EPA From Rolling
+    Back Regulations On Soot.** According to Congressional Quarterly,
+    "In the last series of votes Friday, the House rejected GOP
+    amendments that would have reduced spending at the Interior
+    Department and EPA \[...\] The House on Friday voted 233-176 to
+    adopt an amendment from several Democrats that would cut off funding
+    for the EPA to finish and implement a regulation it proposed in
+    April, when it decided not to require more stringent air standards
+    for fine particulate matter, sometimes referred to as soot.
+    Democrats argued not implementing stricter soot standards is a
+    disservice to Americans and would disproportionately impact
+    communities of color." \[Congressional Quarterly,
+    [7/24/20](https://plus.cq.com/doc/news-5966059?9)\]
+
+### Budget Resolution
+
+**2021: Fitzpatrick Effectively Voted Against The FY 2021 Budget
+Resolution, Which Set Annual Budgetary Levels For Federal Revenues And
+Provided Reconciliation Instructions.** In February 2021, according to
+Congressional Quarterly, Fitzpatrick voted against the "adoption of the
+rule (H Res 101) that would provide for automatic agreement to the
+fiscal 2021 budget resolution (S Con Res 5)." The vote was on adoption
+of the rule. The House adopted the rule by a vote of 219-220, thus
+adopting the FY 2021 budget resolution automatically. \[House Vote 27,
+[2/5/21](http://clerk.house.gov/evs/2021/roll027.xml); Congressional
+Quarterly, [2/5/21](https://plus.cq.com/vote/2021/H/27?7); Congressional
+Actions, [S.Con.Res.
+5](https://www.congress.gov/bill/117th-congress/senate-concurrent-resolution/5/actions);
+Congressional Actions, [H.Res.
+101](https://www.congress.gov/bill/117th-congress/house-resolution/101/actions)\]
+
+-   **The Budget Resolution Allowed For The Passage Of A \$1.9 Trillion
+    Coronavirus Relief Package With A Simple Majority In Both
+    Chambers.** According to The Guardian, "The US Senate has passed a
+    budget resolution that allows for the passage of Joe Biden's \$1.9tn
+    (£1.4tn) Covid-19 relief package in the coming weeks without
+    Republican support \[...\] The House passed its own budget measure
+    on Wednesday. Congress can now work to write a bill that can be
+    passed by a simple majority in both houses, which are controlled by
+    Democrats." \[The Guardian,
+    [2/5/21](https://www.theguardian.com/us-news/2021/feb/05/kamala-harris-casting-vote-us-senate-covid-relief-coronavirus-minimum-wage)\]
+
+-   **After Over A Day Of The "Marathon Senate Debate Session," Where
+    Unlimited Amendments Were Offered As A "Vote-A-Rama," The Budget
+    Resolution Was Voted On At 5:30 AM On February 5th, 2021.**
+    According to The Guardian, "The vote came at 5.30am on Friday at the
+    end of a marathon Senate debate session, known among senators as a
+    'vote-a-rama', a procedure whereby they can theoretically offer
+    unlimited amendments." \[The Guardian,
+    [2/5/21](https://www.theguardian.com/us-news/2021/feb/05/kamala-harris-casting-vote-us-senate-covid-relief-coronavirus-minimum-wage)\]
+
+-   **The Senate Adopted By Voice Vote An Amendment By Senator Ernst
+    That Would Prohibit The Federal Government From Raising The Minimum
+    Wage During The Pandemic.** According to The Guardian, "There was
+    dissent from Republicans in the Senate overnight, particularly over
+    plans for a \$15 federal minimum wage. Iowa's Republican senator,
+    Joni Ernst, raised an amendment to 'prohibit the increase of the
+    federal minimum wage during a global pandemic', which was carried by
+    a voice vote." \[The Guardian,
+    [2/5/21](https://www.theguardian.com/us-news/2021/feb/05/kamala-harris-casting-vote-us-senate-covid-relief-coronavirus-minimum-wage)\]
+
+-   **The Budget Resolution Allowed For The Passage Of A Relief Package
+    To Expedite The Distribution Of COVID-19 Vaccines, Extend
+    Unemployment Benefits, And Provide Relief Payments To Individuals.**
+    According to The Guardian, "The \$1.9 trillion relief package
+    proposed would be used to speed Covid-19 vaccines throughout the
+    nation. Other funds would extend special unemployment benefits that
+    will expire at the end of March and make direct payments to people
+    to help them pay bills and stimulate the economy." \[The Guardian,
+    [2/5/21](https://www.theguardian.com/us-news/2021/feb/05/kamala-harris-casting-vote-us-senate-covid-relief-coronavirus-minimum-wage)\]
+
+-   **Almost 900 Amendments Were Submitted For The "Vote-A-Rama," In
+    Which Republicans Attempted to Tackle Partisan "Topics Such As
+    Illegal Immigration, Reopening Public Schools and Nursing Home
+    Deaths During The Pandemic."** According to Congressional Quarterly,
+    "Senate adoption came in the wee hours of Friday morning after a
+    'vote-a-rama' session that began at 2:30 p.m. Thursday. Nearly 900
+    amendments were filed, featuring numerous GOP messaging ploys on a
+    range of hot-button topics such as illegal immigration, reopening
+    public schools and nursing home deaths during the pandemic."
+    \[Congressional Quarterly,
+    [2/4/21](https://plus.cq.com/doc/news-6116098?14)\]
+
+**2021: Fitzpatrick Effectively Voted Against The FY 2021 Budget
+Resolution.** In Febuary 2021, according to Congressional Quarterly,
+Fitzpatrick voted against the "motion to order the previous question
+(thus ending debate and possibility of amendment) on the rule (H Res
+101) that would provide for automatic agreement to the fiscal 2021
+budget resolution (S Con Res 5)." The vote was on a motion to order the
+previous question. The House agreed to the motion by a vote of 220-210.
+\[House Vote 26, [2/5/21](http://clerk.house.gov/evs/2021/roll026.xml);
+Congressional Quarterly, [2/5/21](https://plus.cq.com/vote/2021/H/26?6);
+Congressional Actions, [S.Con.Res.
+5](https://www.congress.gov/bill/117th-congress/senate-concurrent-resolution/5/actions);
+Congressional Actions, [H.Res.
+101](https://www.congress.gov/bill/117th-congress/house-resolution/101/actions)\]
+
+**2021: Fitzpatrick Voted Against The FY 2021 Budget Resolution, Which
+Would Establish Budgetary Levels For FY 2021 Through FY 2030 And Provide
+Reconciliation Instructions For Any Bills That Increase The Deficit.**
+In February 2021, Fitzpatrick voted against a concurrent resolution
+which would, according to Congressional Quarterly, "set annual budgetary
+levels for federal revenues, new budget authority, outlays, deficits and
+public debt for fiscal years 2021 through 2030, including to outline
+annual levels of new budget authority and outlays for each of the 20
+major budget function categories. The concurrent resolution would direct
+12 House committees to make recommendations within their respective
+jurisdictions for budget reconciliation legislation that combined could
+increase the deficit by up to \$1.9 trillion through fiscal 2030,
+intended to be used as a vehicle for further COVID-19 relief. It would
+require the committees to report their recommendations to the House
+Budget Committee by Feb. 16, 2021, and specify amounts by which each
+committee\'s recommendations could increase the total deficit, including
+\$940.72 billion for the Ways and Means Committee, \$357.08 billion for
+the Education and Labor Committee, \$350.7 billion for the Oversight and
+Reform Committee and \$188.5 billion for the Energy and Commerce
+Committee. The concurrent resolution would include two reserve funds for
+the House Budget Committee to revise committee allocations and other
+budgetary levels for budget reconciliation legislation within the
+deficit limits established by the concurrent resolution, and for any
+other legislation that would not increase the deficit for a five-year
+time period through fiscal 2025 or a ten-year time period through fiscal
+2030. Among other provisions, it would authorize the House and Senate
+Appropriations committees to receive a separate discretionary budget
+allocation for administrative expenses related to the Social Security
+Administration and the United States Postal Service, and it would
+continue for fiscal 2021 certain existing limitations on advance
+appropriations." The vote was on passage. The House passed the
+concurrent resolution by a vote of 218-212. \[House Vote 21,
+[2/3/21](http://clerk.house.gov/evs/2021/roll021.xml); Congressional
+Quarterly, [2/3/21](https://plus.cq.com/vote/2021/H/21?53);
+Congressional Actions, [H.Con.
+11](https://www.congress.gov/bill/117th-congress/house-concurrent-resolution/11/actions)\]
+
+### Continuing Resolution
+
+**2020: Fitzpatrick Voted For The FY 2021 Continuing Resolution That
+Would Fund The Government Through December 11, 2020.** In September
+2020, Fitzpatrick voted for the FY 2021 continuing resolution that
+would, according to Congressional Quarterly, "provide funding for
+federal government operations and services through Dec. 11, 2020, at
+fiscal 2020 levels and extend authorizations for a number of expiring
+programs and entities. It would allow for increased funding rates for
+certain activities, including FEMA disaster relief, Navy shipbuilding,
+Small Business Administration loans and the 2020 census \[...\] It would
+extend through fiscal 2021 a number of pandemic-related nutrition
+benefits, including waivers for the Supplemental Nutrition Assistance
+Program. It would expand certain benefits to provide meals for children
+affected by reduced hours at schools or child care center closures. It
+would provide for the reimbursement of funds to the Agriculture
+Department Commodity Credit Corporation to continue providing aid to
+farmers, and it would prohibit the use of such funds for payments to any
+fossil fuel refiner or importer. It would also provide \$49 million for
+activities related to the presidential transition and the January 2021
+inauguration; extend for the duration of the continuing resolution a
+number of Medicare and Medicaid programs and other health-related Health
+and Human Service Department programs; limit the maximum increase in
+Medicare Part B premiums; extend for two years a number of programs for
+veterans related to healthcare and housing; and permit the Citizenship
+and Immigration Services Agency to increase fees for expediting certain
+immigration applications to use for adjudication and naturalization
+services." The vote was on passage. The House passed the bill by a vote
+of 359-57. \[House Vote 198,
+[9/22/20](http://clerk.house.gov/evs/2020/roll198.xml); Congressional
+Quarterly, [9/22/20](https://plus.cq.com/vote/2020/H/198?4);
+Congressional Actions,
+[H.R.8337](https://www.congress.gov/bill/116th-congress/house-bill/8337/all-actions?q=%7b%22search%22%3A%5B%22hr+8337%22%5D%7d&s=1&r=1)\]
+
+-   **The Stopgap Deal Centered On A Debate For Farm Payments, Which Was
+    Included In The Final Bill As Well As A Provision Barring Such
+    Payments From "Being Misused For A Big Oil Bailout."** According to
+    Congressional Quarterly, "the House swiftly passed a stopgap funding
+    measure needed to avert a partial government shutdown in eight days
+    after top congressional leaders reached a deal resolving a fight
+    over farm payments \[...\] The bipartisan pact would restore money
+    for farm payments sought by lawmakers from both parties that House
+    leaders had rejected in an earlier stopgap bill \[...\] The
+    agreement also contains language Pelosi said would prevent 'funds
+    for farmers from being misused for a Big Oil bailout,' after earlier
+    reports surfaced that the administration has been planning to divert
+    Commodity Credit Corporation funds to refiners" \[Congressional
+    Quarterly, [9/23/20](https://plus.cq.com/doc/btnews-6011316?6)\]
+
+-   **The Continuing Resolution Extended Coronavirus Pandemic-Related
+    Flexibilities Such As Food Stamps And School Meals.** According to
+    Congressional Quarterly, "The measure includes new provisions that
+    would extend pandemic-related flexibilities in the food stamp
+    program for another year and expand the school meals program to
+    those attending child care centers that were closed because of the
+    pandemic, among other things." \[Congressional Quarterly,
+    [9/23/20](https://plus.cq.com/doc/btnews-6011316?6)\]
+
+### Omnibus Appropriations And Coronavirus Relief
+
+**2020: Fitzpatrick Voted For \$519 Billion In Funding For Eight
+Appropriations Bills, Including Funds For The Departments Of Labor,
+Health And Human Services, Education, Energy, Transportation, Housing
+And Urban Development, Veterans Affairs, State, Agriculture, And Funds
+To Counter Chinese And Russian Influence.** In December 2020,
+Fitzpatrick voted for the second portion of the FY2021 Omnibus
+Appropriations and Coronavirus Relief package which would, according to
+Congressional Quarterly, "provide approximately \$519 billion in
+discretionary funding for eight of the twelve fiscal 2021 appropriations
+bills including \$197 billion for the Labor, Health and Human Services
+and Education departments and related agencies; \$49.5 billion for the
+Energy Department and federal water projects; \$75.4 billion for the
+Transportation and Housing and Urban Development departments and related
+agencies; \$113.1 billion for the Veterans Affairs Department, military
+construction, and related agencies; \$55.5 billion for the State
+Department and related agencies; \$49.5 billion for the Interior
+Department, Environmental Protection Agency, and related agencies;
+\$23.4 billion for the Agriculture Department and related agencies; and
+\$5.3 billion for legislative branch entities. It would provide \$114
+billion in mandatory spending for the Supplemental Nutrition Assistance
+Program; \$42.9 billion for the National Institutes of Health; \$18
+billion for the Federal Aviation Administration; \$9.2 billion for the
+Environmental Protection Agency; and \$7.9 billion for the Centers for
+Disease Control. It would provide a combined \$590 billion to assist
+developing countries in countering Chinese and Russian economic and
+political influence." The vote was on concurring in Senate amendment
+with portion of the amendment. The House agreed to the motion by a vote
+of 359-53 and sent to the President and ultimately became law. \[House
+Vote 251, [12/21/20](http://clerk.house.gov/evs/2020/roll251.xml);
+Congressional Quarterly,
+[12/21/20](https://plus.cq.com/vote/2020/H/251?0); Congressional
+Actions, [H.R.
+133](https://www.congress.gov/bill/116th-congress/house-bill/133/actions)\]
+
+**2020: Fitzpatrick Voted To Appropriate \$860 Billion In Funding For FY
+2021 To Defense, Commerce, Justice, Science, Homeland Security, And
+Financial Services.** In December 2020, Fitzpatrick voted for the first
+portion of the FY 2021 Omnibus Appropriations And Coronavirus Relief
+package which would, according to Congressional Quarterly, "provide
+approximately \$860 billion in discretionary funding for four of the
+twelve fiscal 2021 appropriations bills, including \$696 billion for the
+Defense Department; \$69 billion for the Homeland Security Department;
+\$71.1 billion for the Commerce and Justice departments and science and
+related agencies; and \$24.4 billion for the Treasury Department,
+federal judiciary and a number of executive agencies. Within total
+funding, the bill would provide \$68.7 billion in overseas contingency
+operations funding for defense activities, not subject to discretionary
+spending caps. Among other provisions, the bill would provide \$142.9
+billion for military procurement; \$33.7 billion for the Defense Health
+Program; and a 3% military pay increase. It would provide \$8 billion
+for Immigrations and Customs Enforcement, including funding for around
+34,000 detention beds; \$17.1 billion for FEMA disaster response and
+recovery activities; and \$1.38 billion for construction of a barrier
+system along the southern U.S. border. It would require CBP to submit an
+expenditure plan to Congress before obligating any procurement and
+construction funds. Within Justice Department funding, it would provide
+over \$3 billion for grants to state and local law enforcement,
+including for DNA-related programs to address unsolved civil rights
+crimes and a number of police training programs. It would require the
+Justice Department to develop national standards for police
+accreditation and provide training related to civil rights protection
+and use of force. It would provide \$23.3 billion for NASA and \$11.9
+billion for the Internal Revenue service." The vote was on concurring in
+Senate amendment with portion of the amendment. The House agreed to the
+motion by a vote of 327-85 and sent to the President and ultimately
+became law. \[House Vote 250,
+[12/21/20](http://clerk.house.gov/evs/2020/roll250.xml); Congressional
+Quarterly, [12/21/20](https://plus.cq.com/vote/2020/H/250?18);
+Congressional Actions, [H.R.
+133](https://www.congress.gov/bill/116th-congress/house-bill/133/actions)\]
+
+-   **Under The Omnibus Appropriations Bill, President Trump Would
+    Receive Approximately \$1.4 Billion For The Southern Border Wall And
+    To Maintain Immigrant Detention Centers At Capacity At 34,000 Beds
+    Through FY2021.** According to Congressional Quarterly, "President
+    Donald Trump would get nearly \$1.4 billion for his southern border
+    wall and enough funding to maintain current capacity at immigrant
+    detention centers as part of a massive spending bill Congress
+    unveiled Monday for fiscal 2021 \[...\] including \$4.1 billion for
+    immigration enforcement activities, personnel and about 34,000
+    detention beds." \[Congressional Quarterly,
+    [12/21/20](https://plus.cq.com/doc/news-6081278?2)\]
+
+**2020: Fitzpatrick Effectively Voted Against The Omnibus Appropriations
+And Coronavirus Relief, Which Would Provide Automatic Continuation Of
+Appropriations For Federal Agencies Through December 28, 2020.** In
+December 2020, Fitzpatrick voted against adoption of the rule that
+would, according to Congressional Quarterly, "provide for floor
+consideration of the legislative vehicle (HR 133) for the fiscal 2021
+omnibus appropriations and coronavirus relief package; provide for
+automatic passage of a seven-day continuing resolution (HR 1520); and
+provide for floor consideration of a veto message to accompany the
+fiscal 2021 defense authorization bill (HR 6395). Specifically, the rule
+would provide for a motion to concur in the Senate amendment to HR 133,
+with a further House amendment, debatable for up to one hour, and
+provide for a division of the question on passage of the bill \[...\] It
+would also provide for automatic passage of HR 1520, via motion to
+concur in the Senate amendment to the bill with a further House
+amendment, which would provide continued funding for federal government
+operations and services through Dec. 28, 2020, at fiscal 2020 levels. It
+would extend for the duration of the continuing resolution a number of
+Medicare, Medicaid and other public health programs and authorities
+extended by prior continuing resolutions. Finally, it would provide that
+if a veto message is received on the fiscal 2021 defense authorization
+bill (HR 6395), consideration of the veto message and the bill shall be
+postponed until Monday, Dec. 28, 2020, at which point the House shall
+proceed consideration of the veto message." The vote was on adoption of
+the rule. The House adopted the rule by a vote of 227-180. \[House Vote
+249, [12/21/20](http://clerk.house.gov/evs/2020/roll249.xml);
+Congressional Quarterly,
+[12/21/20](https://plus.cq.com/vote/2020/H/249?8); Congressional
+Actions, [H. Res.
+1271](https://www.congress.gov/bill/116th-congress/house-resolution/1271/actions)\]
+
+-   **To Prevent A Government Shutdown, The Rule Would Extend Funding To
+    Federal Agencies To Provide Time To Enroll The Omnibus Bill For The
+    Next Seven Days.** According to Congressional Quarterly, "Upon
+    adoption, the rule also would send a seven-day stop-gap funding
+    measure to the Senate to provide time for the procedural steps of
+    enrolling the omnibus bill and would keep the government open until
+    that measure is signed by the president." \[Congressional Quarterly,
+    [12/21/20](https://plus.cq.com/doc/committees-20201221454910?12)\]

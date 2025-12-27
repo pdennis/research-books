@@ -1,0 +1,21 @@
+---
+title: Cluster Munitions
+description: 
+published: true
+date: 2025-09-24T20:41:33.875Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:41:29.483Z
+---
+
+# Cluster Munitions
+
+### Transfer
+
+**2024 Schweikert Voted Against Prohibiting The Sale Or Transfer Of Cluster Munitions.** In June 2024, Schweikert voted against , according to Congressional Quarterly, "amendment no. 171 that would prohibit the use of funds in the bill to acquire, use, transfer or sell cluster munitions." The vote was on the amendment. The underlying legislation was the FY 2025 Defense Appropriations. The House rejected the amendment by a vote of 129 to 284. \[House Vote 329, [6/28/24](http://clerk.house.gov/evs/2024/roll329.xml); Congressional Quarterly, [6/28/24](https://plus.cq.com/vote/2024/H/329); Congressional Actions, [H.Amdt.1081](https://www.congress.gov/amendment/118th-congress/house-amendment/1081/actions?s=a&r=34); Congressional Actions, [H.R. 8774](http://www.congress.gov/bill/118th-congress/house-bill/8774/all-actions)\]
+
+-   **The Amendment Followed A March 2024 Decision To Send Additional Cluster Munitions To Ukraine And Three Previous Transfers To Ukraine Since The Previous July.** According to Human Rights Watch, "The decision announced March 12 by the United States government to transfer additional cluster munitions to Ukraine runs contrary to the norms of the international treaty prohibiting these weapons. The decision came against a broader backdrop of delays by the US Congress in approving military assistance to Ukraine, Ukraine's shortage of artillery projectiles, and escalating attacks by Russian forces across Ukraine. \[...\] the US Department of Defense announced that it would transfer another round of 155mm cluster munition artillery projectiles to Ukraine. The move follows three previous US cluster munition transfers to the country since last July, which have been met with criticism by more than two dozen countries, US lawmakers, and civil society groups." \[Human Rights Watch, [4/4/24](https://www.hrw.org/news/2024/04/04/us-cluster-munition-transfers-raise-humanitarian-concerns)\]
+
+**2024 Schweikert Voted Against Prohibiting The Sale Or Transfer Of Cluster Munitions.** In June 2024, Schweikert voted against , according to Congressional Quarterly, "amendment no. 40 that would bar the use of fiscal 2025 Defense Department funds authorized by the bill for the sale, export license or transfer of cluster munitions or related technology." The vote was on the amendment. The underlying legislation was the FY 2025 National Defense Authorization Act. The House rejected the amendment by a vote of 134 to 286. \[House Vote 264, [6/13/24](http://clerk.house.gov/evs/2024/roll264.xml); Congressional Quarterly, [6/13/24](https://plus.cq.com/vote/2024/H/264?11); Congressional Actions, [H.Amdt.974](https://www.congress.gov/amendment/118th-congress/house-amendment/974/actions?s=a&r=34); Congressional Actions, [H.R. 8070](http://www.congress.gov/bill/118th-congress/house-bill/8070/all-actions)\]
+
+-   **The Amendment Followed A March 2024 Decision To Send Additional Cluster Munitions To Ukraine And Three Previous Transfers To Ukraine Since The Previous July.** According to Human Rights Watch, "The decision announced March 12 by the United States government to transfer additional cluster munitions to Ukraine runs contrary to the norms of the international treaty prohibiting these weapons. The decision came against a broader backdrop of delays by the US Congress in approving military assistance to Ukraine, Ukraine's shortage of artillery projectiles, and escalating attacks by Russian forces across Ukraine. \[...\] the US Department of Defense announced that it would transfer another round of 155mm cluster munition artillery projectiles to Ukraine. The move follows three previous US cluster munition transfers to the country since last July, which have been met with criticism by more than two dozen countries, US lawmakers, and civil society groups." \[Human Rights Watch, [4/4/24](https://www.hrw.org/news/2024/04/04/us-cluster-munition-transfers-raise-humanitarian-concerns)\]

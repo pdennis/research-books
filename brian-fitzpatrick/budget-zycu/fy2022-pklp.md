@@ -1,0 +1,1248 @@
+---
+title: FY 2022
+description: 
+published: true
+date: 2025-09-22T20:18:19.698Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:18:13.476Z
+---
+
+# FY 2022
+
+**2022: Fitzpatrick Effectively Voted Against The Consolidated
+Appropriations Act, 2022.** In March 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "adoption of the rule (H Res
+973) that would provide for House floor consideration of the legislative
+vehicle (HR 2471) for the fiscal 2022 omnibus appropriations package,
+\[...\] For consideration of HR 2471, the rule would specifically
+provide for a motion to concur in the Senate amendment to the bill, with
+a further House amendment, debatable for up to one hour, and provide for
+a division of the question on passage of the bill. Under the divided
+question, one vote would be on divisions B, C, F, X, Z and titles two
+and three of division N, consisting of defense-related provisions
+including three of the 12 fiscal 2022 annual appropriations bills. The
+other vote would be on the remainder of the bill." The vote was on the
+adoption of the rule. The House adopted the rule by a vote of 218-204.
+\[House Vote 64, [3/9/22](http://clerk.house.gov/evs/2022/roll064.xml);
+Congressional Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/64?3);
+Congressional Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions?q=%7b%22search%22%3A%5B%22hr+2471%22%2C%22hr%22%2C%222471%22%5D%7d);
+Congressional Actions, [H.Res.
+973](https://www.congress.gov/bill/117th-congress/house-resolution/973/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Consolidated
+Appropriations Act, 2022.** In March 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "motion to order the previous
+question (thus ending debate and possibility of amendment) on the rule
+(H Res 973) that would provide for House floor consideration of the
+legislative vehicle (HR 2471) for the fiscal 2022 omnibus appropriations
+package, \[...\] For consideration of HR 2471, the rule would
+specifically provide for a motion to concur in the Senate amendment to
+the bill, with a further House amendment, debatable for up to one hour,
+and provide for a division of the question on passage of the bill. Under
+the divided question, one vote would be on divisions B, C, F, X, Z and
+titles two and three of division N, consisting of defense-related
+provisions including three of the 12 fiscal 2022 annual appropriations
+bills. The other vote would be on the remainder of the bill." The vote
+was on a motion to order the previous question. The House agreed to the
+motion by a vote of 219-199. \[House Vote 63,
+[3/9/22](http://clerk.house.gov/evs/2022/roll063.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/63?13);
+Congressional Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions?q=%7b%22search%22%3A%5B%22hr+2471%22%2C%22hr%22%2C%222471%22%5D%7d);
+Congressional Actions, [H.Res.
+973](https://www.congress.gov/bill/117th-congress/house-resolution/973/actions)\]
+
+### 4-Day Continuing Resolution Extension
+
+**2022: Fitzpatrick Effectively Voted Against The Extension Of
+Continuing Appropriations Act, 2022.** In March 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the "adoption of the
+rule (H Res 973) that would provide for House floor consideration of
+\[...\] the fiscal 2022 four-day continuing resolution extension (H J
+Res 75)." The vote was on the adoption of the rule. The House adopted
+the rule by a vote of 218-204. \[House Vote 64,
+[3/9/22](http://clerk.house.gov/evs/2022/roll064.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/64?3); Congressional
+Actions, [H.J.Res.
+75](https://www.congress.gov/bill/117th-congress/house-joint-resolution/75/actions?q=%7b%22search%22%3A%5B%22hj+res+75%22%2C%22hj%22%2C%22res%22%2C%2275%22%5D%7d&r=1&s=2);
+Congressional Actions, [H.Res.
+973](https://www.congress.gov/bill/117th-congress/house-resolution/973/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Extension Of
+Continuing Appropriations Act, 2022.** In March 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the "motion to order
+the previous question (thus ending debate and possibility of amendment)
+on the rule (H Res 973) that would provide for House floor consideration
+of \[...\] the fiscal 2022 four-day continuing resolution extension (H J
+Res 75)." The vote was on a motion to order the previous question. The
+House agreed to the motion by a vote of 219-199. \[House Vote 63,
+[3/9/22](http://clerk.house.gov/evs/2022/roll063.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/63?13);
+Congressional Actions, [H.J.Res.
+75](https://www.congress.gov/bill/117th-congress/house-joint-resolution/75/actions?q=%7b%22search%22%3A%5B%22hj+res+75%22%2C%22hj%22%2C%22res%22%2C%2275%22%5D%7d&r=1&s=2);
+Congressional Actions, [H.Res.
+973](https://www.congress.gov/bill/117th-congress/house-resolution/973/actions)\]
+
+### Continuing Resolution
+
+**2021: Fitzpatrick Effectively Voted Against Funding The Federal
+Government Through February 18, 2021, Providing Assistance To Afghan
+Evacuees And Unoccupied Minors, And Extending Certain Programs And
+Authorities.** In December 2021, according to Congressional Quarterly,
+Fitzpatrick voted against the motion to table, thus kill, the "motion to
+reconsider the vote by which the fiscal 2022 further continuing
+resolution (HR 6119) was passed, 221-212." The vote was on a motion to
+table. The House agreed to the motion, thus killed the motion to
+reconsider, by a vote of 217-209. \[House Vote 400,
+[12/2/21](http://clerk.house.gov/evs/2021/roll400.xml); Congressional
+Quarterly, [12/2/21](https://plus.cq.com/vote/2021/H/400?9);
+Congressional Actions, [H.R.
+6119](https://www.congress.gov/bill/117th-congress/house-bill/6119/actions)\]
+
+**2021: Fitzpatrick Voted Against Funding The Federal Government Through
+February 18, 2021 At FY 2021 Levels.** In December 2021, Fitzpatrick
+voted against the Further Extending Government Funding Act which would,
+according to Congressional Quarterly, "provide funding for federal
+government operations and services through Feb. 18, 2022, at fiscal 2021
+levels." The vote was on passage. The House passed the bill by a vote of
+221-212, sent to the Senate and President, and ultimately became law.
+\[House Vote 399,
+[12/2/21](http://clerk.house.gov/evs/2021/roll399.xml); Congressional
+Quarterly, [12/2/21](https://plus.cq.com/vote/2021/H/399?8);
+Congressional Actions, [H.R.
+6119](https://www.congress.gov/bill/117th-congress/house-bill/6119/actions)\]
+
+-   **The Senate Passed A Short-Term Funding Bill That Would Fund The
+    Federal Government Through Mid-February 2022 And Prevent A
+    Government Shutdown Of Federal Agencies After Surpassing A Partisan
+    Hurdle Over Vaccine Mandates In The Senate.** According to The
+    Guardian, "A bill to fund the US government through mid-February
+    gained the support of enough members of the Senate late on Thursday
+    to win passage and prevent a partial shutdown of federal agencies at
+    the end of this week after leaders defused a partisan standoff over
+    federal vaccine mandates." \[The Guardian,
+    [12/3/21](https://www.theguardian.com/us-news/2021/dec/02/republican-senators-threaten-government-shutdown-despite-house-passing-funding-bill)\]
+
+-   **The Short-Term Appropriations Bill Would Fund The Federal
+    Government For The Next Two And A Half Months, Until Mid-February
+    2022.** According to The Guardian, "The measure, which was approved
+    by lawmakers in the House earlier in the day, will keep the federal
+    government funded for the next two and a half months." \[The
+    Guardian,
+    [12/3/21](https://www.theguardian.com/us-news/2021/dec/02/republican-senators-threaten-government-shutdown-despite-house-passing-funding-bill)\]
+
+-   **The Measure Would Fund The Federal Government For 11 Weeks At
+    Current Spending Levels, And Would Provide An Additional \$7 Billion
+    To Support Afghan Evacuees.** According to The Guardian, "Earlier
+    Thursday, congressional leaders announced they had finally reached
+    an agreement to keep the government running for 11 more weeks,
+    generally at current spending levels, while adding \$7bn to aid
+    Afghanistan evacuees." \[The Guardian,
+    [12/3/21](https://www.theguardian.com/us-news/2021/dec/02/republican-senators-threaten-government-shutdown-despite-house-passing-funding-bill)\]
+
+-   **The Stopgap Bill Put "Agencies On Autopilot," Maintaining Spending
+    At Current Levels And Prohibiting New Contracts, Except For The New
+    Sending To Support Afghan Evacuees.** According to Bloomberg, "The
+    extension passed on Thursday puts agencies on autopilot, freezing in
+    place program funding levels and forbidding new contracts, with few
+    exceptions, one of which being \$7 billion in funding to aid Afghan
+    evacuees." \[Bloomberg,
+    [12/2/21](https://www.bloomberg.com/news/articles/2021-12-03/senate-clears-stopgap-government-spending-averting-shutdown?sref=ik1V3sxr)\]
+
+-   **The Measure Did Not Include Provisions To Address The Cuts To
+    Medicare And Other Programs Slated For January 2022.** According to
+    Bloomberg, "The stopgap does not address automatic cuts to Medicare
+    and other programs slated for January under the so-called Paygo law,
+    despite Democratic efforts to include the provision." \[Bloomberg,
+    [12/2/21](https://www.bloomberg.com/news/articles/2021-12-03/senate-clears-stopgap-government-spending-averting-shutdown?sref=ik1V3sxr)\]
+
+-   **The Stopgap Bill Did Not "Waive Statutory Pay-As-You-Go Rules"
+    That May Potentially Lead To Spending Cuts In January, Including
+    Cutting 4% From Medicare Reimbursements, Reducing Farm Subsidies And
+    Eliminating Several Small Programs.** According to Congressional
+    Quarterly, "The temporary measure would not waive statutory
+    pay-as-you-go rules that could lead to deep spending cuts starting
+    in January --- slicing 4 percent from Medicare reimbursements,
+    slashing farm subsidies and wiping out dozens of smaller programs."
+    \[Congressional Quarterly,
+    [12/2/21](https://plus.cq.com/doc/news-6404262?6)\]
+
+-   **The Deadline For Mid-February 2022 Was Later Than What Democratic
+    Leadership Wished For, But The Extension Would Grant The Senate Time
+    To Pass Full FY 2022 Appropriations Bills Or An Additional
+    Continuing Resolution.** According to Congressional Quarterly, "The
+    temporary funding measure (HR 6119) would give Congress through Feb.
+    18, 2022, to pass fiscal 2022 spending bills or another continuing
+    resolution if an agreement isn't reached. That date, which is the
+    result of negotiations with Republicans, is later than Democratic
+    leaders had wanted." \[Congressional Quarterly,
+    [12/2/21](https://plus.cq.com/doc/committees-20211202476726?2)\]
+
+**2021: Fitzpatrick Voted Against Extending Several Expiring Programs
+And Authorities, Including The Temporary Assistance For Needy Families
+Program, The National Flood Insurance Program, The Appointment Of
+Personnel To National Disaster Medical System Positions, The
+Classification Of Fentanyl Substances As Schedule I, And Increasing
+Federal Medical Assistance For U.S. Territories.** In December 2021,
+Fitzpatrick voted against the Further Extending Government Funding Act
+which would, according to Congressional Quarterly, "extend for the
+duration of the continuing resolution a number of expiring programs and
+authorities previously extended by a prior continuing resolution (PL
+117-43 / HR 4350), including the Temporary Assistance for Needy Families
+program and the National Flood Insurance Program; HHS authority to
+appoint personnel to National Disaster Medical System positions to
+respond to public health emergencies; the emergency classification of
+fentanyl-related substances as schedule I controlled substances; and the
+increased federal medical assistance percentage for U.S. territories,
+offset by a reduction of \$13 million for the Medicare Improvement
+Fund." The vote was on passage. The House passed the bill by a vote of
+221-212, sent to the Senate and President, and ultimately became law.
+\[House Vote 399,
+[12/2/21](http://clerk.house.gov/evs/2021/roll399.xml); Congressional
+Quarterly, [12/2/21](https://plus.cq.com/vote/2021/H/399?8);
+Congressional Actions, [H.R.
+6119](https://www.congress.gov/bill/117th-congress/house-bill/6119/actions)\]
+
+-   **Policymakers Searched For Ways To Restrict The Use Of Fentanyl Due
+    To The Rise Of Overdoses To Over 100,000 In The Last Year With
+    Deaths Rising During The Pandemic.** According to Congressional
+    Quarterly, "Lawmakers expressed continuing concerns Thursday about
+    how to restrict the use of the potent opioid fentanyl, as the number
+    of overdose deaths has risen to over 100,000 in a 12-month period.
+    The number of drug overdose deaths skyrocketed during the COVID-19
+    pandemic, in large part due to fentanyl, a synthetic opioid that is
+    cheap to produce and much stronger than many other opioids."
+    \[Congressional Quarterly,
+    [12/2/21](https://plus.cq.com/doc/news-6405328?5)\]
+
+-   **Through February 18, 2022, The Stopgap Bill "Would Extend Medicaid
+    Matching Rates For U.S. Territories."** According to Congressional
+    Quarterly, "it would extend higher Medicaid matching rates for U.S.
+    territories through Feb. 18." \[Congressional Quarterly,
+    [12/2/21](https://plus.cq.com/doc/news-6404262?6)\]
+
+-   **The Measure Would Halt Funding For NASA For The James Webb Space
+    Telescope, Which Was Scheduled To Launch On December 22, 2021.**
+    According to Congressional Quarterly, "The stopgap bill also would:
+    Repeal a provision in the fiscal 2021 omnibus spending law (PL
+    116-260) that would block NASA funding for the James Webb Space
+    Telescope, currently scheduled to launch on Dec. 22."
+    \[Congressional Quarterly,
+    [12/2/21](https://plus.cq.com/doc/news-6404262?6)\]
+
+-   **The Measure Would "Extend A Pay Freeze For The Vice President" And
+    Other Senior Executives For An Additional Year.** According to
+    Congressional Quarterly, "The stopgap bill also would: Extend a pay
+    freeze for the vice president and other senior executive branch
+    officials for another year." \[Congressional Quarterly,
+    [12/2/21](https://plus.cq.com/doc/news-6404262?6)\]
+
+-   **The Measure Extend An Exemption From The Antideficiency Act Rules
+    To Continue Providing "Broadband Funds To Schools, Libraries,
+    Hospitals And Rural Areas."** According to Congressional Quarterly,
+    "The stopgap bill also would: Extend an exemption from
+    Antideficiency Act rules for the Federal Communications Commission's
+    Universal Service Fund to continue to provide broadband funds to
+    schools, libraries, hospitals and rural areas." \[Congressional
+    Quarterly, [12/2/21](https://plus.cq.com/doc/news-6404262?6)\]
+
+**2021: Fitzpatrick Voted Against Extending A Waiver Expanding
+Supplemental Nutrition Assistance Program Eligibility To Living Facility
+Residents Through December 31, 2021 And Increasing By \$100 Million The
+Annual Funding For Emergency Foreign Military Assistance.** In December
+2021, Fitzpatrick voted against the Further Extending Government Funding
+Act which would, according to Congressional Quarterly, "extend through
+Dec. 31, 2021, a waiver making supportive living facility residents
+eligible for Supplemental Nutrition Assistance Program benefits and
+increase from \$100 million to \$200 million annual funding the
+president may direct for immediate foreign military assistance to
+respond to an unforeseen emergency." The vote was on passage. The House
+passed the bill by a vote of 221-212, sent to the Senate and President,
+and ultimately became law. \[House Vote 399,
+[12/2/21](http://clerk.house.gov/evs/2021/roll399.xml); Congressional
+Quarterly, [12/2/21](https://plus.cq.com/vote/2021/H/399?8);
+Congressional Actions, [H.R.
+6119](https://www.congress.gov/bill/117th-congress/house-bill/6119/actions)\]
+
+-   **The Stopgap Bill Would Temporarily Increase Funding For The Indian
+    Health Service, Prevent Cuts In Food Packages For Low-Income Women
+    And Children, And Extend A Waiver Until December 31, 2021 To Permit
+    Assisted Living Residents To Access Food Stamps.** According to
+    Congressional Quarterly, "The CR would temporarily boost funding for
+    Indian Health Service staffing; avert cuts in food packages for
+    low-income women, infants and children that could reduce access to
+    fruits and vegetables; and extend a waiver expiring Dec. 31 that
+    allows individuals in assisted living facilities to access food
+    stamp benefits." \[Congressional Quarterly,
+    [12/2/21](https://plus.cq.com/doc/news-6404262?6)\]
+
+**2021: Fitzpatrick Effectively Voted Against The FY 2022 Further
+Continuing Resolution.** In December 2021, according to Congressional
+Quarterly, Fitzpatrick voted for the "motion to recommit the fiscal 2022
+further continuing resolution to the House Appropriations Committee."
+The vote was on a motion to recommit. The House rejected the motion by a
+vote of 211-219. \[House Vote 398,
+[12/2/21](http://clerk.house.gov/evs/2021/roll398.xml); Congressional
+Quarterly, [12/2/21](https://plus.cq.com/vote/2021/H/398?6);
+Congressional Actions, [H.R.
+6119](https://www.congress.gov/bill/117th-congress/house-bill/6119/actions)\]
+
+**2021: Fitzpatrick Voted To Provide FY 2022 Appropriations To Federal
+Agencies Through December 3rd, 2021, Which Would Prevent A Government
+Shutdown When FY 2022 Begins, And To Provide Emergency Funds For Natural
+Disaster Relief And Afghan Evacuee Aid.** In September 2021, Fitzpatrick
+voted for a motion to concur in the Senate amendment to the Extending
+Government Funding and Delivering Emergency Assistance Act of 2021 which
+would, according to Congressional Quarterly, "provide funding for
+federal government operations and services through Dec. 3, 2021, at
+fiscal 2021 levels and provide emergency funding for natural disaster
+relief and Afghan evacuee assistance." The vote was on a motion to
+concur in the Senate amendment. The House agreed to the motion by a vote
+of 254-175 and sent to the President and became law. \[House Vote 311,
+[9/30/21](http://clerk.house.gov/evs/2021/roll311.xml); Congressional
+Quarterly, [9/30/21](https://plus.cq.com/vote/2021/H/311?3);
+Congressional Actions, [H.R.
+5305](https://www.congress.gov/bill/117th-congress/house-bill/5305/actions)\]
+
+-   **The Final Version Of The Short --Term Appropriations Package Did
+    Not Include A Provision To Suspend The Debt Ceiling After Being
+    Stripped Down In The Senate.** According to Congressional Quarterly,
+    "The Senate vote on the stopgap measure earlier Thursday was 65-35,
+    topping a 60-vote threshold party leaders agreed to. All the 'no'
+    votes came from Republicans, but passage wasn\'t really in doubt
+    after Democratic leaders agreed to drop language in the original
+    House-passed version that would have suspended the debt ceiling
+    through the midterm elections next year." \[Congressional Quarterly,
+    [9/30/21](https://plus.cq.com/doc/news-6355076?5)\]
+
+-   **Before Sending The Package To The House To Concur, The Senate
+    Rejected Republican Amendments That Would Have Changed Afghan
+    Evacuee Assistance Provisions, Prohibited Vaccine Mandates For
+    Private Businesses, And Postponed Lawmakers' Paychecks Until
+    Congress Were To Pass A Budget Resolution And All 12 Appropriations
+    Bills.** According to Congressional Quarterly, "Before approving the
+    stopgap spending bill, senators rejected three Republican amendments
+    that would have changed provisions in the legislation addressing
+    Afghan resettlement, barred a vaccine mandate for private businesses
+    and prevented lawmakers from being paid until Congress adopts a
+    budget resolution and clears all dozen of the annual appropriations
+    bills." \[Congressional Quarterly,
+    [9/30/21](https://plus.cq.com/doc/news-6355076?5)\]
+
+-   **The Stopgap Funding Measure Would Maintain Spending Levels For
+    Defense And Non-Defense Programs At FY 2021 Levels, Which Would Buy
+    Congress Until December 3rd, 2021 To Negotiate On Broader Funding
+    Bills Or Pass Another Short-Term Appropriations Package.** According
+    to Politico, "The continuing resolution would keep spending levels
+    static for both the military and non-defense programs, buying
+    Congress until Dec. 3 to either work out a broader deal on new
+    funding totals or yet another temporary patch." \[Politico,
+    [9/30/21](https://www.politico.com/news/2021/09/30/senate-9-week-funding-patch-shutdown-514810)\]
+
+-   **Many Senate Republicans Disagreed With Provisions Of The Measure
+    That Would Grant Afghan Evacuees REAL IDs, And Senator Cotton
+    Attempted To Strike The Provision.** According to Politico, "Many
+    Senate Republicans have taken issue with language in the funding
+    bill that would grant Afghan refugees REAL IDs, the federally
+    recognized identification cards Congress mandated after the Sept.
+    11, 2001, terrorist attacks to ramp up the security of ID checks at
+    airports and federal facilities. So the Senate voted on an amendment
+    by Sen. Tom Cotton of Arkansas that would have nixed that ID
+    eligibility." \[Politico,
+    [9/30/21](https://www.politico.com/news/2021/09/30/senate-9-week-funding-patch-shutdown-514810)\]
+
+-   **The Bill Authorized Higher Spending For Certain Programs,
+    Including \$2.5 Billion For Health And Human Services To Support
+    Services For Unaccompanied Minors Who Cross The Border, \$250
+    Million For U.S. Citizenship And Immigration Services For Processing
+    Applications And Supporting The Refugee Program, And Increased Funds
+    For WIC, White House COVID Activities, And The National Suicide
+    Hotline.** According to Congressional Quarterly, "provide additional
+    appropriations or higher spending rates for certain programs,
+    including \$2.5 billion for Health and Human Services Department
+    refugee assistance to support services for unaccompanied minors who
+    have crossed the U.S. border; \$250 million for U.S. Citizenship and
+    Immigration Services for application processing and refugee program
+    support; increased amounts for cash-value vouchers under the
+    supplemental nutrition program for women, infants and children
+    (WIC); and increased spending for White House COVID-19 activities
+    and the national suicide hotline." \[Congressional Quarterly,
+    [9/30/21](https://plus.cq.com/vote/2021/H/311?3)\]
+
+-   **The Legislation Would Seek To Care And Shelter Undocumented
+    Migrant Children Who Cross The Border Unaccompanied As They Wait For
+    The Government To Review Their Stays By Providing \$2.5 Billion.**
+    According to Congressional Quarterly, "Another \$2.5 billion goes
+    toward care and shelter for undocumented migrant children who
+    crossed the border alone while the government reviews their status."
+    \[Congressional Quarterly,
+    [9/30/21](https://plus.cq.com/doc/news-6355076?2)\]
+
+-   **The Bill Extended Several Expiring Programs, Including The
+    Temporary Assistance For Needy Families Program, The National Flood
+    Insurance Program, The Increased Federal Medical Assistance For U.S.
+    Territories, And The Appointment Of Personnel To The National
+    Disaster Medical System.** According to Congressional Quarterly,
+    "extend for the duration of the continuing resolution a number of
+    expiring programs and authorities, including the Temporary
+    Assistance for Needy Families program and the National Flood
+    Insurance Program; the increased federal medical assistance
+    percentage for U.S. territories, offset by a reduction of \$96
+    million for the Medicare Improvement Fund; and HHS authority to
+    appoint personnel to National Disaster Medical System positions to
+    respond to public health emergencies." \[Congressional Quarterly,
+    [9/30/21](https://plus.cq.com/vote/2021/H/311?3)\]
+
+-   **The Bill Extended The Emergency Classification Of Fentanyl-Related
+    Substances As Schedule I Controlled Substances Through January 28,
+    2022.** According to Congressional Quarterly, "extend through Jan.
+    28, 2022, the emergency classification of fentanyl-related
+    substances as schedule I controlled substances." \[Congressional
+    Quarterly, [9/30/21](https://plus.cq.com/vote/2021/H/311?3)\]
+
+-   **The Bill Extended Agriculture Department Authority To Grant Child
+    Nutrition Waivers Through June 30, 2022.** According to
+    Congressional Quarterly, "extend through June 30, 2022, Agriculture
+    Department authority to provide child nutrition waivers as a result
+    of the COVID-19 pandemic." \[Congressional Quarterly,
+    [9/30/21](https://plus.cq.com/vote/2021/H/311?3)\]
+
+**2021: Fitzpatrick Voted Against Funding Federal Agencies Through
+December 3rd, 2021, Against Providing Emergency Funds For Natural
+Disaster Relief And Afghan Evacuee Aid, And Against Suspending The
+Public Debt Limit Through December 16, 2022,.** In September 2021,
+Fitzpatrick voted against the Extending Government Funding and
+Delivering Emergency Assistance Act of 2021 which would, according to
+Congressional Quarterly, "provide funding for federal government
+operations and services through Dec. 3, 2021, at fiscal 2021 levels;
+provide emergency funding for natural disaster relief and Afghan evacuee
+assistance; and suspend the statutory limit on federal debt through Dec.
+16, 2022. It would provide \$28.6 billion in supplemental appropriations
+for natural disaster relief, including \$10 billion for the Agriculture
+Department to cover agricultural losses; \$5.7 billion for Army Corps of
+Engineers flood and storm damage response; \$5 billion for
+disaster-related community development block grants; \$2.6 billion to
+reimburse states and territories for damage to roads and bridges; \$1.36
+billion for the Forest Service and \$636 million for the Interior
+Department, including for wildfire response; \$1.2 billion for Small
+Business Administration disaster loans; \$895 million for Navy and Air
+Force facility repairs; \$345 million for the National Oceanic and
+Atmospheric Administration, including \$200 million for fishery disaster
+response; and \$22 million for the National Institute of Standards and
+Technology to investigate building collapses. It would provide \$6.3
+billion in supplemental appropriations to support Afghan evacuees,
+including \$2.2 billion for Defense Department assistance to Afghans
+under the special immigrant visa program and on U.S. military
+installations; \$1.7 billion for Health and Human Services Department
+resettlement and support services for Afghan arrivals and refugees; and
+\$1.8 billion for the State Department, including \$277 million for
+evacuation and related services, \$1.1 billion for resettlement and
+support services for Afghans in the United States, and \$415 million for
+migration and refugee assistance. The bill would also provide additional
+appropriations or higher spending rates for certain programs, including
+\$2.5 billion for Health and Human Services Department refugee
+assistance to support services for unaccompanied minors who have crossed
+the U.S. border; \$250 million for U.S. Citizenship and Immigration
+Services for application processing and refugee program support;
+increased amounts for cash-value vouchers under the supplemental
+nutrition program for women, infants and children (WIC); and increased
+spending for White House COVID-19 activities and the national suicide
+hotline. It would extend for the duration of the continuing resolution a
+number of expiring programs and authorities, including the Temporary
+Assistance for Needy Families program and the National Flood Insurance
+Program; the increased federal medical assistance percentage for U.S.
+territories, offset by a reduction of \$96 million for the Medicare
+Improvement Fund; and HHS authority to appoint personnel to National
+Disaster Medical System positions to respond to public health
+emergencies. It also would extend through Jan. 28, 2022, the emergency
+classification of fentanyl-related substances as schedule I controlled
+substances and extend through June 30, 2022, Agriculture Department
+authority to provide child nutrition waivers as a result of the COVID-19
+pandemic." The vote was on passage. The House passed the bill by a vote
+of 220-211. \[House Vote 267,
+[9/21/21](http://clerk.house.gov/evs/2021/roll267.xml); Congressional
+Quarterly, [9/21/21](https://plus.cq.com/vote/2021/H/267?11);
+Congressional Actions, [H.R.
+5305](https://www.congress.gov/bill/117th-congress/house-bill/5305/actions)\]
+
+-   **The Measure Would Prevent A Partial Government Shutdown On
+    September 30th, 2021, Provide \$35 Billion To Help With The
+    Relocation Of Afghan Refugees And Address Natural Disasters, And
+    Would Maintain The Government Open Through December 3rd, 2021.**
+    According to Congressional Quarterly, "The temporary funding
+    measure, which is needed to avert a partial government shutdown once
+    fiscal 2021 funding expires on Sept. 30, also would provide nearly
+    \$35 billion to address natural disasters and help relocate Afghan
+    refugees. It would keep the government open through Dec. 3."
+    \[Congressional Quarterly,
+    [9/21/21](https://plus.cq.com/doc/committees-20210921471730?2)\]
+
+-   **The Measure Would Provide Funding To Address "Drought, Fires And
+    Hurricanes That Happened In 2019, 2020, And 2021.** " According to
+    Congressional Quarterly, "With nearly half the contiguous United
+    States in drought, wildfires choking air in Western states and
+    cleanup still ongoing from Hurricane Ida, the bill proposes funding
+    across a slew of agencies and departments to respond to drought,
+    fires and hurricanes that happened in 2019, 2020 and 2021."
+    \[Congressional Quarterly,
+    [9/22/21](https://plus.cq.com/doc/news-6344498?3)\]
+
+-   **The Measure Would Provide Funding For Future Natural Disasters And
+    Intensified Climate Change Impacts, Such As Severe Flooding And
+    Rising Sea Levels.** According to Congressional Quarterly, "The
+    legislation also provides funding to brace against the impacts of
+    future storms, such as hurricanes and typhoons, which climate change
+    has made stronger by making storm surge flooding more powerful and
+    storms wetter overall. As oceans acidify and sea levels rise due to
+    human-fueled climate change, storm systems gather up more water to
+    dump." \[Congressional Quarterly,
+    [9/22/21](https://plus.cq.com/doc/news-6344498?3)\]
+
+-   **Secretary Yellen And Private Forecasters Have Warned That The
+    Treasury Department Could Run Out Of Money "To Remain Under The Debt
+    Ceiling Within Weeks" And Would Run Out By The End Of October
+    2021.** According to Congressional Quarterly, "Treasury Secretary
+    Janet L. Yellen and private forecasters have said Treasury could run
+    out of cash and accounting gimmicks to remain under the debt ceiling
+    within weeks, and probably no later than the end of October. The
+    House bill would suspend the debt limit through Dec. 16, 2022."
+    \[Congressional Quarterly,
+    [9/23/21](https://plus.cq.com/doc/news-6347513?4)\]
+
+### COVID Relief Removal
+
+**2022: Fitzpatrick Effectively Voted Against The Manager's Amendment
+That Removed The Coronavirus Relief Funding From The FY 2022 Budget.**
+In March 2022, according to Congressional Quarterly, Fitzpatrick
+effectively voted against the manager's amendment to the Fiscal Omnibus
+Appropriations, which would "strike a section providing coronavirus
+relief funding from the bill; modify a section related to expulsion of
+federal credit union members, including to specify that they may only be
+expelled for cause with a two-thirds vote and extend from 15 to 60 days
+the time an expelled member has to request a hearing; and make technical
+corrections to account for the provisions of the continuing resolution
+extension (H J Res 75)." The vote was on the adoption of the rule. The
+House adopted the rule by a vote of 218-204, thus the manager's
+amendment was automatically adopted. \[House Vote 64,
+[3/9/22](http://clerk.house.gov/evs/2022/roll064.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/64?3); Congressional
+Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions?q=%7b%22search%22%3A%5B%22hr+2471%22%2C%22hr%22%2C%222471%22%5D%7d);
+Congressional Actions, [H.Res.
+973](https://www.congress.gov/bill/117th-congress/house-resolution/973/actions)\]
+
+### Defense-Related Spending
+
+**2022: Fitzpatrick Voted For The First Portion Of The Fiscal 2022
+Omnibus Appropriations, Which Included Funding For The Departments Of
+Defense, Homeland Security, Commerce And Justice And Science Agencies,
+Funding For Assistance To Ukraine, FY 2022 Intelligence Authorization
+And Provisions Helping Israel Normalize Relations With Its Neighbors.**
+In March 2022, according to Congressional Quarterly, Fitzpatrick voted
+for the first portion of the Fiscal 2022 Omnibus Appropriations, which
+would "include the Defense, Homeland Security and
+Commerce-Justice-Science fiscal 2022 appropriations bills; funding for
+defense assistance to Ukraine; the fiscal 2022 intelligence
+authorization; and provisions related to normalizing relations between
+Israel and its neighbors." The vote was on the motion to concur in the
+Senate amendment with a House amendment. The bill was divided and this
+vote was the first portion of the bill. The House concurred with the
+Senate by a vote of 361-69. After resolving differences, the bill was
+sent to the President and became law. \[House Vote 65,
+[3/9/22](http://clerk.house.gov/evs/2022/roll065.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/65?3); Congressional
+Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **Republicans Secured A Larger Defense Spending Increase Of \$42
+    Billion, Or 5.6%, Compared To Last Year, Which Was More Than
+    Democrats Wanted.** According to Roll Call, "Republicans negotiated
+    a larger defense increase than most Democrats preferred of \$42
+    billion, or 5.6 percent, over last year, but they still fell short
+    of perfect 'parity' between the defense and nondefense increases."
+    \[Roll Call,
+    [3/9/22](https://rollcall.com/2022/03/09/house-passes-overdue-1-5-trillion-omnibus-appropriations-bill/)\]
+
+-   **The Bill Included The Defense Appropriations To Ukrainian Aid, The
+    Yearly Intelligence Authorization And A Provision To Strengthen
+    U.S.-Israel Relations And Promote Regional Peace Initiatives.**
+    According to Roll Call, "The other vote included the three
+    appropriations bills progressive Democrats often oppose: Defense,
+    Commerce-Justice-Science and Homeland Security. The second piece
+    also included the defense portions of the Ukraine supplemental, the
+    annual intelligence authorization and a section intended to promote
+    the U.S.-Israel relationship and back regional peace initiatives
+    such as the Abraham Accords brokered by the Trump administration."
+    \[Roll Call,
+    [3/9/22](https://rollcall.com/2022/03/09/house-passes-overdue-1-5-trillion-omnibus-appropriations-bill/)\]
+
+**2022: Fitzpatrick Voted To Provide \$1.5 Trillion In Discretionary
+Spending For FY 2022, Including \$728.5 Billion For Defense, \$81.1
+Billion For Homeland Security, \$75.8 Billion For Commerce And Justice
+And Science Agencies.** In March 2022, according to Congressional
+Quarterly, Fitzpatrick voted for the first portion of the Fiscal 2022
+Omnibus Appropriations, which would "provide \$1.5 trillion in
+discretionary spending for fiscal 2022. In this section, it would
+provide approximately \$728.5 billion for the Defense Department; \$81.1
+billion for the Homeland Security Department; and \$75.8 billion for the
+Commerce and Justice departments and science and related agencies." The
+vote was on the motion to concur in the Senate amendment with a House
+amendment. The bill was divided and this vote was the first portion of
+the bill. The House concurred with the Senate by a vote of 361-69. After
+resolving differences, the bill was sent to the President and became
+law. \[House Vote 65,
+[3/9/22](http://clerk.house.gov/evs/2022/roll065.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/65?3); Congressional
+Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+**2022: Fitzpatrick Voted To Provide The Military A 2.7% Pay Raise,
+\$600 Million For Security Cooperation With Ukraine And Eastern European
+Allies, \$144.9 Billion For Military Equipment Procurement, \$37.4
+Billion For Health Programs, \$1.5 Billion For Environmental
+Restoration, And Over \$1 Billion For Israel's Iron Dome Missile Defense
+System.** In March 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the first portion of the Fiscal 2022 Omnibus
+Appropriations, which "Within total Defense funding, it would provide a
+2.7 percent military pay increase; \$600 million for security
+cooperation with Ukraine and Eastern European allies; \$144.9 billion
+for military procurement; \$37.4 billion for Defense health programs;
+\$1.5 billion for environmental restoration activities; and over \$1
+billion for Israel\'s Iron Dome missile defense system." The vote was on
+the motion to concur in the Senate amendment with a House amendment. The
+bill was divided and this vote was the first portion of the bill. The
+House concurred with the Senate by a vote of 361-69. After resolving
+differences, the bill was sent to the President and became law. \[House
+Vote 65, [3/9/22](http://clerk.house.gov/evs/2022/roll065.xml);
+Congressional Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/65?3);
+Congressional Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **The Bill Defense Spending Provision Called For A Raise In Funds
+    For Military Personnel, Operations, Research And The Procurement Of
+    Ground Vehicles, Aircrafts, Munition And Other Military Equipment.**
+    According to CNN, "Spending on defense and national security makes
+    up more than half of the spending bill. The measure calls for an
+    increase in funds for military personnel, operations, research and
+    the purchase of ground vehicles, aircraft, ships, munition and other
+    equipment, according to a summary." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Provided Funding To Increase The Salaries Of Active-Duty
+    Troops By 2.7%, Which Would Allow Junior Troops To Earn An
+    Additional \$790 Per Year And Senior Officers An Additional
+    \$2,600.** According to Time, "Military families have received
+    consistent increases in their salary in recent years, and with
+    inflation soaring, the spending bill provides full funding to
+    support a 2.7% salary boost for all active-duty troops. Junior
+    enlisted troops would make about \$790 more a year, and more senior
+    officers could make an additional \$2,600. The 2.7% figure was
+    calculated using the Employment Cost Index, a federal formula that
+    tracks private sector wages." \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+### Inflation Reduction Act
+
+**2022: Fitzpatrick Voted Against The Inflation Reduction Act Of 2022, A
+Multi-Billion Package To Address Climate Resiliency, Taxes, And Health
+Care Costs.** In August 2022, according to Congressional Quarterly,
+Fitzpatrick voted against concurring in the Senate amendment to the
+Inflation Reduction Act of 2022, "comprising a package of climate, tax
+and health care provisions." The vote was on a motion to concur. The
+House concurred with the Senate by a vote 220-207, thus the bill was
+sent to President Biden for final signage. President Biden signed the
+bill and it ultimately became law. \[House Vote 420,
+[8/12/22](http://clerk.house.gov/evs/2022/roll420.xml); Congressional
+Quarterly, [8/12/22](https://plus.cq.com/vote/2022/H/420?6);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions)\]
+
+-   **The Package Would Mitigate Climate Change Effects, Reduce Health
+    Care Costs, Increase Taxes On Some Billion-Dollar Corporations And
+    Lower The Deficit.** According to The Washington Post, "The Senate
+    on Sunday approved a sweeping package to combat climate change,
+    lower health-care costs, raise taxes on some billion-dollar
+    corporations and reduce the federal deficit, as Democrats overcame
+    months of political infighting to deliver the centerpiece to
+    President Biden's long-stalled economic agenda." \[The Washington
+    Post,
+    [8/7/22](https://www.washingtonpost.com/us-policy/2022/08/07/senate-inflation-reduction-act-climate/)\]
+
+-   **The Inflation Reduction Act Was The Greatest Investment To Combat
+    Climate Change By Providing Approximately \$370 Billion To Lower
+    Greenhouse Gas Emissions To 40% Below Their 2005 Level By The End Of
+    The 2020s.** According to The Washington Post, "Dubbed the Inflation
+    Reduction Act of 2022, the package would authorize the biggest burst
+    of spending in U.S. history to tackle global warming --- about \$370
+    billion to reduce greenhouse gas emissions to 40 percent below their
+    2005 levels by the end of this decade." \[The Washington Post,
+    [8/7/22](https://www.washingtonpost.com/us-policy/2022/08/07/senate-inflation-reduction-act-climate/)\]
+
+-   **The Tax Provisions Were Established To Target Tax Evasion, Ensure
+    Billion-Dollar Companies Pay Taxes, And Generate Enough Revenue To
+    Cover The Inflation Reduction Act's Spending.** According to The
+    Washington Post, "In part by tweaking federal tax laws --- chiefly
+    to target tax cheats and some billion-dollar companies that pay
+    nothing to the government --- the bill is expected to raise enough
+    money to cover its new spending." \[The Washington Post,
+    [8/7/22](https://www.washingtonpost.com/us-policy/2022/08/07/senate-inflation-reduction-act-climate/)\]
+
+-   **Democrats Argued The Inflation Reduction Act Would Generate \$300
+    Billion Over The Next Ten Years, Effectively Lowering The Projected
+    Budget Deficits.** According to The Washington Post, "Democrats say
+    the measure is also expected to generate an additional \$300 billion
+    for reducing projected budget deficits over the next 10 years,
+    though they have not yet furnished a final fiscal analysis of their
+    legislation." \[The Washington Post,
+    [8/7/22](https://www.washingtonpost.com/us-policy/2022/08/07/senate-inflation-reduction-act-climate/)\]
+
+-   **Republicans Scrutinized The Inflation Reduction Act, Arguing The
+    Package Would Worsen Inflation.** According to The Washington Post,
+    "Republicans, meanwhile, lambasted their Democratic counterparts for
+    the drug pricing program, massive climate spending and new tax
+    policies. During nearly 19 hours of debate, GOP lawmakers alleged
+    that the measure would worsen inflation at a time when prices
+    already are rising at the fastest rate in four decades." \[The
+    Washington Post,
+    [8/7/22](https://www.washingtonpost.com/us-policy/2022/08/07/senate-inflation-reduction-act-climate/)\]
+
+-   **Republicans Argued That The Tax Provisions Threatened Workers And
+    Wages, Despite The Provisions Not Raising Taxes On Individuals.**
+    According to The Washington Post, "They painted the tax provisions,
+    in particular, as a threat to workers and their wages, even though
+    the bill would not raise rates on individuals." \[The Washington
+    Post,
+    [8/7/22](https://www.washingtonpost.com/us-policy/2022/08/07/senate-inflation-reduction-act-climate/)\]
+
+-   **While The Measure Provided Great Spending For Emissions Reduction,
+    The Bill Included Provisions That Supported Fossil Fuels To Ensure
+    Senator Joe Manchin's (D) Support For The Inflation Reduction Act.**
+    According to The Washington Post, "While the new spending
+    contributes greatly toward Biden's emission-reduction goals,
+    Democrats coupled it with additional provisions that boost fossil
+    fuels --- an approach necessary to win Manchin's support." \[The
+    Washington Post,
+    [8/7/22](https://www.washingtonpost.com/us-policy/2022/08/07/senate-inflation-reduction-act-climate/)\]
+
+-   **Non-Partisan Revenue Forecasters Predict That The Inflation
+    Reduction Act Would Not Raise Taxes On Households With Incomes Under
+    \$200K For At Least Three Years, But Households Earning Between
+    \$200K And \$500K Could Experience A Tax Increase.** According to
+    Congressional Quarterly, "Nonpartisan revenue forecasters said
+    Tuesday that the Democrats' climate, health care and tax package
+    wouldn't raise taxes on average for households earning less than
+    \$200,000, at least for the first three years the bill is in effect.
+    That bit of good news for Democrats from the Joint Committee on
+    Taxation, the official scorekeeper for tax legislation, is tempered
+    by the fact that a good chunk of households earning between
+    \$200,000 and \$500,000 would see a tax increase and fall into a
+    category President Joe Biden and Democrats pledged to protect."
+    \[Congressional Quarterly,
+    [8/9/22](https://plus.cq.com/doc/news-7548522?8)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Inflation Reduction
+Act Of 2022.** In August 2022, according to Congressional Quarterly,
+Fitzpatrick voted against the "adoption of the rule (H Res 1316) that
+would provide for consideration of the Senate amendment to the bill. It
+would provide for three hours of debate on the bill." The vote was on
+the adoption of the rule. The House adopted the rule by a vote 219-208.
+\[House Vote 419,
+[8/12/22](http://clerk.house.gov/evs/2022/roll419.xml); Congressional
+Quarterly, [8/12/22](https://plus.cq.com/vote/2022/H/419?5);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+1316](https://www.congress.gov/bill/117th-congress/house-resolution/1316/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Inflation Reduction
+Act Of 2022.** In August 2022, according to Congressional Quarterly,
+Fitzpatrick voted against the "motion to order the previous question
+(thus ending debate and possibility of amendment) on the rule (H Res
+1316) that would provide for consideration of the Senate amendment to
+the bill. It would provide for three hours of debate on the bill." The
+vote was on a motion to order the previous question. The House agreed to
+the motion by a vote 219-208. \[House Vote 418,
+[8/12/22](http://clerk.house.gov/evs/2022/roll418.xml); Congressional
+Quarterly, [8/12/22](https://plus.cq.com/vote/2022/H/418?4);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+1316](https://www.congress.gov/bill/117th-congress/house-resolution/1316/actions)\]
+
+-   **The Inflation Reduction Act Was A Scaled-Down Version Of The Build
+    Back Better Act, Which Was A Multi-Trillion Package That Failed To
+    Pass In The Senate And Would Have Addressed Climate And Social
+    Safety Nets.** According to Forbes, "The bill was proposed last week
+    by Senate Majority Leader Chuck Schumer (D-N.Y.) and Sen. Joe
+    Manchin (D-W.Va.), reviving Democrats' hopes of approving new
+    climate and healthcare funding after months of stalled negotiations.
+    It's a scaled-down version of the Build Back Better bill, a
+    multi-trillion-dollar climate and social safety net package that
+    Democrats failed to pass last year, partly due to skepticism from
+    Manchin and Sinema." \[Forbes,
+    [8/7/22](https://www.forbes.com/sites/carlieporterfield/2022/08/07/inflation-reduction-act-passes-senate-approves-430-billion-climate-and-healthcare-bill/?sh=78687e484a59)\]
+
+### Non-Defense Spending
+
+**2022: Fitzpatrick Voted For The Second Portion Of The Fiscal 2022
+Omnibus Appropriations, Which Included Non-Defense Spending, Assistance
+To Ukraine And Several Policy Provisions.** In March 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the second portion of the
+Fiscal 2022 Omnibus Appropriations, which would "include mostly
+non-defense portions of the bill, including the remaining nine fiscal
+2022 appropriations bills; funding for assistance to Ukraine; and a
+number of miscellaneous policy provisions." The vote was on the motion
+to concur in the Senate amendment with a House amendment. The bill was
+divided and this vote was the second portion of the bill. The House
+concurred with the Senate by a vote of 260-171. After resolving
+differences, the bill was sent to the President and became law. \[House
+Vote 66, [3/9/22](http://clerk.house.gov/evs/2022/roll066.xml);
+Congressional Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/66?8);
+Congressional Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **Republicans Opposed The COVID-19 Funding Provision And Demanded
+    Information Over The Allocated COVID-19 Relief That Was Unspent.**
+    According to The Hill, "Plans for new COVID-19 funding were met with
+    fierce opposition from Republicans, who, in turn, demanded the
+    spending be paid for and pressed for further information on relief
+    that had already been allocated and gone unspent." \[The Hill,
+    [3/9/22](https://thehill.com/homenews/house/597633-house-passes-sweeping-15-trillion-omnibus-spending-bill)\]
+
+-   **Several House Democrats Opposed Using Funds From The American
+    Rescue Plan To Offset The Cost Of COVID-19 Response In The Omnibus
+    Bill Because It Would Have Taken Already Allocated Money In 30
+    States.** According to CNN, "Democratic leaders had attempted to
+    offset the cost of Covid relief in the package following widespread
+    opposition from Republicans, who had argued there should be a full
+    accounting of already allocated Covid money before extending further
+    relief. But a number of House Democrats revolted over a plan to use
+    funds from the American Rescue Plan, a pandemic relief bill passed
+    last year, as an offset in the new legislation. The provision would
+    have impacted 30 states, and Democrats representing affected parts
+    of the country argued it would hurt their states by taking away
+    money they had been previously promised." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/house-vote-government-spending-ukraine-aid/index.html)\]
+
+-   **The Bill Was Stripped Of A Provision That Provided \$15.6 Billion
+    For COVID-19 Response.** According to Roll Call, "But passage of the
+    omnibus --- filed in the wee hours of Wednesday morning and five
+    months after the fiscal year began --- did not come without drama.
+    Democratic leaders had to send the bill back to the Rules Committee
+    Wednesday evening to strip \$15.6 billion in funding for immediate
+    COVID-19 needs and move that as a stand-alone bill --- which
+    ultimately was delayed until next week." \[Roll Call,
+    [3/9/22](https://rollcall.com/2022/03/09/house-passes-overdue-1-5-trillion-omnibus-appropriations-bill/)\]
+
+-   **The Bill Excluded A \$7 Billion Repeal Of State And Local Funds,
+    Which Left Almost Half Of Emergency Spending Unfunded.** According
+    to Roll Call, "That measure excludes a \$7 billion rescission of
+    state and local funds that some Democrats objected to in the
+    omnibus, leaving nearly half of the emergency spending unpaid for."
+    \[Roll Call,
+    [3/9/22](https://rollcall.com/2022/03/09/house-passes-overdue-1-5-trillion-omnibus-appropriations-bill/)\]
+
+-   **The Entire Bill Appropriated \$1.5 Trillion In Discretionary
+    Spending And \$13.6 Billion In Emergency Spending To Support
+    Ukraine.** According to Roll Call, "The sprawling, 2,741-page
+    omnibus would appropriate \$1.5 trillion in discretionary spending
+    across the 12 annual bills and \$13.6 billion in emergency spending
+    to address the crisis in Ukraine. It also carries a hodgepodge of
+    unrelated bills that lawmakers are eager to advance on the must-pass
+    vehicle." \[Roll Call,
+    [3/9/22](https://rollcall.com/2022/03/09/house-passes-overdue-1-5-trillion-omnibus-appropriations-bill/)\]
+
+-   **Republicans And Democrats Compromised, And The Bill Provided \$782
+    Billion In Defense Spending And \$730 Billion In Non-Defense
+    Spending.** According to Roll Call, "Both parties compromised on
+    their spending preferences in the agreement, which provides \$782
+    billion for defense-related accounts and \$730 billion for
+    nondefense." \[Roll Call,
+    [3/9/22](https://rollcall.com/2022/03/09/house-passes-overdue-1-5-trillion-omnibus-appropriations-bill/)\]
+
+-   **Non-Defense Spending Increased By \$46 Billion, Or 6.7%, Over Last
+    Year.** According to Roll Call, "Democrats secured a \$46 billion,
+    or 6.7 percent, increase in nondefense spending over last year's
+    level, a significant boost but less than half of what they initially
+    proposed." \[Roll Call,
+    [3/9/22](https://rollcall.com/2022/03/09/house-passes-overdue-1-5-trillion-omnibus-appropriations-bill/)\]
+
+-   **The Non-Defense Spending Portion Of The Bill Included
+    Reauthorizations Of The Violence Against Women Act, The National
+    Flood Insurance Program, Temporary Assistance For Needy Families,
+    And A Livestock Reporting Program.** According to Roll Call, "One
+    piece, which lawmakers backed on a 260-171 vote, included the vast
+    majority of the nondefense spending bills, the nondefense-related
+    funding for the Ukraine crisis and most of the unrelated bills
+    leadership attached to the omnibus given it's must-pass status. That
+    includes reauthorizations of the Violence Against Women Act, the
+    National Flood Insurance Program, Temporary Assistance for Needy
+    Families, a livestock reporting program and more." \[Roll Call,
+    [3/9/22](https://rollcall.com/2022/03/09/house-passes-overdue-1-5-trillion-omnibus-appropriations-bill/)\]
+
+-   **The Bill Included Provisions To Regulate Synthetic Nicotine
+    Manufacturers, Boost The Federal Trade Commission's Authority To
+    Combat Attempts To Defraud Seniors And, Extend Higher Medicaid
+    Reimbursements For U.S. Territories.** According to Roll Call,
+    "Other measures riding on the spending package include legislation
+    to increase reporting of cyberattacks on critical infrastructure, a
+    provision allowing regulation of synthetic nicotine manufacturers,
+    language intended to boost the Federal Trade Commission's ability to
+    crack down on attempts to defraud seniors and various health
+    provisions, like an extension of higher Medicaid reimbursements for
+    U.S. territories." \[Roll Call,
+    [3/9/22](https://rollcall.com/2022/03/09/house-passes-overdue-1-5-trillion-omnibus-appropriations-bill/)\]
+
+-   **The Bill Aimed At Closing A Vaping Loophole By Moving Synthetic
+    Nicotine Under The Food And Drug Administration.** According to CNN,
+    "A provision in the bill targets vaping products that remained on
+    the market despite growing efforts to clamp down on flavors that are
+    especially popular among young people. It would move synthetic
+    nicotine under the US Food and Drug Administration's authority,
+    according to an announcement Wednesday by Senate Majority Whip Dick
+    Durbin, an Illinois Democrat. While the FDA has authority over
+    tobacco products, some companies have made their own synthetic
+    nicotine in the lab. Because synthetic nicotine doesn't come from
+    tobacco, companies have managed to circumvent the agency's oversight
+    and keep their flavored products on shelves." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Directed The State Department To Prioritize Haitian Human
+    Rights And Anti-Corruption Efforts And Promote Freedom Of Press And
+    Assembly In Haiti.** According to Congressional Quarterly, "Directs
+    the State Department to prioritize human rights and anti-corruption
+    efforts in Haiti by fostering relationships with civil society
+    groups and by supporting efforts by the Haitian government to
+    identify corrupt actors and human rights violators. The department
+    must also take steps to promote freedom of the press and freedom of
+    assembly in Haiti, including by advocating for increased protections
+    and efforts to strengthen transparency and legal protections."
+    \[Congressional Quarterly,
+    [3/9/22](https://plus.cq.com/doc/har-6475461?1)\]
+
+-   **The Bill Established The Trans-Sahara Counterterrorism Partnership
+    To Coordinate All U.S. Programs And Activities In North And West
+    Africa.** According to Congressional Quarterly, "Establishes the
+    Trans-Sahara Counterterrorism Partnership by directing the secretary
+    of State, in consultation with other federal officials, to establish
+    the partnership to coordinate all U.S. programs, projects and
+    activities in North and West Africa, including efforts to build the
+    capacity of foreign military and law enforcement entities to conduct
+    counterterrorism operations." \[Congressional Quarterly,
+    [3/9/22](https://plus.cq.com/doc/har-6475461?1)\]
+
+**2022: Fitzpatrick Voted To Provide \$25.1 Billion To Agriculture, \$55
+Billion To Energy, \$25.5 Billion To Treasury, Judiciary And Executive
+Agencies, \$38 Billion To Interior And EPA, \$213.6 Billion To Labor,
+Health And Human Services And Education, \$5.93 Billion To Legislative
+Entities, \$127.6 Billion To Veterans Affairs, \$56.1 Billion To State
+And Foreign Operations, And \$81 Billion To Transportation And Housing
+And Urban Development.** In March 2022, according to Congressional
+Quarterly, Fitzpatrick voted for the second portion of the Fiscal 2022
+Omnibus Appropriations, which would "provide \$1.5 trillion in
+discretionary spending for fiscal 2022. In this section, it would
+provide approximately \$25.1 billion for the Agriculture Department and
+related agencies; \$55 billion for the Energy Department and federal
+water projects; \$25.5 billion for the Treasury Department, federal
+judiciary and a number of executive agencies; \$38 billion for the
+Interior Department, Environmental Protection Agency and related
+agencies; \$213.6 billion for the Labor, Health and Human Services and
+Education departments, and related agencies; \$5.93 billion for
+legislative branch entities; \$127.6 billion for the Veterans Affairs
+Department, military construction and related agencies; \$56.1 billion
+for the State Department, foreign operations and related agencies; and
+\$81 billion for the Transportation and Housing and Urban Development
+departments and related agencies." The vote was on the motion to concur
+in the Senate amendment with a House amendment. The bill was divided and
+this vote was the second portion of the bill. The House concurred with
+the Senate by a vote of 260-171. After resolving differences, the bill
+was sent to the President and became law. \[House Vote 66,
+[3/9/22](http://clerk.house.gov/evs/2022/roll066.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/66?8); Congressional
+Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **The Bill Increased The Funding For Congressional Offices To
+    \$774.4 Million To Recruit More Employees And Preserve A Diverse
+    Workforce.** According to CNN, "The bill calls for an increase in
+    funding for congressional offices by 21%, to \$774.4 million, so
+    they can recruit and retain a diverse workforce." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Provided \$18.2 Million To Compensate Interns.**
+    According to CNN, "The package would also provide \$18.2 million to
+    pay interns." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Provided \$602.5 Million For The Capitol Police.**
+    According to CNN, "It would provide \$602.5 million for the Capitol
+    Police, an increase of \$87 million. This will allow for the hiring
+    of up to 2,112 sworn officers and 450 civilian members of the
+    Capitol Police." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Increased The Internal Revenue Service's Budget To \$12.6
+    Billion To Help Customer Service, Enhance Enforcement, Modernize
+    Equipment, Improve Internet Application, Provide Special Funding
+    Authority And Help The Agency With Backlogs.** According to CNN,
+    "The spending bill would provide \$12.6 billion for the Internal
+    Revenue Service, an increase of \$675 million, the largest
+    since 2001. The funding boost is intended to help the IRS improve
+    its customer service, increase enforcement, modernize its technology
+    and improve its web applications. It also would provide special
+    funding transfer authority and direct hire authority to help the
+    agency deal with a massive backlog of returns and correspondence."
+    \[CNN,
+    [3/9/02](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Provided \$75 Million For Election Security Grants And
+    \$20 Million To The Election Assistance Commission For Operating
+    Expenses.** According to CNN, "The package would provide \$75
+    million for election security grants to bolster state efforts to
+    improve the security and integrity of elections for federal office.
+    It also would give the Election Assistance Commission \$20 million
+    for operating expenses, a boost of \$3 million." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Provided \$53.7 Billion To The Housing And Urban
+    Development Department, And Some Funds Would Establish 25,000 New
+    Housing Choice Vouchers For Individual And Families At-Risk Of
+    Homelessness.** According to CNN, "The Department of Housing and
+    Urban Development would get an increase of \$4 billion over the
+    previous year, for a total of \$53.7 billion, according to a
+    summary. Some of the funds would create 25,000 new Housing Choice
+    Vouchers for low-income individuals and families at risk of
+    homelessness, including survivors of domestic violence and veterans.
+    Eligible people could use the vouchers to find their own housing and
+    pay rent." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Provided \$3.2 Billion To The Office Of Energy Efficiency
+    And Renewable Energy To Aid Production Of Clean And Cost-Efficient
+    Energy Sources.** According to Time, "The bill provides record
+    funding for the Office of Energy Efficiency and Renewable Energy at
+    \$3.2 billion, \$338 million more than the previous year---but less
+    than what House Democrats had proposed. The funding will support the
+    production of clean and affordable energy sources." \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+-   **The Bill Provided \$78.3 Million To The Agriculture Department To
+    Address Climate Change Impacts On Farming And Rural Communities,
+    Including Research On Green Energy And Greenhouse Gas Reductions.**
+    According to Time, "An additional \$78.3 million will fund the
+    Department of Agriculture's efforts to address the impacts of
+    climate change in farming and rural communities, including research
+    on clean energy technologies and greenhouse gas reductions." \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+### Seven-Bill Appropriations Package
+
+**2021: Fitzpatrick Voted Against Providing Approximately \$602.9
+Billion For Seven FY 2022 Appropriations, Which Would Include
+Departments Of Labor, Health And Human Services, Agriculture, Energy,
+Treasury, Interior And Education, Environmental Protection Agency,
+Veterans Affairs Department, Transportation And Housing And Urban
+Development Departments.** In July 2021, Fitzpatrick voted against the
+Departments of Labor, Health and Human Services, and Education, and
+Related Agencies Appropriations Act, 2022 which would, according to
+Congressional Quarterly, "provide roughly \$602.9 billion in scored
+discretionary funding for seven of the twelve fiscal 2022 appropriations
+bills, including \$239.6 billion for the Labor, Health and Human
+Services and Education departments and related agencies; \$26.6 billion
+for the Agriculture Department and related agencies; \$53.2 billion for
+the Energy Department and federal water projects; \$29.1 billion for the
+Treasury Department, federal judiciary and executive agencies; \$45.9
+billion for the Interior Department, Environmental Protection Agency,
+and related agencies; \$124.5 billion for the Veterans Affairs
+Department, military construction, and related agencies; and \$84.1
+billion for the Transportation and Housing and Urban Development
+departments and related agencies. Among other provisions, the bill would
+provide \$119.8 billion for HHS, including \$10.6 billion for the
+Centers for Disease Control and Prevention; \$102.8 billion for the
+Education Department, including \$36.8 billion for Title I and other
+grants to schools serving low-income students; and \$14.7 billion for
+the Labor Department, including \$11.6 billion for employment and
+training programs and approximately \$2 billion for worker protection
+agencies. The bill would provide nearly \$140 billion for domestic food
+programs, including \$105.8 billion in mandatory spending for the
+Supplemental Nutrition Assistance Program; \$4.7 billion for rural
+development and infrastructure programs, including programs to support
+broadband access and provide housing loans and guarantees; and \$38.5
+billion for agriculture, farm production and conservation programs. It
+would provide \$45.1 billion for the Energy Department, including \$20.2
+billion for nuclear security activities and \$3.8 billion for energy
+efficiency and renewable energy activities. It would provide \$15.4
+billion for the Treasury Department, including \$13.6 for the Internal
+Revenue Service, \$330 million for community development financial
+institutions and \$190.5 million for the Financial Crimes Enforcement
+Network; \$500 million for Election Assistance Commission election
+security grants to improve the administration of federal elections; and
+\$300 million for General Services Administration procurement of
+zero-emission and electric vehicles and charging infrastructure. It
+would provide \$11.3 billion for the Environmental Protection Agency,
+including \$3.2 billion for state revolving funds for drinking water and
+wastewater infrastructure grants; \$15.6 billion for the Interior
+Department; and \$5.7 billion for wildfire management. It would provide
+\$268.6 billion in mandatory and discretionary funding for the VA,
+including \$97.6 billion for the Veterans Health Administration, with
+increases for mental health and opioid abuse prevention programs; and
+\$10.9 billion for military construction activities. It would provide
+\$105.7 billion in mandatory and discretionary funding for the
+Transportation Department, including \$2.7 billion for Amtrak and \$248
+million for payments to air carriers providing essential air service;
+and \$56.5 for HUD, including \$39.4 billion for public and Indian
+housing programs. Across various titles, the bill would provide over
+\$1.9 billion for cybersecurity activities." The vote was on passage.
+The House passed the bill by a vote of 219-208. \[House Vote 247,
+[7/29/21](http://clerk.house.gov/evs/2021/roll247.xml); Congressional
+Quarterly, [7/29/21](https://plus.cq.com/vote/2021/H/247?47);
+Congressional Actions, [H.R.
+4502](https://www.congress.gov/bill/117th-congress/house-bill/4502/actions)\]
+
+-   **The FY 2022 Seven-Bill Appropriations Package Would Not Include
+    The Hyde Amendment That Would Prohibit Federal Funds From Covering
+    Abortions.** According to Congressional Quarterly, "The bill would
+    not include the so-called Hyde amendment, which prevents federal
+    funding from covering abortion in most situations, other than when
+    continuing a pregnancy would endanger the patient\'s life or in
+    cases involving rape or incest. DeLauro, speaking during a December
+    subcommittee hearing, said that the fiscal 2021 funding bill would
+    be the last time the amendment named for former Rep. Henry J. Hyde,
+    R-Ill., would be included. Republicans oppose removing the rider,
+    making DeLauro\'s proposed change to a policy that has been in HHS
+    spending laws since 1976 an uphill climb in the Senate."
+    \[Congressional Quarterly,
+    [7/11/21](https://plus.cq.com/doc/news-6284265?2)\]
+
+-   **The FY 2022 Seven-Bill Appropriations Package Would Not Include
+    The Weldon Amendment That Would Prohibit The "Government From
+    Discriminating Against An Entity If It Refuses To Provide, Cover,
+    Pay For Or Refer For Abortions."** According to Congressional
+    Quarterly, "The House bill would also remove the Weldon amendment,
+    named for former Rep. Dave Weldon, R-Fla., a rider that since 2005
+    has prohibited the government from discriminating against an entity
+    if it refuses to provide, cover, pay for or refer for abortions."
+    \[Congressional Quarterly,
+    [7/11/21](https://plus.cq.com/doc/news-6284265?2)\]
+
+-   **Under The Measure, Maximum Awards Under Pell Grants Would Increase
+    To \$6,845 And Would Allow Deferred Action For Childhood Arrivals
+    Recipients To Qualify For the Grants.** According to Congressional
+    Quarterly, "The maximum award under the Pell grant would increase to
+    \$6,895, a \$400 increase from fiscal 2021 funding, and allow
+    immigrants in the Deferred Action for Childhood Arrivals program to
+    receive the grants." \[Congressional Quarterly,
+    [7/11/21](https://plus.cq.com/doc/news-6284265?2)\]
+
+-   **Under The Measure, Title I Grants To School Would Increase \$20
+    Billion In Funding To \$36 Billion.** According to Congressional
+    Quarterly, "Most of the draft spending bill\'s increase is driven by
+    a \$36 billion allocation for Title I grants to schools, almost \$20
+    billion above current funding. Title I grants fund school programs
+    on a sliding scale based on the school's percentage of low income
+    students. Grants start when a school\'s student population has 2
+    percent who are low income and increase from there, according to the
+    Education Department." \[Congressional Quarterly,
+    [7/11/21](https://plus.cq.com/doc/news-6284265?2)\]
+
+-   **Under The Legislation, Labor Agencies Would Receive \$2.1 Billion,
+    A 17% Increase, After Labor Agencies Suffered A 14% Decrease In
+    Staff During The Trump Administration, According To The Biden
+    Administration.** According to Congressional Quarterly, "The
+    agencies within the department charged with enforcing worker
+    protections would get \$2.1 billion, a 17 percent increase from
+    enacted funding in fiscal 2021 and \$1 million more than Biden's
+    request. The agencies suffered a 14 percent drop in staff during
+    Donald Trump's presidency, according to the Biden administration."
+    \[Congressional Quarterly,
+    [7/11/21](https://plus.cq.com/doc/news-6284265?2)\]
+
+### Third Continuing Resolution
+
+**2022: Fitzpatrick Voted For The Third FY 2022 Budget Continuing
+Resolution, Which Funded The Federal Government Through March 11, 2022
+At FY 2021 Levels And Extended Several Expiring Programs, Including The
+Temporary Assistance For Needy Families And National Flood Insurance
+Programs.** In February 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the FY 2022 Third Continuing Resolution, which in
+would "provide funding for federal government operations and services
+through Mar. 11, 2022, at fiscal 2021 levels. It would extend for the
+duration of the continuing resolution a number of expiring programs and
+authorities extended by prior continuing resolutions (PL 117-43 and PL
+117-70), including the Temporary Assistance for Needy Families program
+and the National Flood Insurance Program; the Health and Human Services
+Department\'s authority to appoint personnel to National Disaster
+Medical System positions to respond to public health emergencies;
+increased trafficking and sexual abuse fines; a waiver making supportive
+living facility residents eligible for Supplemental Nutrition Assistance
+Program benefits; the emergency classification of fentanyl-related
+substances as schedule I controlled substances; and the increased
+federal medical assistance percentage for U.S. territories, offset by a
+reduction of \$2 million for the Medicare Improvement Fund." The vote
+was on passage. The House passed the bill by a vote of 272-162. The
+Senate passed the bill, sent it to the President, and ultimately became
+law. \[House Vote 39,
+[2/8/22](http://clerk.house.gov/evs/2022/roll039.xml); Congressional
+Quarterly, [2/8/22](https://plus.cq.com/vote/2022/H/39?6); Congressional
+Actions, [H.R.
+6617](https://www.congress.gov/bill/117th-congress/house-bill/6617/actions)\]
+
+-   **The Continuing Resolution Also Provided \$350 Million To The
+    Defense Department To Address Certain Water Contamination Issues,
+    And Increased The Annual Funding By \$100 Million The President May
+    Use For Foreign Military Assistance To Respond To An Unanticipated
+    Emergency.** According to Congressional Quarterly, "Among other
+    provisions, it would provide \$350 million for Defense Department
+    activities to address water contamination issues near the Red Hill
+    Bulk Fuel Storage Facility in Oahu, Hawaii, and increase from \$200
+    million to \$300 million annual funding the president may direct for
+    immediate foreign military assistance to respond to an unforeseen
+    emergency." \[Congressional Quarterly,
+    [2/8/22](https://plus.cq.com/vote/2022/H/39?6)\]
+
+-   **The Stopgap Bill Extended Current Federal Funding Through March 11
+    And Prevented A Partial Government Shutdown.** According to
+    Congressional Quarterly, "The House passed a stopgap appropriations
+    bill Tuesday to extend current federal funding rates through March
+    11 and avoid a partial government shutdown." \[Congressional
+    Quarterly, [2/9/22](https://plus.cq.com/doc/btnews-6451008?2)\]
+
+-   **The Stopgap Bill Extended The Federal Government's Current Funding
+    To Provide An Additional Three Weeks To Draft And Pass The Omnibus
+    Appropriations Bill For The Fiscal Year That Started In October
+    2021.** According to Congressional Quarterly, "The continuing
+    resolution (HR 6617) would extend current funding through March 11
+    to give lawmakers an extra three weeks to draft and pass an overdue
+    omnibus spending package for the fiscal year that began last
+    October." \[Congressional Quarterly,
+    [2/14/22](https://plus.cq.com/doc/btnews-6455607?3)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Third FY 2022 Budget
+Continuing Resolution.** In February 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "adoption of the rule (H Res
+912) that would provide for House floor consideration of \[...\] the
+fiscal 2022 third continuing resolution (HR 6617)." The vote was on the
+adoption of the rule. The House adopted the rule by a vote of 221-211.
+\[House Vote 36, [2/8/22](http://clerk.house.gov/evs/2022/roll036.xml);
+Congressional Quarterly, [2/8/22](https://plus.cq.com/vote/2022/H/36?4);
+Congressional Actions, [H.R.
+6617](https://www.congress.gov/bill/117th-congress/house-bill/6617/actions);
+Congressional Actions, [H.Res.
+912](https://www.congress.gov/bill/117th-congress/house-resolution/912/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Third FY 2022 Budget
+Continuing Resolution.** In February 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "motion to order the previous
+question (thus ending debate and possibility of amendment) on the rule
+(H Res 912) that would provide for House floor consideration of \[...\]
+the fiscal 2022 third continuing resolution (HR 6617)." The vote was on
+a motion to order the previous question. The House agreed to the motion
+by a vote of 221-205. \[House Vote 35,
+[2/8/22](http://clerk.house.gov/evs/2022/roll035.xml); Congressional
+Quarterly, [2/8/22](https://plus.cq.com/vote/2022/H/35?3); Congressional
+Actions, [H.R.
+6617](https://www.congress.gov/bill/117th-congress/house-bill/6617/actions);
+Congressional Actions, [H.Res.
+912](https://www.congress.gov/bill/117th-congress/house-resolution/912/actions)\]

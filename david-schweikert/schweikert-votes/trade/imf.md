@@ -1,0 +1,19 @@
+---
+title: International Monetary Fund
+description: 
+published: true
+date: 2025-09-24T22:05:59.345Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T22:05:55.472Z
+---
+
+# International Monetary Fund
+
+### Increase The IMF's Financial Resources And Increase The Voting Share Of Emerging Countries
+
+**2015: Schweikert Voted Against Reforming The International Monetary Fund (IMF) By Increasing The IMF's Financial Resources And Increasing The Voting Share Of Emerging Countries Like China As Part Of The FY 2016 Omnibus.** In December 2015, Schweikert voted against reforming the IMF. According to Congressional Quarterly, "In December 2010, the Board of Governors of the International Monetary Fund (IMF) agreed to a package of reforms that both increases the size of the IMF\'s resources and increases the voting share of emerging countries. The changes, which were crafted by the United States, would increase the size of the fund\'s core source of funding (the so-called quota) and increase the representation of developing economies such as China to reflect their growing share in the global economy. \[...\] Moreover, specific congressional authorization is required for the United States to consent to change the U.S. quota, while any new authorized U.S. contributions to the fund generally necessitate congressionally authorized appropriations." The legislation was, according to Congressional Quarterly, a FY 2016 Omnibus Appropriations bill. The vote was on a motion to concur in the Senate amendment to the bill with an amendment. The House agreed to the motion by a vote of 316 to 113. The legislation was later combined with a tax extender bill. The Senate passed the larger measure and the president signed it. \[House Vote 705, [12/18/15](http://clerk.house.gov/evs/2015/roll705.xml); Congressional Quarterly, [12/18/15](http://www.cq.com/vote/2015/S/339?20); Congressional Quarterly, [12/15/15](http://www.cq.com/vote/2015/h/705?20); Congressional Quarterly, [12/17/15](http://www.cq.com/doc/har-4809119?25); Congressional Actions, [H.R. 2029](https://www.congress.gov/bill/114th-congress/house-bill/2029/all-actions)\]
+
+-   **The U.S. Was Needed For The Changes To Go Through Due To Its Voting Share.** According to Congressional Quarterly, "According to the Congressional Research Service, in order for key parts of the reform package to take effect, IMF rules dictate that the reforms must be formally accepted by three-fifths of the current 113 members of the IMF, representing 85% of the total voting power. Given that the United States has the largest stake in the fund with 16.75% of the total voting power, approval by the U.S. government is necessary for the reforms to go forward. \[...\] Until now, the United States was the only major IMF stakeholder that had not approved the reforms; U.S. acceptance would enable the reforms to meet the 85% threshold." \[Congressional Quarterly, [12/17/15](http://www.cq.com/doc/har-4809119?25)\]
+
+-   **Some Republicans Had Expressed Opposition To The Reforms In The Past Because They Would Diminish The U.S.'s Influence.** According to The Hill, "Negotiations between Foreign Relations Committee Chairman Robert Menendez (D-N.J.) and ranking member Sen. Bob Corker (R-Tenn.) on Tuesday centered on whether to include IMF reforms in the bill and how to pay for them. Republicans have long opposed the reforms, which they see as reducing U.S. influence in the IMF. \[...\] Republicans argue that shift would put the money in a fund with less U.S. influence, since general loans are approved by a simple majority of the IMF Executive Board. They also noted that the reform would make the board an elected body rather than guaranteeing that the U.S. always has a representative on it." \[The Hill, [3/11/14](http://thehill.com/policy/international/200519-proposed-imf-reforms-could-hold-up-ukraine-bill)\]

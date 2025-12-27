@@ -1,0 +1,107 @@
+---
+title: Sanctions
+description: 
+published: true
+date: 2025-09-22T21:06:19.019Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:06:15.112Z
+---
+
+# Sanctions
+
+### Dayton Peace Agreement
+
+**2024: Fitzpatrick Voted To Impose Sanctions On Individuals That
+threaten The Security Of Bosnia And Herzegovina And The Implementation
+Of The Dayton Peace Agreement.** In March 2024, Fitzpatrick voted for ,
+according to Congressional Quarterly, "the bill (HR 4723), as amended,
+that would direct the U.S. government to impose sanctions on foreign
+individuals whose actions threaten the security of Bosnia and
+Herzegovina and would undermine the ongoing implementation of the Dayton
+Peace Agreement. It would require the president to sanction individuals
+determined responsible for or complicit in actions that would threaten
+the peace, security, stability or territorial integrity of Bosnia and
+Herzegovina, which would include actions seeking to undermine democratic
+processes or institutions. The bill would include asset freezes and
+travel restrictions as sanctions. Additionally, it would establish
+criminal penalties for those who violate or seek to violate the
+sanctions. It also would require sanctions against members of 'illegal
+parallel institutions' that disrupt the authority of the country\'s
+sovereign government along with individuals engaged in corruption and
+individuals and entities aiding those participating in evasion of
+sanctions or facilitating sanctions. It would allow the president to
+terminate sanctions if the sanctioned individual did not engage in
+activities requiring sanctions or has credibly committed to not engage
+in a sanctioned activity again, upon certification to the congressional
+foreign issues, House Financial Services and Senate Banking, Housing and
+Urban Affairs committees. The bill's authority to issue sanctions would
+expire seven years after its enactment. HR 4723 is the Upholding the
+Dayton Peace Agreement Through Sanctions Act." The vote was on passage.
+The House passed the bill by a vote of 365 to 30. \[House Vote 87,
+[3/19/24](http://clerk.house.gov/evs/2024/roll087.xml); Congressional
+Quarterly, [3/19/24](https://plus.cq.com/vote/2024/H/87?33);
+Congressional Actions, [H.R.
+4723](https://www.congress.gov/bill/118th-congress/house-bill/4723/all-actions)\]
+
+### Foreign Adversaries
+
+**2024: Fitzpatrick Voted To Impose Numerous Sanctions On U.S.
+Adversaries, To Transfer Assets Seized From Russia Into A Ukraine
+Support Fund, And To Prohibit U.S. Technology Platforms From Carrying
+Applications Owned By Foreign Adversaries, Including TikTok.** In April
+2024, Fitzpatrick voted for , according to Congressional Quarterly, "the
+bill, as amended, that would impose numerous sanctions on U.S.
+adversaries, including Iran and Russia, as well as on terrorist
+organizations and transnational criminal networks. It would prohibit the
+release of frozen Russian assets in U.S. financial institutions until
+the war between Russia and Ukraine is over and Russia has paid for the
+reconstruction of Ukraine, including humanitarian assistance. It would
+authorize the transfer of assets seized from Russia or a related
+'aggressor state' to a Ukraine Support Fund. It would prohibit
+technology platforms in the U.S. from carrying any applications that are
+controlled by foreign adversaries unless they are divested and are no
+longer under such control. It would require TikTok owner, ByteDance, to
+divest the app within 270 days of the bill's enactment. It would allow
+the president to offer a one-time extension of an additional 90 days."
+The vote was on passage. The House passed the bill by a vote of 360 to
+58. \[House Vote 145,
+[4/20/24](http://clerk.house.gov/evs/2024/roll145.xml); Congressional
+Quarterly, [4/20/24](https://plus.cq.com/vote/2024/H/145?20);
+Congressional Actions, [H.R.
+8038](https://www.congress.gov/bill/118th-congress/house-bill/8038/all-actions)\]
+
+-   **The Bill Connected The Divestiture Of TikTok To \$5 Billion In
+    Funding To Ukraine.** According to Congressional Quarterly, "Lastly,
+    the House voted 360-58 to pass a 'sidecar' package (HR 8038)
+    consisting of some measures related to the foreign aid bills, such
+    as authorizing the seizure of about \$5 billion in frozen Russian
+    assets for distribution to Ukraine and toughening sanctions on
+    Russia, Iran and China." \[Congressional Quarterly,
+    [4/20/24](https://plus.cq.com/doc/news-7992683?23)\]
+
+### Human Shields
+
+**2024: Fitzpatrick Voted To Enact Sanctions On Individuals That Use
+Human Shields.** In April 2024, Fitzpatrick voted for , according to
+Congressional Quarterly, "the bill that would require the president to
+submit to Congress annually a list of each foreign person who the
+president determines is an agent or member of Palestine Islamic Jihad
+and orders, controls or directs the use of civilians to shield military
+objectives. It would require the president, within 120 days of receiving
+a congressional committee request with respect to a foreign person, to
+determine whether the person meets the criteria for sanctions for the
+use of civilians as human shields. It would require the president to
+provide a written justification to the request detailing whether or not
+the president intends to impose sanctions on the person. It would
+require the Defense Department, within 120 days of enactment, to submit
+to Congress a report that includes information on U.S. plans and actions
+related to the use of human shields by terrorist organizations. The bill
+would also extend provisions of current law related to sanctions for the
+use of civilians as shields from Dec. 31, 2023, to Dec. 31, 2030." The
+vote was on passage. The House passed the bill by a vote of 419 to 4.
+\[House Vote 128,
+[4/16/24](http://clerk.house.gov/evs/2024/roll128.xml); Congressional
+Quarterly, [4/16/24](https://plus.cq.com/vote/2024/H/128?46);
+Congressional Actions, [H.R.
+5917](https://www.congress.gov/bill/118th-congress/house-bill/5917/all-actions)\]

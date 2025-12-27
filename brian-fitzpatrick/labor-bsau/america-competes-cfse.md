@@ -1,0 +1,150 @@
+---
+title: America COMPETES Act
+description: 
+published: true
+date: 2025-09-22T21:25:10.587Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:25:06.533Z
+---
+
+# America COMPETES Act
+
+### Davis-Bacon Prevailing Wages
+
+**2022: Fitzpatrick Effectively Voted Against An Amendment That Added
+Davis-Bacon Prevailing Wage Requirements For Laborers And Mechanics
+Working On Electric Grid Vulnerability Program Projects.** In February
+2022, according to Congressional Quarterly, Fitzpatrick effectively
+voted against the automatic adoption of the manager's amendment to the
+America COMPETES Act which would "add Davis-Bacon prevailing wage
+requirements for laborers and mechanics working on projects under an
+electric grid vulnerability program created by the bill." The vote was
+on the adoption of the rule. The House adopted the rule by a vote of
+219-203, thus the amendment was automatically adopted. \[House Vote 17,
+[2/2/22](http://clerk.house.gov/evs/2022/roll017.xml); Congressional
+Quarterly, [2/2/22](https://plus.cq.com/vote/2022/H/17?8); Congressional
+Actions, [H.R.
+4521](https://www.congress.gov/bill/117th-congress/house-bill/4521/actions);
+Congressional Actions, [H.Res.
+900](https://www.congress.gov/bill/117th-congress/house-resolution/900/actions)\]
+
+-   **Republicans Opposed Provisions That Required Employers Who
+    Received Funds Under The America COMPETES Act To Comply With
+    Prevailing Wage Laws And Prohibited Employers Receiving Funds From
+    Opposing Unionization Efforts.** According to Congressional
+    Quarterly, "Republicans also objected to provisions that would
+    require employers who receive funds authorized by the legislation to
+    abide by prevailing wage laws, and would prohibit funding recipients
+    from opposing unionization efforts. The labor provisions fall under
+    the so-called Davis-Bacon law." \[Congressional Quarterly,
+    [2/4/22](https://plus.cq.com/doc/news-6446715?1)\]
+
+### Economic Impact Of Inflation Study
+
+**2022: Fitzpatrick Voted For An Amendment That Would Provide \$1
+Million To Require The National Science Foundation To Study The Economic
+Impact Of Inflation, Including Impacts On The Cost Of Living, Wages And
+The Workforce, U.S. International Competitiveness, And Rural And
+Underserved Communities.** In February 2022, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the America COMPETES
+Act which would "require the National Science Foundation to commission a
+study to measure the economic impact of inflation on the country,
+including impacts on the cost of living, wages and the workforce, U.S.
+international competitiveness, and rural and underserved communities. It
+would authorize \$1 million to carry out the study." The vote was on the
+adoption of an amendment. The House adopted the amendment by a vote of
+279-153. \[House Vote 26,
+[2/3/22](http://clerk.house.gov/evs/2022/roll026.xml); Congressional
+Quarterly, [2/3/22](https://plus.cq.com/vote/2022/H/26?3); Congressional
+Actions, [H.Amdt.
+165](https://www.congress.gov/amendment/117th-congress/house-amendment/166/actions?r=4&s=a);
+Congressional Actions, [H.R.
+4521](https://www.congress.gov/bill/117th-congress/house-bill/4521/actions)\]
+
+### National Apprenticeship System
+
+**2022: Fitzpatrick Voted Against The America COMPETES Act, Which
+Reauthorized And Expanded The National Apprenticeship System.** In
+February 2022, according to Congressional Quarterly, Fitzpatrick voted
+against the America COMPETES Act, which "Among workforce and economic
+development provisions, the bill would reauthorize and expand the Labor
+Department national apprenticeship system." The vote was on passage. The
+House passed the bill by a vote of 222-210. The bill was passed in the
+Senate and differences are being resolved. \[House Vote 31,
+[2/4/22](http://clerk.house.gov/evs/2022/roll031.xml); Congressional
+Quarterly, [2/4/22](https://plus.cq.com/vote/2022/H/31?6); Congressional
+Actions, [H.R.
+4521](https://www.congress.gov/bill/117th-congress/house-bill/4521/actions)\]
+
+**2022: Fitzpatrick Voted For An Amendment That Would Include Media And
+Entertainment To The List Of Possible Eligible Industries For The
+Expanded Apprenticeship Offerings Grants Included In The America
+COMPETES Act.** In February 2022, according to Congressional Quarterly,
+Fitzpatrick voted for an amendment to the America COMPETES Act which
+would "add 'media and entertainment' to a list of possible industries
+eligible for the expanded apprenticeship offerings grants included in
+the bill." The vote was on the adoption of an amendment. The House
+adopted the amendment by a vote of 216-214. \[House Vote 22,
+[2/3/22](http://clerk.house.gov/evs/2022/roll022.xml); Congressional
+Quarterly, [2/3/22](https://plus.cq.com/vote/2022/H/22?4); Congressional
+Actions, [H.Amdt.
+162](https://www.congress.gov/amendment/117th-congress/house-amendment/162/actions?r=8&s=a);
+Congressional Actions, [H.R.
+4521](https://www.congress.gov/bill/117th-congress/house-bill/4521/actions)\]
+
+**2022: Fitzpatrick Voted Against Amendments That Would Remove
+Provisions From The America COMPETE Act, Including The Reauthorization
+And Expansion Of Programs Under The National Apprenticeship Programs.**
+In February 2022, according to Congressional Quarterly, Fitzpatrick
+voted against en bloc amendments no. 3 to the America COMPETES Act,
+which would "strike from the bill \[...\] a section that would
+reauthorize and expand programs under the national apprenticeship
+system." The vote was on the adoption of amendments. The House rejected
+the en bloc amendments by a vote of 204-225. \[House Vote 20,
+[2/3/22](http://clerk.house.gov/evs/2022/roll020.xml); Congressional
+Quarterly, [2/3/22](https://plus.cq.com/vote/2022/H/20?4); Congressional
+Actions, [H.Amdt.
+160](https://www.congress.gov/amendment/117th-congress/house-amendment/160/actions?r=10&s=a);
+Congressional Actions, [H.R.
+4521](https://www.congress.gov/bill/117th-congress/house-bill/4521/actions)\]
+
+### Pell Grant Award
+
+**2022: Fitzpatrick Voted For An Amendment That Would Establish A Pell
+Grant Award For Career And Technical Education Programs That Provide Job
+Training And Industry-Based Credentials And Require A Data System With
+Information About Postsecondary Academic And Economic Outcomes.** In
+February 2022, according to Congressional Quarterly, Fitzpatrick voted
+for an amendment to the America COMPETES Act, which would "create a Pell
+Grant award for career and technical education programs that provide job
+training and industry-based credentials. It also would require the
+National Center for Education Statistics, within four years of the
+bill\'s enactment, to establish a data system containing information
+about postsecondary student academic and economic outcomes." The vote
+was on the adoption of an amendment. The House adopted the amendment by
+a vote of 238-193. \[House Vote 29,
+[2/4/22](http://clerk.house.gov/evs/2022/roll029.xml); Congressional
+Quarterly, [2/4/22](https://plus.cq.com/vote/2022/H/29?4); Congressional
+Actions, [H.Amdt.
+169](https://www.congress.gov/amendment/117th-congress/house-amendment/169/actions?r=1&s=a);
+Congressional Actions, [H.R.
+4521](https://www.congress.gov/bill/117th-congress/house-bill/4521/actions)\]
+
+### Supporting Workforce Shortages
+
+**2022: Fitzpatrick Voted For Amendments That Would Authorize A Labor
+Department Grant Program To Expand National Apprenticeship System
+Offerings To Support Workforce Shortages.** In February 2022, according
+to Congressional Quarterly, Fitzpatrick voted for en bloc amendments no.
+1 to the America COMPETES Act, which would "authorize a new Labor
+Department grant program to expand national apprenticeship system
+offerings to support critical supply chain sectors facing workforce
+shortages." The vote was on the adoption of amendments. The House
+adopted the en bloc amendments by a vote of 221-211. \[House Vote 18,
+[2/3/22](http://clerk.house.gov/evs/2022/roll018.xml); Congressional
+Quarterly, [2/3/22](https://plus.cq.com/vote/2022/H/18?9); Congressional
+Actions, [H.Amdt.
+158](https://www.congress.gov/amendment/117th-congress/house-amendment/158/actions?r=12&s=a);
+Congressional Actions, [H.R.
+4521](https://www.congress.gov/bill/117th-congress/house-bill/4521/actions)\]

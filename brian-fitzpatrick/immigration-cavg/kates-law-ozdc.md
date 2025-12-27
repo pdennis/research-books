@@ -1,0 +1,74 @@
+---
+title: Kate's Law
+description: 
+published: true
+date: 2025-09-22T21:22:49.402Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:22:45.916Z
+---
+
+# Kate's Law
+
+**2017: Fitzpatrick Voted For Legislation That Would Have Increased
+Criminal Penalties For Immigrants Who Were Previously Deported, But
+Returned And Are Then Convicted Of A Crime.** In July 2017, Fitzpatrick
+voted for legislation that would have, according to Congressional
+Quarterly, "establish\[ed\] specific possible fines and prison sentences
+for undocumented immigrants convicted of certain criminal offenses and
+who illegally return to the United States despite having been previously
+deported or otherwise excluded from the country. The bill would \[have\]
+establish\[ed\] maximum sentences for such individuals with varying
+criminal histories, including a 10-year maximum sentence for illegal
+immigrants who reattempt to enter the country after three or more
+deportations, even if such individuals have not been convicted of any
+other crimes." The vote was on passage. The House passed the bill by a
+vote of 257 to 167. The Senate took no substantive action on the
+legislation. \[House Vote 344,
+[6/29/17](http://clerk.house.gov/evs/2017/roll344.xml); The Hill,
+[6/27/17](http://thehill.com/homenews/house/339689-dems-wont-whip-votes-on-kates-law);
+Congressional Actions, [H.R.
+3004](https://www.congress.gov/bill/115th-congress/house-bill/3004?q=%7b%22search%22:%5b%22hr3004%22%5d%7d&r=1)\]
+
+-   **Legislation Would Have Created a Xenophobic Sentiment And A Double
+    Standard.** In a Huffington Post, "It is especially unfair to paint
+    undocumented immigrants as likely criminals when we take into
+    consideration some of the reasons why immigrants come to the United
+    States in the first place. Many immigrants who cross the border are
+    doing so in order to escape political instability, gang violence,
+    and poor economies back in their home countries. These are people
+    who are self-selecting to raise families in a peaceful, stable
+    place. Yes, entering the U.S. illegally is technically a crime. But
+    there is a double standard for giving immigrants legal status as
+    political refugees. Many groups who are fleeing violence, such as
+    Syrian migrants, are securing refugee status; but Mexicans and other
+    Central Americans are usually not legally considered 'refugees' even
+    though they are fleeing similar conflicts. There seems to be little
+    clear justification for this double standard." \[Huffington Post,
+    [4/28/17](http://www.huffingtonpost.com/samanta-honigman/kates-law-and-the-license_b_9789508.html)\]
+
+-   **ACLU: Legislation Is A "Shortsighted And Ill-Conceived
+    Response."** According to The Washington Post, "Civil rights groups,
+    including the American Civil Liberties Union, have strongly opposed
+    Kate's Law, calling it a 'shortsighted and ill-conceived response'
+    to the young woman's slaying. They argue that it is blanket
+    legislation that would penalize even those who come to the United
+    States to escape persecution. Opponents also say that the bill
+    perpetuates the false notion that undocumented immigrants are
+    inherently criminals." \[The Washington Post,
+    [6/29/17](https://www.washingtonpost.com/news/post-nation/wp/2017/06/29/the-story-behind-kates-law-and-how-it-could-change-immigration-policies-in-the-u-s)\]
+
+-   **Kate Steinle's Murder Was A Catalyst For Crackdown On Sanctuary
+    Cities.** According to The Atlantic, 'Kate's Law is named after Kate
+    Steinle, who died on July 1 after being shot on Pier 14 in San
+    Francisco. Police arrested Juan Francisco Lopez-Sanchez, a Mexican
+    national and convicted felon who was in the United States illegally,
+    and charged him with Steinle's murder. Lopez-Sanchez subsequently
+    admitted to firing the gun, but claimed Steinle was not the target
+    and that her death was accidental. Steinle's death set off a
+    firestorm of protests among opponents of illegal immigration. Donald
+    Trump transmuted some of the outrage over Steinle's death, as well
+    as his broader invectives against illegal immigration and "political
+    correctness," into frontrunner status in the Republican
+    presidential-nominee race." \[The Atlantic,
+    [9/6/15](http://www.theatlantic.com/politics/archive/2015/09/kates-law-mandatory-sentencing/403990/)\]

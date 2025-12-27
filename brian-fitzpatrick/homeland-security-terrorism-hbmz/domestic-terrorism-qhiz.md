@@ -1,0 +1,206 @@
+---
+title: Domestic Terrorism
+description: 
+published: true
+date: 2025-09-22T21:18:42.172Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:18:37.989Z
+---
+
+# Domestic Terrorism
+
+**2022: Fitzpatrick Effectively Voted Against The Domestic Terrorism
+Prevention Act Of 2022.** In May 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "adoption of the rule (H Res
+1124) that would provide for floor consideration of the Domestic
+Terrorism Prevention Act (HR 350)." The vote was on the adoption of the
+rule. The House adopted the rule by a vote of 218-202. \[House Vote 209,
+[5/18/22](http://clerk.house.gov/evs/2022/roll209.xml); Congressional
+Quarterly, [5/18/22](https://plus.cq.com/vote/2022/H/209?9);
+Congressional Actions, [H.R.
+350](https://www.congress.gov/bill/117th-congress/house-bill/350/actions);
+Congressional Actions, [H.Res.
+1124](https://www.congress.gov/bill/117th-congress/house-resolution/1124/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Domestic Terrorism
+Prevention Act Of 2022.** In May 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the "motion to order the previous
+question (thus ending debate and possibility of amendment) on the rule
+(H Res 1124) that would provide for floor consideration of the Domestic
+Terrorism Prevention Act (HR 350)." The vote was on a motion to order
+the previous question. The House agreed to the motion by a vote of
+217-201. \[House Vote 208,
+[5/18/22](http://clerk.house.gov/evs/2022/roll208.xml); Congressional
+Quarterly, [5/18/22](https://plus.cq.com/vote/2022/H/208?4);
+Congressional Actions, [H.R.
+350](https://www.congress.gov/bill/117th-congress/house-bill/350/actions);
+Congressional Actions, [H.Res.
+1124](https://www.congress.gov/bill/117th-congress/house-resolution/1124/actions)\]
+
+### Biannual Reports
+
+**2022: Fitzpatrick Effectively Voted Against An Amendment That Required
+Biannual Reports On Domestic Terrorism Incidents And Attempts Since
+April 19, 1995, Including A Certification That Domestic Terrorism
+Investigations Complied With Civil Rights And Liberties Laws And
+Regulations.** In May 2022, according to Congressional Quarterly,
+Fitzpatrick effectively voted against the manager's amendment to the
+Domestic Terrorism Prevention Act of 2022, which would "make technical
+and clarifying changes to the bill. It would also require the first
+biannual report required by the bill on domestic terrorism incidents to
+include an analysis of incidents and attempts that have occurred since
+April 19, 1995, and require each biannual report to include a
+certification that domestic terrorism investigations included in the
+report comply with applicable civil rights and civil liberties laws and
+regulations." The vote was on the adoption of the rule. The House
+adopted the rule by a vote of 218-202, thus the manager's amendment was
+automatically adopted. \[House Vote 209,
+[5/18/22](http://clerk.house.gov/evs/2022/roll209.xml); Congressional
+Quarterly, [5/18/22](https://plus.cq.com/vote/2022/H/209?9);
+Congressional Actions, [H.R.
+350](https://www.congress.gov/bill/117th-congress/house-bill/350/actions);
+Congressional Actions, [H.Res.
+1124](https://www.congress.gov/bill/117th-congress/house-resolution/1124/actions)\]
+
+### Domestic Terrorism Threat Reporting And Compliance
+
+**2022: Fitzpatrick Voted For An Amendment That Required The FBI And
+Homeland Security To Report On The Processes Needed To Report On
+Domestic Terrorism Threats Regularly And Required The Government
+Accountability Office To Review The FBI, DHS And Director Of National
+Intelligence For Compliance With Domestic Terrorism Transparency.** In
+July 2022, according to Congressional Quarterly, Fitzpatrick voted for
+an amendment to the National Defense Authorization Act for Fiscal Year
+2023, which would "require a report to Congress by the Federal Bureau of
+Investigation and the Homeland Security Department on the processes
+needed to regularly report to Congress on domestic terrorism threats
+pursuant to Section 5602 of the fiscal 2020 NDAA; and require a
+Government Accountability Office review of FBI, DHS, and Director of
+National Intelligence compliance with domestic terrorism transparency
+mechanisms required by federal law." The vote was on the adoption of an
+amendment. The House adopted the amendment by a vote 220-205. \[House
+Vote 326, [7/13/22](http://clerk.house.gov/evs/2022/roll326.xml);
+Congressional Quarterly,
+[7/13/22](https://plus.cq.com/vote/2022/H/326?10); Congressional
+Actions, [H.Amdt.
+263](https://www.congress.gov/amendment/117th-congress/house-amendment/263/actions?r=29&s=a);
+Congressional Actions, [H.R.
+7900](https://www.congress.gov/bill/117th-congress/house-bill/7900/actions)\]
+
+### Offices For Domestic Terrorism Prevention
+
+**2022: Fitzpatrick Voted Against Establishing A Homeland Security
+Office To Monitor And Analyze Domestic Terrorism Activities, A Justice
+Department Office To Investigate And Prosecute Domestic Terrorism Acts,
+And A Domestic Terrorism Section Within The FBI Counterterrorism
+Division.** In May 2022, according to Congressional Quarterly,
+Fitzpatrick voted against the Domestic Terrorism Prevention Act of 2022,
+which would "authorize the establishment of three new offices focused on
+domestic terrorism; a Homeland Security Department office to monitor and
+analyze domestic terrorism activity, a Justice Department office to
+investigate and prosecute domestic terrorism incidents, and a domestic
+terrorism section within the FBI counterterrorism division to
+investigate domestic terrorism activity." The vote was on passage. The
+House passed the bill by a vote of 222-203, thus the bill was sent to
+the Senate. \[House Vote 221,
+[5/18/22](http://clerk.house.gov/evs/2022/roll221.xml); Congressional
+Quarterly, [5/18/22](https://plus.cq.com/vote/2022/H/221?0);
+Congressional Actions, [H.R.
+350](https://www.congress.gov/bill/117th-congress/house-bill/350/actions)\]
+
+-   **The Bill Would Add Requirements To The Investigation And
+    Coordination Of Federal Responses To Domestic Terrorism Acts That
+    May Also Be Hate Crimes, Make Training Available To Law Enforcement
+    Agencies To Counter And Prosecute Domestic Terrorism, And Require
+    Reporting On The Number Of False Reports Of Domestic Terrorism Or
+    Hate Crime Incident.** According to Congressional Quarterly, "Among
+    other provisions, it would require various actions to investigate
+    and coordinate the federal response to domestic terrorism incidents
+    that may also be hate crimes; require the FBI and Justice and
+    Homeland Security departments to make training available to law
+    enforcement agencies related to countering and prosecuting domestic
+    terrorism; and require reports on the implementation of such
+    training to include the number of federal incidents involving a
+    false report of a domestic terrorism or hate crime incident. It
+    would authorize such sums as necessary to carry out the bill's
+    provisions." \[Congressional Quarterly,
+    [5/18/22](https://plus.cq.com/vote/2022/H/221?0)\]
+
+-   **The Push To Establish Domestic Terrorism Divisions In The FBI And
+    Departments Of Justice And Homeland Security Came After The Buffalo,
+    New York Mass Shooting On May 14, 2022, Which Was Allegedly
+    Race-Motivated.** According to Congressional Quarterly, "The House
+    plans to vote today on a bill (HR 350) to establish domestic
+    terrorism units in the departments of Homeland Security and Justice,
+    as well as the FBI. The push follows Saturday's mass shooting in a
+    predominantly Black neighborhood in Buffalo, N.Y., that left 10
+    people dead. Police said the alleged killer, who is white, had a
+    racist motive." \[Congressional Quarterly,
+    [5/18/22](https://plus.cq.com/doc/news-6538772?2)\]
+
+-   **Republican Leadership Urged The GOP To Oppose The Bill, Claiming
+    It Would Establish "Unnecessary And Duplicative Domestic Terrorism
+    Offices."** According to The Hill, "Republican leaders had
+    recommended that their members vote against the legislation. In a
+    memo to House GOP offices, Minority Whip Steve Scalise (R-La.) said
+    the bill 'would create unnecessary and duplicative domestic
+    terrorism offices' in departments throughout the government, among
+    other qualms." \[The Hill,
+    [5/18/22](https://thehill.com/news/house/3493763-house-passes-domestic-terrorism-bill-in-mostly-party-line-vote/)\]
+
+### White Supremacists And Neo-Nazis In Law Enforcement
+
+**2022: Fitzpatrick Voted Against An Amendment That Directed The FBI And
+The Departments Of Defense And Homeland Security To Report On Strategies
+To Combat White Supremacy And Neo-Nazism In Uniformed Services And
+Federal Law Enforcement Agencies.** In July 2022, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+National Defense Authorization Act for Fiscal Year 2023, which would
+"direct the Federal Bureau of Investigation, Homeland Security
+Department, and Defense Department to publish a report that analyzes and
+sets out strategies to combat white supremacist and neo-Nazi activity in
+the uniformed services and federal law enforcement agencies not later
+than 180 days after enactment and every 6 months thereafter." The vote
+was on the adoption of an amendment. The House adopted the amendment by
+a vote 218-208. \[House Vote 325,
+[7/13/22](http://clerk.house.gov/evs/2022/roll325.xml); Congressional
+Quarterly, [7/13/22](https://plus.cq.com/vote/2022/H/325?17);
+Congressional Actions, [H.Amdt.
+262](https://www.congress.gov/amendment/117th-congress/house-amendment/262/actions?r=30&s=a);
+Congressional Actions, [H.R.
+7900](https://www.congress.gov/bill/117th-congress/house-bill/7900/actions)\]
+
+**2022: Fitzpatrick Voted Against Requiring The FBI And Departments Of
+Justice, Defense And Homeland Security To Establish An Interagency Force
+To Analyze And Combat White Supremacies And Neo-Nazis In Law Enforcement
+And Uniformed Services.** In May 2022, according to Congressional
+Quarterly, Fitzpatrick voted against the Domestic Terrorism Prevention
+Act of 2022, which would "also require the FBI and the Justice, Defense
+and Homeland Security departments to establish an interagency task force
+to analyze and combat white supremacist and neo-Nazi 'infiltration' of
+law enforcement agencies and the uniformed services." The vote was on
+passage. The House passed the bill by a vote of 222-203, thus the bill
+was sent to the Senate. \[House Vote 221,
+[5/18/22](http://clerk.house.gov/evs/2022/roll221.xml); Congressional
+Quarterly, [5/18/22](https://plus.cq.com/vote/2022/H/221?0);
+Congressional Actions, [H.R.
+350](https://www.congress.gov/bill/117th-congress/house-bill/350/actions)\]
+
+-   **The Bill Would Require The FBI, DoJ And DHS To Submit A Biannual
+    Joint Report Over Domestic Terrorism Threats Posed By White
+    Supremacists And Neo-Nazis, Including Reviews Of Federal Hate Crime
+    Charges And Conditions And An Analysis Of Domestic Terrorism Acts
+    Since April 19, 1995.** According to Congressional Quarterly, "It
+    would require the FBI and Justice and Homeland Security departments
+    to submit a biannual joint report to Congress including an
+    assessment of the domestic terrorism threat posed by white
+    supremacists and neo-Nazis. In preparing the reports, it would
+    require the new offices to review each federal hate crime charge and
+    conviction in the preceding six months to determine whether it also
+    constitutes a domestic terrorism incident. It would require the
+    first report to include an analysis of incidents or attempted
+    incidents of domestic terrorism that have occurred in the United
+    States since April 19, 1995, and require subsequent reports to
+    analyze incidents in the preceding six months." \[Congressional
+    Quarterly, [5/18/22](https://plus.cq.com/vote/2022/H/221?0)\]

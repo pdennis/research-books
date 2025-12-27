@@ -1,0 +1,295 @@
+---
+title: Military Sexual Assault
+description: 
+published: true
+date: 2025-09-22T20:42:49.584Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:42:45.166Z
+---
+
+# Military Sexual Assault
+
+### Funding
+
+**2019: Fitzpatrick Effectively Voted For The FY 2020 National Defense
+Authorization Act (NDAA), Which Provided Funding For The Study And
+Prevention Of Sexual Assault In The Military.** In December 2019,
+Fitzpatrick effectively voted for the FY 2020 NDAA. According to
+Congressional Quarterly, the bill "directs the department's Inspector
+General to report to Congress by March 1, 2020, with data from FY 2018
+on the total number of substantiated cases of ostracism; the number of
+substantiated cases of maltreatment; and other metrics related to the
+handling of sexual harassment and assault \[...\] It also provides for
+additional training for commanders on their roles in the disposition of
+sexual assault and collateral offenses. The measure also \[...\]
+Requires the secretary to establish an advisory committee, to be known
+as the Defense Advisory Committee for the Prevention of Sexual
+Misconduct, to advise the secretary on the prevention of sexual assault
+and on the policies, programs, and practices of each military department
+and military service academy for the prevention of sexual assault." The
+vote was on adoption of the conference report to accompany the bill. The
+House adopted the conference report by a vote of 377-48. The bill was
+later passed by the Senate and signed into law by the President. \[House
+Vote 672, [12/11/19](http://clerk.house.gov/evs/2019/roll672.xml);
+Congressional Quarterly,
+[12/17/19](http://www.cq.com/doc/har-5790600?4&search=CSh9Mp8f);
+Congressional Actions,
+[S.1790](https://www.congress.gov/bill/116th-congress/senate-bill/1790/all-actions?q=%7b%22search%22%3A%5B%22s+1790%22%5D%7d&s=1&r=1)\]
+
+**2018: Fitzpatrick Voted For An FY 2019 Conference Report Minibus
+Spending Bill And Continuing Resolution That Provided \$318 Million For
+Sexual Assault Prevention And Response Programs In The Defense
+Department.** In September 2018, Fitzpatrick voted for an FY 2019 Labor,
+HHS, Education, and Defense minibus spending bill conference report.
+According to Congressional Quarterly, "Adoption of the conference report
+on the bill that would provide \$855.1 billion in discretionary funding
+for fiscal 2019 to various departments and agencies, including \$674.4
+billion for the Defense Department and \$178.1 billion for the Labor,
+Health and Human Services and Education departments. The Defense
+Department total would include \$606.5 billion in base Defense
+Department funding subject to spending caps, and would include \$67.9
+billion in overseas contingency operations funding. The bill would
+provide \$90.3 billion in discretionary spending for the Health and
+Human Services Department, \$71.4 billion for the Education Department
+and \$12.1 billion for the Labor Department. The measure would also
+provide funding for federal government operations until Dec. 7, 2018, at
+an annualized rate of approximately \$1.3 trillion." The vote was on
+passage. The House passed the bill by a vote of 361 to 61. The president
+later signed the bill into law. \[House Vote 405,
+[9/26/18](http://clerk.house.gov/evs/2018/roll405.xml); Congressional
+Quarterly, [9/26/18](https://plus.cq.com/vote/2018/H/405?2);
+Congressional Actions, [H.R.
+6157](https://www.congress.gov/bill/115th-congress/house-bill/6157/all-actions)\]
+
+-   **The Bill Appropriated \$318 Million For Sexual Assault Prevention
+    And Response Programs.** According to Congressional Quarterly, "The
+    measure funds a total of 1,338,100 active duty forces in FY 2019 ---
+    equal to the president\'s request and 15,600 more than the current
+    level, and funds a 2.6% pay raise for military personnel. It
+    provides \$34.4 billion for defense health care programs. The total
+    includes \$2.2 billion for research and development, \$1.5 billion
+    more than requested, including \$350 million for the competitively
+    awarded peer-reviewed medical research program and \$299 million to
+    advance other medical research priorities. It also includes \$125
+    million in unrequested funds for traumatic brain injury (TBI) and
+    psychological health (PH) research and development. The measure
+    provides \$318 million for Sexual Assault Prevention and Response
+    programs, including \$35 million for implementation of the Special
+    Victims\' Counsel Program across the services." \[Congressional
+    Quarterly, [9/25/18](http://www.cq.com/doc/har-5393543?0)\]
+
+### Major Military Crimes
+
+**2022: Fitzpatrick Voted To Move All Prosecutorial And Judicial Duties
+For Major Military Crimes Outside The Chain Of Command And Classify
+Sexual Harassment As A Major Military Crime.** In December 2022,
+according to Congressional Quarterly, Fitzpatrick voted for the James M.
+Inhofe National Defense Authorization Act for Fiscal Year 2023, which
+would, in part, "move all prosecutorial and judicial duties for major
+military crimes outside the chain of command and classify sexual
+harassment as a major crime." The vote was on passage. The House passed
+the bill by a vote of 350-80, thus the bill was sent to the Senate for
+final concurrence. The Senate concurred with the House, sent the final
+bill to President Biden, and it ultimately became law. \[House Vote 516,
+[12/8/22](http://clerk.house.gov/evs/2022/roll516.xml); Congressional
+Quarterly, [12/8/22](https://plus.cq.com/vote/2022/H/516?24);
+Congressional Actions, [H.Res.
+1512](https://www.congress.gov/bill/117th-congress/house-resolution/1512/all-actions);
+Congressional Actions, [H.R.
+7776](https://www.congress.gov/bill/117th-congress/house-bill/7776/all-actions)\]
+
+-   **By Shifting Prosecution Powers For Certain Military Crimes To
+    Trained Prosecutors And Expanding The Covered Crimes To 14 Crimes,
+    Including Sexual Harassment, The FY 2023 Spending Bill Provided A
+    Milestone Change In The Military Justice System.** According to
+    Congressional Quarterly, "The bill is also a milestone in the
+    campaign to change prosecutions in the military justice system. The
+    fiscal 2022 NDAA (PL117-81) had shifted key prosecution powers for
+    certain crimes from military commanders to trained prosecutors. This
+    year's NDAA would further grow those powers and expand the covered
+    crimes from 11 to 14, including sexual harassment." \[Congressional
+    Quarterly, [12/15/22](https://plus.cq.com/doc/news-7623137?3)\]
+
+### Reforming The Uniform Code
+
+**2021: Fitzpatrick Voted To Reform The Uniform Code Of Military Justice
+To Address Sexual Assault And Harassment And Requiring Independent
+Military Prosecutors To Determine Warranted Prosecution Within The
+Military Justice System.** In December 2021, Fitzpatrick voted for the
+National Defense Authorization Act For FY 2022 which would, according to
+Congressional Quarterly, "make numerous reforms to the Uniform Code of
+Military Justice to address sexual assault and harassment and require
+independent military prosecutors, not unit commanders, to decide whether
+prosecution is warranted for most felonies within the military justice
+system, including sexual assault." The vote was on passage. The House
+passed the bill by a vote of 363-70. The bill was sent to President
+Biden and it ultimately became law. \[House Vote 405,
+[12/7/21](http://clerk.house.gov/evs/2021/roll405.xml); Congressional
+Quarterly, [12/7/21](https://plus.cq.com/vote/2021/H/405?4);
+Congressional Actions, [S.
+1605](https://www.congress.gov/bill/117th-congress/senate-bill/1605/actions)\]
+
+-   **The Bill Would Instruct The Pentagon To No Longer "Prosecute
+    Crimes Of Sexual Assault And Related Crimes From The Military Chain
+    Of Command," But Not All Felonies Would Be Removed From The Chain Of
+    Command.** According to CBS News, "One of the highest-profile issues
+    this year in Congress was figuring out how to address sexual assault
+    in the military. The bill would remove the decision to prosecute
+    crimes of sexual assault and related crimes from the military chain
+    of command, but it would not remove all felonies from the chain of
+    command, as Senator Kirsten Gillibrand of New York advocated." \[CBS
+    News,
+    [12/8/21](https://www.cbsnews.com/news/defense-bill-2021-house-vote/)\]
+
+-   **According To Senator Kirsten Gillibrand, The Provisions To Address
+    Sexual Assault Would Not Be Substantive Enough Because It Would Not
+    Reform The Military Justice System By Not Removing Serious Crimes
+    Out Of The Chain Of Command.** According to CBS News, "But
+    Gillibrand said Wednesday that the NDAA does not go far enough with
+    the military justice provisions. She added that the initiatives,
+    which have bipartisan support, were stripped from the final bill.
+    'This bill does not reform the military justice system in a way that
+    will truly help survivors get justice,' Gillibrand said. 'It does
+    not remove serious crimes out of the chain of command, which is the
+    only way to create the professional unbiased system that we've been
+    advocating for.'" \[CBS News,
+    [12/8/21](https://www.cbsnews.com/news/defense-bill-2021-house-vote/)\]
+
+-   **The Bill Would Instruct The Defense Department To Keep An Eye On
+    "Allegations Of Retaliation" Against Sexual Assault Or Harassment
+    Victims And Third-Party Individuals.** According to CBS News, "The
+    NDAA also would require the Defense Department to track allegations
+    of retaliation against victims of sexual assault or harassment and
+    third-party individuals who have reported an incident." \[CBS News,
+    [12/8/21](https://www.cbsnews.com/news/defense-bill-2021-house-vote/)\]
+
+-   **The Bill Would Address Issues Handlings Cases Of Sexual Assault
+    And Harassment Within The Military And Bias And Discrimination
+    Training Changes.** According to CNN, "The sweeping bill targets
+    issues that have been top-of-mind for Secretary of Defense Lloyd
+    Austin since he took the helm of the department in January, from the
+    handling of sexual assault and harassment within the military to
+    changes to bias and discrimination training for all military
+    branches." \[CNN,
+    [12/8/21](https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html)\]
+
+-   **According To Representative Anthony Brown Of Maryland, The Bill
+    Did Not Address Racial Bias In The Justice System Within The
+    Military.** According to CNN, "Democratic Rep. Anthony Brown of
+    Maryland outlined why he would be voting against the legislation. He
+    said he believes the bill doesn't go far enough to address racial
+    bias in the military justice system. 'At a time when Democrats
+    control the House, the Senate, and the Executive Branch, it is an
+    unconscionable failure to deliver a National Defense Authorization
+    Act that does not meet the values of equity and justice for which we
+    have long strived or a bill that does not meaningfully protect the
+    foundations of our democracy,' Brown said in a statement." \[CNN,
+    [12/8/21](https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html)\]
+
+-   **The Bill Would Instruct The Removal Of The Commander Of A Military
+    Command From Prosecution Decisions Of Covered Crimes, And, Instead,
+    An Office Of The Special Trial Counsel For Each Services Would
+    Handle Prosecution Of Covered Crimes, Including Sexual Assault.**
+    According to CNN, "The final version of the bill removes the
+    commander of a military command 'from decisions related to the
+    prosecution of covered crimes,' including 'sexual assault,' an
+    important shift that military leaders including Austin and Chairman
+    of the Joint Chiefs of Staff Gen. Mark Milley have publicly said
+    they support. Instead, the bill establishes, each service will now
+    have an Office of the Special Trial Counsel to handle prosecution of
+    those crimes, including sexual assault, that will report to each
+    service secretary." \[CNN,
+    [12/8/21](https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html)\]
+
+-   **For The First Time, Sexual Harassment Would Be Considered A Crime
+    Under The Uniform Code Of Military Justice And Claims Would Need To
+    Be Investigated Outside The Chain Of Command.** According to CNN,
+    "The bill makes sexual harassment a crime in the Uniform Code of
+    Military Justice for the first time. 'All claims of sexual
+    harassment will be required to be investigated by an independent
+    investigator outside of the chain of command,' the bill summary
+    states." \[CNN,
+    [12/8/21](https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html)\]
+
+-   **Under The Instructions To "Track Allegations Of Retaliation" By
+    Sexual Assault And Harassment Victims, Each Service Would Need To
+    Collect Demographic Information On The Accused Individuals And
+    Victims.** According to CNN, "It also directs the department to
+    'track allegations of retaliation by victims' of sexual assault and
+    harassment. Each service will be required to track the demographic
+    information of both the person accused of committing sexual assault
+    and harassment crimes and the victim of those crimes." \[CNN,
+    [12/8/21](https://www.cnn.com/2021/12/07/politics/house-votes-ndaa-national-defense-authorization-act/index.html)\]
+
+-   **The Bill Would Require The Defense Department To Provide A Report
+    On Placing Violent Extremism Under The Uniform Code Of Military
+    Justice.** According to The Hill, "However, the compromise requires
+    the Department of Defense to submit a report on adding violent
+    extremism to the Uniform Code of Military Justice." \[The Hill,
+    [12/7/21](https://thehill.com/policy/defense/584833-house-passes-768b-defense-policy-bill)\]
+
+-   **The Bill Would Empower Special Prosecutors, Instead Of Military
+    Commanders, To Decide Whether To Prosecute Sexual Assault And
+    Harassment, Murder, Kidnapping And Other Serious Crimes.** According
+    to Congressional Quarterly, "The NDAA that the House passed in
+    September would have empowered special prosecutors in the services
+    to make decisions now reserved for military commanders on whether to
+    prosecute sexual and related offenses. The final measure does that
+    while covering more crimes, such as murder and kidnapping, in
+    addition to sexual crimes, and it would make sexual harassment a
+    crime in the military." \[Congressional Quarterly,
+    [12/7/21](https://plus.cq.com/doc/news-6409157?10)\]
+
+-   **The Special Prosecutors Would Decide Whether To Prosecute And Go
+    To Trial, Whereas Commanders Would Have The Ability To "Convene
+    Courts-Martial."** According to Congressional Quarterly, "Moreover,
+    the special prosecutors would be more independent of the chain of
+    command than in the original House bill. Under the final measure,
+    commanders would have the power to convene courts-martial, but the
+    new prosecutors' offices would be the ones to decide whether or not
+    to bring charges and whether to actually go to trial."
+    \[Congressional Quarterly,
+    [12/7/21](https://plus.cq.com/doc/news-6409157?10)\]
+
+-   **The Bill Would Reform The Prosecution Of Certain Crimes In The
+    Military, Including Sexual Assault.** According to The Hill, "The
+    defense bill also includes a major overhaul of how the military
+    prosecutes certain crimes, including military sexual assault." \[The
+    Hill,
+    [12/15/21](https://thehill.com/policy/defense/585920-senate-approves-sweeping-defense-bill)\]
+
+-   **The Bill Would Strip Military Commanders Of Most Of Their
+    Authority, But They Would Retain Authority To Orchestrate Trials,
+    Select Jury Members, Accept Witnesses And Provide Immunity.**
+    According to The Hill, "The bill strips commanders of most of their
+    authority, but they would still be allowed to conduct trials, pick
+    jury members, approve witnesses and grant immunity." \[The Hill,
+    [12/15/21](https://thehill.com/policy/defense/585920-senate-approves-sweeping-defense-bill)\]
+
+-   **Senator Kirsten Gillibrand Proposed To Remove Military Commanders
+    From The Chain Of Command Entirely And Permit Independent
+    Prosecutors Handle Cases, But Was Not Included In The Bill.**
+    According to The Hill, "The changes were not enough for Sen. Kirsten
+    Gillibrand (D-N.Y.), who had been pressing to completely remove
+    commanders from the chain of command in these instances and let
+    independent military prosecutors handle them." \[The Hill,
+    [12/15/21](https://thehill.com/policy/defense/585920-senate-approves-sweeping-defense-bill)\]
+
+### Survivors Bill Of Rights Incentives
+
+**2022: Fitzpatrick Voted For An Amendment That Incentivized States To
+Enact The Rights Given To Victims Of Sexual Assault Under The Survivors
+Of Bill Rights Act.** In July 2022, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the National Defense
+Authorization Act for Fiscal Year 2023, which would "incentivize states
+to enact, at a minimum, the rights afforded to victims of sexual assault
+under the Survivors Bill of Rights Act." The vote was on the adoption of
+an amendment. The House adopted the amendment by a vote 222-195. \[House
+Vote 338, [7/14/22](http://clerk.house.gov/evs/2022/roll338.xml);
+Congressional Quarterly,
+[7/14/22](https://plus.cq.com/vote/2022/H/338?17); Congressional
+Actions, [H.Amdt.
+275](https://www.congress.gov/amendment/117th-congress/house-amendment/275/actions?r=17&s=a);
+Congressional Actions, [H.R.
+7900](https://www.congress.gov/bill/117th-congress/house-bill/7900/actions)\]

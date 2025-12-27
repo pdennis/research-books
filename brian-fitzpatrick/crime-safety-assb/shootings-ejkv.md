@@ -1,0 +1,106 @@
+---
+title: Shootings
+description: 
+published: true
+date: 2025-09-22T20:39:23.632Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:39:19.852Z
+---
+
+# Shootings
+
+### Active Shooter Alert Network
+
+**2022: Fitzpatrick Voted To Require The Justice Department To Appoint A
+National Coordinator For A New Active Shooter Alert Communications
+Network, Who Would Work With State And Local Agencies To Implement
+Public Alerts For Active Shooter Threats.** In July 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the Active Shooter Alert
+Act of 2022, which would "require the Justice Department to appoint a
+national coordinator for a new Active Shooter Alert Communications
+Network. It would require the coordinator to work with state and local
+government agencies to establish procedures for response to and public
+alerts regarding active shooter threats; coordinate with the Federal
+Emergency Management Agency and Federal Communications Commission
+regarding the use of the Integrated Public Alert and Warning System for
+active shooter alerts; establish and regularly update best practices for
+the issuance of alerts through the network; and report to Congress
+biennially on the status and effectiveness of each state and local alert
+procedure that has been implemented. It would authorize \$2 million in
+fiscal 2023 for the Justice Department to carry out the bill\'s
+provisions. It would also require the Government Accountability Office
+to report to Congress, within two years of enactment, on state and local
+responses to active shooters, including the timing and effectiveness of
+public alerts." The vote was on passage. The House passed the bill by a
+vote 260-169, thus the bill was sent to the Senate. \[House Vote 307,
+[7/13/22](http://clerk.house.gov/evs/2022/roll307.xml); Congressional
+Quarterly, [7/13/22](https://plus.cq.com/vote/2022/H/307?10);
+Congressional Actions, [H.R.
+6538](https://www.congress.gov/bill/117th-congress/house-bill/6538/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against Establishing An Active
+Shooter Alert Communications Network.** In July 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the "adoption of the
+rule (H Res 1224) that would provide for House consideration of the
+Active Shooter Alert Act (HR 6538)." The vote was on the adoption of the
+rule. The House adopted the rule by a vote 217-204. \[House Vote 304,
+[7/13/22](http://clerk.house.gov/evs/2022/roll304.xml); Congressional
+Quarterly, [7/13/22](https://plus.cq.com/vote/2022/H/304?4);
+Congressional Actions, [H.R.
+6538](https://www.congress.gov/bill/117th-congress/house-bill/6538/actions);
+Congressional Actions, [H.Res.
+1224](https://www.congress.gov/bill/117th-congress/house-resolution/1224/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against Establishing An Active
+Shooter Alert Communications Network.** In July 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the "motion to order
+the previous question (thus ending debate and possibility of amendment)
+on the rule (H Res 1224) that would provide for House consideration of
+the Active Shooter Alert Act (HR 6538)." The vote was on a motion to
+order the previous question. The House agreed to the motion by a vote
+218-208. \[House Vote 303,
+[7/13/22](http://clerk.house.gov/evs/2022/roll303.xml); Congressional
+Quarterly, [7/13/22](https://plus.cq.com/vote/2022/H/303?2);
+Congressional Actions, [H.R.
+6538](https://www.congress.gov/bill/117th-congress/house-bill/6538/actions);
+Congressional Actions, [H.Res.
+1224](https://www.congress.gov/bill/117th-congress/house-resolution/1224/actions)\]
+
+**2022: Fitzpatrick Voted To Require The Justice Department To Appoint A
+National Coordinator For A New Active Shooter Alert Communications
+Network, Who Would Work With State And Local Agencies To Implement
+Public Alerts For Active Shooter Threats.** In June 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the Active Shooter Alert
+Act of 2022, which would "require the Justice Department to appoint a
+national coordinator for a new Active Shooter Alert Communications
+Network. It would require the coordinator to work with state and local
+government agencies to establish procedures for response to and public
+alerts regarding active shooter threats; coordinate with the Federal
+Emergency Management Agency and Federal Communications Commission
+regarding the use of the Integrated Public Alert and Warning System for
+active shooter alerts; establish and regularly update best practices for
+the issuance of alerts through the network; and report to Congress
+biennially on the status and effectiveness of each state and local alert
+procedure that has been implemented. It would authorize \$2 million in
+fiscal 2023 for the Justice Department to carry out the bill's
+provisions. It would also require the Government Accountability Office
+to report to Congress, within two years of enactment, on state and local
+responses to active shooters, including the timing and effectiveness of
+public alerts." The vote was on passage. The House failed to acquire a
+2/3 majority and rejected the bill by a vote of 259-162. \[House Vote
+289, [6/22/22](http://clerk.house.gov/evs/2022/roll289.xml);
+Congressional Quarterly,
+[6/22/22](https://plus.cq.com/vote/2022/H/289?12); Congressional
+Actions, [H.R.
+6538](https://www.congress.gov/bill/117th-congress/house-bill/6538/actions)\]
+
+-   **The Bill Would Create An Active Shooter Alert Communications
+    Network, Similar To The Amber Alert System, Which Would Inform
+    Communities When Active Shooters Were In Their Areas.** According to
+    The Hill, "The bill called for creating an Active Shooter Alert
+    Communications Network, which would inform community members when
+    active shooters are in their areas. The program, according to the
+    bill's sponsors, would function similarly to the Amber Alert
+    system." \[The Hill,
+    [6/22/22](https://thehill.com/homenews/house/3533773-house-fails-to-pass-bill-creating-active-shooter-alert-system/)\]

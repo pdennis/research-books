@@ -1,0 +1,77 @@
+---
+title: Foreign Intelligence Surveillance Act
+description: 
+published: true
+date: 2025-09-22T21:18:49.228Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:18:45.283Z
+---
+
+# Foreign Intelligence Surveillance Act
+
+### 2018 Reauthorization
+
+**2018: Fitzpatrick Voted To Reauthorize The Foreign Intelligence
+Surveillance Act.** In January 2018, Fitzpatrick voted for legislation
+that according to Congressional Quarterly, "would reauthorize for six
+years, through 2023, the Foreign Intelligence Surveillance Act, which
+governs electronic surveillance of foreign terrorism suspects. The bill
+would reauthorize Section 702 surveillance authorities on foreign
+targets, and would require the development of procedures for searching
+the Section 702 database that would protect the Fourth Amendment rights
+of U.S. citizens. The bill would prohibit the FBI from accessing
+information without an order from the secret FISA court in certain
+cases. The measure would increase penalties for the unauthorized removal
+of classified documents or information." The House passed the
+legislation by a vote of 256 to 164. The Senate later agreed to the bill
+and President Trump signed it into law. \[House Vote 16,
+[1/11/18](http://clerk.house.gov/evs/2018/roll016.xml); Congressional
+Quarterly, [1/11/18](http://www.cq.com/vote/2018/H/16?2); Congressional
+Actions, [S.
+139](https://www.congress.gov/bill/115th-congress/senate-bill/139/all-actions)\]
+
+-   **Earlier That Day, President Trump's Tweet Almost Derailed The
+    Legislation, Claiming That The FISA Act May Have Been Used To
+    Surveil And Abuse The Trump Campaign By The Obama Administration.**
+    According to CNN, "House Republican leaders and top administration
+    officials believed early Thursday morning that they were in good
+    shape to pass the plan, even though it faced opposition from the
+    right and the left and is always a heavy legislative lift. And then
+    Trump tweeted. The President's tweet at 7:33 a.m. ET that questioned
+    the already contentious program came at the worst time for GOP
+    leaders who spent recent weeks rounding up the votes and combating
+    demands for changes from conservatives and libertarian elements of
+    the conference. The White House and law enforcement agencies have
+    also been working the Hill and securing support from both sides of
+    the aisle. 'House votes on controversial FISA ACT today.' This is
+    the act that may have been used, with the help of the discredited
+    and phony Dossier, to so badly surveil and abuse the Trump Campaign
+    by the previous administration and others?' Trump tweeted." \[CNN,
+    [1/11/18](http://www.cnn.com/2018/01/11/politics/fisa-house-vote-congress/index.html)\]
+
+### Restrictions
+
+**2018: Fitzpatrick Voted Against Requiring FBI And Intelligence Agents
+Receive A Warrant To Look Through The Section 702 Database For
+Information About U.S. Citizens That Was Gathered When Collecting
+Information On Non-Americans.** In January 2018, Fitzpatrick voted
+against an amendment that would have, according to the New York Times,
+"imposed a series of new safeguards. That proposal included a
+requirement that officials obtain warrants in most cases before hunting
+for, and reading, emails and other messages of Americans that were swept
+up under the surveillance. Supporters of those changes contended that
+the overhaul was needed to preserve Fourth Amendment privacy rights in
+the internet era. But intelligence and law enforcement officials argued
+that it was unnecessary, and dangerous, to limit security officials from
+being able to freely gain access to information the government already
+possessed." The underlying legislation reauthorized FISA. The House
+rejected the amendment by a vote of 183 to 233. \[House Vote 14,
+[1/11/18](http://clerk.house.gov/evs/2018/roll014.xml); Congressional
+Quarterly, [1/11/18](http://www.cq.com/vote/2018/H/14?0); New York
+Times,
+[1/11/18](https://www.nytimes.com/2018/01/11/us/politics/fisa-surveillance-congress-trump.html);
+Congressional Actions, [H. Amdt.
+510](https://www.congress.gov/amendment/115th-congress/house-amendment/510/actions);
+Congressional Actions, [S.
+139](https://www.congress.gov/bill/115th-congress/senate-bill/139/all-actions)\]

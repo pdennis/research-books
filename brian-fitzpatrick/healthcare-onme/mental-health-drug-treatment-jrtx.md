@@ -1,0 +1,613 @@
+---
+title: Mental Health And Drug Treatment Programs
+description: 
+published: true
+date: 2025-09-22T21:16:03.320Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:15:57.653Z
+---
+
+# Mental Health And Drug Treatment Programs
+
+**2022: Fitzpatrick Effectively Voted Against The Restoring Hope For
+Mental Health And Well-Being Act Of 2022.** In June 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the "adoption of the
+rule (H Res 1191) that would provide for House floor consideration of
+\[...\] the Restoring Hope for Mental Health and Well-Being Act (HR
+7666)." The vote was on the adoption of the rule. The House adopted the
+rule by a vote of 214-202. \[House Vote 280,
+[6/22/22](http://clerk.house.gov/evs/2022/roll280.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/280?10);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions);
+Congressional Actions, [H.Res.
+1191](https://www.congress.gov/bill/117th-congress/house-resolution/1191/actions)\]
+
+**2022: Fitzpatrick Effectively Voted Against The Restoring Hope For
+Mental Health And Well-Being Act Of 2022.** In June 2022, according to
+Congressional Quarterly, Fitzpatrick voted against the "motion to order
+the previous question (thus ending debate and possibility of amendment)
+on the rule (H Res 1191) that would provide for House floor
+consideration of \[...\] the Restoring Hope for Mental Health and
+Well-Being Act (HR 7666)." The vote was on a motion to order the
+previous question. The House agreed to the motion by a vote of 215-200.
+\[House Vote 279,
+[6/22/22](http://clerk.house.gov/evs/2022/roll279.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/279?9);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions);
+Congressional Actions, [H.Res.
+1191](https://www.congress.gov/bill/117th-congress/house-resolution/1191/actions)\]
+
+### Administration Of Controlled Substances And Meeting Needs Of Veteran Patients
+
+**2022: Fitzpatrick Voted For Amendments That Would Extend The Time
+Limit To 60 Days By Which Certain Controlled Substances Must Be
+Administered To A Patient After A Medical Provider Receives The
+Substance And Require Recommendations To Meet The Needs Of Veteran
+Patients.** In June 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the en bloc amendments no. 2 to the Restoring Hope
+for Mental Health and Well-Being Act of 2022, which would "extend from
+14 to 60 days the time limit by which certain controlled substances must
+be administered to a patient after a practitioner receives the
+substance; require the best practices for crisis response continuum of
+care published by HHS to include recommendations on the capacity to meet
+the needs of veteran patients." The vote was on the adoption of
+amendments. The House adopted the amendments by a vote of 366-51.
+\[House Vote 282,
+[6/22/22](http://clerk.house.gov/evs/2022/roll282.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/282?3);
+Congressional Actions, [H.Amdt.
+233](https://www.congress.gov/amendment/117th-congress/house-amendment/233/actions?r=4&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Behavioral Health And Suicide Prevention For Service Members
+
+**2022: Fitzpatrick Voted For Amendments That Would Require The Defense
+Department To Enact A Two-Year Program To Pre-Program Behavioral Health
+And Suicide Prevention Resources Into Devices Provided To Armed Forces
+Members.** In June 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the en bloc amendments no. 1 to the Restoring Hope
+for Mental Health and Well-Being Act of 2022, which would "require the
+Defense Department to carry out a two-year pilot program to pre-program
+behavioral health and suicide prevention resources into smart devices
+issued to members of the armed forces." The vote was on the adoption of
+amendments. The House adopted the amendments by a vote of 387-32.
+\[House Vote 281,
+[6/22/22](http://clerk.house.gov/evs/2022/roll281.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/281?12);
+Congressional Actions, [H.Amdt.
+232](https://www.congress.gov/amendment/117th-congress/house-amendment/232/actions?r=5&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Behavioral Health Crisis
+
+**2022: Fitzpatrick Voted For Amendments That Would Require The
+Behavioral Health Crisis Coordinating Office To Support Technical
+Assistance, Data Analysis And Evaluations For Care Provided By The
+Veterans Crisis Line.** In June 2022, according to Congressional
+Quarterly, Fitzpatrick voted for the en bloc amendments no. 1 to the
+Restoring Hope for Mental Health and Well-Being Act of 2022, which would
+"require the Behavioral Health Crisis Coordinating Office established by
+the bill to support technical assistance, data analysis and evaluation
+functions for care provided by the Veterans Crisis Line." The vote was
+on the adoption of amendments. The House adopted the amendments by a
+vote of 387-32. \[House Vote 281,
+[6/22/22](http://clerk.house.gov/evs/2022/roll281.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/281?12);
+Congressional Actions, [H.Amdt.
+232](https://www.congress.gov/amendment/117th-congress/house-amendment/232/actions?r=5&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Campus Alcohol And Substance Abuse Programs
+
+**2022: Fitzpatrick Voted To Require The Education Department And Health
+And Human Services Department To Develop Best Practices For Higher
+Education Institutions To Implement Programs To Prevent And Provide
+Support For Alcohol And Substance Abuse.** In June 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the Campus Prevention and
+Recovery Services for Students Act of 2022, which would "require the
+Education Department and Health and Human Services departments, within
+180 days of enactment, to enter into an interagency agreement to develop
+and disseminate criteria and best practices for institutions of higher
+education to implement evidence-based programs to prevent and provide
+support for alcohol and substance misuse, and to promote coordination
+and collaboration between institutions of higher education and state
+agencies administering substance abuse prevention and treatment block
+grants." The vote was on passage. The House passed the bill by a vote of
+371-49, thus the bill was sent to the Senate. \[House Vote 292,
+[6/23/22](http://clerk.house.gov/evs/2022/roll292.xml); Congressional
+Quarterly, [6/23/22](https://plus.cq.com/vote/2022/H/292?0);
+Congressional Actions, [H.R.
+6493](https://www.congress.gov/bill/117th-congress/house-bill/6493/actions)\]
+
+**2022: Fitzpatrick Voted To Authorize \$15 Million Annually Through FY
+2028 For Alcohol And Drug Misuse Prevention Grants To Higher Education
+Institutions And Expand Eligible Uses Of The Grants, Such As Re-Entry
+Assistance For Students On Academic Probation Due To Substance Abuse.**
+In June 2022, according to Congressional Quarterly, Fitzpatrick voted
+for the Campus Prevention and Recovery Services for Students Act of
+2022, which would "authorize \$15 million annually through fiscal 2028
+for alcohol and drug misuse prevention grants to institutions of higher
+education and expand eligible uses of grant funds, including to support
+recovery and peer-to-peer support services and counseling; integrated
+primary care, substance use disorder and mental health services;
+re-entry assistance for students on academic probation due to a
+substance use disorder; and student and faculty education on recognizing
+substance use disorders and de-escalating crisis situations involving
+individuals with a substance use disorder." The vote was on passage. The
+House passed the bill by a vote of 371-49, thus the bill was sent to the
+Senate. \[House Vote 292,
+[6/23/22](http://clerk.house.gov/evs/2022/roll292.xml); Congressional
+Quarterly, [6/23/22](https://plus.cq.com/vote/2022/H/292?0);
+Congressional Actions, [H.R.
+6493](https://www.congress.gov/bill/117th-congress/house-bill/6493/actions)\]
+
+### Campus Mental Health And Suicide Prevention Plans
+
+**2022: Fitzpatrick Voted To Require The Education Department And Health
+And Human Services Department To Encourage Higher Education Institutions
+To Implement Comprehensive Campus Mental Health And Suicide Prevention
+Plans.** In June 2022, according to Congressional Quarterly, Fitzpatrick
+voted for the Enhancing Mental Health and Suicide Prevention Through
+Campus Planning Act, which would "require the Education Department, in
+coordination with the Health and Human Services Department, to encourage
+higher education institutions to develop and implement comprehensive
+campus mental health and suicide prevention plans that align with
+approaches recommended by the Suicide Prevention Resource Center and
+other established programs and take into consideration existing federal
+and state efforts." The vote was on passage. The House passed the bill
+by a vote of 405-16, thus the bill was sent to the Senate. \[House Vote
+291, [6/23/22](http://clerk.house.gov/evs/2022/roll291.xml);
+Congressional Quarterly,
+[6/23/22](https://plus.cq.com/vote/2022/H/291?3); Congressional Actions,
+[H.R.
+5407](https://www.congress.gov/bill/117th-congress/house-bill/5407/actions)\]
+
+### Education Campaign On Opioids
+
+**2022: Fitzpatrick Voted For Amendments That Would Require HHS To
+Develop An Education Campaign To Raise Awareness Of The Dangers Of
+Synthetic Opioids And The Services Available To Address Opioid Substance
+Abuse.** In June 2022, according to Congressional Quarterly, Fitzpatrick
+voted for the en bloc amendments no. 2 to the Restoring Hope for Mental
+Health and Well-Being Act of 2022, which would "insert the text of a
+bill (HR 2364) that would require HHS to develop and implement an
+education campaign to raise public awareness of the dangers and use of
+synthetic opioids, as well as HHS services available to address the
+misuse of such drugs." The vote was on the adoption of amendments. The
+House adopted the amendments by a vote of 366-51. \[House Vote 282,
+[6/22/22](http://clerk.house.gov/evs/2022/roll282.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/282?3);
+Congressional Actions, [H.Amdt.
+233](https://www.congress.gov/amendment/117th-congress/house-amendment/233/actions?r=4&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Eligibility Of Youth Released From Incarceration And Guidance For Youth Access To Services
+
+**2022: Fitzpatrick Effectively Voted Against The Manager's Amendment
+That Allow Eligible Youth Who Were Incarcerated To Receive Physical And
+Mental Health Services And Required HHS To Issue Guidance To Improve
+School-Based Medical Assistance, Behavioral Health Services For Children
+And Telehealth Services.** In June 2022, according to Congressional
+Quarterly, Fitzpatrick effectively voted against the manager's amendment
+to the Restoring Hope for Mental Health and Well-Being Act of 2022,
+which would "add various requirements related to Medicaid and the
+Children\'s Health Insurance Program services, including to require the
+provision of physical and mental health screenings for eligible youth
+released from incarceration, allow eligible youth who are incarcerated
+pending disposition of charges to receive medical services, and require
+HHS to issue guidances to improve access to school-based medical
+assistance, behavioral health services for children and telehealth
+services." The vote was on the adoption of the rule. The House adopted
+the rule by a vote of 214-202, thus the manager's amendment was
+automatically adopted. \[House Vote 280,
+[6/22/22](http://clerk.house.gov/evs/2022/roll280.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/280?10);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions);
+Congressional Actions, [H.Res.
+1191](https://www.congress.gov/bill/117th-congress/house-resolution/1191/actions)\]
+
+### Grant Program To Address Opioid Use And Misuse
+
+**2022: Fitzpatrick Voted For Amendments That Would Modify And
+Reauthorize An HHS Grant Program For Five Years To Help States And
+Tribes Address Opioid And Stimulate Use And Misuse.** In June 2022,
+according to Congressional Quarterly, Fitzpatrick voted for the en bloc
+amendments no. 2 to the Restoring Hope for Mental Health and Well-Being
+Act of 2022, which would "modify and reauthorize for five years an HHS
+grant program to help states and tribes address opioid and stimulant use
+and misuse." The vote was on the adoption of amendments. The House
+adopted the amendments by a vote of 366-51. \[House Vote 282,
+[6/22/22](http://clerk.house.gov/evs/2022/roll282.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/282?3);
+Congressional Actions, [H.Amdt.
+233](https://www.congress.gov/amendment/117th-congress/house-amendment/233/actions?r=4&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Information For Pharmacists On Refusal To Fill Prescriptions
+
+**2022: Fitzpatrick Voted For Amendments That Would Direct HHS To
+Periodically Update Information On When Pharmacists May Refuse To Fill
+Prescriptions And How To Verify Patient Identify.** In June 2022,
+according to Congressional Quarterly, Fitzpatrick voted for the en bloc
+amendments no. 2 to the Restoring Hope for Mental Health and Well-Being
+Act of 2022, which would "insert the text of a bill (HR 2355) that would
+require the Health and Human Services Department to periodically update
+materials on when pharmacists may refuse to fill prescriptions and
+require such materials to include information for pharmacists on
+verifying patient identity." The vote was on the adoption of amendments.
+The House adopted the amendments by a vote of 366-51. \[House Vote 282,
+[6/22/22](http://clerk.house.gov/evs/2022/roll282.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/282?3);
+Congressional Actions, [H.Amdt.
+233](https://www.congress.gov/amendment/117th-congress/house-amendment/233/actions?r=4&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Law Enforcement Mental Health Report
+
+**2022: Fitzpatrick Voted For An Amendment That Would Require The
+Justice Department To Report On Mental Health And Stress-Related
+Responses Of Law Enforcement To Traumatic Incidents And The Availability
+And Usage Of Mental Health And Wellness Programs By Police Officers.**
+In June 2022, according to Congressional Quarterly, Fitzpatrick voted
+for an amendment to the Restoring Hope for Mental Health and Well-Being
+Act of 2022, which would "require the Justice Department, in
+consultation with the FBI, National Institute for Justice and Substance
+Abuse and Mental Health Services Administration, to submit to Congress,
+within 270 days of enactment, a report on mental health and
+stress-related responses of law enforcement to traumatic incidents and
+the availability and utilization of mental health and wellness
+programming for law enforcement officers." The vote was on the adoption
+of an amendment. The House adopted the amendment by a vote of 411-10.
+\[House Vote 283,
+[6/22/22](http://clerk.house.gov/evs/2022/roll283.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/283?2);
+Congressional Actions, [H.Amdt.
+234](https://www.congress.gov/amendment/117th-congress/house-amendment/234/actions?r=3&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Maternal Mental Health Hotline
+
+**2022: Fitzpatrick Voted For Amendments That Would Require The
+Department Of Health And Human Services To Consult With State, Local And
+Tribal Public Health Officials In Maintaining The Maternal Mental Health
+Hotline.** In June 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the en bloc amendments no. 1 to the Restoring Hope
+for Mental Health and Well-Being Act of 2022, which would "require HHS
+to consult with state, local and tribal public health officials in
+maintaining the Maternal Mental Health Hotline established by the bill."
+The vote was on the adoption of amendments. The House adopted the
+amendments by a vote of 387-32. \[House Vote 281,
+[6/22/22](http://clerk.house.gov/evs/2022/roll281.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/281?12);
+Congressional Actions, [H.Amdt.
+232](https://www.congress.gov/amendment/117th-congress/house-amendment/232/actions?r=5&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Minority Fellowship Program And Medicare Improvement Fund
+
+**2022: Fitzpatrick Effectively Voted Against The Manager's Amendment
+That Authorized \$25 Million Annually Through FY 2027 For The Substance
+Abuse And Mental Health Services Administration's Minority Fellowship
+Program And Increased Funding For The Medicare Improvement Fund To \$1
+Billion.** In June 2022, according to Congressional Quarterly,
+Fitzpatrick effectively voted against the manager's amendment to the
+Restoring Hope for Mental Health and Well-Being Act of 2022, which would
+"authorize \$25 million annually through fiscal 2027 for the Substance
+Abuse and Mental Health Services Administration\'s Minority Fellowship
+Program. It would increase funding available for the Medicare
+Improvement Fund from \$5 million to \$1 billion." The vote was on the
+adoption of the rule. The House adopted the rule by a vote of 214-202,
+thus the manager's amendment was automatically adopted. \[House Vote
+280, [6/22/22](http://clerk.house.gov/evs/2022/roll280.xml);
+Congressional Quarterly,
+[6/22/22](https://plus.cq.com/vote/2022/H/280?10); Congressional
+Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions);
+Congressional Actions, [H.Res.
+1191](https://www.congress.gov/bill/117th-congress/house-resolution/1191/actions)\]
+
+### National Suicide Prevention Lifeline Program
+
+**2022: Fitzpatrick Voted For Amendments That Would Authorize \$101.6
+Million Annually Through FY 2027 For The National Suicide Prevention
+Lifeline Program, In Which 80% Would Go Towards Local Crisis Centers.**
+In June 2022, according to Congressional Quarterly, Fitzpatrick voted
+for the en bloc amendments no. 1 to the Restoring Hope for Mental Health
+and Well-Being Act of 2022, which would "authorize \$101.6 million
+annually through fiscal 2027 for the National Suicide Prevention
+Lifeline program, with at least 80 percent of the funding allocated for
+local crisis centers." The vote was on the adoption of amendments. The
+House adopted the amendments by a vote of 387-32. \[House Vote 281,
+[6/22/22](http://clerk.house.gov/evs/2022/roll281.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/281?12);
+Congressional Actions, [H.Amdt.
+232](https://www.congress.gov/amendment/117th-congress/house-amendment/232/actions?r=5&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Peer-Support Behavioral Health And Wellness Programs
+
+**2022: Fitzpatrick Voted For Amendments That Would Authorize Grants To
+Non-Profits To Establish Peer-Support Behavioral Health and Wellness
+Programs For Firefighters, Emergency Medical Services And Health Care
+Workers.** In June 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the en bloc amendments no. 1 to the Restoring Hope
+for Mental Health and Well-Being Act of 2022, which would "insert the
+text of a bill (HR 1480) that would authorize the Health and Human
+Services Department to award grants to nonprofits to establish and
+implement peer-support behavioral health and wellness programs for fire
+departments, emergency medical services and health care providers." The
+vote was on the adoption of amendments. The House adopted the amendments
+by a vote of 387-32. \[House Vote 281,
+[6/22/22](http://clerk.house.gov/evs/2022/roll281.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/281?12);
+Congressional Actions, [H.Amdt.
+232](https://www.congress.gov/amendment/117th-congress/house-amendment/232/actions?r=5&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Pharmacy Benefit Management Reporting Requirements
+
+**2022: Fitzpatrick Effectively Voted Against The Manager's Amendment
+That Would Add Reporting Requirements For Insurances Providing Pharmacy
+Benefit Managements Regarding Drugs Covered, Co-Payment Assistance, And
+Total Gross And Net Spending For Prescription Drugs.** In June 2022,
+according to Congressional Quarterly, Fitzpatrick effectively voted
+against the manager's amendment to the Restoring Hope for Mental Health
+and Well-Being Act of 2022, which "Beginning in 2024, it would add
+reporting requirements for health insurance issuers providing pharmacy
+benefit management regarding drugs covered, amounts of copayment
+assistance paid and total gross and net spending for prescription drugs
+under the plan." The vote was on the adoption of the rule. The House
+adopted the rule by a vote of 214-202, thus the manager's amendment was
+automatically adopted. \[House Vote 280,
+[6/22/22](http://clerk.house.gov/evs/2022/roll280.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/280?10);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions);
+Congressional Actions, [H.Res.
+1191](https://www.congress.gov/bill/117th-congress/house-resolution/1191/actions)\]
+
+### Postponing Ending Narcotic Dispensing Requirement
+
+**2022: Fitzpatrick Voted Against An Amendment That Would Postpone The
+Effective Date To January 2024 For Provisions That Would Eliminate
+Certain Requirements For Dispensing Schedule III, IV, And V Narcotic
+Drugs For Maintenance Or Detoxification.** In June 2022, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Restoring Hope for Mental Health and Well-Being Act of 2022, which would
+"postpone the effective date of provisions regarding the elimination of
+certain requirements for dispensing Schedule III, IV, and V narcotic
+drugs for maintenance or detoxification treatment to Jan. 1, 2024." The
+vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 180-239. \[House Vote 285,
+[6/22/22](http://clerk.house.gov/evs/2022/roll285.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/285?4);
+Congressional Actions, [H.Amdt.
+236](https://www.congress.gov/amendment/117th-congress/house-amendment/236/actions?r=1&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Reauthorizing 30 Programs And Authorizing New Programs
+
+**2022: Fitzpatrick Voted To Reauthorize 30 Mental Health And Substance
+Use Disorder Programs Within The Health And Human Services Department
+Through FY 2027 And Authorize New Funding For New Mental Health
+Programs.** In June 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the Restoring Hope for Mental Health and
+Well-Being Act of 2022, which would "reauthorize over 30 Health and
+Human Services Department mental health and substance use disorder
+programs through fiscal 2027, authorize funding for several new HHS
+mental health programs and include various provisions to expand access
+to such services. The bill would reauthorize existing HHS grant programs
+for five years, through fiscal 2027, including to authorize a total of
+\$9.5 billion for substance use prevention, treatment and recovery block
+grants; \$4.3 billion for community mental health services block grants;
+\$625 million for community mental health services for children with
+serious emotional disturbances; \$300 million to support integrated
+physical and behavioral health services; \$250 million for mental and
+behavioral health professional education and training; \$207 million for
+nonprofits providing mental health and substance use disorder services
+for homeless individuals; \$150 million for adult suicide prevention and
+intervention programs, and \$125 million for activities to treat heroin
+and other opioid addiction. Also over five years, it would authorize
+funding for new HHS mental health programs, including a total of \$65
+million for grants to expand access to peer-delivered mental health
+services; \$50 million for grants for states, localities and tribes to
+establish or enhance mobile crisis response teams that divert mental
+health and substance use crisis response from law enforcement; and \$5
+million for a center of excellence to support eating disorder
+identification and treatment." The vote was on passage. The House passed
+the bill by a vote of 402-20, thus the bill was sent to the Senate.
+\[House Vote 286,
+[6/22/22](http://clerk.house.gov/evs/2022/roll286.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/286?5);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+-   **The Bill Would Establish A Mental Health Task Force And Authorize
+    \$50 Million Through FY 2027 For A National Hotline For Women
+    Affected By Maternal Health And Substance Abuse.** According to
+    Congressional Quarterly, "It would require HHS to establish a
+    maternal mental health task force and authorize \$50 million through
+    fiscal 2027 for a national hotline for pregnant and postpartum women
+    affected by maternal mental health and substance use disorders."
+    \[Congressional Quarterly,
+    [6/22/22](https://plus.cq.com/vote/2022/H/286?5)\]
+
+-   **The Bill Would Require The Substance Abuse And Mental Health
+    Services Administration To Develop Guidance For States To Promote
+    Recovery Housing And To Establish An Interagency Group With HUD To
+    Support Homeless Individuals And Individuals With Mental Illness Or
+    Substance Use Disorders.** According to Congressional Quarterly,
+    "Among other provisions, it would require the Substance Abuse and
+    Mental Health Services Administration to develop and periodically
+    update guidance for states to operate and promote the availability
+    of recovery housing and to convene an interagency working group with
+    the Housing and Urban Development Department to support recovery
+    housing for individuals experiencing homelessness, mental illness or
+    substance use disorders." \[Congressional Quarterly,
+    [6/22/22](https://plus.cq.com/vote/2022/H/286?5)\]
+
+-   **The Bill Would Require HHS To Rescind A Requirement That An
+    Individual Must Have Been Addicted To Opioids For At Least One Year
+    In Order To Qualify For A Treatment Program.** According to
+    Congressional Quarterly, "It would require HHS to eliminate a
+    requirement that an individual must have been experiencing opioid
+    addiction for at least one year before admittance into an opioid
+    treatment program." \[Congressional Quarterly,
+    [6/22/22](https://plus.cq.com/vote/2022/H/286?5)\]
+
+-   **The Bill Would Certain Waiver Requirements For Medical Providers
+    Dispensing Schedule III, IV And V Narcotics For Maintenance And
+    Detoxification.** According to Congressional Quarterly, "It would
+    remove certain waiver requirements for medical practitioners
+    dispensing Schedule III, IV and V narcotic drugs, including
+    buprenorphine, for maintenance or detoxification treatment."
+    \[Congressional Quarterly,
+    [6/22/22](https://plus.cq.com/vote/2022/H/286?5)\]
+
+-   **The Bill Would Increase Funding For The Medicare Improvement Fund
+    To \$1 Billion.** According to Congressional Quarterly, "It would
+    increase funding available for the Medicare Improvement Fund from
+    \$5 million to \$1 billion." \[Congressional Quarterly,
+    [6/22/22](https://plus.cq.com/vote/2022/H/286?5)\]
+
+### School Behavioral Intervention Teams
+
+**2022: Fitzpatrick Voted For An Amendment That Would Require The
+Department Of Health And Human Services To Assist Schools And Higher
+Education Institutions In Implementing Behavioral Intervention Teams,
+Including How To Mitigate Inappropriate Involvement Of Law Enforcement
+And Privacy Violations.** In June 2022, according to Congressional
+Quarterly, Fitzpatrick voted for an amendment to the Restoring Hope for
+Mental Health and Well-Being Act of 2022, which would "require the
+Health and Human Services Department, within two years of enactment, to
+develop best practices for and provide technical assistance to
+elementary schools, secondary schools and institutions of higher
+education in establishing and using behavioral intervention teams,
+including how such teams can mitigate inappropriate uses of mental
+health assessments, inappropriate involvement of law enforcement and
+violations of individual privacy." The vote was on the adoption of an
+amendment. The House adopted the amendment by a vote of 320-103. \[House
+Vote 284, [6/22/22](http://clerk.house.gov/evs/2022/roll284.xml);
+Congressional Quarterly,
+[6/22/22](https://plus.cq.com/vote/2022/H/284?3); Congressional Actions,
+[H.Amdt.
+235](https://www.congress.gov/amendment/117th-congress/house-amendment/235/actions?r=2&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### School-Based Mental Health Services And Trauma Services For Children
+
+**2022: Fitzpatrick Voted For Amendments That Would Authorize \$130
+Million Annually Through FY 2027 For Grants And Contracts To
+School-Based Mental Health Service Providers And Providers That Support
+Children With Trauma, Grieg, Suicide Risk And Violence.** In June 2022,
+according to Congressional Quarterly, Fitzpatrick voted for the en bloc
+amendments no. 1 to the Restoring Hope for Mental Health and Well-Being
+Act of 2022, which would "authorize \$130 million annually through
+fiscal 2027 for HHS, in consultation with the Education Department, to
+make grants and contracts to entities that provide school-based mental
+health services and support for children dealing with trauma, grief,
+suicide risk and violence." The vote was on the adoption of amendments.
+The House adopted the amendments by a vote of 387-32. \[House Vote 281,
+[6/22/22](http://clerk.house.gov/evs/2022/roll281.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/281?12);
+Congressional Actions, [H.Amdt.
+232](https://www.congress.gov/amendment/117th-congress/house-amendment/232/actions?r=5&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Smartphone And Media Health Impacts On Youth
+
+**2022: Fitzpatrick Effectively Voted Against The Manager's Amendment
+That Would Direct HHS To Research On The Health Effects Of Smartphone
+And Social Media Usage By Adolescents And The Health And Developmental
+Impacts Of Media On Infants, Children And Teens.** In June 2022,
+according to Congressional Quarterly, Fitzpatrick effectively voted
+against the manager's amendment to the Restoring Hope for Mental Health
+and Well-Being Act of 2022, which would "require HHS to conduct and
+support research on the health effects of smartphone and social media
+use by adolescents and on the health and developmental effects of media
+on infants, children and adolescents." The vote was on the adoption of
+the rule. The House adopted the rule by a vote of 214-202, thus the
+manager's amendment was automatically adopted. \[House Vote 280,
+[6/22/22](http://clerk.house.gov/evs/2022/roll280.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/280?10);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions);
+Congressional Actions, [H.Res.
+1191](https://www.congress.gov/bill/117th-congress/house-resolution/1191/actions)\]
+
+### Study On Suicidal Behaviors Among Youth With Chronic Illnesses
+
+**2022: Fitzpatrick Voted For Amendments That Would Require A Study On
+The Rates Of Suicidal Behaviors Among Children And Teens With Chronic
+Illnesses, Including Substance Abuse, Autoimmune Disorders And Heritable
+Blood Illnesses.** In June 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the en bloc amendments no. 1 to the Restoring Hope
+for Mental Health and Well-Being Act of 2022, which would "require HHS
+to study the rates of suicidal behaviors among children and adolescents
+with chronic illnesses, including substance use disorders, autoimmune
+disorders and heritable blood disorders." The vote was on the adoption
+of amendments. The House adopted the amendments by a vote of 387-32.
+\[House Vote 281,
+[6/22/22](http://clerk.house.gov/evs/2022/roll281.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/281?12);
+Congressional Actions, [H.Amdt.
+232](https://www.congress.gov/amendment/117th-congress/house-amendment/232/actions?r=5&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Study On The Direct And Indirect Costs Of Serious Mental Illness
+
+**2022: Fitzpatrick Voted For Amendments That Would Require A Study On
+The Direct And Indirect Costs Of Serious Mental Illness On
+Non-Governmental Entities And Governmental Agencies.** In June 2022,
+according to Congressional Quarterly, Fitzpatrick voted for the en bloc
+amendments no. 1 to the Restoring Hope for Mental Health and Well-Being
+Act of 2022, which would "require HHS, in consultation with the Justice,
+Labor and Housing and Urban Development departments, to conduct a study
+on the direct and indirect costs of serious mental illness on
+nongovernmental entities and federal, state, local and tribal agencies."
+The vote was on the adoption of amendments. The House adopted the
+amendments by a vote of 387-32. \[House Vote 281,
+[6/22/22](http://clerk.house.gov/evs/2022/roll281.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/281?12);
+Congressional Actions, [H.Amdt.
+232](https://www.congress.gov/amendment/117th-congress/house-amendment/232/actions?r=5&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]
+
+### Suspicious Orders Of Controlled Substances
+
+**2022: Fitzpatrick Voted For Amendments That Would Require Controlled
+Substances' Manufacturers And Distributors To Maintain A Record Of Due
+Diligence When Discovering A Suspicious Order And Decline To Fill Such
+Order.** In June 2022, according to Congressional Quarterly, Fitzpatrick
+voted for the en bloc amendments no. 2 to the Restoring Hope for Mental
+Health and Well-Being Act of 2022, which would "require manufacturers
+and distributors of controlled substances to exercise and maintain a
+record of due diligence upon discovering a suspicious order and decline
+to fill the order unless the reasons for suspicion are resolved." The
+vote was on the adoption of amendments. The House adopted the amendments
+by a vote of 366-51. \[House Vote 282,
+[6/22/22](http://clerk.house.gov/evs/2022/roll282.xml); Congressional
+Quarterly, [6/22/22](https://plus.cq.com/vote/2022/H/282?3);
+Congressional Actions, [H.Amdt.
+233](https://www.congress.gov/amendment/117th-congress/house-amendment/233/actions?r=4&s=a);
+Congressional Actions, [H.R.
+7666](https://www.congress.gov/bill/117th-congress/house-bill/7666/actions)\]

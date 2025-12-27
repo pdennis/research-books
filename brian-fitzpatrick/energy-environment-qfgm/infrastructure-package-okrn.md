@@ -1,0 +1,251 @@
+---
+title: Bipartisan Infrastructure Package
+description: 
+published: true
+date: 2025-09-22T20:50:49.186Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:50:44.234Z
+---
+
+# Bipartisan Infrastructure Package
+
+### Attempting To Strike Programs
+
+**2021: Fitzpatrick Voted Against Striking Provisions Including The
+Authorization Of Funding For A Low-Income Drinking Water Assistance
+Program, A Low-Income Wastewater Assistance Program, Funding For
+Railroad-Related Entities, And The Apportionment Of A Carbon Pollution
+Reduction Program.** In June 2021, Fitzpatrick voted against en bloc
+amendments no.3 to the Infrastructure Investment and Jobs Act which
+would, according to Congressional Quarterly, "strike from the bill
+provisions that would authorize \$4 billion for a low-income drinking
+water assistance program and \$4 billion for a low-income wastewater
+assistance program; strike a section to authorize funding for multiple
+railroad-related entities, including Amtrak; prohibit the use of federal
+funds to expand the Amtrak network beyond the routes and stations served
+by Amtrak on the date of the bill\'s enactment; strike from the bill
+provisions that would establish and provide apportionment for a carbon
+pollution reduction program to support the reduction of greenhouse gas
+emissions from the surface transportation system; and strike the
+drinking water division of the bill and insert text that would
+reauthorize twelve drinking water assistance programs at current levels
+through fiscal 2026." The vote was on adoption of amendments. The House
+rejected the amendments by a vote of 180-226. \[House Vote 202,
+[6/30/21](http://clerk.house.gov/evs/2021/roll202.xml); Congressional
+Quarterly, [6/30/21](https://plus.cq.com/vote/2021/H/202?60);
+Congressional Actions, [H.Amdt.
+69](https://www.congress.gov/amendment/117th-congress/house-amendment/69/actions?r=536&s=a);
+Congressional Actions, [H.R.
+3684](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions)\]
+
+### Clean Energy And Sustainability Accelerator
+
+**2021: Fitzpatrick Voted To Establish The Clean Energy And
+Sustainability Accelerator, Which Would Facilitate The Distribution Of
+Emissions Reduction Technologies.** In July 2021, Fitzpatrick voted for
+the Infrastructure Investment and Jobs Act which would, according to
+Congressional Quarterly, "establish an independent nonprofit known as
+the Clean Energy and Sustainability Accelerator to facilitate the
+deployment of emissions reduction technologies, requiring the Energy
+Department to transfer \$50 billion to the accelerator upon
+establishment and \$10 billion annually for the subsequent five years."
+The vote was on passage. The House passed the bill by a vote of 221-201.
+The Senate amended the bill and the House voted on the concurrence. The
+bill ultimately became law. \[House Vote 208,
+[7/1/21](http://clerk.house.gov/evs/2021/roll208.xml); Congressional
+Quarterly, [7/1/21](https://plus.cq.com/vote/2021/H/208?67);
+Congressional Actions, [H.R.
+3684](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions)\]
+
+### Clean Energy, Energy Efficiency And Renewable Energy Programs
+
+**2021: Fitzpatrick Voted To Provide The Energy Department About \$62
+Billion For Clean Energy Demonstration Projects, Energy Efficiency And
+Renewable Energy Programs, Power Grid Resilience And Electricity
+Projects, And Fossil Energy And Carbon Management, And Various Program
+Expansions To Incentivize Clean Energy.** In November 2021, Fitzpatrick
+voted for concurring in the Senate amendment to the Infrastructure
+Investment and Jobs Act which would, according to Congressional
+Quarterly, "provide approximately \$62 billion for the Energy
+Department, including \$21.5 billion for clean energy demonstration
+projects, \$16.3 billion for energy efficiency and renewable energy
+programs, \$8 billion for power grid resilience and other electricity
+projects, and \$7.5 billion for fossil energy and carbon management. It
+would authorize or expand several programs to incentivize clean energy
+manufacturing, development and adoption." The vote was on a motion to
+concur in the Senate amendment. The House concurred with the Senate by a
+vote of 228-206, thus the bill was sent to the President and ultimately
+became law. \[House Vote 369,
+[11/5/21](http://clerk.house.gov/evs/2021/roll369.xml); Congressional
+Quarterly, [11/5/21](https://plus.cq.com/vote/2021/H/369?3);
+Congressional Actions, [S.Amdt.
+2137](https://www.congress.gov/amendment/117th-congress/senate-amendment/2137/actions);
+Congressional Actions, [H.R.
+3684](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions)\]
+
+-   **According To The White House, \$65 Billion Would Be Invested To
+    Rebuild The Electric Grid And The Legislation Directs For The
+    Construction Of New Power Lines And The Expansion Of Renewable
+    Energy.** According to CNN, "The bill would invest \$65 billion to
+    rebuild the electric grid, according to the White House. It calls
+    for building thousands of miles of new power lines and expanding
+    renewable energy, the White House said." \[CNN,
+    [11/5/21](https://www.cnn.com/2021/07/28/politics/infrastructure-bill-explained/index.html)\]
+
+### Climate Change Considerations For Wastewater Infrastructure
+
+**2021: Fitzpatrick Voted For An Amendment That Would Require The
+Environmental Protection Agency To Require Wastewater Infrastructure
+Fund Applicants To Analyze The Potential Impacts Of Climate Change On
+Their Proposed Projects And Develop Mitigation Strategies.** In July
+2021, Fitzpatrick voted for an amendment to the Infrastructure
+Investment and Jobs Act which would, according to Congressional
+Quarterly, "require the EPA, within 18 months of the bill\'s enactment,
+to issue regulations requiring wastewater infrastructure fund applicants
+to assess the potential impact of climate change on the proposed project
+and incorporate measures to mitigate such impacts into the project
+design. It would require the EPA, in issuing the regulations, to consult
+with government agencies and stakeholders with experience in addressing
+climate change impacts on wastewater infrastructure projects and to
+identify entities to provide technical assistance to applicants to
+incorporate climate resilience measures." The vote was on adoption of an
+amendment. The House adopted the amendment by a vote of 220-200. \[House
+Vote 206, [7/1/21](http://clerk.house.gov/evs/2021/roll206.xml);
+Congressional Quarterly,
+[7/1/21](https://plus.cq.com/vote/2021/H/206?64); Congressional Actions,
+[H.Amdt.
+74](https://www.congress.gov/amendment/117th-congress/house-amendment/74/actions?r=531&s=a);
+Congressional Actions, [H.R.
+3684](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions)\]
+
+### Climate Change Response And Environmental Remediation
+
+**2021: Fitzpatrick Voted To Fund Climate Change Response And
+Environmental Remediation, Including Funds For Abandoned Mine Land And
+Water Reclamation Projects, Wildfire Management, EPA Hazardous Substance
+Superfund, And FEMA Flood Mitigation.** In November 2021, Fitzpatrick
+voted for concurring in the Senate amendment to the Infrastructure
+Investment and Jobs Act which would, according to Congressional
+Quarterly, "provide funding for climate change response and
+environmental remediation, including; \$11.3 billion for abandoned mine
+land and water reclamation projects, approximately \$5.75 billion for
+wildfire management, \$3.5 billion for the EPA hazardous substance
+superfund and \$3.5 billion for FEMA flood mitigation." The vote was on
+a motion to concur in the Senate amendment. The House concurred with the
+Senate by a vote of 228-206, thus the bill was sent to the President and
+ultimately became law. \[House Vote 369,
+[11/5/21](http://clerk.house.gov/evs/2021/roll369.xml); Congressional
+Quarterly, [11/5/21](https://plus.cq.com/vote/2021/H/369?3);
+Congressional Actions, [S.Amdt.
+2137](https://www.congress.gov/amendment/117th-congress/senate-amendment/2137/actions);
+Congressional Actions, [H.R.
+3684](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions)\]
+
+-   **According To The White House, The Measure Would Invest \$21
+    Billion To Straighten Superfund And Brownfield Sites, Regain
+    Abandoned Mine Land, And Limit Orphaned Gas Wells.** According to
+    CNN, "The bill would provide \$21 billion to clean up Superfund and
+    brownfield sites, reclaim abandoned mine land and cap orphaned gas
+    wells, according to the White House." \[CNN,
+    [11/5/21](https://www.cnn.com/2021/07/28/politics/infrastructure-bill-explained/index.html)\]
+
+### Drinking Water And Wastewater Infrastructure
+
+**2021: Fitzpatrick Voted To Authorize More Than \$117.5 Billion For
+Drinking Water Infrastructure And \$54.4 Billion For Wastewater
+Treatment Infrastructure, Which Would Provide Funds For The Drinking
+Water State Revolving Fund, A Low-Income Drinking Water Assistance
+Program, A Low-Income Wastewater Assistance Program, The Replacement Of
+Lead Service Lines, And The Improvement Of Water Sanitation
+Facilities.** In July 2021, Fitzpatrick voted for the Infrastructure
+Investment and Jobs Act which would, according to Congressional
+Quarterly, "authorize more than \$117.5 billion for drinking water
+infrastructure and \$54.4 billion for wastewater treatment
+infrastructure over ten years. It would authorize \$53 billion through
+2031 for the EPA Drinking Water State Revolving Fund, which provides
+grants to states to provide loans and other financial assistance to
+public water systems, and increase the maximum percentage of such
+funding states may use to assist disadvantaged communities. It would
+authorize \$4.5 billion annually through fiscal 2031 for grants to
+states to replace lead service lines; \$4 billion available until
+expended for a low-income drinking water assistance program. It would
+authorize \$40 billion through fiscal 2026 for the EPA Clean Water State
+Revolving Fund, which provides grants to states to provide loans and
+other financial assistance related to water treatment infrastructure
+projects. It would authorize \$4 billion for a low-income wastewater
+assistance program, available until expended. It would authorize \$2.6
+billion to improve water sanitation facilities funded by the Indian
+Health Service." The vote was on passage. The House passed the bill by a
+vote of 221-201. The Senate amended the bill and the House voted on the
+concurrence. The bill ultimately became law. \[House Vote 208,
+[7/1/21](http://clerk.house.gov/evs/2021/roll208.xml); Congressional
+Quarterly, [7/1/21](https://plus.cq.com/vote/2021/H/208?67);
+Congressional Actions, [H.R.
+3684](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions)\]
+
+### Drinking Water Contaminants
+
+**2021: Fitzpatrick Voted To Authorize \$500 Million Through FY 3031
+Annually For Community Water System Per- And Polyfluoroalkyl Substances
+Treatment Grants, And To Direct The EPA To Establish National Primary
+Drinking Water Regulations For Contaminants.** In July 2021, Fitzpatrick
+voted for the Infrastructure Investment and Jobs Act which would,
+according to Congressional Quarterly, "authorize \$500 million annually
+through fiscal 2031 for community water system PFAS treatment grants. It
+would require the EPA to set national primary drinking water regulations
+for contaminants including per- and polyfluoroalkyl substances,
+microcystin toxin, chromium-6 and 1,4-dioxane." The vote was on passage.
+The House passed the bill by a vote of 221-201. The Senate amended the
+bill and the House voted on the concurrence. The bill ultimately became
+law. \[House Vote 208,
+[7/1/21](http://clerk.house.gov/evs/2021/roll208.xml); Congressional
+Quarterly, [7/1/21](https://plus.cq.com/vote/2021/H/208?67);
+Congressional Actions, [H.R.
+3684](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions)\]
+
+### Water Infrastructure And Safety
+
+**2021: Fitzpatrick Voted To Provide About \$55 Billion For Water
+Infrastructure And Safety, Including Funds For The Clean Water State
+Revolving Fund And The Drinking Water State Revolving Fund, Which Would
+Replace Lead Service Lines And Address Per- And Polyfluoroalkyl
+Substances And Contaminants.** In November 2021, Fitzpatrick voted for
+concurring in the Senate amendment to the Infrastructure Investment and
+Jobs Act which would, according to Congressional Quarterly, "provide
+approximately \$55 billion for water infrastructure and safety,
+including \$30.7 billion for the Drinking Water State Revolving Fund,
+including \$15 billion to replace lead service lines and \$4 billion to
+address per- and polyfluoroalkyl substances and other emerging
+contaminants; and \$12.7 billion for the Clean Water State Revolving
+Fund." The vote was on a motion to concur in the Senate amendment. The
+House concurred with the Senate by a vote of 228-206, thus the bill was
+sent to the President and ultimately became law. \[House Vote 369,
+[11/5/21](http://clerk.house.gov/evs/2021/roll369.xml); Congressional
+Quarterly, [11/5/21](https://plus.cq.com/vote/2021/H/369?3);
+Congressional Actions, [S.Amdt.
+2137](https://www.congress.gov/amendment/117th-congress/senate-amendment/2137/actions);
+Congressional Actions, [H.R.
+3684](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions)\]
+
+-   **The Measure Would Provide \$55 Billion In Investment For Water
+    Infrastructure, Including Lead Pipe Replacement Efforts.** According
+    to CNBC, "The legislation would also invest \$55 billion into water
+    systems, including efforts to replace lead pipes." \[CNBC,
+    [11/5/21](https://www.cnbc.com/2021/11/05/house-passes-bipartisan-infrastructure-bill-sends-it-to-biden.html)\]
+
+-   **According To The White House, The Water Infrastructure Funding
+    Would Be Used To Replace Lead Service Lines And Pipes To Increase
+    Accessibility To Clean Drinking Water.** According to CNN, "It would
+    provide \$55 billion to upgrade water infrastructure, according to
+    the bill text. It would replace lead service lines and pipes so that
+    communities have access to clean drinking water, the White House
+    said." \[CNN,
+    [11/5/21](https://www.cnn.com/2021/07/28/politics/infrastructure-bill-explained/index.html)\]
+
+-   **According To The White House, \$50 Billion Would Be Reserved To
+    Making Water Systems More Resilient From Drought, Floods, And
+    Cyberattacks.** According to CNN, "Another \$50 billion would go
+    toward making the system more resilient \-- protecting it from
+    drought, floods and cyberattacks, the White House said." \[CNN,
+    [11/5/21](https://www.cnn.com/2021/07/28/politics/infrastructure-bill-explained/index.html)\]

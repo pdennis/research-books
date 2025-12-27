@@ -1,0 +1,114 @@
+---
+title: Worker Safety
+description: 
+published: true
+date: 2025-09-22T21:30:13.645Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:30:08.583Z
+---
+
+# Worker Safety
+
+### Miner Safety
+
+**2017: Fitzpatrick Voted Against Cutting 10 Percent Of The Coal Mine
+Safety And Health Program Funding.** In September 2017, Fitzpatrick
+voted against an amendment that would have, according to Congressional
+Quarterly, "reduce the funding for the Coal Mine Safety and Health
+program by 10 percent." More specifically, according to the text of the
+amendment, "The Coal Mine Safety and Health program area of the Mine
+Safety and Health Administration, comprising 964 employees, with annual
+salaries aggregating \$78,970,000, is hereby reduced by 10 percent
+(comprising 96 employees, with annual salaries aggregating
+\$7,897,000)." The underlying legislation was a legislative vehicle for
+an FY 2018 Omnibus appropriations bill. The House rejected the amendment
+by a vote of 178 to 238. \[House Vote 511,
+[9/13/17](http://clerk.house.gov/evs/2017/roll511.xml); Congressional
+Quarterly, [9/13/17](http://cq.com/vote/2017/H/511?5); Congress.gov, [H.
+Amdt.
+418](https://www.congress.gov/amendment/115th-congress/house-amendment/418/text);
+Congressional Actions, [H. Amdt.
+418](https://www.congress.gov/amendment/115th-congress/house-amendment/418/actions);
+Congressional Actions, [H.R.
+3354](https://www.congress.gov/bill/115th-congress/house-bill/3354/all-actions)\]
+
+### Reporting Requirements
+
+**2017: Fitzpatrick Voted To Disapprove An OSHA Rule That Allowed OSHA
+To Cite An Employer For Failing To Maintain Records Of Workplace Injury
+Or Illness For Five Years After The Record Should Have Been Created.**
+In March 2017, Fitzpatrick voted for disapproving an OSHA rule on
+workplace illness records via the Congressional Review Act. According to
+Congressional Quarterly, "This resolution disapproves the rule issued by
+the Occupational Safety and Health Administration (OSHA) on Dec. 19,
+2016, which extended to five years the period for which an employer can
+be cited for failing to make and maintain a record of workplace injury
+or illness. The measure provides that the rule (formally know as the
+Clarification of Employer's Continuing Obligation to Make and Maintain
+an Accurate Record of Each Recordable Injury and Illness Rule) will have
+no force or effect." The vote was on passage. The House passed the
+measure by a vote of 231 to 191. The legislation was signed into law by
+the president. \[House Vote 121,
+[3/1/17](http://clerk.house.gov/evs/2017/roll121.xml); Congressional
+Quarterly, [2/24/17](http://www.cq.com/doc/har-5049081/9?94);
+Congressional Actions, [H. J. Res.
+83](https://www.congress.gov/bill/115th-congress/house-joint-resolution/83/all-actions)\]
+
+-   **Current Law Requires That Employers Retain Employee Records Of
+    Injury Or Illness On The Job Within Seven Days; Records Must Be Kept
+    For Five Years.** According to Congressional Quarterly, "The law
+    requires employers to record certain specified employee injuries and
+    illnesses that occur in the workplace so that information can be
+    used to enhance safety. The information is used by employers so they
+    can address recurring issues; by the Occupational Safety and Health
+    Administration (OSHA) so it can determine workplace hazards and
+    possibly address them through future regulations; and by the Bureau
+    of Labor Statistics to determine the most hazardous occupations and
+    inform the public. Under the law, employers are required to record
+    an injury or illness within seven days of when it occurs, and to
+    annually compile and submit to OSHA a complete record of workplace
+    injuries and illnesses. That annual record must be retained for five
+    years." \[Congressional Quarterly,
+    [2/24/17](http://www.cq.com/doc/har-5049081/9?94)\]
+
+-   **OSHA Had Been Issuing Citations For As Far Back As Five Years; A
+    Federal Appeals Court Said That The Law Only Allowed For Up To Six
+    Months And The New Rule Was Designed To Codify The Five Year
+    Allowance.** According to Congressional Quarterly, "OSHA\'s practice
+    of issuing citations for injury record-keeping violations as far
+    back as five years after they occurred has been subject to
+    challenges dating back to 1993, but it was repeatedly upheld by the
+    Occupational Safety and Health Review Commission, most recently in a
+    2011 decision. In 2012, however, a three-judge panel for the U.S.
+    Court of Appeals for the District of Columbia Circuit ruled that the
+    1970 Occupational Safety and Health Act does not authorize OSHA to
+    'cite the employer for a record-making violation more than six
+    months after the recording failure,' saying that citations must be
+    issued within six months of the occurrence. In a separate and
+    concurring opinion, Appeals Court Judge Merrick Garland stated that
+    as he interpreted the 1970 law, OSHA could issue citations for
+    continuing violations of record-keeping requirements going back five
+    years --- but that OSHA had never issued rules to implement that
+    authority. Consequently, rather than appealing the court's decision,
+    OSHA conducted a rule-making to clarify its existing rules and
+    expressly authorize citations for failure to record an injury or
+    illness as far back as five years. OSHA's clarification rule was
+    published on Dec. 19, 2016, and took effect on Jan. 18, 2017."
+    \[Congressional Quarterly,
+    [2/24/17](http://www.cq.com/doc/har-5049081/9?94)\]
+
+-   **Supporters Of The Rule Say That The Law Requires Employers To Keep
+    The Records For Five Years.** According to Congressional Quarterly,
+    "Opponents of the resolution, primarily Democrats, say OSHA's rule
+    simply provides the regulatory authority that the courts say was
+    granted by the 1970 law, and that it returns the workplace injury
+    and illness record-keeping standard to the practice that has been
+    successfully enforced by OSHA for decades. Noting that employers are
+    supposed to record an injury or illness within seven days of when it
+    occurs, they say that allowing citations during the entire five-year
+    record retention period simply enables OSHA to review for patterns
+    of employer negligence and appropriately punish those who do not
+    look out for their employees, which will encourage businesses to
+    comply with the reporting requirement." \[Congressional Quarterly,
+    [2/24/17](http://www.cq.com/doc/har-5049081/9?94)\]

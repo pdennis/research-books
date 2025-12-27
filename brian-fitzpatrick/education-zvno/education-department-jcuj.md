@@ -1,0 +1,393 @@
+---
+title: Department Of Education
+description: 
+published: true
+date: 2025-09-22T20:47:39.681Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:47:34.556Z
+---
+
+# Department Of Education
+
+### Ending Elementary And Secondary Functions
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Supported
+Eliminating The Department Of Education's Elementary And Secondary
+Education Functions By The End Of 2023.** In March 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Parents Bill of Rights Act, which would "express the sense of Congress
+in support of terminating the Education Department\'s elementary and
+secondary education functions by Dec. 31, 2023." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+161 to 265. \[House Vote 156,
+[3/24/23](http://clerk.house.gov/evs/2023/roll156.xml); Congressional
+Quarterly, [3/24/23](https://plus.cq.com/vote/2023/H/156?8);
+Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions);
+Congressional Actions, [H.Amdt.
+124](https://www.congress.gov/amendment/118th-congress/house-amendment/124/actions?s=a&r=4)\]
+
+### Expanding Teacher Education Grants
+
+**2021: Fitzpatrick Voted For Allowing Grant Recipients From The Teacher
+Education Assistance For College And Higher Education Grant Program To
+Serve In Geographical Areas With High-Need, And Permitting Recipients To
+Revert Their Grants That Were Turned To Loans Back To Grants With An
+Extended Service Obligation Period.** In September 2021, Fitzpatrick
+voted for the Consider Teachers Act of 2021 which would, according to
+Congressional Quarterly, "expand eligibility and modify service
+verification requirements for the Education Department\'s Teacher
+Education Assistance for College and Higher Education grant program,
+which provides grants to undergraduate and graduate students who agree
+to teach for four years following graduation as full-time teachers in a
+high-need field serving low-income students. Among other provisions, it
+would allow grant recipients to serve in high-need geographic areas, in
+addition to high-need subject areas. It would permit recipients whose
+grants have been converted into loans due to failure to meet program
+requirements to request that they be reverted to grants, with an
+extended service obligation window, under certain conditions. It would
+extend the service obligation window up to three years for grant
+recipients whose service was impacted by the COVID-19 pandemic." The
+vote was on passage. The House passed the bill by a vote of 406-16 and
+sent to the President. \[House Vote 302,
+[9/28/21](http://clerk.house.gov/evs/2021/roll302.xml); Congressional
+Quarterly, [9/28/21](https://plus.cq.com/vote/2021/H/302?14);
+Congressional Actions, [S.
+848](https://www.congress.gov/bill/117th-congress/senate-bill/848/actions)\]
+
+### Funding
+
+**2022: Fitzpatrick Voted For The FY 2023 Omnibus Spending Package,
+Which Provided \$207.4 Billion For The Departments Of Labor, Health And
+Human Services, Education, And Related Agencies.** In December 2022,
+according to Congressional Quarterly, Fitzpatrick voted to concur with
+the Senate amendment to the Consolidated Appropriations Act, 2023, which
+would "provide approximately \$25.5 billion for the Agriculture
+Department and related agencies; \$82.4 billion for the Commerce and
+Justice departments and science and related agencies; \$797.7 billion
+for the Defense Department; \$54 billion for the Energy Department and
+federal water projects; \$27.6 billion for the Treasury Department,
+federal judiciary and a number of executive agencies; \$60.7 billion for
+the Homeland Security Department; \$38.9 billion for the Interior
+Department, EPA and related agencies; \$207.4 billion for the Labor,
+Health and Human Services and Education departments and related
+agencies; \$6.9 billion for legislative branch entities; \$154.2 billion
+for the Veterans Affairs Department, military construction, and related
+agencies; \$59.7 billion for the State Department and related agencies;
+and \$87.3 billion for the Transportation and Housing and Urban
+Development departments and related agencies." The vote was on a motion
+to concur. The House concurred with the Senate amendment by a vote of
+225-201, thus bill was sent to President Biden and ultimately became
+law. \[House Vote 549,
+[12/23/22](http://clerk.house.gov/evs/2022/roll549.xml); Congressional
+Quarterly, [12/23/22](https://plus.cq.com/vote/2022/H/549?2);
+Congressional Actions, [S.Amdt.
+6552](https://www.congress.gov/amendment/117th-congress/senate-amendment/6552/actions);
+Congressional Actions, [H.R.
+2617](https://www.congress.gov/bill/117th-congress/house-bill/2617/all-actions)\]
+
+-   **The FY 2023 Omnibus Raised The Maximum Pell Grant Amount By \$500
+    To \$7,395, Which Was The Greatest Increase Since 2009.** According
+    to CNN, "The law increases the maximum Pell grant award by \$500 to
+    \$7,395 for the coming school year. This marks the largest boost
+    since the 2009-2010 school year. About 7 million students, many from
+    lower-income families, receive Pell grants every year to help them
+    afford college." \[CNN,
+    [12/29/22](https://www.cnn.com/2022/12/20/politics/spending-bill-congress-omnibus/index.html)\]
+
+-   **The FY 2023 Omnibus Provided Almost \$12 Billion To Head Start,
+    Which Supports Low-Income Families Prepare Their Young Kids For
+    School.** According to CNN, "Also, Head Start will receive nearly
+    \$12 billion, an 8.6% boost. The program helps young children from
+    low-income families prepare for school." \[CNN,
+    [12/29/22](https://www.cnn.com/2022/12/20/politics/spending-bill-congress-omnibus/index.html)\]
+
+**2022: Fitzpatrick Voted To Provide \$76.4 Billion To The Education
+Department, Including \$24.6 Billion For Federal Student Aid.** In March
+2022, according to Congressional Quarterly, Fitzpatrick voted for the
+second portion of the Fiscal 2022 Omnibus Appropriations, which would
+provide "\$76.4 billion for the Education Department, including \$24.6
+billion for federal student aid programs." The vote was on the motion to
+concur in the Senate amendment with a House amendment. The bill was
+divided and this vote was the second portion of the bill. The House
+concurred with the Senate by a vote of 260-171. After resolving
+differences, the bill was sent to the President and became law. \[House
+Vote 66, [3/9/22](http://clerk.house.gov/evs/2022/roll066.xml);
+Congressional Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/66?8);
+Congressional Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **The Bill Provided \$17.5 Billion For Poor Primary And Secondary
+    Schools And Increased Head Start Funding To \$11 Billion.**
+    According to CNN, "The bill would provide \$17.5 billion for
+    high-poverty K-12 schools, an increase of \$1 billion, the largest
+    in more than a decade. And it calls for increasing funding for Head
+    Start by \$289 million to \$11 billion." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Pell Grant Maximum Was Increased To \$6,895 Per Year.**
+    According to CNN, "The maximum Pell Grant would increase by \$400,
+    to \$6,895 a year. Pell Grants are generally awarded to
+    undergraduate students with exceptional financial needs, and the
+    amounts are based on their costs to attend school, family sizes and
+    incomes." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Provided A \$400 Increase To The Maximum Pell Grant And
+    Provided \$363 Million To HBCUs.** According to Time, "The spending
+    bill partly accomplishes these goals, increasing the maximum Pell
+    Grant by \$400---the largest increase in the maximum award in more
+    than a decade---and authorizing \$363 million in HBCU funding."
+    \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+-   **The Bill Provided A \$35 Million Increase From Last Year To
+    Federal Student Aid Programs.** According to Time, "In total, the
+    bill provides \$24.6 billion for federal student aid programs, an
+    increase of \$35 million from the previous year." \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+**2021: Fitzpatrick Voted Against The American Rescue Plan Act Of 2021,
+Which Provided \$122.8 Billion To Public Schools, \$39.6 Billion For
+Higher Institutions, \$3 Billion To Education Programs For Students With
+Disabilities, And \$2.75 Billion To Non-Public Schools.** In March 2021,
+Fitzpatrick voted against concurring in the Senate amendment to the
+American Rescue Plan Act of 2021 which would, according to Congressional
+Quarterly, "provide \$122.8 billion for an Education Department
+elementary and secondary school emergency relief fund; \$39.6 billion
+for grants to higher education institutions; \$3 billion for education
+programs for individuals with disabilities and \$2.75 billion for
+non-public schools." The vote was on concurring in the Senate amendment
+to the bill. The House concurred with the Senate by a vote of 220-211
+and sent to the President and ultimately the bill became law. \[House
+Vote 72, [3/10/21](http://clerk.house.gov/evs/2021/roll072.xml);
+Congressional Quarterly,
+[3/10/21](https://plus.cq.com/vote/2021/H/72?24); Congressional Actions,
+[H.R.
+1319](https://www.congress.gov/bill/117th-congress/house-bill/1319/actions)\]
+
+-   **The American Rescue Plan Approved Additional Funds To Support
+    Schools To Reopen.** According to The Washington Post, "The stimulus
+    bill approves additional money to help schools reopen, allow
+    restaurants and businesses to stay afloat, and assist state and
+    local governments trying to meet their financial needs." \[The
+    Washington Post,
+    [3/10/21](https://www.washingtonpost.com/us-policy/2021/03/10/house-stimulus-biden-covid-relief-checks/)\]
+
+-   **The American Rescue Plan Provided \$128 Billion To State
+    Educational Agencies, With Most Allocated To Local Agencies, And
+    \$39 Billion To Higher Institutions.** According to NPR, "There are
+    over \$128 billion in grants to state educational agencies, with 90%
+    allocated to local educational agencies, plus \$39 billion in grants
+    to higher education institutions." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+-   **Under The American Rescue Plan Made "Any Student Loan Forgiveness
+    Passed" Between December 31, 2020 And January 1, 2021 Non-Taxable.**
+    According to NPR, "The Senate version signed by Biden added a
+    provision to make any student loan forgiveness passed between Dec.
+    31, 2020, and Jan. 1, 2026, tax-free --- rather than having the
+    forgiven debt be treated as taxable income." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+**2020: Fitzpatrick Voted For The FY 2021 Omnibus Appropriations And
+Coronavirus Relief, Which Authorized \$81.9 Billion In Aid For
+Elementary And Secondary Schools And Higher Education Institutions.** In
+December 2020, Fitzpatrick voted for the second portion of the FY2021
+Omnibus Appropriations and Coronavirus Relief package which would
+provide, according to Congressional Quarterly, "\$81.9 billion for
+Education Department grants to states to support elementary, secondary
+and higher education." The vote was on concurring in Senate amendment
+with portion of the amendment. The House agreed to the motion by a vote
+of 359-53 and sent to the President and ultimately became law. \[House
+Vote 251, [12/21/20](http://clerk.house.gov/evs/2020/roll251.xml);
+Congressional Quarterly,
+[12/21/20](https://plus.cq.com/vote/2020/H/251?0); Congressional
+Actions, [H.R.
+133](https://www.congress.gov/bill/116th-congress/house-bill/133/actions)\]
+
+**2019: Fitzpatrick Voted For The FY 2020 Minibus Appropriations Bill,
+Which Provided \$72.8 Billion For The Department of Education.** In
+December 2019, Fitzpatrick voted for the FY 2020 minibus spending bill,
+which represented 8 of the 12 appropriations bills. According to
+Congressional Quarterly, "The bill provides \$72.8 billion in
+discretionary funding for programs and activities of the Education
+Department --- \$1.3 billion more than FY 2019 and \$8.7 billion more
+than requested. For elementary and secondary school education, it
+provides \$40.1 billion, \$1.2 billion more than FY 2019 and \$5.9
+billion more than requested. Within that total, \$16.3 billion is for
+Title I Grants to Local Educational Agencies, \$2.1 billion is for
+Supporting Effective Instruction State Grants, \$1.2 billion is for
+Student Support and Academic Enrichment State Grants, \$1.2 billion is
+for 21st Century Community Learning Centers, and \$123 million is for a
+new Social-Emotional Learning (SEL) Initiative to support SEL and
+\"whole child\" approaches to education. Funding for charter schools
+would remain flat at \$440 million. It provides \$24.5 billion for
+federal student aid programs (\$75 million more than FY 2019 and \$1.5
+billion more than requested), which would allow for an increase of \$150
+in the maximum Pell Grant, to \$6,345. The bill rejects the
+administration\'s proposal to eliminate the Federal Supplemental
+Educational Opportunity Grant program, funding it at \$865 million (\$25
+million more than FY 2019). It provides \$1.2 billion for the Federal
+Work Study program, \$50 million more than FY 2019 and \$680 million
+more than requested. Higher education would receive \$2.5 billion, \$163
+million more than FY 2019 and \$941 million more than requested. Within
+that total, it provides \$760 million for minority serving institutions
+(\$93 million more than FY 2019 and \$220 million more than requested),
+\$1.1 billion for TRIO and \$365 million for GEAR UP." The vote was a
+motion to concur in the Senate amendment. The House agreed to the motion
+by a vote of 297-120. The Senate later passed the bill and the President
+signed the bill into law. \[House Vote 689,
+[12/17/19](http://clerk.house.gov/evs/2019/roll689.xml); Congressional
+Quarterly, [12/17/19](https://plus.cq.com/vote/2019/H/689?8);
+Congressional Actions,
+[H.R.1865](https://www.congress.gov/bill/116th-congress/house-bill/1865/all-actions?q=%7b%22search%22%3A%5B%22hr+1865%22%5D%7d&s=4&r=1)\]
+
+**2019: Fitzpatrick Voted For An Amendment To The FY 2020 Minibus That
+Provided \$1 Million For Literacy Programs.** In June 2019, Fitzpatrick
+voted for an amendment that would, according to Congressional Quarterly,
+"increase by \$1 million funding for certain literacy programs and
+education programs for disadvantaged populations." The vote was on
+adoption of the amendment. The House adopted the amendment by a vote of
+333-86. \[House Vote 320,
+[6/13/19](http://clerk.house.gov/evs/2019/roll320.xml); Congressional
+Quarterly, [6/13/19](https://plus.cq.com/vote/2019/H/320?14);
+Congressional Actions,
+[H.Amdt.337](https://www.congress.gov/amendment/116th-congress/house-amendment/337);
+Congressional Actions, [H.R.
+2740](https://www.congress.gov/bill/116th-congress/house-bill/2740/all-actions)\]
+
+**2019: Fitzpatrick Voted For An Amendment To The FY 2020 Minibus That
+Provided \$4 Million For The Education Department Office Of The
+Inspector General.** In June 2019, Fitzpatrick voted for an amendment
+that would, according to Congressional Quarterly, "increase by \$4
+million funding for the Education Department Office of Inspector
+General." The vote was on adoption of the amendment. The House adopted
+the amendment by a vote of 390-29. \[House Vote 315,
+[6/13/19](http://clerk.house.gov/evs/2019/roll315.xml); Congressional
+Quarterly, [6/13/19](https://plus.cq.com/vote/2019/H/315?12);
+Congressional Actions,
+[H.Amdt.332](https://www.congress.gov/amendment/116th-congress/house-amendment/332/actions);
+Congressional Actions, [H.R.
+2740](https://www.congress.gov/bill/116th-congress/house-bill/2740/all-actions)\]
+
+**2019: Fitzpatrick Voted For An Amendment To The FY 2020 Minibus That
+Provided \$1 Million For Career, Technical, And Adult Education
+Programs.** In June 2019, Fitzpatrick voted for an amendment that would,
+according to Congressional Quarterly, "increase by \$1 million funding
+for career, technical, and adult education programs." The vote was on
+adoption of the amendment. The House adopted the amendment by a vote of
+390-29. \[House Vote 310,
+[6/13/19](http://clerk.house.gov/evs/2019/roll310.xml); Congressional
+Quarterly, [6/13/19](https://plus.cq.com/vote/2019/H/310?11);
+Congressional Actions,
+[H.Amdt.327](https://www.congress.gov/amendment/116th-congress/house-amendment/327/actions)\]
+
+**2019: Fitzpatrick Voted For An Amendment To The FY 2020 Minibus That
+Provided \$1 Million For State Grants For Special Education Programs.**
+In June 2019, Fitzpatrick voted for an amendment that would, according
+to Congressional Quarterly, "increase by \$1 million funding for
+Education Department state grants for special education." The vote was
+on adoption of the amendment. The House adopted the amendment by a vote
+of 376-41. \[House Vote 309,
+[6/13/19](http://clerk.house.gov/evs/2019/roll309.xml); Congressional
+Quarterly, [6/13/19](https://plus.cq.com/vote/2019/H/309?10);
+Congressional Actions,
+[H.Amdt.326](https://www.congress.gov/amendment/116th-congress/house-amendment/326/actions);
+Congressional Actions, [H.R.
+2740](https://www.congress.gov/bill/116th-congress/house-bill/2740/all-actions)\]
+
+**2019: Fitzpatrick Voted For An Amendment To The FY 2020 Minibus That
+Provided Funding For Education Department Programs Related To Charter
+And Magnet Schools And Family Engagement.** In June 2019, Fitzpatrick
+voted for an amendment that would, according to Congressional Quarterly,
+"increase then decrease by \$1 million funding for certain Education
+Department programs related to charter and magnet schools, family
+engagement, and academic enrichment." The vote was on adoption of the
+amendment. The House adopted the amendment by a vote of 347-76. \[House
+Vote 255, [6/12/19](http://clerk.house.gov/evs/2019/roll255.xml);
+Congressional Quarterly,
+[6/12/19](https://plus.cq.com/vote/2019/H/255?0); Congressional Actions,
+[H.Amdt.273](https://www.congress.gov/amendment/116th-congress/house-amendment/273/actions);
+Congressional Actions, [H.R.
+2740](https://www.congress.gov/bill/116th-congress/house-bill/2740/all-actions)\]
+
+**2018: Fitzpatrick Voted For An FY 2019 Conference Report Minibus
+Spending Bill And Continuing Resolution That Appropriated \$71.4 Billion
+For The Education Department.** In September 2018, Fitzpatrick voted for
+an FY 2019 Labor, HHS, Education, and Defense minibus spending bill
+conference report. According to Congressional Quarterly, "Adoption of
+the conference report on the bill that would provide \$855.1 billion in
+discretionary funding for fiscal 2019 to various departments and
+agencies, including \$674.4 billion for the Defense Department and
+\$178.1 billion for the Labor, Health and Human Services and Education
+departments. The Defense Department total would include \$606.5 billion
+in base Defense Department funding subject to spending caps, and would
+include \$67.9 billion in overseas contingency operations funding. The
+bill would provide \$90.3 billion in discretionary spending for the
+Health and Human Services Department, \$71.4 billion for the Education
+Department and \$12.1 billion for the Labor Department. The measure
+would also provide funding for federal government operations until Dec.
+7, 2018, at an annualized rate of approximately \$1.3 trillion." The
+vote was on passage. The House passed the bill by a vote of 361 to 61.
+The president later signed the bill into law. \[House Vote 405,
+[9/26/18](http://clerk.house.gov/evs/2018/roll405.xml); Congressional
+Quarterly, [9/26/18](https://plus.cq.com/vote/2018/H/405?2);
+Congressional Actions, [H.R.
+6157](https://www.congress.gov/bill/115th-congress/house-bill/6157/all-actions)\]
+
+### Office Of Civil Rights
+
+**2024: Fitzpatrick Voted To Require The Department Of Education To
+Consider The International Holocaust Remembrance Alliance's Definition
+Of Antisemitism When Considering Civil Rights Violations By Institutions
+Receiving Federal Aid.** In May 2024, Fitzpatrick voted for , according
+to Congressional Quarterly, "the bill that would require the Education
+Department to take into consideration the International Holocaust
+Remembrance Alliance\'s 'Working Definition of Antisemitism' in
+reviewing, investigating or deciding whether a civil rights violation
+has occurred in programs receiving federal financial assistance. It
+would stipulate that nothing in the bill can be construed to expand the
+Education secretary\'s authority, alter the department\'s standards for
+making harassment determinations or diminish or infringe upon First
+Amendment or protected rights." The vote was on passage. The House
+passed the bill by a vote of 30 to 91. \[House Vote 172,
+[5/1/24](http://clerk.house.gov/evs/2024/roll172.xml); Congressional
+Quarterly, [5/1/24](https://plus.cq.com/vote/2024/H/172?21);
+Congressional Actions, [H.R.
+6090](https://www.congress.gov/bill/118th-congress/house-bill/31695/all-actions)\]
+
+**2019: Fitzpatrick Voted For An Amendment To The FY 2020 Minibus That
+Protected The Functions Of The Office Of Civil Rights Within The
+Department Of Education.** In June 2019, Fitzpatrick voted for an
+amendment that would, according to Congressional Quarterly, "prohibit
+use of funds made available by the bill in contravention of any
+statutorily established authorities and functions of the Office of Civil
+Rights within the Department of Education." The vote was on adoption of
+the amendment. The House adopted the amendment by a vote of 275-148.
+\[House Vote 295,
+[6/13/19](http://clerk.house.gov/evs/2019/roll295.xml); Congressional
+Quarterly, [6/13/19](https://plus.cq.com/vote/2019/H/295?9);
+Congressional Actions,
+[H.Amdt.312](https://www.congress.gov/amendment/116th-congress/house-amendment/312/actions);
+Congressional Actions, [H.R.
+2740](https://www.congress.gov/bill/116th-congress/house-bill/2740/all-actions)\]
+
+### Rule Broadening Title IX Protections And Prohibiting LGBTQ Discrimination
+
+**2024: Fitzpatrick Voted To Disapprove A Rule Broadening Title IX
+Protections For Sexual Harassment, Assault, And Pregnancy-Related
+Conditions At Higher Education Institutions And Prohibited LGBTQ
+Discrimination.** In July 2024, Fitzpatrick voted for , according to
+Congressional Quarterly, "the joint resolution that would disapprove and
+nullify the April 2024, Department of Education rule broadening Title IX
+protections at colleges and universities for cases of sexual harassment
+and assault and for pregnancy-related conditions. The rule also would
+prohibit discrimination against LGBTQ+ individuals." The vote was on
+passage. The House passed the resolution by a vote of 210 to 205.
+\[House Vote 354,
+[7/11/24](http://clerk.house.gov/evs/2024/roll354.xml); Congressional
+Quarterly, [7/11/24](https://plus.cq.com/vote/2024/H/354?3);
+Congressional Actions,
+[H.J.Res.165](https://www.congress.gov/bill/118th-congress/house-joint-resolution/165/all-actions)\]

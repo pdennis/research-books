@@ -1,0 +1,17 @@
+---
+title: Terminology
+description: 
+published: true
+date: 2025-09-24T21:37:56.900Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T21:37:53.130Z
+---
+
+# Terminology
+
+### Force The Library Of Congress To Continue To Use The Term "Illegal Alien"
+
+**2016: Schweikert Voted To Force The Library Of Congress To Continue To Use The Term "Illegal Alien."** In June 2016, Schweikert voted for an FY 2017 Legislative Branch appropriations bill, which in the committee report, instructed the Library of Congress to continue use the phrase "illegal alien." According to Congressional Quarterly, the legislation would have "instruct\[ed\] the Library of Congress to maintain subject headings that reflect terminology used in Title 8 of the U.S. Code, which deals with immigration and nationality. The library earlier this year decided to stop using the term 'illegal aliens,' determining that the term had become pejorative." The overall legislation would have, also according to Congressional Quarterly, "provide\[d\] \$3.5 billion for legislative branch operations, excluding Senate operations, in fiscal 2017. The total would \[have\] include\[d\] \$1.2 billion for House operations, \$629 million for the Library of Congress, \$533 million for the Government Accountability Office, \$552 million for the Architect of the Capitol and \$391 million for the Capitol Police." The vote was on passage. The House passed the bill by a vote of 233 to 175. The legislation was later turned into a CR, which became law. \[House Vote 294, [6/10/16](http://clerk.house.gov/evs/2016/roll294.xml); Congressional Quarterly, [6/10/16](http://www.cq.com/vote/2016/H/294?55); Congressional Quarterly, [6/6/16](http://www.cq.com/doc/har-4902567?58); Congressional Actions, [H.R. 5352](https://www.congress.gov/bill/114th-congress/house-bill/5325/all-actions)\]
+
+**2016: Schweikert Effectively Voted To Force The Library Of Congress To Continue To Use The Term "Illegal Alien."** In June 2016, Schweikert effectively voted against an amendment to an FY 2017 Legislative Branch appropriations bill, which would have, according to Congressional Quarterly "reduce\[d\] funding for the Architect of the Capitol's capital construction and operations account by \$200,000 and increase funding for Library of Congress salaries and expenses by the same amount, with the aim of letting the Library of Congress replace the term 'illegal aliens' in subject headings as it has planned." The underlying legislation, in its committee report "instruct\[ed\] the Library of Congress to maintain subject headings that reflect terminology used in Title 8 of the U.S. Code, which deals with immigration and nationality. The library earlier this year decided to stop using the term 'illegal aliens,' determining that the term had become pejorative." The underlying legislation was an FY 2017 Legislative Branch appropriations bill. The vote was on a motion to recommit. The House rejected the motion by a vote of 170 to 237. The House later passed the underlying bill, but the bill later became a continuing resolution. \[House Vote 293, [6/10/16](http://clerk.house.gov/evs/2016/roll293.xml); Congressional Quarterly, [6/10/16](http://www.cq.com/vote/2016/H/293?59); Congressional Quarterly, [6/6/16](http://www.cq.com/doc/har-4902567?58); Congressional Actions, [H.R. 5352](https://www.congress.gov/bill/114th-congress/house-bill/5325/all-actions)\]

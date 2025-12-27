@@ -1,0 +1,21 @@
+---
+title: Consumer Product Safety
+description: 
+published: true
+date: 2025-09-24T20:28:49.711Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:28:45.256Z
+---
+
+# Consumer Product Safety
+
+### Funding
+
+**2014: Schweikert Voted Against Increasing Funding For The Consumer Product Safety Commission And For Small Business Administration Entrepreneurial Development By \$5 Million Each.** In July 2014, Schweikert effectively voted against an amendment to the FY 2015 Financial Services and General Government Appropriations bill that, according to Congressional Quarterly, "would \[have\] increase\[d\] by \$5 million the amount provided in the bill for Consumer Product Safety Commission salaries and expenses and increase by \$5 million the amount provided for entrepreneurial development programs within the Small Business Administration. It also would \[have\] decrease\[d\] the General Services Administration's Real Property Activities Federal Buildings Fund's rental account by \$10 million." The vote was on a motion to recommit the bill to the House Appropriations Committee with instructions that it be reported back immediately with the specified amendment. The House rejected the motion by a vote of 198 to 225. \[House Vote 426, [7/16/14](http://clerk.house.gov/evs/2014/roll426.xml); Congressional Quarterly, [7/16/14](http://www.cq.com/vote/2014/H/426); Congressional Actions, [H.R. 5016](https://www.congress.gov/bill/113th-congress/house-bill/5016/all-actions)\]
+
+-   **The Motion's Opponents Argued That The Bill Already Provided Increased Funding For The Small Business Administration, While Reining In Purportedly Out-Of-Control Government Spending.** According to the Congressional Record, House Financial Services and General Government Appropriations Subcommittee chairman Ander Crenshaw (R-FL) said, "\[I\]f life is going to change in America, life has to change right here in Washington, D.C., and this bill takes a giant step forward in making that change. First of all, we rein in this out-of-control spending that has been going on for so long. We have said for four straight years we are spending less money this year than we spent last year, and that is quite an accomplishment in itself. How do we do that? We do it just like every American business does, like every American family. They sit down. They take the money that they have, and they set priorities. Then they make some tough choices. That is what we have done. We take agencies and programs that are no longer vital to the operation of the Federal Government or that have a history of wasting taxpayer resources, and in some cases, we get rid of them. Nine agencies are gone under this bill. We also take things like the Small Business Administration, which actually supports small business and assists in private sector job creation, and we add money to it because it is going to help turn the country around." \[Congressional Record, [7/16/14](https://beta.congress.gov/crec/2014/07/16/CREC-2014-07-16-pt1-PgH6323-3.pdf#page=10)\]
+
+### Voluntary Recalls
+
+**2014: Schweikert Voted For An Amendment Barring The Use Of Funds In The Bill For The Consumer Product Safety Commission To Finalize, Implement Or Enforce The Proposed Rule On Voluntary Remedial Actions And Guidelines For Recall Notices.** In July 2014, Schweikert voted for an amendment to the FY 2015 Financial Services and General Government Appropriations bill that, according to Congressional Quarterly, "would bar the use of funds in the bill for the Consumer Product Safety Commission to finalize, implement or enforce the proposed rule on voluntary remedial actions and guidelines for recall notices." The House agreed to the amendment by a vote of 229 to 194, and later passed the amended bill. The bill died in the Senate. \[House Vote 424, [7/16/14](http://clerk.house.gov/evs/2014/roll424.xml); Congressional Quarterly, [7/16/14](http://www.cq.com/vote/2014/H/424); Congressional Actions, Congressional Actions, [H. Amdt. 1094](https://www.congress.gov/amendment/113th-congress/house-amendment/1094/actions); Congressional Actions, [H.R. 5016](https://beta.congress.gov/bill/113th-congress/house-bill/5016/all-actions)\]

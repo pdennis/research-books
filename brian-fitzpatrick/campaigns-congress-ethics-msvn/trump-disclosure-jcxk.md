@@ -1,0 +1,222 @@
+---
+title: Trump Disclosure
+description: 
+published: true
+date: 2025-09-22T20:26:54.504Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:26:50.423Z
+---
+
+# Trump Disclosure
+
+### Conflict Of Interest
+
+**2018: Fitzpatrick Effectively Voted Against Amending A Financial
+Reform Bill To Clarify That Nothing In The Underlying Bill Could Benefit
+The President, His Family Or Other Senior Executive Branch.** In March
+2018, Fitzpatrick effectively voted against an amendment that would
+have, according to Congressional Quarterly, "prevent\[ed\] changes in
+financial regulations in the bill from being made at the request of, or
+for the personal gain of, the president, a member of his family, or
+other senior Executive Branch official." The underlying legislation,
+also according to Congressional Quarterly, "requires federal financial
+regulators to tailor their rules and regulations on covered institutions
+in a manner that is appropriate to the business models of the different
+types and classes of financial institutions. It would apply to the
+Office of the Comptroller of the Currency (OCC), the Board of Governors
+of the Federal Reserve System (Fed), the Federal Deposit Insurance
+Corporation (FDIC), the National Credit Union Administration (NCUA), and
+the Consumer Financial Protection Bureau (CFPB)." The vote was on a
+motion to recommit. The House rejected the motion by a vote of 182 to
+232. \[House Vote 107,
+[3/14/18](http://clerk.house.gov/evs/2018/roll107.xml); Congressional
+Quarterly, [3/14/18](http://cq.com/vote/2018/H/107?5); Congressional
+Quarterly, [3/14/18](http://www.cq.com/doc/har-5280261/12?9);
+Congressional Actions, [H.R.
+1116](https://www.congress.gov/bill/115th-congress/house-bill/1116/all-actions)\]
+
+### Conflict Of Interests
+
+**2017: Fitzpatrick Effectively Voted Against Preventing The President
+From Making Public Communications That Refer To Businesses Where The
+President Has Equity In, Including Statements Advocating On Behalf Of
+The Business.** In March 2017, Fitzpatrick effectively voted against an
+amendment that would have, according to Congressional Quarterly,
+"prohibit\[ed\] the president from making public communications that
+refer to a business in which the president has an equity interest and
+would prohibit the president from publically advocating on behalf of
+such business interests." The underlying legislation would have,
+according to Congressional Quarterly, "require\[d\] federal agencies to
+maintain and regularly update detailed online databases of regulatory
+actions taken and pending before the agency." The House rejected the
+amendment by a vote of 189 to 232. \[House Vote 125,
+[3/2/17](http://clerk.house.gov/evs/2017/roll125.xml); Congressional
+Quarterly, [3/2/17](http://cq.com/vote/2017/H/125?5); Congressional
+Quarterly, [3/2/17](http://cq.com/vote/2017/H/126?6); Congressional
+Actions, [H.R.
+1004](https://www.congress.gov/bill/115th-congress/house-bill/1004/all-actions)\]
+
+**2017: Fitzpatrick Effectively Voted Against Exempting Regulations
+Related Laws Governing Executive Branch Conflict Of Interest Rules From
+The SCRUB Act, Which Would Require Agencies To Eliminate Old Rules In
+Order To Create New Ones.** In March 2017, Fitzpatrick effectively voted
+against an amendment that would have, according to Congressional
+Quarterly, "exempt\[ed\] from the bill's provisions rules related to
+laws governing potential conflicts of interest and financial disclosures
+for executive branch employees, and would exempt rules related to
+bribery." The underlying legislation, also according to Congressional
+Quarterly, "establish\[ed\] a nine-member commission to review existing
+federal regulations and identify regulations that should be repealed on
+the basis of reducing costs on the U.S. economy. The commission would
+identify those regulatory policies that should be repealed immediately,
+and would set up a 'Cut-Go' system that would require agencies to repeal
+existing rules to offset costs before issuing a new rule. The measure,
+as amended, would require the commission to review a rule or
+regulation's unfunded mandate, whether the rule or regulation limits or
+prevents government agencies from adopting technology to improve
+efficiency, and the rule or regulation's impact on wage growth, when
+determining if the rule or regulation should be repealed." The vote was
+on a motion to recommit. The House rejected the amendment by the motion
+by a vote of 190 to 235. \[House Vote 113,
+[3/1/17](http://clerk.house.gov/evs/2017/roll113.xml); Congressional
+Quarterly, [3/1/17](http://cq.com/vote/2017/H/113?7); Congressional
+Quarterly, [1/7/16](http://www.cq.com/vote/2016/H/20?12); Congressional
+Actions, [H.R.
+998](https://www.congress.gov/bill/115th-congress/house-bill/998/all-actions)\]
+
+### Tax Returns
+
+**2017: Fitzpatrick Effectively Voted Against Forcing The Release
+President Trump's Tax Returns.** In July 2018, Fitzpatrick voted for a
+motion to kill a resolution demanding a release of Trump's tax returns.
+According to Congressional Quarterly, the vote was on a "motion to
+appeal the ruling of the Chair that the Cicilline resolution related to
+the disclosure of President Trump' tax returns does not constitute a
+question of the privileges of the House." The vote was on a motion to
+table a motion to appeal the ruling of the chair. The House adopted the
+motion, effectively killing the motion to appeal the ruling of the chair
+and thus the resolution by a vote of 235 to 190. \[House Vote 392,
+[7/19/17](http://clerk.house.gov/evs/2017/roll392.xml); Congressional
+Quarterly, [7/19/17](http://cq.com/vote/2017/H/392?3)\]
+
+**2017: Fitzpatrick Effectively Voted Against Forcing The Release
+President Trump's Tax Returns.** In June 2017, Fitzpatrick voted against
+a motion to kill a resolution demanding a release of Trump's tax
+returns. According to The Hill, "For the 10th time in the last several
+months, Republicans on Wednesday blocked a Democratic resolution offered
+on the House floor requesting President Trump's tax returns. The measure
+was defeated on a procedural vote of 227-188 that fell largely along
+party lines. The resolution was offered by Rep. Lloyd Doggett (D-Texas),
+the top Democrat on the House Ways and Means Committee's tax policy
+subcommittee. It would have directed the House to request Trump's
+personal tax returns and the returns of the president's business
+entities. It also would have called on the House to delay the
+consideration of tax-reform legislation until Trump's returns were
+obtained." The vote was on a motion to table a motion to appeal the
+ruling of the chair. The House adopted the motion, effectively killing
+the motion to appeal the ruling of the chair and thus the resolution by
+a vote of 227 to 188. \[House Vote 311,
+[6/21/17](http://clerk.house.gov/evs/2017/roll311.xml); The Hill,
+[6/21/17](https://doggett.house.gov/media-center/in-the-news/hill-house-defeats-latest-dem-effort-trumps-tax-returns)\]
+
+**2017: Fitzpatrick Effectively Voted Against Forcing The Release
+President Trump's Tax Returns.** In June 2017, Fitzpatrick voted for a
+motion to kill a resolution demanding a release of Trump's tax returns.
+According to The Hill, "House Republicans on Wednesday rejected yet
+another effort from Democrats to make President Trump's tax returns
+available to Congress, coming on the eve of former FBI Director James
+Comey's expected bombshell testimony. It's the ninth time since late
+February that Democrats have forced a House floor vote on a resolution
+directing the committee with jurisdiction over the tax code to request
+Trump's tax returns from the last decade." The vote was on a motion to
+table a motion to appeal the ruling of the chair. The House adopted the
+motion, effectively killing the motion to appeal the ruling of the chair
+and thus the resolution by a vote of 228 to 186. \[House Vote 292,
+[6/7/17](http://clerk.house.gov/evs/2017/roll292.xml); The Hill,
+[6/7/17](http://thehill.com/blogs/floor-action/house/336813-house-gop-rejects-effort-to-request-trumps-tax-returns-on-eve-of)\]
+
+**2017: Fitzpatrick Effectively Voted Against Forcing The Release
+President Trump's Tax Returns.** In May 2017, Fitzpatrick voted for a
+motion to kill a resolution demanding a release of Trump's tax returns.
+According to The Hill, "For the eighth time in the last three months,
+House Republicans on Wednesday voted down an effort by Democrats to make
+President Trump's tax returns available to Congress. The House rejected
+a resolution authored by House Democratic Caucus Vice Chairwoman Linda
+Sánchez (Calif.) directing the committee with jurisdiction over the tax
+code in a procedural vote that fell mostly along party lines." The vote
+was on a motion to table a motion to appeal the ruling of the chair. The
+House adopted the motion, effectively killing the motion to appeal the
+ruling of the chair and thus the resolution by a vote of 225 to 187.
+\[House Vote 274,
+[5/24/17](http://clerk.house.gov/evs/2017/roll274.xml); The Hill,
+[5/24/17](http://thehill.com/blogs/floor-action/house/334957-gop-rejects-dem-effort-to-demand-trumps-tax-returns)\]
+
+**2017: Fitzpatrick Effectively Voted Against Forcing The Release Of
+President Trump's Tax Returns.** In March 2017, Fitzpatrick voted for a
+motion to kill a resolution that would have, according to The Hill,
+"order\[ed\] the committee with jurisdiction over the tax code to
+request copies of Trump's tax returns." The vote was on a motion to
+table a motion to appeal the ruling of the chair. The House adopted the
+motion, effectively killing the motion to appeal the ruling of the chair
+and thus the resolution by a vote of 229 to 188. \[House Vote 261,
+[5/17/17](http://clerk.house.gov/evs/2017/roll261.xml); The Hill,
+[5/17/17](http://thehill.com/blogs/floor-action/house/333968-gop-rejects-effort-to-force-release-of-trumps-tax-returns)\]
+
+**2017: Fitzpatrick Effectively Voted Against Forcing The Release Of
+Fifteen Years Of President Trump's Tax Returns.** In March 2017,
+Fitzpatrick voted for a motion to kill a resolution that would have,
+according to The Hill, "directed the House to request 15 years' worth of
+Trump's tax returns so lawmakers could determine whether he is violating
+the 'Emoluments Clause' of the Constitution. The cause prohibits
+government officials from receiving gifts or payments from foreign
+leaders." The vote was on a motion to table a motion to appeal the
+ruling of the chair. The House adopted the motion, effectively killing
+the motion to appeal the ruling of the chair and thus the resolution by
+a vote of 228 to 190. \[House Vote 201,
+[3/28/17](http://clerk.house.gov/evs/2017/roll201.xml); The Hill,
+[3/28/17](http://thehill.com/policy/finance/326220-republicans-vote-to-block-resolutions-on-trumps-tax-returns)\]
+
+**2017: Fitzpatrick Effectively Voted Against Forcing The Release Of Ten
+Years Of President Trump's Tax Returns.** In March 2017, Fitzpatrick
+voted for a motion that would have, according Congressional Quarterly,
+"appeal\[ed\] the ruling of the Chair that the Crowley resolution
+related to the disclosure of President Trump's tax returns does not
+constitute a question of the privileges of the House." The vote was on a
+motion to table a motion to appeal the ruling of the chair. The House
+adopted the motion, effectively killing the motion to appeal the ruling
+of the chair and thus the resolution by a vote of 223 to 183. \[House
+Vote 161, [3/15/17](http://clerk.house.gov/evs/2017/roll161.xml);
+Congressional Quarterly, [3/15/17](http://cq.com/vote/2017/H/161?0)\]
+
+**2017: Fitzpatrick Effectively Voted Against Forcing The Release Of Ten
+Years Of President Trump's Tax Returns.** In March 2017, Fitzpatrick
+voted for a motion to kill a resolution that would have, according to
+The Hill, "\[instructed\] the House to request 10 years of Trump's tax
+returns so that they can be considered by the House Ways and Means
+Committee in a closed session. Under a provision of the Internal Revenue
+Code, the chairmen of the Ways and Means Committee, Senate Finance
+Committee and Joint Committee on Taxation can request tax-return
+information from the Treasury Department." The vote was on a motion to
+table a motion to appeal the ruling of the chair. The House adopted the
+motion, effectively killing the motion to appeal the ruling of the chair
+and thus the resolution by a vote of 227 to 186. \[House Vote 128,
+[3/7/17](http://clerk.house.gov/evs/2017/roll128.xml); The Hill,
+[3/7/17](http://thehill.com/blogs/ballot-box/322856-dems-make-another-push-for-trumps-tax-returns-from-house-floor);
+Congressional Quarterly, [3/7/17](http://cq.com/vote/2017/H/128?2)\]
+
+**2017: Fitzpatrick Effectively Voted Against Forcing The Release Of Ten
+Years Of President Trump's Tax Returns.** In February 2017, Fitzpatrick
+voted for a motion to kill a resolution that would have, according to
+The Hill, "directed the House to request 10 years of Trump's tax
+returns, have the House Ways and Means Committee review them in a closed
+session and then vote to send the information in the returns to the full
+House." The legislation would have specifically, also according to The
+Hill, "force\[d\] a House floor vote on a resolution to request
+President Trump's tax returns." The vote was on a motion to table a
+motion to appeal the ruling of the chair. The House adopted the motion,
+effectively killing the motion to appeal the ruling of the chair and
+thus the resolution by a vote of 229 to 185. \[House Vote 101,
+[2/27/17](http://clerk.house.gov/evs/2017/roll101.xml); The Hill,
+[2/27/17](http://thehill.com/policy/finance/321476-house-dem-fails-to-force-release-of-trump-tax-returns);
+Congressional Quarterly, [2/27/17](http://cq.com/vote/2017/H/101?1)\]

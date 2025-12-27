@@ -1,0 +1,121 @@
+---
+title: Censure And Committee Expulsion
+description: 
+published: true
+date: 2025-09-22T20:21:22.982Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:21:18.838Z
+---
+
+# Censure And Committee Expulsion
+
+### Rep. Paul Gosar
+
+**2021: Fitzpatrick Voted Against Censuring Representative Paul Gosar,
+And Removing Him From His Committee Assignments After He Posted An
+Edited Video Of Him Killing Representative Alexandria Ocasio-Cortez And
+Assaulting President Biden.** In November 2021, Fitzpatrick voted
+against a resolution which would, according to Congressional Quarterly,
+"censure Rep. Paul Gosar R-Ariz., and remove him from his assignments on
+the House Oversight and Reform and Natural Resources committees for
+posting a manipulated video on his social media accounts depicting
+himself killing Rep. Ocasio-Cortez D-N.Y., and attacking President Joe
+Biden. It would require Gosar to present himself in the well of the
+House for the pronouncement of censure. The resolution would condemn
+'threats of violence' against members of Congress and the president,
+stating that 'depictions of violence can foment actual violence and
+jeopardize the safety of elected officials.'" The vote was on passage.
+The House passed the resolution by a vote of 223-207. \[House Vote 379,
+[11/17/21](http://clerk.house.gov/evs/2021/roll379.xml); Congressional
+Quarterly, [11/17/21](https://plus.cq.com/vote/2021/H/379?5);
+Congressional Actions, [H.Res.
+789](https://www.congress.gov/bill/117th-congress/house-resolution/789/actions)\]
+
+-   **Representative Gosar Did Not Apologize For Posting The Animated
+    Video, Claimed The Video Was Not Intended To A Target Representative
+    Ocasio-Cortez Nor President Biden, But Instead Said His Cartoon
+    Character Went After The "The Policy Monster Of Open Borders."**
+    According to Congressional Quarterly, "Gosar posted the video on
+    social media Sunday, a move that led Pelosi to later call on the
+    House Ethics Committee and law enforcement to investigate. In a Nov.
+    9 statement, Gosar did not apologize and said the video, which
+    appeared on his Twitter and Instagram accounts, was
+    mischaracterized. The posts have been removed. 'The cartoon depicts
+    the symbolic nature of a battle between lawful and unlawful policies
+    and in no way intended to be a targeted attack against
+    Representative Cortez or Mr. Biden,' he said. 'It is a symbolic
+    cartoon. It is not real life. Congressman Gosar cannot fly. The hero
+    of the cartoon goes after the monster, the policy monster of open
+    borders.'" \[Congressional Quarterly,
+    [11/12/21](https://plus.cq.com/doc/news-6390786?1)\]
+
+-   **Representative Gosar Claimed The Animated Video Was Not Dangerous
+    And Did Not Threaten Anyone, But Instead Illustrated A Battle On
+    Policy Over Undocumented Immigrants.** According to Congressional
+    Quarterly, "On the floor, Gosar said the video was not 'dangerous'
+    or 'threatening' but depicted a 'policy battle' over 'illegal
+    aliens.'" \[Congressional Quarterly,
+    [11/17/21](https://plus.cq.com/doc/news-6394853?2)\]
+
+-   **Representative Gosar Claimed To Have Censured Himself By Taking
+    Down The Animated Video, Not Because He Thought It Was Threatening
+    But For The Sake Of Those Who Found The Video Offensive.** According
+    to Congressional Quarterly, "'I do not espouse violence towards
+    anyone. I never have. It was not my purpose to make anyone upset. I
+    voluntarily took the cartoon down not because it was itself a
+    threat, but because some thought it was. Out of compassion for those
+    who generally felt offense, I self censored,' he added."
+    \[Congressional Quarterly,
+    [11/17/21](https://plus.cq.com/doc/news-6394853?2)\]
+
+-   **Representative Gosar Compared Himself To Alexander Hamilton, Who
+    He Claimed Was The First Person The House Attempted To Censor.**
+    According to Congressional Quarterly, "Then he compared himself to
+    one of the Founding Fathers: 'If I must join Alexander Hamilton, the
+    first person attempted to be censored by this House, so be it. It is
+    done.'" \[Congressional Quarterly,
+    [11/17/21](https://plus.cq.com/doc/news-6394853?2)\]
+
+-   **Instead Of Apologizing For Uploading The Animated Video, Gosar
+    Claimed It Was "Mischaracterized" And Was Not A Direct Attack
+    Against Representative Ocasio-Cortez Nor President Biden.**
+    According to Congressional Quarterly, "Gosar has since removed the
+    posts and taken down the video. He issued a statement on Nov. 9, but
+    instead of apologizing said it was mischaracterized and 'in no way
+    intended to be a targeted attack against Representative Cortez or
+    Mr. Biden.'" \[Congressional Quarterly,
+    [11/17/21](https://plus.cq.com/doc/news-6394853?2)\]
+
+**2021: Fitzpatrick Effectively Voted Against Censuring Representative
+Paul Gosar, And Removing Him From His Committee Assignments.** In
+November 2021, Fitzpatrick effectively voted against a resolution which
+would, according to Congressional Quarterly, "provide for floor
+consideration of the resolution (H Res 789) censuring Rep. Gosar,
+R-Ariz. It would provide for one hour of debate on the resolution and
+provide for automatic adoption of a Deutch, D-Fla., manager\'s amendment
+that would remove Gosar from his assignments on the House Oversight and
+Reform and Natural Resources committees." The vote was on the adoption
+of the rule. The House agreed to the motion by a vote of 222-208.
+\[House Vote 378,
+[11/17/21](http://clerk.house.gov/evs/2021/roll378.xml); Congressional
+Quarterly, [11/17/21](https://plus.cq.com/vote/2021/H/378?4);
+Congressional Actions, [H.Res.
+789](https://www.congress.gov/bill/117th-congress/house-resolution/789/actions);
+Congressional Actions, [H.Res.
+795](https://www.congress.gov/bill/117th-congress/house-resolution/795/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against Censuring Representative
+Paul Gosar, And Removing Him From His Committee Assignments.** In
+November 2021, Fitzpatrick effectively voted against a resolution which
+would, according to Congressional Quarterly, "provide for floor
+consideration of the resolution (H Res 789) censuring Rep. Gosar,
+R-Ariz., and removing him from committee assignments." The vote was on a
+motion to order the previous question. The House agreed to the motion by
+a vote of 221-207. \[House Vote 377,
+[11/17/21](http://clerk.house.gov/evs/2021/roll377.xml); Congressional
+Quarterly, [11/17/21](https://plus.cq.com/vote/2021/H/377?3);
+Congressional Actions, [H.Res.
+789](https://www.congress.gov/bill/117th-congress/house-resolution/789/actions);
+Congressional Actions, [H.Res.
+795](https://www.congress.gov/bill/117th-congress/house-resolution/795/actions)\]

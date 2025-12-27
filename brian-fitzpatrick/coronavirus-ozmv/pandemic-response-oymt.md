@@ -1,0 +1,1093 @@
+---
+title: Pandemic Response
+description: 
+published: true
+date: 2025-09-22T20:33:30.474Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:33:24.516Z
+---
+
+# Pandemic Response
+
+### Coronavirus Stimulus Package
+
+**2020: Fitzpatrick Voted Against The Heroes Act To Appropriate An
+Additional \$3 Trillion In Coronavirus Recovery Funds.** In May 2020,
+Fitzpatrick voted against the Heroes Act that would, according to
+Congressional Quarterly, "Passage of the bill, as amended, that would
+provide roughly \$3 trillion in funding to further address the health
+and economic effects of COVID-19, including almost \$1 trillion for
+direct aid to state and local governments; \$200 billion for a fund to
+provide hazard pay for essential workers; \$75 billion for a national
+testing program; and funding for state and federal response related to
+health care, education, housing, and food supply. It would extend
+federal funding of expanded unemployment compensation benefits through
+January 2021 and provide an additional round of tax rebates of \$1,200
+for individuals with incomes of \$75,000 or less. The bill would provide
+\$540 billion for states, territories, and tribal governments and \$375
+billion for local governments to address costs and economic impacts
+associated with the COVID-19 pandemic." The vote was on passage. The
+House passed the bill by a vote of 208-199. \[House Vote 109,
+[5/15/20](http://clerk.house.gov/evs/2020/roll109.xml); Congressional
+Quarterly, [5/15/20](https://plus.cq.com/vote/2020/H/109?6);
+Congressional Actions,
+[H.R.6800](https://www.congress.gov/bill/116th-congress/house-bill/6800/all-actions?q=%7b%22search%22%3A%5B%22hr+6800%22%5D%7d&s=1&r=1)\]
+
+-   **The \$3 Trillion Aid Package Included Dozens Of Democratic
+    Priorities, Causing The White House To Issue A Veto Threat.**
+    According to Congressional Quarterly, "Speaker Nancy Pelosi muscled
+    a \$3 trillion aid package through the House late Friday, overcoming
+    defections from her party\'s moderate wing who would have preferred
+    to vote for a bipartisan measure \[...\] The bill includes dozens of
+    key Democratic priorities and has elicited sharp criticism from
+    Senate Majority Leader Mitch McConnell, who on Thursday called the
+    1,815-page package a 'liberal wish list.' The White House issued a
+    veto threat on the measure." \[Congressional Quarterly,
+    [5/15/20](https://plus.cq.com/doc/news-5908790?1)\]
+
+-   **Moderate Democrats Voted Against The Bill Citing Issues With The
+    Partisan Nature Of The Bill.** Among the Democrats who announced in
+    advance they\'d vote against the package were \[...\] Joe Cunningham
+    \[...\] All are moderates in GOP-leaning districts. 'I think it's
+    something that should have had more broad bipartisan support," said
+    Cunningham. He argued that aid legislation 'needs to be more
+    narrowly focused on the people who are suffering as a result of the
+    pandemic.'" \[Congressional Quarterly,
+    [5/15/20](https://plus.cq.com/doc/news-5908790?1)\]
+
+-   **Progressive Caucus Co-Chairwoman Pramila Jayapal Voted Against The
+    Bill, Stating That It Didn't Go Far Enough To Help Workers And
+    Businesses.** According to Congressional Quarterly, "Congressional
+    Progressive Caucus co-chairwoman Pramila Jayapal, D-Wash., was the
+    sole member of the party's more liberal wing to vote against the
+    bill. She told reporters the measure didn't go far enough to help
+    workers and businesses. 'At the end of the day, what I'm talking
+    about is protecting the economy and protecting people from dying,
+    because businesses and workers feel too much pressure to go back to
+    work too quickly because they don't have money,' said Jayapal."
+    \[Congressional Quarterly,
+    [5/15/20](https://plus.cq.com/doc/news-5908790?1)\]
+
+-   **The Bill Included \$1 Trillion In Aid To Local And State
+    Governments.** According to Congressional Quarterly, "the bill
+    includes nearly \$1 trillion in aid to local and state governments,
+    which are facing steep budget shortfalls following a drop off in
+    income tax revenue due to skyrocketing unemployment, as well as a
+    reduction in sales tax revenue after businesses mostly shut down due
+    to stay-at-home orders." \[Congressional Quarterly,
+    [5/15/20](https://plus.cq.com/doc/news-5908790?1)\]
+
+-   **The Bill Provided \$435 Billion In A Second Round Of Direct
+    Payments To Households.** According to Congressional Quarterly, "The
+    bill would provide \$435 billion, according to the Joint Committee
+    on Taxation, to send out more direct payments to households and fill
+    in gaps from the previous round, estimated in March to cost \$294
+    billion. Families with adult children who are full-time students up
+    to age 24 could now receive \$500 from the previous round, which had
+    cut off age at 17; the age limit would be raised for the new round
+    as well, and up to three children per household would be eligible
+    for the full \$1,200 amount allotted to adults. It would also make
+    individuals with a taxpayer identification number eligible for
+    payments, even if they don't have a Social Security number. Critics
+    said that would open the door to undocumented immigrants getting
+    payments, and Republicans were nearly successful on a procedural
+    vote to strip that provision." \[Congressional Quarterly,
+    [5/15/20](https://plus.cq.com/doc/news-5908790?1)\]
+
+-   **The Bill Provided \$200 Billion In Grants For Employers To
+    Increase Pay For Essential Workers.** According to Congressional
+    Quarterly, "The legislation would also establish a nearly \$200
+    billion grant program for employers to provide a pay increase for
+    'essential workers,' such as first responders and employees at
+    hospitals, grocery stores and meat processing plants."
+    \[Congressional Quarterly,
+    [5/15/20](https://plus.cq.com/doc/news-5908790?1)\]
+
+-   **The Bill Extended Expanded Unemployment Insurance Benefits Despite
+    Republican Opposition.** According to Congressional Quarterly, "And
+    expanded unemployment insurance benefits worth an extra \$600 per
+    week on top of regular state allotments would be extended from
+    August through the end of January, and through March if regular
+    state eligibility hadn't been used up yet. Many Republicans oppose
+    the higher weekly benefit because in many states it would pay
+    unemployed workers more than they made before they were laid off,
+    which they say will cripple firm's ability to reopen once lockdowns
+    are lifted." \[Congressional Quarterly,
+    [5/15/20](https://plus.cq.com/doc/news-5908790?1)\]
+
+-   **A Bipartisan Measure Increased The Employee Retention Tax Credit
+    For Employers To Cover Employees Wages.** According to Congressional
+    Quarterly, "One bipartisan proposal would beef up a tax credit in
+    the March law to cover up to \$5,000 of wages for employers
+    experiencing sharp revenue declines. The House Democrats\' bill
+    would expand that provision to cover up to \$36,000 of wages, as
+    well as making employer health benefit expenses eligible, in line
+    with recent Treasury guidance. The JCT said the so-called 'employee
+    retention credit' expansion would cost \$164 billion over a decade."
+    \[Congressional Quarterly,
+    [5/15/20](https://plus.cq.com/doc/news-5908790?1)\]
+
+-   **The Bill Included A Measure Eliminating The SALT Tax Cap, A
+    Long-Sought After Democratic Provision.** According to Congressional
+    Quarterly, "Another costly tax provision doesn\'t enjoy the same
+    bipartisan support, however: eliminating the \$10,000 cap on state
+    and local tax deductions for this year and next, at a \$137 billion
+    cost. Republicans have mostly spent the last few days blasting the
+    'SALT' cap removal as a sop to richer households in blue states that
+    has nothing to do with pandemic relief." \[Congressional Quarterly,
+    [5/15/20](https://plus.cq.com/doc/news-5908790?1)\]
+
+-   **The HEROES Act Provided \$25 Billion In Emergency Funding To The
+    Postal Service.** According to the Federal News Network, "The
+    spending bill would give the Postal Service \$25 billion in
+    emergency funding that would last through September 2022 \[...\] The
+    bill would also modify language in the \$2 trillion CARES Act that
+    would streamline the Postal Services' ability to borrow \$10 billion
+    in an expanded line of credit from the Treasury Department."
+    \[Federal News Network,
+    [5/13/20](https://federalnewsnetwork.com/congress/2020/05/latest-pandemic-spending-bill-grants-ig-protections-usps-funding-2020-census-extensions/)\]
+
+-   **CBPP: The COVID-19 Pandemic Caused State Funds To Dramatically
+    Decrease, And The Heroes Act Would Provide \$500 Billion To States
+    and \$40 Million To Tribes And Territories.** According to the
+    Center on Budget and Policy Priorities (CBPP), "States depend
+    primarily on sales and income tax revenues to fund schools, health
+    care, and other services. The COVID-19 pandemic has caused these
+    revenues to collapse, since businesses are closed and many people
+    have been laid off. Further, the economic crisis is expected to last
+    long after the health crisis ends \[...\] As a result, states face
+    massive budget shortfalls of about \$765 billion for the current
+    fiscal year (which ends June 30 in most states) and the next two.
+    Even after subtracting flexible federal aid provided so far and the
+    entire amount in state rainy day funds, states still face shortfalls
+    of about \$600 billion. Further, these shortfall estimates do not
+    include increased state costs due to the pandemic, such as increased
+    costs for public hospitals, first responders, domestic abuse
+    agencies, mental health departments, and others \[...\] Under the
+    Heroes Act, states would receive \$500 billion; another \$20 billion
+    would go to tribes and another \$20 billion to the territories."
+    \[CBPP,
+    [5/20/20](https://www.cbpp.org/research/state-budget-and-tax/how-much-would-each-state-receive-through-the-coronavirus-state-fiscal)\]
+
+### Emergency Funding
+
+**2020: Fitzpatrick Voted For An \$8.3 Billion Emergency Funding Bill To
+Combat The Spread Of Coronavirus.** In March 2020, Fitzpatrick voted for
+a bill that would, according to Congressional Quarterly, "provide \$7.8
+billion in supplemental fiscal 2020 appropriations to federal
+departments and agencies for activities to prevent, prepare and respond
+to the threat of COVID-19 domestically and abroad, including \$6.5
+billion for the Health and Human Services Department. Within the total
+amount, it would provide \$3.1 billion for the HHS Public Health and
+Social Services Emergency Fund, including for the development and
+purchase of vaccines and other medical supplies, with an additional
+\$300 million available for the purchase of medical supplies, if
+necessary. It would provide \$2.2 billion for the Centers For Disease
+Control and Prevention, including \$950 million for state and local
+preparedness grants and \$300 million for global response activities. It
+would provide \$986 million for U.S. Agency for International
+Development bilateral economic assistance related to coronavirus
+response, including through contributions to international
+organizations. It would also provide \$836 million for the National
+Institute of Health, \$264 million for State Department diplomatic
+programs, \$61 million for the Food and Drug Administration, and \$20
+million for the Small Business Administration disaster loan program, for
+expenses related to coronavirus response. The bill would also authorize
+the Health and Human Services Department to temporarily waive or modify
+certain Medicare reimbursement rules for in-home health care, to provide
+for coverage of telehealth services for individuals in a declared
+emergency area. Such waivers would increase mandatory federal spending
+for Medicare by approximately \$490 million through fiscal 2022." The
+vote was on passage. The House approved the bill by a vote of 415-2.
+\[House Vote 86, [3/4/20](http://clerk.house.gov/evs/2020/roll086.xml);
+Congressional Quarterly, [3/4/20](https://plus.cq.com/vote/2020/H/86?3);
+Congressional Actions,
+[H.R.6074](https://www.congress.gov/bill/116th-congress/house-bill/6074/all-actions?q=%7b%22search%22%3A%22hr+6074%22%7d)\]
+
+-   **The Emergency Coronavirus Spending Bill Provides \$7.76 Billion To
+    Federal Agencies And \$500 Million In Medicare Waivers.** According
+    to The Hill, "The bill provides \$7.76 billion to agencies combating
+    the coronavirus, It also authorizes another \$500 million in waivers
+    for Medicare telehealth restrictions, bringing the total figure
+    greenlighted under the bill up to \$8.3 billion." \[The Hill,
+    [3/5/20](https://thehill.com/homenews/senate/486147-senate-passes-83-billion-coronavirus-bill-sending-it-to-trump)\]
+
+-   **The Trump Administration Originally Requested Only \$2.25 Billion
+    To Combat Coronavirus, Far Below What Was Awarded In The Final
+    Bill.** According to The Hill, "The Trump administration sent its
+    emergency request to Congress on Feb. 24, less than two weeks ago.
+    The initial \$2.5 billion amount, only half of which would have been
+    new funding, was criticized by Democrats and some Republicans as
+    being too low." \[The Hill,
+    [3/5/20](https://thehill.com/homenews/senate/486147-senate-passes-83-billion-coronavirus-bill-sending-it-to-trump)\]
+
+-   **Republicans Rejected A Democratic Push To Ensure Vaccines And
+    Treatments Developed By Private Companies Be Priced Affordably.**
+    According to The Hill, "Democrats had pushed for language in the
+    bill that would require any coronavirus vaccines or treatments
+    developed by private companies with federal funding to be priced
+    affordably. But Republicans had argued that could discourage drug
+    companies from investing in potential cures and vaccines. A source
+    told the Hill that there was also discussion at a leadership level
+    about ensuring Medicare would fully cover copay for a vaccine, but
+    the idea was rejected by Republicans." \[The Hill,
+    [3/5/20](https://thehill.com/homenews/senate/486147-senate-passes-83-billion-coronavirus-bill-sending-it-to-trump)\]
+
+### Families First Coronavirus Response Act
+
+**2020: Fitzpatrick Voted For The \$3.5 Billion Families First
+Coronavirus Response Act.** In March 2020, Fitzpatrick voted for the
+Families First Coronavirus Response Act that would, according to
+Congressional Quarterly, "appropriate approximately \$3.5 billion in
+supplemental funding and authorize additional funding to support the
+federal response to the spread and economic effects of COVID-19,
+including for paid sick leave, unemployment insurance, diagnostic
+testing, and nutritional assistance. Among other provisions, the bill
+would require health plans to cover diagnostic tests for COVID-19 and
+provide \$1 billion for the Health and Human Services Department to
+reimburse laboratories for testing of uninsured individuals \[...\] It
+would provide \$1 billion for Labor Dept emergency grants to states
+related to unemployment insurance and provide full federal funding for
+extended unemployment insurance in states with an unemployment rate
+increase of 10% or more. It would provide \$1.3 billion for Agriculture
+and Health and Human Services Department nutrition assistance programs,
+including for family nutrition programs, grants to U.S. territories, and
+services for low-income and elderly individuals. It would provide for
+temporary emergency procedures to provide nutrition assistance for
+participants in the Supplemental Nutrition Assistance Program and to
+students affected by school closures. It would require employers with
+fewer than 500 employees and government employers to grant an additional
+80 hours of paid sick leave for individuals affected by the coronavirus,
+including to care for dependents due to illness or school closures
+\[...\] It would also require such employers to provide 12 weeks of
+job-protected family or medical leave for affected employees during a
+public health emergency related to COVID-19 and to provide paid leave
+after 14 days, at a rate of at least two-thirds an employee\'s regular
+rate of pay. It would provide tax credits for employers equal to the
+full amount of sick leave wages paid in any calendar quarter, capped at
+\$511 per day for each employee who is ill, quarantined, or seeking
+treatment, or \$200 per day for each employee who is caring for a family
+member. It would provide tax credits for employers equal to the full
+amount of family leave wages paid in any calendar quarter, capped at
+\$200 per day and \$10,000 per quarter for each employee. It would also
+provide for paid leave wage tax credits for self-employed individuals."
+The vote was on passage. The House passed the bill by a vote of 363-40.
+The bill ultimately became law. \[House Vote 102,
+[3/14/20](http://clerk.house.gov/evs/2020/roll102.xml); Congressional
+Quarterly, [3/14/20](https://plus.cq.com/vote/2020/H/102?3);
+Congressional Actions,
+[H.R.6201](https://www.congress.gov/bill/116th-congress/house-bill/6201/all-actions?q=%7b%22search%22%3A%5B%22HR+6201%22%5D%7d&s=1&r=1)\]
+
+### Funding
+
+**2021: Fitzpatrick Voted Against The American Rescue Plan Act Of 2021,
+Which Provided \$195.3 Billion To States, \$130.2 Billion To Localities,
+And \$10 Billion To Support Capital Projects Like Broadband Access.** In
+March 2021, Fitzpatrick voted against concurring in the Senate amendment
+to the American Rescue Plan Act of 2021 which would, according to
+Congressional Quarterly, "provide direct assistance of \$195.3 billion
+for states and \$130.2 billion for local governments, as well as \$10
+billion for grants to states to support capital projects, such as
+broadband access." The vote was on concurring in the Senate amendment to
+the bill. The House concurred with the Senate by a vote of 220-211 and
+sent to the President and ultimately the bill became law. \[House Vote
+72, [3/10/21](http://clerk.house.gov/evs/2021/roll072.xml);
+Congressional Quarterly,
+[3/10/21](https://plus.cq.com/vote/2021/H/72?24); Congressional Actions,
+[H.R.
+1319](https://www.congress.gov/bill/117th-congress/house-bill/1319/actions)\]
+
+-   **The American Rescue Plan Approved Additional Funds To Support
+    States And Localities Meet Their Financial Necessities.** According
+    to The Washington Post, "The stimulus bill approves additional money
+    to help schools reopen, allow restaurants and businesses to stay
+    afloat, and assist state and local governments trying to meet their
+    financial needs." \[The Washington Post,
+    [3/10/21](https://www.washingtonpost.com/us-policy/2021/03/10/house-stimulus-biden-covid-relief-checks/)\]
+
+**2021: Fitzpatrick Voted Against The American Rescue Plan Act Of 2021,
+Which Granted Over \$92 Billion To Health And Human Services For COVID
+Testing And Contact Tracing, Vaccine Development And Distribution,
+Public Health Workforce Expansion, Community Health Centers, Health
+Programs For Native Americans, And Block Grant Programs For Substance
+Abuse And Mental Health.** In March 2021, Fitzpatrick voted against
+concurring in the Senate amendment to the American Rescue Plan Act of
+2021 which would, according to Congressional Quarterly, "provide over
+\$92 billion for the Health and Human Services Department, including
+\$47.8 billion for COVID-19 testing and contact tracing; \$7.5 billion
+for vaccine administration and distribution; \$6.1 billion for vaccine
+and therapeutic development, manufacturing and procurement; \$7.6
+billion to expand the public health workforce; \$7.6 billion for
+community health centers; \$6.1 billion for Native American health
+programs; and \$3 billion for substance abuse and mental health block
+grant programs." The vote was on concurring in the Senate amendment to
+the bill. The House concurred with the Senate by a vote of 220-211 and
+sent to the President and ultimately the bill became law. \[House Vote
+72, [3/10/21](http://clerk.house.gov/evs/2021/roll072.xml);
+Congressional Quarterly,
+[3/10/21](https://plus.cq.com/vote/2021/H/72?24); Congressional Actions,
+[H.R.
+1319](https://www.congress.gov/bill/117th-congress/house-bill/1319/actions)\]
+
+-   **The American Rescue Plan Reserved Billions Of Dollars For COVID
+    Testing, Contract Tracing And Vaccine Distribution, Which Would Seek
+    To Fulfill The Biden Administration's Goal To Develop Sufficient
+    Vaccinations For All Americans By The End Of May 2021.** According
+    to The Washington Post, "Lawmakers also set aside tens of billions
+    of dollars to fund coronavirus testing, contact tracing and vaccine
+    deployment, as they aim to deliver on Biden's recent promise to
+    produce enough inoculations for 'every adult in America' by the end
+    of May." \[The Washington Post,
+    [3/10/21](https://www.washingtonpost.com/us-policy/2021/03/10/house-stimulus-biden-covid-relief-checks/)\]
+
+-   **The American Rescue Plan Reserved \$7.5 Billion For The Centers
+    For Disease Control And Prevention To Track And Distribute The COVID
+    Vaccines.** According to NPR, "The Centers for Disease Control and
+    Prevention is set to receive \$7.5 billion to track, administer and
+    distribute COVID-19 vaccines." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+-   **The American Rescue Plan Reserved \$46 Billion For COVID Diagnosis
+    And Tracing And \$2 Billion For Testing Supplies And Personal
+    Protective Equipment.** According to NPR, "Another \$46 billion will
+    go toward diagnosing and tracing coronavirus infections, and \$2
+    billion will go toward buying and distributing various testing
+    supplies and personal protective equipment." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+-   **The American Rescue Plan Provided States An Additional 10% Of
+    Funds For Home And Community Based Services Through March 2022.**
+    According to Health Law, "States will also get increased funding for
+    Home and Community Based Services (HCBS) through March 2022. States
+    would receive an additional 10% of federal funding for HCBS
+    services." \[Health Law,
+    [3/12/21](https://healthlaw.org/the-american-rescue-plan-act-whats-it-do-for-health/)\]
+
+-   **The American Rescue Plan Would Provided 85% Coverage Of Costs
+    Associated With Mobile Crisis Response Teams, Which Support People
+    Undergoing Episodes By Preventing Law Enforcement Intervention.**
+    According to Health Law, "ARP also provides federal coverage of 85%
+    of the costs for mobile crisis response teams. These teams help
+    reduce harms to people undergoing acute episodes by avoiding
+    encounters with undertrained law enforcement, and can free the
+    police to prioritize other activities." \[Health Law,
+    [3/12/21](https://healthlaw.org/the-american-rescue-plan-act-whats-it-do-for-health/)\]
+
+-   **The American Rescue Plan Provided "Additional Funding To Community
+    Health Centers And Indian Health And Native Hawaiian Health
+    Providers."** According to Health Law, "The ARP also includes
+    additional health provisions such as additional funding for
+    community health centers and certain Indian Health and native
+    Hawaiian health providers." \[Health Law,
+    [3/12/21](https://healthlaw.org/the-american-rescue-plan-act-whats-it-do-for-health/)\]
+
+-   **The American Rescue Plan Of 2021 Did Not Include The Hyde
+    Amendment And Instead Provided The Greatest Expansion Of
+    Taxpayer-Funded Abortion Since Obamacare.** According to a Roll Call
+    op-ed by Marjorie Dannenfelser, "Earlier this year, President Joe
+    Biden followed through on a major campaign promise to the abortion
+    lobby --- and broke with decadeslong bipartisan consensus --- by
+    signing a massive stimulus bill without pro-life Hyde Amendment
+    protections. In the guise of COVID-19 relief, the so-called American
+    Rescue Plan was the largest expansion of taxpayer-funded abortion
+    since Obamacare. Now with the administration's budget proposal
+    expected this week, a slew of life-saving policies modeled after
+    Hyde could also be on the chopping block." \[Marjorie Dannenfelser
+    Op-Ed − Roll Call,
+    [5/25/21](https://rollcall.com/2021/05/25/these-pro-life-amendments-could-be-on-the-biden-budget-chopping-block/)\]
+
+-   **The American Rescue Plan Of 2021 Included Additional Funding For
+    The Title X Family Planning Program.** According to a press release
+    from NARAL, "Today, President Biden signed into law the American
+    Rescue Plan Act, the sweeping \$1.9 trillion coronavirus relief
+    package to address the healthcare and economic crises caused by the
+    COVID-19 pandemic. The legislation will help expand access to
+    healthcare and provide additional funding for the Title X family
+    planning program. The U.S. House of Representatives approved the
+    bill earlier today following the Senate's passage over the weekend."
+    \[Press Release -- NARAL,
+    [3/11/21](https://www.prochoiceamerica.org/2021/03/11/naral-pro-choice-america-applauds-passage-of-american-rescue-plan-act-as-president-biden-signs-it-into-law/)\]
+
+-   **2021: Senate Republicans Failed To Add The Hyde Amendment Into The
+    American Rescue Plan Act.** According to Congressional Quarterly,
+    "Lankford, R-Okla., motion to waive all applicable sections of the
+    Congressional Budget Act with respect to the Murray, D-Wash., point
+    of order that the Lankford amendment no. 1031 to the Schumer,
+    D-N.Y., substitute amendment no. 891 to the bill is not germane and
+    thus violates section 313(b)(1)(d) of the Congressional Budget Act.
+    The amendment would make conforming changes to insert the bill\'s
+    provisions related to public health programs and domestic violence
+    prevention and support programs into the December 2020 omnibus
+    appropriations and coronavirus relief law, which would prohibit the
+    use of funds for abortion services." The vote was on a motion to
+    waive. The Senate failed to acquire a 3/5 majority and rejected the
+    motion by a vote of 52-47. \[Senate Vote 94,
+    [3/6/21](http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&session=1&vote=00094);
+    Congressional Quarterly,
+    [3/6/21](https://plus.cq.com/vote/2021/S/94?7); Congressional
+    Actions, [S.Amdt.
+    1031](https://www.congress.gov/amendment/117th-congress/senate-amendment/1031/actions);
+    Congressional Actions, [S.Amdt.
+    891](https://www.congress.gov/amendment/117th-congress/senate-amendment/891/actions);
+    Congressional Actions, [H.R.
+    1319](https://www.congress.gov/bill/117th-congress/house-bill/1319/actions)\]
+
+**2021: Fitzpatrick Voted Against The American Rescue Plan Act Of 2021,
+Which Provided \$50 Billion To FEMA, \$14.5 Billion For Health Care
+Services To Veterans, \$10 Billion For Emergency Medical Supply
+Production, \$8.7 Billion For COVID Response Efforts Abroad, And \$200
+Billion For Worker Protection Activities.** In March 2021, Fitzpatrick
+voted against concurring in the Senate amendment to the American Rescue
+Plan Act of 2021 which would, according to Congressional Quarterly,
+"provide \$50 billion for the Federal Emergency Management Agency
+disaster relief fund; \$14.5 billion for veterans\' health care
+services; \$10 billion for emergency medical supply production under the
+Defense Production Act; \$8.7 billion for COVID-19 health response
+efforts overseas; and \$200 million for Labor Department worker
+protection activities, including at least half for the Occupational
+Safety and Health Administration." The vote was on concurring in the
+Senate amendment to the bill. The House concurred with the Senate by a
+vote of 220-211 and sent to the President and ultimately the bill became
+law. \[House Vote 72,
+[3/10/21](http://clerk.house.gov/evs/2021/roll072.xml); Congressional
+Quarterly, [3/10/21](https://plus.cq.com/vote/2021/H/72?24);
+Congressional Actions, [H.R.
+1319](https://www.congress.gov/bill/117th-congress/house-bill/1319/actions)\]
+
+-   **The American Rescue Plan Allocated \$30 Billion For Transit Costs,
+    \$8 Billion For Airports, \$3 Billion For A Temporary Payroll
+    Program To Help The Aerospace Manufacturing Industry, And \$1.5
+    Billion For Furloughed Amtrak Employees Due To The Pandemic.**
+    According to NPR, "To support the transportation sector, the
+    legislation allocates nearly \$30 billion for transit costs,
+    including payroll and personal protective equipment; \$8 billion for
+    airports; \$3 billion for a temporary payroll support program to
+    help support the aerospace manufacturing industry; and \$1.5 billion
+    to recall and pay Amtrak employees who were furloughed because of
+    the pandemic and to restore various daily routes." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+-   **The American Rescue Plan Allocated \$15 Billion To Aid Airline
+    Industry Workers.** According to NPR, "Another \$15 billion will
+    also be allocated to support workers in the airline industry."
+    \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+**2020: Fitzpatrick Voted For The FY 2021 Omnibus Appropriations And
+Coronavirus Relief, Which Authorized \$73 Billion To Health And Human
+Services To Address The COVID-19 Pandemic, Including For Vaccine
+Distribution And Substance Abuse And Mental Health Programs.** In
+December 2020, Fitzpatrick voted for the second portion of the FY2021
+Omnibus Appropriations and Coronavirus Relief package which would,
+according to Congressional Quarterly, "provide approximately \$73
+billion for Health and Human Services COVID-19 pandemic response,
+including \$19.7 billion for the procurement of vaccines and
+therapeutics and \$4.25 billion for substance abuse and mental health
+programs." The vote was on concurring in Senate amendment with portion
+of the amendment. The House agreed to the motion by a vote of 359-53 and
+sent to the President and ultimately became law. \[House Vote 251,
+[12/21/20](http://clerk.house.gov/evs/2020/roll251.xml); Congressional
+Quarterly, [12/21/20](https://plus.cq.com/vote/2020/H/251?0);
+Congressional Actions, [H.R.
+133](https://www.congress.gov/bill/116th-congress/house-bill/133/actions)\]
+
+-   **The Coronavirus Relief Package Provided CDC With Funding Of \$8.75
+    Billion To Support Vaccination Efforts, Including \$300 Million For
+    Disadvantaged And High-Risk Populations.** According to
+    Congressional Quarterly, "The bill would provide the Centers for
+    Disease Control and Prevention \$8.75 billion to support federal,
+    state and local vaccination efforts, slightly more than the \$8.4
+    billion that two trade groups had said was the minimum needed for a
+    vaccine distribution campaign. That includes \$300 million for
+    distributing a vaccine to high-risk and underserved populations,
+    including racial and ethnic minorities and those in rural areas."
+    \[Congressional Quarterly,
+    [12/21/20](https://plus.cq.com/doc/news-6081275?27)\]
+
+**2020: Fitzpatrick Voted For The FY 2021 Omnibus Appropriations And
+Coronavirus Relief, Which Provided Assistance For Rent, Nutrition,
+Agriculture And Food Production, And Transportation.** In December 2020,
+Fitzpatrick voted for the second portion of the FY2021 Omnibus
+Appropriations and Coronavirus Relief package which would provide,
+according to Congressional Quarterly, "\$25 billion for rental
+assistance; \$13 billion for nutrition assistance; \$13 billion in
+agriculture and food production industry assistance; and \$45 billion
+for transportation assistance." The vote was on concurring in Senate
+amendment with portion of the amendment. The House agreed to the motion
+by a vote of 359-53 and sent to the President and ultimately became law.
+\[House Vote 251,
+[12/21/20](http://clerk.house.gov/evs/2020/roll251.xml); Congressional
+Quarterly, [12/21/20](https://plus.cq.com/vote/2020/H/251?0);
+Congressional Actions, [H.R.
+133](https://www.congress.gov/bill/116th-congress/house-bill/133/actions)\]
+
+### Heroes Act
+
+**2020: Fitzpatrick Voted Against A \$2.2 Trillion Coronavirus Aid
+Package.** In October 2020, Fitzpatrick voted against a coronavirus
+relief package that would, according to Congressional Quarterly,
+"provide roughly \$2.2 trillion in funding to further address the health
+and economic effects of COVID-19, including approximately \$436 billion
+for direct aid to state and local governments; \$120 billion for
+assistance to restaurants; \$75 billion for a national testing program;
+\$28.3 billion for an extended airline industry payroll support program;
+and funding for state and federal response related to health care,
+education, housing, and food supply. It would reinstate federal funding
+of expanded unemployment compensation benefits through January 2021,
+provide an additional round of tax rebates of \$1,200 for individuals
+with incomes of \$75,000 or less, and extend the Paycheck Protection
+Program. The bill would provide \$257 billion for states, territories,
+and tribal governments and \$179 billion for local governments to
+address costs and economic impacts associated with the COVID-19
+pandemic." The vote was on a motion to concur in the Senate amendment to
+the bill. The House passed the bill by a vote of 214-207. \[House Vote
+214, [10/1/20](http://clerk.house.gov/evs/2020/roll214.xml);
+Congressional Quarterly,
+[10/1/20](https://plus.cq.com/vote/2020/H/214?12); Congressional
+Actions,
+[H.R.925](https://www.congress.gov/bill/116th-congress/house-bill/925/all-actions?q=%7b%22search%22%3A%5B%22hr+925%22%5D%7d&s=4&r=1)\]
+
+-   **House Democrats Passed The Bill Largely As A "Symbolic Expression"
+    Of Their Frustration With Stalled Talks On Another Coronavirus Aid
+    Package.** According to Congressional Quarterly, "House Democrats
+    passed their own revised version of a coronavirus aid package
+    Thursday, in a largely symbolic expression of frustration with
+    protracted talks on a bipartisan compromise. On a party-line vote of
+    2014-207, the House sent to the Senate a \$2.2 trillion package that
+    Republicans have lambasted as a costly 'liberal wish list.' No House
+    GOP lawmaker voted for it." \[Congressional Quarterly,
+    [10/1/20](https://plus.cq.com/doc/news-6021891?1)\]
+
+-   **The Trump Administration Package Offered \$1.5 Trillion, And The
+    Senate Republicans' Proposal Provided Only \$640 Billion.**
+    According to Congressional Quarterly, "The Trump administration has
+    offered about \$1.5 trillion \[...\] Senate Republicans want to
+    spend even less: They chafed even at a \$1 trillion package over the
+    summer before backing a bill with just \$650 billion in relief ---
+    more than half of it offset." \[Congressional Quarterly,
+    [10/1/20](https://plus.cq.com/doc/news-6021891?1)\]
+
+-   **The House Democrat Relief Package Included Another Round Of
+    \$1,200 Tax Rebates, Expanded Unemployment Benefits, And Funding For
+    Schools, Health Care, And State And Local Governments.** According
+    to Congressional Quarterly, "The Democratic bill provide another
+    round of \$1,200-per-adult tax rebates, expanded unemployment
+    benefits, and more money for schools, health care and state and
+    local governments, among other things \[...\] Democrats also pumped
+    some additional money into new priorities since their May
+    legislation. Chief among them is a \$120 billion fund for the
+    pandemic-battered restaurant industry, along with \$28 billion for
+    the airline industry." \[Congressional Quarterly,
+    [10/1/20](https://plus.cq.com/doc/news-6021891?1)\]
+
+-   **Senate Republicans Are Opposed To Spending Significant Funds On
+    Another Aid Package.** According to the Wall Street Journal, "In
+    reaching a deal, House Democrats and the Trump administration also
+    face another obstacle: Senate Republicans opposed to again doling
+    out money for a major aid package. Many Republicans in the Senate
+    see the economy recovering without additional aid injections and are
+    wary of further deficit spending. After a \$1 trillion plan from GOP
+    leaders didn't draw broad support in their party, last month, Senate
+    Republicans put together a 'skinny' proposal to try to unify their
+    ranks. That bill, which called for \$300 billion in new funds and
+    repurposing \$350 billion in other funds, failed in the Senate when
+    Democrats blocked it." \[Congressional Quarterly,
+    [10/1/20](https://www.wsj.com/articles/coronavirus-aid-talks-still-stuck-after-counteroffer-by-mnuchin-11601570240)\]
+
+### Hospital Aid
+
+**2020: Fitzpatrick Voted For The Paycheck Protection Program And Health
+Care Enhancement Act, Congress's Fourth Coronavirus Response Bill, Which
+Provided An Additional \$75 Billion In Funding For Hospitals.** In April
+2020, Fitzpatrick voted for the Paycheck Protection Program and Health
+Care Enhancement Act as part of Congress's response to the Coronavirus
+pandemic that would, according to Congressional Quarterly, "provide \$75
+billion for the Health and Human Services Department public health and
+social services emergency fund to reimburse health care providers for
+expenses and lost revenue related to COVID-19." The vote was on a motion
+to concur. The House passed the bill by a vote of 388-5 and the bill was
+then signed into law by the President. \[House Vote 104,
+[4/23/20](http://clerk.house.gov/evs/2020/roll104.xml); Congressional
+Quarterly, [4/23/20](https://plus.cq.com/vote/2020/H/104?3);
+Congressional Actions,
+[H.R.266](https://www.congress.gov/bill/116th-congress/house-bill/266/all-actions?q=%7b%22search%22%3A%5B%22hr+266%22%5D%7d&s=1&r=1)\]
+
+-   **The CARES Act Provided \$100 Billion For Hospitals, But Health
+    Care Providers Said Much More Was Needed.** According to
+    Congressional Quarterly, "This funding is meant to ensure that
+    health care providers receive the support they need for
+    COVID-19-related expenses and to compensate for lost revenue as
+    non-essential and elective procedures are cancelled. The CARES Act
+    enacted in late March \[...\] provided an initial \$100 billion for
+    this purpose, and hospitals and medical groups have said much more
+    will be needed. (The Centers for Medicare and Medicaid Services in
+    early April distributed an initial tranche of \$30 billion to
+    hospitals and other providers, based on their Medicare
+    fee-for-service revenue. That distribution, however, excluded
+    certain hospitals and provided reduced amounts to hospitals that
+    serve large numbers of Medicaid beneficiaries, those with large
+    numbers of Medicare Advantage patients, and those that have high
+    rates of uncompensated care." \[Congressional Quarterly,
+    [4/22/20](https://jukebox.cq.com/www/graphics/har/2020/04/22/har20200422-5889217-factsheet0422.pdf)\]
+
+-   **The Bill Excluded Two Provisions Backed By Health Advocates That
+    Would Ensure Public Hospitals Are Eligible For Small Business Loans
+    And Reduce Interest Ratse In Medicare's Advantage Payment Loan
+    Program.** According to Congressional Quarterly, "The funding falls
+    short of the \$318 billion the American Medical Group Association
+    requested in a letter Tuesday to help medical providers cover
+    losses. A survey by the association found that 60 percent of
+    independent doctor group estimate they will deplete their financial
+    reserves in two months, while one-third are providing uncompensated
+    care for area hospitals. The bill does not appear to include two
+    provisions rural and safety-net advocates were pushing --- a
+    clarification ensuring public hospitals are eligible for the
+    small-business loans, and a reduction of a 10 percent interest rate
+    in Medicare's advance payment loan program \[...\] Providers ---
+    including the Federation of American Hospitals, which represents
+    for-profit institutions --- are lobbying for the change."
+    \[Congressional Quarterly,
+    [4/21/20](https://plus.cq.com/doc/news-5888195?2)\]
+
+### Housing Assistance
+
+**2020: Fitzpatrick Voted Against Providing Funding For Housing
+Assistance Grants And Programs In Response To The COVID-19 Pandemic.**
+In June 2020, Fitzpatrick voted against the Emergency Housing
+Protections and Relief Act that would, according to Congressional
+Quarterly, "authorize a number of housing assistance grants and programs
+in response to the COVID-19 pandemic. It would authorize \$100 billion
+for Housing and Urban Development Department emergency housing
+assistance grants to support state and local rental assistance programs
+for individuals at risk of homelessness. It would authorize \$75 billion
+for a Treasury Department homeowner assistance fund to support state
+housing finance agency assistance to help homeowners avoid mortgage
+defaults, foreclosures and loss of utility services. It would prohibit
+all tenant evictions through March 2021, prohibit all foreclosures for
+six months after enactment and allow any homeowner facing financial
+hardship to request mortgage forbearance. It would also require the
+Federal Reserve to establish a program to provide low-cost loans to
+residential rental property owners. The bill would authorize over \$24
+billion for a number of HUD housing and homelessness assistance programs
+\[...\] It would also authorize \$309 million for Agriculture Department
+rural rental assistance." The vote was on passage. The House passed the
+bill by a vote of 232-180. \[House Vote 128,
+[6/29/20](http://clerk.house.gov/evs/2020/roll128.xml); Congressional
+Quarterly, [6/29/20](https://plus.cq.com/vote/2020/H/128?15);
+Congressional Actions,
+[H.R.7301](https://www.congress.gov/bill/116th-congress/house-bill/7301/all-actions?q=%7b%22search%22%3A%22hr+7301%22%7d&s=2&r=1)\]
+
+-   **The Bill Was Introduced As The U.S. Approached What Experts Deemed
+    A Housing Crisis Due To The COVID-19 Pandemic.** According to CNBC,
+    "As the U.S. approaches what housing experts have deemed a housing
+    crisis, the House of Representatives passed a bill on Monday that
+    would provide emergency financial relief for tenants and homeowners
+    to keep people housed throughout the coronavirus pandemic \[...\]
+    About 30% of renters have little to no confidence that they can make
+    their next housing payment, according to the latest U.S. Census
+    Bureau Household Pulse Survey. To rectify that, housing experts at
+    the National Low Income Housing Coalition and elsewhere have called
+    for emergency rental assistance and rent cancellation during the
+    pandemic." \[CNBC,
+    [6/30/20](https://www.cnbc.com/2020/06/30/house-passes-emergency-rental-assistance-and-mortgage-relief-bill.html)\]
+
+-   **Republicans Opposed The Bill, Believing It Rewarded High-Cost
+    Metropolitan Areas For Past Mistakes.** According to CNBC,
+    "Republicans voted against the housing relief bill. Rep. Bill
+    Huizenga (R-Mich.) called the bill a 'Democratic grab bag wish list
+    of policy goals.' 'The fact is that in far too many large, high-cost
+    metropolitan areas, local decisions and regulations have made the
+    cost of housing in those area\[s\] too high for many hardworking
+    families,' Huizenga said. 'We Should not be rewarding these
+    high-cost cities for decades of self-made mistakes with more
+    taxpayer dollars." \[CNBC,
+    [6/30/20](https://www.cnbc.com/2020/06/30/house-passes-emergency-rental-assistance-and-mortgage-relief-bill.html)\]
+
+### Paycheck Protection Program And Health Care Enhancement Act
+
+**2020: Fitzpatrick Voted For The Paycheck Protection Program And Health
+Care Enhancement Act, Congress's Fourth Coronavirus Response Bill.** In
+April 2020, Fitzpatrick voted for the Paycheck Protection Program and
+Health Care Enhancement Act as part of Congress's response to the
+Coronavirus pandemic that would, according to Congressional Quarterly,
+"provide \$483.4 billion in additional funding for Small Business
+Administration programs, assistance to hospitals, and testing related to
+COVID-19. It would provide an additional \$310 billion for Paycheck
+Protection Program loans under the Small Business Administration,
+including \$60 billion for lending by smaller financial institutions and
+those serving underbanked communities. The program provides forgivable
+loans of up to \$10 million for businesses with 500 or fewer employees,
+including for payroll costs, mortgage payments, and rent or utility
+payments \[...\] It would provide \$75 billion for the Health and Human
+Services Department public health and social services emergency fund to
+reimburse health care providers for expenses and lost revenue related to
+COVID-19. It would provide \$25 billion to the fund for expenses
+associated with developing and administering COVID-19 tests, including
+\$11 billion for state and local governments to manufacture, provide,
+and analyze such tests." The vote was on a motion to concur. The House
+passed the bill by a vote of 388-5 and the bill was then signed into law
+by the President. \[House Vote 104,
+[4/23/20](http://clerk.house.gov/evs/2020/roll104.xml); Congressional
+Quarterly, [4/23/20](https://plus.cq.com/vote/2020/H/104?3);
+Congressional Actions,
+[H.R.266](https://www.congress.gov/bill/116th-congress/house-bill/266/all-actions?q=%7b%22search%22%3A%5B%22hr+266%22%5D%7d&s=1&r=1)\]
+
+-   **Republicans Opposed Measures To Provide Direct Funding To States
+    And Increase Food Aid Despite Efforts By Democrats.** According to
+    Congressional Quarterly, "Governors and city county officials wanted
+    the bill to include funding to help address budget shortfalls they
+    face as tax revenues drop off a cliff and spending increases
+    sharply. There's no additional direct aid in the latest package,
+    although Schumer said the White House has committed to more funding
+    \[...\] The bill also doesn't include additional food aid. Democrats
+    originally requested this 'interim' bill include a 15 percent
+    increase to the maximum monthly benefit received by people on the
+    Supplemental Nutrition Assistance Program. Republicans were
+    opposed." \[Congressional Quarterly, [in the next aid package.
+    4/21/20](https://plus.cq.com/doc/news-5886630?0)\]
+
+-   **CBPP: Republicans' Refusal To Provide State Aid "Will Almost
+    Certainly Lead Many States To Cut Education And Other Critical
+    Services, Including Even Health Care, And To Lay Off Teachers."**
+    According to the Center on Budget and Policy Priorities (CBPP),
+    "While providing needed support to small businesses and hospitals,
+    the new COVID-19 package announced today falls short even as an
+    interim measure, failing to deliver crucial state and local fiscal
+    relief and food assistance. The White House's refusal to provide
+    more relief to states --- whose revenues are plummeting due to the
+    virus' effect on economic activity --- will almost certainly lead
+    many states to cut education and other critical services, including
+    even health care, and to lay off teachers and other workers as
+    states struggle to balance their budgets \[...\] The approaching
+    state budget cuts \[...\] will cause the U.S. economy to contract
+    further --- making the economic downturn deeper and more protracted,
+    causing many more people to lose their jobs \[...\] Despite efforts
+    from House Speaker Nancy Pelosi and Senate Majority Leader Chuck
+    Schumer, however, additional aid was blocked from inclusion in the
+    new package." \[CPBB,
+    [4/21/20](https://www.cbpp.org/press/statements/greenstein-new-covid-19-bill-helpful-but-inadequate-more-needed-for-states-and)\]
+
+-   **CPBB: Republicans Also Blocked Additional Funding For SNAP, Which
+    Is "Among The Most Effective Simulative Steps The Federal Government
+    Can Take In A Recession, On A Bang-For-The-Buck Basis."** According
+    to the Center on Budget and Policy Priorities (CBPP), "Similarly
+    disappointing is the White House's and congressional Republicans'
+    refusal to include in the new package an increase in the maximum
+    SNAP (food stamp) benefit, as was done in the last recession. This
+    measure, too, would both alleviate hardship and benefit the economy.
+    Both the Congressional Budget Office and Moody's Analytics rank this
+    measure among the most effective simulative steps the federal
+    government can take in a recession, on a bang-for-the-buck basis."
+    \[CBPP,
+    [4/21/20](https://www.cbpp.org/press/statements/greenstein-new-covid-19-bill-helpful-but-inadequate-more-needed-for-states-and)\]
+
+-   **Democrats Called The Bill And Interim Measure For A Bill That
+    Would Provide More Direct Payments To Individuals And Extended
+    Unemployment Benefits.** According to Congressional Quarterly, "Top
+    Democrats are calling the small-business and health care package
+    moving through Congress this week an 'interim' measure to serve as a
+    bridge to a larger bill that could be considered next month. The
+    next bill could include another round of direct payments to
+    households as well as an extension of new jobless benefits provided
+    in the roughly \$2 trillion aid package enacted last month."
+    \[Congressional Quarterly,
+    [4/21/20](https://plus.cq.com/doc/news-5886630?0)\]
+
+-   **Some Republicans Criticized The Bill's Price Tag.** According to
+    Congressional Quarterly, "The bill didn't get unanimous support for
+    Senate Republicans, however. Critics cited the impact on the
+    national debt as well as the closed-door negotiations that produced
+    the compromise. 'No amount of money, not all the money in China will
+    save us from ourselves,' said Rand Paul, R-Ky. 'Our Only hope of
+    rescuing this great country is by reopening the economy.'"
+    \[Congressional Quarterly,
+    [4/21/20](https://plus.cq.com/doc/news-5886630?0)\]
+
+-   **Republicans Refused To Pass The Measure Unanimously Or By Voice
+    Vote, Forcing Members Of Congress To Travel To Washington For A
+    Recorded Vote.** According to The Hill, "GOP leaders, nudged by
+    their conservative flank, rejected the notion of passing the measure
+    either unanimously or by voice vote --- two procedural options that
+    would have precluded the need for lawmakers to return to Washington
+    amid lingering concerns over public travel. Instead, Republicans
+    insisted on staging a recorded vote, which required lawmakers to
+    cast their ballots physically on the chamber floor --- and forced
+    Democratic leaders to adopt some extraordinary steps to ensure that
+    members conformed to the social distancing guidelines established by
+    public health officials." \[The Hill,
+    [4/23/20](https://thehill.com/homenews/house/494401-house-passes-484b-coronavirus-relief-package)\]
+
+### Subcommittee On The Coronavirus Crisis
+
+**2020: Fitzpatrick Voted Against Establishing A Select Subcommittee On
+The Coronavirus Crisis As A Part Of The House Oversight And Reform
+Committee.** In April 2020, Fitzpatrick voted against a resolution that
+would, according to Congressional Quarterly, "establish the Select
+Subcommittee on the Coronavirus Crisis as a part of the House Oversight
+and Reform Committee, to be composed of no more than 12 representatives,
+with no more than five appointed by the minority leader. H Res 935 would
+authorize and direct the subcommittee to conduct a 'full and complete
+investigation' into the coronavirus crisis and federal response to the
+crisis, including on the use of taxpayer funds by federal, state and
+private entities; reports of waste, fraud or other abusive practices;
+implementation and effectiveness of federal law; economic impacts;
+executive branch policies, actions and cooperation with Congress and
+others; and preparedness for response to the crisis. It would also
+provide the subcommittee chair with subpoena and deposition authorities,
+and it would provide \$2 million from House accounts to the Oversight
+and Reform Committee for expenses in the 116th Congress. The
+subcommittee would cease to exist 30 days after issuing a final report
+to Congress." The vote was on adoption of a rule that would provide for
+automatic agreement to a resolution. The House agreed to the resolution
+by a vote of 212-182. \[House Vote 103,
+[4/23/20](http://clerk.house.gov/evs/2020/roll103.xml); Congressional
+Quarterly, [4/23/20](https://plus.cq.com/vote/2020/H/103?2);
+Congressional Actions,
+[H.Res.935](https://www.congress.gov/bill/116th-congress/house-resolution/935/all-actions?q=%7b%22search%22%3A%5B%22h+res+935%22%5D%7d&s=1&r=1)\]
+
+-   **The Panel Was Created To Review The Efficiency, Effectiveness, And
+    Equity Of Funds Provided In The Various Coronavirus Relief
+    Packages.** According to The Hill, "The select panel, which will
+    \[be\] established as an investigative subcommittee of the House
+    Oversight and Reform Committee, will be charged with reviewing the
+    'efficiency, effectiveness, equity and transparency' of how relief
+    funds are allocated; disparate impacts of the coronavirus on
+    different communities based on demographics such as race, age and
+    geographic region; and the Trump administration's deliberations and
+    communications related to the crisis." \[The Hill,
+    [4/23/20](https://thehill.com/homenews/house/494340-house-votes-to-create-select-committee-to-oversee-coronavirus-response)\]
+
+-   **Congressional Republicans Opposed The Bill, Claiming It Was A
+    Political Move To Make President Trump Look Bad.** According to The
+    Hill, "Republicans dismissed the panel as unnecessary, pointing to
+    the existing House committees with jurisdiction over the coronavirus
+    pandemic like the full Oversight committee and the Ways and Means,
+    Financial Services, Education and Labor, and Energy and Commerce
+    committees \[...\] GOP lawmakers also argued the select committee
+    was an attempt to find ways to make the president look bad ahead of
+    the November election \[...\] But Democrats maintained that a crisis
+    of the pandemic's magnitude --- and the trillions of dollars already
+    spent to boost the government's response --- warranted a special
+    oversight arm." \[The Hill,
+    [4/23/20](https://thehill.com/homenews/house/494340-house-votes-to-create-select-committee-to-oversee-coronavirus-response)\]
+
+### Tax Rebates
+
+**2021: Fitzpatrick Voted Against The American Rescue Plan Act Of 2021,
+Which Provided Direct Payments Of \$1,400 To People With Incomes Under
+\$75,000 And \$1,400 For Each Dependent.** In March 2021, Fitzpatrick
+voted against concurring in the Senate amendment to the American Rescue
+Plan Act of 2021 which would, according to Congressional Quarterly,
+"provide an additional tax rebate of \$1,400 for individuals with
+incomes of \$75,000 or less, increased by \$1,400 for each dependent."
+The vote was on concurring in the Senate amendment to the bill. The
+House concurred with the Senate by a vote of 220-211 and sent to the
+President and ultimately the bill became law. \[House Vote 72,
+[3/10/21](http://clerk.house.gov/evs/2021/roll072.xml); Congressional
+Quarterly, [3/10/21](https://plus.cq.com/vote/2021/H/72?24);
+Congressional Actions, [H.R.
+1319](https://www.congress.gov/bill/117th-congress/house-bill/1319/actions)\]
+
+-   **Under The American Rescue Plan, Individuals With An Income Less
+    Than \$75,000 And Couples With A Joint Income Less Than \$150,000
+    Received Tax Rebates Of \$1,400 Per Person.** According to NPR,
+    "Individuals earning up to \$75,000 and couples earning up to
+    \$150,000 will receive the full direct payments of \$1,400 per
+    person." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+-   **Under The Legislation, Individuals Collected An Additional \$1,400
+    Per Each Claimed Dependent.** According to NPR, "Individuals will
+    also receive an additional \$1,400 payment for each dependent
+    claimed on their tax returns." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+**2020: Fitzpatrick Voted For The FY 2021 Omnibus Appropriations And
+Coronavirus Relief, Which Provided Eligible Americans With Direct
+Payments Of \$600.** In December 2020, Fitzpatrick voted for the second
+portion of the FY2021 Omnibus Appropriations and Coronavirus Relief
+package which would, according to Congressional Quarterly, "extend
+through March 14, 2021, federal unemployment compensation benefits of up
+to \$300 per week and provide an additional round of tax rebates of
+\$600 for individuals with incomes of \$75,000 or less, increased by
+\$600 for each dependent child." The vote was on concurring in Senate
+amendment with portion of the amendment. The House agreed to the motion
+by a vote of 359-53 and sent to the President and ultimately became law.
+\[House Vote 251,
+[12/21/20](http://clerk.house.gov/evs/2020/roll251.xml); Congressional
+Quarterly, [12/21/20](https://plus.cq.com/vote/2020/H/251?0);
+Congressional Actions, [H.R.
+133](https://www.congress.gov/bill/116th-congress/house-bill/133/actions)\]
+
+-   **While The CARES Act From Spring 2020 Provided Americans With
+    \$1,200 In Pandemic Relief, The Coronavirus Relief Package In The
+    Omnibus Appropriation Halved The Payments To \$600.** According to
+    CBS News, "The \$600 checks are half as generous as the \$1,200
+    payments distributed under the CARES Act in the spring. Americans
+    who made less than \$75,000 in 2019 are eligible for the full \$600,
+    with the payments tapering off for those who made up to \$100,000."
+    \[CBS News,
+    [12/22/20](https://www.cbsnews.com/news/covid-relief-bill-government-funding-passes-congress/)\]
+
+-   **The Coronavirus Relief Package Included \$600 Payments To Eligible
+    Americans, Enhanced Federal Unemployment Benefits Of \$300 Per Week
+    Until March 14, 2021, Included \$284 Billion In Loans To The
+    Paycheck Protection Program To Aid Struggling Businesses, And
+    Extended The Eviction Moratorium Until January 31, 2021.** According
+    To CBS News, "The aid package included \$600 in direct payments to
+    most Americans, \$300 per week in enhanced federal unemployment
+    benefits until March 14, and more than \$284 billion in loans for
+    businesses through the popular Paycheck Protection Program. The
+    relief measure also extends the moratorium on evictions until
+    January 31." \[CBS News,
+    [12/22/20](https://www.cbsnews.com/news/covid-relief-bill-government-funding-passes-congress/)\]
+
+### Testing Funding
+
+**2020: Fitzpatrick Voted For The Paycheck Protection Program And Health
+Care Enhancement Act, Congress's Fourth Coronavirus Response Bill, Which
+Provided An Additional \$25 Billion In Funding For Testing.** In April
+2020, Fitzpatrick voted for the Paycheck Protection Program and Health
+Care Enhancement Act as part of Congress's response to the Coronavirus
+pandemic that would, according to Congressional Quarterly, "It would
+provide \$25 billion to the fund for expenses associated with developing
+and administering COVID-19 tests, including \$11 billion for state and
+local governments to manufacture, provide, and analyze such tests." The
+vote was on a motion to concur. The House passed the bill by a vote of
+388-5 and the bill was then signed into law by the President. \[House
+Vote 104, [4/23/20](http://clerk.house.gov/evs/2020/roll104.xml);
+Congressional Quarterly,
+[4/23/20](https://plus.cq.com/vote/2020/H/104?3); Congressional Actions,
+[H.R.266](https://www.congress.gov/bill/116th-congress/house-bill/266/all-actions?q=%7b%22search%22%3A%5B%22hr+266%22%5D%7d&s=1&r=1)\]
+
+-   **Health Experts Said That Expanded Testing Is Critical For The U.S.
+    To Reopen The Economy.** According to Congressional Quarterly,
+    "Health experts say that for states to responsibly lift business
+    restrictions and 'reopen' the U.S. economy, it is critical to test
+    the population to understand the extent of infections so infected
+    individuals can be isolated and those with whom they interacted can
+    be traced. Such information also is needed to give the public
+    confidence it can safely return to work and resume other activities
+    \[...\] Such testing is needed especially for frontline workers who
+    may have been exposed to the virus, such as health care providers,
+    police and fire fighters, transit workers and grocery clerks."
+    \[Congressional Quarterly,
+    [4/22/20](https://jukebox.cq.com/www/graphics/har/2020/04/22/har20200422-5889217-factsheet0422.pdf)\]
+
+-   **The Bill Provided \$11 Billion To States And Localities For
+    Testing, Who Would Be Responsible For Front-Line Testing Of
+    Individuals.** According to Congressional Quarterly, "Under the
+    measure, states and localities would be responsible for the
+    front-line testing of individuals, and would receive at least \$11
+    billion of the total for testing and other activities. In addition
+    to testing for active virus exposure, testing must also be conducted
+    to identify individuals who were infected in the past and who may
+    now have immunity, and funds may also be used for contact tracing of
+    individuals who interacted with infected persons." \[Congressional
+    Quarterly,
+    [4/22/20](https://jukebox.cq.com/www/graphics/har/2020/04/22/har20200422-5889217-factsheet0422.pdf)\]
+
+-   **The Bill Ensured That All States And Tribal Organizations Receive
+    Funding And Provided Additional Funding For States Relative To The
+    Number Of COVID-19 Cases.** According to Congressional Quarterly,
+    "Of the total provided to states, \$4.25 billion would be provided
+    based on the relative numbers of COVID-19 cases, and \$2 billion
+    would be provided according to the existing Public Health Emergency
+    Preparedness formula, which would ensure that every state receives
+    funding. Separately, \$750 million of the total would be provided to
+    tribes, tribal organizations, and urban Indian health organizations
+    in coordination with the Indian Health Service. Prior to receiving
+    funds, states and localities must present plans to HHS within 30
+    days of enactment on how the money will be used for testing, and how
+    test results will guide the easing of community mitigation policies
+    such as social distancing and business closures." \[Congressional
+    Quarterly,
+    [4/22/20](https://jukebox.cq.com/www/graphics/har/2020/04/22/har20200422-5889217-factsheet0422.pdf)\]
+
+-   **Funding Provided In The Bill For The Federal Government Was For
+    Research And Development, National Surveillance And Epidemiology,
+    And National Reporting.** According to Congressional Quarterly, "The
+    federal government generally would be responsible for research and
+    development of more advanced testing and for ensuring the
+    availability of tests and supplies, for national surveillance and
+    epidemiology, and for national reporting on positive diagnoses,
+    hospitalizations and deaths from COVID-19, and for developing a
+    national strategic testing plan. In general, funds could be used for
+    the development, manufacture, procurement and distribution of tests,
+    equipment and supplies, including personal protective equipment for
+    health care workers who administer tests; for development and
+    validation of tests and for epidemiology; for workforce support; for
+    the scaling up of academic, commercial, public health and hospital
+    laboratories; and for the development of testing plans."
+    \[Congressional Quarterly,
+    [4/22/20](https://jukebox.cq.com/www/graphics/har/2020/04/22/har20200422-5889217-factsheet0422.pdf)\]
+
+### Unemployment Compensation
+
+**2021: Fitzpatrick Voted Against The American Rescue Plan Act Of 2021,
+Which Extended Unemployment Payments Of \$300 Per Week Through September
+6, 2021.** In March 2021, Fitzpatrick voted against concurring in the
+Senate amendment to the American Rescue Plan Act of 2021 which would,
+according to Congressional Quarterly, "extend federal unemployment
+compensation benefits of \$300 per week through Sep. 6, 2021." The vote
+was on concurring in the Senate amendment to the bill. The House
+concurred with the Senate by a vote of 220-211 and sent to the President
+and ultimately the bill became law. \[House Vote 72,
+[3/10/21](http://clerk.house.gov/evs/2021/roll072.xml); Congressional
+Quarterly, [3/10/21](https://plus.cq.com/vote/2021/H/72?24);
+Congressional Actions, [H.R.
+1319](https://www.congress.gov/bill/117th-congress/house-bill/1319/actions)\]
+
+-   **The American Rescue Plan Extended The Enhanced Unemployment
+    Payments With An Extra \$300 A Week Until Early September 2021 And
+    Recipients Would Be Able To Receive A Tax Break On Those Payments.**
+    According to The Washington Post, "Millions of Americans who were
+    set to lose unemployment benefits in a matter of days now will
+    received continued, enhanced federal payments of an extra \$300 each
+    week until early September. Many workers who collect unemployment
+    also are set to receive a tax break on those benefits." \[The
+    Washington Post,
+    [3/10/21](https://www.washingtonpost.com/us-policy/2021/03/10/house-stimulus-biden-covid-relief-checks/)\]
+
+-   **Despite Efforts To Raise Unemployment Payments To \$400, The
+    American Rescue Plan Kept Payments At \$300 Per Week Through
+    September 6, 2021, And The First \$10,200 In Unemployment
+    Compensation Were Nontaxable For Incomes Less Than \$150,000.**
+    According to NPR, "Under the Senate version that Biden signed,
+    federal unemployment insurance payments will remain at \$300 per
+    week --- down from \$400 per week in the earlier package passed by
+    the House. The benefits will extend through Sept. 6. The Senate's
+    bill makes the first \$10,200 in unemployment payments nontaxable
+    for households with incomes under \$150,000." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+**2020: Fitzpatrick Voted For The FY 2021 Omnibus Appropriations And
+Coronavirus Relief, Which Extended Unemployment Benefits Through March
+14, 2021 With Payments Up To \$300 Per Week.** In December 2020,
+Fitzpatrick voted for the second portion of the FY2021 Omnibus
+Appropriations and Coronavirus Relief package which would, according to
+Congressional Quarterly, "extend through March 14, 2021, federal
+unemployment compensation benefits of up to \$300 per week and provide
+an additional round of tax rebates of \$600 for individuals with incomes
+of \$75,000 or less, increased by \$600 for each dependent child." The
+vote was on concurring in Senate amendment with portion of the
+amendment. The House agreed to the motion by a vote of 359-53 and sent
+to the President and ultimately became law. \[House Vote 251,
+[12/21/20](http://clerk.house.gov/evs/2020/roll251.xml); Congressional
+Quarterly, [12/21/20](https://plus.cq.com/vote/2020/H/251?0);
+Congressional Actions, [H.R.
+133](https://www.congress.gov/bill/116th-congress/house-bill/133/actions)\]
+
+-   **The Coronavirus Relief Package Included \$600 Payments To Eligible
+    Americans, Enhanced Federal Unemployment Benefits Of \$300 Per Week
+    Until March 14, 2021, Included \$284 Billion In Loans To The
+    Paycheck Protection Program To Aid Struggling Businesses, And
+    Extended The Eviction Moratorium Until January 31, 2021.** According
+    To CBS News, "The aid package included \$600 in direct payments to
+    most Americans, \$300 per week in enhanced federal unemployment
+    benefits until March 14, and more than \$284 billion in loans for
+    businesses through the popular Paycheck Protection Program. The
+    relief measure also extends the moratorium on evictions until
+    January 31." \[CBS News,
+    [12/22/20](https://www.cbsnews.com/news/covid-relief-bill-government-funding-passes-congress/)\]

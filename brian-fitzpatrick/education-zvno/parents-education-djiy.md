@@ -1,0 +1,307 @@
+---
+title: Parents' Education Oversight
+description: 
+published: true
+date: 2025-09-22T20:49:04.894Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:48:59.190Z
+---
+
+# Parents' Education Oversight
+
+### Fair, Equitable And High-Quality Education
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Replaced
+The Parents Bill Of Rights Act With Language That Outlined Current
+Parental Rights And Declared That Students Deserved Fair, Equitable And
+High-Quality Education That Were Free From Censorship And
+Discrimination.** In March 2023, according to Congressional Quarterly,
+Fitzpatrick voted against an amendment to the Parents Bill of Rights
+Act, which would "replace the text of the bill with congressional
+findings language that outlines the rights parents have under current
+law with respect to their children\'s education. It also would add
+language to express the sense of Congress that students deserve 'a fair,
+equitable and high-quality education' that is free from censorship and
+in a learning environment free from discrimination." The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+203 to 223. \[House Vote 150,
+[3/23/23](http://clerk.house.gov/evs/2023/roll150.xml); Congressional
+Quarterly, [3/23/23](https://plus.cq.com/vote/2023/H/150?14);
+Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions);
+Congressional Actions, [H.Amdt.
+115](https://www.congress.gov/amendment/118th-congress/house-amendment/115/actions?s=a&r=10)\]
+
+### Open Enrollment For Title I And Title II Students
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Required
+Title I And Title II Schools To Hold Annual Open Enrollment Periods To
+Allow Students To Apply To Other Schools.** In March 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Parents Bill of Rights Act, which would "require Title I and II local
+education agencies to hold annual open enrollment periods during which
+students may apply to attend other schools served by the agency,
+including if they live outside the geographic region served by those
+schools. It would require agencies to consider and approve or disapprove
+such applications 'within a reasonable time.'" The vote was on the
+adoption of an amendment. The House rejected the amendment by a vote of
+89 to 338. \[House Vote 152,
+[3/23/23](http://clerk.house.gov/evs/2023/roll152.xml); Congressional
+Quarterly, [3/23/23](https://plus.cq.com/vote/2023/H/152?3);
+Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions);
+Congressional Actions, [H.Amdt.
+117](https://www.congress.gov/amendment/118th-congress/house-amendment/117/actions?s=a&r=8)\]
+
+### Parental Consent For Celebrations
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have
+Established Parental Notification Of Non-Curriculum Celebratory
+Initiatives Or Events And Required Parental Consent For Their Children
+To Participate In Such Events.** In March 2023, according to
+Congressional Quarterly, Fitzpatrick voted against an amendment to the
+Parents Bill of Rights Act, which would "require schools to inform
+parents of any non-curriculum-based celebratory initiatives or events
+organized by the school for students, other than those related to
+birthdays or federal holidays and provide notice that parents must grant
+written or electronic permission for their child to participate in or
+attend such events." The vote was on the adoption of an amendment. The
+House rejected the amendment by a vote of 107 to 317. \[House Vote 157,
+[3/24/23](http://clerk.house.gov/evs/2023/roll157.xml); Congressional
+Quarterly, [3/24/23](https://plus.cq.com/vote/2023/H/157?3);
+Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions);
+Congressional Actions, [H.Amdt.
+126](https://www.congress.gov/amendment/118th-congress/house-amendment/126/actions?s=a&r=3)\]
+
+### Parental Review Of Teacher Professional Development Materials
+
+**2023: Fitzpatrick Voted For An Amendment That Would Have Removed
+Provisions That Required Schools To Allow Parents To Review Teacher
+Professional Development Materials At Their Children's School.** In
+March 2023, according to Congressional Quarterly, Fitzpatrick voted for
+an amendment to the Parents Bill of Rights Act, which would "strike
+provisions requiring schools to allow parents to review teacher
+professional development materials at their child\'s school." The vote
+was on the adoption of an amendment. The House rejected the amendment by
+a vote of 203 to 217. \[House Vote 155,
+[3/24/23](http://clerk.house.gov/evs/2023/roll155.xml); Congressional
+Quarterly, [3/24/23](https://plus.cq.com/vote/2023/H/155?7);
+Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions);
+Congressional Actions, [H.Amdt.
+122](https://www.congress.gov/amendment/118th-congress/house-amendment/122/actions?s=a&r=5)\]
+
+### Parents Bill Of Rights Act
+
+**2023: Fitzpatrick Voted For The Parents Bill Of Rights Act, Which
+Would Require Schools That Receive Federal Funding To Obtain Parental
+Consent Before Conducting Non-Emergency Medical Exams Or Changing A
+Student's Gender Markers, Allow Parents To Inspect Instructional
+Materials, And Require Schools To Report To Parents If Their Child Goes
+By Different Pronouns Or Names.** In March 2023, according to
+Congressional Quarterly, Fitzpatrick voted for the Parents Bill of
+Rights Act, which would "establish various requirements for public
+elementary and secondary schools to provide parents with information and
+certain rights regarding their children's education. It would generally
+require schools that receive federal funding to obtain parental consent
+before providing a non-emergency medical screening or examination or
+before changing a child's gender markers or sex-based accommodations. It
+would require schools to allow parents to inspect and provide feedback
+on all instructional and reading materials used in evaluations or
+available to students through school libraries, as well as professional
+development materials for teachers. It would prohibit schools from
+acting as agents of parents to consent to the use of online technology
+or the administration of vaccinations, and from selling student
+information for commercial gain. To increase transparency at Title I
+schools, the bill would generally require school districts to publicly
+disseminate curricula for each grade, as well as notices of any changes
+to the state's academic standards; include detailed budget information
+for each school in their annual report cards; and allow parents to meet
+with teachers at least twice a year, address the school board and review
+professional development materials. It would require local educational
+agencies to ensure that Title I schools provide and inform parents of
+their rights to receive information regarding their child's education,
+including if a school changes their child's gender markers or sex-based
+accommodations, the number of school counselors in their child\'s
+school, if their child receives mental health treatment or brings a
+weapon to school, all enrollment and transfer options, planned outside
+speakers at school events, violent activity on school grounds,
+elimination of gifted and talented programs, and notification if a
+student is not grade-level proficient in reading at the end of third
+grade. Among other provisions, the bill would specify that it does not
+authorize federal involvement in curriculum or school personnel
+decisions and does not authorize parents to prohibit students who are
+not their children from accessing books or reading materials available
+in a school\'s library. It would express the sense of Congress that
+public school students should have access to broadband and opportunities
+to learn the history of the Holocaust and anti-Semitism, and that
+parents have a constitutional right to 'direct the education of their
+children.'" The vote was on passage. The House passed the bill by a vote
+of 213 to 208, thus the bill was sent to the Senate. \[House Vote 161,
+[3/24/23](http://clerk.house.gov/evs/2023/roll161.xml); Congressional
+Quarterly, [3/24/23](https://plus.cq.com/vote/2023/H/161?77);
+Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions)\]
+
+-   **The Bill Would Mandate For Local Schools To Grant Greater Parental
+    Oversight Over Education.** According to Congressional Quarterly,
+    "House Republicans on Friday passed a bill that would mandate local
+    school systems give parents greater oversight over education, making
+    good on a 2022 campaign pledge by Speaker Kevin McCarthy and
+    providing fodder for a 2024 campaign battle over public schools."
+    \[Congressional Quarterly,
+    [3/24/23](https://plus.cq.com/doc/news-7697090?80)\]
+
+-   **The Bill Would Affirm A Parent's Right To Speak To Local School
+    Boards And Require Education Officials To Provide Barents With Book
+    Lists And Instructional Materials, Online Budgetary Information And
+    Alerts About Violence Instances.** According to Congressional
+    Quarterly, "The measure (HR 5), passed 213-208, is unlikely to be
+    considered in the Democrat-controlled Senate. It would affirm a
+    parent's right to address the local school board and would require
+    education officials to provide parents with lists of books and other
+    curriculum materials, online budgetary information and alerts about
+    incidents of violence at their child's school." \[Congressional
+    Quarterly, [3/24/23](https://plus.cq.com/doc/news-7697090?80)\]
+
+-   **The Bill Would Require Schools To Notify Parents If Their Child
+    Uses A Different Name Or Pronoun During School.** According to
+    Congressional Quarterly, "Schools also would have to notify parents
+    if their child uses a different name or pronoun at school."
+    \[Congressional Quarterly,
+    [3/24/23](https://plus.cq.com/doc/news-7697090?80)\]
+
+-   **Democrats Dubbed The Bill As The "Politics Over Parents Act" And
+    Argued That Parents Already Have The Rights That The Bill Supposedly
+    Grants To Parents.** According to Congressional Quarterly,
+    "Democrats dismissed the proposal as a gimmick and dubbed it the
+    'Politics Over Parents Act.' They say parents already have many of
+    the rights stipulated by the bill." \[Congressional Quarterly,
+    [3/24/23](https://plus.cq.com/doc/news-7697090?80)\]
+
+-   **Some Republicans Recognized The Conflicts Imposed By The Bill's
+    Expansion Of Oversight Duties Since Many Advocate For The
+    Elimination Of The Department Of Education.** According to
+    Congressional Quarterly, "Some Republicans acknowledged conflicted
+    feelings about the bill, which would expand the oversight
+    responsibilities of the Department of Education, an agency
+    conservatives have been pushing to eliminate for years."
+    \[Congressional Quarterly,
+    [3/24/23](https://plus.cq.com/doc/news-7697090?80)\]
+
+-   **House Democrats Argued The Bill Could Affect LGBTQ Students By
+    Requiring Schools To Report Transgender Students Who May Have No
+    Come Out To Their Families.** According to Congressional Quarterly,
+    "House Democrats said the bill could harm LGBTQ youth by requiring
+    schools to report transgender students who may not be ready to
+    disclose their gender identity to their families." \[Congressional
+    Quarterly, [3/24/23](https://plus.cq.com/doc/news-7697090?80)\]
+
+-   **Republicans Claim That The Biden Administration Target Parents And
+    Used Law Enforcement To Suppress Their Rights Involving Their
+    Children's Education.** According to Congressional Quarterly, "GOP
+    leaders say their bill was motivated partly by an October 2021 memo
+    from Attorney General Merrick B. Garland regarding threats against
+    school administrators, board of education members, teachers and
+    staff. GOP lawmakers allege that the Biden administration targeted
+    parents and used law enforcement to infringe on their rights."
+    \[Congressional Quarterly,
+    [3/24/23](https://plus.cq.com/doc/news-7697090?80)\]
+
+-   **Republican Officials Claimed The Biden Administration Of Calling
+    Parents Who Attended School Board Meetings As "Domestic
+    Terrorists."** According to Congressional Quarterly, "Republican
+    officials, including McCarthy, R-Calif., have repeatedly accused the
+    administration of labeling parents who attend school board meetings
+    as 'domestic terrorists,' an allegation that The Associated Press
+    and other fact-checkers say is unfounded." \[Congressional
+    Quarterly, [3/24/23](https://plus.cq.com/doc/news-7697090?80)\]
+
+**2023: Fitzpatrick Effectively Voted For The Parents Bill Of Rights
+Act.** In March 2023, according to Congressional Quarterly, Fitzpatrick
+voted against the "motion to recommit the bill to the House Education
+and Workforce Committee." The vote was on a motion to recommit. The
+House rejected the motion by a vote of 203 to 218, thus the House voted
+on passage subsequently. \[House Vote 160,
+[3/24/23](http://clerk.house.gov/evs/2023/roll160.xml); Congressional
+Quarterly, [3/24/23](https://plus.cq.com/vote/2023/H/160?5);
+Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted For The Parents Bill Of Rights
+Act.** In March 2023, according to Congressional Quarterly, Fitzpatrick
+voted for the "adoption of the rule (H Res 241) that would provide for
+House floor consideration of the bill (HR 5) establishing requirements
+for schools to provide parents with information and certain rights
+regarding their children's education. The rule would provide for up to
+two hours of general debate on the bill and make in order floor
+consideration of 22 amendments." The vote was on the adoption of the
+rule. The House adopted the rule by a vote of 218 to 205. \[House Vote
+147, [3/23/23](http://clerk.house.gov/evs/2023/roll147.xml);
+Congressional Quarterly,
+[3/23/23](https://plus.cq.com/vote/2023/H/147?12); Congressional
+Actions, [H.Res.
+241](https://www.congress.gov/bill/118th-congress/house-resolution/241/all-actions);
+Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted For The Parents Bill Of Rights
+Act.** In March 2023, according to Congressional Quarterly, Fitzpatrick
+voted for the "motion to order the previous question (thus ending debate
+and possibility of amendment) on the rule (H Res 241) that would provide
+for House floor consideration of the bill (HR 5) establishing
+requirements for schools to provide parents with information and certain
+rights regarding their children's education. The rule would provide for
+up to two hours of general debate on the bill and make in order floor
+consideration of 22 amendments." The vote was on a motion order the
+previous question. The House agreed to the motion by a vote of 219 to
+204. \[House Vote 146,
+[3/23/23](http://clerk.house.gov/evs/2023/roll146.xml); Congressional
+Quarterly, [3/23/23](https://plus.cq.com/vote/2023/H/146?11);
+Congressional Actions, [H.Res.
+241](https://www.congress.gov/bill/118th-congress/house-resolution/241/all-actions);
+Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions)\]
+
+### Private Right Of Action
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Created A
+Private Right Of Action For Parents If Schools Failed To Comply With The
+Parental Bill Of Rights Act.** In March 2023, according to Congressional
+Quarterly, Fitzpatrick voted against an amendment to the Parents Bill of
+Rights Act, which would "create a private right of action for parents if
+schools do not comply with the bill\'s requirements. It would set a
+statute of limitations of 30 days and allow courts to grant injunctive
+relief or compensation for damages, including attorneys\' fees." The
+vote was on the adoption of an amendment. The House rejected the
+amendment by a vote of 61 to 365. \[House Vote 151,
+[3/23/23](http://clerk.house.gov/evs/2023/roll151.xml); Congressional
+Quarterly, 3/23/23; Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions);
+Congressional Actions, [H.Amdt.
+116](https://www.congress.gov/amendment/118th-congress/house-amendment/116/actions?s=a&r=9)\]
+
+### Title I Fund Mobility
+
+**2023: Fitzpatrick Voted Against An Amendment That Would Have Allowed
+Title I Funds To "Follow A Student" To The School They Attend, Including
+Private, Public Or Home Schools, And Allow Funds To Be Used For
+Education Materials, Expenses, Therapies, And Extracurricular
+Activities.** In March 2023, according to Congressional Quarterly,
+Fitzpatrick voted against an amendment to the Parents Bill of Rights
+Act, which would "allow Title I funds to 'follow a student' to the
+school they attend \-- including in-person or remote public, private or
+home schools \-- and permit the funds to be used for educational and
+instructional materials, tutoring, private school tuition,
+extracurricular activities, testing expenses and educational therapies
+for students with disabilities." The vote was on the adoption of an
+amendment. The House rejected the amendment by a vote of 113 to 311.
+\[House Vote 158,
+[3/24/23](http://clerk.house.gov/evs/2023/roll158.xml); Congressional
+Quarterly, [3/24/23](https://plus.cq.com/vote/2023/H/158?3);
+Congressional Actions, [H.R.
+5](https://www.congress.gov/bill/118th-congress/house-bill/5/all-actions);
+Congressional Actions, [H.Amdt.
+128](https://www.congress.gov/amendment/118th-congress/house-amendment/128/actions?s=a&r=2)\]

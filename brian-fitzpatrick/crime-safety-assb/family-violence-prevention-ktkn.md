@@ -1,0 +1,299 @@
+---
+title: Family Violence Prevention
+description: 
+published: true
+date: 2025-09-22T20:35:57.587Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:35:53.273Z
+---
+
+# Family Violence Prevention
+
+**2021: Fitzpatrick Voted For Reauthorizing The Family Violence
+Prevention And Services Improvement Act Of 2021 With \$328 Million
+Annually Through FY 2026 For New And Existing Programs.** In October
+2021, Fitzpatrick voted for the Family Violence Prevention and Services
+Improvement Act of 2021 which would, according to Congressional
+Quarterly, "reauthorize and modify programs to address domestic, dating
+and family violence under the Family Violence Prevention and Services
+Act. It would authorize \$328 million annually through fiscal 2026 for
+new and existing programs, including \$26 million for grants to state
+coalitions to support local and culturally specific violence prevention
+efforts; \$14 million for the National Domestic Violence Hotline and \$4
+million for a new National Native American Domestic Violence Hotline;
+\$10 million for new grants to organizations serving underserved
+populations; and \$3.5 million for research and evaluation activities."
+The vote was on passage. The House passed the bill by a vote of 228-200.
+\[House Vote 336,
+[10/26/21](http://clerk.house.gov/evs/2021/roll336.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/336?4);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Community-Based Legal Service Organizations
+
+**2021: Fitzpatrick Voted For An Amendment That Would Expand Eligibility
+Of Grants For Community-Based Legal Service Organizations That Support
+Domestic, Dating And Family Violence Victims From Disadvantaged
+Communities.** In October 2021, Fitzpatrick voted for en bloc amendments
+no. 1 to the Family Violence Prevention and Services Improvement Act of
+2021 which would, according to Congressional Quarterly, "make
+community-based legal service organizations that help victims of
+domestic, dating and family violence in underserved populations eligible
+for grants to expand community-based prevention efforts under the bill."
+The vote was on the adoption of amendments. The House adopted the
+amendments by a vote of 238-189. \[House Vote 334,
+[10/26/21](http://clerk.house.gov/evs/2021/roll334.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/334?4);
+Congressional Actions, [H.Amdt.
+134](https://www.congress.gov/amendment/117th-congress/house-amendment/134/actions?r=2&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Definition Of Children
+
+**2021: Fitzpatrick Voted For An Amendment That Would Specify That
+Children Are Individuals Under The Age Of 18, Including Emanciapted
+Minors, In The Bill.** In October 2021, Fitzpatrick voted for en bloc
+amendments no. 1 to the Family Violence Prevention and Services
+Improvement Act of 2021 which would, according to Congressional
+Quarterly, "modify the bill\'s definition of 'child' to include any
+individual younger than 18 years old, including emancipated minors." The
+vote was on the adoption of amendments. The House adopted the amendments
+by a vote of 238-189. \[House Vote 334,
+[10/26/21](http://clerk.house.gov/evs/2021/roll334.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/334?4);
+Congressional Actions, [H.Amdt.
+134](https://www.congress.gov/amendment/117th-congress/house-amendment/134/actions?r=2&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Government Accountability Office Report
+
+**2021: Fitzpatrick Voted For Requiring A Report To Analyze The
+Accessibility Of Family Prevention Programs For Survivors To Support
+Their Financial Stability.** In October 2021, Fitzpatrick voted for the
+Family Violence Prevention and Services Improvement Act of 2021 which
+would, according to Congressional Quarterly, "require the Government
+Accountability Office to conduct a study and issue a report, within two
+years of enactment, on federal programs for violence survivors,
+including to analyze gaps in such programs and steps taken to ensure
+survivors have access to programs that support their financial
+stability." The vote was on passage. The House passed the bill by a vote
+of 228-200. \[House Vote 336,
+[10/26/21](http://clerk.house.gov/evs/2021/roll336.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/336?4);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+**2021: Fitzpatrick Voted For An Amendment That Would Require The
+Government Accountability Office To Examine The National And Special
+Issue Resource Centers On The Effectiveness Of Grant Recipients.** In
+October 2021, Fitzpatrick voted for en bloc amendments no. 2 to the
+Family Violence Prevention and Services Improvement Act of 2021 which
+would, according to Congressional Quarterly, "require the Government
+Accountability Office to review national and special issue resource
+centers and report to Congress on the effectiveness of resource center
+grant recipients." The vote was on the adoption of amendments. The House
+rejected the amendments by a vote of 175-250. \[House Vote 335,
+[10/26/21](http://clerk.house.gov/evs/2021/roll335.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/335?3);
+Congressional Actions, [H.Amdt.
+135](https://www.congress.gov/amendment/117th-congress/house-amendment/135/actions?r=1&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+**2021: Fitzpatrick Voted For An Amendment That Would Require A Report
+On Outreach Efforts To Racial And Ethnic Minorities, Disabled
+Individuals, Tribal Populations, And Geographically-Isolated Individuals
+In Order To Determine Increased Accessibility To Domestic, Dating And
+Family Violence Services.** In October 2021, Fitzpatrick voted for en
+bloc amendments no. 1 to the Family Violence Prevention and Services
+Improvement Act of 2021 which would, according to Congressional
+Quarterly, "require the Government Accountability Office to include in a
+report to Congress required by the bill information on outreach efforts
+to racial and ethnic minorities, individuals with disabilities, tribal
+populations and individuals who are geographically isolated to determine
+ways to increase the availability and ease of access of such groups to
+domestic, dating and family violence services." The vote was on the
+adoption of amendments. The House adopted the amendments by a vote of
+238-189. \[House Vote 334,
+[10/26/21](http://clerk.house.gov/evs/2021/roll334.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/334?4);
+Congressional Actions, [H.Amdt.
+134](https://www.congress.gov/amendment/117th-congress/house-amendment/134/actions?r=2&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Housing And Shelter Services
+
+**2021: Fitzpatrick Voted For An Amendment That Would Add Housing And
+Shelter Services To Services Provided By State Domestic Violence
+Coalitions Who Would Receive Grants.** In October 2021, Fitzpatrick
+voted for en bloc amendments no. 1 to the Family Violence Prevention and
+Services Improvement Act of 2021 which would, according to Congressional
+Quarterly, "add housing and shelter services to the list of services to
+be provided by state domestic violence coalitions receiving grants under
+the bill." The vote was on the adoption of amendments. The House adopted
+the amendments by a vote of 238-189. \[House Vote 334,
+[10/26/21](http://clerk.house.gov/evs/2021/roll334.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/334?4);
+Congressional Actions, [H.Amdt.
+134](https://www.congress.gov/amendment/117th-congress/house-amendment/134/actions?r=2&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Mental Health And Substance Abuse Treatment Providers
+
+**2021: Fitzpatrick Voted For An Amendment That Would Add Mental Health
+And Substance Abuse Treatment Providers To The List Of Which Domestic
+Violence Coalitions May Collaborate With To Be Eligible For A
+Cooperative Agreement With Health And Human Services.** In October 2021,
+Fitzpatrick voted for en bloc amendments no. 1 to the Family Violence
+Prevention and Services Improvement Act of 2021 which would, according
+to Congressional Quarterly, "add mental health and substance use
+disorder treatment providers to the list of local community
+representatives with which domestic violence coalitions can partner in
+order to be eligible for a cooperative agreement with the Health and
+Human Services Department to implement and evaluate local and culturally
+specific violence prevention strategies." The vote was on the adoption
+of amendments. The House adopted the amendments by a vote of 238-189.
+\[House Vote 334,
+[10/26/21](http://clerk.house.gov/evs/2021/roll334.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/334?4);
+Congressional Actions, [H.Amdt.
+134](https://www.congress.gov/amendment/117th-congress/house-amendment/134/actions?r=2&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Native Hawaiian Resource Center
+
+**2021: Fitzpatrick Voted For An Amendment That Would Establish A Native
+Hawaiian Resource Center To Support Responses To Domestic Dating And
+Family Violence.** In October 2021, Fitzpatrick voted for en bloc
+amendments no. 1 to the Family Violence Prevention and Services
+Improvement Act of 2021 which would, according to Congressional
+Quarterly, "establish a Native Hawaiian resource center to enhance the
+capacity of Native Hawaiian organizations to respond to domestic, dating
+and family violence, including coordinating projects and providing
+comprehensive community education." The vote was on the adoption of
+amendments. The House adopted the amendments by a vote of 238-189.
+\[House Vote 334,
+[10/26/21](http://clerk.house.gov/evs/2021/roll334.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/334?4);
+Congressional Actions, [H.Amdt.
+134](https://www.congress.gov/amendment/117th-congress/house-amendment/134/actions?r=2&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Prohibiting Funds For Abortion Services
+
+**2021: Fitzpatrick Voted For An Amendment That Would Prohibit Usage Of
+Funds For Abortion Services.** In October 2021, Fitzpatrick voted for en
+bloc amendments no. 2 to the Family Violence Prevention and Services
+Improvement Act of 2021 which would, according to Congressional
+Quarterly, "specify that the bill would not authorize payments for
+abortion services or referrals for such services." The vote was on the
+adoption of amendments. The House rejected the amendments by a vote of
+175-250. \[House Vote 335,
+[10/26/21](http://clerk.house.gov/evs/2021/roll335.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/335?3);
+Congressional Actions, [H.Amdt.
+135](https://www.congress.gov/amendment/117th-congress/house-amendment/135/actions?r=1&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Prohibiting Sexual Orientation And Gender Identity Discrimination
+
+**2021: Fitzpatrick Voted For Prohibiting Discrimination Based On Sexual
+Orientation And Gender Identity In Family Violence Prevention
+Programs.** In October 2021, Fitzpatrick voted for the Family Violence
+Prevention and Services Improvement Act of 2021 which would, according
+to Congressional Quarterly, "prohibit discrimination based on sexual
+orientation or gender identity in programs funded by state formula
+grants." The vote was on passage. The House passed the bill by a vote of
+228-200. \[House Vote 336,
+[10/26/21](http://clerk.house.gov/evs/2021/roll336.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/336?4);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Reauthorizing The Family Violence Prevention And Services Act
+
+**2021: Fitzpatrick Voted For An Amendment That Would Reauthorize The
+Family Violence Prevention And Services Act At \$270 Million Annually,
+Instead Of \$328 Million, Through FY 2026.** In October 2021,
+Fitzpatrick voted for en bloc amendments no. 2 to the Family Violence
+Prevention and Services Improvement Act of 2021 which would, according
+to Congressional Quarterly, "replace the text of the bill with language
+that would reauthorize Family Violence Prevention and Services Act
+programs at \$270 million annually through fiscal 2026." The vote was on
+the adoption of amendments. The House rejected the amendments by a vote
+of 175-250. \[House Vote 335,
+[10/26/21](http://clerk.house.gov/evs/2021/roll335.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/335?3);
+Congressional Actions, [H.Amdt.
+135](https://www.congress.gov/amendment/117th-congress/house-amendment/135/actions?r=1&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Reinstating One-To-Five Match Requirement
+
+**2021: Fitzpatrick Voted For An Amendment That Would Reinstate The
+One-To-Five State Match Requirement For States Receiving Aid To Address
+Domestic, Dating And Family Violence.** In October 2021, Fitzpatrick
+voted for en bloc amendments no. 2 to the Family Violence Prevention and
+Services Improvement Act of 2021 which would, according to Congressional
+Quarterly, "reinstate the one-to-five state match requirement for
+funding received by states through state formula grants to address
+domestic, dating and family violence." The vote was on the adoption of
+amendments. The House rejected the amendments by a vote of 175-250.
+\[House Vote 335,
+[10/26/21](http://clerk.house.gov/evs/2021/roll335.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/335?3);
+Congressional Actions, [H.Amdt.
+135](https://www.congress.gov/amendment/117th-congress/house-amendment/135/actions?r=1&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Reports On Performance
+
+**2021: Fitzpatrick Voted For An Amendment That Would Require Biennial
+Health And human Services Reports To Include Information On Performance
+Of Grant Recipients And To Avoid Duplicative Funding Usages.** In
+October 2021, Fitzpatrick voted for en bloc amendments no. 2 to the
+Family Violence Prevention and Services Improvement Act of 2021 which
+would, according to Congressional Quarterly, "add requirements for a
+biennial HHS report on funded activities and effectiveness of FVPSA
+programs, including to require information on grant recipient
+performance reports and avoiding uses of funding that are duplicative
+with other federal or state funds." The vote was on the adoption of
+amendments. The House rejected the amendments by a vote of 175-250.
+\[House Vote 335,
+[10/26/21](http://clerk.house.gov/evs/2021/roll335.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/335?3);
+Congressional Actions, [H.Amdt.
+135](https://www.congress.gov/amendment/117th-congress/house-amendment/135/actions?r=1&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]
+
+### Special Issue Resource Centers
+
+**2021: Fitzpatrick Voted For An Amendment That Would Establish A
+Special Issue Resource Center To Target Specific Areas Of Domestic
+Violence Intervention And Prevention Before Awarding Any Grants.** In
+October 2021, Fitzpatrick voted for en bloc amendments no. 2 to the
+Family Violence Prevention and Services Improvement Act of 2021 which
+would, according to Congressional Quarterly, "require the Health and
+Human Services Department to notify Congress at least 120 days before
+awarding any grants to establish a special issue resource center to
+address a specific area of domestic violence intervention and
+prevention." The vote was on the adoption of amendments. The House
+rejected the amendments by a vote of 175-250. \[House Vote 335,
+[10/26/21](http://clerk.house.gov/evs/2021/roll335.xml); Congressional
+Quarterly, [10/26/21](https://plus.cq.com/vote/2021/H/335?3);
+Congressional Actions, [H.Amdt.
+135](https://www.congress.gov/amendment/117th-congress/house-amendment/135/actions?r=1&s=a);
+Congressional Actions, [H.R.
+2119](https://www.congress.gov/bill/117th-congress/house-bill/2119/actions)\]

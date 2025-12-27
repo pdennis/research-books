@@ -1,0 +1,129 @@
+---
+title: Retirement Plans
+description: 
+published: true
+date: 2025-09-22T20:16:28.269Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:16:24.261Z
+---
+
+# Retirement Plans
+
+### State And Local Retirement Plans
+
+**2017: Fitzpatrick Voted To Disapprove A Rule That Allowed The Creation
+Of Retirement Plans Administered By States For Low Income, Private
+Sector Workers Where Their Employer Does Not Offer A Retirement Plan.**
+In February 2017, Fitzpatrick voted for disapproving a rule that allows
+states to create retirement accounts designed for low income workers.
+"This resolution disapproves the rule issued by the Labor Department on
+Aug. 30, 2016, which exempts state-administered retirement plans for
+workers at private sector businesses and nonprofit entities from certain
+restrictions and requirements under the federal Employee Retirement
+Income Security Act of 1974 (ERISA; PL 93-406). The measure provides
+that the rule (formally known as the Savings Arrangements Established by
+States for Non-Governmental Employees Rule) will have no force or
+effect." The vote was on the resolution. The House agreed to the
+legislation by a vote of 231 to 193. The Senate later passed the
+resolution and President Trump signed it into law. \[House Vote 96,
+[2/15/17](http://clerk.house.gov/evs/2017/roll096.xml); Congressional
+Quarterly, [2/10/17](http://www.cq.com/doc/har-5040651/8?8);
+Congressional Actions, [H. J. Res.
+66](https://www.congress.gov/bill/115th-congress/house-joint-resolution/66/all-actions)\]
+
+-   **The Rule Allowed States To Create Retirement Plans For Low Income,
+    Private Sector Workers Where Their Employer Does Not Offer A
+    Retirement Plan.** According to The Hill, "One of the first
+    high-stakes battles testing the relationship between states and
+    President Donald Trump's administration will hit the House floor
+    Wednesday, as Republicans seek to roll back an Obama-era rule that
+    would allow states to create retirement savings accounts for
+    low-income workers. The House will vote on a resolution offered by
+    Health, Employment, Labor and Pensions Subcommittee Chairman Tim
+    Walberg (R-Mich.) that would roll back a rule allowing states to
+    create retirement plans for private-sector workers whose employers
+    do not offer retirement plans on their own." \[The Hill,
+    [2/15/17](http://thehill.com/homenews/state-watch/319686-congress-takes-aim-at-state-retirement-accounts)\]
+
+-   **Seven States Have Or Are Creating Plans.** According to The Hill,
+    "California created the first such state-run retirement system in
+    2012 and six other states --- Illinois, Connecticut, New Jersey,
+    Maryland, Oregon and Washington --- have taken steps of their own.
+    Oregon plans to begin its program later this year." \[The Hill,
+    [2/15/17](http://thehill.com/homenews/state-watch/319686-congress-takes-aim-at-state-retirement-accounts)\]
+
+-   **California Created A System Where Employees Had A Percentage Of
+    Their Paycheck Deducted; The Investment Was Managed By A
+    Professional, Not Directly By The State.** According to a New York
+    Times Editorial, "In California, for example, participating
+    employees would have a small percentage of pay deducted from their
+    paychecks, unless they opted out. Those amounts would be pooled and
+    managed by investment professionals chosen by the state in a bidding
+    process; the plan would be overseen by a board of government and
+    business leaders appointed by the governor and the Legislature.
+    First, under the plans, states establish the legal framework for
+    deducting contributions from employees' paychecks, but they do not
+    run the plans. Second, state plans do not compete unfairly because
+    mutual funds and other financial firms have not competed for the
+    small-business market where employees without retirement coverage
+    tend to work. If they had, tens of millions of Americans would not
+    be without coverage, and the state plans probably wouldn't be
+    needed." \[New York Times,
+    [2/14/17](https://www.nytimes.com/2017/02/14/opinion/whod-want-to-limit-retirement-plans-house-republicans.html)\]
+
+-   **About Half Of Private Sector Employees Do Not Have An Employer
+    Provided Retirement Plan.** According to a New York Times Editorial,
+    "There is no overstating how unprepared Americans are to retire.
+    Nearly half of private-sector employees --- some 55 million people
+    --- do not have an employer-provided retirement plan. Most of them
+    are low- to middle-income earners who will end up relying on Social
+    Security for between half and all of their income in retirement."
+    \[New York Times,
+    [2/14/17](https://www.nytimes.com/2017/02/14/opinion/whod-want-to-limit-retirement-plans-house-republicans.html)\]
+
+-   **The Rule Is Opposed By Financial Firms In Part Because State Plans
+    Are Transparent About Their Fees, While 401(K) And Other Plans Are
+    "Are Infamous For Hidden Fees, Excessive Costs And Needless
+    Complexity."** According to a New York Times Editorial, "So why do
+    financial firms object? One reason may be that, by law, state plans
+    are transparent about their fees and operations. In contrast, 401(k)
+    plans and other retirement options are infamous for hidden fees,
+    excessive costs and needless complexity. The industry has taken a
+    lot of flak from policy makers and investor advocates for those high
+    costs, and comparisons with state-based plans will only intensify
+    the unwanted scrutiny." \[New York Times,
+    [2/14/17](https://www.nytimes.com/2017/02/14/opinion/whod-want-to-limit-retirement-plans-house-republicans.html)\]
+
+-   **The Chamber Of Commerce And Financial Firms Also Oppose The Rule
+    Because They Believe That Employers Will Stop Offering Retirement
+    Plans.** According to The Hill, "But the U.S. Chamber of Commerce
+    and several financial firms oppose such state-run retirement plans.
+    The Chamber has said state plans will give employers an excuse to
+    end better 401(k) programs for employees. 'Our nation faces
+    difficult retirement challenges, but more government isn't the
+    solution,' Walberg said in a statement. Rep. Francis Rooney
+    (R-Fla.), who sponsored another resolution disapproving of the rule,
+    called it a 'last-minute regulatory loophole' that 'will lead to
+    harmful consequences for both workers and employers.'" \[The Hill,
+    [2/15/17](http://thehill.com/homenews/state-watch/319686-congress-takes-aim-at-state-retirement-accounts)\]
+
+**2017: Fitzpatrick Voted To Disapprove A Rule That Created Retirement
+Plans Administered By Local Governments For Low Income, Private Sector
+Workers Where Their Employer Does Not Offer A Retirement Plan.** In
+February 2017, Fitzpatrick voted for disapproving a rule that allows
+local governments to create retirement accounts designed for low income
+workers. "This resolution disapproves the rule issued by the Labor
+Department on Dec. 20, 2016, that exempts local government-administered
+retirement plans for workers at private sector businesses and nonprofit
+entities from certain restrictions and requirements under the federal
+Employee Retirement Income Security Act of 1974 (ERISA; PL 93-406). The
+measure provides that the rule (formally known as the Savings
+Arrangements Established by Qualified State Political Subdivisions for
+Non-Governmental Employees Rule) will have no force or effect." The vote
+was on the resolution. The House agreed to the legislation by a vote of
+234 to 191. The legislation later became law. \[House Vote 95,
+[2/15/17](http://clerk.house.gov/evs/2017/roll095.xml); Congressional
+Quarterly, [2/10/17](http://www.cq.com/doc/har-5040651/9?10);
+Congressional Actions, [H. J. Res.
+67](https://www.congress.gov/bill/115th-congress/house-joint-resolution/67/all-actions)\]

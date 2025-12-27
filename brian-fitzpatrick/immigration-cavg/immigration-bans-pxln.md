@@ -1,0 +1,178 @@
+---
+title: Immigration Bans
+description: 
+published: true
+date: 2025-09-22T21:22:28.410Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:22:24.513Z
+---
+
+# Immigration Bans
+
+### Religion Bans
+
+**2021: Fitzpatrick Voted To Prohibit Immigration Bans On The Basis Of
+Religion.** In April 2021, Fitzpatrick voted for the National
+Origin-Based Antidiscrimination for Nonimmigrants Act of 2021 which
+would, according to Congressional Quarterly, "explicitly prohibit
+discrimination based on religion with regard to individuals seeking
+immigrant visas, nonimmigrant visas or other entry into the United
+States." The vote was on passage. The House passed the bill by a vote of
+218-208. The Senate did not take substantive action on the bill. \[House
+Vote 127, [4/21/21](http://clerk.house.gov/evs/2021/roll127.xml);
+Congressional Quarterly,
+[4/21/21](https://plus.cq.com/vote/2021/H/127?14); Congressional
+Actions, [H.R.
+1333](https://www.congress.gov/bill/117th-congress/house-bill/1333/actions)\]
+
+-   **Democrats Previously Filed Legislation In The 116th Congress That
+    Addressed Immigration Bans After President Trump Imposed A Muslim
+    Ban.** According to Congressional Quarterly, "the bill is similar to
+    legislation introduced in the 116th Congress put forth in response
+    to President Donald Trump's travel ban against Muslim-majority
+    countries. Although much of the debate on the measure centered on
+    Trump\'s immigration policies, several Democrats argued that
+    reintroducing the measure now that he\'s no longer in office was
+    evidence that the measure is nonpartisan." \[Congressional
+    Quarterly,
+    [4/14/21](https://plus.cq.com/doc/committees-20210414461355?1)\]
+
+-   **After Donald Trump's Previous Travel Bans Targeting
+    Muslim-Majority Countries, H.R. 1333 Would Limit Future Presidents'
+    Power From Prohibiting Foreigner Entry Into The U.S. On The Basis Of
+    Their Religion.** According to Congressional Quarterly, "in response
+    to former President Donald Trump's travel ban against some
+    Muslim-majority nations, the bill would restrict future presidents
+    from barring entry of foreign citizens into the U.S. based on their
+    religion." \[Congressional Quarterly,
+    [4/21/21](https://plus.cq.com/doc/news-6199224?1)\]
+
+-   **The Bill Would Limit Executive Powers To Issue Future Immigration
+    Bans Like The Muslim Ban Former President Trump Issued.** According
+    to The Hill, "The House passed legislation on Wednesday that would
+    limit executive authority to issue future travel bans like the one
+    imposed by former President Trump against several Muslim-majority
+    countries." \[The Hill,
+    [4/21/21](https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban)\]
+
+-   **Republicans Argued The Bill Would Undermine Executive Powers And
+    Instead Called For Action Against The Migrant Surge On The Southern
+    Border.** According to The Hill, "Republicans warned that the
+    legislation would unnecessarily undermine executive authority and
+    called for action to address the current surge of migrants at the
+    U.S.-Mexico border instead." \[The Hill,
+    [4/21/21](https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban)\]
+
+-   **The Bill Would Have Required The Homeland Security And State
+    Departments To Notify And Brief Congress If The President Issues A
+    Temporary Immigration Restriction And To Report Every 30 Days If The
+    Restriction Remains Active.** According to Congressional Quarterly,
+    "require the State and Homeland Security departments to notify
+    Congress prior to the issuance of any such restriction and provide
+    information regarding its justification and planned duration; brief
+    Congress within 48 hours of its issuance; and report Congress every
+    30 days during the restriction on its continued justification and
+    how visa applicants are impacted. It would terminate the
+    restriction, absent intervening congressional action, if the
+    briefing or reports are not provided." \[Congressional Quarterly,
+    [4/21/21](https://plus.cq.com/vote/2021/H/127?14)\]
+
+-   **The Bill Would Require The State And Homeland Security Departments
+    To Consult With Congress And Provide Specific Justification For The
+    Immigration Restrictions And Propose A Time Duration Before Issuing
+    The Restriction.** According to The Hill, "The State Department and
+    Department of Homeland Security would have to consult with Congress
+    and provide specific evidence justifying the immigration restriction
+    and its proposed duration before imposing it." \[The Hill,
+    [4/21/21](https://thehill.com/homenews/house/549577-house-passes-bill-aimed-at-stopping-future-trump-travel-ban)\]
+
+-   **The Bill Would Have Allowed Individuals In The U.S. Who May Be
+    Unlawfully Harmed By An Immigration Restriction To Sue In Federal
+    Court.** According to Congressional Quarterly, "allow individuals
+    present in the United States who are harmed by entry restrictions in
+    violation of the bill\'s provisions to seek declaratory or
+    injunctive relief through a U.S. district court." \[Congressional
+    Quarterly, [4/21/21](https://plus.cq.com/vote/2021/H/127?14)\]
+
+-   **The Bill Would Have Required A Report On Former President Trump's
+    Immigration Restrictions.** According to Congressional Quarterly,
+    "require the State and Homeland Security departments to submit a
+    report to Congress describing the implementation of proclamations by
+    former President Donald Trump that restricted the entry of
+    individuals from certain countries, including the number of refugees
+    admitted and the number of visa applicants admitted or rejected,
+    disaggregated by country and visa category." The vote was on
+    passage. The House passed the bill by a vote of 218-208. \[House
+    Vote 127, [4/21/21](http://clerk.house.gov/evs/2021/roll127.xml);
+    Congressional Quarterly,
+    [4/21/21](https://plus.cq.com/vote/2021/H/127?14); Congressional
+    Actions, [H.R.
+    1333](https://www.congress.gov/bill/117th-congress/house-bill/1333/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against The National Origin-Based
+Antidiscrimination For Nonimmigrants Act.** In April 2021, according to
+Congressional Quarterly, Fitzpatrick voted for the "Wenstrup, R-Ohio.,
+motion to recommit the bill to the House Judiciary Committee." The vote
+was on a motion to recommit. The House rejected the motion by a vote
+208-216. \[House Vote 126,
+[4/21/21](http://clerk.house.gov/evs/2021/roll126.xml); Congressional
+Quarterly, [4/21/21](https://plus.cq.com/vote/2021/H/126?19);
+Congressional Actions, [H.R.
+1333](https://www.congress.gov/bill/117th-congress/house-bill/1333)\]
+
+**2021: Fitzpatrick Effectively Voted Against The National Origin-Based
+Antidiscrimination For Nonimmigrants Act.** In April 2021, according to
+Congressional Quarterly, Fitzpatrick voted against the "adoption of the
+rule (H Res 330) that would provide for House floor consideration of the
+National Origin-Based Antidiscrimination for Nonimmigrants (NO BAN) Act
+(HR 1333) \[...\] The rule would provide up to one hour of general
+debate on each bill." The vote was on the adoption of the rule. The
+House adopted the rule by a vote 214-207. \[House Vote 124,
+[4/20/21](http://clerk.house.gov/evs/2021/roll124.xml); Congressional
+Quarterly, [4/20/21](https://plus.cq.com/vote/2021/H/124?8);
+Congressional Actions, [H.R.
+1333](https://www.congress.gov/bill/117th-congress/house-bill/1333);
+Congressional Actions, [H.Res.
+330](https://www.congress.gov/bill/117th-congress/house-resolution/330/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against The National Origin-Based
+Antidiscrimination For Nonimmigrants Act.** In April 2021, according to
+Congressional Quarterly, Fitzpatrick voted against the "motion to order
+the previous question (thus ending debate and possibility of amendment)
+on the rule (H Res 330) that would provide for House floor consideration
+of the National Origin-Based Antidiscrimination for Nonimmigrants (NO
+BAN) Act (HR 1333) \[...\] The rule would provide up to one hour of
+general debate on each bill." The vote was on a motion to order the
+previous question. The House agreed to the motion by a vote 216-206.
+\[House Vote 123,
+[4/20/21](http://clerk.house.gov/evs/2021/roll123.xml); Congressional
+Quarterly, [4/20/21](https://plus.cq.com/vote/2021/H/123?7);
+Congressional Actions, [H.R.
+1333](https://www.congress.gov/bill/117th-congress/house-bill/1333);
+Congressional Actions, [H.Res.
+330](https://www.congress.gov/bill/117th-congress/house-resolution/330/actions)\]
+
+### Temporary Restrictions
+
+**2021: Fitzpatrick Voted To Limit The President's Power To Restrict
+Immigration To Only Temporary Restrictions Subject To Public Safety Or
+International Stability.** In April 2021, Fitzpatrick voted for the
+National Origin-Based Antidiscrimination for Nonimmigrants Act of 2021
+which would, according to Congressional Quarterly, "limit the
+president\'s ability to restrict entry of a class of foreign nationals,
+including to require that such restrictions be temporary, narrowly
+tailored and subject to a State Department determination that they are
+in the interest of U.S. public safety or international stability." The
+vote was on passage. The House passed the bill by a vote of 218-208. The
+Senate did not take substantive action on the bill. \[House Vote 127,
+[4/21/21](http://clerk.house.gov/evs/2021/roll127.xml); Congressional
+Quarterly, [4/21/21](https://plus.cq.com/vote/2021/H/127?14);
+Congressional Actions, [H.R.
+1333](https://www.congress.gov/bill/117th-congress/house-bill/1333/actions)\]
+
+-   **The Bill Would Have Permitted Immigration Restrictions Based
+    Solely Only If There Is A "Compelling Government Interest."**
+    According to The Hill, "Any immigration restrictions could only be
+    issued by the executive branch if there is a 'compelling government
+    interest.'" \[The Hill, 4/21/21\]

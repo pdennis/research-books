@@ -1,0 +1,155 @@
+---
+title: Credit Cards
+description: 
+published: true
+date: 2025-09-22T20:30:29.836Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:30:25.844Z
+---
+
+# Credit Cards
+
+### CFPB's Mandatory Arbitration Rule
+
+**2019: Fitzpatrick Voted To Against Requiring The CFPB's Prohibit
+Mandatory Arbitration Clauses In Certain Consumer Contracts As Part Of A
+Larger CFPB Reform Bill.** In May 2019, Fitzpatrick voted against a
+legislation that would have, according to Congressional Quarterly,
+"require\[d\] the Consumer Financial Protection Bureau to reissue a 2017
+rule prohibiting arbitration agreements between consumers and providers
+of consumer financial products, such as credit card companies, that bar
+consumers from participating in class action lawsuits against
+providers." In addition, also according to Congressional Quarterly, "the
+bill, as amended, that would statutorily clarify and establish certain
+objectives, authorities, and offices of the Consumer Financial
+Protection Bureau. Among provisions related to CFPB organization and
+authorities, the bill would require the CFPB director to ensure each
+statutorily established functional unit of the agency performs its
+assigned duties and functions; require the director to provide 'adequate
+staff' to each unit to carry out these functions; and prohibit the
+director from reorganizing or renaming such units. It would statutorily
+reestablish a CFPB Office of Students and Young Consumers to inform
+students and young people about education-related savings, loans, and
+debt. It would statutorily authorize the CFPB Office of Fair Lending and
+Equal Opportunity to carry out any supervisory and enforcement
+activities regarding fair lending laws. It would statutorily designate
+the CFPB as the Consumer Financial Protection Bureau, replacing any
+references in federal laws and documents to the 'Bureau of Consumer
+Financial Protection.' Among other provisions, the bill would require
+the CFPB director to ensure the number and duties of political
+appointees on staff match those of such appointees at other federal
+financial regulatory agencies. It would add certain qualifications for
+CFPB consumer advisory board members, urging the CFPB director to
+appoint certain experts and representatives, including experts in
+consumer protection, community development, and fair lending, and
+representatives of communities 'significantly impacted' by higher-priced
+mortgage loans. It would require the CFPB database of consumer
+complaints to remain publicly available on the CFPB website. As an
+offset for its provisions, the bill, as amended, would reduce by a total
+of \$38 million the amount of discretionary surplus funds that may be
+held by the Federal Reserve. \[...\] It would reinstate memoranda of
+understanding between the CFPB and Education Department regarding
+coordination of oversight related to federal student loans." The vote
+was on passage. The House passed the bill by a vote of 231 to 191.
+\[House Vote 228,
+[5/22/19](http://clerk.house.gov/evs/2019/roll228.xml); Congressional
+Quarterly, [5/22/19](http://cq.com/vote/2019/H/228?0); Congressional
+Actions, [H.R.
+1500](https://www.congress.gov/bill/116th-congress/house-bill/1500/all-actions)\]
+
+-   **Arbitration Clauses Can Prevent Consumers From Joining
+    Class-Action Lawsuits; The CFPB Said That Consumers Received More
+    Than \$1 Billion In Payments From Juries Compared To \$360,000 From
+    Arbitrators.** According to The Hill, "The rule forces companies to
+    write arbitration clauses included in contracts in ways that would
+    not prevent consumers from joining class-action lawsuits. \[...\]
+    Arbitration clauses are commonly included in customer contracts to
+    help banks or businesses avoid lawsuits from consumers who say they
+    have been defrauded or abused. \[...\] The CFPB reported that more
+    than 34 million consumers received \$1 billion in payments from
+    lawsuits over the past five years, but that arbitrators awarded only
+    a total of about \$360,000 in relief to 78 consumers in two yearsof
+    \[sic\] cases the agency studied." \[The Hill,
+    [7/25/17](http://thehill.com/policy/finance/343652-house-votes-to-repeal-consumer-financial-protection-bureau-rule)\]
+
+**2019: Fitzpatrick Voted To Against Requiring The CFPB's Prohibit
+Mandatory Arbitration Clauses In Certain Consumer Contracts.** In May
+2019, Fitzpatrick voted against an amendment that would have, according
+to Congressional Quarterly, "require\[d\] the Consumer Financial
+Protection Bureau to reissue a 2017 rule prohibiting arbitration
+agreements between consumers and providers of consumer financial
+products, such as credit card companies, that bar consumers from
+participating in class action lawsuits against providers. It would
+\[have\] repeal\[ed\] a joint resolution that overturned the 2017 rule.
+It would \[have\] also reduce\[d\] by \$10 million surplus discretionary
+funds that may be held by the Federal Reserve." The underlying
+legislation would have reformed the CFPB. The vote was on the amendment.
+The House adopted the amendment by a vote of 235 to 193. The House later
+passed the underlying bill. \[House Vote 226,
+[5/22/19](http://clerk.house.gov/evs/2019/roll226.xml); Congressional
+Quarterly, [5/22/19](http://cq.com/vote/2019/H/226?0); Congressional
+Actions, [H. Amdt.
+263](https://www.congress.gov/amendment/116th-congress/house-amendment/263/actions);
+Congressional Actions, [H.R.
+1500](https://www.congress.gov/bill/116th-congress/house-bill/1500/all-actions)\]
+
+-   **Arbitration Clauses Can Prevent Consumers From Joining
+    Class-Action Lawsuits; The CFPB Said That Consumers Received More
+    Than \$1 Billion In Payments From Juries Compared To \$360,000 From
+    Arbitrators.** According to The Hill, "The rule forces companies to
+    write arbitration clauses included in contracts in ways that would
+    not prevent consumers from joining class-action lawsuits. \[...\]
+    Arbitration clauses are commonly included in customer contracts to
+    help banks or businesses avoid lawsuits from consumers who say they
+    have been defrauded or abused. \[...\] The CFPB reported that more
+    than 34 million consumers received \$1 billion in payments from
+    lawsuits over the past five years, but that arbitrators awarded only
+    a total of about \$360,000 in relief to 78 consumers in two yearsof
+    \[sic\] cases the agency studied." \[The Hill,
+    [7/25/17](http://thehill.com/policy/finance/343652-house-votes-to-repeal-consumer-financial-protection-bureau-rule)\]
+
+**2017: Fitzpatrick Voted To Disapprove The CFPB's Rule Prohibiting
+Mandatory Arbitration Clauses In Certain Consumer Contracts.** In July
+2017, Fitzpatrick voted for a Congressional Review Act joint resolution
+of disapproval on the Consumer Financial Protection Bureau's rule
+prohibiting mandatory arbitration contracts in consumer contracts for
+financial services. According to Congressional Quarterly, "Passage of
+the joint resolution that would nullify and disapprove of a Consumer
+Financial Protection Bureau rule that prohibits mandatory arbitration
+clauses in consumer contracts related to financial services and
+products." The vote was on passage. The House passed the resolution by a
+vote of 231 to 190. President Trump later signed the bill into law.
+\[House Vote 412,
+[7/25/17](http://clerk.house.gov/evs/2017/roll412.xml); Congressional
+Quarterly, [7/25/17](http://www.cq.com/vote/2017/H/412?5); Congressional
+Actions, [H. J. Res.
+111](https://www.congress.gov/bill/115th-congress/house-joint-resolution/111/all-actions/)\]
+
+-   **The Hill: "The House Voted Tuesday To Repeal A \[...\] Rule
+    \[...\] That Would Have Protected Consumers' Rights To Sue Banks In
+    Class-Action Lawsuits."** According to The Hill, "The House
+    voted Tuesday to repeal a controversial new rule from the Consumer
+    Financial Protection Bureau (CFPB) that would have protected
+    consumers' rights to sue banks in class-action lawsuits. Lawmakers
+    voted 231-190 to repeal the rule using the Congressional Review Act,
+    a law that allows Congress to eliminate regulations within 60
+    days of their release and bars agencies from issuing similar rules
+    in the future. Only one Republican, Rep. Walter Jones (N.C.), joined
+    Democrats in voting against repeal." \[The Hill,
+    [7/25/17](http://thehill.com/policy/finance/343652-house-votes-to-repeal-consumer-financial-protection-bureau-rule)\]
+
+-   **Arbitration Clauses Can Prevent Consumers From Joining
+    Class-Action Lawsuits; The CFPB Said That Consumers Received More
+    Than \$1 Billion In Payments From Juries Compared To \$360,000 From
+    Arbitrators.** According to The Hill, "The rule forces companies to
+    write arbitration clauses included in contracts in ways that would
+    not prevent consumers from joining class-action lawsuits. \[...\]
+    Arbitration clauses are commonly included in customer contracts to
+    help banks or businesses avoid lawsuits from consumers who say they
+    have been defrauded or abused. \[...\] The CFPB reported that more
+    than 34 million consumers received \$1 billion in payments from
+    lawsuits over the past five years, but that arbitrators awarded only
+    a total of about \$360,000 in relief to 78 consumers in two yearsof
+    \[sic\] cases the agency studied." \[The Hill,
+    [7/25/17](http://thehill.com/policy/finance/343652-house-votes-to-repeal-consumer-financial-protection-bureau-rule)\]

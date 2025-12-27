@@ -1,0 +1,19 @@
+---
+title: Children With Disabilities
+description: 
+published: true
+date: 2025-09-24T20:49:51.228Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:49:46.804Z
+---
+
+# Children With Disabilities
+
+### Guaranteeing Educational Opportunities For Children With Disabilities
+
+**2015: Schweikert Effectively Voted Against Guaranteeing Educational Opportunities For Children With Disabilities.** In July 2015, Schweikert effectively voted against guaranteeing educational opportunities for children with disabilities. According to Congressional Quarterly, the motion to recommit would have "guarantee\[d\] educational opportunities for children with disabilities by requiring that each state demonstrate their laws do not result in a lower standard of education than for those students without disabilities, grant students with disabilities access to a regular secondary school diploma, give parents the right to informed consent about their child\'s education, cannot lower expectations or academic achievement for students with disabilities, or give educational opportunities for any student, including those from racial and ethnic minorities." The underlying bill would have, according to Congressional Quarterly, "reauthorize\[d\] the Elementary and Secondary Education Act of 1965 (ESEA) and would make fundamental changes to many of its programs through Fiscal 2019." The vote was on the motion to recommit. The House rejected the motion 185 to 244. \[House Vote 422, [7/8/15](http://clerk.house.gov/evs/2015/roll422.xml); Congressional Quarterly, [7/8/15](http://www.cq.com/vote/2015/h/422?5); Congressional Quarterly, [7/8/15](http://www.cq.com/doc/floorvote-250749000?4); Congressional Actions, [H.R. 5](https://www.congress.gov/bill/114th-congress/house-bill/5/all-actions)\]
+
+-   **Rep. Elizabeth Esty (D-CT): Motion To Recommit Included Language To Continue Funding The Individuals With Disabilities Education Act.** According to a floor speech by Rep. Kline, "Mr. Speaker, today, we are not fixing No Child Left Behind, which has long needed to be fixed, but instead, we are moving in the wrong direction. As a room parent, as a PTA mom, I strongly believe that every child deserves the opportunity for a quality education, and every child deserves to be treated with dignity and respect. The amendment I am offering today provides us the opportunity to live up to those goals. My amendment would guarantee continued funding for the Individuals with Disabilities Education Act, known as IDEA. \[...\] Children with learning disabilities will learn and excel with the right support. It is just not acceptable to say that we don\'t have enough time or enough money to provide that support. Today, let\'s fully fund IDEA, support special education and services for all children with disabilities, and restrict the dangerous practices of seclusion and restraint. We can do better; we must do better for our children." \[Congressional Record, [7/8/15](https://www.congress.gov/crec/2015/07/08/CREC-2015-07-08-pt1-PgH4908.pdf#page=26)\]
+
+-   **Rep. John Kline (R-MN) Opposed The Motion And Called It An Attempt "To Derail This Legislation."** According to a floor speech by Rep. Kline obtained via the Congressional Record, "Mr. Speaker, we know this is a procedural attempt, a usual procedural attempt, at the eleventh hour to derail this legislation. It is unfortunate because the American people have waited long enough for Congress to fix the problems plaguing our elementary and secondary education system." \[Congressional Record, [7/8/15](https://www.congress.gov/crec/2015/07/08/CREC-2015-07-08-pt1-PgH4908.pdf#page=26)\]

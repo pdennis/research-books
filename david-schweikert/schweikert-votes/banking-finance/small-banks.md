@@ -1,0 +1,19 @@
+---
+title: Small Banks
+description: 
+published: true
+date: 2025-09-24T20:08:57.245Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T20:08:53.090Z
+---
+
+# Small Banks
+
+### Requiring The Federal Reserve To Modify Its Small Bank Holding Company Policy Statement To Allow Bank And Thrift Holding Companies With \$5 Billion Assets, Instead Of \$1 Billion In Assets To Operate Under The Policy
+
+**2016: Schweikert Voted To Require The Federal Reserve To Modify Its Small Bank Holding Company Policy Statement To Allow Bank And Thrift Holding Companies With \$5 Billion Assets, Instead Of \$1 Billion In Assets To Operate Under The Policy.** In April 2016, Schweikert voted for legislation that would have, according to Congressional Quarterly, "require\[d\] the Federal Reserve Board to modify its Small Bank Holding Company Policy Statement to allow bank and thrift holding companies with assets of up to \$5 billion to operate under the policy, up from the current limit of \$1 billion." The vote was on the legislation. The House passed the bill by a vote of 247 to 171. The Senate took no substantive action on the bill. \[House Vote 149, [4/14/16](http://clerk.house.gov/evs/2016/roll149.xml); Congressional Quarterly, [4/8/16](http://www.cq.com/doc/har-4865137/11?71&search=Sgv7jSJZ); Congressional Actions, [H.R. 3791](https://www.congress.gov/bill/114th-congress/house-bill/3791/all-actions)\]
+
+-   **The Small Bank Holding Company Policy Statement Is Designed To Ease Ownership Transfers Of Smaller, Community Banks; The Policy Allows These Banks To Have Higher Debt Levels.** According to Congressional Quarterly, "The Federal Reserve Board (Fed) generally has discouraged bank holding companies and thrift holding companies from using debt to finance the acquisition of banks or other companies because high levels of debt can impair the ability of a holding company to help its subsidiary banks. However, the Fed also has recognized that small holding companies have less access to equity financing than larger holding companies and that the transfer of ownership of small banks often requires the use of acquisition debt. Consequently, the Fed in 1980 issued its Small Bank Holding Company Policy Statement to facilitate the transfer of ownership of small community-based banks in a manner consistent with bank safety and soundness. Under the policy statement, small bank holding companies can have debt levels that are higher than the levels allowed for larger holding companies and may use debt to finance up to 75% of the purchase price of an acquisition, although they also must abide by certain conditions and restrictions intended to ensure that the higher debt levels do not present an undue risk to the safety and soundness of their subsidiary banks." \[Congressional Quarterly, [4/8/16](http://www.cq.com/doc/har-4865137/11?71&search=Sgv7jSJZ)\]
+
+-   **Statement Of Administration Policy: Less Than A Year Ago, The Limit Was Raised From \$500 Million To \$1 Billion.** According to a Statement of Administration Policy, "Less than one year ago, the Congress reached a compromise to raise the Small Bank Holding Company Policy Statement threshold from \$500 million to \$1 billion. That change was intended to ensure that local communities retain access to the banks that best understand their needs and can provide personalized services to residents. Now, less than one year later, this piece of legislation seeks to raise that threshold again -- to \$5 billion -- in an attempt to allow large banks to evade specific minimum leverage and risk-based capital requirements." \[Statement of Administration Policy, [4/14/16](http://www.cq.com/pdf/4866722.pdf)\]

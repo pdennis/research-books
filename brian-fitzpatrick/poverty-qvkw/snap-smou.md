@@ -1,0 +1,148 @@
+---
+title: Supplemental Nutrition Assistance Program
+description: 
+published: true
+date: 2025-09-22T21:34:22.849Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:34:18.645Z
+---
+
+# Supplemental Nutrition Assistance Program
+
+### Extension
+
+**2021: Fitzpatrick Voted Against The American Rescue Plan Act Of 2021,
+Which Extended Through September 2021 The 15% Increase In Supplemental
+Nutrition Assistance Program Benefits.** In March 2021, Fitzpatrick
+voted against concurring in the Senate amendment to the American Rescue
+Plan Act of 2021 which would, according to Congressional Quarterly,
+"continue the 15% increase in Supplemental Nutrition Assistance Program
+benefits through September 2021." The vote was on concurring in the
+Senate amendment to the bill. The House concurred with the Senate by a
+vote of 220-211 and sent to the President and ultimately the bill became
+law. \[House Vote 72,
+[3/10/21](http://clerk.house.gov/evs/2021/roll072.xml); Congressional
+Quarterly, [3/10/21](https://plus.cq.com/vote/2021/H/72?24);
+Congressional Actions, [H.R.
+1319](https://www.congress.gov/bill/117th-congress/house-bill/1319/actions)\]
+
+-   **The American Rescue Plan Temporarily Boosted WIC Cash Vouchers Up
+    To \$35 Per Month For Four Months.** According to NPR, "One
+    provision will give the agriculture secretary the authority and
+    funding to temporarily boost the value of cash vouchers for the
+    Special Supplemental Nutrition Program for Women, Infants, and
+    Children (WIC) up to \$35 per month for women and children for a
+    four-month period during the pandemic." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+-   **The American Rescue Plan Provided \$1.4 Billion For Programs Under
+    The Older Americans Act, Which Would Include Funding For Nutrition
+    Programs, Support Programs, And The National Family Caregiver
+    Support Program.** According to NPR, "There is \$1.4 billion in
+    funding for programs authorized under the Older Americans Act,
+    including support for nutrition programs, community-based support
+    programs and the National Family Caregiver Support Program." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+-   **The American Rescue Plan Reserved \$37 Million To The Commodity
+    Supplemental Food Program To Support Low-Income Seniors.** According
+    to NPR, "The bill provides \$37 million to the Commodity
+    Supplemental Food Program for low-income seniors." \[NPR,
+    [3/11/21](https://www.npr.org/sections/coronavirus-live-updates/2021/03/09/974841565/heres-whats-in-the-american-rescue-plan-as-it-heads-toward-final-passage)\]
+
+-   **The American Rescue Plan Provided \$5 Billion To The Pandemic
+    Electronic Benefits Transfer To Continue To Provide Breakfast And
+    Lunch To Children Throughout The Pandemic.** According to the Center
+    For Health Law And Policy Innovation, "P-EBT will get \$5 billion to
+    maintain and expand its program, which has helped families provide
+    breakfast and lunch for children who would have received meals at
+    school but are currently not, due to remote learning." \[Center For
+    Health Law And Policy Innovation,
+    [4/7/21](https://www.chlpi.org/the-american-rescue-plan-what-it-does-for-agriculture-and-nutrition/)\]
+
+-   **The American Rescue Plan Provided \$1 Billion For Nutrition
+    Assistance In U.S. Territories.** According to the Center For Health
+    Law And Policy Innovation, "Another \$1 billion will be directed
+    toward U.S. territories to fund additional nutrition assistance.
+    Territories like Puerto Rico, American Samoa, and the Commonwealth
+    of the Northern Mariana Islands receive a capped block grant (called
+    the Nutritional Assistance Program, or NAP) rather than SNAP,
+    putting low-income residents at greater risk during the pandemic if
+    the programs are unable to expand with increased need." \[Center For
+    Health Law And Policy Innovation,
+    [4/7/21](https://www.chlpi.org/the-american-rescue-plan-what-it-does-for-agriculture-and-nutrition/)\]
+
+-   **The American Rescue Plan Allotted \$500 Million For Rural
+    Healthcare Efforts, Including Vaccine Distribution And Nutrition
+    Assistance For People At-Risk.** According to the Center For Health
+    Law And Policy Innovation, "The act also allots \$500 million for
+    rural healthcare efforts, which includes vaccine distribution and
+    nutrition assistance for vulnerable individuals." \[Center For
+    Health Law And Policy Innovation,
+    [4/7/21](https://www.chlpi.org/the-american-rescue-plan-what-it-does-for-agriculture-and-nutrition/)\]
+
+### Work Requirements
+
+**2023: Fitzpatrick Voted For The Fiscal Responsibility Act Of 2023,
+Which Temporarily Raised The Oldest Age At Which Work Requirements Would
+Apply For SNAP From 49 To 54 Years-Old, With Certain Exemptions.** In
+May 2023, according to Congressional Quarterly, Fitzpatrick voted for
+the Fiscal Responsibility Act of 2023, which would, in part,
+"temporarily raise from 49 to 54 the oldest age at which existing work
+requirements would apply for the Supplemental Nutrition Assistance
+Program, while also exempting homeless individuals, veterans, and
+individuals under age 25 who aged out of foster care." The vote was on
+passage. The House passed the bill by a vote of 314 to 117, thus the
+bill was sent to the Senate. The Senate passed the bill, sent it to
+President Biden, and it was signed into law. \[House Vote 243,
+[5/31/23](http://clerk.house.gov/evs/2023/roll243.xml); Congressional
+Quarterly, [5/31/23](https://plus.cq.com/vote/2023/H/243?24);
+Congressional Actions, [H.R.
+3746](https://www.congress.gov/bill/118th-congress/house-bill/3746/all-actions)\]
+
+-   **Left-Leaning Democrats Opposed The Package Due To Work Requirement
+    Expansions For Welfare Programs And Changes To The Permitting
+    Process For Federal Projects.** According to Congressional
+    Quarterly, "Left-leaning House Democrats opposed the bill over its
+    expansion of work requirements for welfare programs and
+    modifications made to the environmental review process for federal
+    projects, among other complaints." \[Congressional Quarterly,
+    [5/31/23](https://plus.cq.com/doc/news-7757767?2)\]
+
+**2023: Fitzpatrick Voted For The Fiscal Responsibility Act Of 2023,
+Which Reduced The Maximum Number Of People That States Could Exempt From
+SNAP Work Requirements To 8%.** In May 2023, according to Congressional
+Quarterly, Fitzpatrick voted for the Fiscal Responsibility Act of 2023,
+which would, in part, "reduce from 12 to 8 percent the maximum number of
+individuals that states may exempt from SNAP work requirements." The
+vote was on passage. The House passed the bill by a vote of 314 to 117,
+thus the bill was sent to the Senate. The Senate passed the bill, sent
+it to President Biden, and it was signed into law. \[House Vote 243,
+[5/31/23](http://clerk.house.gov/evs/2023/roll243.xml); Congressional
+Quarterly, [5/31/23](https://plus.cq.com/vote/2023/H/243?24);
+Congressional Actions, [H.R.
+3746](https://www.congress.gov/bill/118th-congress/house-bill/3746/all-actions)\]
+
+-   **Left-Leaning Democrats Opposed The Package Due To Work Requirement
+    Expansions For Welfare Programs And Changes To The Permitting
+    Process For Federal Projects.** According to Congressional
+    Quarterly, "Left-leaning House Democrats opposed the bill over its
+    expansion of work requirements for welfare programs and
+    modifications made to the environmental review process for federal
+    projects, among other complaints." \[Congressional Quarterly,
+    [5/31/23](https://plus.cq.com/doc/news-7757767?2)\]
+
+**2023: Fitzpatrick Voted For A GOP Debt Limit Package, Which Would
+Increase The Oldest Age At Which Work Requirements Would Apply For SNAP
+Beneficiaries From 49 To 55 Years-Of-Age.** In April 2023, according to
+Congressional Quarterly, Fitzpatrick voted for the Limit, Save, Grow Act
+of 2023, which would "raise from 49 to 55 the oldest age at which
+existing work requirements would apply for Supplemental Nutrition
+Assistance Program beneficiaries." The vote was on passage. The House
+passed the bill by a vote of 217 to 215, thus the bill was sent to the
+Senate. \[House Vote 199,
+[4/26/23](http://clerk.house.gov/evs/2023/roll199.xml); Congressional
+Quarterly, [4/26/23](https://plus.cq.com/vote/2023/H/199?5);
+Congressional Actions, [H.R.
+2811](https://www.congress.gov/bill/118th-congress/house-bill/2811/all-actions)\]

@@ -1,0 +1,416 @@
+---
+title: Trumpcare
+description: 
+published: true
+date: 2025-09-22T21:17:22.066Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:17:17.567Z
+---
+
+# Trumpcare
+
+### Passage
+
+**2017: Fitzpatrick Voted Against The FY 2018 Republican Study Committee
+Budget Resolution Which In Part Called For Fully Repealing Obamacare And
+Replacing It With Parts Of AHCA.** In October 2017, Fitzpatrick voted
+against a budget resolution that would in part, according to
+Congressional Quarterly, "provide for \$2.9 trillion in new budget
+authority in fiscal 2018. It would balance the budget by fiscal 2023 by
+reducing spending by \$10.1 trillion over 10 years. It would cap total
+discretionary spending at \$1.06 trillion for fiscal 2018 and would
+assume no separate Overseas Contingency Operations funding for fiscal
+2018 or subsequent years and would incorporate funding related to war or
+terror into the base defense account. It would assume repeal of the 2010
+health care overhaul and would convert Medicaid and the Children's
+Health Insurance Program into a single block grant program. It would
+require that off budget programs, such as Social Security, the U.S.
+Postal Service, and Fannie Mae and Freddie Mac, be included in the
+budget." The underlying legislation was an FY 2018 House GOP budget
+resolution. The House rejected the RSC budget by a vote of 139 to 281.
+\[House Vote 555,
+[10/5/17](http://clerk.house.gov/evs/2017/roll555.xml); Congressional
+Quarterly, [10/5/17](http://cq.com/vote/2017/H/555?2); Congressional
+Actions, [H. Amdt.
+455](https://www.congress.gov/amendment/115th-congress/house-amendment/455/actions);
+Congressional Actions, [H. Con. Res.
+71](https://www.congress.gov/bill/115th-congress/house-concurrent-resolution/71/all-actions)\]
+
+-   **Legislation Called For Repealing The ACA And Replacing It With
+    Parts Of AHCA** According to the Republican Study Committee FY 2018
+    Budget, "Obamacare is a failed experiment and cannot be reformed; it
+    must be fully repealed. \[...\] The RSC budget fully repeals
+    Obamacare and its distortionary and destructive tax increases.
+    \[...\] On January 4, 2017, the RSC reintroduced the American Health
+    Care Reform Act (AHCRA), the updated version of the patient-centered
+    health care reform legislation that the RSC has sponsored since the
+    113th Congress. Introducing AHCRA on the second day of the 115th
+    Congress kick-started a process by which the House has begun to
+    fulfill the promise of repealing and replacing Obamacare. The
+    American Health Care Act (AHCA) passed the House on May 4, 2017.
+    This reconciliation bill, while not perfect by any standards,
+    includes many of the principles and policies first put forward in
+    legislation by the RSC." \[Republican Study Committee, [Accessed
+    10/17/17](https://rsc-walker.house.gov/files/Initiatives/SecuringAmericasFutureEconomyRSCFY2018Budget.pdf)\]
+
+**2017: Fitzpatrick Voted Against The American Health Care Act That
+Which Would Result In 23 Million Fewer Americans With Health Insurance
+By 2026.** In May 2017, Fitzpatrick voted against the American Health
+Care Act which would have significantly repealed portions of the
+Affordable Care Act by cutting Medicaid, cutting taxes on the rich,
+removing safeguard for pre-existing conditions and defunding Planned
+Parenthood. The overall legislation would have in part, also according
+to Congressional Quarterly, "ma\[d\]e extensive changes to the 2010
+health care overhaul law, by effectively repealing the individual and
+employer mandates as well as most of the taxes that finance the current
+system. It would \[have\], in 2020, convert\[ed\] Medicaid into a capped
+entitlement that would provide\[d\] fixed federal payments to states and
+end\[ed\] additional federal funding for the 2010 law's joint
+federal-state Medicaid expansion. It would prohibit federal funding to
+any entity, such as Planned Parenthood, that performs abortions and
+receives more than \$350 million a year in Medicaid funds. \[...\] It
+would \[have\] allow\[ed\] states to receive waivers to exempt insurers
+from having to provide certain minimum benefits." The vote was on
+passage. The House passed the bill by a vote of 217 to 213. The bill, in
+modified forms, died in the Senate. \[House Vote 256,
+[5/4/17](http://clerk.house.gov/evs/2017/roll256.xml); Congressional
+Quarterly, [5/4/17](http://cq.com/vote/2017/H/256?1); Kaiser Family
+Foundation,
+[5/17](http://files.kff.org/attachment/Proposals-to-Replace-the-Affordable-Care-Act-Summary-of-the-American-Health-Care-Act);
+Congressional Actions, [H.R.
+1628](https://www.congress.gov/bill/115th-congress/house-bill/1628/all-actions)\]
+
+-   **Legislation Would Result In 14 Million Additional Uninsured
+    Americans In 2018, Rising To 23 Million In 2026.** According to the
+    New York Times, "A bill to dismantle the Affordable Care Act that
+    narrowly passed the House this month would leave 14 million more
+    people uninsured next year than under President Barack Obama's
+    health law --- and 23 million more in 2026, the Congressional Budget
+    Office said Wednesday. Some of the nation's sickest would pay much
+    more for health care. Under the House bill, the number of uninsured
+    would be slightly lower, but deficits would be somewhat higher, than
+    the budget office estimated before Republican leaders made a series
+    of changes to win enough votes for passage. Beneath the
+    headline-grabbing numbers, those legislative tweaks would bring huge
+    changes to the American health care system." \[New York Times,
+    [5/24/17](https://www.nytimes.com/2017/05/24/us/politics/cbo-congressional-budget-office-health-care.html?utm_campaign=KHN%3A%20First%20Edition&utm_source=hs_email&utm_medium=email&utm_content=52379006&_hsenc=p2ANqtz-8JowhXmTnNxBSsT4OZcp7PYwoWKl7paVQgQnFBORTq-idxVuSUD7BsR3LHYh9kcP2xP218ZEFzZp-N6B5qRUgOjl2P4L8z8kdcWAjuUC_oZ56GIec&_hsmi=52379006&_r=0)\]
+
+-   **Legislation Would Cut Medicaid By \$834 Billon Over The Next Ten
+    Years, Including A Roll Back Of The Medicaid Expansion.** According
+    to the New York Times, "The House repeal bill was approved on May 4
+    by a vote of 217 to 213, with no support from Democrats. It would
+    eliminate tax penalties for people who go without health insurance
+    and roll back state-by-state expansions of Medicaid, which have
+    provided coverage to millions of low-income people. And in place of
+    government-subsidized insurance policies offered exclusively on the
+    Affordable Care Act's marketplaces, the bill would offer tax credits
+    of \$2,000 to \$4,000 a year, depending on age. \[...\] The bill
+    would reduce projected spending on Medicaid, the program for
+    low-income people, by \$834 billion over 10 years, and 14 million
+    fewer people would be covered by Medicaid in 2026 --- a reduction of
+    about 17 percent from the enrollment expected under current law, the
+    budget office said." \[New York Times,
+    [5/24/17](https://www.nytimes.com/2017/05/24/us/politics/cbo-congressional-budget-office-health-care.html?utm_campaign=KHN%3A%20First%20Edition&utm_source=hs_email&utm_medium=email&utm_content=52379006&_hsenc=p2ANqtz-8JowhXmTnNxBSsT4OZcp7PYwoWKl7paVQgQnFBORTq-idxVuSUD7BsR3LHYh9kcP2xP218ZEFzZp-N6B5qRUgOjl2P4L8z8kdcWAjuUC_oZ56GIec&_hsmi=52379006&_r=0)\]
+
+-   **Legislation Would Give States The Option Of A Per-Capita Cap On
+    Medicaid Federal Funding Or A Block Grant; Overall Changes Would
+    Result In 14 Million Fewer Medicaid Enrollees.** According to NPR,
+    Medicaid accounts for by far the biggest spending reductions under
+    the American Health Care Act. The bill would roll back the Medicaid
+    expansion instituted under the Affordable Care Act, which extended
+    the program to cover some Americans with incomes up to 133 percent
+    of the poverty line. That expansion increased enrollment by 10
+    million, as NPR's Alison Kodjak previously reported. Rolling back
+    that expansion would limit future enrollments. The AHCA would also
+    give states a choice: Receive Medicaid funding via either a block
+    grant or a per capita amount per enrollee. Together, these changes
+    would create major cuts in enrollment for the program: 14 million
+    fewer people by 2026, and \$834 billion in spending cuts over a
+    decade." \[NPR,
+    [5/24/17](http://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured)\]
+
+-   **Legislation Would Allow States To Seek A Waiver On Insurance
+    Requirements.** According to the Washington Post, "Congressional
+    analysts concluded that one change to the House bill aimed at
+    lowering premiums, by allowing states to opt out of some current
+    insurance requirements, would encourage some employers to maintain
+    coverage for their workers and get younger, healthier people to buy
+    plans on their own. But those gains would be largely offset by
+    consumers with preexisting conditions, who would face higher
+    premiums than they do now." \[Washington Post,
+    [5/24/17](https://www.washingtonpost.com/national/health-science/uninsured-ranks-still-to-grow-by-tens-of-millions-under-latest-house-health-care-bill-cbo-says/2017/05/24/81a42648-40b0-11e7-8c25-44d09ff5a4a8_story.html?utm_term=.d62d235fbeb0)\]
+
+-   **About 1/6 OF Americans Would Live In States Receiving Insurance
+    Waivers On Consumer Protections; These Markets Would Eventually
+    Destabilize.** According to the Los Angeles Times, "The House bill
+    would be particularly harmful to older, sicker residents of states
+    that waive key consumer protections in the current law, including
+    the ban on insurers charging sick consumers more. The budget office
+    estimates that about one-sixth of the U.S. population live in states
+    that would seek such waivers, which would be allowed under the House
+    bill. 'Over time, it would become more difficult for less healthy
+    people (including people with preexisting medical conditions) in
+    those states to purchase insurance,' the report notes." \[Los
+    Angeles Times,
+    [5/24/17](http://www.latimes.com/politics/la-na-pol-gop-healthcare-cbo-20170524-story.html?utm_campaign=KHN%3A%20First%20Edition&utm_source=hs_email&utm_medium=email&utm_content=52379006&_hsenc=p2ANqtz-8AW6O6pgceAJroOJzeZ19pCRwL96QWb2eKQ33-SbDgxL8dnZVrr9b29mtahn3q7dnNMp9aDxZ7eofWG-obxH0g6qjhnC711OTHl4DwjIi3VexXfgg&_hsmi=52379006)\]
+
+-   **Premiums Would Drop In Some States, But Would Be Driven By
+    Insurance With Fewer Benefits, Likely Driving Up Consumer Costs For
+    Sicker Americans Such As Increased Costs For Pregnancy, Mental
+    Health And Substance Abuse.** According to the Los Angeles Times,
+    "The budget office projected that average premiums for those who buy
+    their own coverage would be lower in some states after 2020 than
+    under Obamacare, an estimate quickly hailed by Republicans. \[...\]
+    But the decrease would be driven largely driven by the fact that
+    more people would have plans that cover fewer benefits and shift
+    more costs to consumers, budget analysts wrote. Healthier consumers
+    'would be able to purchase nongroup insurance with relatively low
+    premiums,' the budget office said. But skimpier plans with high
+    deductibles would be particularly problematic for Americans facing
+    high medical needs. 'Some people enrolled in nongroup insurance
+    would experience substantial increases in what they would spend on
+    healthcare,' the report notes. Out-of-pocket costs for pregnancy,
+    mental health and substance abuse would likely 'increase by
+    thousands of dollars' for people in some states, the budget office
+    said." \[Los Angeles Times,
+    [5/24/17](http://www.latimes.com/politics/la-na-pol-gop-healthcare-cbo-20170524-story.html?utm_campaign=KHN%3A%20First%20Edition&utm_source=hs_email&utm_medium=email&utm_content=52379006&_hsenc=p2ANqtz-8AW6O6pgceAJroOJzeZ19pCRwL96QWb2eKQ33-SbDgxL8dnZVrr9b29mtahn3q7dnNMp9aDxZ7eofWG-obxH0g6qjhnC711OTHl4DwjIi3VexXfgg&_hsmi=52379006)\]
+
+-   **Americans Who Work At Large Firms Would Be At Risk For Receiving
+    Insurance Without Essential Health Benefit Requirements.** Acceding
+    to the CBO, "For the large-group market, which generally consists of
+    employers with more than 50 employees, current regulations allow
+    employers to choose the EHB benchmark plan of any state in which
+    they operate. Because of those regulations, a large employer
+    operating in multiple states, including one that elected an EHB
+    waiver, could base all of the plans it offers on the EHB
+    requirements in a state with the waiver. That decision could allow
+    annual and lifetime limits on benefits not included in the state's
+    EHBs. However, large employers already have considerable flexibility
+    in the range of the benefits they include in their plans, so CBO and
+    JCT expect that their benefit offerings would probably not be
+    noticeably affected by the actions of states." \[CBO,
+    [5/24/17](https://www.cbo.gov/system/files/115th-congress-2017-2018/costestimate/hr1628aspassed.pdf)\]
+
+-   **A 64 Year Old American Earning \$26,500 Annually Would See Their
+    Annual Premium Increase From \$1,700 To \$13,600 In Waiver States.**
+    According to the Los Angeles Times, "Older and poorer Americans
+    would also see higher premiums or lose coverage altogether. For
+    example, under the House bill, a 64-year-old single American with an
+    income of \$26,500 a year would see his or her annual insurance bill
+    jump from \$1,700 to \$13,600 in states that waive protections now
+    mandated by Obamacare, according to the budget office. By contrast,
+    a similar consumer who is 21 would see his or her premiums decrease
+    from \$1,700 to \$1,250, budget analysts projected." \[Los Angeles
+    Times,
+    [5/24/17](http://www.latimes.com/politics/la-na-pol-gop-healthcare-cbo-20170524-story.html?utm_campaign=KHN%3A%20First%20Edition&utm_source=hs_email&utm_medium=email&utm_content=52379006&_hsenc=p2ANqtz-8AW6O6pgceAJroOJzeZ19pCRwL96QWb2eKQ33-SbDgxL8dnZVrr9b29mtahn3q7dnNMp9aDxZ7eofWG-obxH0g6qjhnC711OTHl4DwjIi3VexXfgg&_hsmi=52379006)\]
+
+-   **CBO: States That Opt Out Of Community Rating Protections Would
+    Lead To Sick Americans Being Priced Out Of The Insurance Market.**
+    According to the CBO, "Community-rated premiums would rise over
+    time, and people who are less healthy (including those with
+    preexisting or newly acquired medical conditions) would ultimately
+    be unable to purchase comprehensive nongroup health insurance at
+    premiums comparable to those under current law, if they could
+    purchase it at all---despite the additional funding that would be
+    available under H.R. 1628 to help reduce premiums. As a result, the
+    nongroup markets in those states would become unstable for people
+    with higher-than-average expected health care costs. That
+    instability would cause some people who would have been insured in
+    the nongroup market under current law to be uninsured." \[CBO via
+    Vox,
+    [5/24/17](https://www.vox.com/2017/5/24/15687520/trump-ahca-preexisting-condition-cbo-score-health-care)\]
+
+-   **The GOP Bill Repealed The 0.9% Medicare Hospital Insurance
+    Surtax.** According to the House Ways and Means Committee,
+    "Obamacare imposed a Medicare Hospital Insurance (HI) surtax based
+    on income at a rate equal to 0.9 percent of an employee's wages or a
+    self-employed individual's self-employment income. This section
+    repeals the additional 0.9 percent Medicare tax beginning in 2018."
+    \[House Ways and Means Committee,
+    [3/6/17](https://waysandmeans.house.gov/wp-content/uploads/2017/03/03.06.17-Section-by-Section.pdf)\]
+
+-   **The GOP Bill Repealed The 3.8% Net Investment Tax.** According to
+    the House Ways and Means Committee, "Obamacare imposed a net
+    investment tax, applying a rate of 3.8 percent to certain net
+    investment income of individuals, estates, and trusts with income
+    above certain amounts. This section repeals the net investment tax
+    starting in 2018." \[House Ways and Means Committee,
+    [3/6/17](https://waysandmeans.house.gov/wp-content/uploads/2017/03/03.06.17-Section-by-Section.pdf)\]
+
+-   **Legislation Cut Taxes By \$662 Billion, Mostly For The Wealthy.**
+    According to Vox, "The House bill would also cut taxes by \$662
+    billion over the next decade, according to a separate analysis
+    released Wednesday by the Joint Committee on Taxation, mostly by
+    repealing Obamacare taxes on the wealthy and health care
+    industries." \[Vox,
+    [5/24/17](https://www.vox.com/policy-and-politics/2017/5/24/15685760/ahca-cbo-score-new)\]
+
+-   **Legislation Would Reduce The Deficit By \$119 Billion Over Ten
+    Years.** According to NPR, "The \$119 billion deficit reduction
+    represents a decline from previous versions. When the CBO first
+    scored the AHCA, it said the plan would save \$337 billion over 10
+    years. Later revisions reduced those savings to \$150 billion. By
+    far the biggest savings would come from Medicaid, which serves
+    low-income Americans. That program would face \$884 billion in cuts.
+    Cutbacks in subsidies for individual health insurance would likewise
+    help cut \$276 billion. But those are offset in large part by bigger
+    costs, including the repeal of many of Obamacare's taxes. Those tax
+    cuts would overwhelmingly benefit the highest-income Americans, the
+    Tax Policy Center, a Washington think tank, reported on Wednesday."
+    \[NPR,
+    [5/24/17](http://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured)\]
+
+-   **Legislation Repealed The Individual Mandate And Replaced Subsidies
+    With Tax Credits Worth \$2,000 To \$4,000 For Health Insurance Based
+    On Age.** According to the New York Times, "The House repeal bill
+    was approved on May 4 by a vote of 217 to 213, with no support from
+    Democrats. It would eliminate tax penalties for people who go
+    without health insurance and roll back state-by-state expansions of
+    Medicaid, which have provided coverage to millions of low-income
+    people. And in place of government-subsidized insurance policies
+    offered exclusively on the Affordable Care Act's marketplaces, the
+    bill would offer tax credits of \$2,000 to \$4,000 a year, depending
+    on age. A family could receive up to \$14,000 a year in credits. The
+    credits would be reduced for individuals making more than \$75,000 a
+    year and families making more than \$150,000." \[New York Times,
+    [5/24/17](https://www.nytimes.com/2017/05/24/us/politics/cbo-congressional-budget-office-health-care.html?utm_campaign=KHN%3A%20First%20Edition&utm_source=hs_email&utm_medium=email&utm_content=52379006&_hsenc=p2ANqtz-8JowhXmTnNxBSsT4OZcp7PYwoWKl7paVQgQnFBORTq-idxVuSUD7BsR3LHYh9kcP2xP218ZEFzZp-N6B5qRUgOjl2P4L8z8kdcWAjuUC_oZ56GIec&_hsmi=52379006&_r=0)\]
+
+-   **Legislation Replaced The Individual Mandate With A Potential 12
+    Month 30 Percent Premium Surcharge For Those Who Are Without
+    Coverage For Longer Than 63 Days.** According to Vox, "Unlike
+    Obamacare, the AHCA does not mandate that all Americans be covered
+    by health insurance or pay a fee. It repeals the individual mandate,
+    which was one of Obamacare's least popular provisions. Instead, it
+    has a different way of penalizing people who decide to remain
+    uninsured: requiring those who don't maintain 'continuous coverage'
+    to pay a hefty fine when they want to reenter the insurance market.
+    This continuous coverage policy has shown up a lot in Republican
+    replacement plans. It was part of Speaker Ryan's A Better Way
+    proposal and Rep. Tom Price's Empowering Patients First Act. Here's
+    how it works: If a worker goes straight from insurance at work to
+    her own policy, her insurer has to charge her a standard rate --- it
+    can't take the cost of her condition into account. But if said
+    worker had a lapse in coverage longer than 63 days --- perhaps she
+    couldn't afford a new plan between jobs --- and went to the
+    individual market later, insurers could charge her a 30 percent
+    premium surcharge. She would need to pay that higher premium for a
+    full year before returning to the standard rate." \[Vox,
+    [5/4/17](https://www.vox.com/policy-and-politics/2017/5/3/15531494/american-health-care-act-explained)\]
+
+-   **Legislation Would Allow Insurance Companies Charge Five Times,
+    Instead Of Three Times, The Insurance Rate For Older Americans
+    Compared To Younger Americans.** According to CBO, "Relaxing the
+    current-law requirement that prevents insurers from charging older
+    people premiums that are more than three times larger than the
+    premiums charged younger people in the nongroup and small-group
+    markets. Unless a state sets a different limit, H.R. 1628 would
+    allow insurers to charge older people five times more than younger
+    ones beginning in 2018." \[CBO,
+    [5/24/17](https://www.cbo.gov/system/files/115th-congress-2017-2018/costestimate/hr1628aspassed.pdf)\]
+
+-   **Legislation Would Prohibited Funding To Planned Parenthood.**
+    According to Congressional Quarterly, "It would, in 2020, convert
+    Medicaid into a capped entitlement that would provide fixed federal
+    payments to states and end additional federal funding for the 2010
+    law\'s joint federal-state Medicaid expansion. It would prohibit
+    federal funding to any entity, such as Planned Parenthood, that
+    performs abortions and receives more than \$350 million a year in
+    Medicaid funds." \[Congressional Quarterly,
+    [5/4/17](http://www.cq.com/vote/2017/H/256?0)\]
+
+-   **Legislation Repealed Cost-Sharing Subsidies In 2020.** According
+    to the Kaiser Family Foundation, "ACA cost sharing subsidies are
+    repealed effective January 1, 2020." \[Kaiser Family Foundation,
+    [5/17](http://files.kff.org/attachment/Proposals-to-Replace-the-Affordable-Care-Act-Summary-of-the-American-Health-Care-Act)\]
+
+-   **Legislation Repealed A Ten Percent Tax On Tanning Services.**
+    According to CNN, "The replacement health care plan proposed by
+    Republicans would eliminate a 10% tax on indoor tanning services.
+    The tax was introduced in 2010 as part of the Affordable Care Act.
+    If the Republican plan becomes law, the tax will be phased out at
+    the end of this year." \[CNN,
+    [3/7/17](http://money.cnn.com/2017/03/07/news/economy/health-care-tanning-tax/)\]
+
+-   **Legislation Repealed A Limitation On How Much Insurance Companies
+    Can Deduct Executive Pay As A Business Expense.** According to CNBC,
+    "The proposed tax break, buried in cryptic language in the
+    Republican plan, would allow health insurers to more fully deduct
+    the value of their executives' compensation on their taxes. That
+    compensation can be as high as tens of millions of dollars, in the
+    case of CEOs of insurers. Those deductions currently are sharply
+    limited by the Affordable Care Act, which caps at a maximum of
+    \$500,000 the amount of an individual executive's compensation that
+    an insurer could deduct as a business expense. The cap applies to
+    any executive, not just to CEOs." \[CNBC,
+    [3/8/17](http://www.cnbc.com/2017/03/08/400-million-dollar-tax-break-for-insurance-execs-sparks-outrage.html)\]
+
+-   **LA Times: The Legislation "Encourage\[d\] Health Insurance
+    Companies To Pay Their Top Executives More."** According to the Los
+    Angeles Times, "Concealed within the 123 pages of legislative
+    verbiage and dense boilerplate of the House Republican bill
+    repealing the Affordable Care Act are not a few hard-to-find
+    nuggets. Here's one crying out for exposure: The bill encourages
+    health insurance companies to pay their top executives more. It does
+    so by removing the ACA's limit on corporate tax deductions for
+    executive pay." \[Los Angeles Times,
+    [3/7/17](http://www.latimes.com/business/hiltzik/la-fi-hiltzik-obamacare-ceos-20170307-story.html)\]
+
+-   **CBO Estimated That Repealing The Health Insurance Executive Tax
+    Limitation Would Reduce Revenue By \$500 Million Over Ten Years.**
+    \[CBO,
+    [5/24/17](https://www.cbo.gov/system/files/115th-congress-2017-2018/costestimate/hr1628aspassed.pdf)\]
+
+-   **The House Voted On The Legislation Without Receiving An Updated
+    CBO Score.** According to The Hill, "House Republicans are once
+    again fast-tracking consideration of their ObamaCare replacement
+    bill without knowing the full impact of the legislation they'll vote
+    on Thursday. The nonpartisan Congressional Budget Office (CBO) is
+    not expected to have completed its analysis detailing the effects of
+    the latest changes to the legislation overhauling the nation's
+    healthcare system in time for the Thursday vote. Leadership's
+    decision to press ahead with the floor action means lawmakers will
+    be voting on the bill without updated figures from their nonpartisan
+    scorekeeper on how many people would lose coverage under the bill or
+    how much it would cost." \[The Hill,
+    [5/3/17](http://thehill.com/policy/healthcare/331863-gop-rushing-to-vote-on-healthcare-without-analysis-of-changes)\]
+
+### Requiring Applicants To Provide A Social Security Number
+
+**2017: Fitzpatrick Voted To Require Applicants To Provide A Social
+Security Number.** In June 2017, Fitzpatrick voted for legislation that
+would have, according to Congressional Quarterly, "amend\[ed\] both
+current law and the American Health Care Act (AHCA; HR 1628) passed by
+the House on May 4 to prohibit the advance payment of health care
+premium tax credits to individuals unless the Treasury receives
+confirmation from the Health and Human Services Department that the
+individuals' status as citizens or lawfully present aliens has been
+verified. The process to verify an individual's status must \[have\]
+include\[d\] the use of information related to citizenship or
+immigration status, such as Social Security numbers. The measure \[would
+have made\] verification of an individual's status mandatory for the
+current law's premium tax credit and, contingent on enactment of the
+AHCA, makes verification for the new tax credit under AHCA mandatory
+after 2017." The vote was on passage. The House passed the bill by a
+vote of 238 to 184. The Senate took no substantive action on the
+legislation. \[House Vote 306,
+[6/13/17](http://clerk.house.gov/evs/2017/roll306.xml); Congressional
+Quarterly,
+[6/9/17](http://www.cq.com/doc/har-5120007/12?12&search=NT7QFVsV);
+Congressional Actions, [H.R.
+2581](https://www.congress.gov/bill/115th-congress/house-bill/2581/all-actions)\]
+
+-   **Bill Opponents Noted A Delay In Benefits Could Cost Lives And
+    Eligible Recipients May Lack Valid Paperwork.** According to
+    Congressional Quarterly, "Opponents of the bill, primarily
+    Democrats, say that the bill could delay or deny health care access
+    to U.S. citizens because if it delays or denies advance payments of
+    the tax credits some people will not be able to afford coverage.
+    This delay, they argue, could cost lives. They point out that
+    individuals may lack the relevant documentation to prove their
+    eligibility for a variety of reasons, not only because they are not,
+    in fact, eligible. Those against the measure say that the report
+    that concludes there has been \$750 million in fraudulent payments
+    is based on made up estimates and absurd assumptions."
+    \[Congressional Quarterly,
+    [6/9/17](http://www.cq.com/doc/har-5120007/12?12&search=NT7QFVsV)\]

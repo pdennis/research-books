@@ -2,7 +2,7 @@
 title: House Of Representatives
 description: 
 published: true
-date: 2025-12-27T04:56:32.783Z
+date: 2025-12-27T04:56:36.769Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T02:59:41.057Z

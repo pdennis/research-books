@@ -1,0 +1,934 @@
+---
+title: Department Of Homeland Security
+description: 
+published: true
+date: 2025-09-22T21:18:34.673Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:18:28.887Z
+---
+
+# Department Of Homeland Security
+
+### Bombing Prevention Office
+
+**2022: Fitzpatrick Voted To Codify Homeland Security's Office For
+Bombing Prevention, Which Was Tasked To Improve Efforts To Deter, Detect
+And Respond To Terrorist Explosive Threats And Attacks In The U.S.** In
+May 2022, according to Congressional Quarterly, Fitzpatrick voted for
+the Bombing Prevention Act of 2022, which would "codify the Homeland
+Security Department\'s Office for Bombing Prevention, which is tasked
+with improving U.S. efforts to deter, detect and respond to terrorist
+explosive threats and attacks in the United States. Among other
+requirements, it would require the office to engage other federal
+agencies regarding bomb threats and attacks; facilitate related
+information sharing and provide guidance and training to the public and
+private sectors; and conduct analysis and planning for bomb detection
+and response capabilities and requirements of the public and private
+sectors, including bomb squads, explosive detection canine teams,
+special tactics teams and dive teams. It would require the department,
+upon request, to provide technical assistance to support public and
+private sector preparedness to counter terrorist explosive threats and
+attacks that threaten critical infrastructure facilities, special events
+or certain vulnerable communities. It also would require the department
+to ensure coordination and information sharing regarding related federal
+nonmilitary research, development and evaluation activities, including
+to ensure that military procedures are adapted to nonmilitary uses to
+the extent practicable." The vote was on passage. The House passed the
+bill by a vote of 388-26, thus the bill was sent to the Senate. \[House
+Vote 195, [5/17/22](http://clerk.house.gov/evs/2022/roll195.xml);
+Congressional Quarterly,
+[5/17/22](https://plus.cq.com/vote/2022/H/195?3); Congressional Actions,
+[H.R.
+6873](https://www.congress.gov/bill/117th-congress/house-bill/6873/actions)\]
+
+### Cyber Incident Response
+
+**2022: Fitzpatrick Voted To Require Homeland Security To Report On The
+Roles And Responsibilities Of The Department Regarding Federal Cyber
+Incident Responses.** In May 2022, according to Congressional Quarterly,
+Fitzpatrick voted for the DHS Roles and Responsibilities in Cyber Space
+Act, which would "require the Homeland Security Department, in
+coordination with the Cybersecurity and Infrastructure Security Agency
+and within one year of enactment, to submit to Congress a report on the
+roles and responsibilities of the department and its components with
+respect to federal cyber incident response, including a review of how
+CISA cyber incident response plans and DHS authorities are utilized in
+the federal response and recommendations to further clarify department
+responsibilities related to cyber incident response." The vote was on
+passage. The House passed the bill by a vote of 313-105, thus the bill
+was sent to the Senate. \[House Vote 185,
+[5/16/22](http://clerk.house.gov/evs/2022/roll185.xml); Congressional
+Quarterly, [5/16/22](https://plus.cq.com/vote/2022/H/185?11);
+Congressional Actions, [H.R.
+5658](https://www.congress.gov/bill/117th-congress/house-bill/5658/actions)\]
+
+### Funding
+
+**2024: Fitzpatrick Voted For The \$94.4 Billion FY 2025 Homeland
+Security Appropriations.** In June 2024, Fitzpatrick voted for ,
+according to Congressional Quarterly, "the bill, as amended, that would
+provide \$94.4 billion in discretionary spending for fiscal 2025 for the
+Department of Homeland Security and its operational components,
+including \$22.7 billion for major disaster relief under a disaster cap
+adjustment. It would provide a total of \$28.8 billion in discretionary
+funding for U.S. Customs and Border Protection, U.S. Immigration and
+Customs Enforcement and U.S. Citizenship and Immigration Services. It
+would provide \$11.5 billion for the Transportation Security
+Administration, \$14.2 billion for the U.S. Coast Guard, \$3.2 billion
+for the U.S. Secret Service and \$2 billion for the Federal Protective
+Service. It would provide \$28.4 billion for the Federal Emergency
+Management Agency and \$2.9 billion for the Cybersecurity and
+Infrastructure Security Agency." The vote was on passage. The House
+passed the FY 2025 Defense Appropriations by a vote of 217 to 198.
+\[House Vote 333,
+[6/28/24](http://clerk.house.gov/evs/2024/roll333.xml); Congressional
+Quarterly, [6/28/24](https://plus.cq.com/vote/2024/H/333); Congressional
+Actions, [H.R.
+8752](http://www.congress.gov/bill/118th-congress/house-bill/8752/all-actions)\]
+
+-   **The Bill Included Various Republican-Backed Provisions That
+    Prohibited Abortion Services For ICE Detainees, Funding For DEI
+    Initiatives, The Removal Of Barriers At The U.S. Mexico Border, And
+    The Payment Of DHS Secretary Mayorkas' Salary.** According to
+    Congressional Quarterly, "It would also include numerous policy
+    provisions, including restricting the use of federal funds to pay
+    for abortions, prohibiting ICE from providing abortion services for
+    detainees in most cases, and prohibiting funding for DHS diversity,
+    equity and inclusion initiatives, among other policies. As amended,
+    it would prohibit the use of funds in the bill to remove any
+    barriers constructed by a state government along the U.S.-Mexico
+    border. It would also prohibit the use of funds to pay the salary
+    and expenses for DHS Secretary Alejandro Mayorkas." \[Congressional
+    Quarterly, [6/28/24](https://plus.cq.com/vote/2024/H/333)\]
+
+-   **The Bill Increased Homeland Security Funding Despite Republicans
+    Proposing Cuts To Other Domestic Agencies.** According to
+    Congressional Quarterly, "The Republican-backed bill (HR 8752),
+    which passed 212-203, would provide a modest funding boost for the
+    Homeland Security Department, even as the GOP majority proposes deep
+    cuts for many other domestic federal agencies." \[Congressional
+    Quarterly, [6/28/24](https://plus.cq.com/doc/news-8043376?2)\]
+
+-   **The Bill Included Funds To Resume Construction Of The Southern
+    Border Wall.** According to Congressional Quarterly, "But the bill
+    comes chock full of immigration enforcement measures that are
+    anathema to many Democrats, including money to resume construction
+    of a southern border wall that was a signature policy of former
+    President Donald Trump." \[Congressional Quarterly,
+    [6/28/24](https://plus.cq.com/doc/news-8043376?2)\]
+
+-   **Republicans Argued The Bill Would Strengthen Border Security And
+    Prevent "Countless Wrongdoers" From Entering The Country While
+    Democrats Argued It Would Exacerbate The Humanitarian Crisis Without
+    Improving Security.** According to Congressional Quarterly, "'The
+    decision to allow an open southern border has meant that countless
+    wrongdoers --- human traffickers, narcotraffickers, and potential
+    terrorists --- can enter our country freely,' Appropriations
+    Chairman Tom Cole, R-Okla., said during floor debate. 'Enough is
+    enough. Today\'s bill will take steps to end this state of affairs.'
+    Democrats protested the bill, saying it would do little to enhance
+    security and exacerbate a humanitarian crisis at the border. 'The
+    bill wastes taxpayer money on impractical border measures and
+    ineffective barriers,' said Connecticut Rep. Rosa DeLauro, the
+    committee\'s ranking Democrat. 'This bill withholds the resources
+    needed to manage the border, to process and vet the increased number
+    of people arriving in the United States, and to support border
+    communities and cities who are receiving migrants across the
+    country.'" \[Congressional Quarterly,
+    [6/28/24](https://plus.cq.com/doc/news-8043376?2)\]
+
+**2023: Fitzpatrick Voted For The FY 2024 Homeland Security
+Appropriations.** In September 2023, according to Congressional
+Quarterly, Fitzpatrick voted for "passage of the bill, as amended, that
+would provide \$91.5 billion in discretionary spending for fiscal 2024
+for the Homeland Security Department, including \$62.8 billion subject
+to the bill's discretionary cap and \$20.2 billion for major disaster
+relief under a disaster cap adjustment. It would provide \$19.9 billion
+for Customs and Border Protection, \$9.8 billion for Immigration and
+Customs Enforcement, \$10.6 billion for the Transportation Security
+Administration, \$13.6 billion for the Coast Guard and \$26.1 billion
+for the Federal Emergency Management Agency. Among other provisions, it
+would provide \$2.1 billion to resume construction of the wall along the
+U.S.-Mexico border and \$2.9 billion for the Cybersecurity and
+Infrastructure Security Agency." The vote was on passage. The House
+passed the bill by a vote of 220 to 208, thus the bill was sent to the
+Senate. \[House Vote 505,
+[9/28/23](http://clerk.house.gov/evs/2023/roll505.xml); Congressional
+Quarterly,
+[9/28/23](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions);
+Congressional Actions, [H.R.
+4367](https://plus.cq.com/vote/2023/H/505?8)\]
+
+-   **The Bill Prohibited the Purchase Of Unmanned Aircrafts
+    Manufactured In China Or By China-Based Companies With Funds
+    Provided By The Bill.** According to Congressional Quarterly, "it
+    would prohibit the use of any of the bill's funds to purchase
+    unmanned aircraft systems that are manufactured in China or by a
+    China-based company." \[Congressional Quarterly,
+    [9/28/23](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+-   **The Bill Restricted The Use Of Funds For Diversity, Equity, And
+    Inclusion Initiatives As Well As To Advance Critical Race Theory.**
+    According to Congressional Quarterly, "the bill would also include
+    restrictions on the use of any funds provided by the bill for any
+    DHS diversity, equity and inclusion initiatives or to advance
+    critical race theory." \[Congressional Quarterly,
+    [9/28/23](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+-   **The Bill Prohibited The Use Of Funds To Label Social Media Posts
+    As Misinformation.** According to Congressional Quarterly, the bill
+    "prohibit\[ed\] funding for any DHS component to label certain
+    social media posts as misinformation." \[Congressional Quarterly,
+    [9/28/23](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+-   **The Bill Prohibited Gender-Affirming Care To Be Provided To
+    Individuals In ICE Custody.** According to Congressional Quarterly,
+    the bill "prohibit\[ed\] funding provided by the bill to provide any
+    gender-affirming care for individuals in ICE custody."
+    \[Congressional Quarterly,
+    [9/28/23](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+-   **The Bill Prohibited The Use Of Funds For A Program For Ukrainians
+    To Temporarily Stay In The U.S.** According to Congressional
+    Quarterly, "as amended, the bill would bar the use of funds provided
+    in the bill for the Uniting for Ukraine program, which provides a
+    pathway for Ukrainian citizens and their immediate family members
+    who are outside of the U.S. to come to the U.S. and stay temporarily
+    under a two-year parole period." \[Congressional Quarterly,
+    [9/28/23](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+-   **The Bill Reduced The DHS Secretary's Salary To \$1.** According to
+    Congressional Quarterly, the bill "reduce\[ed\] DHS Secretary
+    Alejandro Mayorkas\' salary to \$1." \[Congressional Quarterly,
+    [9/28/23](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+-   **The Bill Prohibited The Use Of Funds To House Undocumented
+    Immigrants At Military Installations.** According to Congressional
+    Quarterly, the bill "prohibit\[ed\] the use of funds provided by the
+    bill to house undocumented immigrants who are unlawfully present in
+    the U.S. at military installations, except during a federally
+    declared major disaster." \[Congressional Quarterly,
+    [9/28/23](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+-   **The Bill Prohibited The Use Of Funds For Sanctuary Cities.**
+    According to Congressional Quarterly, "republicans also backed an
+    amendment from Rep. Tom Tiffany, R-Wis., that would bar federal
+    funds for sanctuary cities." \[Congressional Quarterly,
+    [9/28/23](https://plus.cq.com/doc/news-7844067?11)\]
+
+-   **The Bill Prohibited The Use Of Funds For Migrant Protection
+    Protocols.** According to Congressional Quarterly, "republicans also
+    backed an amendment \[...\] from Rep. Chip Roy, R-Tex., that would
+    bar federal spending on the Biden administration's migrant
+    protection protocols and more." \[Congressional Quarterly,
+    [9/28/23](https://plus.cq.com/doc/news-7844067?11)\]
+
+-   **The Bill Reduced Funding Under The Spending Level Negotiated
+    Earlier In The Year, Resulting In A Veto Threat From The Biden
+    Administration.** According to Congressional Quarterly, "The Biden
+    administration has already said President Joe Biden would veto the
+    Homeland Security funding bill over its cuts below the spending
+    levels negotiated in the debt ceiling deal (PL 118-5) earlier this
+    year, known as the Fiscal Responsibility Act. 'House Republicans had
+    an opportunity to engage in a productive, bipartisan appropriations
+    process, but instead, with less than two weeks before the end of the
+    fiscal year, are wasting time with partisan bills that cut domestic
+    spending to levels well below the FRA agreement and endanger
+    critical services for the American people,' the veto threat said."
+    \[Congressional Quarterly,
+    [9/28/23](https://plus.cq.com/doc/news-7844067?11)\]
+
+**2023: Fitzpatrick Effectively Voted For The FY 2024 Homeland Security
+Appropriations.** In September 2023, according to Congressional
+Quarterly, Fitzpatrick voted against the "motion to recommit the bill to
+the House Appropriations Committee. The vote was on the motion to
+recommit. The House rejected the motion by a vote of 210 to 218. \[House
+Vote 504, [9/28/23](http://clerk.house.gov/evs/2023/roll504.xml);
+Congressional Quarterly,
+[9/28/23](https://plus.cq.com/vote/2023/H/504?7); Congressional Actions,
+[H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Decreasing Total Homeland Security
+Appropriations By \$8.7 Billion.** In September 2023, according to
+Congressional Quarterly, Fitzpatrick voted against "amendment no. 74
+that would decrease the total amount of funds provided by the bill by
+\$8.7 billion." The vote was on the amendment. The House rejected the
+amendment by a vote of 75 to 347. \[House Vote 461,
+[9/28/23](http://clerk.house.gov/evs/2023/roll461.xml); Congressional
+Quarterly, [9/28/23](https://plus.cq.com/vote/2023/H/461?37);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Reducing The Salary Of The Assistant
+Secretary For Border And Immigration Policy To \$1.** In September 2023,
+according to Congressional Quarterly, Fitzpatrick voted against
+"amendment no. 69 that would reduce the salary of Assistant Secretary of
+Homeland Security for Border and Immigration Policy Blas Nunez-Neto to
+\$1." The vote was on the amendment. The House rejected the amendment by
+a vote of 170 to 260. \[House Vote 460,
+[9/28/23](http://clerk.house.gov/evs/2023/roll460.xml); Congressional
+Quarterly, [9/28/23](https://plus.cq.com/vote/2023/H/460?36);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Reducing The Salary Of The Executive
+Secretary Of The Department Of Homeland Security To \$1.** In September
+2023, according to Congressional Quarterly, Fitzpatrick voted against
+"amendment no. 67 that would reduce the salary of the Department of
+Homeland Security Executive Secretary Kimberly O'Connor to \$1." The
+vote was on the amendment. The House rejected the amendment by a vote of
+165 to 263. \[House Vote 459,
+[9/28/23](http://clerk.house.gov/evs/2023/roll459.xml); Congressional
+Quarterly, [9/28/23](https://plus.cq.com/vote/2023/H/459?35);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Reducing The Salary Of The Deputy
+Secretary Of The Department Of Homeland Security To \$1.** In September
+2023, according to Congressional Quarterly, Fitzpatrick voted against
+"amendment no. 66 that would reduce the salary of the Department of
+Homeland Security Deputy Secretary Kristie Canegallo to \$1." The vote
+was on the amendment. The House rejected the amendment by a vote of 169
+to 261. \[House Vote 458,
+[9/28/23](http://clerk.house.gov/evs/2023/roll458.xml); Congressional
+Quarterly, [9/28/23](https://plus.cq.com/vote/2023/H/458?34);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted To Amend The FY 2024 Homeland
+Security Appropriations By Striking Language That Specified That
+Returning Migrant Workers Would Not Count Toward H-2B Visa Numerical
+Limitations Again And Increased The Number Of Migrants Eligible For H-2B
+Visas.** In September 2023, according to Congressional Quarterly,
+Fitzpatrick voted for "adoption of the rule (H Res 730) that would
+provide for \[...\] the automatic adoption of an amendment to the Fiscal
+2024 Homeland Security Appropriations Act (HR 4367) that would strike
+language to specify that a returning migrant worker who has already been
+counted toward numerical limitations on H-2B temporary non-agricultural
+worker visas during any of the previous three fiscal years would not
+again be counted toward such limitation in fiscal 2024. The amendment
+would add language to authorize DHS, after consulting with the Labor
+Department and upon determining that the needs of U.S. businesses cannot
+be met in fiscal 2024 with U.S. workers, to increase the total number of
+migrants who could receive an H-2B visa in such fiscal year." The vote
+was on the adoption of the rule. The House adopted the rule by a vote of
+217 to 211. \[House Vote 457,
+[9/28/23](http://clerk.house.gov/evs/2023/roll457.xml); Congressional
+Quarterly, [9/28/23](https://plus.cq.com/vote/2023/H/457?33);
+Congressional Actions, [H.Res.
+730](https://www.congress.gov/bill/118th-congress/house-resolution/730/all-actions)\]
+
+**2023: Fitzpatrick Effectively Voted To Amend The FY 2024 Homeland
+Security Appropriations By Striking Language That Specified That
+Returning Migrant Workers Would Not Count Toward H-2B Visa Numerical
+Limitations Again And Increased The Number Of Migrants Eligible For H-2B
+Visas.** In September 2023, according to Congressional Quarterly,
+Fitzpatrick voted for the "motion to order the previous question (thus
+ending debate and possibility of amendment) on the rule (H Res 730) that
+would \[...\] provide for the automatic adoption of an amendment to the
+Fiscal 2024 Defense Appropriations Act (HR 4365) that would strike
+language to provide \$300 million in security assistance to Ukraine. It
+would also provide for the automatic adoption of an amendment to the
+Fiscal 2024 Homeland Security Appropriations Act (HR 4367) that would
+strike language to specify that a returning migrant worker who has
+already been counted toward numerical limitations on H-2B temporary
+non-agricultural worker visas during any of the previous three fiscal
+years would not again be counted toward such limitation in fiscal 2024.
+The amendment would add language to authorize DHS, after consulting with
+the Labor Department and upon determining that the needs of U.S.
+businesses cannot be met in fiscal 2024 with U.S. workers, to increase
+the total number of migrants who could receive an H-2B visa in such
+fiscal year." The vote was on the motion to order the previous question.
+The House agreed to the motion by a vote of 214 to 210. \[House Vote
+456, [9/28/23](http://clerk.house.gov/evs/2023/roll456.xml);
+Congressional Quarterly,
+[9/28/23](https://plus.cq.com/vote/2023/H/456?32); Congressional
+Actions, [H.Res.
+730](https://www.congress.gov/bill/118th-congress/house-resolution/730/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Prohibiting The Use Of Funds For The
+Office For Civil Rights And Civil Liberties.** In September 2023,
+according to Congressional Quarterly, Fitzpatrick voted against
+"amendment no. 64 that would prohibit the use of any funds provided by
+the bill for the Department of Homeland Security\'s Office for Civil
+Rights and Civil Liberties." The vote was on the amendment. The House
+rejected the amendment by a vote of 182 to 247. \[House Vote 455,
+[9/27/23](http://clerk.house.gov/evs/2023/roll455.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/455?31);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Prohibting The Use Of Funds For
+Operation Lone Star.** In September 2023, according to Congressional
+Quarterly, Fitzpatrick voted against "amendment no. 51 that would
+prohibit the use of any funds provided by the bill for the Texas border
+and immigration enforcement program known as 'Operation Lone Star.'" The
+vote was on the amendment. The House rejected the amendment by a cote of
+211 to 220. \[House Vote 454,
+[9/27/23](http://clerk.house.gov/evs/2023/roll454.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/454?30);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Reducing The Salary Of The Civil
+Rights And Civil Liberties Officer To \$1.** In September 2023,
+according to Congressional Quarterly, Fitzpatrick voted against
+"amendment no. 50 that would reduce Civil Rights and Civil Liberties
+Officer Shoba Sivaprasad Wadhia\'s salary to \$1." The vote was on the
+amendment. The House rejected the amendment by a vote of 161 to 268.
+\[House Vote 453,
+[9/27/23](http://clerk.house.gov/evs/2023/roll453.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/453?29);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Reducing The Salary Of The Assistant
+Director Of The Office Of Immigration Program Evaluation To \$1.** In
+September 2023, according to Congressional Quarterly, Fitzpatrick voted
+against amendment no. 49 that would reduce Immigration and Customs
+Enforcement Office of Immigration Program Evaluation Assistant Director
+Claire Trickler-McNulty\'s salary to \$1." The vote was on the
+amendment. The House rejected the amendment by a vote of 161 to 267.
+\[House Vote 452,
+[9/27/23](http://clerk.house.gov/evs/2023/roll452.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/452?26);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Reducing The Salary Of The
+Undersecretary Of Homeland Security For Intelligence And Analysis To
+\$1.** In September 2023, according to Congressional Quarterly,
+Fitzpatrick voted against "amendment no. 48 that would reduce the salary
+of Undersecretary of Homeland Security for Intelligence and Analysis
+Kenneth L. Wainstein to \$1." The vote was on the amendment. The House
+rejected the amendment by a vote of 159 to 269. \[House Vote 451,
+[9/27/23](http://clerk.house.gov/evs/2023/roll451.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/451?28);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Prohibiting The Use Of Funds To Pay
+The Salary Of The Director Of The Homeland Security Department
+Government Accountability Office.** In September 2023, according to
+Congressional Quarterly, Fitzpatrick voted against "amendment no. 43
+that would bar the use of funds under the bill to pay the salary and
+expenses of the Department of Homeland Security Director of the Homeland
+Security Department Government Accountability Office - Office of
+Inspector General Liaison Office Jim Crumpacker." The vote was on the
+amendment. The House rejected the amendment by a vote of 162 to 264.
+\[House Vote 450,
+[9/27/23](http://clerk.house.gov/evs/2023/roll450.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/450?25);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Prohibiting The Use Of Funds To Pay
+The Salary Of The Assistant Secretary For Counter Terrorism And Threat
+Prevention.** In September 2023, according to Congressional Quarterly,
+Fitzpatrick voted against "amendment no. 42 that would bar the use of
+funds under the bill to pay the salary and expenses of the Department of
+Homeland Security Assistant Secretary for Counter Terrorism and Threat
+Prevention Samantha Vinograd." The vote was on the amendment. The House
+rejected the amendment by a vote of 164 to 265. \[House Vote 449,
+[9/27/23](http://clerk.house.gov/evs/2023/roll449.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/449?23);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Prohibiting The Use Of Funds To Pay
+The Salary Of The Department Of Homeland Security Undersecretary Of The
+Office Of Strategy.** In September 2023, according to Congressional
+Quarterly, Fitzpatrick voted against "amendment no. 41 that would bar
+the use of funds under the bill to pay the salary and expenses of the
+Department of Homeland Security Undersecretary of the Office of
+Strategy, Policy and Plans Robert Silvers." The vote was on the
+amendment. The House rejected the amendment by a vote of 168 to 261.
+\[House Vote 448,
+[9/27/23](http://clerk.house.gov/evs/2023/roll448.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/448?22);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Prohibiting The Use Of Funds To Pay
+The Salary Of The Director Of The Cybersecurity And Infrastructure
+Security Agency's Election Security Initiative.** In September 2023,
+according to Congressional Quarterly, Fitzpatrick voted against
+"amendment no. 40 that would bar the use of funds under the bill to pay
+the salary and expenses of the Cybersecurity and Infrastructure Security
+Agency's Election Security Initiative Director Geoffrey Hale." The vote
+was on the amendment. The House rejected the amendment by a vote of 160
+to 270. \[House Vote 447,
+[9/27/23](http://clerk.house.gov/evs/2023/roll447.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/447?21);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Prohibiting The Use Of Funds To Pay
+The Salary Of The Director Of The Cybersecurity And Infrastructure
+Security Agency.** In September 2023, according to Congressional
+Quarterly, Fitzpatrick voted against "amendment no. 39 that would bar
+the use funds under the bill to pay the salary and expenses of the
+Cybersecurity and Infrastructure Security Agency Director Jen Easterly."
+The vote was on the amendment. The House rejected the amendment by a
+vote of 147 to 282. \[House Vote 446,
+[9/27/23](http://clerk.house.gov/evs/2023/roll446.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/446?20);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Reducing Funding For Cybersecurity And
+Infrastructure Security Agency Operations By \$600 Million.** In
+September 2023, according to Congressional Quarterly, Fitzpatrick voted
+against "amendment no. 29 that would reduce funding for Cybersecurity
+and Infrastructure Security Agency operations and support from \$2.4
+billion to \$1.8 billion." The vote was on the amendment. The House
+rejected the amendment by a vote of 108 to 320. \[House Vote 445,
+[9/27/23](http://clerk.house.gov/evs/2023/roll445.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/445?19);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Striking Language That Required Funds
+To Be Allocated To Immigration And Customs Enforcement To Ensure The
+Full Capacity Of Detention Centers Is Maintained And That Migrants Not
+Detained Have GPS Monitoring.** In September 2023, according to
+Congressional Quarterly, Fitzpatrick voted against "amendment no. 25
+that would strike language to require the Department of Homeland
+Security to allocate amounts for U.S. Immigration and Customs
+Enforcement operations and support in order to ensure the average daily
+population of detainees is maintained at the full capacity funded by the
+bill throughout the fiscal year and ensure that every migrant who is not
+detained has mandatory GPS monitoring throughout the duration of all
+applicable immigration proceedings." The vote was on the amendment. The
+House rejected the amendment by a vote of 210 to 220. \[House Vote 444,
+[9/27/23](http://clerk.house.gov/evs/2023/roll444.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/444?18);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Striking Provisions That Prohibited
+The Use Of Funds To Facilitate Migrant Parole, To Transport Adult
+Migrants Into The U.S. Interior, Or To Issue Employment Authorization To
+Migrants Who Have Been Denied Asylum Or Been Convicted Of A Crime While
+Seeking Asylum.** In September 2023, according to Congressional
+Quarterly, Fitzpatrick voted against "amendment no. 23 that would strike
+numerous provisions, including language to bar the use of funds under
+the bill for: U.S. Customs and Border Protection\'s CBP One application
+to facilitate any migrant\'s parole into the U.S.; transporting adult
+migrants into the U.S. interior for non-immigration enforcement
+purposes; and to issue any employment authorization document to a
+migrant whose asylum application has been denied or who has been
+convicted of a federal or state crime while their asylum application is
+pending." \[House Vote 443,
+[9/27/23](http://clerk.house.gov/evs/2023/roll443.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/443?17);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2023: Fitzpatrick Voted Against Reducing Funding For U.S. Customs And
+Border Protection Operations By \$496.3 Million And Use The Funds To
+Hire Additional Border Patrol Officers.** In September 2023, according
+to Congressional Quarterly, Fitzpatrick voted against "amendment no. 13
+that would reduce by \$496.3 million, and increase by the same amount,
+funding for U.S. Customs and Border Protection operations and support,
+intended to hire additional CBP officers for ports of entry." The vote
+was on the amendment. The House rejected the amendment by a vote of 206
+to 223. \[House Vote 442,
+[9/27/23](http://clerk.house.gov/evs/2023/roll442.xml); Congressional
+Quarterly, [9/27/23](https://plus.cq.com/vote/2023/H/442?14);
+Congressional Actions, [H.R.
+4367](https://www.congress.gov/bill/118th-congress/house-bill/4367/all-actions)\]
+
+**2022: Fitzpatrick Voted For The FY 2023 Omnibus Spending Package,
+Which Provided \$60.7 Billion For The Department Of Homeland Security.**
+In December 2022, according to Congressional Quarterly, Fitzpatrick
+voted to concur with the Senate amendment to the Consolidated
+Appropriations Act, 2023, which would "provide approximately \$25.5
+billion for the Agriculture Department and related agencies; \$82.4
+billion for the Commerce and Justice departments and science and related
+agencies; \$797.7 billion for the Defense Department; \$54 billion for
+the Energy Department and federal water projects; \$27.6 billion for the
+Treasury Department, federal judiciary and a number of executive
+agencies; \$60.7 billion for the Homeland Security Department; \$38.9
+billion for the Interior Department, EPA and related agencies; \$207.4
+billion for the Labor, Health and Human Services and Education
+departments and related agencies; \$6.9 billion for legislative branch
+entities; \$154.2 billion for the Veterans Affairs Department, military
+construction, and related agencies; \$59.7 billion for the State
+Department and related agencies; and \$87.3 billion for the
+Transportation and Housing and Urban Development departments and related
+agencies." The vote was on a motion to concur. The House concurred with
+the Senate amendment by a vote of 225-201, thus bill was sent to
+President Biden and ultimately became law. \[House Vote 549,
+[12/23/22](http://clerk.house.gov/evs/2022/roll549.xml); Congressional
+Quarterly, [12/23/22](https://plus.cq.com/vote/2022/H/549?2);
+Congressional Actions, [S.Amdt.
+6552](https://www.congress.gov/amendment/117th-congress/senate-amendment/6552/actions);
+Congressional Actions, [H.R.
+2617](https://www.congress.gov/bill/117th-congress/house-bill/2617/all-actions)\]
+
+**2022: Fitzpatrick Voted To Provide \$23.9 Billion To The Federal
+Emergency Management Agency, \$14.8 Billion To Customs And Border
+Protection, \$11.5 Billion To The Coast Guard, \$8.3 Billion For
+Immigration And Customs Enforcement, \$2.6 Billion To The Cybersecurity
+And Infrastructure Agency, And \$409.5 Million To Citizenship And
+Immigration Services.** In March 2022, according to Congressional
+Quarterly, Fitzpatrick voted for the first portion of the Fiscal 2022
+Omnibus Appropriations, which would "provide \$23.9 billion for the
+Federal Emergency Management Agency, mostly for disaster response and
+recovery activities; \$14.8 billion for Customs and Border Protection;
+\$11.5 billion for the Coast Guard; \$8.3 billion for Immigration and
+Customs Enforcement; \$2.6 billion for the Cybersecurity and
+Infrastructure Security Agency; and \$409.5 million for Citizenship and
+Immigration Services." The vote was on the motion to concur in the
+Senate amendment with a House amendment. The bill was divided and this
+vote was the first portion of the bill. The House concurred with the
+Senate by a vote of 361-69. After resolving differences, the bill was
+sent to the President and became law. \[House Vote 65,
+[3/9/22](http://clerk.house.gov/evs/2022/roll065.xml); Congressional
+Quarterly, [3/9/22](https://plus.cq.com/vote/2022/H/65?3); Congressional
+Actions, [H.R.
+2471](https://www.congress.gov/bill/117th-congress/house-bill/2471/actions)\]
+
+-   **The Bill Increased The Cybersecurity And Infrastructure Security
+    Agency's Budget To \$2.6 Billion To Combat Cyberattacks And Protect
+    Critical Infrastructure And Communications Systems.** According to
+    CNN, "The spending bill would increase funding for the Cybersecurity
+    and Infrastructure Security Agency by \$568.7 million, for a total
+    of \$2.6 billion to prevent cyberattacks and protect critical
+    infrastructure and communications systems, according to a fact
+    sheet." \[CNN,
+    [3/9/22](https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html)\]
+
+-   **The Bill Secured Over \$23 Billion For Immigration Customs
+    Enforcement And Customs And Border Protection.** According to Time,
+    "Republicans won a few concessions in the bill---notably increased
+    military spending---but they also secured more than \$23 billion for
+    two key federal agencies that oversee immigration: Customs
+    Enforcement (ICE) and Border Protection (CBP)." \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+-   **The Bill Provided \$1.45 Billion To Manage The Migrants Arriving
+    At The U.S.-Mexico Border, Including \$1.06 For Processing
+    Facilities, Migrant Medical Care And Transportation.** According to
+    Time, "\$1.45 billion will go towards managing the volume of
+    migrants arriving at the southern border, including \$1.06 billion
+    to CBP for processing facilities, migrant medical care, and
+    transportation." \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+-   **The Bill Provided \$30 Million For New Body-Worn Cameras And Video
+    Recording Materials For Border Patrol Agents And \$72.4 Million To
+    Procure New Aircraft And Aircraft Sensors.** According to Time,
+    "\$30 million will fund new body-worn cameras and video recording
+    equipment for Border Patrol stations, and \$72.4 million will be
+    invested in new aircraft and aircraft sensors." \[Time,
+    [3/9/22](https://time.com/6156432/spending-bill-ukraine-whats-in/)\]
+
+-   **The Bill Allowed Homeland Security To Increase The Cap On H-2B
+    Non-Immigrant Visas In FY 2022 If U.S. Businesses Cannot Be
+    Fulfilled With U.S. Workers.** According to Congressional Quarterly,
+    "Allows the Homeland Security Department to increase the numerical
+    limit (or cap) on H-2B nonimmigrant visas that may be issued in FY
+    2022 if it determines that the needs of U.S. businesses cannot be
+    satisfied with U.S. workers." \[Congressional Quarterly,
+    [3/9/22](https://plus.cq.com/doc/har-6475461?1)\]
+
+### Nonprofit Security Grant Program
+
+**2022: Fitzpatrick Voted To Authorize \$75 Million For FY 2022 And
+\$500 Million Annually For FY 2023 Through FY 2028 For The Nonprofit
+Security Grant Program, Which Supports Physical Security Improvements
+For Nonprofits At Risk Of Terrorist Attacks.** In May 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the Nonprofit Security
+Grant Program Improvement Act of 2022, which would "modify the Homeland
+Security Department\'s Nonprofit Security Grant Program, which is
+administered by the Federal Emergency Management Agency and supports
+physical security enhancements for nonprofits at risk of terrorist
+attacks. It would authorize \$75 million for fiscal 2022 and \$500
+million annually for fiscal years 2023 through 2028 for the program."
+The vote was on passage. The House passed the bill by a vote of 288-129,
+thus the bill was sent to the Senate. \[House Vote 184,
+[5/16/22](http://clerk.house.gov/evs/2022/roll184.xml); Congressional
+Quarterly, [5/16/22](https://plus.cq.com/vote/2022/H/184?8);
+Congressional Actions, [H.R.
+6825](https://www.congress.gov/bill/117th-congress/house-bill/6825/actions)\]
+
+-   **The Bill Would Require FEMA To Evenly Split Grant Funding Between
+    Recipients Located Within And Outside Of High-Risk Urban Areas.**
+    According to Congressional Quarterly, "Among other provisions, it
+    would require FEMA to ensure that grant funding is evenly split
+    between recipients located within and outside of high-risk urban
+    areas;" \[Congressional Quarterly,
+    [5/16/22](https://plus.cq.com/vote/2022/H/184?8)\]
+
+-   **The Bill Would Allow States To Keep Up To 5% Of Program Funding
+    For Grant Administration Expenses.** According to Congressional
+    Quarterly, "authorize states to retain up to 5 percent of program
+    funding for expenses related to grant administration;"
+    \[Congressional Quarterly,
+    [5/16/22](https://plus.cq.com/vote/2022/H/184?8)\]
+
+-   **The Bill Would Require FEMA To Create An Office To Administer The
+    Grant Program And Submit A Program Administration Plan To
+    Congress.** According to Congressional Quarterly, "require FEMA to
+    establish an office to administer the program and submit to Congress
+    within 90 days of enactment a program administration plan, including
+    a staffing plan." \[Congressional Quarterly,
+    [5/16/22](https://plus.cq.com/vote/2022/H/184?8)\]
+
+-   **Congressman Bennie Thompson (D) Emphasized The Increased Funding
+    Was In Response To The Terrorism Threats Faced By Nonprofits,
+    Including Places Of Worship And HBCUs.** According to Congressional
+    Quarterly, "Chairman Bennie Thompson, D-Miss., said the increased
+    authorization level is 'responsive to the dynamic terrorism threat
+    landscape facing nonprofits, including houses of worship and
+    historically Black colleges and universities.' There was a hostage
+    situation in January at a Texas synagogue, and there have been
+    dozens of bomb threats so far this year against HBCUs."
+    \[Congressional Quarterly,
+    [3/2/22](https://plus.cq.com/doc/committees-20220302481466?10)\]
+
+### Secret Service
+
+**2024: Fitzpatrick Voted To Remove The Salary Cap For Secret Services
+Agents Protecting Presidents, Presidential Nominees, And Heads Of State,
+Allowing Them To Collect Overtime Pay.** In January 2024, Fitzpatrick
+voted for , according to Congressional Quarterly, the "motion to suspend
+the rules and pass the bill that would extend the removal of a salary
+cap for U.S. Secret Service agents through 2028, thereby allowing those
+agents to collect all overtime pay for their work performed beyond the
+salary cap of \$159,950 for both the 2024 and 2028 presidential
+elections. Under the bill, the effective date for the overtime pay cap
+exemption would be applied retroactively to the date the last pay cap
+exemption expired, Dec. 31, 2023. The bill also would clarify that the
+pay cap exception only covers agents who work to protect presidents,
+presidential nominees and heads of state. It also would direct the
+Secret Service to report to Congress on steps the agency is taking to
+address the increased protective service demands placed on its personnel
+and require the agency to provide annual reports to Congress through
+2029 on the effects this bill had on agency staffing and pay, including
+quarterly projections and updates." The vote was on passage. The House
+passed the bill by a vote of 379 to 20. \[House Vote 21,
+[1/29/24](http://clerk.house.gov/evs/2024/roll021.xml); Congressional
+Quarterly, [1/29/24](https://plus.cq.com/vote/2024/H/21?10);
+Congressional Actions, [S.
+3427](https://www.congress.gov/bill/118th-congress/senate-bill/3427/all-actions)\]
+
+### Secretary Alejandro Mayorkas
+
+**2024: Fitzpatrick Voted To Reduce Homeland Security Secretary
+Alejandro Mayorkas' Salary To \$1.** In June 2024, Fitzpatrick voted for
+, according to Congressional Quarterly, "amendment no. 18 that would
+reduce the salary of Homeland Security Secretary Alejandro Mayorkas to
+\$1." The vote was on the amendment. The underlying legislation was the
+FY 2025 Homeland Security Appropriations. The House rejected the
+amendment by a vote of 200 to 208. \[House Vote 287,
+[6/26/24](http://clerk.house.gov/evs/2024/roll287.xml); Congressional
+Quarterly, [6/26/24](https://plus.cq.com/vote/2024/H/287?11);
+Congressional Actions,
+[H.Amdt.1006](https://www.congress.gov/amendment/118th-congress/house-amendment/1006/actions?s=a&r=29);
+Congressional Actions, [H.R.
+8752](http://www.congress.gov/bill/118th-congress/house-bill/8752/all-actions)\]
+
+-   **The Amendment Followed An Earlier Vote That Deprived Mayorkas Of
+    His Salary Over His Handling Of The Southern Border That Was Taken
+    Before Many Democrats Made It To The Floor.** According to
+    Congressional Quarterly, "Republicans also used the Homeland
+    Security bill debate to train their fire on Homeland Security
+    Secretary Alejandro Mayorkas, whom the House already impeached amid
+    GOP anger over the administration's handling of the southern border.
+    On a party-line vote of 193-173 that was gaveled to a close before
+    many Democrats reached the floor, the House adopted an amendment by
+    Rep. Andy Biggs, R-Ariz., to deprive Mayorkas of his salary. \[...\]
+    But in a later vote, which drew more members to the floor in time,
+    Democrats managed to defeat an amendment by Rep. Marjorie Taylor
+    Greene, R-Ga., that would have reduced Mayorkas' salary to \$1.
+    Greene's measure went down on a 200-208 vote." \[Congressional
+    Quarterly, [6/26/24](https://plus.cq.com/doc/news-8041538?16)\]
+
+**2024: Fitzpatrick Voted To Defund The Office Of Homeland Security
+Secretary Alejandro Mayorkas.** In June 2024, Fitzpatrick voted for ,
+according to Congressional Quarterly, "amendment no. 4 that would
+prohibit the use of funds in the bill to pay the salary and expenses of
+Homeland Security Secretary Alejandro Mayorkas." The vote was on the
+amendment. The underlying legislation was the FY 2025 Homeland Security
+Appropriations. The House adopted the amendment by a vote of 193 to 173.
+\[House Vote 285,
+[6/26/24](http://clerk.house.gov/evs/2024/roll285.xml); Congressional
+Quarterly, 6/26/24; Congressional Actions,
+[H.Amdt.1000](https://www.congress.gov/amendment/118th-congress/house-amendment/1000/actions?s=a&r=29);
+Congressional Actions, [H.R.
+8752](http://www.congress.gov/bill/118th-congress/house-bill/8752/all-actions)\]
+
+-   **The Amendment Followed The House's Impeachment Of Mayorkas Led By
+    Republicans For His Handling Of The Southern Border With Democrats
+    Arguing that Punishing Mayorkas Is Not The Way To Handle Policy
+    Disputes.** According to Congressional Quarterly, "Republicans also
+    used the Homeland Security bill debate to train their fire on
+    Homeland Security Secretary Alejandro Mayorkas, whom the House
+    already impeached amid GOP anger over the administration's handling
+    of the southern border. \[...\] 'They have incentivized literally
+    millions of people to come into this country,' Biggs said of
+    Mayorkas and the administration. Illinois Rep. Lauren Underwood, the
+    ranking Democrat on the Homeland Security Appropriations
+    Subcommittee, fought the amendment, saying, 'Punishing the secretary
+    is not the way to handle policy disputes.'" \[Congressional
+    Quarterly, [6/26/24](https://plus.cq.com/doc/news-8041538?16)\]
+
+-   **The Vote Was Taken Before Many Democrats Made It To The Floor.**
+    According to Congressional Quarterly, "On a party-line vote of
+    193-173 that was gaveled to a close before many Democrats reached
+    the floor, the House adopted an amendment by Rep. Andy Biggs,
+    R-Ariz., to deprive Mayorkas of his salary." \[Congressional
+    Quarterly, [6/26/24](https://plus.cq.com/doc/news-8041538?16)\]
+
+**2024: Fitzpatrick Voted To Impeach Secretary Of Homeland Security
+Alejandro Mayorkas.** In February 2024, Fitzpatrick voted for ,
+according to Congressional Quarterly, "the resolution, as amended, that
+would Homeland Security Secretary Alejandro Nicholas Mayorkas for
+willful and systemic refusal to comply with the law and breach of public
+trust. It would find that Mayorkas has repeatedly violated immigration
+and border security laws and because of that, in large part, millions of
+individuals have illegally entered the U.S. annually with many
+unlawfully remaining in the U.S. It also would find that Mayorkas has
+'knowingly made false statements' and 'obstructed lawful oversight' of
+the Homeland Security Department. It would declare that Mayorkas has
+breached the public trust by willfully refusing 'to fulfill his
+statutory duty to control and guard' U.S. boundaries and borders against
+illegal crossings. It would find that Mayorkas has demonstrated that he
+will remain a threat to national and border security, public safety and
+the Constitution if allowed to remain in office and has acted in a
+manner grossly incompatible with his duties and the rule of law." The
+vote was on adoption of the resolution. The House adopted the resolution
+by a vote of 214 to 213. \[House Vote 43, 2/13/24; Congressional
+Quarterly, [2/13/24](https://plus.cq.com/vote/2024/H/43?8);
+Congressional Actions, [H.Res.
+863](https://www.congress.gov/bill/118th-congress/house-resolution/863/all-actions)\]
+
+-   **Republicans Calling For Mayorkas' Impeached Argued That He Failed
+    To Secure The Southwest Border.** According to Congressional
+    Quarterly, "Republicans who spoke at the meeting accused the
+    Department of Homeland Security leader of failing to secure the
+    southwest border, abusing his authority to grant humanitarian parole
+    to migrants and flouting requirements to detain those who cross the
+    border illegally. They said his actions have caused an increase in
+    migration at the southwest border. 'Secretary Mayorkas' job is to
+    secure the homeland and enforce the law. He\'s failed to do either
+    of those things and must be held accountable,' said Homeland
+    Security Committee Chairman Mark E. Green, R-Tenn." \[Congressional
+    Quarterly,
+    [2/5/24](https://plus.cq.com/doc/committees-20240205522089?9)\]
+
+-   **Democrats Called The Attempt A "Political Stunt" Based In Policy
+    Disagreements Rather Than Offenses.** According to Congressional
+    Quarterly, "Panel Democrats repeatedly called the impeachment
+    attempt a political stunt and countered that their counterparts\'
+    justifications were based on different policy opinions rather than
+    actual offenses. 'They\'re gonna impeach someone because they have
+    policy disagreements with him. I mean, if that\'s the standard, then
+    Democrats should\'ve impeached the last guy\'s entire Cabinet,' said
+    ranking member Jim McGovern, D-Mass." \[Congressional Quarterly,
+    [2/5/24](https://plus.cq.com/doc/committees-20240205522089?9)\]
+
+**2024: Fitzpatrick Voted To Impeach Secretary Of Homeland Security
+Alejandro Mayorkas.** In February 2024, Fitzpatrick voted for ,
+according to Congressional Quarterly, "Adoption of Articles I and II
+that would impeach Secretary of Homeland Security Alejandro Mayorkas for
+willful and systemic refusal to comply with the law and breach of public
+trust." The vote was on adoption of the impeachment articles. The House
+rejected the motion by a vote of 214 to 216. \[House Vote 37,
+[2/6/24](http://clerk.house.gov/evs/2024/roll037.xml); Congressional
+Quarterly, [2/6/24](https://plus.cq.com/vote/2024/H/37?6); Congressional
+Actions, [H.Res.
+863](https://www.congress.gov/bill/118th-congress/house-resolution/863/all-actions)\]
+
+-   **Republicans Calling For Mayorkas' Impeached Argued That He Failed
+    To Secure The Southwest Border.** According to Congressional
+    Quarterly, "Republicans who spoke at the meeting accused the
+    Department of Homeland Security leader of failing to secure the
+    southwest border, abusing his authority to grant humanitarian parole
+    to migrants and flouting requirements to detain those who cross the
+    border illegally. They said his actions have caused an increase in
+    migration at the southwest border. 'Secretary Mayorkas' job is to
+    secure the homeland and enforce the law. He\'s failed to do either
+    of those things and must be held accountable,' said Homeland
+    Security Committee Chairman Mark E. Green, R-Tenn." \[Congressional
+    Quarterly,
+    [2/5/24](https://plus.cq.com/doc/committees-20240205522089?9)\]
+
+-   **Democrats Called The Attempt A "Political Stunt" Based In Policy
+    Disagreements Rather Than Offenses.** According to Congressional
+    Quarterly, "Panel Democrats repeatedly called the impeachment
+    attempt a political stunt and countered that their counterparts\'
+    justifications were based on different policy opinions rather than
+    actual offenses. 'They\'re gonna impeach someone because they have
+    policy disagreements with him. I mean, if that\'s the standard, then
+    Democrats should\'ve impeached the last guy\'s entire Cabinet,' said
+    ranking member Jim McGovern, D-Mass." \[Congressional Quarterly,
+    [2/5/24](https://plus.cq.com/doc/committees-20240205522089?9)\]
+
+**2023: Fitzpatrick Effectively Voted To Impeach DHS Secretary Alejandro
+Mayorkas.** In November 2023, according to Congressional Quarterly,
+Fitzpatrick voted against the "motion to refer the resolution that would
+impeach Homeland Security Secretary Alejandro Mayorkas to the House
+Homeland Security Committee." The vote was on the motion to refer. The
+House agreed to the motion by a vote of 209 to 201. \[House Vote 645,
+[11/13/23](http://clerk.house.gov/evs/2023/roll645.xml); Congressional
+Quarterly, [11/13/23](https://plus.cq.com/vote/2023/H/645?76);
+Congressional Actions, [H.Res.
+863](https://www.congress.gov/bill/118th-congress/house-resolution/863/all-actions)\]
+
+### Trade And Economic Security Council
+
+**2022: Fitzpatrick Voted To Authorize \$3 Million Annually Through FY
+2026 To Establish A Trade And Economic Security Council Within DHS To
+Identify Concentrated Risks, Coordinate Department Activities, And
+Propose Statutory And Regulatory Changes.** In April 2022, according to
+Congressional Quarterly, Fitzpatrick voted for the DHS Trade and
+Economic Security Council Act of 2021, which would "establish a Trade
+and Economic Security Council within the Homeland Security Department to
+provide DHS with recommendations on trade and economic security matters,
+including identifying concentrated risks; coordinating department-wide
+activities; and proposing statutory and regulatory changes. It would
+require the council to brief Congress on its activities within 180 days
+of enactment and every six months thereafter for four years. It would
+statutorily establish the existing position of an assistant secretary
+for trade and economic security. It would require the assistant
+secretary to be responsible for policy formulation regarding trade and
+economic security matters; oversee certain supply chain mapping
+activities; serve as the executive for DHS on the Committee on Foreign
+Investment in the United States and other panels; and coordinate with
+federal and nongovernmental stakeholders on trade and economy security
+matters. It would authorize \$3 million annually through fiscal 2026 for
+the department to carry out the bill\'s provisions." The vote was on
+passage. The House passed the bill by a vote of 348-75, thus the bill
+was sent to the Senate. \[House Vote 112,
+[4/5/22](http://clerk.house.gov/evs/2022/roll112.xml); Congressional
+Quarterly, [4/5/22](https://plus.cq.com/vote/2022/H/112?7);
+Congressional Actions, [H.R.
+4476](https://www.congress.gov/bill/117th-congress/house-bill/4476/actions)\]
+
+-   **The Bill Would Establish A Position For An Assistant Secretary For
+    Trade And Economic Security To Advise The Homeland Security On
+    Economic Security And Trade Matters.** According to Congressional
+    Quarterly, "HR 4476, that would establish within the Homeland
+    Security Department's Office of Strategy, Policy and Plans an
+    assistant secretary for trade and economic security to advise the
+    DHS secretary regarding economic security and trade matters."
+    \[Congressional Quarterly,
+    [10/26/21](https://plus.cq.com/doc/committees-20211026474172?10)\]
+
+-   **The Bill Would Establish The Trade And Economic Security Council
+    To Advice The Assistant Secretary For Trade And Economic Security,
+    Including Coordinating Activities Within DHS And Providing
+    Recommendations On Economic Security.** According to Congressional
+    Quarterly, "It also would establish within the department the Trade
+    and Economic Security Council to provide advice and recommendations
+    to the secretary regarding economic security, including coordinating
+    department-wide activity on such matters and proposing statutory and
+    regulatory changes impacting economic security." \[Congressional
+    Quarterly,
+    [10/26/21](https://plus.cq.com/doc/committees-20211026474172?10)\]

@@ -1,0 +1,236 @@
+---
+title: Islamophobia
+description: 
+published: true
+date: 2025-09-22T21:04:05.369Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:04:00.618Z
+---
+
+# Islamophobia
+
+### Monitoring International Islamophobia
+
+**2021: Fitzpatrick Voted Against Creating An Office To Monitor And
+Combat Islamophobia To Track And Combat Islamophobia In Foreign
+Countries.** In December 2021, Fitzpatrick voted against the Combating
+International Islamophobia Act which would, according to Congressional
+Quarterly, "create an Office to Monitor and Combat Islamophobia within
+the State Department, headed by a presidentially-appointed special
+envoy, to monitor and combat 'acts of Islamophobia and Islamophobic
+incitement' in foreign countries and coordinate related reporting
+activities." The vote was on passage. The House passed the bill by a
+vote of 219-212. \[House Vote 448,
+[12/14/21](http://clerk.house.gov/evs/2021/roll448.xml); Congressional
+Quarterly, [12/14/21](https://plus.cq.com/vote/2021/H/448?3);
+Congressional Actions, [H.R.
+5665](https://www.congress.gov/bill/117th-congress/house-bill/5665/actions)\]
+
+-   **Congresswoman Ilhan Omar Cited Various Instances Of Islamophobia,
+    Including The Internment Camps Of Uyghurs In China And The Genocide
+    Of The Rohingya People In Burma.** According to Congressional
+    Quarterly, "Rep. Ilhan Omar, D-Minn., who introduced the bill
+    (HR 5665) aimed at countering Islamophobia across the globe, cited
+    several examples of anti-Muslim violence, including China holding
+    Uyghurs in concentration camps and the Rohingya genocide in Burma."
+    \[Congressional Quarterly,
+    [12/9/21](https://plus.cq.com/doc/committees-20211209476735?5)\]
+
+-   **Several Republicans Argued The Bill Was "Redundant" Since The
+    State Department Has The Democracy, Human Rights And Labor And
+    International Religious Bureaus And The U.S. Commission On Religious
+    Freedom.** According to Congressional Quarterly, "Several GOP
+    lawmakers strongly opposed Omar's bill, arguing it was redundant in
+    light of the State Department's existing Democracy, Human Rights and
+    Labor and International Religious Freedom bureaus, as well as the
+    U.S. Commission on Religious Freedom." \[Congressional Quarterly,
+    [12/9/21](https://plus.cq.com/doc/committees-20211209476735?5)\]
+
+-   **Congressman Steve Chabot Of Ohio Said The Persecution Of Muslims
+    Was Not Unique And That It Would Not Be Fair To Have One Office
+    Dedicates To Anti-Muslim Violence While Ignoring The Persecution Of
+    Other Religions.** According to Congressional Quarterly, "'Sadly,
+    the persecution of Muslims is not unique. As a result, it is
+    difficult to justify a special office dedicated to dealing
+    exclusively with the persecution of Muslims while ignoring the
+    mistreatment and violence directed at many other religions,' Rep.
+    Steve Chabot, R-Ohio, said." \[Congressional Quarterly,
+    [12/9/21](https://plus.cq.com/doc/committees-20211209476735?5)\]
+
+-   **Republicans Attempted To Narrow The Scope Of Islamophobia To China
+    And Block Assessment Of Actions By The Israeli Government.**
+    According to Congressional Quarterly, "Several GOP amendments,
+    including proposals to narrow the bill to focus only on Islamophobia
+    in China and to block the special envoy's office from assessing any
+    action by the Israeli government, will get roll call votes on
+    Friday, but are unlikely to be adopted." \[Congressional Quarterly,
+    [12/9/21](https://plus.cq.com/doc/committees-20211209476735?5)\]
+
+-   **The Special Envoy To The New Office To Monitor And Combat
+    Islamophobia Would Need To Be Nominated By The President And
+    Confirmed By The Senate.** According to Congressional Quarterly,
+    "Florida Republican Brian Mast did secure the panel's vote to add
+    language to the bill to require the special envoy to be appointed by
+    the president and confirmed by the Senate." \[Congressional
+    Quarterly,
+    [12/9/21](https://plus.cq.com/doc/committees-20211209476735?5)\]
+
+-   **House Foreign Affairs Committee Republicans Argued That The Bill
+    Was A "Backhanded Effort" To Portray The GOP As Islamophobes For
+    Criticizing Congresswoman Ilhan Omar And Other Muslim Lawmakers.**
+    According to Congressional Quarterly, "GOP members of the House
+    Foreign Affairs Committee sharply opposed the Minnesota Democrat's
+    legislation, arguing it is everything from redundant to a backhanded
+    effort to paint Republicans critical of her and other Muslim
+    lawmakers as anti-Muslim." \[Congressional Quarterly,
+    [12/10/21](https://plus.cq.com/doc/news-6414202?6)\]
+
+-   **Republicans Argued That Having A Diplomatic Voice To Tackle
+    Anti-Muslim Violence Was Not Necessary.** According to Congressional
+    Quarterly, "Republicans made clear they did not view a designated
+    American diplomatic voice to combat Islamophobia as necessary.'
+    \[Congressional Quarterly,
+    [12/10/21](https://plus.cq.com/doc/news-6414202?6)\]
+
+-   **While Discussing The Bill In Committee, Republicans Continued To
+    Bring Up The Need To Combat Anti-Semitism Instead And Brought Up
+    Congresswoman Ilhan Omar's Past Comments Criticizing Israel.**
+    According to Congressional Quarterly, "But Republicans continued to
+    stress the need for Congress to fight against anti-Semitism, with
+    GOP Reps. Lee Zeldin of New York and Brian Mast of Florida panning
+    Omar for past remarks she made that were critical of Israel."
+    \[Congressional Quarterly,
+    [12/10/21](https://plus.cq.com/doc/news-6414202?6)\]
+
+-   **Republicans Claimed The Bill Did Not Have A Coherent Definition Of
+    Islamophobia And That A Hearing Was Needed To Have The State
+    Department "Weigh In" On The Bill.** According to Congressional
+    Quarterly, "Republicans argued the bill lacked a clear definition of
+    Islamophobia and that a hearing should have been held for the State
+    Department to weigh in on the legislation." \[Congressional
+    Quarterly,
+    [12/14/21](https://plus.cq.com/doc/committees-20211214477496?11)\]
+
+-   **Congresswoman Ilhan Omar Highlighted Examples Of Islamophobia,
+    Including China's Human Rights Violations Against Uyghurs And Former
+    President Donald Trump's Campaign Promise To Prohibit Muslims From
+    Entering The Country.** According to The Hill, "She instead pointed
+    to a global trend of anti-Muslim sentiment around the world ---
+    including the Chinese government's alleged abuses against the
+    predominately Muslim Uyghur ethnic minority --- and Trump calling
+    for 'a total and complete shutdown of Muslims entering the United
+    States' as a presidential candidate in 2015." \[The Hill,
+    [12/14/21](https://thehill.com/homenews/house/585854-house-democrats-pass-bill-to-combat-islamophobia-in-support-of-omar)\]
+
+-   **The Commotion That Led To The Bill's Vote Was A Video Of
+    Congresswoman Lauren Boebert Suggesting Congresswoman Ilhan Omar
+    Could Be A Muslim Terrorist.** According to The Hill, "The furor
+    that led to Tuesday's vote began when a video surfaced over the
+    Thanksgiving weekend of Boebert recalling an incident --- which Omar
+    denies ever happened --- when she saw the progressive lawmaker in a
+    Capitol elevator. 'I said, 'Well, she doesn't have a backpack. We
+    should be fine,'' Boebert recalled, drawing laughs from the
+    audience. 'And I said, 'Oh, look, the jihad squad decided to show up
+    for work today.''" \[The Hill,
+    [12/14/21](https://thehill.com/homenews/house/585854-house-democrats-pass-bill-to-combat-islamophobia-in-support-of-omar)\]
+
+-   **During The Debate On The Bill, Congressman Scott Perry Of
+    Pennsylvania Accused Congresswoman Omar Of Holding Anti-Semitic
+    Views And Being Affiliated With Terrorist Groups.** According to The
+    Hill, "And during debate on the legislation, Democrats objected to
+    remarks from Rep. Scott Perry (R-Pa.) in which he accused Omar of
+    being antisemitic and affiliated with terrorist organizations.
+    'American taxpayers shouldn't be forced to pay terrorist
+    organizations, organizations that the maker of this bill is
+    affiliated with,' Perry said, before Democrats asked for his remarks
+    to be taken down." \[The Hill,
+    [12/14/21](https://thehill.com/homenews/house/585854-house-democrats-pass-bill-to-combat-islamophobia-in-support-of-omar)\]
+
+-   **Congressman Michael McCaul Of Texas Argued That The Executive
+    Branch Could "Crack Down In Protected Speech" Because The Bill
+    Lacked A Thorough Definition Of Islamophobia.** According to
+    Politico, "Rep. Michael McCaul of Texas, the top Republican on the
+    House Foreign Affairs Committee, said he supports the 'spirit and
+    intent' of the bill. But he raised concerns that it could empower
+    executive branch officials to crack down on protected speech because
+    the word 'Islamophobia' isn't defined in the legislation. 'It's so
+    vague and subjective that it could be used against legitimate speech
+    for partisan purposes,' McCaul said on the House floor." \[Politico,
+    [12/14/21](https://www.politico.com/news/2021/12/14/house-islam-omar-perry-boebert-524536)\]
+
+**2021: Fitzpatrick Voted Against Requiring The State Department To
+Report Annually On Violence Against Muslims, Propaganda Justifying
+Racism And Violence Against Muslims, Governmental Attempts To Promote
+Tolerance Of Muslims, And Instances Of Forced Labor, Reeducation Or
+Concertation Camps.** In December 2021, Fitzpatrick voted against the
+Combating International Islamophobia Act which would, according to
+Congressional Quarterly, "expand requirements for annual department
+reports related to human rights and religious freedom to include
+information regarding Islamophobia, including to describe the nature and
+extent of instances of physical violence and harassment against Muslims;
+instances of propaganda promoting or justifying 'racial hatred' or
+violence against Muslims; government actions to protect religious
+freedoms and promote tolerance of Muslims; and instances of forced
+labor, reeducation or concentration camps such as those targeting
+Uyghurs in the Xinjiang Autonomous Region of China." The vote was on
+passage. The House passed the bill by a vote of 219-212. \[House Vote
+448, [12/14/21](http://clerk.house.gov/evs/2021/roll448.xml);
+Congressional Quarterly,
+[12/14/21](https://plus.cq.com/vote/2021/H/448?3); Congressional
+Actions, [H.R.
+5665](https://www.congress.gov/bill/117th-congress/house-bill/5665/actions)\]
+
+**2021: Fitzpatrick Voted Against Forbidding Funds Of This Bill From
+Being Used To Impose A Muslim Ban Nor Endorse The Boycott, Divestment,
+Sanctions Movement Against Israel.** In December 2021, Fitzpatrick voted
+against the Combating International Islamophobia Act which would,
+according to Congressional Quarterly, "prohibit funds made available
+pursuant to the bill from being used to promote or endorse the ideology
+of the Boycott, Divestment, Sanctions movement against Israel or to
+promote or endorse a 'Muslim ban,' such as former President Trump\'s
+order restricting travel from certain Muslim-majority countries." The
+vote was on passage. The House passed the bill by a vote of 219-212.
+\[House Vote 448,
+[12/14/21](http://clerk.house.gov/evs/2021/roll448.xml); Congressional
+Quarterly, [12/14/21](https://plus.cq.com/vote/2021/H/448?3);
+Congressional Actions, [H.R.
+5665](https://www.congress.gov/bill/117th-congress/house-bill/5665/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against The Combating
+International Islamophobia Act.** In December 2021, according to
+Congressional Quarterly, Fitzpatrick voted against the "adoption of the
+rule (H Res 849) that would provide for House floor consideration of the
+bill that would create a State Department office to monitor and combat
+international Islamophobia (HR 5665). The rule would provide for up to
+one hour of debate on the bill. It would also provide for automatic
+adoption of the Meeks, D-N.Y., manager\'s amendment to the bill that
+would make technical corrections to accurately refer to the Xinjiang
+Uyghur Autonomous Region of China." The vote was on the adoption of the
+rule. The House adopted the rule by a vote of 219-213. \[House Vote 444,
+[12/14/21](http://clerk.house.gov/evs/2021/roll444.xml); Congressional
+Quarterly, [12/14/21](https://plus.cq.com/vote/2021/H/444?17);
+Congressional Actions, [H.R.
+5665](https://www.congress.gov/bill/117th-congress/house-bill/5665/actions);
+Congressional Actions, [H.Res.
+849](https://www.congress.gov/bill/117th-congress/house-resolution/849/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against The Combating
+International Islamophobia Act.** In December 2021, according to
+Congressional Quarterly, Fitzpatrick voted against the "motion to order
+the previous question (thus ending debate and possibility of amendment)
+on the rule (H Res 849) that would provide for House floor consideration
+of the bill that would create a State Department office to monitor and
+combat international Islamophobia (HR 5665). The rule would provide for
+up to one hour of debate on the bill. It would also provide for
+automatic adoption of the Meeks, D-N.Y., manager\'s amendment to the
+bill that would make technical corrections to accurately refer to the
+Xinjiang Uyghur Autonomous Region of China." The vote was on a motion to
+order the previous question. The House agreed to the motion by a vote of
+220-210. \[House Vote 443,
+[12/14/21](http://clerk.house.gov/evs/2021/roll443.xml); Congressional
+Quarterly, [12/14/21](https://plus.cq.com/vote/2021/H/443?16);
+Congressional Actions, [H.R.
+5665](https://www.congress.gov/bill/117th-congress/house-bill/5665/actions);
+Congressional Actions, [H.Res.
+849](https://www.congress.gov/bill/117th-congress/house-resolution/849/actions)\]

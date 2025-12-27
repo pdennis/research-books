@@ -1,0 +1,21 @@
+---
+title: Supplemental Security Income (SSI)
+description: 
+published: true
+date: 2025-09-24T21:53:27.791Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T21:53:23.429Z
+---
+
+# Supplemental Security Income (SSI)
+
+### Block Grants
+
+**2015: Schweikert Voted To Recommend That Supplemental Security Income Funding Be Converted To A Block Grant As Part Of The FY 2016 Republican Study Committee Budget Resolution.** In March 2015, Schweikert voted for recommending that SSI be converted to a block grant. According to the Republican Study Committee, "This budget proposes to convert SSI into a state flexibility block grant program that would allow all 50 states to experiment and better serve their citizens." The underlying budget resolution would have, according to Congressional Quarterly, "provide\[d\] for \$2.804 trillion in new budget authority in fiscal 2016, not including off-budget accounts. The substitute would call for reducing spending by \$7.1 trillion over 10 years compared to the Congressional Budget Office baseline." The vote was on the substitute amendment to a Budget Resolution. The House rejected the amendment by a vote of 132 to 294. \[House Vote 138, [3/25/15](http://clerk.house.gov/evs/2015/roll138.xml); Republican Study Committee, [FY 2016 Budget](http://rsc.flores.house.gov/files/Initiatives/rsc-budget.pdf); Congressional Quarterly, [3/25/15](http://www.cq.com/vote/2015/h/138?23); Congress.gov, [H. Amdt. 83](https://www.congress.gov/amendment/114th-congress/house-amendment/83); Congressional Actions, [H. Con. Res. 27](https://www.congress.gov/bill/114th-congress/house-concurrent-resolution/27/all-actions)\]
+
+### Chained-CPI
+
+**2015: Schweikert Voted To Institute The Chained CPI Which Would Result In Decreased Supplemental Security Income Benefits As Part Of The FY 2016 Republican Study Committee Budget Resolution.** In March 2015, Schweikert voted for instituting the Chained-CPI. According to the Republican Study Committee, "This budget proposes to begin using the more accurate measure for inflation, chained CPI, saving the taxpayers \$220 billion in total over the next ten years." The underlying budget resolution would have, according to Congressional Quarterly, "provide\[d\] for \$2.804 trillion in new budget authority in fiscal 2016, not including off-budget accounts. The substitute would call for reducing spending by \$7.1 trillion over 10 years compared to the Congressional Budget Office baseline." The vote was on the substitute amendment to a Budget Resolution. The House rejected the amendment by a vote of 132 to 294. \[House Vote 138, [3/25/15](http://clerk.house.gov/evs/2015/roll138.xml); Republican Study Committee, [FY 2016 Budget](http://rsc.flores.house.gov/files/Initiatives/rsc-budget.pdf); Congressional Quarterly, [3/25/15](http://www.cq.com/vote/2015/h/138?23); Congress.gov, [H. Amdt. 83](https://www.congress.gov/amendment/114th-congress/house-amendment/83); Congressional Actions, [H. Con. Res. 27](https://www.congress.gov/bill/114th-congress/house-concurrent-resolution/27/all-actions)\]
+
+-   **AARP: Moving To The Chained CPI Would Result In Reduced Benefits Over Time.** According to the AARP, "SSI benefits are tied to the CPI-W. The federal SSI benefit standard (\$710 for a single person and \$1,066 for an eligible couple in 2013) is adjusted annually in line with the CPI-W. In addition, once receipt has started, SSI benefits receive the same COLA as Social Security benefits. If the chained CPI-U were used instead of the CPI-W to adjust the SSI federal benefit standard and subsequent COLAs, initial and subsequent monthly benefits would rise more slowly. If the chained CPI-U were implemented in 2014, a single person claiming the SSI federal benefit standard in 2030 would receive \$32 less (-4.6%) per month in real terms, and a person claiming SSI benefits in 2050 would receive \$71 less (-10%) per month in real terms, than if the CPI-W continued to be used to determine the SSI benefit standard." \[AARP, [Accessed 3/10/16](http://www.aarp.org/content/dam/aarp/research/public_policy_institute/econ_sec/2013/impact-of-chained-cpi-federal-programs-fs-AARP-ppi-econ-sec.pdf)\]

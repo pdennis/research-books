@@ -1,0 +1,134 @@
+---
+title: Small Business
+description: 
+published: true
+date: 2025-09-22T20:20:28.644Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:20:24.594Z
+---
+
+# Small Business
+
+### Economic Injury Disaster Loans
+
+**2020: Fitzpatrick Voted For The Paycheck Protection Program And Health
+Care Enhancement Act, Congress's Fourth Coronavirus Response Bill, Which
+Increased Funding For The EIDL.** In April 2020, Fitzpatrick voted for
+the Paycheck Protection Program and Health Care Enhancement Act as part
+of Congress's response to the Coronavirus pandemic that would, according
+to Congressional Quarterly, "\[provide\] additional funding for SBA
+Economic Injury Disaster Loans (EIDL) and associated grants for small
+businesses that have been financially harmed by the pandemic \[...\] The
+measure increases by \$10 billion the level of emergency grants
+authorized under the expanded EIDL program, increasing the program\'s
+authorized grant level to \$20 billion and appropriating \$10 billion
+for those additional grants. It also appropriates \$50 billion for the
+costs of SBA Economic Injury Disaster Loans, which is estimated to
+support \$350 billion in such disaster loans to small businesses." The
+vote was on a motion to concur. The House passed the bill by a vote of
+388-5 and the bill was then signed into law by the President. \[House
+Vote 104, [4/23/20](http://clerk.house.gov/evs/2020/roll104.xml);
+Congressional Quarterly,
+[4/22/20](https://jukebox.cq.com/www/graphics/har/2020/04/22/har20200422-5889217-factsheet0422.pdf);
+Congressional Actions,
+[H.R.266](https://www.congress.gov/bill/116th-congress/house-bill/266/all-actions?q=%7b%22search%22%3A%5B%22hr+266%22%5D%7d&s=1&r=1)\]
+
+-   **The Bill Expanded Benefits For Small Businesses Under The Economic
+    Injury Disaster Loan (EIDL) Program Administered Under The SBA.**
+    According to Congressional Quarterly, "SBA's EIDL program
+    traditionally provides direct, low-interest loans of up to \$2
+    million to small businesses that have been impacted by a natural
+    disaster to help the business cover operating expenses. The initial
+    COVID-19 response package enacted by Congress in March authorized
+    small businesses affected by the pandemic to access the EIDL
+    program, and the third response package (the CARES Act) expanded the
+    program by creating an emergency grant component under which
+    businesses that apply for an Economic Injury Disaster Loan can
+    receive a loan advance of up to \$10,000 to cover revenue shortfalls
+    that does not have to be repaid --- and which the business may keep
+    even if their loan application is denied." \[Congressional
+    Quarterly,
+    [4/22/20](https://jukebox.cq.com/www/graphics/har/2020/04/22/har20200422-5889217-factsheet0422.pdf)\]
+
+-   **The Measure Included Funds For Farming And Agricultural
+    Industries, Which Were Left Out Of The March Legislation.**
+    According to Congressional Quarterly, "The economic bill the Senate
+    passed Tuesday would give farmers another pool of federal loans and
+    grants to tap by ending restrictions on agricultural eligibility for
+    the Small Business Administration's economic injury disaster program
+    \[...\] Farm groups had complained that although Congress pumped
+    \$10 billion into the program in March legislation, it left
+    unchanged language that shut out much of agriculture. Aquaculture,
+    plant nurseries and small agricultural cooperatives could apply for
+    up to \$2 million in low-interest loans, but farms and ranches with
+    500 or fewer employees were ineligible." \[Congressional Quarterly,
+    [4/21/20](https://plus.cq.com/doc/news-5888158?1)\]
+
+### Small Business Lending
+
+**2023: Fitzpatrick Voted To Disapprove A CFPB Small Business Lending
+Rule.** In December 2023, according to Congressional Quarterly,
+Fitzpatrick voted for "Passage of the resolution that would provide for
+congressional disapproval of a May 2023 Consumer Financial Protection
+Bureau rule that requires financial institutions to collect and report
+information to CFPB on small-business credit applications, such as the
+credit type, credit purpose and the amount applied for. It would also
+allow for the collection of self-reported demographic data related to
+women-, minority- and LGBTQ-owned small businesses. According to the
+CFPB, the rule is intended to allow for the creation of a database which
+agencies can use to enforce fair lending practices. The rule took effect
+on Aug. 29, 2023. Under the provisions of the joint resolution, the CFPB
+rule would have no force or effect." The vote was on passage. The House
+passed the resolution by a vote of 221 to 202, thus it was sent to the
+President. President Biden vetoed the resolution. \[House Vote 690,
+[12/1/23](http://clerk.house.gov/evs/2023/roll690.xml); Congressional
+Quarterly, [12/1/23](https://plus.cq.com/vote/2023/H/690?16);
+Congressional Actions, [S.J. Res.
+32](https://www.congress.gov/bill/118th-congress/senate-joint-resolution/32/all-actions?q=%7b%22search%22%3A%22sj+res+32%22%7d&s=2&r=1)\]
+
+**2023: Fitzpatrick Effectively Voted To Disapprove A Small Business
+Credit Rule.** In November 2023, according to Congressional Quarterly,
+Fitzpatrick voted for the "motion to order the previous question (thus
+ending debate and possibility of amendment) on the rule (H Res 891) that
+would provide for House floor consideration of the \[...\] joint
+resolution (S J Res 32) disapproving a CFPB small business credit rule.
+The rule would provide up to one hour of debate on each bill." The vote
+was on the adoption of the rule. The House agreed to the motion by a
+vote of 212 to 205. \[House Vote 679,
+[11/28/23](http://clerk.house.gov/evs/2023/roll679.xml); Congressional
+Quarterly, [11/28/23](https://plus.cq.com/vote/2023/H/679?29);
+Congressional Actions, [H.Res.
+891](https://www.congress.gov/bill/118th-congress/house-resolution/891/all-actions?q=%7b%22search%22%3A%22hres+891%22%7d&s=5&r=1);
+Congressional Actions, [H.R.
+5283](https://www.congress.gov/bill/118th-congress/house-bill/5283/all-actions?q=%7b%22search%22%3A%22hr+5283%22%7d&s=4&r=3)\]
+
+**2023: Fitzpatrick Effectively Voted To Disapprove A Small Business
+Credit Rule.** In November 2023, according to Congressional Quarterly,
+Fitzpatrick voted for the "motion to order the previous question (thus
+ending debate and possibility of amendment) on the rule (H Res 891) that
+would provide for House floor consideration of the \[...\] joint
+resolution (S J Res 32) disapproving a CFPB small business credit rule.
+The rule would provide up to one hour of debate on each bill." The vote
+was on the previous question. The House agreed to the motion by a vote
+of 213 to 205. \[House Vote 678,
+[11/28/23](http://clerk.house.gov/evs/2023/roll678.xml); Congressional
+Quarterly, [11/28/23](https://plus.cq.com/vote/2023/H/678?28);
+Congressional Actions, [H.Res.
+891](https://www.congress.gov/bill/118th-congress/house-resolution/891/all-actions?q=%7b%22search%22%3A%22hres+891%22%7d&s=5&r=1);
+Congressional Actions, [H.R.
+5961](https://www.congress.gov/bill/118th-congress/house-bill/5961/all-actions)\]
+
+**2019: Fitzpatrick Voted For Studying Challenges Faced By Rural Small
+Businesses.** In July 2019, Fitzpatrick voted for a bill that would,
+according to Congressional Quarterly, "require the Securities and
+Exchange Commission office for small business capital formation to
+identify and include in its annual report to Congress challenges in
+securing access to capital faced by rural-area small businesses." The
+vote was on a motion to suspend the rules and pass the bill. The House
+agreed to the motion and passed the bill by a vote of 413-7. The bill
+was never taken up in the Senate. \[House Vote 433,
+[7/9/19](http://clerk.house.gov/evs/2019/roll433.xml); Congressional
+Quarterly, [7/9/19](https://plus.cq.com/vote/2019/H/433?12);
+Congressional Actions,
+[H.R.2409](https://www.congress.gov/bill/116th-congress/house-bill/2409/all-actions)\]

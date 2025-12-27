@@ -1,0 +1,33 @@
+---
+title: United Nations
+description: 
+published: true
+date: 2025-09-24T21:16:09.259Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T21:16:04.709Z
+---
+
+# United Nations
+
+### Food And Agriculture Organization
+
+**2024: Schweikert Voted Against Prohibiting Funding For The Food And Agriculture Organization.** In June 2024, Schweikert voted against , according to Congressional Quarterly, "amendment no. 21 that would prohibit the use of funds provide by the bill for the Food and Agriculture Organization of the U.N." The vote was on the amendment. The underlying legislation was the FY 2025 State-Foreign Operations Appropriations. The House rejected the amendment by a vote of 175 to 236. \[House Vote 309, [6/27/24](http://clerk.house.gov/evs/2024/roll309.xml); Congressional Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/309?11); Congressional Actions, [H.Amdt.1045](https://www.congress.gov/amendment/118th-congress/house-amendment/1045/actions); Congressional Actions, [H.R. 8771](http://www.congress.gov/bill/118th-congress/house-bill/8771/all-actions)\]
+
+### Funding
+
+**2024: Schweikert Voted Against Prohibiting Funding For The United Nations And Its Subsidiary Bodies.** In June 2024, Schweikert voted against , according to Congressional Quarterly, "amendment no. 68 that would prohibit the use of funds provided by the bill to pay any U.S. contribution to the U.N. or any affiliated agency." The vote was on the amendment. The underlying legislation was the FY 2025 State-Foreign Operations Appropriations. The House rejected the amendment by a vote of 149 to 259. \[House Vote 320, [6/27/24](http://clerk.house.gov/evs/2024/roll320.xml); Congressional Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/320?11); Congressional Actions, [H.Amdt.1064](https://www.congress.gov/amendment/118th-congress/house-amendment/1064/actions); Congressional Actions, [H.R. 8771](http://www.congress.gov/bill/118th-congress/house-bill/8771/all-actions)\]
+
+**2024: Schweikert Voted To Prohibit Funding For The United Nations And Its Subsidiary Bodies.** In June 2024, Schweikert voted for , according to Congressional Quarterly, "amendment no. 59 that would prohibit the use of funds provided by the bill for contributions to any organization, agency, commission or program within the U.N. except as authorized by law." The vote was on the amendment. The underlying legislation was the FY 2025 State-Foreign Operations Appropriations. The House rejected the amendment by a vote of 182 to 230. \[House Vote 316, [6/27/24](http://clerk.house.gov/evs/2024/roll316.xml); Congressional Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/316?11); Congressional Actions, [H.Amdt.1058](https://www.congress.gov/amendment/118th-congress/house-amendment/1058/actions); Congressional Actions, [H.R. 8771](http://www.congress.gov/bill/118th-congress/house-bill/8771/all-actions)\]
+
+### High Commissioner For Refugees
+
+**2024: Schweikert Voted To Prohibit Funding For The International Organization For Migration.** In June 2024, Schweikert voted for , according to Congressional Quarterly, "amendment no. 35 that would prohibit the use of funds provided by the bill for the Office of the United Nations High Commissioner for Refugees." The vote was on the amendment. The underlying legislation was the FY 2025 State-Foreign Operations Appropriations. The House rejected the amendment by a vote of 163 to 249. \[House Vote 311, [6/27/24](http://clerk.house.gov/evs/2024/roll311.xml); Congressional Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/311?11); Congressional Actions, [H.Amdt.1050](https://www.congress.gov/amendment/118th-congress/house-amendment/1050/actions); Congressional Actions, [H.R. 8771](http://www.congress.gov/bill/118th-congress/house-bill/8771/all-actions)\]
+
+### International Organization For Migration
+
+**2024: Schweikert Voted To Prohibit Funding For The International Organization For Migration.** In June 2024, Schweikert voted for , according to Congressional Quarterly, "amendment no. 22 that would prohibit the use of funds provided by the bill for the International Organization for Migration\'s activities in the Western Hemisphere." The vote was on the amendment. The underlying legislation was the FY 2025 State-Foreign Operations Appropriations. The House rejected the amendment by a vote of 187 to 225. \[House Vote 310, [6/27/24](http://clerk.house.gov/evs/2024/roll310.xml); Congressional Quarterly, [6/27/24](https://plus.cq.com/vote/2024/H/310?11); Congressional Actions, [H.Amdt.1046](https://www.congress.gov/amendment/118th-congress/house-amendment/1046/actions); Congressional Actions, [H.R. 8771](http://www.congress.gov/bill/118th-congress/house-bill/8771/all-actions)\]
+
+### Representatives
+
+**2024: Schweikert Voted To Deny The Visas Of Individuals Seeking To Enter The U.S. As A Representative To The United Nations If They Have Been Sanctioned For Committing Or Supporting Terrorism Or Proliferating Weapons Of Mass Destruction.** In April 2024, Schweikert voted for , according to Congressional Quarterly, "the bill (HR 5826), as amended, that would require the president to submit various reports and information to Congress on the Iranian government's hostage-taking and wrongful detention of U.S. nationals. Among the bill's reporting requirements, it would direct the president, within 180 days of the bill's enactment and annually thereafter for six years, to submit to Congress information on all cases of hostage-taking or wrongful detention of U.S. nationals in Iran or at the direction of the Iranian government within the previous 10 years. It would require the president to submit to Congress information on the \$6 billion in funds transferred from restricted Iranian accounts in South Korea to restricted accounts in Qatar on or after Aug. 9, 2023. It also would direct the president to deny the visa of any individual seeking admission to the U.S. as a representative to the United Nations if the president determines the individual has been sanctioned, as of the bill\'s enactment, under executive orders against persons who commit, threaten or support terrorism and against proliferators of weapons of mass destruction and their supporters." The vote was on passage. The House passed the bill by a vote of 391 to 34. \[House Vote 131, [4/16/24](http://clerk.house.gov/evs/2024/roll131.xml); Congressional Quarterly, [4/16/24](https://plus.cq.com/vote/2024/H/131?49); Congressional Actions, [H.R. 5826](https://www.congress.gov/bill/118th-congress/house-bill/5826)\]

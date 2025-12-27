@@ -1,0 +1,468 @@
+---
+title: Pharmaceuticals
+description: 
+published: true
+date: 2025-09-22T21:16:25.064Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T21:16:20.417Z
+---
+
+# Pharmaceuticals
+
+### Drug Prices, Generally
+
+**2018: Fitzpatrick Effectively Voted Against Prohibiting Legislation
+Forming FTC Mergers From Applying To Mergers That Would "Unreasonably"
+Increase Drug Prices.** In May 2018, Fitzpatrick voted against a motion
+to recommit that would have, according to Congressional Quarterly,
+"prohibit\[ed\] provisions in the bill from applying to mergers that
+would unreasonably increase the costs of pharmaceutical drugs." The
+underlying legislation would have, also according to Congressional
+Quarterly, "reconcile\[d\] differences in anti-trust injunction
+standards between the Federal Trade Commission and the Justice
+Department." The vote was on a motion to recommit. The House rejected
+the motion by a vote of 193 to 220. \[House Vote 176,
+[5/6/18](http://clerk.house.gov/evs/2018/roll176.xml); Congressional
+Quarterly, [5/9/18](http://cq.com/vote/2018/H/176?2); Congressional
+Quarterly, [5/9/18](http://cq.com/vote/2018/H/177?3); Congressional
+Actions, [H.R.
+5645](https://www.congress.gov/bill/115th-congress/house-bill/5645/all-actions)\]
+
+### Drug Rebate Agreements
+
+**2019: Fitzpatrick Voted For Requiring Pharmacy Benefit Managers To
+Disclose Information Related To Drug Rebate Negotiations.** In October
+2019, Fitzpatrick voted for a bill that would, according to
+Congressional Quarterly, "require the Health and Human Services
+Department to make publicly available information disclosed by pharmacy
+benefit managers related to the negotiation of rebates and discounts for
+prescription drugs. It would require prescription drug plan sponsors to
+implement real-time benefit tools, integrated with electronic
+prescribing or health record systems, that would transmit information to
+patients related to the price and availability of alternative
+prescription drugs." The vote was on a motion to suspend the rules and
+pass the bill. The House agreed to the motion by a vote of 403-0.
+\[House Vote 586,
+[10/28/19](http://clerk.house.gov/evs/2019/roll586.xml); Congressional
+Quarterly, [10/28/19](https://plus.cq.com/vote/2019/H/586?32);
+Congressional Actions, [H.R.
+2115](https://www.congress.gov/bill/116th-congress/house-bill/2115/all-actions?q=%7b%22search%22%3A%5B%222115%22%5D%7d&s=2&r=1)\]
+
+### Generic Drugs
+
+**2019: Fitzpatrick Voted For Health Care Legislation That Was Designed
+To Bring More Generic Drugs To The Marketplace, Restore Funding To
+Promote ACA Plans, Fund States To Create Their Own State-Based ACA
+Exchanges, And Stop A Trump Administration Rule Increasing Eligibility
+For Short-Term Insurance Plans That Do Not Comply With ACA Rules, Such
+As Protections For Pre-Existing Conditions.** In May 2019, Fitzpatrick
+voted for the MORE Health Education Act. According to Congressional
+Quarterly, "\[t\]his bill includes a number of provisions intended to
+lower the price of prescription drugs by helping to bring generic and
+biosimilar drugs to market more quickly, and it seeks to bolster
+enrollment in Affordable Care Act marketplaces by restoring funding to
+promote ACA health plans and help individuals find affordable plans
+while also providing funding for states to establish their own
+state-operated health insurance marketplaces (rather than relying on the
+existing federal marketplace). In addition, it revokes a Trump
+administration rule that expands the availability of short-term health
+plans that don't have to comply with ACA consumer protections, such as
+protections for individuals with preexisting conditions." The vote was
+on passage. The House passed the bill by a vote of 234 to 183. \[House
+Vote 214, [5/16/19](http://clerk.house.gov/evs/2019/roll214.xml);
+Congressional Quarterly,
+[5/10/19](http://www.cq.com/doc/har-5534992/17?4&search=4QggTqwN);
+Congressional Actions, [H.R.
+987](https://www.congress.gov/bill/116th-congress/house-bill/987/all-actions)\]
+
+-   **The Legislation Attempts To Make It Easier For Generic Drug Makers
+    Obtain Samples Of A Potential Drug Company; Denying Samples Is A
+    Tactic Some Drug Makers Use To Delay Generics Coming To Market.**
+    According to Congressional Quarterly, "One tactic brand name drug
+    companies use to delay the development of generic versions of a drug
+    is to deny access to the drug to the company seeking to make a
+    generic version. The FDA requires manufacturers of generic drugs to
+    demonstrate that their version is chemically identical to the
+    branded drug and produces the same results in patients. In order to
+    meet these requirements, generic drug companies sometimes need as
+    many as 5,000 samples of a drug to meet the generic drug testing
+    requirements. The bill establishes the right of a generic drug
+    company to bring civil action against the license holder for a brand
+    name drug if the license holder refuses to provide sufficient
+    quantities of the drug to the generic manufacturer on commercially
+    reasonable, market-based terms. Under the measure, the generic drug
+    manufacturer must demonstrate that the drug in question is not
+    subject to Risk Evaluation and Mitigation Strategy (REMS) with
+    elements to assure safe use (ETASU) or, if the drug is REMS with
+    ETASU, that the generic drug company has developed its own safety
+    protocol that has been authorized by the FDA (see below). The
+    generic drug company must also demonstrate that it has requested to
+    purchase samples of the drug and that the brand name company did not
+    provided sufficient quantities of the drug on commercially
+    reasonable, market-based terms within 31 days of receiving the
+    request." \[Congressional Quarterly,
+    [5/10/19](http://www.cq.com/doc/har-5534992/17?4&search=4QggTqwN)\]
+
+-   **The Bill Would Prevent Brand Name And Generic Drug Makers From
+    Entering Into "Pay For Delay" Agreements Where Brand Name Companies
+    Pay Generic Companies Not To Bring A Generic To Market.** According
+    to Congressional Quarterly, "One way brand name drug companies try
+    to protect their drugs is to compensate other drug companies if they
+    delay marketing generic versions of the drug. This tactic has been
+    called 'pay for delay' and is also known as a reverse payment
+    agreement. Drug companies that want to sell a generic version may
+    challenge an existing patent; the brand name drug manufacturer can
+    then sue for patent infringement. Often the companies decide to
+    settle: the generic company delays marketing its version and the
+    brand name company provides compensation (the 'reverse payment') to
+    the generic company for the delay. The terms of these agreements are
+    confidential, known only by the Federal Trade Commission. In 2013
+    the Supreme Court ruled that the FTC could scrutinize these
+    pay-for-delay agreements and the FTC has been opposing them ever
+    since. Consequently, drug companies no longer pay their competitors
+    to delay marketing generic versions; instead, they offer
+    compensation in different ways. The bill prohibits brand name and
+    generic drug manufacturers from entering into agreements under which
+    the brand name company pays the generic company to delay the entry
+    of a generic drug or biosimilar into the market, and it charges the
+    FTC with enforcement --- statutorily requiring the agency to
+    investigate agreements between drug companies. Specifically, the
+    measure makes it unlawful for a drug patent holder and a company
+    that wants to make a generic version of the drug to enter into an
+    agreement or settle a patent infringement claim by having the
+    manufacturer of the generic drug receive, directly or indirectly,
+    anything of value from the brand name manufacturer. Generic drug
+    companies that enter into unlawful settlements would forfeit their
+    180-day market exclusivity for the generic version of the drug.
+    Manufacturers would be permitted to enter into patent settlements if
+    the payment of the settlement does not exceed \$7.5 million for
+    reasonable litigation expenses." \[Congressional Quarterly,
+    [5/10/19](http://www.cq.com/doc/har-5534992/17?4&search=4QggTqwN)\]
+
+-   **Legislation Would Attempt To Reverse A Process Known As "Blocking"
+    Whereby Generic Drug Companies Nearly Finish An Application, But
+    Delay Getting FDA Approval And Bring The Drug To Market, Which
+    Prevents Other Generic Companies From Bringing The Drug To Market.**
+    Which According to Congressional Quarterly, "In recent years generic
+    drug companies have engaged in a practice a practice known as
+    'blocking,' under which a company substantially completes the
+    application for a generic drug and gains the right to 180 days of
+    market exclusivity --- but delays in getting final FDA approval and
+    bringing the generic to market, which blocks other manufacturers
+    from marketing their generic versions because the commencement and
+    completion of the generic exclusivity period is also delayed. A
+    company may do this because it has a deal with the brand name
+    manufacturer to delay introduction of the generic. The bill
+    authorizes the FDA to give final approval for the generic version of
+    a subsequent company under certain circumstances --- at which time
+    the 180-day exclusivity period for the initial company would begin,
+    even if that company is not yet ready to market its generic drug,
+    with the subsequent company eligible to market its generic once the
+    exclusivity period concludes. Specifically, under the measure the
+    FDA could give final approval for a subsequent application for a
+    generic version of a brand name drug and trigger the 180-day
+    exclusivity period for the initial generic applicant if the
+    following four conditions are met: the subsequent application is
+    ready for full FDA approval; at least 30 months have passed since at
+    least one company submitted an application for a generic version of
+    the drug; any related patent litigation has been fully resolved; and
+    no prior applicant has yet received final FDA approval."
+    \[Congressional Quarterly,
+    [5/10/19](http://www.cq.com/doc/har-5534992/17?4&search=4QggTqwN)\]
+
+### Lower Prescription Prices For Medicare Drugs
+
+**2021: Fitzpatrick Voted Against Directing The Department Of Health And
+Human Services To Negotiate Lower Prescription Prices For Insulin And
+Certain Medicare-Eligible Drugs That Lack Generic Competition.** In
+November 2021, Fitzpatrick voted against the Build Back Better act which
+would, according to Congressional Quarterly, "require the Health and
+Human Services Department to negotiate a 'maximum fair price' for
+insulin and select Medicare-eligible, brand-name drugs that do not have
+generic competition." The vote was on passage. The House passed the bill
+by a vote of 220-213. \[House Vote 385,
+[11/19/21](http://clerk.house.gov/evs/2021/roll385.xml); Congressional
+Quarterly, [11/19/21](https://plus.cq.com/vote/2021/H/385?16);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against A Manager's Amendment To
+The Build Back Better Act, Which Would Clarify That Negotiated
+Prescription Drug Prices Would Apply Nine Years After A Drug's Approval
+And Specify That Average Price Estimations Would Be Based On 2021
+Prices.** In November 2021, Fitzpatrick voted against the adoption of
+the rule which would, according to Congressional Quarterly, "modify
+provisions related to maximum fair prices negotiations for prescription
+drugs, including to clarify that negotiated prices would apply nine
+years after a drug\'s approval, or 13 years after approval for
+biologics, and specify that average price calculations would be based on
+2021 prices." The vote was on the adoption of the rule. The House
+adopted the rule by a vote of 221-213, thus the manager's amendment was
+automatically adopted. \[House Vote 372,
+[11/6/21](http://clerk.house.gov/evs/2021/roll372.xml); Congressional
+Quarterly, [11/6/21](https://plus.cq.com/vote/2021/H/372?3);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+774](https://www.congress.gov/bill/117th-congress/house-resolution/774/actions)\]
+
+**2021: Fitzpatrick Effectively Voted Against A Manager's Amendment To
+The Build Back Better Act, Which Would Clarify That Negotiated
+Prescription Drug Prices Would Apply Nine Years After A Drug's Approval
+And Specify That Average Price Estimations Would Be Based On 2021
+Prices.** In November 2021, Fitzpatrick voted against the motion to
+order the previous question on the rule which would, according to
+Congressional Quarterly, "modify provisions related to maximum fair
+prices negotiations for prescription drugs, including to clarify that
+negotiated prices would apply nine years after a drug\'s approval, or 13
+years after approval for biologics, and specify that average price
+calculations would be based on 2021 prices." The vote was on a motion to
+order the previous question. The House agreed to the motion by a vote of
+221-213. \[House Vote 371,
+[11/6/21](http://clerk.house.gov/evs/2021/roll371.xml); Congressional
+Quarterly, [11/6/21](https://plus.cq.com/vote/2021/H/371?5);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions);
+Congressional Actions, [H.Res.
+774](https://www.congress.gov/bill/117th-congress/house-resolution/774/actions)\]
+
+### Manufacturing Centers Of Excellence
+
+**2021: Fitzpatrick Voted For Requiring The Food And Drug Administration
+To Take Applications And Designate Five Higher Institutions As National
+Centers Of Excellence In Advanced And Continuous Pharmaceutical
+Manufacturing, And Providing \$100 Million Through FY 2026 To Support
+Activities.** In October 2021, Fitzpatrick effectively voted for the
+National Centers of Excellence in Continuous Pharmaceutical
+Manufacturing Act of 2021 which would, according to Congressional
+Quarterly, "require the Food and Drug Administration, within a year of
+enactment, to solicit applications for and designate up to five
+institutions of higher education as National Centers of Excellence in
+Advanced and Continuous Pharmaceutical Manufacturing to support the
+research, development and implementation of advanced and continuous
+pharmaceutical manufacturing; develop related new technologies and
+information-sharing networks; and collaborate with the FDA to publish
+reports on and develop best practices for continuous manufacturing. It
+would authorize \$100 million through fiscal 2026 for such activities."
+The vote was on passage. The House passed the bill by a vote of 368-56.
+\[House Vote 318,
+[10/19/21](http://clerk.house.gov/evs/2021/roll318.xml); Congressional
+Quarterly, [10/19/21](https://plus.cq.com/vote/2021/H/318?35);
+Congressional Actions, [H.R.
+4369](https://www.congress.gov/bill/117th-congress/house-bill/4369/actions)\]
+
+-   **The Measure Would Incentivize Technological Drug Manufacturing
+    Advancements, Which Would Help Continue A Stable Supply Chain.**
+    According to Congressional Quarterly, "The third bill (HR 4369) from
+    Energy and Commerce Chairman Frank Pallone Jr., D-N.J., and Health
+    Subcommittee ranking member Brett Guthrie, R-Ky., would incentivize
+    technological advancements in drug manufacturing to maintain a
+    steady supply chain of drug manufacturing." \[Congressional
+    Quarterly, [10/19/21](https://plus.cq.com/doc/news-6367209?66)\]
+
+### Medicare Beneficiaries
+
+**2019: Fitzpatrick Voted For The House Drug Price Negotiation Bill For
+Medicare Programs.** In December 2019, Fitzpatrick voted for a motion
+that would, according to Congressional Quarterly, "allow the Health and
+Human Services Department to negotiate prices for certain drugs under
+Medicare programs and would make a number of modifications to Medicare
+programs related to drug costs and plan benefits." The vote was on
+passage. The House passed the bill by a vote of 230-192. \[House Vote
+682, [12/12/19](http://clerk.house.gov/evs/2019/roll682.xml);
+Congressional Quarterly,
+[12/12/19](https://plus.cq.com/vote/2019/H/682?43); Congressional
+Actions,
+[H.R.3](https://www.congress.gov/bill/116th-congress/house-bill/3/all-actions)\]
+
+-   **The Bill Allowed HHS To Negotiate The Prices Of Prescription Drugs
+    Covered By Medicare And Penalize Companies That Don't Comply.**
+    According to Vox, "Under current law, the Health and Human Services
+    secretary is barred from engaging in negotiations for prescription
+    drugs covered by Medicare \[...\] The final bill enables the HHS
+    secretary to negotiate the prices of as many as 250 drugs annually.
+    Additionally, it would penalize companies that do not negotiate with
+    HHS with a fine starting at 65 percent of a drug's gross sales from
+    the prior year. For every quarter that the company does not engage,
+    the penalty goes up by 10 percentage points, until it hits 95
+    percent of a drug's gross sales." \[Vox,
+    [12/12/19](https://www.vox.com/2019/12/12/21010905/house-democrats-pass-prescription-drug-price-bill)\]
+
+-   **The Bill Required Drugmakers To Issue Rebates To The Treasury If
+    They Raise The Prices For Medicare Drugs Faster Than The Rate Of
+    Inflation.** According to Vox, "The proposal would also address
+    pricing hikes that have been applied to different drugs covered by
+    Medicare Parts B and D, requiring companies to either undo any
+    increases that surpass the rate of inflation, or rebate the entirety
+    of those hikes since 2016 to the Treasury. An amendment from Jayapal
+    would also make sure that people covered by private plans could
+    obtain rebates as well. Additionally, the bill would cap
+    out-of-pocket prescription drugs costs for those covered by Medicare
+    Part D to \$2,000 annually. Currently, there is no cap." \[Vox,
+    [12/12/19](https://www.vox.com/2019/12/12/21010905/house-democrats-pass-prescription-drug-price-bill)\]
+
+-   **CBO Estimated That The Bill Would Decrease Medicare Spending By
+    Around \$500 Billion Over The Next Decade.** According to
+    Congressional Quarterly, "The Congressional Budget Office estimates
+    the bill would save the government around \$500 billion over a
+    decade, most of which the bill would spend on lowering cost-sharing
+    for seniors in Medicare's drug benefit and expanding Medicare
+    coverage to include dental, vision and hearing." \[Congressional
+    Quarterly, [12/12/19](https://plus.cq.com/doc/news-5792369?2)\]
+
+-   **Republicans Opposed The Bill, Arguing That It Was The Beginning Of
+    Nationalizing The Pharmaceutical Industry.** According to
+    Congressional Quarterly, "'The speaker wants to take us down the
+    road of nationalizing an entire industry and impose Washington's
+    stifling influence on the life sciences sector that produces
+    lifesaving cures,' McConnell said." \[Congressional Quarterly,
+    [12/12/19](https://plus.cq.com/doc/news-5792369?2)\]
+
+-   **CBO Estimated The Bill Would Result In 38 Fewer Drugs In The Next
+    20 Years.** According to Congressional Quarterly, "The CBO estimated
+    that the bill would result in approximately 38 fewer drugs over two
+    decades because of the loss of pharmaceutical industry revenues from
+    lower prices." \[Congressional Quarterly,
+    [12/12/19](https://plus.cq.com/doc/news-5792369?2)\]
+
+-   **The Bill Was Unlikely To Be Taken Up In The Republican-Controlled
+    Senate.** According to Vox, "The Senate is expected to give the bill
+    the same treatment it's given hundreds of others: it won't take it
+    up. Because of this dynamic, the bill is widely seen as a values
+    statement for Democrats seeking to put a stake in the ground."
+    \[Vox,
+    [12/12/19](https://www.vox.com/2019/12/12/21010905/house-democrats-pass-prescription-drug-price-bill)\]
+
+-   **The Bill Included Other Provisions That Increased Funding For NIH
+    Research And Allowed HHS To Require Prices Be Included In
+    Prescription Drug Advertisements.** According to Congressional
+    Quarterly, "Establish a \$100 million grant program through fiscal
+    2025 at the National Institutes of Health to better enable the
+    commercialization of products developed through government research
+    \[...\] allow HHS to implement requirements to include prices in
+    prescription drug advertisements \[...\] \[and\] increase funding
+    for an NIH program that helps fund medical trials, and prohibit
+    pharmacy benefit managers from charging state Medicaid programs more
+    than the prices the benefit manager paid for the drugs."
+    \[Congressional Quarterly,
+    [12/12/19](https://plus.cq.com/doc/news-5792369?2)\]
+
+**2019: Fitzpatrick Effectively Voted For Ensuring That The Drug Price
+Negotiation Bill Would Not Result In Fewer New Drugs In The Future.** In
+December 2019, Fitzpatrick voted for a motion that would, according to
+Congressional Quarterly, "recommit the Elijah E. Cummings Lower Drug
+Costs Now Act (HR 3) to the House Energy and Commerce Committee with
+instructions to report it back immediately with an amendment that would
+prohibit the provisions of the bill from going into effect unless the
+Health and Human Services Department certifies that the implementation
+of such provisions is not projected to result in fewer new drug
+applications in relation to unmet medical needs and potential cures."
+The vote was on a motion to recommit. The House rejected the motion by a
+vote of 196-226. \[House Vote 681,
+[12/12/19](http://clerk.house.gov/evs/2019/roll681.xml); Congressional
+Quarterly, [12/12/19](https://plus.cq.com/vote/2019/H/681?42);
+Congressional Actions,
+[H.R.3](https://www.congress.gov/bill/116th-congress/house-bill/3/all-actions)\]
+
+-   **Republicans Sought To Prevent Fewer Drugs In The Market As A
+    Result Of Lost Revenue In The Pharmaceutical Industry.** According
+    to Congressional Quarterly, "The Republican's motion to recommit the
+    bill \[...\] would have added language to the bill that would
+    prevent it from going into effect unless the administration could
+    certify that it wouldn't result in fewer new drugs in the future.
+    The CBO estimated that the bill would result in approximately 38
+    fewer drugs over two decades because of the loss of pharmaceutical
+    industry revenues from lower prices." \[Congressional Quarterly,
+    [12/11/19](https://plus.cq.com/doc/news-5790807?5)\]
+
+**2019: Fitzpatrick Voted For A GOP Substitute Amendment To The Lower
+Drug Costs Now Act.** In December 2019, Fitzpatrick voted for a
+substitute amendment that would, according to Congressional Quarterly,
+"make a number of modifications to payments and pricing structures under
+Medicare Parts B and D and Medicaid, including to place a \$3,100 annual
+out-of-pocket cap on costs for Medicare Part D beneficiaries and to
+require insurance companies to establish a monthly post-deductible cap
+of \$50 on insulin for Part D beneficiaries, starting in 2022. It would
+establish or modify a number of requirements related to availability of
+drug pricing information, payment systems, and availability of refunds
+from drug manufacturers. It would make a number of modifications to FDA
+regulations related to biosimilar drug products and generic drug
+exclusivity. It would expedite or simplify certain procedures for the
+approval and market entry of generic drugs, and it would prohibit
+generic and brand-name drug manufacturers from entering into agreements
+in which brand-name manufacturers pay to delay entry of a generic drug
+into the market. It would require Health and Human Services Department
+to establish a requirement that direct-to-consumer television
+advertisements for Medicare- or Medicaid-eligible prescription drugs or
+biological products include truthful information indicating the list
+price of the drug or product advertised. It would also reduce from 10%
+to 7.5% the threshold for medical expense tax deductions to allow
+taxpayers to deduct medical expenses exceeding 7.5% of their adjusted
+gross income." The vote was on adoption of a substitute amendment. The
+House rejected the amendment by a vote of 201-223. \[House Vote 676,
+[12/12/19](http://clerk.house.gov/evs/2019/roll676.xml); Congressional
+Quarterly, [12/12/19](https://plus.cq.com/vote/2019/H/676?37);
+Congressional Actions,
+[H.Amdt.711](https://www.congress.gov/amendment/116th-congress/house-amendment/711/actions);
+Congressional Actions,
+[H.R.3](https://www.congress.gov/bill/116th-congress/house-bill/3/all-actions?q=%7b%22search%22%3A%5B%22HR+3%22%5D%7d&s=3&r=1)\]
+
+-   **Despite Including Bipartisan Policies, The Bill Was Unlikely To
+    Become Law Due To Partisanship In Congress.** According to
+    Congressional Quarterly, "The Republican-led Senate won't take up
+    the bill \[and\] President Donald Trump, while eager to lower drug
+    prices, says he wouldn't sign the Democrats' legislation \[...\]
+    Even a modest package of bipartisan policies that would bring more
+    transparency to the drug price system and potentially ratchet down
+    drug prices by boosting competition is not a sure thing for
+    inclusion in the year-end bill \[...\] When asked if a compromise
+    with the Senate was possible, \[Rep. Mark\] Pocan called it 'a
+    hypothetical that's as likely as aliens coming and giving us drugs
+    for free.'" \[Congressional Quarterly,
+    [12/12/19](https://plus.cq.com/doc/news-5792369?2)\]
+
+### Orphan Drugs
+
+**2021: Fitzpatrick Voted To Extend Requirements For Drugs To Qualify As
+An "Orphan Drug," Which Would Direct Drug Manufacturers To Demonstrate
+That There Is No Reasonable Expectation That The Sponsor Will Recover
+The Costs For The Development And Distribution Of The Drug In The U.S.**
+In May 2021, Fitzpatrick voted for the Fairness in Orphan Drug
+Exclusivity Act of 2021 which would, according to Congressional
+Quarterly, "extend certain requirements for drugs to qualify for 'orphan
+drug' status, which provides incentives for the development of drugs to
+treat rare diseases or conditions. Specifically, it would require drug
+manufacturers that are seeking or have previously received orphan drug
+status approval for a drug \-- including approval to extend an existing
+status \-- to demonstrate to the Health and Human Services Department
+that, at the time of approval, there is or was 'no reasonable
+expectation' that the manufacturer would recover the costs of developing
+and distributing the drug in the United States from U.S. sales within 12
+years of first marketing the drug. It would require the department to
+deny or revoke such approval if a manufacturer does not meet the
+requirements." The vote was on passage. The House failed to pass the
+bill by a vote of 250-168, failing to meet 2/3 of the vote, but
+eventually was passed on May 19th, 2021 by a vote of 402-23. The Senate
+did not take substantive action on the bill. \[House Vote 134,
+[5/11/21](http://clerk.house.gov/evs/2021/roll134.xml); Congressional
+Quarterly, [5/11/21](https://plus.cq.com/vote/2021/H/134?13);
+Congressional Actions, [H.R.
+1629](https://www.congress.gov/bill/117th-congress/house-bill/1629/all-actions?overview=closed&q=%7b%22roll-call-vote%22%3A%22all%22%7d)\]
+
+### Rebates For Single-Source Drugs For Medicare Parts B And D
+
+**2021: Fitzpatrick Voted Against Requiring Drug Manufacturers To
+Provide Rebates For Single-Source Drugs Under Medicare Parts B And D,
+And Cap Annual Out-Of-Pocket Limits At \$2,000 Starting In 2024 For
+Medicare Part D.** In November 2021, Fitzpatrick voted against the Build
+Back Better act which would, according to Congressional Quarterly,
+"require manufacturers to provide rebates for single-source drugs under
+Medicare Parts B and D for which prices increase faster than inflation.
+For Medicare Part D, it would cap annual out-of-pocket limit at \$2,000
+beginning in 2024." The vote was on passage. The House passed the bill
+by a vote of 220-213. \[House Vote 385,
+[11/19/21](http://clerk.house.gov/evs/2021/roll385.xml); Congressional
+Quarterly, [11/19/21](https://plus.cq.com/vote/2021/H/385?16);
+Congressional Actions, [H.R.
+5376](https://www.congress.gov/bill/117th-congress/house-bill/5376/actions)\]

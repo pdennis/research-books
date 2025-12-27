@@ -1,0 +1,164 @@
+---
+title: Criminal Justice System
+description: 
+published: true
+date: 2025-09-22T20:35:13.257Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-22T20:35:08.697Z
+---
+
+# Criminal Justice System
+
+### First Step Act
+
+**2018: Fitzpatrick Voted For The First Step Act Which Amended Federal
+Sentencing Laws Such As The Three Strike Rule And Would Allow Inmates To
+Get Earned Time Credits For Earlier Release.** In December 2018,
+Fitzpatrick voted for the First Step Act, a bill that reformed the
+federal criminal justice system. According to Congressional Quarterly,
+"This bill revises federal sentencing laws, including reducing the
+'three strikes' penalty for drug felonies from life behind bars to 25
+years and retroactively limiting the disparity in sentencing guidelines
+between crack and powder cocaine offenses. It requires the Justice
+Department to develop an evidence-based prisoner risk and needs
+assessment system to evaluate prisoners' recidivism risk so they can
+earn time in prerelease custody at the end of their term. The measure
+also generally prohibits restraining pregnant prisoners and expands the
+information required to be collected by the National Prisoner Statistics
+Program." The vote was on a motion to suspend the rules and agree to the
+Senate amendment to the House amendment. The House agreed to the motion,
+thereby passing the bill, by a vote of 358 to 36. The bill was then sent
+to the president, who signed it into law. \[House Vote 448,
+[12/20/18](http://clerk.house.gov/evs/2018/roll448.xml); Congressional
+Quarterly,
+[12/19/18](http://www.cq.com/doc/har-5433877?4&search=8sr3x5XT);
+Congressional Actions, [S.
+756](https://www.congress.gov/bill/115th-congress/senate-bill/756/all-actions)\]
+
+-   **The Bill Did Not Cover The States, But According To The CBO, The
+    Bill Would Shave About 53,000 Years Off Of Federal Sentences Over
+    The Next Ten Years.** According to Congressional Quarterly, "The
+    bill, which does not cover state jails and prisons, would through
+    reductions in sentencing, shave the equivalent of 53,000 years off
+    the sentences of federal inmates over the next 10 years, according
+    to the Congressional Budget Office." \[Congressional Quarterly,
+    [12/19/18](http://www.cq.com/doc/har-5433877?4&search=8sr3x5XT)\]
+
+-   **The First Step Act Reduced Mandatory Minimums For Some Drug Crimes
+    And Amended The Mandatory Minimum For The Three Strikes Rule.**
+    According to Congressional Quarterly, "The measure reduces the
+    severity of some minimum prison sentences. Specifically, the
+    mandatory minimum sentences for serious violence or weighty drug
+    charges would decrease by five years to 15 years. The federal 'three
+    strikes' rule, which prescribes a life sentence for three or more
+    convictions that includes drug trafficking, would instead trigger a
+    25-year sentence but would also be expanded to apply when one of the
+    crimes is a serious violent felony. Serious drug felonies that now
+    result in an automatic 20-year minimum sentence would be reduced to
+    15 years. And an automatic trigger that adds 25 years if a defendant
+    was convicted of two or more violent or trafficking charges while
+    holding a gun would now apply only to people with prior records of
+    similar offenses. The shortened mandatory sentences would not apply
+    retroactively." \[Congressional Quarterly,
+    [12/19/18](http://www.cq.com/doc/har-5433877?4&search=8sr3x5XT)\]
+
+-   **Legislation Expands The Number Of Defendants Eligible For
+    Sentences Under Mandatory Minimums.** According to Congressional
+    Quarterly, "In federal sentencing guidelines, defendants are
+    eligible for sentences below the statutory minimum for certain
+    nonviolent, non-managerial drug offenders with little or no criminal
+    history, known as a 'safety valve.' Current law applies this safety
+    valve for defendants with no more than one prior criminal point,
+    i.e. generally a minor misdemeanor. The measure expands the existing
+    safety valve to include offenders with up to four criminal history
+    points, excluding one-point offenses. However, offenders with
+    three-point felony convictions (sentences of more than 13 months) or
+    prior two-point violent offenses (violent offenses with sentences of
+    at least 60 days) will not be eligible for safety valve unless there
+    is a judicial finding that the prior offenses substantially
+    overstate the defendant's criminal history and danger of recidivism.
+    Under the measure, a judge may not apply the safety valve unless the
+    defendant has 'fully cooperated' with law enforcement and has not
+    used or threatened to use violence, caused death or serious bodily
+    injury, or was an organizer, leader, manager or supervisor of others
+    in connection with the offense." \[Congressional Quarterly,
+    [12/19/18](http://www.cq.com/doc/har-5433877?4&search=8sr3x5XT)\]
+
+-   **Legislation Increased "Good Time Credits" From 47 Days Earned Per
+    Year To 54 For Things Like Good Behavior; Change Would Be
+    Retroactive.** According to Vox "The bill would increase 'good time
+    credits' that inmates can earn. Inmates who avoid a disciplinary
+    record can currently get credits of up to 47 days per year
+    incarcerated. The bill increases the cap to 54, allowing
+    well-behaved inmates to cut their prison sentence by an additional
+    week for each year they're incarcerated. The change applies
+    retroactively, which could allow some prisoners --- as many as 4,000
+    --- to qualify for release the day that the bill goes into effect."
+    \[Vox,
+    [12/11/18](https://www.vox.com/future-perfect/2018/12/3/18122392/first-step-act-criminal-justice-reform-bill-congress)\]
+
+-   **Legislation Would Allow "Earned Time Credits" By Participating In
+    More Vocational Programs To Allow Them To Be Released Early.**
+    According to Vox "The bill would allow inmates to get 'earned time
+    credits' by participating in more vocational and rehabilitative
+    programs. Those credits would allow them to be released early to
+    halfway houses or home confinement. Not only could this mitigate
+    prison overcrowding, but the hope is that the education programs
+    will reduce the likelihood that an inmate will commit another crime
+    once released and, as a result, reduce both crime and incarceration
+    in the long term. (There's research showing that education programs
+    do reduce recidivism.)" \[Vox,
+    [12/11/18](https://www.vox.com/future-perfect/2018/12/3/18122392/first-step-act-criminal-justice-reform-bill-congress)\]
+
+-   **Legislation Excluded Certain Crimes Such As Child Sex Trafficking
+    From Earned Time Off Credits.** According to Congressional
+    Quarterly, "The bill identifies a number of crimes that would be
+    excluded from earning time off credits, including sex trafficking of
+    children, sexual abuse of a child, child pornography offenses,
+    recruitment of child soldiers, arson, domestic assault by a habitual
+    offender, carjacking resulting in serious bodily injury, prisoner
+    escape, and other high level offenses. Additionally, prisoners
+    subject to a final order of removal as undocumented immigrants, who
+    were convicted of fentanyl or heroin offenses involving five to ten
+    year mandatory minimums who were leaders in the offense, or who
+    brandished or discharged a firearms while committing a crime are not
+    eligible for time credits." \[Congressional Quarterly,
+    [12/19/18](http://www.cq.com/doc/har-5433877?4&search=8sr3x5XT)\]
+
+-   **Legislation Made The 2010 Fair Sentencing Act, Which Reduced The
+    Sentencing Disparity Between Crack Cocaine And Powder Cocaine,
+    Retroactive.** According to Congressional Quarterly, "In 2010,
+    Congress passed the Fair Sentencing Act (PL 111-220) which reduced
+    the disparity between powder and crack cocaine sentencing guidelines
+    from a 100 to 1 ratio to an 18-to-1 ratio. It also increased, to 28
+    grams, from the previous 5 grams, the amount of crack cocaine
+    possession that would trigger a mandatory five-year prison sentence.
+    It also increased, to 280 grams, from 50 grams, the amount of crack
+    cocaine that would trigger a 10-year minimum prison sentence. The
+    measure also eliminated the five-year mandatory minimum prison term
+    for a first-time possession of crack cocaine. The bill applies the
+    law retroactively, permitting prisoners convicted before Aug. 3,
+    2010 (when the Fair Sentencing Act became law) to petition a court
+    to reduce his or her sentence to the more recent lower terms."
+    \[Congressional Quarterly,
+    [12/19/18](http://www.cq.com/doc/har-5433877?4&search=8sr3x5XT)\]
+
+-   **Bill Eliminated The Mandatory Minimum For A First Time Offender
+    Using A Firearm During A Violent Or Drug Crime.** According to
+    Congressional Quarterly, "The bill clarifies that the enhanced
+    mandatory minimum sentence for using a firearm during a crime of
+    violence or a drug crime is limited to offenders who have previously
+    been convicted and served a sentence for such an offense.
+    Previously, courts have interpreted the law as also applying to
+    first-time offenders instead of repeat offenders, which in some
+    cases brought decades-long sentences for charges brought on a single
+    indictment." \[Congressional Quarterly,
+    [12/19/18](http://www.cq.com/doc/har-5433877?4&search=8sr3x5XT)\]
+
+-   **Bill Banned The Shackling Of Pregnant Women During Childbirth.**
+    According to Vox, "And it would make other changes aimed at
+    improving conditions in prisons, including banning the shackling of
+    women during childbirth and requiring that inmates are placed closer
+    to their families." \[Vox,
+    [12/11/18](https://www.vox.com/future-perfect/2018/12/3/18122392/first-step-act-criminal-justice-reform-bill-congress)\]

@@ -1,0 +1,23 @@
+---
+title: Aviation And Port Security
+description: 
+published: true
+date: 2025-09-24T21:28:48.717Z
+tags: 
+editor: markdown
+dateCreated: 2025-09-24T21:28:44.425Z
+---
+
+# Aviation And Port Security
+
+### Requiring The Director Of National Intelligence From Reporting How Terrorists Evade Airport Screenings
+
+**2015: Schweikert Effectively Voted Against Requiring The Director Of National Intelligence To Report Of How Terrorists Evade Airport Screening.** In June 2015, Schweikert effectively voted against a motion to recommit the Intelligence Authorization legislation to committee for an amendment requiring the Director of National Intelligence to report information threats used by terrorists to evade airport screenings and update the terrorist watch list. According to Congressional Quarterly, the motion would have "recommit\[ed\] the bill to the House Select Intelligence Committee with instructions to report back with an amendment that would require the Director of National Intelligence to share with all appropriate federal agencies information threats used by terrorists to evade airport screening and to update the terrorist watch list." The underlying legislation was H.R. 2596, the Intelligence Authorization Act for Fiscal Year 2016. The vote was on the motion to recommit and the House rejected the motion 183 to 240. \[House Vote 368, [6/16/15](http://clerk.house.gov/evs/2015/roll368.xml); Congressional Quarterly, [6/16/15](http://www.cq.com/vote/2015/h/368?1); Congressional Actions, [H.R. 2596](https://www.congress.gov/bill/114th-congress/house-bill/2596/all-actions)\]
+
+-   **The Amendment Required The Director Of National Intelligence To Prioritize Preventing Theft Of Americans' Private Personal Information.** According to Congressional Quarterly, "In addition, the amendment requires the Director of National Intelligence, in coordination with the heads of each element of the intelligence community, to prioritize efforts and dedicate sufficient resources to uncover and foil attempts to steal the private personal information of U.S. citizens." \[Congressional Quarterly, [6/16/15](http://www.cq.com/vote/2015/h/368?1)\]
+
+-   **Rep. Debbie Dingell (D-MI): The Amendments Improved Travelers' Security By Improving Information Sharing About Terrorists' Evasion Of Airport Screenings.** In a floor speech, Rep. Dingell said, "As much as we agree that reforms are needed at TSA, we should all agree that they should have all the information they need to do their jobs. It is critical that our intelligence and security agencies are sharing information with each other because they have the same mission\--keeping the American people safe. This motion to recommit simply states that the Director of National Intelligence must provide all information on new and changing terrorist threats and the updated terrorist watch list information to TSA and to anybody else in the government that needs to have it." \[Congressional Record, [6/16/15](https://www.congress.gov/congressional-record/2015/06/16/house-section/article/H4418-3)\]
+
+-   **Rep. Debbie Dingell (D-MI): The Amendments Responded To Cyber Security Attacks And Protected Americans' Privacy.** In a floor speech, Rep. Dingell said, "This motion to recommit simply requires the Director of National Intelligence to prioritize efforts to uncover and foil attempts to steal the private, personal information of Americans. This is the least we can do to respond to the attacks on the privacy of the American people. Let\'s show the American people that Congress is listening." \[Congressional Record, [6/16/15](https://www.congress.gov/congressional-record/2015/06/16/house-section/article/H4418-3)\]
+
+-   **Rep. Devin Nunes (R-CA): Motion Was A "Poison Pill" Because The Legislation Already Accomplished The Directives In The Proposed Amendments.** In a floor speech, Rep. Nunes said, "Mr. Speaker, this motion to recommit is nothing more than a poison pill designed to destroy the hard work that has gone into crafting this legislation. This bill already does exactly what the motion to recommit proposes. It helps the Federal Government, including the patriotic men and women of our intelligence community, address the critical national security issues facing this country. As anyone who worked on it in the committee or took the time to come down and read the annex knows, this bill already funds intelligence community personnel who protect our networks." \[Congressional Record, [6/16/15](https://www.congress.gov/congressional-record/2015/06/16/house-section/article/H4418-3)\]
