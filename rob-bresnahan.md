@@ -2,7 +2,7 @@
 title: Rob Bresnahan
 description: 
 published: true
-date: 2025-12-27T05:04:29.175Z
+date: 2025-12-27T05:04:48.686Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:34:16.924Z
@@ -29,7 +29,7 @@ COMING SOON!
 
 # **How To Win Against Rob Bresnahan**
 
->Rob Bresnahan sold a blue-collar brand but governs like just another rich guy who profits from the swamp. He repeatedly promised that he would protect the benefits his neighbors relied on then voted to kick thousands of Pennsylvanians off their health coverage. He was the deciding vote to protect Trump’s tariffs even as local employers warned of price spikes. He played games on DOGE while Social Security backlogs grew. He broke his own pledge to ban congressional stock trading and bought a secret helicopter. The bottom line: he gets rich while he leaves NEPA behind.
+Rob Bresnahan sold a blue-collar brand but governs like just another rich guy who profits from the swamp. He repeatedly promised that he would protect the benefits his neighbors relied on then voted to kick thousands of Pennsylvanians off their health coverage. He was the deciding vote to protect Trump’s tariffs even as local employers warned of price spikes. He played games on DOGE while Social Security backlogs grew. He broke his own pledge to ban congressional stock trading and bought a secret helicopter. The bottom line: he gets rich while he leaves NEPA behind.
 
 ### promises made, promises broken: the bresnahan way
 
