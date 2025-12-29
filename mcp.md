@@ -2,7 +2,7 @@
 title: Research-Books MCP
 description: 
 published: true
-date: 2025-12-29T22:34:45.796Z
+date: 2025-12-29T22:35:34.517Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-29T22:15:36.595Z
