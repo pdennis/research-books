@@ -2,7 +2,7 @@
 title: Research-Books MCP
 description: 
 published: true
-date: 2025-12-29T22:17:22.983Z
+date: 2025-12-29T22:18:42.468Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-29T22:15:36.595Z
@@ -17,7 +17,7 @@ We can mitigate these shortcomings by giving the chatbots direct access to this 
 **What this gives you:** Access to opposition research on Republican candidates in competitive 2026 House, Senate, and Governor races, including detailed vulnerability research and issue-specific pages.
 
 
-## Claude
+## Anthropic/Claude
 
 ### Connecting to Research Books in Claude
 
@@ -78,8 +78,3 @@ Use the Research Books app to find opposition research on Gabe Evans.
 Do not use browsing or other tools.
 ```
 
-#### Tips
-
-- Expand tool calls with the carat to inspect JSON payloads
-- Write clear, specific prompts that name the app directly
-- If tools aren't firing, try: "Use Research Books to search for [candidate name]"
