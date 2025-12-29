@@ -2,13 +2,15 @@
 title: Research-Books MCP
 description: 
 published: true
-date: 2025-12-29T22:19:45.587Z
+date: 2025-12-29T22:33:39.055Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-29T22:15:36.595Z
 ---
 
 # Give your chatbot direct access to our research
+
+![evansclaude2.gif](/evansclaude2.gif)
 
 Chatbots like Claude and ChatGPT can be extremely useful, but hallucinations are a persistent problem. Even without hallucinations, chatbots don't have the kind of specialized political knowledge needed to create effective political communication out of the box.
 
