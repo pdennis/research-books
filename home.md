@@ -2,7 +2,7 @@
 title: Research Books
 description: 
 published: true
-date: 2025-12-29T21:19:14.209Z
+date: 2025-12-29T21:20:24.226Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T14:53:15.605Z
@@ -37,7 +37,7 @@ dateCreated: 2025-05-04T14:53:15.605Z
   </a>
 </div>
 
-## Additional Ways To Access Our Research
+## Access Our Work In Other Ways:
 <div class="home-flex-container-compact">
   <a href="/" class="home-flex-child-compact">
     <span class="icon">🔌</span>
