@@ -2,7 +2,7 @@
 title: -
 description: 
 published: true
-date: 2025-12-29T19:59:43.741Z
+date: 2025-12-29T21:16:22.100Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T14:53:15.605Z
@@ -58,6 +58,11 @@ dateCreated: 2025-05-04T14:53:15.605Z
     <span class="icon">🚨📹</span>
     <span class="label">Real-time alerts</span>
     <span class="description">From our trackers</span>
+  </a>
+    <a href="https://www.americanbridgepac.org/partners/" class="home-flex-child-compact">
+    <span class="icon">🤝🔓</span>
+    <span class="label">Partnership</span>
+    <span class="description">Get access to private tools</span>
   </a>
 </div>
 
