@@ -2,7 +2,7 @@
 title: -
 description: 
 published: true
-date: 2025-12-29T19:51:07.888Z
+date: 2025-12-29T19:59:43.741Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T14:53:15.605Z
@@ -37,27 +37,27 @@ dateCreated: 2025-05-04T14:53:15.605Z
   </a>
 </div>
 
-## Additional Ways To Access Our Data
+## Additional Ways To Access Our Research
 <div class="home-flex-container-compact">
-  <a href="/house" class="home-flex-child-compact">
-    <span class="icon">🏛️</span>
-    <span class="label">House</span>
-    <span class="description">Competitive district research</span>
+  <a href="/" class="home-flex-child-compact">
+    <span class="icon">🔌</span>
+    <span class="label">MCP </span>
+    <span class="description">Claude/ChatGPT integration</span>
   </a>
-  <a href="/senate" class="home-flex-child-compact">
-    <span class="icon">🏦</span>
-    <span class="label">Senate</span>
-    <span class="description">Statewide race tracking</span>
+  <a href="https://github.com/pdennis/research-books" class="home-flex-child-compact">
+    <span class="icon">🐙</span>
+    <span class="label">Github</span>
+    <span class="description">Build on our data directly</span>
   </a>
-  <a href="/state-races" class="home-flex-child-compact">
-    <span class="icon">🗳️</span>
-    <span class="label">State</span>
-    <span class="description">Governor & downballot</span>
+  <a href="/" class="home-flex-child-compact">
+    <span class="icon">🤖🔍</span>
+    <span class="label">Search agent</span>
+    <span class="description">Cross-source search tool</span>
   </a>
-  <a href="https://trumpresearchbook.com/" class="home-flex-child-compact">
-    <span class="icon">🦅</span>
-    <span class="label">Executive</span>
-    <span class="description">Admin & appointee files</span>
+  <a href="https://www.americanbridgepac.org/american-bridge-research-alerts/" class="home-flex-child-compact">
+    <span class="icon">🚨📹</span>
+    <span class="label">Real-time alerts</span>
+    <span class="description">From our trackers</span>
   </a>
 </div>
 
