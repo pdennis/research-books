@@ -2,7 +2,7 @@
 title: -
 description: 
 published: true
-date: 2025-12-27T13:06:01.616Z
+date: 2025-12-29T19:51:07.888Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T14:53:15.605Z
@@ -37,4 +37,27 @@ dateCreated: 2025-05-04T14:53:15.605Z
   </a>
 </div>
 
+## Additional Ways To Access Our Data
+<div class="home-flex-container-compact">
+  <a href="/house" class="home-flex-child-compact">
+    <span class="icon">🏛️</span>
+    <span class="label">House</span>
+    <span class="description">Competitive district research</span>
+  </a>
+  <a href="/senate" class="home-flex-child-compact">
+    <span class="icon">🏦</span>
+    <span class="label">Senate</span>
+    <span class="description">Statewide race tracking</span>
+  </a>
+  <a href="/state-races" class="home-flex-child-compact">
+    <span class="icon">🗳️</span>
+    <span class="label">State</span>
+    <span class="description">Governor & downballot</span>
+  </a>
+  <a href="https://trumpresearchbook.com/" class="home-flex-child-compact">
+    <span class="icon">🦅</span>
+    <span class="label">Executive</span>
+    <span class="description">Admin & appointee files</span>
+  </a>
+</div>
 
