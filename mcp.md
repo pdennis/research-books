@@ -2,13 +2,13 @@
 title: Research-Books MCP
 description: 
 published: true
-date: 2025-12-29T22:33:39.055Z
+date: 2025-12-29T22:34:32.855Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-29T22:15:36.595Z
 ---
 
-# Give your chatbot direct access to our research
+# Give chatbots direct access to our research
 
 ![evansclaude2.gif](/evansclaude2.gif)
 
