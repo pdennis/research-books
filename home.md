@@ -2,7 +2,7 @@
 title: Research Books
 description: 
 published: true
-date: 2025-12-29T21:26:25.277Z
+date: 2025-12-29T22:03:23.392Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T14:53:15.605Z
@@ -38,7 +38,7 @@ dateCreated: 2025-05-04T14:53:15.605Z
 
 ## Access this work in other ways:
 <div class="home-flex-container-compact">
-  <a href="/" class="home-flex-child-compact">
+  <a href="/mcp" class="home-flex-child-compact">
     <span class="icon">🔌</span>
     <span class="label">MCP </span>
     <span class="description">Claude/ChatGPT integration</span>
