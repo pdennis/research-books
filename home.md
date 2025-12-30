@@ -2,7 +2,7 @@
 title: Research Books
 description: 
 published: true
-date: 2025-12-29T22:03:23.392Z
+date: 2025-12-30T00:35:27.199Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T14:53:15.605Z
@@ -16,7 +16,7 @@ dateCreated: 2025-05-04T14:53:15.605Z
   style="height:200px; width:auto; display:block; margin:0 auto;">
 
 # Research Books
->American Bridge 21st Century is the Democratic Party's largest research and rapid-response operation. We publish our opposition research freely—so journalists, advertisers, organizers, activists and voters can access primary-source documentation on Republicans running at every level.
+>**American Bridge 21st Century** is the Democratic Party's largest research and rapid-response operation. We publish our opposition research freely—so journalists, advertisers, organizers, activists and voters can access primary-source documentation on Republicans running at every level.
 <div class="home-flex-container">
   <a href="/house" class="home-flex-child">
     <span class="icon">🏛️</span>
