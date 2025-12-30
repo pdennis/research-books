@@ -2,14 +2,16 @@
 title: Untitled Page
 description: 
 published: true
-date: 2025-12-30T03:36:26.000Z
+date: 2025-12-30T03:38:58.262Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-30T02:50:01.710Z
 ---
 
 # Research Agent 
-> If you're looking for a specific page or a single piece of information, the regular search bar is your best bet. But some questions don't have a single answer—they require pulling together information scattered across dozens of pages. That's where this tool shines. Ask it a complex question, and it will scan through the databases, gather the relevant pieces, and assemble them into a clear summary with links to the original sources. Think of it as a research assistant that can read through hundreds of pages in seconds and write you a custom briefing. 
+> If you're looking for a specific page or a single piece of information, the regular search bar is your best bet. But some questions don't have a single answer—they require pulling together information scattered across dozens of pages on this site. 
+That's where this tool shines. Ask it a complex question, and it will scan through the databases, gather the relevant pieces, and assemble them into a clear summary with links to the original sources. 
+Think of it as a research assistant that can run multiple searches for you. 
 
 ### Ask a question
 
