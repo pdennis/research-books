@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Research Agent
 description: 
 published: true
-date: 2025-12-30T03:42:49.446Z
+date: 2025-12-30T03:50:13.660Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-30T02:50:01.710Z
