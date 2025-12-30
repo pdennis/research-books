@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2025-12-30T03:40:46.919Z
+date: 2025-12-30T03:41:15.392Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-30T02:50:01.710Z
@@ -10,9 +10,8 @@ dateCreated: 2025-12-30T02:50:01.710Z
 
 # Research Agent 
 > This is a tool that can search read our opposition research files iteratively. 
-If you're looking for a specific page or a single piece of information, the regular search bar is your best bet. But some questions don't have a single answer—they require pulling together information scattered across dozens of pages on this site. 
-That's where this tool shines. Ask it a complex question, and it will scan through the databases, gather the relevant pieces, and assemble them into a clear summary with links to the original sources. 
-Think of it as a research assistant that can run multiple searches for you. 
+If you're looking for a specific page or a single piece of information, the regular search bar is your best bet. But some questions require pulling together information scattered across dozens of pages on this site. 
+That's where this tool shines. 
 
 ### Ask a question
 
