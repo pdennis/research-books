@@ -1,0 +1,21 @@
+---
+title: Agentic widget
+description: 
+published: true
+date: 2025-12-30T02:39:34.761Z
+tags: 
+editor: markdown
+dateCreated: 2025-12-30T02:39:34.761Z
+---
+
+
+  <div id="agentic-search"></div>
+  <script src="https://agentic-search-widget.pages.dev/agentic-search.iife.js"></script>
+  <script>
+    AgenticSearch.default.init({
+      container: '#agentic-search',
+      proxyUrl: 'https://agentic-search-proxy.pdennis-research.workers.dev',
+      model: 'google/gemini-2.0-flash-001',
+      showSources: true
+    });
+  </script>
