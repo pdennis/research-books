@@ -2,16 +2,14 @@
 title: Untitled Page
 description: 
 published: true
-date: 2025-12-30T03:41:55.445Z
+date: 2025-12-30T03:42:49.446Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-30T02:50:01.710Z
 ---
 
 # Research Agent 
-> This is a tool that can read and search our opposition research files. 
-If you're looking for a specific page or a single piece of information, the regular search bar is your best bet. But some questions require pulling together information scattered across dozens of pages on this site. 
-That's where this tool shines. 
+>If you're looking for a specific page or a single piece of information, the regular search bar is your best bet. But some questions don't have a single answer—they require pulling together information scattered across dozens of pages. That's where this tool shines. Ask it a complex question, and it will scan through the databases, gather the relevant pieces, and assemble them into a clear summary with links to the original sources. Think of it as a research assistant that can read through hundreds of pages in seconds and write you a custom briefing.
 
 ### Ask a question
 
