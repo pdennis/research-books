@@ -2,7 +2,7 @@
 title: Research Books
 description: 
 published: true
-date: 2025-12-30T00:35:27.199Z
+date: 2025-12-30T02:55:14.658Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T14:53:15.605Z
@@ -53,7 +53,7 @@ dateCreated: 2025-05-04T14:53:15.605Z
     <span class="label">Word Docs</span>
     <span class="description">Old school: oppo as .docx</span>
   </a>
-  <a href="/" class="home-flex-child-compact">
+  <a href="/agent" class="home-flex-child-compact">
     <span class="icon">🤖🔍</span>
     <span class="label">Search agent</span>
     <span class="description">Cross-source search tool</span>
