@@ -2,7 +2,7 @@
 title: Research-Books MCP
 description: 
 published: true
-date: 2025-12-29T22:36:42.172Z
+date: 2025-12-30T00:27:16.932Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-29T22:15:36.595Z
@@ -10,8 +10,7 @@ dateCreated: 2025-12-29T22:15:36.595Z
 
 # Give chatbots direct access to opposition research
 
-![evansclaude2.gif](/evansclaude2.gif)
-
+![evansclaude2.gif](/evansclaude2.gif){.align-center}
 Chatbots like Claude and ChatGPT can be extremely useful, but hallucinations are a persistent problem. Even without hallucinations, chatbots don't have the kind of specialized political knowledge needed to create effective political communication out of the box.
 
 We can mitigate these shortcomings by giving chatbots direct access to American Bridge's opposition research via a specialized interface. Rather than trying to invent political attacks from scratch, they can check to see if there's a research report with the information they need.
