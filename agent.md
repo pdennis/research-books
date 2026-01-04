@@ -2,7 +2,7 @@
 title: Research Agent
 description: 
 published: true
-date: 2026-01-04T15:55:40.901Z
+date: 2026-01-04T15:55:59.352Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-30T02:50:01.710Z
@@ -19,7 +19,7 @@ dateCreated: 2025-12-30T02:50:01.710Z
     allow="clipboard-write"
   ></iframe>
 
-## Information this tool uses (and cites):
+## Knowlege base: Information this tool uses (and cites):
 
 This website, [research-books.com](https://research-books.com)
 - AB21 public research reports on 2026 House candidates ([reports](https://research-books.com/house))
