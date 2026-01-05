@@ -1,8 +1,8 @@
 ---
 title: Burt Jones
 description: 
-published: false
-date: 2026-01-05T18:58:41.125Z
+published: true
+date: 2026-01-05T19:55:51.085Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:16:25.941Z
