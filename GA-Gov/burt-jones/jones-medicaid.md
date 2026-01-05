@@ -1,8 +1,8 @@
 ---
 title: Burt Jones Attacks on Health Care
 description: 
-published: false
-date: 2025-12-22T15:04:29.572Z
+published: true
+date: 2026-01-05T19:56:31.979Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-22T14:59:44.058Z
