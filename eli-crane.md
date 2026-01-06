@@ -2,7 +2,7 @@
 title: Eli Crane
 description: 
 published: true
-date: 2025-12-27T04:16:33.993Z
+date: 2026-01-06T23:06:05.863Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T18:31:22.740Z
@@ -14,7 +14,7 @@ Eli Crane is out-of-touch with his constituents because he doesn’t live in the
 
 ### Crane Voted To Take Health Insurance Away From Arizonans Who Relied On Medicaid
 
--   Crane [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that was estimated to kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance including nearly 12 million Americans who rely on Medicaid. [More than 41,000 Arizonans](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health insurance as a result of Crane’s votes. Navajo leaders also [warned](https://kffhealthnews.org/news/article/native-americans-federal-health-cuts-rfk-jr-promise-indian-health-service/) that cuts would directly threaten the health care coverage of many Native Americans, which made up [18% of Crane's district](https://cronkitenews.azpbs.org/2024/11/04/native-american-voters-power-2024-presidential-election/). Crane even [admitted](https://soundcloud.com/abpac/eli-crane-tele-town-hall-7222025/s-u7SHKyfHeCu?si=8921cb8f08064e4faae33e95c6444a52&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) the bill he voted for cut Medicaid after months of claiming Republicans were only tackling [“waste, fraud, and abuse.”](https://x.com/RepEliCrane/status/1895288093621748111)
+-   Crane [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that was estimated to kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance including nearly 12 million Americans who rely on Medicaid. [More than 41,000 Arizonans](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health insurance as a result of Crane’s votes. Navajo leaders also [warned](https://kffhealthnews.org/news/article/native-americans-federal-health-cuts-rfk-jr-promise-indian-health-service/) that cuts would directly threaten the health care coverage of many Native Americans, which made up [18% of Crane's district](https://cronkitenews.azpbs.org/2024/11/04/native-american-voters-power-2024-presidential-election/). Crane even [admitted](https://soundcloud.com/abpac/eli-crane-tele-town-hall-7222025/s-u7SHKyfHeCu?si=8921cb8f08064e4faae33e95c6444a52&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) the bill he voted for cut Medicaid after months of claiming Republicans were only tackling [“waste, fraud, and abuse.”](https://x.com/RepEliCrane/status/1895288093621748111) Crane then [bragged](https://www.youtube.com/watch?v=uto3XRpbnmY) with his House Freedom Caucus colleagues about how much more dramatic they were able to make the cuts in the reconciliation bill. 
 
 **Message:** Crane voted to cut health care for thousands of Arizonans all to fund tax cuts for billionaires. 
 
