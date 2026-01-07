@@ -2,7 +2,7 @@
 title: Mike Cox
 description: 
 published: false
-date: 2026-01-07T21:42:39.316Z
+date: 2026-01-07T21:43:01.859Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:18:50.686Z
@@ -20,7 +20,7 @@ COMING SOON!
 COMING SOON!
 </details>
 
-# How To win against Mike Cox
+# How To Win Against Mike Cox
 
 Mike Cox supported federal legislation that stripped health care from hundreds of thousands of Michiganders, set up future cuts to Medicare, cut SNAP benefits, and rescinded tax credits meant to support clean energy jobs and projects in Michigan. Cox praised Trump’s “One Big Beautiful Bill,” and tried to strike down the Affordable Care Act when he was Michigan attorney general. He also lauded Trump’s “Department of Government Efficiency,” even as its cuts affected thousands of Michigan federal workers and those reliant on Social Security. Mike Cox praised Trump’s tariffs as they crushed Michigan small businesses, ignoring the [stock market crashing](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) and increasing food prices. As Michigan attorney general, Mike Cox threatened the reproductive rights of Michiganders when he defended Michigan’s unconstitutional “Legal Birth Definition Act,” which critics warned would ban all abortions in Michigan. Prior to running for governor, Mike Cox said he was hired by Trump’s 2024 campaign to litigate potential election challenges in case there was another “2020 situation.” Mike Cox’s wife, Laura Cox, tried delaying the certification of Michigan’s 2020 election results as the Michigan Republican Party chair. The U.S. House Select Committee on the January 6 Attack subpoenaed Laura Cox, and she later revealed her team prepared a separate document for Trump electors to sign they would vote for Trump if the courts were to overturn the 2020 election. When Mike Cox served as Michigan attorney general, he was accused of “throttling” an investigation into a Manoogian Mansion party where a stripper was beaten. Although he was accused of also attending the party, Mike Cox’s office repeatedly denied the party ever occurred. 
 
