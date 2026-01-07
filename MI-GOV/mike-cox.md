@@ -2,7 +2,7 @@
 title: Mike Cox
 description: 
 published: false
-date: 2026-01-07T21:43:01.859Z
+date: 2026-01-07T21:49:17.718Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:18:50.686Z
@@ -84,7 +84,7 @@ Mike Cox supported federal legislation that stripped health care from hundreds o
 
 **Message:** Mike and Laura Cox undermined Michigan’s elections, especially Laura Cox for her efforts to delay the certification of the 2020 election and creating a separate document for Trump electors to sign when she served as Michigan Republican Party chair. 
 
-### Mike Cox Was Accused Of “Throttling” An Investigation Into The Manoogian Mansion Party Where A Stripper Was Beaten And Later Murdered
+### Mike Cox Was Accused Of “Throttling” An Investigation Into A Manoogian Mansion Party Where A Stripper Was Beaten And Later Murdered
 
 -   During Mike Cox’s tenure as Michigan attorney general, Cox was accused of [“throttling”](https://web.archive.org/web/20121005092755/http:/www.freep.com/article/20091122/NEWS01/911220441/Cox-states-case-on-Manoogian-probe) an investigation into a party at the Manoogian Mansion where a stripper was beaten. Detroit Mayor Kwame Kilpatrick was accused of throwing a party in 2002, where his wife allegedly [beat](https://www.mlive.com/news/detroit/2013/04/tamara_greene_attorney_says_he.html) Tamara Greene, the stripper, and she was later found murdered in 2003. After Cox’s office investigated the party, he [dismissed](https://www.wkar.org/2010-07-29/cox-says-he-can-shake-off-scandals-to-win-gop-nomination) the party ever occurring. Cox also [denied](https://www.cbsnews.com/detroit/news/witness-claims-kilpatricks-and-ag-cox-attended-manoogian-mansion-party/) attending the party, even though a witness signed an affidavit claiming [he saw Cox at the party](https://www.mlive.com/news/detroit/2010/07/mike_cox_denies_attending_rumo.html) and saw Greene be beaten. Cox’s office continued to deny the party’s existence, even after a former police desk clerk signed an affidavit testifying [she saw a police report filed in 2002](https://www.mlive.com/grpress/2008/03/former_police_clerk_says_she_s.html) detailing the party and Greene’s assault. After Tamara Greene’s attorneys filed a lawsuit against the city of Detroit alleging a coverup, a [federal court dismissed the case](https://www.mlive.com/news/detroit/2013/03/kwame_scandal_flashback_the_ma.html), Cox’s deposition was sealed, and a federal appeals court [upheld the dismissal](https://www.mlive.com/news/detroit/2013/04/tamara_greene_attorney_says_he.html).
 
