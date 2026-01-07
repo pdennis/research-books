@@ -1,0 +1,17 @@
+---
+title: Mike And Laura Cox Sowed Distrust In The 2020 Election
+description: 
+published: false
+date: 2026-01-07T21:33:43.097Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-07T21:08:45.935Z
+---
+
+## Overview
+
+During his gubernatorial campaign, Mike Cox touted his last client prior to running for governor was Trump’s 2024 presidential campaign. Mike Cox said [he was hired to litigate potential election challenges in Michigan](https://www.youtube.com/watch?v=KOkrcWvnrtY) in case there was a “2020 situation” again, but claimed Trump’s 2024 win was “too big to rig.” 
+
+[Mike Cox’s wife, Laura Cox,](https://michiganadvance.com/briefs/former-michigan-ag-mike-cox-announces-candidacy-for-governor/) was the chairwoman for the Michigan Republican Party during the 2020 election, and she spread [baseless claims](https://michiganadvance.com/2020/11/15/republican-convicted-of-election-fraud-helps-lead-trump-rally-baselessly-claiming-election-fraud/) of voter fraud. After meeting with Trump in November 2020, Laura Cox requested a [delay](https://www.detroitnews.com/story/news/local/michigan/2020/11/21/state-national-gop-seek-delay-certification-election-results/6373717002/) to the certification of Michigan’s 2020 election, asking for an audit after alleging [“irregularities”](https://www.washingtonpost.com/politics/michigan-election-republicans/2020/11/21/ec7a6428-2c2a-11eb-92b7-6ef17b3fe3b4_story.html) in the Democratic stronghold of Wayne County. During the 2020 election, Laura Cox also posted a video [falsely claiming Republican poll watchers were blocked](https://www.politico.com/news/magazine/2020/11/24/michigan-election-trump-voter-fraud-democracy-440475) from entering the TCF Center in Detroit during the vote counts, even though she had instructed Republicans to flood the center. In 2022, the U.S. House Select Committee on the January 6 Attack [subpoenaed](https://bridgemi.com/michigan-government/us-houses-jan-6-panel-subpoenas-ex-michigan-gop-chair-laura-cox/) Laura Cox for information on the fake elector scheme. She was subpoenaed because she joined a [virtual event in December 2020](https://bridgemi.com/michigan-government/us-houses-jan-6-panel-subpoenas-ex-michigan-gop-chair-laura-cox/), where Rudy Giuliani claimed certifying the 2020 results would be a “criminal act.” Laura Cox also served as the Michigan Republican Party chair when [fake electors met in the headquarters](https://www.detroitnews.com/story/news/politics/2022/02/16/ex-gop-chair-reveals-details-jan-6-committee-work-michigan/6811166001/) and signed the certification. Although Laura Cox claimed she was not involved in the fake elector scheme, Laura Cox said her team prepared a [separate document for Trump electors to sign](https://www.detroitnews.com/story/news/politics/michigan/2023/03/03/ex-michigan-gop-chair-others-interviewed-for-fake-trump-elector-probe/69968517007/) they “merely participated in a ceremony” and would vote for Trump if the courts were to overturn Biden’s win in the 2020 election. 
+
+## Mike Cox Proudly Touted Having Trump’s 2024 Campaign As His Last Client Prior To Running For Governor, And Noted He Was Hired To Litigate Potential Election Challenges in Michigan
