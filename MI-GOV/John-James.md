@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2025-12-27T04:21:09.769Z
+date: 2026-01-07T21:40:47.869Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -20,7 +20,7 @@ COMING SOON!
 COMING SOON!
 </details>
 
-# How To win against John James
+# How To Win Against John James
 
 John James voted to cut services and raise costs on Michiganders. He voted to kick more than 424,000 Michiganders off their health insurance, slash Medicare by $500 billion, and make it harder for Michigan families to buy food. John James cast the deciding vote to protect Trump’s tariffs, crushing small businesses and raising grocery prices. John James stood by while Trump fired Michigan workers and gutted Social Security. John James voted to repeal clean energy tax credits that supported Michigan jobs and threatened reproductive freedoms with his extreme anti-abortion agenda. Even after voting against releasing the Epstein files, he only supported their release once Trump approved it. John James repeatedly faced ethics complaints for allegedly using official resources to benefit his campaign and hiding financial dealings.  
  
@@ -93,19 +93,19 @@ In 2025, John James [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a b
 
 ## John James' Policies Have Hurt Everyday People
 
-- [:hospital: **John James Supported Efforts To Cut Medicaid And Threaten Michiganders' Access To Health Care**](https://research-books.com/en/MI-GOV/John-James/James-Medicaid)
-- [:older_man: **John James Voted For Medicare Cuts**](https://research-books.com/en/MI-GOV/John-James/James-medicare)
-- [:shopping_cart: **John James Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/MI-GOV/John-James/James-Tariffs)
-- [:apple:**John James Cast Votes To Cut SNAP Benefits From Michigan Families**](https://research-books.com/en/MI-GOV/John-James/James-Food)
-- [:x: **John James Won't Defend Michigan Jobs Or Social Security From Trump**](https://research-books.com/en/MI-GOV/John-James/James-doge)
-- [:mechanic: **John James Voted Against Protecting Michigan’s Clean Energy Jobs**](https://research-books.com/en/MI-GOV/John-James/James-cleanenergy)
-- [:woman: **John James Was An Anti-Abortion Extremist**](https://research-books.com/en/MI-GOV/John-James/James-abortion)
+- [:hospital: | **John James Supported Efforts To Cut Medicaid And Threaten Michiganders' Access To Health Care**](https://research-books.com/en/MI-GOV/John-James/James-Medicaid)
+- [:older_man: | **John James Voted For Medicare Cuts**](https://research-books.com/en/MI-GOV/John-James/James-medicare)
+- [:shopping_cart: | **John James Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/MI-GOV/John-James/James-Tariffs)
+- [:apple: | **John James Cast Votes To Cut SNAP Benefits From Michigan Families**](https://research-books.com/en/MI-GOV/John-James/James-Food)
+- [:x: | **John James Won't Defend Michigan Jobs Or Social Security From Trump**](https://research-books.com/en/MI-GOV/John-James/James-doge)
+- [:mechanic: | **John James Voted Against Protecting Michigan’s Clean Energy Jobs**](https://research-books.com/en/MI-GOV/John-James/James-cleanenergy)
+- [:woman: | **John James Was An Anti-Abortion Extremist**](https://research-books.com/en/MI-GOV/John-James/James-abortion)
 {.links-list}
 
 ## John James Used His Power To Benefit The Powerful And Himself
-- [:eyes: **It Took John James 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/MI-GOV/John-James/James-epstein)
-- [:grimacing: **John James Was An Ethics Nightmare**](https://research-books.com/en/MI-GOV/John-James/James-ethics)
+- [:eyes: | **It Took John James 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/MI-GOV/John-James/James-epstein)
+- [:grimacing: | **John James Was An Ethics Nightmare**](https://research-books.com/en/MI-GOV/John-James/James-ethics)
 {.links-list}
 # Key Votes
-- [:white_check_mark: **John James' Key Votes As A Member Of Congress**](https://research-books.com/en/MI-GOV/John-James/James-votes)
+- [:white_check_mark: | **John James' Key Votes As A Member Of Congress**](https://research-books.com/en/MI-GOV/John-James/James-votes)
 {.links-list}
