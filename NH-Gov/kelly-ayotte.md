@@ -2,7 +2,7 @@
 title: Kelly Ayotte
 description: 
 published: false
-date: 2026-01-09T22:31:48.082Z
+date: 2026-01-09T22:32:23.832Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:21:26.642Z
@@ -122,7 +122,7 @@ Kelly Ayotte’s record reflected a consistent pattern of votes and actions that
 ## Kelly Ayotte Used Her Power To Benefit The Powerful 
 
 - [:sos: | **Kelly Ayotte Neglected Child Abuse At The Sununu Youth Development Center When She Was Attorney General**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-YDC-Scandal)
-- [⚖️ | **Kelly Ayotte Used Her Executive Power To Withhold Public Records Over Her Supreme Court Applicants](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-public-record-denials)
+- [⚖️ | **Kelly Ayotte Used Her Executive Power To Withhold Public Records Over Her Supreme Court Applicants**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-public-record-denials)
 {.links-list}
 
 # Key Votes
