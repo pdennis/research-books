@@ -2,7 +2,7 @@
 title: Kelly Ayotte
 description: 
 published: false
-date: 2026-01-09T22:17:24.407Z
+date: 2026-01-09T22:18:31.835Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:21:26.642Z
@@ -46,9 +46,8 @@ Kelly Ayotte’s record reflected a consistent pattern of votes and actions that
 
 ### Kelly Ayotte Supported Trump’s Devastating Tariffs
 
--   In April 2025, Kelly Ayotte acknowledged that Trump’s tariffs were “[not helping](https://indepthnh.org/2025/04/09/ayotte-weighs-in-on-budget-casella-and-tariffs/)” New Hampshire but [declined to join](https://www.bostonglobe.com/2025/06/18/nation/new-hampshire-trump-canada-tariffs-kelly-ayotte/) other New England governors in formally challenging Trump’s tariffs, even as [grocery prices increased](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi). Trump’s tariffs [reduced Canadian travel to New Hampshire by 30%](https://stateline.org/2025/09/12/turned-off-by-trump-rhetoric-canadians-cancel-trips-new-england-pays-the-price/), straining tourism and small businesses, and [raised raw material costs](https://www.nhpr.org/nh-news/2025-04-15/from-stuffed-animals-to-steel-how-trumps-tariffs-are-weighing-on-nh-businesses) for New Hampshire steel manufacturers.  
-      
-     
+-   In April 2025, Kelly Ayotte acknowledged that Trump’s tariffs were “[not helping](https://indepthnh.org/2025/04/09/ayotte-weighs-in-on-budget-casella-and-tariffs/)” New Hampshire but [declined to join](https://www.bostonglobe.com/2025/06/18/nation/new-hampshire-trump-canada-tariffs-kelly-ayotte/) other New England governors in formally challenging Trump’s tariffs, even as [grocery prices increased](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi). Trump’s tariffs [reduced Canadian travel to New Hampshire by 30%](https://stateline.org/2025/09/12/turned-off-by-trump-rhetoric-canadians-cancel-trips-new-england-pays-the-price/), straining tourism and small businesses, and [raised raw material costs](https://www.nhpr.org/nh-news/2025-04-15/from-stuffed-animals-to-steel-how-trumps-tariffs-are-weighing-on-nh-businesses) for New Hampshire steel manufacturers. 
+     
 -   By December 2025, higher grocery prices and changes to food assistance put [76,000 New Hampshire residents at risk](https://newhampshirebulletin.com/2025/12/22/three-policy-decisions-from-2025-that-will-shape-life-in-new-hampshire-in-2026-and-beyond/).
 
 **Message:** Kelly Ayotte did nothing to protect Granite Staters from Trump’s devastating tariffs while New Hampshire saw higher grocery prices and economic strain for small businesses.
@@ -90,8 +89,6 @@ Kelly Ayotte’s record reflected a consistent pattern of votes and actions that
 -   As New Hampshire attorney general, Ayotte [defended a parental notification abortion law](https://www.foxnews.com/story/supreme-court-hears-debate-on-n-h-abortion-case) at the U.S. Supreme Court that did not include an explicit health emergency exception for pregnant minors.
 
 -   Ayotte [received support](https://web.archive.org/web/20150822185134/http:/www.ijreview.com/2015/08/397250-planned-parenthood-election-senators-video-ads-campaign) from national anti-abortion organizations, including [National Right to Life](https://web.archive.org/web/20101104204302/http:/www.ayotteforsenate.com/family-values) and [Susan B. Anthony List](https://web.archive.org/web/20101104204302/http:/www.ayotteforsenate.com/family-values).  
-      
-     
 
 **Message:** Kelly Ayotte threatened the reproductive freedoms of Granite Staters.
 
