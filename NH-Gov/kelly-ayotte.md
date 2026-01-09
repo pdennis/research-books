@@ -2,13 +2,23 @@
 title: Kelly Ayotte
 description: 
 published: false
-date: 2026-01-09T21:58:31.083Z
+date: 2026-01-09T22:05:43.632Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:21:26.642Z
 ---
 
-**📺 - Click here for our Example Content Library** **📺 - Click here for Notable Clips and Visuals** 
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against Kelly Ayotte
 
@@ -103,26 +113,22 @@ Kelly Ayotte’s record reflected a consistent pattern of votes and actions that
 
 ## Kelly Ayotte Policies Have Hurt Everyday People
 
-[Kelly Ayotte Supported Efforts To Cut Medicaid And Threaten New Hampshire's Access To Health Care](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-medicaid)
-
-[Kelly Ayotte Supported Medicare Cuts](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-medicare)
-
-[Kelly Ayotte Backed Trump's Tariffs, Endangering New Hampshire's Economy](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-tariffs)
-
-[Kelly Ayotte Supported Cuts To SNAP Benefits From New Hampshire Families](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-food)
-
-[Kelly Ayotte Won't Defend New Hampshire Jobs Or Social Security From Trump](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-doge)
-
-[Kelly Ayotte Opposed Clean Energy Investments And Weakened Environmental Protections](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-CleanEnergy)
-
-[Kelly Ayotte Was An Anti-Abortion Extremist](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-abortion)
+- [:hospital:| **Kelly Ayotte Supported Efforts To Cut Medicaid And Threaten New Hampshire's Access To Health Care**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-medicaid)
+- [:older_man:| **Kelly Ayotte Supported Medicare Cuts**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-medicare)
+- [:shopping_cart:| **Kelly Ayotte Backed Trump's Tariffs, Endangering New Hampshire's Economy**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-tariffs)
+- [:apple:| **Kelly Ayotte Supported Cuts To SNAP Benefits From New Hampshire Families**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-food)
+- [:x:| **Kelly Ayotte Won't Defend New Hampshire Jobs Or Social Security From Trump**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-doge)
+- [:mechanic:| **Kelly Ayotte Opposed Clean Energy Investments And Weakened Environmental Protections**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-CleanEnergy)
+- [:woman:| **Kelly Ayotte Was An Anti-Abortion Extremist**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-abortion)
+{.links-list}
 
 ## Kelly Ayotte Used Her Power To Benefit The Powerful 
 
-[Kelly Ayotte Neglected Child Abuse At The Sununu Youth Development Center When She Was Attorney General](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-YDC-Scandal)
-
-[Kelly Ayotte Used Her Executive Power To Withhold Public Records Over Her Supreme Court Applicants](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-public-record-denials)
+- [:sos: | **Kelly Ayotte Neglected Child Abuse At The Sununu Youth Development Center When She Was Attorney General**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-YDC-Scandal)
+- [⚖️ | **Kelly Ayotte Used Her Executive Power To Withhold Public Records Over Her Supreme Court Applicants](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-public-record-denials)
+{.links-list}
 
 # Key Votes
 
--   [Kelly Ayotte's Key Votes As A Member Of Congress](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-votes)
+- [:white_check_mark: | **Kelly Ayotte's Key Votes As A Member Of Congress**](https://research-books.com/en/NH-Gov/kelly-ayotte/ayotte-votes)
+{.links-list}
