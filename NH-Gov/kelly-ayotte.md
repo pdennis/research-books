@@ -2,7 +2,7 @@
 title: Kelly Ayotte
 description: 
 published: false
-date: 2026-01-09T22:11:20.375Z
+date: 2026-01-09T22:16:13.251Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:21:26.642Z
@@ -75,7 +75,7 @@ Kelly Ayotte’s record reflected a consistent pattern of votes and actions that
 
 -   In 2012 and 2015, Kelly Ayotte voted against extending [clean energy](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1122/vote_112_2_00063.htm?congress=112&session=2&vote=00063) and [wind energy](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1141/vote_114_1_00040.htm?congress=114&session=1&vote=00040) tax credits, including a [proposal](https://plus.cq.com/vote/2012/S/63?8&search=mfj1X8FZ&uid=floorvote-234409000) that would have replaced oil company tax breaks with alternative and renewable energy tax credits.
 
-- In 2025, Governor Kelly Ayotte [weakened marine environmental protections](https://www.governor.nh.gov/news/governor-ayotte-new-hampshire-will-not-comply-burdensome-lobster-fishing-regulations) **and** [publicly endorsed](https://x.com/KellyAyotte/status/1920924138576732448) Trump’s [rollback of fishing regulations](https://nhjournal.com/exclusive-trump-to-sign-executive-order-unleashing-new-england-fishing-industry/), including reopening protected marine areas to commercial fishing.
+- In 2025, Governor Kelly Ayotte [weakened marine environmental protections](https://www.governor.nh.gov/news/governor-ayotte-new-hampshire-will-not-comply-burdensome-lobster-fishing-regulations) and [publicly endorsed](https://x.com/KellyAyotte/status/1920924138576732448) Trump’s [rollback of fishing regulations](https://nhjournal.com/exclusive-trump-to-sign-executive-order-unleashing-new-england-fishing-industry/), including reopening protected marine areas to commercial fishing.
 
 **Message:** Kelly Ayotte opposed clean energy tax credits and backed environmental rollbacks, siding with fossil fuel interests and undermining New Hampshire’s clean energy future.
 
