@@ -2,7 +2,7 @@
 title: State races
 description: 
 published: true
-date: 2025-12-27T04:57:32.748Z
+date: 2026-01-09T15:19:19.766Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T03:03:34.652Z
@@ -17,7 +17,6 @@ dateCreated: 2025-12-27T03:03:34.652Z
 -   [:slot_machine: *Nevada*](/NV-Gov)
 -   [:peach: *Georgia*](/GA-Gov)
 -   [:corn: *Iowa*](/IA-Gov)
--   [:tulip: *New Jersey*](/newjersey-state)
 -   [:heart: *Virginia*](/virginia-state)
 
 {.links-list}
