@@ -2,7 +2,7 @@
 title: Juan Ciscomani's Attacks On Health Care
 description: 
 published: true
-date: 2026-01-12T19:12:17.012Z
+date: 2026-01-12T19:16:38.393Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:42:01.877Z
@@ -91,7 +91,7 @@ dateCreated: 2025-05-27T11:42:01.877Z
 
 \[Center for American Progress, [3/11/25](https://www.americanprogress.org/article/medicaid-and-chip-coverage-mapped-by-119th-congressional-districts/)\]
 
-### ciscomani’s vote cost hospitals in southern Arizona $110 million in annual funding
+### Ciscomani’s Vote Cost Hospitals In Southern Arizona $110 Million In Annual Funding
 
 **HEADLINE: “Medicaid Cuts Backed By Juan Ciscomani Will Cost Southern Arizona Hospitals $110 Million Every Year”** \[AZ Mirror, [1/8/26](https://azmirror.com/2026/01/08/medicaid-cuts-backed-by-juan-ciscomani-will-cost-southern-arizona-hospitals-110-m-every-year/)\]
 
