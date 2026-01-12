@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2025-12-27T04:52:52.711Z
+date: 2026-01-12T19:11:58.562Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -79,7 +79,7 @@ Stacy Garrity would not fight for Pennsylvanians. Garrity supported federal legi
 
 **Message:** Garrity was an election denier and posed a threat to the voting rights of Pennsylvanians. 
 
-### **GARRITY WOULD NOT PROTECT PENNSYLVANIANS FROM TRUMP’S OVERREACH**
+### **GARRITY WOULD NOT PROTECT PENNSYLVANIANS FROM TRUMP’S National Guard OVERREACH**
 
 - As Trump overreached his authority and [deployed]( https://penncapital-star.com/criminal-justice/pennsylvania-joins-multi-state-lawsuit-over-trump-deploying-national-guard-in-cities/) National Guard troops without the consent of governors across several American cities, Garrity [said]( https://www.youtube.com/watch?v=4bfOEcDjAt4) she would be open to Trump sending National Guard troops to Philadelphia.
 
