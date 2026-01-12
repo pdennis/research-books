@@ -1,8 +1,8 @@
 ---
 title: Kelly Ayotte
 description: 
-published: false
-date: 2026-01-09T22:32:23.832Z
+published: true
+date: 2026-01-12T16:44:16.939Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:21:26.642Z
