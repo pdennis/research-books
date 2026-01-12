@@ -2,13 +2,13 @@
 title: Juan Ciscomani
 description: 
 published: true
-date: 2025-12-27T04:17:37.418Z
+date: 2026-01-12T15:40:34.165Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:40:44.781Z
 ---
 
-# How To Win against Juan Ciscomani
+# How To Win Against Juan Ciscomani
 
 Ciscomani pretended to be an independent voice for Arizona, but he was just another far-right Republican who fell in line with whatever Trump told him to do. He repeatedly promised his would protect Arizonans’ health care benefits and services and tax credits that created clean energy manufacturing jobs in his district, then he voted to cut them all. He defended Trump’s tariffs despite knowing they would and were hurting Arizona families, small businesses, and farmers. He can’t be trusted as an independent voice for southern Arizona, after all he was trained to push the far-right, price-skyrocketing agenda.  
 
