@@ -2,7 +2,7 @@
 title: Ryan Zinke Had Questionable Montana Ties
 description: 
 published: true
-date: 2025-12-10T19:39:34.041Z
+date: 2026-01-13T22:56:37.484Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-02T00:36:39.097Z
@@ -16,7 +16,7 @@ dateCreated: 2025-12-02T00:36:39.097Z
 
 **Zinke Kicked Off His 2022 Congressional Campaign On The Back Of A Harley Davidson, Cruising Through Montana’s Most Picturesque Backdrops, From Glacier National Park To Billings.** According to Politico, “Ryan Zinke likes to tout his fifth-generation Montana roots. On his first day as Donald Trump’s Interior secretary, in 2017, the tall, boot-clad ex-Navy Seal famously galloped to work on horseback in blue jeans and a black cowboy hat. This past June, when Zinke kicked off a new congressional campaign, he cruised on the back of a Harley Davidson through some of the state’s most picturesque backdrops, from Glacier National Park to Billings, Montana’s largest city. His wife, Lolita, documented the tour on Instagram with the hashtag #Montanalife.” \[Politico, [_10/8/21_](https://www.politico.com/news/magazine/2021/10/08/ryan-zinke-congress-montana-santa-barbara-2022-514780)\]
 
--   **It Was Long Known That Zinke Split His Time Between Whitefish, Montana And Santa Barbara, California, Where Is Wife Owned Property And A Yacht.** According to Politico, “It’s long been known that Zinke splits his time between Whitefish and Santa Barbara, California, where his wife owns property and a yacht — a point critics have seized on in his previous congressional races, in 2014 and 2016. And over the past several months, Zinke has conspicuously traveled across Montana, frequently posting photos on his new Instagram account, @zinkeformontana. But when I visited the state over the summer, a half-dozen residents of Whitefish and the closest city, Kalispell, told me that, until Zinke launched his most recent campaign, they hadn’t seen him around much since he left Washington in late 2018.” \[Politico, [_10/8/21_](https://www.politico.com/news/magazine/2021/10/08/ryan-zinke-congress-montana-santa-barbara-2022-514780)\]
+-   **It Was Long Known That Zinke Split His Time Between Whitefish, Montana And Santa Barbara, California, Where His Wife Owned Property And A Yacht.** According to Politico, “It’s long been known that Zinke splits his time between Whitefish and Santa Barbara, California, where his wife owns property and a yacht — a point critics have seized on in his previous congressional races, in 2014 and 2016. And over the past several months, Zinke has conspicuously traveled across Montana, frequently posting photos on his new Instagram account, @zinkeformontana. But when I visited the state over the summer, a half-dozen residents of Whitefish and the closest city, Kalispell, told me that, until Zinke launched his most recent campaign, they hadn’t seen him around much since he left Washington in late 2018.” \[Politico, [_10/8/21_](https://www.politico.com/news/magazine/2021/10/08/ryan-zinke-congress-montana-santa-barbara-2022-514780)\]
 
 ##### **Zinke’s Wife Declared California Has Her Primary Residence In Tax Records**
 
