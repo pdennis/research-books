@@ -2,7 +2,7 @@
 title: Juan Ciscomani Allowed ACA Tax Credits To Expire
 description: 
 published: false
-date: 2026-01-13T23:11:00.554Z
+date: 2026-01-13T23:11:31.317Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-13T23:03:11.013Z
@@ -10,11 +10,11 @@ dateCreated: 2026-01-13T23:03:11.013Z
 
 ## Overview
 
-Despite [repeatedly](https://www.politico.com/news/2025/10/27/how-seven-vulnerable-house-republicans-feel-about-an-aca-subsidy-extension-00621144) claiming that he supported extending enhanced Affordable Care Act (ACA) premium tax credits, Ciscomani [voted](http://clerk.house.gov/evs/2026/roll011.xml) [three](http://clerk.house.gov/evs/2026/roll010.xml) [times](http://clerk.house.gov/evs/2026/roll004.xml) against a measure that would extend them for three years. At one point, Ciscomani even said “doing nothing is not an option,” but that is exactly what he did. Then, he voted for a Republican bill that not only f[ailed to address health insurance premium increases](https://www.politico.com/live-updates/2025/12/17/congress/house-republicans-obamacare-subsidies-00695982), but would also [weaken protections for people with pre-existing conditions](https://www.cbpp.org/blog/house-republican-health-care-bill-fails-to-address-marketplace-affordability). At the start of 2026, as a result of Ciscomani's inaction, [more than 400,000](https://www.kold.com/2026/01/07/insurance-premiums-rise-aca-enrollees/) Arizonans enrolled in ACA plans saw their premiums rise, with some costs having doubled. 
+> Despite [repeatedly](https://www.politico.com/news/2025/10/27/how-seven-vulnerable-house-republicans-feel-about-an-aca-subsidy-extension-00621144) claiming that he supported extending enhanced Affordable Care Act (ACA) premium tax credits, Ciscomani [voted](http://clerk.house.gov/evs/2026/roll011.xml) [three](http://clerk.house.gov/evs/2026/roll010.xml) [times](http://clerk.house.gov/evs/2026/roll004.xml) against a measure that would extend them for three years. At one point, Ciscomani even said “doing nothing is not an option,” but that is exactly what he did. Then, he voted for a Republican bill that not only f[ailed to address health insurance premium increases](https://www.politico.com/live-updates/2025/12/17/congress/house-republicans-obamacare-subsidies-00695982), but would also [weaken protections for people with pre-existing conditions](https://www.cbpp.org/blog/house-republican-health-care-bill-fails-to-address-marketplace-affordability). At the start of 2026, as a result of Ciscomani's inaction, [more than 400,000](https://www.kold.com/2026/01/07/insurance-premiums-rise-aca-enrollees/) Arizonans enrolled in ACA plans saw their premiums rise, with some costs having doubled. 
 
 ## Juan Ciscomani Allowed ACA Tax Credits To Expire, Leaving Premium Costs For Arizonans To Double
 
-### AZ Central reported ciscomani had claimed to oppose certain health care cuts, but fell in line with the GOP agenda anyway
+### AZ Central Reported Ciscomani Had Claimed to oppose certain health care cuts, but fell in line with the GOP agenda anyway
 
 **AZ Central Reported Ciscomani Had Pushed Back On Medicaid Cuts And Warned Of “Massive” Consequences If ACA Premium Tax Credits Expired, But He “Generally Has Complied As Congress Ushers Through Trump’s Second-Term Agenda.”** According to AZ Central, "Ciscomani pushed back on the cuts to Medicaid during the negotiations around the Trump-backed ‘Big, Beautiful Bill,’ saying they would ‘hurt’ his constituents. And he broke from his party again earlier this year to warn of ‘massive’ consequences for Arizonans if a set of pandemic-era Affordable Care Act, or Obamacare, tax credits are not renewed. But he generally has complied as Congress ushers through Trump's second-term agenda. He wound up voting for the Trump-backed budget bill even though it included a multi-million-dollar annual funding cut that he said would negatively impact Arizona and its delicate rural hospital networks. And on Obamacare, he argued action on the topic should be deferred until after Congress reached a deal to fund the government, declining — unlike Democrats — to use his own vote as a bargaining chip." \[AZ Central, [11/20/25](https://www.azcentral.com/story/news/politics/arizona/2025/11/20/arizona-representative-juan-ciscomani-at-odds-gop-leaders/87357708007/)\]
 
