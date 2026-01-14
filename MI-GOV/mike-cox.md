@@ -2,7 +2,7 @@
 title: Mike Cox
 description: 
 published: true
-date: 2026-01-14T19:29:22.598Z
+date: 2026-01-14T19:30:21.334Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:18:50.686Z
@@ -75,6 +75,14 @@ Mike Cox supported federal legislation that stripped health care from hundreds o
 -   Cox maintained longstanding relationships with anti-abortion organizations, including the Right to Life. In 2010, Michigan Right to Life [endorsed](https://www.mlive.com/politics/2010/06/right_to_life_endorses_mike_co.html) Cox and Right to Life spent [more than $71,000](https://www.wemu.org/michigan-news/2019-09-09/fight-over-abortion-rights-in-michigan-has-become-more-partisan-and-secretive-in-just-a-decade) supporting Cox’s 2010 gubernatorial run. In 2025, Cox [continued to participate](https://www.facebook.com/share/p/17NRzrhtU5/) in Michigan Right to Life events, seeking to advance the anti-abortion agenda. In 2025, Cox attended Protect Life Michigan’s anti-abortion event, where they [discussed](https://web.archive.org/web/20250405163334/https:/www.protectlifemi.org/dinner) how to change the minds of students in support of abortion rights. 
 
 **Message:** Mike Cox threatened the reproductive freedoms of Michigan.
+
+### MIKE COX WOULD NOT PROTECT MICHIGANDERS FROM TRUMP’S FEDERAL FORCES OVERREACH
+
+- In January 2026, Mike Cox said he would never turn down Trump’s help in Michigan and would allow Trump to send federal forces and National Guard troops against Detroit residents. Cox’s greater embrace of Trump’s federal forces overreach came after the U.S. Supreme Court ruled Trump did not have the authority to deploy National Guard troops in Chicago in December 2025. Despite this ruling, Trump suggested he would “not hesitate to deploy troops in the future.” 
+
+- The Trump administration faced repeated legal challenges for overstepping their authority in deploying federal forces without the consent of governors across several American cities. In January 2026, Minnesota and Illinois sued the Trump administration over their deployment of federal agents to Twin Cities and Chicago for immigration operations, arguing the unprecedented deployment of federal officers was a “federal invasion” and unconstitutional violation of the Tenth Amendment. 
+
+**Message:** Mike Cox would allow Trump to overreach his authority and send federal forces against Michiganders.
 
 ### Mike And Laura Cox Sowed Distrust In The 2020 Election
 
