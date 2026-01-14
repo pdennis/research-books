@@ -2,7 +2,7 @@
 title: Gabe Evans
 description: 
 published: true
-date: 2026-01-14T22:38:11.397Z
+date: 2026-01-14T22:50:14.680Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:53:10.838Z
@@ -37,6 +37,7 @@ This video is not for public use on a campaign, and is purely here as an example
 ### **EVANS VOTED FOR DEVASTATING HEALTH CARE CUTS** 
 
 -   Evans voted for a bill that is estimated to kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including [nearly 12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) who rely on Medicaid. An estimated [29,000 Coloradans](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health insurance as a result of Evans’ vote.
+- Evans [opposed](https://coloradotimesrecorder.com/2025/10/expert-disputes-evans-claim-that-health-insurance-subsidies-are-available-to-someone-making-500k/73992/) extending enhanced ACA premium tax credits, including [voting](http://clerk.house.gov/evs/2026/roll011.xml) [three](http://clerk.house.gov/evs/2026/roll010.xml) [times](http://clerk.house.gov/evs/2026/roll004.xml) against a measure that would extend them for three years. Then he [voted](http://clerk.house.gov/evs/2025/roll349.xml) for a Republican bill that not only [failed to address health insurance premium increases,](https://www.politico.com/live-updates/2025/12/17/congress/house-republicans-obamacare-subsidies-00695982) but would also [weaken protections for people with pre-existing conditions.](https://www.cbpp.org/blog/house-republican-health-care-bill-fails-to-address-marketplace-affordability) As a result of Evans' inaction, health insurance premiums for [225,000 Coloradans](https://www.cpr.org/2025/10/27/health-insurance-premiums-expected-to-double-2026/) were expected to double, and the Colorado Division of Insurance estimated that [75,000 Coloradans](https://www.denver7.com/lifestyle/health/around-75-000-coloradans-expected-to-lose-health-coverage-when-aca-subsidies-end-in-january) would lose insurance as a result of the increases. 
 -   Evans has [previously said](https://coloradotimesrecorder.com/2024/10/evans-doubles-down-on-obamacare-repeal-we-need-to-go-back-to-the-drawing-board/65519/) [“we need to go back to the drawing board”](https://www.denver7.com/news/politics/republican-gabe-evans-hopes-to-unseat-democratic-incumbent-in-colorados-8th-congressional-district) when it comes to the Affordable Care Act, which enabled Medicaid expansion that covers more Coloradans. More than [282,000 Coloradans](https://www.kff.org/affordable-care-act/state-indicator/marketplace-enrollment/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) were enrolled in Affordable Care Act Marketplace health insurance plans.
 
 **Message:** Evans voted to rip away health care from thousands of Coloradans to fund billionaire tax cuts. 
