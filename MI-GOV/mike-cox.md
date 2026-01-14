@@ -2,7 +2,7 @@
 title: Mike Cox
 description: 
 published: true
-date: 2026-01-12T16:03:53.684Z
+date: 2026-01-14T19:29:22.598Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:18:50.686Z
@@ -106,6 +106,7 @@ Mike Cox supported federal legislation that stripped health care from hundreds o
 
 ## Mike Cox Used His Power To Benefit The Powerful And Himself
 
-- [:sos: | **Mike And Laura Cox Sowed Distrust In The 2020 Election**](https://research-books.com/en/MI-GOV/mike-cox/cox-biglie)
+- [:sos: | **Mike Cox Would Not Protect Michiganders From Trump’s Federal Forces Overreach**](https://research-books.com/en/MI-GOV/mike-cox/cox-federalforces)
+- [:ballot_box: | **Mike And Laura Cox Sowed Distrust In The 2020 Election**](https://research-books.com/en/MI-GOV/mike-cox/cox-biglie)
 - [:grimacing: | **Mike Cox Was Accused Of “Throttling” An Investigation Into A Manoogian Mansion Party Where A Stripper Was Beaten And Later Murdered**](https://research-books.com/en/MI-GOV/mike-cox/cox-manoogian-masion)
 {.links-list}
