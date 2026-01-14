@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-01-12T19:11:58.562Z
+date: 2026-01-14T20:56:30.190Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -20,9 +20,9 @@ COMING SOON!
 COMING SOON!
 </details>
 
-# How To win against Stacy Garrity
+# How To Win Against Stacy Garrity
 
-Stacy Garrity would not fight for Pennsylvanians. Garrity supported federal legislation that stripped health care from thousands of Pennsylvanians, set up future cuts to Medicare, cut SNAP benefits, and rescinded tax credits meant to support clean energy jobs and projects in Pennsylvania. She supported Trump’s disastrous tariffs that harmed small businesses and increased prices for Pennsylvanians. Garrity praised Trump’s DOGE while Social Security lines grew, funding cuts threatened universities, farmers, and food banks, and Pennsylvania workers were laid off. Garrity posed a threat to Pennsylvanians’ reproductive freedoms with her anti-abortion extremism. Garrity denied the 2020 election results, opposed Pennsylvania’s mail-in voting system, and would allow Trump to overreach his authority and send the National Guard against Pennsylvanians. Stacy Garrity would leave Pennsylvania vulnerable to Trump’s attacks.
+As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/GarrityForPA/status/2008677126204018992) Garrity demonstrated she would not fight for Pennsylvanians. Garrity supported federal legislation that stripped health care from thousands of Pennsylvanians, set up future cuts to Medicare, cut SNAP benefits, and rescinded tax credits meant to support clean energy jobs and projects in Pennsylvania. She supported Trump’s disastrous tariffs that harmed small businesses and increased prices for Pennsylvanians. Garrity praised Trump’s DOGE while Social Security lines grew, funding cuts threatened universities, farmers, and food banks, and Pennsylvania workers were laid off. Garrity posed a threat to Pennsylvanians’ reproductive freedoms with her anti-abortion extremism. Garrity denied the 2020 election results, opposed Pennsylvania’s mail-in voting system, and would allow Trump to overreach his authority and send the National Guard against Pennsylvanians. Stacy Garrity would leave Pennsylvania vulnerable to Trump’s attacks.
 
 ### **GARRITY SUPPORTED DEVASTATING HEALTH CARE CUTS** 
 -	In 2025, Garrity [supported](https://x.com/GarrityForPA/status/1940757598761816555) a bill that is estimated to kick [17 million](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) Americans off their health insurance, including nearly [12 million]( https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) Americans who rely on Medicaid. While Garrity [praised](https://x.com/GarrityForPA/status/1924879935728189650) the bill as a “historic plan,” more than [451,000 Pennsylvanians](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health insurance as a result of the bill. More than [496,000 Pennsylvanians]( https://www.kff.org/affordable-care-act/state-indicator/marketplace-enrollment/?currentTimeframe=0&selectedRows=%7B%22states%22:%7B%22pennsylvania%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) were enrolled in Affordable Care Act Marketplace health insurance plans. 
