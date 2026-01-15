@@ -2,7 +2,7 @@
 title: Mike Rogers
 description: 
 published: true
-date: 2026-01-15T16:02:48.704Z
+date: 2026-01-15T16:27:26.065Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-10T20:09:03.813Z
@@ -50,6 +50,8 @@ Florida resident Mike Rogers has championed policies that have hurt Michigan fam
 -   Rogers [opposed](https://x.com/MikeRogersForMI/status/382856058491789312?s=20) and [voted](https://clerk.house.gov/evs/2010/roll165.xml) [against](https://clerk.house.gov/evs/2011/roll014.xml) the Affordable Care Act and claimed that it would have “deadly consequences.” Rogers bragged about opposing the Affordable Care Act and called the program a “[disgrace](https://www.politico.com/story/2010/03/history-in-sight-for-democrats-034767).”
 
 -   Rogers [opposed](https://michiganadvance.com/2026/01/13/michigan-democrats-attack-rogers-opposition-to-extending-aca-tax-credits/) extending ACA subsidies which put over [500,000](https://www.michiganpublic.org/health/2026-01-05/michiganders-face-higher-health-insurance-premiums-this-new-year) Michiganders at risk of skyrocketing premiums.
+
+-   Rogers [supported](https://dailycaller.com/2025/07/28/john-thune-pitch-midterms-big-beautiful-law/) the One Big Beautiful Bill which slashed [medicaid](https://www.npr.org/2025/08/22/nx-s1-5468929/michigan-democrats-medicaid-midterms) funding and put [rural hospitals](https://www.michiganpublic.org/politics-government/2025-07-15/trump-medicaid-cuts-risk-closing-three-michigan-hospitals) at risk. 
 
 **Message:** Rogers betrayed Michiganders by refusing to extend and protect their healthcare.
 
