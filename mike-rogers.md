@@ -2,13 +2,15 @@
 title: Mike Rogers
 description: 
 published: true
-date: 2026-01-15T13:52:01.731Z
+date: 2026-01-15T13:59:15.843Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-10T20:09:03.813Z
 ---
 
-## Political Vulnerabilities
+# How To Win Against Mike Rogers 
+
+Florida resident Mike Rogers has championed policies that have hurt Michigan families, small businesses and farmers. Rogers supported bad trade deals which harmed Michigan’s economy, opposed expanding healthcare which provided healthcare for Michiganders, put big pharma ahead of Michigan and much more. While he is pushing harmful policies, he also used his position to line his and his wife’s pocket. Rogers happily walked through the revolving door, becoming a lobbyist after his time in Congress. Despite his criticism of the Chinese government and businesses, he cashed-in on Chinese investments and China-tied companies. Rogers seemed more interested in standing up for the DC swamp and corporations than the hard working citizens of Michigan.
 
 ### **Rogers Was An Anti-Abortion Extremist**
 
@@ -21,7 +23,7 @@ dateCreated: 2025-06-10T20:09:03.813Z
 -   Rogers in a Senate would be a threat to Michigan seniors. Rogers [repeatedly](https://clerk.house.gov/evs/2011/roll276.xml) [voted](https://clerk.house.gov/evs/2009/roll191.xml) for a plan to turn Medicare into a [voucher program](https://abcnews.go.com/blogs/politics/2012/08/paul-ryans-2011-medicare-plan-a-primer) which would [effectively end](https://www.wsj.com/articles/SB10001424052748703806304576240751124518520) the program. Rogers [repeatedly](https://clerk.house.gov/evs/2011/roll277.xml) [voted](http://clerk.house.gov/evs/2012/roll151.xml) to raise the eligibility age of Medicare.
 -   Rogers claimed that “[every option](https://michiganindependent.com/politics/2024-senate-election-mike-rogers-elissa-slotkin-social-security-investments-stock-market-bush/)” was on the table when it came to overhauling Social Security. Rogers supported a plan to [privatize](https://michiganindependent.com/politics/2024-senate-election-mike-rogers-elissa-slotkin-social-security-investments-stock-market-bush/) parts of Social Security and touted it as a good option.
 
-**Message:** Rogers can’t be trusted to support protecting seniors healthcare and Social Security. 
+**Message:** Rogers can’t be trusted to support protecting seniors healthcare and Social Security.
 
 ### **Rogers Was In The Pocket Of Big Pharma**
 
@@ -29,18 +31,18 @@ dateCreated: 2025-06-10T20:09:03.813Z
 -   Rogers opposed and [voted](https://michiganindependent.com/health-care/bankrolled-by-pharmaceuticals-mike-rogers-helped-block-medicare-price-negotiation/) [against](https://clerk.house.gov/evs/2003/roll445.xml) allowing drug reimportation, taking the position of Big Pharma. Lansing State Journal editorial criticized Rogers for blocking cheaper drugs. Rogers supported a drug program that explicitly barred Medicare from negotiating drug prices, another position of Big Pharma.
 -   Rogers [voted](https://michiganindependent.com/health-care/bankrolled-by-pharmaceuticals-mike-rogers-helped-block-medicare-price-negotiation/) against and [opposed](https://michiganadvance.com/2024/10/02/rogers-says-medicare-negotiating-drug-price-reductions-is-sugar-high-politics/) allowing Medicare to negotiate drug prices.
 
-**Message:** Rogers put big pharma before the interests of Michiganders.  
+**Message:** Rogers put big pharma before the interests of Michiganders.
 
 ### **Rogers Opposed Access To Affordable Health Care**
 
 -   Rogers [opposed](https://x.com/MikeRogersForMI/status/382856058491789312?s=20) and [voted](https://clerk.house.gov/evs/2010/roll165.xml) [against](https://clerk.house.gov/evs/2011/roll014.xml) the Affordable Care Act and claimed that it would have “deadly consequences.” Rogers bragged about opposing the Affordable Care Act and called the program a “[disgrace](https://www.politico.com/story/2010/03/history-in-sight-for-democrats-034767).”
 
-**Message:** Rogers betrayed Michiganders by refusing to extend and protect their healthcare. 
+**Message:** Rogers betrayed Michiganders by refusing to extend and protect their healthcare.
 
-### Rogers Supported Damaging Tariffs 
+### Rogers Supported Damaging Tariffs
 
 -   Rogers [defended](https://www.breitbart.com/politics/2025/04/14/exclusive-ready-to-rumble-mike-rogers-launches-michigan-senate-campaign/?utm_source=facebook&utm_medium=social&fbclid=IwY2xjawJsp2tleHRuA2FlbQIxMQABHmiwFwOMzIP_D9Xtiu2A2O9YBvvnWq-a5JEy8GBCdAnN-JjZO-hVvXtsIoNL_aem_fOFQyFqLMq7aUxQlZ2hEkA) Trump’s tariffs that were [harming](https://www.michiganpublic.org/economy/2025-02-01/economist-michigan-to-feel-pain-of-tariffs-earlier-and-worse-than-many-other-states) Michigan’s economy and causing Michiganders’ grocery receipts to increase.
--   Trump’s tariffs have harmed Michigan [farmers](https://bridgemi.com/michigan-government/trade-war-drought-squeeze-michigan-farmers-heading-to-fall-harvest/) and impacted Michigan’s manufacturing. Instead of standing up for Michigan families, Rogers [defended](https://soundcloud.com/abpac/mike-rogers-jr-mornings-41525/s-zmgH7sUCBbx?si=bab606aaba5f4a529df7cbea0caebdba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) the damaging tariffs.  
+-   Trump’s tariffs have harmed Michigan [farmers](https://bridgemi.com/michigan-government/trade-war-drought-squeeze-michigan-farmers-heading-to-fall-harvest/) and impacted Michigan’s manufacturing. Instead of standing up for Michigan families, Rogers [defended](https://soundcloud.com/abpac/mike-rogers-jr-mornings-41525/s-zmgH7sUCBbx?si=bab606aaba5f4a529df7cbea0caebdba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) the damaging tariffs.
 
 **Message:** Rogers is siding with Trump’s trade war and is choosing higher prices over protecting affordability and Michiganders’ livelihoods.
 
@@ -50,7 +52,7 @@ dateCreated: 2025-06-10T20:09:03.813Z
 -   Rogers [supported](https://clerk.house.gov/evs/2005/roll443.xml) the Central American Free Trade Agreement and lobbied other lawmakers to support the agreement. The agreement was opposed by the Michigan AFL-CIO who said the deal would hurt Michigan jobs.
 -   Rogers [voted](https://clerk.house.gov/evs/2006/roll392.xml) for a free trade agreement with Oman which was criticized by the AFL-CIO as potentially leading to shipping jobs overseas.
 
-**Message:** Rogers supported trade deals which led to Michigan jobs being moved overseas. 
+**Message:** Rogers supported trade deals which led to Michigan jobs being moved overseas.
 
 ### **Rogers Sold Out Michiganders For Him And His Wife’s Pockets**
 
@@ -81,26 +83,26 @@ dateCreated: 2025-06-10T20:09:03.813Z
 
 ## Issue Backups
 
-[**Rogers Was An Anti-Abortion Extremist**](https://research-books.com/en/mike-rogers/rogers-abortion)
+[**Rogers Was An Anti-Abortion Extremist**](/en/mike-rogers/rogers-abortion)
 
-[**Rogers Was Bad For Michigan Seniors**](https://research-books.com/en/mike-rogers/rogers-seniors)
+[**Rogers Was Bad For Michigan Seniors**](/en/mike-rogers/rogers-seniors)
 
-[**Rogers Was In The Pocket Of Big Pharma**](https://research-books.com/en/mike-rogers/rogers-pharma)
+[**Rogers Was In The Pocket Of Big Pharma**](/en/mike-rogers/rogers-pharma)
 
-[**Rogers Opposed Access To Affordable Health Care**](https://research-books.com/en/mike-rogers/rogers-healthcare)
+[**Rogers Opposed Access To Affordable Health Care**](/en/mike-rogers/rogers-healthcare)
 
-[**Rogers Supported Damaging Tariffs**](https://research-books.com/en/mike-rogers/tariffs)
+[**Rogers Supported Damaging Tariffs**](/en/mike-rogers/tariffs)
 
-[**Rogers Supported Trade Deals That Harmed Michigan**](https://research-books.com/en/mike-rogers/rogers-trade)
+[**Rogers Supported Trade Deals That Harmed Michigan**](/en/mike-rogers/rogers-trade)
 
-[**Rogers Sold Out Michiganders For Him And His Wife’s Pockets**](https://research-books.com/en/mike-rogers/rogers-sell-out)
+[**Rogers Sold Out Michiganders For Him And His Wife’s Pockets**](/en/mike-rogers/rogers-sell-out)
 
-[**Rogers Profited From Chinese-Tied Companies He Criticized**](https://research-books.com/en/mike-rogers/rogers-china)
+[**Rogers Profited From Chinese-Tied Companies He Criticized**](/en/mike-rogers/rogers-china)
 
-[**Rogers Was A Repeat Carpetbagger**](https://research-books.com/en/mike-rogers/rogers-carpetbagger)
+[**Rogers Was A Repeat Carpetbagger**](/en/mike-rogers/rogers-carpetbagger)
 
-[**Rogers Walked Through The Revolving Door To Cash In On His Congressional Time**](https://research-books.com/en/mike-rogers/rogers-revolving-door)
+[**Rogers Walked Through The Revolving Door To Cash In On His Congressional Time**](/en/mike-rogers/rogers-revolving-door)
 
 ## Votes
 
-[Rogers' Votes In Congress](https://research-books.com/en/mike-rogers/rogers-votes)
+[Rogers' Votes In Congress](/en/mike-rogers/rogers-votes)
