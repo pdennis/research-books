@@ -2,7 +2,7 @@
 title: Brad Sherman
 description: 
 published: true
-date: 2025-12-27T04:20:56.195Z
+date: 2026-01-15T17:46:01.984Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:18:03.664Z
@@ -93,7 +93,7 @@ Brad Sherman built a record in Iowa of supporting policies that would have raise
 
 # Issue Back-Ups
 
-## Brad Sherman Policies Have Hurt Everyday People
+## Brad Sherman's Policies Have Hurt Everyday People
 
 - [:hospital: | **Brad Sherman Supported Efforts To Cut Medicaid And Threaten Iowans' Access To Health Care**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-medicaid)
 - [:shopping_cart: | **Brad Sherman Downplayed Trump's Tariffs, Endangering Iowa’s Economy**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-tariffs)
