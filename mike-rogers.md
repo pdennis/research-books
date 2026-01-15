@@ -2,7 +2,7 @@
 title: Mike Rogers
 description: 
 published: true
-date: 2026-01-15T15:46:09.349Z
+date: 2026-01-15T16:02:48.704Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-10T20:09:03.813Z
@@ -39,7 +39,7 @@ Florida resident Mike Rogers has championed policies that have hurt Michigan fam
 
 ### **Rogers Was In The Pocket Of Big Pharma**
 
--   During his time in the House, Rogers received over [$670,000](https://www.opensecrets.org/members-of-congress/mike-rogers/industries?cid=N00009668&cycle=CAREER) from pharmaceutical/health products industry. Rogers was a “major recipient” of pharmaceutical money. Rogers even took a Novartis private jet to a fundraiser.
+-   During his time in the House, Rogers received over [$670,000](https://www.opensecrets.org/members-of-congress/mike-rogers/industries?cid=N00009668&cycle=CAREER) from pharmaceutical/health products industry. Rogers was a “major recipient” of pharmaceutical money. Rogers even took a Novartis private jet to a fundraiser. Rogers was described as a [“champion”](https://bridgemi.com/michigan-government/mike-rogers-vows-fight-drug-war-urged-opioid-access-congress/) of the Pharma industry and pushed for [greater access to opioids.](https://bridgemi.com/michigan-government/mike-rogers-vows-fight-drug-war-urged-opioid-access-congress/) 
 -   Rogers opposed and [voted](https://michiganindependent.com/health-care/bankrolled-by-pharmaceuticals-mike-rogers-helped-block-medicare-price-negotiation/) [against](https://clerk.house.gov/evs/2003/roll445.xml) allowing drug reimportation, taking the position of Big Pharma. Lansing State Journal editorial criticized Rogers for blocking cheaper drugs. Rogers supported a drug program that explicitly barred Medicare from negotiating drug prices, another position of Big Pharma.
 -   Rogers [voted](https://michiganindependent.com/health-care/bankrolled-by-pharmaceuticals-mike-rogers-helped-block-medicare-price-negotiation/) against and [opposed](https://michiganadvance.com/2024/10/02/rogers-says-medicare-negotiating-drug-price-reductions-is-sugar-high-politics/) allowing Medicare to negotiate drug prices.
 
