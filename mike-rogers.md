@@ -2,7 +2,7 @@
 title: Mike Rogers
 description: 
 published: true
-date: 2026-01-15T16:27:26.065Z
+date: 2026-01-15T17:03:35.656Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-10T20:09:03.813Z
@@ -27,6 +27,8 @@ Florida resident Mike Rogers has championed policies that have hurt Michigan fam
 ### **Rogers Was An Anti-Abortion Extremist**
 
 -   Rogers was a threat to abortion rights in Michigan and actively [opposed](https://www.pbs.org/video/mar-3-2023-mike-rogers-otr-overtime-6l5k97/) Prop 3 [which codified abortion rights](https://www.clickondetroit.com/decision-2022/2022/11/09/michigan-voters-approve-proposal-3-to-codify-abortion-rights-nbc-news-projects/) in Michigan. Rogers said that he supported “[all restrictions on abortion](https://www.newspapers.com/image/209801658/?terms=%22mike%20rogers%22&match=1)” and claimed that governments were created to protect “[the lives of the unborn.](https://www.mlive.com/politics/2010/10/where_michigan_congress_hopefu.html)” Rogers [repeatedly](https://youtu.be/l2w_paUCf0w)[supported](https://soundcloud.com/abpac/mike-rogers-fox-news-rundown-11824/s-LuJ6PazjOGq?si=6b32b612a06048da95e74054b38c0057&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) the Dobbs decision and claimed that Roe V. Wade was a “travesty.”
+-   Rogers voted for [abortion bans](http://clerk.house.gov/evs/2013/roll251.xml) and [co-sponsored](https://www.congress.gov/bill/108th-congress/house-bill/3453/cosponsors?s=4&r=39&q=%7B%22search%22%3A%5B%22abortion%22%5D%7D) legislation to prevent FDA approval of Mifepristone. 
+-   Rogers [repeatedly](https://gandernewsroom.com/2024/02/26/mike-rogers-tries-to-distance-senate-campaign-from-past-attempts-to-ban-ivf/) tried and failed to pass legislation that would've restricted access to IVF treatment. 
 
 **Message:** Rogers rather rip women’s rights away than focusing on the issues to actually help families.
 
