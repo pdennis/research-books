@@ -2,7 +2,7 @@
 title: Mike Rogers
 description: 
 published: true
-date: 2026-01-15T13:51:07.415Z
+date: 2026-01-15T13:52:01.731Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-10T20:09:03.813Z
@@ -88,6 +88,8 @@ dateCreated: 2025-06-10T20:09:03.813Z
 [**Rogers Was In The Pocket Of Big Pharma**](https://research-books.com/en/mike-rogers/rogers-pharma)
 
 [**Rogers Opposed Access To Affordable Health Care**](https://research-books.com/en/mike-rogers/rogers-healthcare)
+
+[**Rogers Supported Damaging Tariffs**](https://research-books.com/en/mike-rogers/tariffs)
 
 [**Rogers Supported Trade Deals That Harmed Michigan**](https://research-books.com/en/mike-rogers/rogers-trade)
 
