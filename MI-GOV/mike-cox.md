@@ -2,7 +2,7 @@
 title: Mike Cox
 description: 
 published: true
-date: 2026-01-14T19:30:21.334Z
+date: 2026-01-15T15:14:44.983Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:18:50.686Z
@@ -80,7 +80,7 @@ Mike Cox supported federal legislation that stripped health care from hundreds o
 
 - In January 2026, Mike Cox said he would never turn down Trump’s help in Michigan and would allow Trump to send federal forces and National Guard troops against Detroit residents. Cox’s greater embrace of Trump’s federal forces overreach came after the U.S. Supreme Court ruled Trump did not have the authority to deploy National Guard troops in Chicago in December 2025. Despite this ruling, Trump suggested he would “not hesitate to deploy troops in the future.” 
 
-- The Trump administration faced repeated legal challenges for overstepping their authority in deploying federal forces without the consent of governors across several American cities. In January 2026, Minnesota and Illinois sued the Trump administration over their deployment of federal agents to Twin Cities and Chicago for immigration operations, arguing the unprecedented deployment of federal officers was a “federal invasion” and unconstitutional violation of the Tenth Amendment. 
+- The Trump administration faced repeated legal challenges for overstepping its authority in deploying federal forces without the consent of governors and mayors across several American cities. In January 2026, Minnesota and Illinois sued the Trump administration over their deployment of federal agents to Twin Cities and Chicago for immigration operations, arguing the unprecedented deployment of federal officers was a “federal invasion” and unconstitutional violation of the Tenth Amendment. 
 
 **Message:** Mike Cox would allow Trump to overreach his authority and send federal forces against Michiganders.
 
