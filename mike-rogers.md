@@ -2,7 +2,7 @@
 title: Mike Rogers
 description: 
 published: true
-date: 2026-01-15T13:59:25.828Z
+date: 2026-01-15T14:01:11.110Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-10T20:09:03.813Z
@@ -93,7 +93,9 @@ Florida resident Mike Rogers has championed policies that have hurt Michigan fam
 
 **Message:** Rogers abandoned Michiganders to make a fortune off insider information and land high-paying jobs.
 
-## Issue Backups
+# Issue Backups
+
+## Mike Rogers Supported Policies That Hurt Michigan 
 
 [**Rogers Was An Anti-Abortion Extremist**](/en/mike-rogers/rogers-abortion)
 
@@ -106,6 +108,8 @@ Florida resident Mike Rogers has championed policies that have hurt Michigan fam
 [**Rogers Supported Damaging Tariffs**](/en/mike-rogers/tariffs)
 
 [**Rogers Supported Trade Deals That Harmed Michigan**](/en/mike-rogers/rogers-trade)
+
+## Mike Rogers Chose Himself Over Michigan
 
 [**Rogers Sold Out Michiganders For Him And His Wife’s Pockets**](/en/mike-rogers/rogers-sell-out)
 
