@@ -2,7 +2,7 @@
 title: Mike Rogers
 description: 
 published: true
-date: 2026-01-15T14:01:11.110Z
+date: 2026-01-15T14:07:34.204Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-10T20:09:03.813Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against Mike Rogers 
 
-Florida resident Mike Rogers has championed policies that have hurt Michigan families, small businesses and farmers. Rogers supported bad trade deals which harmed Michigan’s economy, opposed expanding healthcare which provided healthcare for Michiganders, put big pharma ahead of Michigan and much more. While he is pushing harmful policies, he also used his position to line his and his wife’s pocket. Rogers happily walked through the revolving door, becoming a lobbyist after his time in Congress. Despite his criticism of the Chinese government and businesses, he cashed-in on Chinese investments and China-tied companies. Rogers seemed more interested in standing up for the DC swamp and corporations than the hard working citizens of Michigan.
+Florida resident Mike Rogers has championed policies that have hurt Michigan families, small businesses and farmers. Rogers supported bad trade deals which harmed Michigan’s economy, opposed expanding healthcare which provided healthcare for Michiganders, put big pharma ahead of Michigan and much more. While he is pushing harmful policies, he also used his position to line his and his wife’s pocket. Rogers happily walked through the revolving door, growing rich after his time in Congress. Despite his criticism of the Chinese government and businesses, he cashed-in on Chinese investments and China-tied companies. Rogers seemed more interested in standing up for the DC swamp and corporations than the hard working citizens of Michigan.
 
 ### **Rogers Was An Anti-Abortion Extremist**
 
