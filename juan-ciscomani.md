@@ -2,7 +2,7 @@
 title: Juan Ciscomani
 description: 
 published: true
-date: 2026-01-13T23:00:07.758Z
+date: 2026-01-16T16:20:38.059Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:40:44.781Z
@@ -55,7 +55,6 @@ In November 2025, after 11 months, Ciscomani finally [voted](http://clerk.house.
 ## Juan Ciscomani's Policies Hurt Everyday Arizonans
 
 - [:hospital: *Ciscomani Broke His Promises and Voted To Take Health Coverage From Arizonans*](https://research-books.com/en/juan-ciscomani/ciscomani-medicaid)
-- [:stethoscope: *Ciscomani Allowed Health Care Tax Credits To Expire, Leaving Premium Costs To Double*](https://research-books.com/en/juan-ciscomani/ciscomani-premiums)
 - [:older_man: *Ciscomani Voted for Massive Cuts To Medicare*](https://research-books.com/en/juan-ciscomani/ciscomani-medicare)
 - [:shopping_cart: *Ciscomani Supported Trump's Tariffs That Were Crushing Arizonans*](https://research-books.com/en/juan-ciscomani/ciscomani-tariffs)
 - [:x: *Ciscomani Backed DOGE Despite Its Impacts To Federal Workers, Social Security, And Veterans’ Care*](https://research-books.com/en/juan-ciscomani/ciscomani-doge)
