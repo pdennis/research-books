@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-01-16T18:01:45.520Z
+date: 2026-01-16T18:13:49.572Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -60,7 +60,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 ### **GARRITY Suppported Increases To Energy Costs In Pennsylvania**
 
--	In 2025, Garrity [supported](https://x.com/GarrityForPA/status/1940757598761816555) the bill that [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) Trump’s “One Big Beautiful Bill” that [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits. According to experts, the repeal of the clean energy tax credits would cause electricity costs to increase in Pennsylvania. Energy Innovation warned the new federal law was [expected](https://energyinnovation.org/wp-content/uploads/OBBBA-impacts-on-Pennsylvania.pdf) to decrease Pennsylvania’s generation capacity, raise wholesale electricity costs by $2 billion in 2035, and increase energy bills for Pennsylvanian households: $130 annually by 2030 and $160 by 2035. Center for American Progress warned the law was also [expected](https://www.americanprogress.org/wp-content/uploads/sites/2/2025/08/OBBBAfamilies-PA.pdf) to increase Pennsylvanians’ gasoline spending by $110 annually by 2030, raise costs for replacing heating, ventilation, and air conditioning units by $2,000, and increase costs to upgrade windows and insulation by $1,200. 
+-	In 2025, Garrity [supported](https://x.com/GarrityForPA/status/1940757598761816555) Trump’s “One Big Beautiful Bill” that [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits. According to experts, the repeal of the clean energy tax credits would cause electricity costs to increase in Pennsylvania. Energy Innovation warned the new federal law was [expected](https://energyinnovation.org/wp-content/uploads/OBBBA-impacts-on-Pennsylvania.pdf) to decrease Pennsylvania’s generation capacity, raise wholesale electricity costs by $2 billion in 2035, and increase energy bills for Pennsylvanian households: $130 annually by 2030 and $160 by 2035. Center for American Progress warned the law was also [expected](https://www.americanprogress.org/wp-content/uploads/sites/2/2025/08/OBBBAfamilies-PA.pdf) to increase Pennsylvanians’ gasoline spending by $110 annually by 2030, raise costs for replacing heating, ventilation, and air conditioning units by $2,000, and increase costs to upgrade windows and insulation by $1,200. 
 
 **Message:** Garrity supported raising energy bills in Pennsylvania to give tax cuts to the wealthy.
 
