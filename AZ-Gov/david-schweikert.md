@@ -2,7 +2,7 @@
 title: David Schweikert
 description: 
 published: true
-date: 2026-01-16T22:42:36.703Z
+date: 2026-01-16T22:54:59.291Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:01:35.784Z
@@ -34,7 +34,7 @@ David Schweikert is unfit to represent Arizona. He voted to kick more than 342,0
 
 ### Schweikert Voted For Massive Cuts To Medicare
 
--   Schweikert [missed](https://ktar.com/arizona-news/david-schweikert-fell-asleep-bill/5709325/) the May 2025 vote on Republicans’ reconciliation bill because he fell asleep on the job, but made it clear that he would have voted [yes](https://www.kjzz.org/politics/2025-05-27/schweikert-a-couple-more-months-to-go-before-senate-could-pass-trumps-big-beautiful-bill). In July 2025, he got to [vote yes](http://clerk.house.gov/evs/2025/roll145.xml) on the final version of Trump's "One Big Beautiful Bill," which was that the Congressional Budget Office estimated would trigger [$500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare.
+-   Schweikert [missed](https://ktar.com/arizona-news/david-schweikert-fell-asleep-bill/5709325/) the May 2025 vote on Republicans’ reconciliation bill because he fell asleep on the job, but made it clear that he would have voted [yes](https://www.kjzz.org/politics/2025-05-27/schweikert-a-couple-more-months-to-go-before-senate-could-pass-trumps-big-beautiful-bill). In July 2025, he got to [vote yes](http://clerk.house.gov/evs/2025/roll145.xml) on the final version of Trump's "One Big Beautiful Bill," which the Congressional Budget Office estimated would trigger [$500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare.
 
 **Message:** Schweikert voted to make massive cuts to health care services seniors rely on. 
 
