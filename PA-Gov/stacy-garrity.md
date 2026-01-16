@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-01-16T17:32:22.088Z
+date: 2026-01-16T17:46:34.521Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -57,12 +57,11 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 **Message:** While Social Security lines grew and Pennsylvania workers were laid off, Garrity did nothing to help them.
 
-### **GARRITY THREATENED CLEAN ENERGY JOBS IN PENNSYLVANIA**
+### **GARRITY Suppported Increases To Energy Costs In Pennsylvania**
 
--	In 2025, Garrity [supported](https://x.com/GarrityForPA/status/1940757598761816555) the bill that [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits and made them harder to access, threatening clean energy jobs in Pennsylvania. Since the beginning of the Trump administration, clean energy projects that were projected to create hundreds of jobs in Pennsylvania were cancelled, such as the [Mineral Basin Solar Power]( https://www.politico.com/news/2025/10/02/doe-cancel-grants-hydrogen-hubs-grid-projects-00591697) and Pennsylvania’s biggest [solar array]( https://www.washingtonpost.com/climate-environment/2025/10/02/clean-energy-grants-canceled/) on the site of an old coal mine.
--	In 2022, Garrity [supported](https://patreasury.gov/newsroom/archive/2022/05-18-RGGI.html) a lawsuit to prevent Pennsylvania from joining the Regional Greenhouse Gas Initiative (RGGI).
+-	In 2025, Garrity [supported](https://x.com/GarrityForPA/status/1940757598761816555) the bill that [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) Trump’s “One Big Beautiful Bill” that [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits. According to experts, the repeal of the clean energy tax credits would cause electricity costs to increase in Pennsylvania. Energy Innovation warned the new federal law was [expected](https://energyinnovation.org/wp-content/uploads/OBBBA-impacts-on-Pennsylvania.pdf) to decrease Pennsylvania’s generation capacity, raise wholesale electricity costs by $2 billion in 2035, and increase energy bills for Pennsylvanian households: $130 annually by 2030 and $160 by 2035. Center for American Progress warned the law was also [expected](https://www.americanprogress.org/wp-content/uploads/sites/2/2025/08/OBBBAfamilies-PA.pdf) to increase Pennsylvanians’ gasoline spending by $110 annually by 2030, raise costs for replacing heating, ventilation, and air conditioning units by $2,000, and increase costs to upgrade windows and insulation by $1,200. 
 
-**Message:** Garrity supported killing job opportunities for Pennsylvanians to give tax cuts to billionaires. 
+**Message:** Garrity supported lraising energy bills for Pennsylvanians to give tax cuts to the wealthy
 
 
 ### **GARRITY WAS AN ANTI-ABORTION EXTREMIST**
@@ -81,27 +80,29 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 ### **GARRITY WOULD NOT PROTECT PENNSYLVANIANS FROM TRUMP’S Federal Forces OVERREACH**
 
-- As Trump overreached his authority and [deployed]( https://penncapital-star.com/criminal-justice/pennsylvania-joins-multi-state-lawsuit-over-trump-deploying-national-guard-in-cities/) National Guard troops without the consent of governors across several American cities, Garrity [said]( https://www.youtube.com/watch?v=4bfOEcDjAt4) she would be open to Trump sending National Guard troops to Philadelphia.
+- In September 2025, Garrity [said]( https://www.youtube.com/watch?v=4bfOEcDjAt4) she would be open to Trump sending federal forces and National Guard troops against Philadelphia residents.In December 2025, the U.S. Supreme Court [ruled](https://www.bbc.com/news/articles/c9dv1200j44o) Trump did not have the [authority](https://www.democracydocket.com/news-alerts/trump-ends-national-guard-deployments-los-angeles-chicago-portland/) to deploy National Guard troops in Chicago. Despite this ruling, Trump [suggested](https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html) he would “not hesitate to deploy troops in the future.” 
 
-**Message:** Garrity would allow Trump to overreach his authority and send the National Guard against Pennsylvanians. 
+- The Trump administration faced repeated legal challenges for overstepping its authority in deploying federal forces [without](https://www.michiganpublic.org/politics-government/2025-10-08/michigan-needs-to-prepare-for-possibility-of-trump-sending-national-guard-troops-nessel-says) the consent of governors and mayors across several American cities. In January 2026, Minnesota and Illinois sued the Trump administration over their deployment of federal agents to Twin Cities and Chicago for immigration operations, arguing the unprecedented deployment of federal officers was a [“federal invasion”](https://www.cnn.com/2026/01/12/us/minneapolis-immigration-officers-mobilizing-protests) and unconstitutional violation of the [Tenth Amendment.](https://www.politico.com/news/2026/01/12/minnesota-sues-trump-ice-minneapolis-00723482?cid=apn) 
+
+**Message:** Garrity would allow Trump to overreach his authority and send federal forces against Pennsylvanians. 
 
 
 
 # Issue Back-Ups
 
 ## Stacy Garrity's Policies Have Hurt Everyday People
-- [:hospital: *Garrity Supported Efforts To Cut Medicaid And Threaten Pennsylvanians’ Access To Health Care*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-medicaid)
-- [:older_man: *Garrity Supported Medicare Cuts*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-medicare)
-- [:shopping_cart: *Garrity Backed Trump's Tariffs, Endangering Pennsylvania's Economy*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-tariffs) 
-- [:apple: *Garrity Supported Stripping SNAP Benefits From Pennsylvania Families*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-food) 
-- [:x: *Garrity Won't Defend Pennsylvanians’ Jobs Or Social Security From Trump*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-doge) 
-- [:mechanic: *Garrity Opposed Protecting Pennsylvania’s Clean Energy Jobs*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-cleanenergy) 
-- [:woman: *Garrity Was An Anti-Abortion Extremist*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-abortion) 
+- [:hospital: | **Garrity Supported Efforts To Cut Medicaid And Threaten Pennsylvanians’ Access To Health Care**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-medicaid)
+- [:older_man: | **Garrity Supported Medicare Cuts*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-medicare)
+- [:shopping_cart: | **Garrity Backed Trump's Tariffs, Endangering Pennsylvania's Economy**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-tariffs) 
+- [:apple: | **Garrity Supported Stripping SNAP Benefits From Pennsylvania Families**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-food) 
+- [:x: | **Garrity Won't Defend Pennsylvanians’ Jobs Or Social Security From Trump**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-doge) 
+- [:mechanic: | **Garrity Supported Increases To Energy Costs In Pennsylvania**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-energyprices) 
+- [:woman: | **Garrity Was An Anti-Abortion Extremist**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-abortion) 
 
 {.links-list}
 
 ## Stacy Garrity Used Her Power To Benefit The Powerful 
-- [:x:  *Garrity Was A Threat To The Voting Rights Of Pennsylvanians*](https://research-books.com/en/PA-Gov/stacy-garrity/garrity-biglie)
-- [:sos:  *Garrity Would Not Protect Pennsylvanians From Trump’s Federal Forces Overreach*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-nationalguard)
+- [:x: | **Garrity Was A Threat To The Voting Rights Of Pennsylvanians**](https://research-books.com/en/PA-Gov/stacy-garrity/garrity-biglie)
+- [:sos: | **Garrity Would Not Protect Pennsylvanians From Trump’s Federal Forces Overreach**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-federalforces)
 
 {.links-list}
