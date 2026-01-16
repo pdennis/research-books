@@ -2,7 +2,7 @@
 title: Mike Cox
 description: 
 published: true
-date: 2026-01-16T17:38:30.862Z
+date: 2026-01-16T18:07:25.789Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:18:50.686Z
@@ -102,13 +102,13 @@ Mike Cox supported federal legislation that stripped health care from hundreds o
 
 ## Mike Cox Policies Have Hurt Everyday People
 
-- [:hospital:| **Mike Cox Supported Efforts To Cut Medicaid And Threaten Michiganders’ Access To Health Care**](https://research-books.com/en/MI-GOV/mike-cox/cox-medicaid)
-- [:older_man:| **Mike Cox Supported Medicare Cuts**](https://research-books.com/en/MI-GOV/mike-cox/cox-medicare)
-- [:shopping_cart:| **Mike Cox Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/MI-GOV/mike-cox/cox-tariffs)
-- [:apple:| **Mike Cox Supported Cutting SNAP Benefits From Michigan Families**](https://research-books.com/en/MI-GOV/mike-cox/cox-food)
-- [:x:| **Mike Cox Won't Defend Michigan Jobs Or Social Security From Trump**](https://research-books.com/en/MI-GOV/mike-cox/cox-doge)
-- [:mechanic:| **Mike Cox Opposed Protecting Michigan Clean Energy Jobs**](https://research-books.com/en/MI-GOV/mike-cox/cox-cleanenergy)
-- [:woman:| **Mike Cox Was An Anti-Abortion Extremist**](https://research-books.com/en/MI-GOV/mike-cox/cox-abortion)
+- [:hospital: | **Mike Cox Supported Efforts To Cut Medicaid And Threaten Michiganders’ Access To Health Care**](https://research-books.com/en/MI-GOV/mike-cox/cox-medicaid)
+- [:older_man: | **Mike Cox Supported Medicare Cuts**](https://research-books.com/en/MI-GOV/mike-cox/cox-medicare)
+- [:shopping_cart: | **Mike Cox Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/MI-GOV/mike-cox/cox-tariffs)
+- [:apple: | **Mike Cox Supported Cutting SNAP Benefits From Michigan Families**](https://research-books.com/en/MI-GOV/mike-cox/cox-food)
+- [:x: | **Mike Cox Won't Defend Michigan Jobs Or Social Security From Trump**](https://research-books.com/en/MI-GOV/mike-cox/cox-doge)
+- [:mechanic: | **Mike Cox Opposed Protecting Michigan Clean Energy Jobs**](https://research-books.com/en/MI-GOV/mike-cox/cox-cleanenergy)
+- [:woman: | **Mike Cox Was An Anti-Abortion Extremist**](https://research-books.com/en/MI-GOV/mike-cox/cox-abortion)
 
 {.links-list}
 
