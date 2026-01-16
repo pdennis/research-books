@@ -2,7 +2,7 @@
 title: Chris Carr
 description: 
 published: true
-date: 2025-12-27T04:20:50.917Z
+date: 2026-01-16T18:40:42.548Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:40:55.761Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against Chris Carr
 
-Chris Carr supported federal legislation that stripped health care from thousands of Georgians, set up future cuts to Medicare, cut SNAP benefits, and rescinded tax credits meant to support clean energy jobs and projects in Georgia. Carr praised Trump’s “One Big Beautiful Bill,” and opposed the Affordable Care Act and Medicaid expansion. He also lauded Trump’s “Department of Government Efficiency,” even as its cuts affected thousands of Georgia federal workers and those reliant on Social Security. Carr remained silent on Trump’s tariffs even as they crushed Georgia’s economy, which was 7^th^ in the nation for net exports, ignoring the [stock market crashing](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) and increasing food prices. Carr supported Georgia’s extreme abortion ban and dismissed claims it would endanger pregnant women. Carr defended Trump as he overstepped his authority and deployed the National Guard against American cities. Carr also overstepped his authority when he used his power as Georgia attorney general to file RICO charges against Atlanta protesters without following protocol. 
+Chris Carr supported federal legislation that stripped health care from thousands of Georgians, set up future cuts to Medicare, cut SNAP benefits, and rescinded tax credits meant to support clean energy jobs and projects in Georgia. Carr praised Trump’s “One Big Beautiful Bill,” and opposed the Affordable Care Act and Medicaid expansion. He also lauded Trump’s “Department of Government Efficiency,” even as its cuts affected thousands of Georgia federal workers and those reliant on Social Security. Carr remained silent on Trump’s tariffs even as they crushed Georgia’s economy, which was 7^th^ in the nation for net exports, ignoring the [stock market crashing](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) and increasing food prices. Carr supported Georgia’s extreme abortion ban and dismissed claims it would endanger pregnant women. Carr defended Trump as he overstepped his authority and deployed federal forces against American cities. Carr also overstepped his authority when he used his power as Georgia attorney general to file RICO charges against Atlanta protesters without following protocol. 
 
 ### Carr Supported Devastating Health Care Cuts
 
@@ -70,13 +70,14 @@ Chris Carr supported federal legislation that stripped health care from thousand
 
 **Message:** Carr supported Georgia’s extreme abortion ban while Georgia women were at risk of prosecution and medical malpractice.
 
-### Carr Would Not Protect Georgians From Trump Deploying The National Guard To Georgia’s Cities
+### Carr Would Not Protect Georgians From Trump Deploying The Federal Forces To Georgia’s Cities
 
 -   Carr [defended Trump](https://www.atlantanewsfirst.com/2025/06/11/georgias-chris-carr-25-attorneys-general-supporting-presidents-national-guard-deployment/) against accusations of overstepping his authority as Trump deployed the National Guard in American cities and ordered attacks on suspected “narco-terrorists” in the Caribbean.
--   Carr [praised](https://www.atlantanewsfirst.com/2025/06/11/georgias-chris-carr-25-attorneys-general-supporting-presidents-national-guard-deployment/) Trump’s decision to deploy the National Guard against protesters in California, and criticized other state’s governors that resisted Trump’s [“crack down on crime.”](https://soundcloud.com/abpac/chris-carr-the-austin-rhodes-show-10825/s-3cqLU4BeaIV?si=c0fdf1400df243379a71aac81c3251f3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) Carr even [argued](https://soundcloud.com/abpac/chris-carr-the-morning-xtra-61225/s-LGx30fGDfct?si=bb1b33c78b654781baa8f0d1b114d4a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) that Trump had the legal authority to do so under the Militia Act of 1908 and the Insurrection Act.
+-   Carr [praised](https://www.atlantanewsfirst.com/2025/06/11/georgias-chris-carr-25-attorneys-general-supporting-presidents-national-guard-deployment/) Trump’s decision to deploy the National Guard against protesters in California, and criticized other state’s governors that resisted Trump’s [“crack down on crime.”](https://soundcloud.com/abpac/chris-carr-the-austin-rhodes-show-10825/s-3cqLU4BeaIV?si=c0fdf1400df243379a71aac81c3251f3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) Carr even [argued](https://soundcloud.com/abpac/chris-carr-the-morning-xtra-61225/s-LGx30fGDfct?si=bb1b33c78b654781baa8f0d1b114d4a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) that Trump had the legal authority to do so under the Militia Act of 1908 and the Insurrection Act. However, the U.S. Supreme Court [ruled](https://www.bbc.com/news/articles/c9dv1200j44o) Trump did not have the [authority](https://www.democracydocket.com/news-alerts/trump-ends-national-guard-deployments-los-angeles-chicago-portland/) to deploy National Guard troops in Chicago in December 2025. Despite this ruling, Trump [suggested](https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html) he would “not hesitate to deploy troops in the future.” The Trump administration faced repeated legal challenges for overstepping its authority in deploying federal forces [without](https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html) the consent of governors and mayors across several American cities. In January 2026, Minnesota and Illinois sued the Trump administration over its deployment of federal agents to Twin Cities and Chicago for immigration operations, arguing the unprecedented deployment of federal officers was a [“federal invasion”](https://www.cnn.com/2026/01/12/us/minneapolis-immigration-officers-mobilizing-protests) and unconstitutional violation of the [Tenth Amendment.](https://www.politico.com/news/2026/01/12/minnesota-sues-trump-ice-minneapolis-00723482?cid=apn) 
+
 -   Carr also [defended](https://youtu.be/_p-YKtXMo-8) Trump’s authority to attack suspected “drug boats” without cause, but argued that, if Trump did not already have the legal authority, Congress should just give it to him.
 
-**Message:** Carr would not protect Georgians as Trump continues to test how far he can exceed his authority.
+**Message:** Carr would not protect Georgians from federal forces as Trump continues to test how far he can exceed his authority.
 
 ### Carr Filed Rico Charges Against 61 Protesters Without Having The Authority To Do So Under Georgia’s Rico Law
 
