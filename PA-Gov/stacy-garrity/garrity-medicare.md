@@ -2,7 +2,7 @@
 title: Stacy Garrity on Medicare
 description: 
 published: true
-date: 2026-01-16T18:04:09.071Z
+date: 2026-01-16T18:04:11.082Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:14:11.643Z
