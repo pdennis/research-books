@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-01-16T22:23:29.195Z
+date: 2026-01-16T22:24:23.184Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -35,7 +35,7 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 ### **BIGGS VOTED FOR MASSIVE CUTS TO MEDICARE**
 
-- Biggs [voted](http://clerk.house.gov/evs/2025/roll145.xml) for a bill that the Congressional Budget Office estimated would trigger [$500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare.
+- Biggs [voted](http://clerk.house.gov/evs/2025/roll145.xml) for Trump's "One Big Beautiful Bill," which the Congressional Budget Office estimated would trigger [$500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare.
 
 **Message:** Biggs voted to make massive cuts to health care services seniors rely on. 
 
@@ -48,7 +48,7 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 ### BIGGS STRIPPED SNAP BENEFITS FROM ARIZONA FAMILIES
 
-- In 2025, Biggs [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Biggs [touted](https://biggs.house.gov/media/press-releases/congressman-biggs-issues-statement-houses-passage-president-trumps-big#:~:text=Congressman%20Andy%20Biggs-,Congressman%20Biggs%20Issues%20Statement%20on%20House's%20Passage%20of%20President%20Trump's,to%20Medicaid%20and%20SNAP%20benefits) voting for the SNAP cuts and previously called SNAP a [“highly abused welfare program.”](https://x.com/RepAndyBiggsAZ/status/1787868804921360602) In Arizona, more than [294,000 households]( https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
+- In 2025, Biggs [voted](http://clerk.house.gov/evs/2025/roll190.xml) for Trump's "One Big Beautiful Bill," which was made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Biggs [touted](https://biggs.house.gov/media/press-releases/congressman-biggs-issues-statement-houses-passage-president-trumps-big#:~:text=Congressman%20Andy%20Biggs-,Congressman%20Biggs%20Issues%20Statement%20on%20House's%20Passage%20of%20President%20Trump's,to%20Medicaid%20and%20SNAP%20benefits) voting for the SNAP cuts and previously called SNAP a [“highly abused welfare program.”](https://x.com/RepAndyBiggsAZ/status/1787868804921360602) In Arizona, more than [294,000 households]( https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
 
 **Message:** Biggs voted to make food more expensive for Arizonans. 
 
@@ -61,7 +61,7 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 ### **BIGGS' VOTES THREATENED CLEAN ENERGY JOBS IN ARIZONA**
 
--   In 2025, Biggs [voted](http://clerk.house.gov/evs/2025/roll190.xml) to [repeal](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits and make them harder to access, threatening clean energy jobs in Arizona. Biggs [called](https://redstate.com/redstate-guest-editorial/2025/05/21/biggs-backwards-on-the-beltway-n2189384) for the full repeal of the Inflation Reduction Act, claiming Trump’s tax bill did not go far enough in eliminating it. Since the beginning of the Trump administration, clean energy projects that were projected to create hundreds of jobs in Arizona were [cancelled or stalled](https://azmirror.com/2025/07/09/trumps-tax-bill-eliminates-clean-energy-incentives-costing-arizona-billions/).
+-   In 2025, Biggs [voted](http://clerk.house.gov/evs/2025/roll190.xml) for Trump's "One Big Beautiful Bill," which [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits and make them harder to access, threatening clean energy jobs in Arizona. Biggs [called](https://redstate.com/redstate-guest-editorial/2025/05/21/biggs-backwards-on-the-beltway-n2189384) for the full repeal of the Inflation Reduction Act, claiming Trump’s tax bill did not go far enough in eliminating it. Since the beginning of the Trump administration, clean energy projects that were projected to create hundreds of jobs in Arizona were [cancelled or stalled](https://azmirror.com/2025/07/09/trumps-tax-bill-eliminates-clean-energy-incentives-costing-arizona-billions/).
 
 -   Biggs was a climate denier, who) called global warming a [“left-wing hoax”](https://x.com/RepAndyBiggsAZ/status/1983559813129720088) and a [“discredited theory,”](https://www.axios.com/2017/12/15/house-republican-introduces-measure-to-defund-key-climate-research-1513305154) and claimed there were [“credible scientists”](https://www.azcentral.com/story/news/politics/arizona/2017/04/12/andy-biggs-town-hall-arizona/100124436/)  who did not believe in climate change.
 
