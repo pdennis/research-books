@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-01-16T18:32:12.852Z
+date: 2026-01-16T18:38:46.784Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -83,7 +83,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 - In September 2025, Garrity [said]( https://www.youtube.com/watch?v=4bfOEcDjAt4) she would be open to Trump sending federal forces and National Guard troops against Philadelphia residents.In December 2025, the U.S. Supreme Court [ruled](https://www.bbc.com/news/articles/c9dv1200j44o) Trump did not have the [authority](https://www.democracydocket.com/news-alerts/trump-ends-national-guard-deployments-los-angeles-chicago-portland/) to deploy National Guard troops in Chicago. Despite this ruling, Trump [suggested](https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html) he would “not hesitate to deploy troops in the future.” 
 
-- The Trump administration faced repeated legal challenges for overstepping its authority in deploying federal forces [without](https://www.michiganpublic.org/politics-government/2025-10-08/michigan-needs-to-prepare-for-possibility-of-trump-sending-national-guard-troops-nessel-says) the consent of governors and mayors across several American cities. In January 2026, Minnesota and Illinois sued the Trump administration over its deployment of federal agents to Twin Cities and Chicago for immigration operations, arguing the unprecedented deployment of federal officers was a [“federal invasion”](https://www.cnn.com/2026/01/12/us/minneapolis-immigration-officers-mobilizing-protests) and unconstitutional violation of the [Tenth Amendment.](https://www.politico.com/news/2026/01/12/minnesota-sues-trump-ice-minneapolis-00723482?cid=apn) 
+- The Trump administration faced repeated legal challenges for overstepping its authority in deploying federal forces [without](https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html) the consent of governors and mayors across several American cities. In January 2026, Minnesota and Illinois sued the Trump administration over its deployment of federal agents to Twin Cities and Chicago for immigration operations, arguing the unprecedented deployment of federal officers was a [“federal invasion”](https://www.cnn.com/2026/01/12/us/minneapolis-immigration-officers-mobilizing-protests) and unconstitutional violation of the [Tenth Amendment.](https://www.politico.com/news/2026/01/12/minnesota-sues-trump-ice-minneapolis-00723482?cid=apn) 
 
 **Message:** Garrity would allow Trump to overreach his authority and send federal forces against Pennsylvanians. 
 
