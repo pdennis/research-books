@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-01-16T17:53:04.697Z
+date: 2026-01-16T17:53:23.111Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -94,7 +94,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 ## Stacy Garrity's Policies Have Hurt Everyday People
 - [:hospital: | **Garrity Supported Efforts To Cut Medicaid And Threaten Pennsylvanians’ Access To Health Care**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-medicaid)
-- [:older_man: | **Garrity Supported Medicare Cuts*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-medicare)
+- [:older_man: | **Garrity Supported Medicare Cuts**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-medicare)
 - [:shopping_cart: | **Garrity Backed Trump's Tariffs, Endangering Pennsylvania's Economy**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-tariffs) 
 - [:apple: | **Garrity Supported Stripping SNAP Benefits From Pennsylvania Families**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-food) 
 - [:x: | **Garrity Won't Defend Pennsylvanians’ Jobs Or Social Security From Trump**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-doge) 
