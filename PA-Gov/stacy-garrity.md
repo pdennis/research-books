@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-01-16T17:59:43.700Z
+date: 2026-01-16T18:01:45.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -32,7 +32,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 ### **GARRITY SUPPORTED MASSIVE CUTS TO MEDICARE**
 
--   In 2025, Garrity [supported]( https://x.com/GarrityForPA/status/1940757598761816555) aTrump's "One Big Beautiful Bill," which the Congressional Budget Office estimated would trigger [nearly $500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare absent future congressional action.
+-   In 2025, Garrity [supported]( https://x.com/GarrityForPA/status/1940757598761816555) Trump's "One Big Beautiful Bill," which the Congressional Budget Office estimated would trigger [nearly $500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare absent future congressional action.
 
 **Message:** Garrity supported making massive cuts to health care services seniors rely on. 
 
@@ -46,8 +46,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 ### **GARRITY SUPPORTED STRIPPING SNAP BENEFITS FROM PENNSYLVANIA FAMILIES**
 
--In January 2026, Garrity said she [opposed](https://www.youtube.com/watch?v=wmqKeTp94O0) Pennsylvania’s lawsuit seeking to restore [$13 million](https://www.spotlightpa.org/news/2025/06/pennsylvania-usda-lawsuit-food-aid-program/) in federal funding for Pennsylvania farmers and food banks, and [claimed](https://www.pennlive.com/news/2026/01/garrity-opens-2026-election-year-with-attack-on-shapiro-and-threading-needle-on-trump.html) too many Pennsylvanians were receiving SNAP assistance. In 2025, the Trump administration rescinded funding for a program that provided aid to states to purchase food from farms to stock food banks. 
-
+- In January 2026, Garrity said she [opposed](https://www.youtube.com/watch?v=wmqKeTp94O0) Pennsylvania’s lawsuit seeking to restore [$13 million](https://www.spotlightpa.org/news/2025/06/pennsylvania-usda-lawsuit-food-aid-program/) in federal funding for Pennsylvania farmers and food banks, and [claimed](https://www.pennlive.com/news/2026/01/garrity-opens-2026-election-year-with-attack-on-shapiro-and-threading-needle-on-trump.html) too many Pennsylvanians were receiving SNAP assistance. In 2025, the Trump administration rescinded funding for a program that provided aid to states to purchase food from farms to stock food banks. 
 -	In 2025, Garrity [supported]( https://www.spotlightpa.org/news/2025/11/pennsylvania-gop-trump-garrity-2026-governor-election-elections/) Trump's "One Big Beautiful Bill, which made the [largest cut to SNAP in history.]( https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes) Garrity [praised]( https://x.com/GarrityForPA/status/1924879935728189650) the legislation as a “historic plan,” claiming the bill would cut [“wasteful spending.”]( https://x.com/GarrityForPA/status/1924879933119332598) In Pennsylvania, nearly [2 million](https://www.pa.gov/governor/newsroom/2025-press-releases/fact-sheet--how-many-pennsylvanians-lose-snap-benefits-republica) Pennsylvanians relied on SNAP to afford groceries.
 
 **Message:** Garrity supported making food more expensive for Pennsylvanians.
@@ -63,7 +62,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 -	In 2025, Garrity [supported](https://x.com/GarrityForPA/status/1940757598761816555) the bill that [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) Trump’s “One Big Beautiful Bill” that [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits. According to experts, the repeal of the clean energy tax credits would cause electricity costs to increase in Pennsylvania. Energy Innovation warned the new federal law was [expected](https://energyinnovation.org/wp-content/uploads/OBBBA-impacts-on-Pennsylvania.pdf) to decrease Pennsylvania’s generation capacity, raise wholesale electricity costs by $2 billion in 2035, and increase energy bills for Pennsylvanian households: $130 annually by 2030 and $160 by 2035. Center for American Progress warned the law was also [expected](https://www.americanprogress.org/wp-content/uploads/sites/2/2025/08/OBBBAfamilies-PA.pdf) to increase Pennsylvanians’ gasoline spending by $110 annually by 2030, raise costs for replacing heating, ventilation, and air conditioning units by $2,000, and increase costs to upgrade windows and insulation by $1,200. 
 
-**Message:** Garrity supported lraising energy bills for Pennsylvanians to give tax cuts to the wealthy
+**Message:** Garrity supported raising energy bills in Pennsylvania to give tax cuts to the wealthy.
 
 
 ### **GARRITY WAS AN ANTI-ABORTION EXTREMIST**
