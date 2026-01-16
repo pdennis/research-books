@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-01-14T20:56:30.190Z
+date: 2026-01-16T17:32:22.088Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -79,7 +79,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 **Message:** Garrity was an election denier and posed a threat to the voting rights of Pennsylvanians. 
 
-### **GARRITY WOULD NOT PROTECT PENNSYLVANIANS FROM TRUMP’S National Guard OVERREACH**
+### **GARRITY WOULD NOT PROTECT PENNSYLVANIANS FROM TRUMP’S Federal Forces OVERREACH**
 
 - As Trump overreached his authority and [deployed]( https://penncapital-star.com/criminal-justice/pennsylvania-joins-multi-state-lawsuit-over-trump-deploying-national-guard-in-cities/) National Guard troops without the consent of governors across several American cities, Garrity [said]( https://www.youtube.com/watch?v=4bfOEcDjAt4) she would be open to Trump sending National Guard troops to Philadelphia.
 
@@ -102,6 +102,6 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 ## Stacy Garrity Used Her Power To Benefit The Powerful 
 - [:x:  *Garrity Was A Threat To The Voting Rights Of Pennsylvanians*](https://research-books.com/en/PA-Gov/stacy-garrity/garrity-biglie)
-- [:sos:  *Garrity Would Not Protect Pennsylvanians From Trump’s National Guard Overreach*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-nationalguard)
+- [:sos:  *Garrity Would Not Protect Pennsylvanians From Trump’s Federal Forces Overreach*]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-nationalguard)
 
 {.links-list}
