@@ -1,8 +1,8 @@
 ---
-title: Chris Carr Would Allow Trump To Deploy The National Guard Against Georgians
+title: Chris Carr Would Allow Trump To Deploy Federal Forces Against Georgians
 description: 
 published: true
-date: 2025-12-22T16:53:16.499Z
+date: 2026-01-16T18:42:59.588Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T16:01:24.617Z
