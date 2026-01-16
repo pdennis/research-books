@@ -2,7 +2,7 @@
 title: Chris Carr
 description: 
 published: true
-date: 2026-01-16T18:41:23.241Z
+date: 2026-01-16T18:57:40.437Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:40:55.761Z
@@ -70,7 +70,7 @@ Chris Carr supported federal legislation that stripped health care from thousand
 
 **Message:** Carr supported Georgia’s extreme abortion ban while Georgia women were at risk of prosecution and medical malpractice.
 
-### Carr Would Not Protect Georgians From Trump Deploying The Federal Forces To Georgia’s Cities
+### Carr Would Not Protect Georgians From Trump Deploying Federal Forces To Georgia’s Cities
 
 -   Carr [defended Trump](https://www.atlantanewsfirst.com/2025/06/11/georgias-chris-carr-25-attorneys-general-supporting-presidents-national-guard-deployment/) against accusations of overstepping his authority as Trump deployed the National Guard in American cities and ordered attacks on suspected “narco-terrorists” in the Caribbean.
 -   Carr [praised](https://www.atlantanewsfirst.com/2025/06/11/georgias-chris-carr-25-attorneys-general-supporting-presidents-national-guard-deployment/) Trump’s decision to deploy the National Guard against protesters in California, and criticized other state’s governors that resisted Trump’s [“crack down on crime.”](https://soundcloud.com/abpac/chris-carr-the-austin-rhodes-show-10825/s-3cqLU4BeaIV?si=c0fdf1400df243379a71aac81c3251f3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) Carr even [argued](https://soundcloud.com/abpac/chris-carr-the-morning-xtra-61225/s-LGx30fGDfct?si=bb1b33c78b654781baa8f0d1b114d4a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) that Trump had the legal authority to do so under the Militia Act of 1908 and the Insurrection Act. However, the U.S. Supreme Court [ruled](https://www.bbc.com/news/articles/c9dv1200j44o) Trump did not have the [authority](https://www.democracydocket.com/news-alerts/trump-ends-national-guard-deployments-los-angeles-chicago-portland/) to deploy National Guard troops in Chicago in December 2025. Despite this ruling, Trump [suggested](https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html) he would “not hesitate to deploy troops in the future.” The Trump administration faced repeated legal challenges for overstepping its authority in deploying federal forces [without](https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html) the consent of governors and mayors across several American cities. In January 2026, Minnesota and Illinois sued the Trump administration over its deployment of federal agents to Twin Cities and Chicago for immigration operations, arguing the unprecedented deployment of federal officers was a [“federal invasion”](https://www.cnn.com/2026/01/12/us/minneapolis-immigration-officers-mobilizing-protests) and unconstitutional violation of the [Tenth Amendment.](https://www.politico.com/news/2026/01/12/minnesota-sues-trump-ice-minneapolis-00723482?cid=apn) 
