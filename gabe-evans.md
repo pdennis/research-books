@@ -2,7 +2,7 @@
 title: Gabe Evans
 description: 
 published: true
-date: 2026-01-16T16:23:45.394Z
+date: 2026-01-16T16:23:59.463Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:53:10.838Z
@@ -89,7 +89,6 @@ This video is not for public use on a campaign, and is purely here as an example
 
 ## Gabe Evans' Policies Have Hurt Everyday People
 - [:hospital: *Evans Supported Efforts To Cut Medicaid And Threaten Coloradans' Access To Health Care*](https://research-books.com/en/gabe-evans/evans-medicaid)
-- [:stethoscope: *Evans Allowed Health Care Premium Tax Credits to Expire, Leaving Costs To Double On Coloradans*](https://research-books.com/en/gabe-evans/evans-premiums)
 - [:shopping_cart: *Evans Backed Trump's Tariffs, Endangering Colorado's Economy*](https://research-books.com/en/gabe-evans/evans-tariffs) 
 - [:older_man: *Evans Voted For Medicare Cuts*](https://research-books.com/en/gabe-evans/evans-medicare)
 - [:mechanic: *Evans Voted Against Protecting Coloradans' Clean Energy Jobs*](https://research-books.com/en/gabe-evans/evans-cleanenergy)
