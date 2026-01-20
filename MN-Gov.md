@@ -2,7 +2,7 @@
 title: State Level Races In Minnesota
 description: 
 published: false
-date: 2026-01-20T22:49:52.885Z
+date: 2026-01-20T22:57:05.910Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:26:58.556Z
@@ -10,5 +10,6 @@ dateCreated: 2026-01-20T21:26:58.556Z
 
 ## Governor
 
--   Mike Lindell
--   Lisa Demuth
+-   [:elephant: **Mike Lindell**](https://research-books.com/en/MN-Gov/mike-lindell) Minnesota Republican who led multiple efforts to overturn the results of the 2020 presidential election and supported cuts to Minnesota public services.
+-   :elephant: **Lisa Demuth**
+{.links-list}
