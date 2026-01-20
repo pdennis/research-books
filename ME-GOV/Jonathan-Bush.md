@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-01-20T23:02:43.603Z
+date: 2026-01-20T23:09:19.627Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -40,7 +40,7 @@ Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly
 
 ### Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It
 
--   Jonathan Bush belittled food stamps as a “[wealth distribution mechanism](https://www.youtube.com/watch?v=drYc6st-UUo)” and criticized government assistance while more than [77,400](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) households in Maine relied on SNAP to meet basic food needs.
+-  In 2024, Jonathan Bush belittled food stamps as a “[wealth distribution mechanism](https://www.youtube.com/watch?v=drYc6st-UUo)” and criticized government assistance while more than [77,400](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) households in Maine relied on SNAP to meet basic food needs.
 
 **Message:** Jonathan Bush demeaned food assistance while tens of thousands of Maine families depended on SNAP to afford groceries and put food on the table.
 
