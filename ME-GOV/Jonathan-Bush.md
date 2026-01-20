@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-01-20T22:03:41.318Z
+date: 2026-01-20T22:13:06.311Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -43,48 +43,9 @@ Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly
 
 # Issue Back-Ups
 
-## John James' Policies Have Hurt Everyday People
+## Jonathan Bush's Policies Have Hurt Everyday People
 
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
-
--   [| **John James Supported Efforts To Cut Medicaid And Threaten Michiganders' Access To Health Care**](/en/MI-GOV/John-James/James-Medicaid)
-
-![👴](/_assets/svg/twemoji/1f474.svg)
-
--   [| **John James Voted For Medicare Cuts**](/en/MI-GOV/John-James/James-medicare)
-
-![🛒](/_assets/svg/twemoji/1f6d2.svg)
-
--   [| **John James Backed Trump's Tariffs, Endangering Michigan’s Economy**](/en/MI-GOV/John-James/James-Tariffs)
-
-![🍎](/_assets/svg/twemoji/1f34e.svg)
-
--   [| **John James Cast Votes To Cut SNAP Benefits From Michigan Families**](/en/MI-GOV/John-James/James-Food)
-
-![❌](/_assets/svg/twemoji/274c.svg)
-
--   [| **John James Won't Defend Michigan Jobs Or Social Security From Trump**](/en/MI-GOV/John-James/James-doge)
-
-![🧑‍🔧](/_assets/svg/twemoji/1f9d1-200d-1f527.svg)
-
--   [| **John James Voted Against Protecting Michigan’s Clean Energy Jobs**](/en/MI-GOV/John-James/James-cleanenergy)
-
-![👩](/_assets/svg/twemoji/1f469.svg)
-
--   [| **John James Was An Anti-Abortion Extremist**](/en/MI-GOV/John-James/James-abortion)
-
-## John James Used His Power To Benefit The Powerful And Himself
-
-![👀](/_assets/svg/twemoji/1f440.svg)
-
--   [| **It Took John James 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](/en/MI-GOV/John-James/James-epstein)
-
-![😬](/_assets/svg/twemoji/1f62c.svg)
-
--   [| **John James Was An Ethics Nightmare**](/en/MI-GOV/John-James/James-ethics)
-
-# Key Votes
-
-![✅](/_assets/svg/twemoji/2705.svg)
-
--   [| **John James' Key Votes As A Member Of Congress**](/en/MI-GOV/John-James/James-votes)
+- [:hospital: | **Jonathan Bush Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-Medicaid)
+- [:older_man: | **Jonathan Bush Scrutinized Medicare And Pushed For Medicare Advantage**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-Medicare)
+- [:apple: | **Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-food
+- [:x: | **Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services**](https://research-books.com/en/MI-GOV/John-James/James-doge)
