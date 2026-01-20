@@ -2,17 +2,27 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-01-20T22:21:41.757Z
+date: 2026-01-20T22:50:50.458Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against Jonatahn Bush
 
-Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly praising Trump’s health care policies, DOGE cuts, and economic approach. At the same time, Bush proposed policies that threatened health coverage, Medicare, Social Security, jobs, and the environment across Maine. He backed Medicaid block grants, attacked the Affordable Care Act, promoted privatized insurance such as Medicare Advantage, and dismissed public health coverage as “wealth redistribution.” Bush praised Trump’s governance as Trump’s DOGE caused disruptions to the Social Security Administration, federal workers were laid off, and millions of dollars in federal funding were cut from Maine nonprofits. 
+Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly praising Trump’s health care policies, his governance, and his economic approach. At the same time, Bush proposed policies that threatened health coverage, Medicare, and Social Security. He backed Medicaid block grants, attacked the Affordable Care Act, promoted privatized insurance such as Medicare Advantage, and dismissed public health coverage as “wealth redistribution.” Bush praised Trump’s governance as Trump’s DOGE caused disruptions to the Social Security Administration, federal workers were laid off, and millions of dollars in federal funding were cut from Maine nonprofits. 
 
 ### Jonathan Bush Supported Devastating Health Care Cuts
 
@@ -49,3 +59,4 @@ Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly
 - [:older_man: | **Jonathan Bush Scrutinized Medicare And Pushed For Medicare Advantage**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-Medicare)
 - [:apple: | **Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-food)
 - [:x: | **Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-DOGE)
+{.links-list}
