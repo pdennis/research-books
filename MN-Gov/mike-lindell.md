@@ -2,7 +2,7 @@
 title: Mike Lindell
 description: 
 published: false
-date: 2026-01-20T22:25:29.447Z
+date: 2026-01-20T22:57:33.495Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:32:31.557Z
@@ -10,7 +10,7 @@ dateCreated: 2026-01-20T21:32:31.557Z
 
 # How To Win Against Mike Lindell
 
-Mike Lindell, [pillow salesman](https://www.pbs.org/newshour/politics/mypillow-founder-and-trump-ally-mike-lindell-to-run-for-minnesota-governor-in-2026) and election conspiracy theorist owned a media company, LindellTV, which promoted policies that harmed regular Minnesotans and enriched the wealthy. LindellTV praised Trump’s “One Big Beautiful Bill,” which put 161,000 Minnesotans at risk of losing health insurance, cut $500 billion in Medicare funding, reduced food assistance for 186,000 Minnesotan households relying on SNAP, and killed green energy jobs in Minnesota’s fastest growing industry. Lindell also supported Trump’s tariffs, which made gas in Minnesota more expensive and threatened the state’s agricultural industry. Mike Lindell’s broadcast and streaming company, LindellTV, praised Trump’s DOGE cuts, which impacted 1.15 million Minnesotans on Social Security and 20,000 federal employees. Lindell said he would like to completely ban abortion in Minnesota, and previously financed a Christian, anti-abortion propaganda film. Additionally, Lindell was a devout 2020 presidential election conspiracy theorist who faced multiple defamation lawsuits, and promoted a “plant poison” coronavirus treatment during the 2020 pandemic, which he stood to profit from. 
+Mike Lindell, [pillow salesman](https://www.pbs.org/newshour/politics/mypillow-founder-and-trump-ally-mike-lindell-to-run-for-minnesota-governor-in-2026) and election conspiracy theorist owned a media company, LindellTV, which promoted policies that harmed regular Minnesotans and enriched the wealthy. LindellTV praised Trump’s “One Big Beautiful Bill,” which put 161,000 Minnesotans at risk of losing health insurance, cut $500 billion in Medicare funding, reduced food assistance for 186,000 Minnesotan households relying on SNAP, and killed green energy jobs in Minnesota’s fastest growing industry. Lindell also supported Trump’s tariffs, which made gas in Minnesota more expensive and threatened the state’s agricultural industry. Mike Lindell’s broadcast and streaming company, LindellTV, praised Trump’s DOGE cuts, which impacted 1.15 million Minnesotans on Social Security and 20,000 federal employees. Lindell said he would like to completely ban abortion in Minnesota, and previously financed a Christian, anti-abortion propaganda film. Additionally, Lindell was a preeminent 2020 presidential election conspiracy theorist who faced multiple defamation lawsuits, and promoted a “plant poison” coronavirus treatment during the 2020 pandemic, which he stood to profit from. 
 
 ### Lindell’s Media Company Supported Devastating Cuts To Medicaid And The Affordable Care Act
 
