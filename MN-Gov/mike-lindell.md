@@ -2,7 +2,7 @@
 title: Mike Lindell
 description: 
 published: false
-date: 2026-01-20T21:55:32.785Z
+date: 2026-01-20T22:25:29.447Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:32:31.557Z
@@ -80,22 +80,17 @@ Mike Lindell, [pillow salesman](https://www.pbs.org/newshour/politics/mypillow-f
 
 ## Mike Lindell’s And His Media Company’s Views Have Hurt Everyday People
 
-LindellTV Supported Devastating Cuts To Medicaid And The Affordable Care Act
-
-LindellTV Supported Massive Cuts To Medicare
-
-Lindell Supported Trump’s Stock Market-Crashing Tariffs
-
-LindellTV Supported Stripping SNAP Benefits From Minnesota Families 
-
-Lindell Won’t Protect Minnesota’s Public Services Or Social Security From Trump 
-
-LindellTV Opposed Clean Energy Tax Credits That Supported Minnesota Jobs
-
-Lindell Was An Anti-Abortion Extremist
+- [:hospital: **LindellTV Supported Devastating Cuts To Medicaid And The Affordable Care Act** ](/MN-Gov/mike-lindell/lindell-medicaid)
+- [:older_man: **LindellTV Supported Massive Cuts To Medicare**](/MN-Gov/mike-lindell/lindell-medicaid) 
+- [:shopping_cart: **Lindell Supported Trump’s Stock Market-Crashing Tariffs**](/MN-Gov/mike-lindell/lindell-tariffs)
+- [:apple: **LindellTV Supported Stripping SNAP Benefits From Minnesota Families**](/MN-Gov/mike-lindell/lindell-snap)
+- [:x: **Lindell Won’t Protect Minnesota’s Public Services Or Social Security From Trump**](MN-Gov/mike-lindell/lindell-doge)
+- [:mechanic: **LindellTV Opposed Clean Energy Tax Credits That Supported Minnesota Jobs**](/MN-Gov/mike-lindell/lindell-clean-energy)
+- [:woman: **Lindell Was An Anti-Abortion Extremist**](/MN-Gov/mike-lindell/lindell-abortion)
+{.links-list}
 
 ## Mike Lindell Used His Power To Benefit The Powerful And Himself
 
-Lindell Was A Big Lie Conspiracy Theorist
-
-Lindell Promoted A “Plant Poison” He Stood To Profit From As A Coronavirus Treatment
+- [:wastebasket: **Lindell Was A Big Lie Conspiracy Theorist**](/MN-Gov/mike-lindell/lindell-big-lie)
+- [:test_tube: **Lindell Promoted A “Plant Poison” He Stood To Profit From As A Coronavirus Treatment**](/MN-Gov/mike-lindell/lindell-covid-19)
+{.links-list}
