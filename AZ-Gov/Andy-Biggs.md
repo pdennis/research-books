@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-01-21T17:03:28.817Z
+date: 2026-01-21T17:05:23.433Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -110,8 +110,8 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 {.links-list}
 
 ## Andy Biggs Used His Power To Benefit The Powerful 
-- [:hammer: *Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle The Occupational Safety And Health Administration*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-osha)
-- [:eyes:  *It Took Biggs 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-epstein)
+- [:hammer: *Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-osha)
+- [:eyes:  *Biggs Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-epstein)
 {.links-list}
 
 # Key Votes
