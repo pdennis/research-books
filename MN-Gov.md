@@ -1,8 +1,8 @@
 ---
 title: State Level Races In Minnesota
 description: 
-published: false
-date: 2026-01-20T22:57:05.910Z
+published: true
+date: 2026-01-21T16:04:13.935Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:26:58.556Z
