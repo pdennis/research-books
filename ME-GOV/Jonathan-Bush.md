@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-01-21T16:31:41.294Z
+date: 2026-01-21T16:31:59.844Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -20,7 +20,7 @@ COMING SOON!
 COMING SOON!
 </details>
 
-# How To Win Against Jonatahn Bush
+# How To Win Against Jonathan Bush
 
 Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly praising Trump’s health care policies, his governance, and his economic approach. At the same time, Bush proposed policies that threatened health coverage, Medicare, and Social Security. He backed Medicaid block grants, attacked the Affordable Care Act, and criticized public health coverage as “wealth redistribution.” Bush praised Trump’s governance as Trump’s DOGE caused disruptions to the Social Security Administration, federal workers were laid off, and millions of dollars in federal funding were cut from Maine nonprofits. 
 
