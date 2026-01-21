@@ -2,7 +2,7 @@
 title: David Schweikert
 description: 
 published: true
-date: 2026-01-21T16:31:51.378Z
+date: 2026-01-21T16:35:52.014Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:01:35.784Z
@@ -101,7 +101,7 @@ David Schweikert is unfit to represent Arizona. He voted to kick more than 342,0
 
 - [:hospital: *Schweikert Supported Efforts To Cut Medicaid And Threaten Arizona's Access To Health Care*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-medicaid)
 - [:older_man: *Schweikert Voted For Medicare Cuts*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-medicare)
-- [:pill: *Schweikert Repeatedly Voted Against Allowing Medicare To Negotiate The Prices Of Prescription Drugs*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-drug-prices)
+- [:pill: *Schweikert Repeatedly Voted Against Allowing Medicare To Negotiate Prescription Drug Prices*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-drug-prices)
 - [:shopping_cart: *Schweikert Backed Trump’s Tariffs, Endangering Arizona’s Economy*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-tariffs)
 - [:apple: *Schweikert Cast Votes To Cut SNAP Benefits From Arizona Families*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-snap)
 - [:x: *Schweikert Won’t Protect Arizona Jobs Or Social Security From Trump*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-doge) 
@@ -110,9 +110,9 @@ David Schweikert is unfit to represent Arizona. He voted to kick more than 342,0
 
 {.links-list}
 
-## Schweikert Used His Power To Benefit The Powerful And Himself  
+## David Schweikert Used His Power To Benefit The Powerful And Himself  
 
-- [:eyes: *Schweikert Only Voted To Release The Epstein Files After Trump Signaled To House Republicans That He Approved*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-epstein)
+- [:eyes: *Schweikert Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Signaled His Approval*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-epstein)
 - [:moneybag: *Schweikert Embodied The Swamp By Violating House Ethics And Campaign Finance Rules*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-ethics)  
 
 {.links-list}
