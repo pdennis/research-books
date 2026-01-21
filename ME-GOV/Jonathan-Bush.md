@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-01-21T12:56:29.146Z
+date: 2026-01-21T16:21:19.054Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -34,7 +34,7 @@ Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly
 ###  Jonathan Bush Criticized Medicare And Pushed For Medicare Advantage
 
 -   In October 2025, Jonathan Bush [praised](https://www.youtube.com/shorts/oKzR-oHyDnc) the Trump administration’s health care policies and expressed enthusiasm for its approach, even as the Congressional Budget Office estimated that Trump’s “One Big Beautiful Bill” would trigger [nearly $500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare.
--   In 2024, Jonathan Bush dismissed Medicare’s role in lowering health care costs and advocated a shift toward [Medicare Advantage](https://www.youtube.com/watch?v=CNWj5QtaEME), a private Medicare option that [often](https://www.kff.org/medicare/medicare-advantage-premiums-out-of-pocket-limits-supplemental-benefits-and-prior-authorization/) carried higher out-of-pocket costs and [limited](https://www.cbpp.org/research/health/growth-in-medicare-advantage-raises-concerns) provider networks. Bush also framed Medicaid as a “[wealth redistribution mechanism](https://www.youtube.com/watch?v=drYc6st-UUo),” and further claimed federal health programs were “jamming everybody’s nose in the same [puppy poop](https://www.youtube.com/watch?v=xBCOD9ULwTo&feature=youtu.be).”
+-   In 2024, Jonathan Bush dismissed Medicare’s role in lowering health care costs and advocated a shift toward [Medicare Advantage](https://www.youtube.com/watch?v=CNWj5QtaEME), a private Medicare option that [often](https://www.kff.org/medicare/medicare-advantage-premiums-out-of-pocket-limits-supplemental-benefits-and-prior-authorization/) carried higher costs and [limited](https://www.cbpp.org/research/health/growth-in-medicare-advantage-raises-concerns) provider networks. Bush also framed Medicare as a “[wealth redistribution mechanism](https://www.youtube.com/watch?v=drYc6st-UUo),” and further claimed federal health programs were “jamming everybody’s nose in the same [puppy poop](https://www.youtube.com/watch?v=xBCOD9ULwTo&feature=youtu.be).”
 
 **Message:** Jonathan Bush undermined Medicare and promoted private insurance such as Medicare Advantage that exposed seniors to higher costs and fewer provider options.
 
