@@ -2,7 +2,7 @@
 title: Mike Lindell
 description: 
 published: true
-date: 2026-01-21T16:05:42.185Z
+date: 2026-01-21T16:21:04.351Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:32:31.557Z
@@ -80,17 +80,17 @@ Mike Lindell, [pillow salesman](https://www.pbs.org/newshour/politics/mypillow-f
 
 ## Mike Lindell’s And His Media Company’s Views Have Hurt Everyday People
 
-- [:hospital: **LindellTV Supported Devastating Cuts To Medicaid And The Affordable Care Act** ](/MN-Gov/mike-lindell/lindell-medicaid)
-- [:older_man: **LindellTV Supported Massive Cuts To Medicare**](/MN-Gov/mike-lindell/lindell-medicare) 
-- [:shopping_cart: **Lindell Supported Trump’s Stock Market-Crashing Tariffs**](/MN-Gov/mike-lindell/lindell-tariffs)
-- [:apple: **LindellTV Supported Stripping SNAP Benefits From Minnesota Families**](/MN-Gov/mike-lindell/lindell-snap)
-- [:x: **Lindell Won’t Protect Minnesota’s Public Services Or Social Security From Trump**](https://research-books.com/en/MN-Gov/mike-lindell/lindell-doge)
-- [:mechanic: **LindellTV Opposed Clean Energy Tax Credits That Supported Minnesota Jobs**](/MN-Gov/mike-lindell/lindell-clean-energy)
-- [:woman: **Lindell Was An Anti-Abortion Extremist**](/MN-Gov/mike-lindell/lindell-abortion)
+- [:hospital: *LindellTV Supported Devastating Cuts To Medicaid And The Affordable Care Act*](/MN-Gov/mike-lindell/lindell-medicaid)
+- [:older_man: *LindellTV Supported Massive Cuts To Medicare*](MN-Gov/mike-lindell/lindell-medicare) 
+- [:shopping_cart: *Lindell Supported Trump’s Stock Market-Crashing Tariffs*](/MN-Gov/mike-lindell/lindell-tariffs)
+- [:apple: *LindellTV Supported Stripping SNAP Benefits From Minnesota Families*](/MN-Gov/mike-lindell/lindell-snap)
+- [:x: *Lindell Won’t Protect Minnesota’s Public Services Or Social Security From Trump*](https://research-books.com/en/MN-Gov/mike-lindell/lindell-doge)
+- [:mechanic: *LindellTV Opposed Clean Energy Tax Credits That Supported Minnesota Jobs*](/MN-Gov/mike-lindell/lindell-clean-energy)
+- [:woman: *Lindell Was An Anti-Abortion Extremist*](/MN-Gov/mike-lindell/lindell-abortion)
 {.links-list}
 
 ## Mike Lindell Used His Power To Benefit The Powerful And Himself
 
-- [:wastebasket: **Lindell Was A Big Lie Conspiracy Theorist**](/MN-Gov/mike-lindell/lindell-big-lie)
-- [:test_tube: **Lindell Promoted A “Plant Poison” He Stood To Profit From As A Coronavirus Treatment**](/MN-Gov/mike-lindell/lindell-covid-19)
+- [:wastebasket: *Lindell Was A Big Lie Conspiracy Theorist*](/MN-Gov/mike-lindell/lindell-big-lie)
+- [:test_tube: *Lindell Promoted A “Plant Poison” He Stood To Profit From As A COVID-19 Treatment*](/MN-Gov/mike-lindell/lindell-covid-19)
 {.links-list}
