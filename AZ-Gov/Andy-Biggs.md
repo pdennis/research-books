@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-01-21T17:05:23.433Z
+date: 2026-01-21T17:14:04.762Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -75,7 +75,7 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 - Biggs introduced anti-abortion legislation to impose [ultrasound mandates](https://thehill.com/homenews/house/4416859-biggs-abortion-bill-ultrasound-images-consent/) and [deny abortion as health care,](https://x.com/RepAndyBiggsAZ/status/1128830172143247360?s=20) and worked to [strip](https://soundcloud.com/abpac/andy-biggs-dewey-meet-greet-81225/s-6PJYq8Cs75a?si=441ec3752ec84453acfa2e25f2876f60&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) international law language protecting reproductive rights. He also supported [defunding](https://www.youtube.com/watch?v=dWo2Jl305WQ) Planned Parenthood.
 
-- Biggs referred to abortion as [“murder”](https://x.com/RepAndyBiggsAZ/status/1841294008821096928?s=20) and [“killing”](https://soundcloud.com/abpac/andy-biggs-tele-town-hall-93021/s-951dvLaNZHY?si=98e04250b246441e8b16e9ec6fe0aea5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) the unborn, and falsely [claimed](https://www.youtube.com/watch?v=VJO-pJXuPvY) that a fetus “may feel pain as early as 12 weeks.”
+- Biggs referred to abortion as [“murder,”](https://x.com/RepAndyBiggsAZ/status/1841294008821096928?s=20) ["slaughter,"](https://x.com/RepAndyBiggsAZ/status/2013673149921935807?s=20) and [“killing”](https://soundcloud.com/abpac/andy-biggs-tele-town-hall-93021/s-951dvLaNZHY?si=98e04250b246441e8b16e9ec6fe0aea5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) the unborn, and falsely [claimed](https://www.youtube.com/watch?v=VJO-pJXuPvY) that a fetus “may feel pain as early as 12 weeks.”
 
 **Message:** Biggs threatened the reproductive freedoms of Arizonans.
 
