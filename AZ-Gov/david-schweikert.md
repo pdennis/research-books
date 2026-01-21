@@ -2,7 +2,7 @@
 title: David Schweikert
 description: 
 published: true
-date: 2026-01-21T16:35:52.014Z
+date: 2026-01-21T16:36:28.302Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:01:35.784Z
@@ -112,7 +112,7 @@ David Schweikert is unfit to represent Arizona. He voted to kick more than 342,0
 
 ## David Schweikert Used His Power To Benefit The Powerful And Himself  
 
-- [:eyes: *Schweikert Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Signaled His Approval*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-epstein)
+- [:eyes: *Schweikert Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-epstein)
 - [:moneybag: *Schweikert Embodied The Swamp By Violating House Ethics And Campaign Finance Rules*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-ethics)  
 
 {.links-list}
