@@ -2,7 +2,7 @@
 title: Mike Cox
 description: 
 published: true
-date: 2026-01-16T18:30:31.064Z
+date: 2026-01-23T16:32:10.986Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:18:50.686Z
@@ -54,7 +54,7 @@ Mike Cox supported federal legislation that stripped health care from hundreds o
 
 -   In 2025, Mike Cox [praised](https://x.com/Mike_Cox/status/1891871396768162241) Trump’s “Department of Government Efficiency” as DOGE-driven cuts and downsizing were [affecting](https://www.axios.com/2025/04/08/social-security-seniors-drive) the [federal government’s](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) [ability](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/) to [deliver services](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) to seniors. More than [2.3 million Michiganders](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/mi.pdf) relied on Social Security benefits. 
 
--   Cox [pledged](https://web.archive.org/web/20251110195604/https:/mikecox2026.com/on-the-issues) to “DOGE” Michigan’s government, even though Trump’s DOGE resulted in [massive federal funding cuts](https://www.michiganpublic.org/health/2025-03-27/michigan-health-department-appears-to-lose-390-million-in-grant-funds-according-to-doge) to Michigan [programs](https://bridgemi.com/michigan-government/doge-cuts-hit-michigan-youth-programs-reading-initiative/) and [nonprofits](https://bridgemi.com/michigan-government/its-devastating-michigan-loses-about-15m-federal-americorps-cuts). Trump’s DOGE initiative also threatened the livelihoods of more than [76,000 federal workers](https://www.mlive.com/politics/2025/04/how-many-federal-workers-did-michigan-have-before-trump-cuts.html) across the state.
+-   Cox [pledged](https://web.archive.org/web/20251110195604/https:/mikecox2026.com/on-the-issues) to “DOGE” Michigan’s government and [urged](https://x.com/Mike_Cox/status/2013987370928943569?s=20)  DOGE audits of state grants and firings of Michigan state workers, even though Trump’s DOGE resulted in [massive federal funding cuts](https://www.michiganpublic.org/health/2025-03-27/michigan-health-department-appears-to-lose-390-million-in-grant-funds-according-to-doge) to Michigan [programs](https://bridgemi.com/michigan-government/doge-cuts-hit-michigan-youth-programs-reading-initiative/) and [nonprofits](https://bridgemi.com/michigan-government/its-devastating-michigan-loses-about-15m-federal-americorps-cuts). Trump’s DOGE initiative also threatened the livelihoods of more than [76,000 federal workers](https://www.mlive.com/politics/2025/04/how-many-federal-workers-did-michigan-have-before-trump-cuts.html) across the state.
 
 **Message:** While Social Security lines grew and Michigan workers were laid off, Mike Cox did nothing to help them.
 
