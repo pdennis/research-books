@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-01-23T16:21:11.186Z
+date: 2026-01-23T16:24:22.241Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -61,7 +61,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 ###  John James’ Votes Threatened Clean Energy Jobs In Michigan
 
--   In 2025, John James [voted](http://clerk.house.gov/evs/2025/roll190.xml) for Trump's "One Big Beautiful Bill," which [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits and make them harder to access, threatening clean energy jobs in Michigan. Prior to voting for the passage of the Republicans’ reconciliation bill, John James [signed a letter](https://garbarino.house.gov/sites/evo-subsites/garbarino.house.gov/files/evo-media-document/2025.03.09-tax-credits-letter.pdf) urging House Republican leaders not to repeal the clean energy tax credits.
+-   In 2025, John James [voted](http://clerk.house.gov/evs/2025/roll190.xml) for Trump's "One Big Beautiful Bill," which [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits and made them harder to access, threatening clean energy jobs in Michigan. Prior to voting for the passage of the Republicans’ reconciliation bill, John James [signed a letter](https://garbarino.house.gov/sites/evo-subsites/garbarino.house.gov/files/evo-media-document/2025.03.09-tax-credits-letter.pdf) urging House Republican leaders not to repeal the clean energy tax credits.
 -   Since the beginning of the Trump administration, clean energy projects that were projected to create hundreds of jobs in Michigan were [cancelled or stalled](https://web.archive.org/web/20251208165049/https:/www.michiganpublic.org/environment-climate-change/2025-02-14/21-billion-for-clean-energy-in-michigan-being-rescinded-held-back-or-canceled-by-trump-administration). 
 -   In 2023, John James [voted against](https://clerk.house.gov/evs/2023/roll064.xml) protecting the ban on oil and gas drilling in the [Great Lakes](https://www.detroitnews.com/story/news/politics/2023/09/07/carl-marlinga-launches-bid-for-congress-aiming-for-john-james-rematch/70779154007/). 
 
