@@ -2,7 +2,7 @@
 title: Lisa Demuth
 description: 
 published: false
-date: 2026-01-23T18:35:07.816Z
+date: 2026-01-23T18:48:44.757Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-22T22:08:13.355Z
@@ -81,22 +81,17 @@ Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported T
 
 ## Lisa Demuth’s Policies Have Hurt Everyday People
 
-Demuth Supported Devastating Health Care Cuts
-
-Demuth Supported Massive Cuts To Medicare
-
-Demuth Ignored The Crushing Impacts Of Trump’s Tariffs On Minnesota’s Economy
-
-Demuth Supported Stripping SNAP Benefits From Minnesota Families 
-
-Demuth Won’t Protect Minnesota’s Jobs Or Nonprofits From Trump 
-
-Demuth Opposed Clean Energy Tax Credits That Supported Minnesota Jobs 
-
-Demuth Was An Anti-Abortion Extremist
+- [:hospital: *Demuth Supported Devastating Health Care Cuts*](/MN-Gov/lisa-demuth/demuth-medicaid)
+- [:older_man: *Demuth Supported Massive Cuts To Medicare*](/MN-Gov/lisa-demuth/demuth-medicare)
+- [:shopping_cart: *Demuth Ignored The Crushing Impacts Of Trump’s Tariffs On Minnesota’s Economy*](/MN-Gov/lisa-demuth/demuth-tariffs)
+- [:apple: *Demuth Supported Stripping SNAP Benefits From Minnesota Families*](/MN-Gov/lisa-demuth/demuth-snap)
+- [:x: *Demuth Won’t Protect Minnesota’s Jobs Or Nonprofits From Trump*](/MN-Gov/lisa-demuth/demuth-doge)
+- [:mechanic: *Demuth Opposed Clean Energy Tax Credits That Supported Minnesota Jobs*](/MN-Gov/lisa-demuth/demuth-clean-energy)
+- [:woman: *Demuth Was An Anti-Abortion Extremist*](/MN-Gov/lisa-demuth/demuth-abortion)
+{.links-list}
 
 ## Lisa Demuth Used Her Power To Harm The Vulnerable
 
-Demuth Lied About Exposing Day Care Fraud With YouTuber Nick Shirley In Minnesota 
-
-Lisa Demuth Would Not Protect Minnesotans From Trump’s Federal Forces Overreach
+- [:baby: *Demuth Lied About Exposing Day Care Fraud In Minnesota*](/MN-Gov/lisa-demuth/demuth-fraud)
+- [:sos: *Demuth Would Not Protect Minnesotans From Trump’s Federal Forces Overreach*](MN-Gov/lisa-demuth/demuth-trump)
+{.links-list}
