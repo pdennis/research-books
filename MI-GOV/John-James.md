@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-01-23T16:02:51.616Z
+date: 2026-01-23T16:21:11.186Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -48,7 +48,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 ###  John James Stripped SNAP Benefits From Michigan Families 
 
-In 2025, John James [voted](http://clerk.house.gov/evs/2025/roll190.xml) Trump's "One Big Beautiful Bill," which made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). In Michigan, nearly [575,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
+- In 2025, John James [voted](http://clerk.house.gov/evs/2025/roll190.xml) for Trump's "One Big Beautiful Bill," which made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). In Michigan, nearly [575,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
 
 **Message:** John James voted to make food more expensive for Michigan. 
 
