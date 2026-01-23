@@ -2,7 +2,7 @@
 title: Karrin Taylor Robson
 description: 
 published: true
-date: 2026-01-23T19:13:17.305Z
+date: 2026-01-23T19:14:31.950Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T16:48:12.009Z
@@ -103,6 +103,6 @@ Karrin Taylor Robson, who only got [half an endorsement](https://apnews.com/arti
 
 ## Karrin Taylor Robson Used Her Power To Benefit The Powerful
 
--   [:eyes: *Taylor Robson Called To Release The Epstein Files Only Because Trump Finally Approved Of The Release*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-epstein)
+-   [:eyes: *Taylor Robson Called To Release The Epstein Files Only Once Trump Finally Approved Their Release*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-epstein)
 -   [:question: *Taylor Robson Hid Her Campaign Staff’s Identities*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-campaign-staff)
 {.links-list}
