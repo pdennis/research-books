@@ -2,7 +2,7 @@
 title: Chris Carr
 description: 
 published: true
-date: 2026-01-23T19:37:42.207Z
+date: 2026-01-23T19:39:17.474Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:40:55.761Z
@@ -103,5 +103,5 @@ Chris Carr supported federal legislation that stripped health care from thousand
 ## Chris Carr Used His Power To Benefit The Powerful
 
 - [:sos:*Carr Would Not Protect Georgians From Trump Deploying Federal Forces To Georgia’s Cities*](https://research-books.com/en/GA-Gov/chris-carr/carr-federalforces)
-- [:judge:*Carr Filed RICO Charges Against 61 Protesters, But Did Not Have The Authority To Under Georgia’s RICO Law*](https://research-books.com/en/GA-Gov/chris-carr/carr-rico)
+- [:judge:*Carr Filed RICO Charges Against 61 Protesters Without Having Authority To Under Georgia’s RICO Law*](https://research-books.com/en/GA-Gov/chris-carr/carr-rico)
 {.links-list}
