@@ -2,7 +2,7 @@
 title: Burt Jones
 description: 
 published: true
-date: 2026-01-05T19:55:51.085Z
+date: 2026-01-23T19:53:30.648Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:16:25.941Z
@@ -84,23 +84,23 @@ Burt Jones supported federal legislation that stripped health care from hundreds
 -   In 2025, Trump issued Burt Jones a [preemptive pardon](https://georgiarecorder.com/2025/11/10/trump-pardon-of-2020-election-allies-does-not-erase-fulton-county-election-interference-charges/) for his role as an alternate elector attempting to overturn the 2020 election. Jones wrote a [petition](https://www.ajc.com/politics/in-georgia-concerted-gop-pushback-blocks-trump-attempts-to-overturn-election/WCRIAROVEZADVLEL5Q6QHY6UFU/) calling for the Georgia legislature to appoint alternate electors, and he was one of 16 [fake electors](https://georgiarecorder.com/2023/08/23/case-against-georgias-lieutenant-governor-for-alleged-2020-fake-elector-scheme-awaits-prosecutor/) who signed a false certification that Trump won the state of Georgia. He also [intended to deliver](https://web.archive.org/web/20251202153816/https:/www.ajc.com/politics/election/georgia-2020-election-what-happened/) a letter to Pence urging him to delay the tally of electoral votes, before [deciding against it at the last minute.](https://web.archive.org/web/20251202153816/https:/www.ajc.com/politics/election/georgia-2020-election-what-happened/) 
 -   Due to his role in attempting to overturn the 2020 election, Jones [lost his position](https://www.ajc.com/politics/politics-blog/the-jolt-election-deniers-in-state-senate-stripped-of-chairmanships/KAWCPO4DDBAKLHIMQS3PJ2JKXM/) as Chair of the Insurance and Labor Committee, and was [warned](https://www.nytimes.com/2022/07/15/us/georgia-investigation-trump.html) that he could be prosecuted. In 2024, a special prosecutor ultimately [decided against](https://apnews.com/article/georgia-election-investigation-trump-burt-jones-49c8639a11b930066d50f7dc0c6564e0) indicting Jones. 
 
-**Message:** Burt Jones attempted to use his position as a state senator to overturn the 2020 presidential election in Georgia, and was rewarded with a preemptive pardon from Trump.
+**Message:** Jones attempted to use his position as a state senator to overturn the 2020 presidential election in Georgia, and was rewarded with a preemptive pardon from Trump.
 
 # Issue Back-Ups
 
 ## Burt Jones' Policies Have Hurt Everyday People
 
-- [:hospital: | **Burt Jones Supported Efforts To Cut Medicaid And Threaten Georgians’ Access To Health Care**](https://research-books.com/en/GA-Gov/burt-jones/jones-medicaid)
-- [:older_man: | **Burt Jones Supported Medicare Cuts**](https://research-books.com/en/GA-Gov/burt-jones/jones-medicare)
-- [:shopping_cart: | **Burt Jones Backed Trump's Tariffs, Endangering Georgia’s Economy**](https://research-books.com/en/GA-Gov/burt-jones/jones-tariffs)
-- [:apple: | **Burt Jones Supported Cutting SNAP Benefits From Georgia Families**](https://research-books.com/en/GA-Gov/burt-jones/jones-food)
-- [:x: | **Burt Jones Won't Defend Georgians’ Jobs Or Social Security From Trump**](https://research-books.com/en/GA-Gov/burt-jones/jones-doge)
-- [:mechanic: | **Burt Jones Opposed Protecting Georgia’s Clean Energy Jobs**](https://research-books.com/en/GA-Gov/burt-jones/jones-clean-energy)
-- [:woman: | **Burt Jones Was An Anti-Abortion Extremist**](https://research-books.com/en/GA-Gov/burt-jones/jones-abortion)
+- [:hospital:*Jones Supported Efforts To Cut Medicaid And Threaten Georgians’ Access To Health Care*](https://research-books.com/en/GA-Gov/burt-jones/jones-medicaid)
+- [:older_man:*Jones Supported Medicare Cuts*](https://research-books.com/en/GA-Gov/burt-jones/jones-medicare)
+- [:shopping_cart:*Jones Backed Trump's Tariffs, Endangering Georgia’s Economy*](https://research-books.com/en/GA-Gov/burt-jones/jones-tariffs)
+- [:apple:*Jones Supported Cutting SNAP Benefits From Georgia Families*](https://research-books.com/en/GA-Gov/burt-jones/jones-food)
+- [:x:*Jones Won't Defend Georgians’ Jobs Or Social Security From Trump*](https://research-books.com/en/GA-Gov/burt-jones/jones-doge)
+- [:mechanic:*Jones Opposed Protecting Georgia’s Clean Energy Jobs*](https://research-books.com/en/GA-Gov/burt-jones/jones-clean-energy)
+- [:woman:*Jones Was An Anti-Abortion Extremist*](https://research-books.com/en/GA-Gov/burt-jones/jones-abortion)
 {.links-list}
 
 ## Burt Jones Used His Power To Benefit The Powerful And Himself
 
-- [:money_with_wings: | **Burt Jones Used His Power And Wealth To Benefit Himself And His Family**](https://research-books.com/en/GA-Gov/burt-jones/jones-power-wealth)
-- [:sos: | **Burt Jones Propagated The Big Lie And Served As A Fake Elector**](https://research-books.com/en/GA-Gov/burt-jones/jones-biglie)
+- [:money_with_wings:*Jones Used His Power And Wealth To Benefit Himself And His Family*](https://research-books.com/en/GA-Gov/burt-jones/jones-power-wealth)
+- [:sos:*Jones Propagated The Big Lie And Served As A Fake Elector*](https://research-books.com/en/GA-Gov/burt-jones/jones-biglie)
 {.links-list}
