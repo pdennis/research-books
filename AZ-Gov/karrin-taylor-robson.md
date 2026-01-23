@@ -2,7 +2,7 @@
 title: Karrin Taylor Robson
 description: 
 published: true
-date: 2025-12-27T04:20:33.150Z
+date: 2026-01-23T19:13:17.305Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T16:48:12.009Z
@@ -92,19 +92,17 @@ Karrin Taylor Robson, who only got [half an endorsement](https://apnews.com/arti
 
 ## Karrin Taylor Robson's Views Have Hurt Everyday People
 
--   [:hospital: **Taylor Robson Supported Devastating Health Care Cuts**](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-medicaid)
--   [:older_man: **Taylor Robson Supported Massive Cuts To Medicare**](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-medicare)
--   [:shopping_cart: **Taylor Robson Supported Trump’s Tariffs**](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-tariffs)
--   [:apple: **Taylor Robson Supported Stripping SNAP Benefits From Arizona Families**](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-snap)
--   [:x: **Taylor Robson Stood By While Trump Attacked Social Security And Fired Hard-Working Arizonans**](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-doge)
--   [:mechanic: **Taylor Robson Supported Legislation That Threatened Clean Energy Jobs In Arizona**](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-clean-energy)
--   [:woman: **Taylor Robson Was An Anti-Abortion Extremist**](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-abortion)
-
+-   [:hospital: *Taylor Robson Supported Devastating Health Care Cuts*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-medicaid)
+-   [:older_man: *Taylor Robson Supported Massive Cuts To Medicare*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-medicare)
+-   [:shopping_cart: *Taylor Robson Supported Trump’s Tariffs*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-tariffs)
+-   [:apple: *Taylor Robson Supported Stripping SNAP Benefits From Arizona Families*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-snap)
+-   [:x: *Taylor Robson Stood By While Trump Attacked Social Security And Fired Hard-Working Arizonans*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-doge)
+-   [:mechanic: *Taylor Robson Supported Legislation That Threatened Clean Energy Jobs In Arizona*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-clean-energy)
+-   [:woman: *Taylor Robson Was An Anti-Abortion Extremist*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-abortion)
 {.links-list}
 
 ## Karrin Taylor Robson Used Her Power To Benefit The Powerful
 
--   [:eyes: **Taylor Robson Called To Release The Epstein Files Only Because Trump Finally Approved Of The Release**](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-epstein)
--   [:question: **Taylor Robson Hid Her Campaign Staff’s Identities**](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-campaign-staff)
-
+-   [:eyes: *Taylor Robson Called To Release The Epstein Files Only Because Trump Finally Approved Of The Release*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-epstein)
+-   [:question: *Taylor Robson Hid Her Campaign Staff’s Identities*](https://research-books.com/en/AZ-Gov/karrin-taylor-robson/taylor-robson-campaign-staff)
 {.links-list}
