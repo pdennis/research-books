@@ -2,7 +2,7 @@
 title: Joe Lombardo
 description: 
 published: true
-date: 2026-01-23T19:22:03.251Z
+date: 2026-01-23T19:31:28.560Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T19:03:34.764Z
@@ -104,6 +104,6 @@ Joe Lombardo supported federal legislation that stripped health care from thousa
 
 ## Joe Lombardo Used His Power To Benefit The Powerful And Himself
 
--   [:money_mouth_face: *Lombardo Raised His Own Sheriff's Salary By $51,000 While Claiming Budget Cuts Hampered The Department*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-salary)
--   [:ballot_box: *Lombardo Advanced Election Denial Claims, Worked To Roll Back Voting Access In Nevada, And Remained Closely Tied To A Fake Elector*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-election-denial)
+-   [:money_mouth_face: *Lombardo Raised His Own Sheriff's Salary While His Department Faced Budget Cuts*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-salary)
+-   [:ballot_box: *Lombardo Threatened Voter Access In Nevada And Was Tied To A Fake Elector*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-election-denial)
 {.links-list}
