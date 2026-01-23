@@ -2,7 +2,7 @@
 title: Randy Feenstra
 description: 
 published: true
-date: 2026-01-23T16:36:48.869Z
+date: 2026-01-23T16:38:43.496Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:43:18.333Z
@@ -65,7 +65,7 @@ Randy Feenstra built his career claiming to fight for Iowan families but voted t
 
 ### Feenstra’s Votes Threatened Clean Energy Jobs In Iowa
 
--   In 2025, Randy Feenstra [voted](http://clerk.house.gov/evs/2025/roll190.xml) for Trump's "One Big Beautiful Bill," which [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits and make them harder to access, threatening clean energy jobs in Iowa.
+-   In 2025, Randy Feenstra [voted](http://clerk.house.gov/evs/2025/roll190.xml) for Trump's "One Big Beautiful Bill," which [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits and made them harder to access, threatening clean energy jobs in Iowa.
 -   Clean energy advocates warned the “One Big Beautifull Bill’s” provisions to eliminate clean-energy tax credits put Iowa’s job growth and utility costs at [risk](https://www.kcrg.com/2025/06/06/clean-energy-tax-cuts-reconciliation-budget-would-stall-renewable-energy-projects-iowa/).
 -   Prior to voting for the repeal of clean energy tax credits in 2025, Feenstra was aware of the [importance](https://www.desmoinesregister.com/story/news/politics/2023/04/26/iowa-gop-congressmen-will-vote-for-debt-ceiling-deal-after-concessions/70154329007/) of biofuel tax credits for Iowa’s farmers and economy. In 2023, Feenstra [voted](https://clerk.house.gov/evs/2023/roll199.xml) for the Limit, Save, Grow Act only after proposed cuts to [biofuel tax credits](https://www.desmoinesregister.com/story/news/politics/2023/04/26/iowa-gop-congressmen-will-vote-for-debt-ceiling-deal-after-concessions/70154329007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z114242d00----v114242d--47--b--47--&gca-ft=217&gca-ds=sophi) were removed from the legislation.
 
