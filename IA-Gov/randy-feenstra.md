@@ -2,7 +2,7 @@
 title: Randy Feenstra
 description: 
 published: true
-date: 2026-01-21T17:50:32.690Z
+date: 2026-01-23T16:36:48.869Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:43:18.333Z
@@ -77,7 +77,7 @@ Randy Feenstra built his career claiming to fight for Iowan families but voted t
 -   Randy Feenstra was an out-of-touch anti-abortion extremist, who used [religious justifications for restricting abortion access](https://x.com/RepFeenstra/status/1352638839131693056).
 -   In Congress, Randy Feenstra repeatedly voted to strip Americans of their reproductive rights. Randy Feenstra [voted](http://clerk.house.gov/evs/2022/roll360.xml) against codifying abortion protections in federal law and he [voted](http://clerk.house.gov/evs/2022/roll362.xml) against protecting out-of-state abortion services and protecting interstate movement of FDA-approved abortion drugs. Feenstra also [voted](http://clerk.house.gov/evs/2022/roll385.xml) against codifying the right to access contraception in federal law. In his first 100 days in Congress, Feenstra [co-sponsored the “Life at Conception Act,”](https://www.congress.gov/bill/118th-congress/house-bill/431/cosponsors?s=1&r=1&q=%7B%22search%22%3A%22life+at+conception+act%22%7D) establishing [personhood](https://feenstra.house.gov/media/press-releases/feenstra-stands-unborn-cosponsors-several-pro-life-bills-first-100-days) at fertilization. Feenstra opposed efforts to [fund abortion services](https://x.com/RepFeenstra/status/1400527777477058569), and supported Iowa’s [fetal heartbeat bill](https://x.com/RepFeenstra/status/1400527777477058569) and pledged to defend the law after a judge blocked it.
 -   Feenstra invoked his [religion](https://x.com/RepFeenstra/status/1352638839131693056) to advocate for a [15-week abortion ban](https://x.com/RepFeenstra/status/1466183752539856897) and [pre-viability abortion restrictions](https://www.youtube.com/watch?v=JFvs-DBH7hE) that would roll back reproductive rights.
--   Randy Feenstra supported [March for Life](https://x.com/RepFeenstra/status/1882823609577885767), and showcased his support from [Susan B. Anthony Pro-Life America](https://x.com/RepFeenstra/status/1747371580483629347?s=20) and the [National Right to Life Committee](https://www.nytimes.com/2020/05/27/us/politics/steve-king-iowa-primary.html) to reinforce his anti-abortion agenda.
+-   Randy Feenstra supported [March for Life](https://x.com/RepFeenstra/status/1882823609577885767), and showcased [+A ratings](https://x.com/RepFeenstra/status/2013657077399376033) from [Susan B. Anthony Pro-Life America](https://x.com/RepFeenstra/status/1747371580483629347?s=20) and the [National Right to Life Committee](https://www.nytimes.com/2020/05/27/us/politics/steve-king-iowa-primary.html) to reinforce his anti-abortion agenda.
 
 **Message:** Randy Feenstra threatened the reproductive freedoms of Iowans.   
  
