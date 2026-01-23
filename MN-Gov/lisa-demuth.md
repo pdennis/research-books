@@ -2,7 +2,7 @@
 title: Lisa Demuth
 description: 
 published: false
-date: 2026-01-23T19:10:32.706Z
+date: 2026-01-23T19:51:17.157Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-22T22:08:13.355Z
@@ -93,9 +93,9 @@ Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported T
 
 ## Lisa Demuth’s Policies Have Hurt Everyday People
 
-- [:hospital: *Demuth Supported Devastating Health Care Cuts*](/MN-Gov/lisa-demuth/demuth-medicaid)
-- [:older_man: *Demuth Supported Massive Cuts To Medicare*](/MN-Gov/lisa-demuth/demuth-medicare)
-- [:shopping_cart: *Demuth Ignored The Crushing Impacts Of Trump’s Tariffs On Minnesota’s Economy*](/MN-Gov/lisa-demuth/demuth-tariffs)
+- [:hospital: | **Demuth Supported Devastating Health Care Cuts**](/MN-Gov/lisa-demuth/demuth-medicaid)
+- [:older_man: | **Demuth Supported Massive Cuts To Medicare**](/MN-Gov/lisa-demuth/demuth-medicare)
+- [:shopping_cart: | **Demuth Ignored The Crushing Impacts Of Trump’s Tariffs On Minnesota’s Economy**](/MN-Gov/lisa-demuth/demuth-tariffs)
 - [:apple: *Demuth Supported Stripping SNAP Benefits From Minnesota Families*](/MN-Gov/lisa-demuth/demuth-snap)
 - [:x: *Demuth Won’t Protect Minnesota’s Jobs Or Nonprofits From Trump*](/MN-Gov/lisa-demuth/demuth-doge)
 - [:mechanic: *Demuth Opposed Clean Energy Tax Credits That Supported Minnesota Jobs*](/MN-Gov/lisa-demuth/demuth-clean-energy)
