@@ -1,8 +1,8 @@
 ---
 title: Lisa Demuth
 description: 
-published: false
-date: 2026-01-23T20:09:28.470Z
+published: true
+date: 2026-01-23T20:09:50.606Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-22T22:08:13.355Z
