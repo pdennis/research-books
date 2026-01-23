@@ -2,7 +2,7 @@
 title: Lisa Demuth
 description: 
 published: false
-date: 2026-01-23T18:48:44.757Z
+date: 2026-01-23T19:07:38.346Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-22T22:08:13.355Z
@@ -93,5 +93,5 @@ Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported T
 ## Lisa Demuth Used Her Power To Harm The Vulnerable
 
 - [:baby: *Demuth Lied About Exposing Day Care Fraud In Minnesota*](/MN-Gov/lisa-demuth/demuth-fraud)
-- [:sos: *Demuth Would Not Protect Minnesotans From Trump’s Federal Forces Overreach*](MN-Gov/lisa-demuth/demuth-trump)
+- [:sos: *Demuth Would Not Protect Minnesotans From Trump’s Federal Forces Overreach*](/MN-Gov/lisa-demuth/demuth-trump)
 {.links-list}
