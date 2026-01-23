@@ -2,7 +2,7 @@
 title: Brad Raffensperger
 description: 
 published: true
-date: 2026-01-23T19:46:27.066Z
+date: 2026-01-23T19:48:54.461Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:14:10.238Z
@@ -101,6 +101,5 @@ Brad Raffensperger supported federal legislation that stripped health care from 
 ## Brad Raffensperger Used His Power To Benefit The Powerful
 
 - [:sos:*Raffensperger Dismissed Concerns About Georgia’s Election Security*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-election-security)
-- [:ballot_box:*Raffensperger Supported Voter Suppression Tactics That Disproportionately Impacted People Of Color*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-voting)
-
+- [:ballot_box:*Raffensperger Was Accused Of Suppressing Voters Of Color In Georgia*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-voting)
 {.links-list}
