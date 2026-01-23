@@ -2,11 +2,23 @@
 title: Lisa Demuth
 description: 
 published: false
-date: 2026-01-23T19:07:38.346Z
+date: 2026-01-23T19:10:32.706Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-22T22:08:13.355Z
 ---
+
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against Lisa Demuth
 
