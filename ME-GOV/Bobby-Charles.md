@@ -2,13 +2,23 @@
 title: Robert "Bobby" Charles
 description: 
 published: false
-date: 2026-01-27T21:18:53.681Z
+date: 2026-01-27T21:25:59.293Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against Robert “Bobby” Charles
 
@@ -68,20 +78,17 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 
 ## Bobby Charles’ Policies Have Hurt Everyday People
 
-[Bobby Charles Supported Devastating Health Care Cuts](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-medicaid)
+- [:hospital: | **Bobby Charles Supported Devastating Health Care Cuts**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-medicaid)
+- [:older_man: | **Bobby Charles Supported Massive Cuts To Medicare**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-medicare)
+- [:apple: | **Bobby Charles Supported Stripping SNAP Benefits From Maine Families**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-food)
+- [:x: | **Bobby Charles Won’t Protect Maine’s Nonprofits, Services, Or Social Security From Trump**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-doge)
+- [:money_with_wings: | **Bobby Charles Supported Increases To Energy Costs In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-energyprices)
+- [:woman: | **Bobby Charles Was An Anti-Abortion Extremist**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-abortion)
+{.links-list}
 
-[Bobby Charles Supported Massive Cuts To Medicare](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-medicare)
-
-[Bobby Charles Supported Stripping SNAP Benefits From Maine Families](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-food)
-
-[Bobby Charles Won’t Protect Maine’s Nonprofits, Services, Or Social Security From Trump](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-doge)
-
-[Bobby Charles Supported Increases To Energy Costs In Maine](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-energyprices)
-
-[Bobby Charles Was An Anti-Abortion Extremist](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-abortion)
 
 ## Bobby Charles Used His Influence To Benefit The Powerful
 
-[Bobby Charles Promoted Election Fraud Claims](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-voting)
-
-[Bobby Charles Called For The Closure Of The Northern Border And A Replica Of The Failed “Alligator Alcatraz” In Maine](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-immigration)
+- [:x: | **Bobby Charles Promoted Election Fraud Claims**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-voting)
+- [:sos: | **Bobby Charles Called For The Closure Of The Northern Border And A Replica Of The Failed “Alligator Alcatraz” In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-immigration)
+{.links-list}
