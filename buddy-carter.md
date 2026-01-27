@@ -1,8 +1,8 @@
 ---
 title: Buddy Carter
 description: 
-published: false
-date: 2026-01-27T18:02:31.374Z
+published: true
+date: 2026-01-27T18:02:45.892Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-11T15:16:25.360Z
