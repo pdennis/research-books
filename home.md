@@ -2,7 +2,7 @@
 title: Research Books
 description: 
 published: true
-date: 2025-12-30T02:55:14.658Z
+date: 2026-01-27T02:14:28.911Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T14:53:15.605Z
@@ -48,7 +48,7 @@ dateCreated: 2025-05-04T14:53:15.605Z
     <span class="label">Github</span>
     <span class="description">Build on our data directly</span>
   </a>
-<a href="https://github.com/pdennis/research-books" class="home-flex-child-compact">
+<a href="https://take.town/research-books/" class="home-flex-child-compact">
     <span class="icon">📄</span>
     <span class="label">Word Docs</span>
     <span class="description">Old school: oppo as .docx</span>
