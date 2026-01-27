@@ -2,7 +2,7 @@
 title: Buddy Carter
 description: 
 published: false
-date: 2026-01-27T17:14:20.824Z
+date: 2026-01-27T18:02:31.374Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-11T15:16:25.360Z
@@ -69,7 +69,7 @@ Buddy Carter is a swampy career MAGA politician who wants to gut Medicaid, Medic
 
 #### [**_Carter Was An Anti-Abortion Extremist_**](https://research-books.com/en/buddy-carter/carter-abortion)
 
-## **Carter Used His Power To Benefit The Powerful** 
+## **Carter Used His Power To Benefit The Powerful**
 
 #### [**_It Took Carter 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved_**](https://research-books.com/en/buddy-carter/carter-epstein)
 
