@@ -2,7 +2,7 @@
 title: Mariannette Miller-Meeks
 description: 
 published: true
-date: 2026-01-27T19:01:21.177Z
+date: 2026-01-27T19:04:05.937Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:07:45.530Z
@@ -10,11 +10,9 @@ dateCreated: 2025-05-27T12:07:45.530Z
 
 **📺 - Click here for our Example Content Library** This video is an example of an ad or social video that one can create using the research below.
 
-  
-  
 This video is not for public use on a campaign, and is purely here as an
 
-**📺 - Click here for Notable Clips and Visuals** COMING SOON! 
+**📺 - Click here for Notable Clips and Visuals** COMING SOON!
 
 # How To Win Against Mariannette Miller-Meeks
 
@@ -94,19 +92,20 @@ Miller-Meeks faced an ethics complaint over where her primary address was actual
 # Issue Back-Ups
 
 ## Mariannette Miller-Meeks' Policies Have Hurt Everyday People
-- [:hospital: *Miller-Meeks Voted To Cut The Health Care More Than 100,000 Iowans In Her District Rely On*](/en/mariannette-miller-meeks/mm-medicaid)
-- [:older_man: *Miller-Meeks Voted For Massive Cuts To Medicare*](/en/mariannette-miller-meeks/mm-medicare)
-- [:pill: *Miller-Meeks Was In The Pocket Of Big Pharma*](/en/mariannette-miller-meeks/mm-pharma)
-- [:carrot: *Miller-Meeks Voted To Take Food Assistance From Iowans*](/en/mariannette-miller-meeks/mm-snap)
-- [:shopping_cart: *Miller-Meeks Was The Deciding Vote To Protect Trump's Tariffs That Were Crushing Iowa Farmers*](/en/mariannette-miller-meeks/mm-tariffs)
-- [:x: *Miller-Meeks Supported Cutting Medical Research And Social Security Customer Service*](/en/mariannette-miller-meeks/mm-doge)
-- [:mechanic: *Miller-Meeks Voted Against Protecting Iowans' Clean Energy Jobs*](/en/mariannette-miller-meeks/mm-IRA-tax-credits)
+
+-    [![🏥](/_assets/svg/twemoji/1f3e5.svg) *Miller-Meeks Voted To Cut The Health Care More Than 100,000 Iowans In Her District Rely On*](/en/mariannette-miller-meeks/mm-medicaid)
+-    [![👴](/_assets/svg/twemoji/1f474.svg) *Miller-Meeks Voted For Massive Cuts To Medicare*](/en/mariannette-miller-meeks/mm-medicare)
+-    [![💊](/_assets/svg/twemoji/1f48a.svg) *Miller-Meeks Was In The Pocket Of Big Pharma*](/en/mariannette-miller-meeks/mm-pharma)
+-    [![🥕](/_assets/svg/twemoji/1f955.svg) *Miller-Meeks Voted To Take Food Assistance From Iowans*](/en/mariannette-miller-meeks/mm-snap)
+-    [![🛒](/_assets/svg/twemoji/1f6d2.svg) *Miller-Meeks Was The Deciding Vote To Protect Trump's Tariffs That Were Crushing Iowa Farmers*](/en/mariannette-miller-meeks/mm-tariffs)
+-    [![❌](/_assets/svg/twemoji/274c.svg) *Miller-Meeks Supported Cutting Medical Research And Social Security Customer Service*](/en/mariannette-miller-meeks/mm-doge)
+-    [![🧑‍🔧](/_assets/svg/twemoji/1f9d1-200d-1f527.svg) *Miller-Meeks Voted Against Protecting Iowans' Clean Energy Jobs*](/en/mariannette-miller-meeks/mm-IRA-tax-credits)
 
 ## Mariannette Miller-Meeks Has Used Her Power To benefit Herself And The Powerful
 
-- [:eyes: *It Took Miller-Meeks 11 Months To Vote To Release The Epstein Files And She Did Only After Trump Gave Her Permission*](/en/mariannette-miller-meeks/mm-epstein)
-- [:house: *Miller-Meeks Was Accused Of Voter Fraud*](/en/mariannette-miller-meeks/mm-voting)
+-    [![👀](/_assets/svg/twemoji/1f440.svg) *It Took Miller-Meeks 11 Months To Vote To Release The Epstein Files And She Did Only After Trump Gave Her Permission*](/en/mariannette-miller-meeks/mm-epstein)
+-    [![🏠](/_assets/svg/twemoji/1f3e0.svg) *Miller-Meeks Was Accused Of Voter Fraud*](/en/mariannette-miller-meeks/mm-voting)
 
 # Key Votes
 
--   [:white_check_mark: *Miller-Meeks' Key Votes As A Member Of Congress*](/en/mariannette-miller-meeks/mm-votes)
+-    [![✅](/_assets/svg/twemoji/2705.svg) *Miller-Meeks' Key Votes As A Member Of Congress*](/en/mariannette-miller-meeks/mm-votes)
