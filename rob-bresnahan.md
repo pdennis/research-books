@@ -2,30 +2,13 @@
 title: Rob Bresnahan
 description: 
 published: true
-date: 2025-12-27T05:04:55.635Z
+date: 2026-01-27T15:47:55.960Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:34:16.924Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-This video is an example of an ad or social video that one can create using the research below.
-<video
-  src="https://streamable.com/l/3kxo4v/mp4.mp4"
-  type="video/mp4"
-  controls
-  preload="metadata"
-  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
-</video>
-This video is not for public use on a campaign, and is purely here as an example.
-</details>
 
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # **How To Win Against Rob Bresnahan**
 
