@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-01-16T18:39:46.267Z
+date: 2026-01-27T21:26:17.181Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -97,7 +97,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 - [:shopping_cart: | **Garrity Backed Trump's Tariffs, Endangering Pennsylvania's Economy**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-tariffs) 
 - [:apple: | **Garrity Supported Stripping SNAP Benefits From Pennsylvania Families**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-food) 
 - [:x: | **Garrity Won't Defend Pennsylvanians’ Jobs Or Social Security From Trump**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-doge) 
-- [:mechanic: | **Garrity Supported Increases To Energy Costs In Pennsylvania**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-energyprices) 
+- [:money_with_wings: | **Garrity Supported Increases To Energy Costs In Pennsylvania**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-energyprices) 
 - [:woman: | **Garrity Was An Anti-Abortion Extremist**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-abortion) 
 
 {.links-list}
