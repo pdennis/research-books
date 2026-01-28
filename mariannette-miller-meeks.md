@@ -2,17 +2,30 @@
 title: Mariannette Miller-Meeks
 description: 
 published: true
-date: 2026-01-27T19:04:05.937Z
+date: 2026-01-28T15:22:14.729Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:07:45.530Z
 ---
 
-**📺 - Click here for our Example Content Library** This video is an example of an ad or social video that one can create using the research below.
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+This video is an example of an ad or social video that one can create using the research below.
+  <br>
+<video>
+  Coming Soon
+</video>
+  <br>
+This video is not for public use on a campaign, and is purely here as an example.
+</details>
 
-This video is not for public use on a campaign, and is purely here as an
 
-**📺 - Click here for Notable Clips and Visuals** COMING SOON!
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+ COMING SOON!
+</details>
+
 
 # How To Win Against Mariannette Miller-Meeks
 
@@ -100,12 +113,14 @@ Miller-Meeks faced an ethics complaint over where her primary address was actual
 -    [![🛒](/_assets/svg/twemoji/1f6d2.svg) *Miller-Meeks Was The Deciding Vote To Protect Trump's Tariffs That Were Crushing Iowa Farmers*](/en/mariannette-miller-meeks/mm-tariffs)
 -    [![❌](/_assets/svg/twemoji/274c.svg) *Miller-Meeks Supported Cutting Medical Research And Social Security Customer Service*](/en/mariannette-miller-meeks/mm-doge)
 -    [![🧑‍🔧](/_assets/svg/twemoji/1f9d1-200d-1f527.svg) *Miller-Meeks Voted Against Protecting Iowans' Clean Energy Jobs*](/en/mariannette-miller-meeks/mm-IRA-tax-credits)
-
+{.links-list}
 ## Mariannette Miller-Meeks Has Used Her Power To benefit Herself And The Powerful
 
 -    [![👀](/_assets/svg/twemoji/1f440.svg) *It Took Miller-Meeks 11 Months To Vote To Release The Epstein Files And She Did Only After Trump Gave Her Permission*](/en/mariannette-miller-meeks/mm-epstein)
 -    [![🏠](/_assets/svg/twemoji/1f3e0.svg) *Miller-Meeks Was Accused Of Voter Fraud*](/en/mariannette-miller-meeks/mm-voting)
+{.links-list}
 
 # Key Votes
 
 -    [![✅](/_assets/svg/twemoji/2705.svg) *Miller-Meeks' Key Votes As A Member Of Congress*](/en/mariannette-miller-meeks/mm-votes)
+{.links-list}
