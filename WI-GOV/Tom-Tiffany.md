@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-01-28T16:39:31.498Z
+date: 2026-01-28T17:21:40.822Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against Tom Tiffany
 
-Tom Tiffany built his career claiming to stand up for Wisconsin families but voted to cut services and raise costs on Wisconsinites. He voted to kick more than 258,000 Wisconsinites off their health insurance, for massive cuts to Medicare, and to make it harder for his neighbors to buy food. Tiffany cast the deciding vote to protect Trump’s tariffs, which were hurting small businesses and could result in higher food costs for Wisconsinites. Tiffany stood by while Trump laid off Wisconsinites and gutted the Social Security agency. He voted to cut clean energy tax credits that supported Wisconsin jobs and projects. Tom Tiffany posed a threat to Wisconsinite women's reproductive freedoms as he repeatedly voted against abortion protections. Despite previously voting against releasing the Epstein files, it took 11 months for Tom Tiffany to ultimately vote for the release of the Epstein files only because Trump approved of the release. Tom Tiffany also supported efforts to overturn the 2020 election. Tom Tiffany who was "honored" to receive Trump's endorsement, would leave Wisconsin vulnerable to Trump’s attacks.
+Tom Tiffany built his career claiming to stand up for Wisconsin families but voted to cut services and raise costs on Wisconsinites. He voted to kick more than 258,000 Wisconsinites off their health insurance, for massive cuts to Medicare, and to make it harder for his neighbors to buy food. Tiffany cast the deciding vote to protect Trump’s tariffs, which were hurting small businesses and could result in higher food costs for Wisconsinites. Tiffany stood by while Trump laid off Wisconsinites and gutted the Social Security agency. He voted to cut clean energy tax credits that supported Wisconsin jobs and projects. Tom Tiffany posed a threat to Wisconsinite women's reproductive freedoms as he repeatedly voted against abortion protections. Despite previously voting against releasing the Epstein files, it took 11 months for Tom Tiffany to ultimately vote for the release of the Epstein files only because Trump approved of the release. Tom Tiffany also supported efforts to overturn the 2020 election. Tom Tiffany who was ["honored"](https://x.com/TomTiffanyWI/status/2016324852211122577) to receive Trump's endorsement, would leave Wisconsin vulnerable to Trump’s attacks.
 
 ### Tiffany Voted For Devastating Health Care Cuts
 
