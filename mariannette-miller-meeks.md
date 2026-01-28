@@ -2,7 +2,7 @@
 title: Mariannette Miller-Meeks
 description: 
 published: true
-date: 2026-01-28T15:30:44.654Z
+date: 2026-01-28T21:04:52.561Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:07:45.530Z
@@ -27,7 +27,7 @@ Miller-Meeks is wrong for IA-01. She voted to kick thousands of Iowans off their
 
 ### miller-meeks was in the pocket of big pharma
 
-Miller-Meek was cozy with Big Pharma despite her [claims](https://www.newtondailynews.com/opinion/column/2025/03/28/lowering-prescription-drug-prices-for-iowans/) that she was working to lower the cost of prescription drugs.
+Miller-Meeks was cozy with Big Pharma despite her [claims](https://www.newtondailynews.com/opinion/column/2025/03/28/lowering-prescription-drug-prices-for-iowans/) that she was working to lower the cost of prescription drugs.
 
 -   Miller-Meeks [opposed](https://www.fiercehealthcare.com/payers/lawmakers-discuss-bringing-down-prescription-drug-prices-and-incentivizing-drug-innovation) allowing the government to negotiate with pharmaceutical companies to lower the cost of prescription drugs for seniors. She sided with Big Pharma and [voted against](http://clerk.house.gov/evs/2022/roll420.xml) the Inflation Reduction Act, which allowed the government to negotiate lower prescription drug costs for Medicare recipients.
 -   Miller-Meeks [accepted](https://cbs2iowa.com/news/local/special-interest-money-dominates-iowas-us-house-races-favoring-republicans) a $1,000 donation from insulin manufacturer Eli Lilly the [same day](https://iowastartingline.com/2024/08/09/miller-meeks-pharma/) she voted against a bill that capped the price of insulin for seniors.
