@@ -2,30 +2,17 @@
 title: Mariannette Miller-Meeks
 description: 
 published: true
-date: 2026-01-28T15:22:58.007Z
+date: 2026-01-28T15:23:34.244Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:07:45.530Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-This video is an example of an ad or social video that one can create using the research below.
-  <br>
-<video>
-  Coming Soon
-</video>
-  <br>
-This video is not for public use on a campaign, and is purely here as an example.
-</details>
+**📺 - Click here for our Example Content Library** This video is an example of an ad or social video that one can create using the research below.
 
+This video is not for public use on a campaign, and is purely here as an
 
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
- COMING SOON!
-</details>
-
+**📺 - Click here for Notable Clips and Visuals** COMING SOON!
 
 # How To Win Against Mariannette Miller-Meeks
 
@@ -119,8 +106,6 @@ Miller-Meeks faced an ethics complaint over where her primary address was actual
 -    [![👀](/_assets/svg/twemoji/1f440.svg) *It Took Miller-Meeks 11 Months To Vote To Release The Epstein Files And She Did Only After Trump Gave Her Permission*](/en/mariannette-miller-meeks/mm-epstein)
 -    [![🏠](/_assets/svg/twemoji/1f3e0.svg) *Miller-Meeks Was Accused Of Voter Fraud*](/en/mariannette-miller-meeks/mm-voting)
 
-
 # Key Votes
 
 -    [![✅](/_assets/svg/twemoji/2705.svg) *Miller-Meeks' Key Votes As A Member Of Congress*](/en/mariannette-miller-meeks/mm-votes)
-
