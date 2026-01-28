@@ -2,17 +2,34 @@
 title: Mariannette Miller-Meeks
 description: 
 published: true
-date: 2026-01-28T21:04:52.561Z
+date: 2026-01-28T21:08:45.720Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:07:45.530Z
 ---
 
-**📺 - Click here for our Example Content Library** This video is an example of an ad or social video that one can create using the research below.
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+This video is an example of an ad or social video that one can create using the research below.
 
-This video is not for public use on a campaign, and is purely here as an
+<video
+  src="https://streamable.com/l/sv5uth/mp4-high.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+This video is not for public use on a campaign, and is purely here as an example.
+</details>
 
-**📺 - Click here for Notable Clips and Visuals** COMING SOON!
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</video>
+</details>
 
 # How To Win Against Mariannette Miller-Meeks
 
