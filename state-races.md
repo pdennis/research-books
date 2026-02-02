@@ -2,7 +2,7 @@
 title: State races
 description: 
 published: true
-date: 2026-02-02T16:35:49.939Z
+date: 2026-02-02T16:36:18.544Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T03:03:34.652Z
@@ -19,7 +19,7 @@ dateCreated: 2025-12-27T03:03:34.652Z
 -   [:corn: *Iowa*](/IA-Gov)
 -   [:ski: *New Hampshire*](/NH-Gov)
 -   [:ice_hockey: *Minnesota*](/MN-Gov)
--   [:snowflake: *Maine*](/ME-GOV)
+-   [:lobster: *Maine*](/ME-GOV)
 -   [:heart: *Virginia*](/virginia-state)
 
 {.links-list}
