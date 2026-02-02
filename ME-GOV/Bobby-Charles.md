@@ -1,8 +1,8 @@
 ---
 title: Robert "Bobby" Charles
 description: 
-published: false
-date: 2026-01-27T21:25:59.293Z
+published: true
+date: 2026-02-02T16:23:53.799Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
