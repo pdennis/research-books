@@ -2,7 +2,7 @@
 title: Scott Perry
 description: 
 published: true
-date: 2026-02-05T15:20:44.795Z
+date: 2026-02-05T15:24:42.114Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:50:30.919Z
@@ -56,7 +56,7 @@ This video is not for public use on a campaign, and is purely here as an example
   style="width:560px;max-width:100%;height:auto;border-radius:8px;">
 </video>
 
-[**For more videos from Scott Perry check out our playlist**](https://www.youtube.com/playlist?list=PLWuvMonaruUit_wE5uq3dHflpbs_7BDYO) 
+[**Click here to check out more videos from Scott Perry.**](https://www.youtube.com/playlist?list=PLWuvMonaruUit_wE5uq3dHflpbs_7BDYO)
   
 
 </details>
