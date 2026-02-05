@@ -2,7 +2,7 @@
 title: Randy Feenstra
 description: 
 published: true
-date: 2026-02-05T23:03:24.775Z
+date: 2026-02-05T23:05:09.178Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:43:18.333Z
@@ -112,6 +112,7 @@ Randy Feenstra built his career claiming to fight for Iowan families but voted t
 - [:apple: | **Randy Feenstra Cast Votes To Cut SNAP Benefits From Iowa Families**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-food)
 - [:x: | **Randy Feenstra Won't Defend Iowans’ Jobs Or Social Security From Trump**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-doge)
 - [:mechanic: | **Randy Feenstra Voted Against Protecting Iowa’s Clean Energy Jobs**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-cleanenergy)
+- [:corn: | **Randy Feenstra Failed Farmers And Failed To Pass Year-Round E15 In Congress**](/IA-Gov/randy-feenstra/feenstra-e15)
 - [:woman: | **Randy Feenstra Was An Anti-Abortion Extremist**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-abortion)
 {.links-list}
 
