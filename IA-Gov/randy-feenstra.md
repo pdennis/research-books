@@ -2,7 +2,7 @@
 title: Randy Feenstra
 description: 
 published: true
-date: 2026-01-23T16:47:39.458Z
+date: 2026-02-05T23:03:24.775Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:43:18.333Z
@@ -72,6 +72,11 @@ Randy Feenstra built his career claiming to fight for Iowan families but voted t
 
 **Message:** Randy Feenstra voted to kill job opportunities for Iowans to give tax cuts to billionaires.   
  
+ ### FEENSTRA FAILED FARMERS AND FAILED TO PASS YEAR-ROUND E15 IN CONGRESS
+ 
+- While Randy Feenstra [claimed](https://x.com/RepFeenstra/status/2014400584250483198) to be the “strongest voice” for farmers, he [failed](https://www.politico.com/live-updates/2026/01/27/congress/trump-reaffirms-ethanol-support-calls-on-congress-to-finalize-deal-00750857) Iowa farmers and failed to include [year-round E15](https://thehill.com/policy/energy-environment/5701330-ethanol-gas-e15/) in a federal funding package. Even though Feenstra [said](https://www.agweb.com/markets/pro-farmer-analysis/ethanols-record-breaking-start-2026#:~:text=(Farm%20Journal)-,The%20first%20full%20week%20of%202026%20marked%20another%20record%20for,Energy%20Information%20Administration%20said%20Wednesday.) that year-round E15 legislation could be included in a mini-omnibus appropriations package in late January 2026, Feenstra [voted](http://clerk.house.gov/evs/2026/roll045.xml) for a federal spending package that created an [E15 Rural Domestic Energy Council](https://www.eenews.net/articles/ethanol-allies-stumble-again-in-congress/) in lieu of meaningful legislation to enact year-round E15. Despite his failure to include year-round E15 in the spending package, Feenstra [praised](https://x.com/RepFeenstra/status/2014413362998792430?s=20) Republican leadership, even as the National Corn Growers Association called the decision [“weak and offensive.”](https://plus.cq.com/doc/news-8392082?12) The Iowa Corn Growers Association And Iowa Renewable Fuels Association released a [study](https://www.desmoinesregister.com/story/money/agriculture/2026/01/28/trump-iowa-visit-e15-deal-support/88377012007/) that highlighted Iowa farmers’ greater need for year-round E15 to maintain pace with increased corn yields. Without year-round E15, the Iowa Corn Growers Association And Iowa Renewable Fuels Association [warned](https://www.desmoinesregister.com/story/money/agriculture/2026/01/22/iowa-needs-corn-ethanol-demand-avoid-deep-losses/88263068007/) the gap between U.S. production of corn and demand would widen and could lead to a farm crisis by 2034. 
+
+**Message:** Randy Feenstra praised GOP leadership even as he failed Iowa farmers and failed to to pass year-round E15 in Congress, settling for a council instead of helping farmers.
 
 ### Feenstra Was An Anti-Abortion Extremist
 
