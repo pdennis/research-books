@@ -2,7 +2,7 @@
 title: Scott Perry
 description: 
 published: true
-date: 2025-12-27T04:19:22.830Z
+date: 2026-02-05T15:20:44.795Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:50:30.919Z
@@ -27,7 +27,38 @@ This video is not for public use on a campaign, and is purely here as an example
 <details>
 <summary><strong>📺 - Click here for Notable Clips and Visuals
   </strong></summary>
-COMING SOON!!
+
+**Scott Perry Called For The Repeal Of The ACA:** "We all knew that we wanted to repeal Obamacare, and I want to repeal Obamacare because it is bad law."[Debate, 10/18/2018]
+<video
+  src="https://streamable.com/l/ms0r27/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+
+**Scott Perry Tells Voters He's Open To Raising The Social Security Retirement Age:** "It might be part of the compromise."[Debate, 10/8/2024]
+<video
+  src="https://streamable.com/l/vmm17v/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+**Scott Perry Reminds Voters He Tried To Repeal The ACA:** "Well, we tried, if you remember, in the first term, right? I was there when you said, you know, right before Obama left office, we passed a repeal of Obamacare. Right? And if you remember, when we came in with President Trump, it was in the first 45 days of his administration." [Newsmax: Carl Higbie, 11/4/2025]
+<video
+  src="https://streamable.com/l/cmk5p5/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+[**For more videos from Scott Perry check out our playlist**](https://www.youtube.com/playlist?list=PLWuvMonaruUit_wE5uq3dHflpbs_7BDYO) 
+  
+
 </details>
 
 # **How To Win Against Scott Perry**
