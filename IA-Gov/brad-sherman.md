@@ -2,7 +2,7 @@
 title: Brad Sherman
 description: 
 published: true
-date: 2026-02-06T15:58:07.457Z
+date: 2026-02-06T16:00:48.823Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:18:03.664Z
@@ -61,7 +61,7 @@ Brad Sherman built a record in Iowa of supporting policies that would have raise
 
 -   Brad Sherman was an out-of-touch anti-abortion extremist who branded himself as the “[most pro-life](https://x.com/ShermanForIowa/status/1978173187054563341?s=20)” candidate in the Iowa gubernatorial race. He [pledged he would not waver in opposing abortion](https://web.archive.org/web/2/https:/shermanforiowa.com/issues/) and [opposed](https://www.facebook.com/photo/?fbid=10205146044708141&set=pb.1155398034.-2207520000) reproductive rights.
 -   In 2023, Sherman voted for a [restrictive six-week abortion ban](https://www.legis.iowa.gov/docs/publications/HJNL/20230711_HJNL.pdf#page=7) in Iowa. Brad Sherman dismissed abortion as unrelated to reproductive rights and [promoted abstinence-only views](https://www.youtube.com/watch?v=ZCBH5LsRlj4), arguing people should simply refrain from having sex.
--   Brad Sherman helped [create and lead anti-abortion groups](https://web.archive.org/web/20250712165024/https:/shermanforiowa.com/), including an anti-abortion [crisis pregnancy center](https://littlevillagemag.com/crisis-pregnancy-centers-iowa-peddle-phony-care/), and aligned his campaign with prominent [anti-abortion](https://www.facebook.com/shermanforiowa/posts/pfbid02uM6cxMyB8M5TpBFdhNMTd3RZfU338sAzmwff4gdCAxPMtgUfChnHRyejo9VYgNT5l?rdid=5anSdGTiifpJEGHw#) [organizations](https://www.facebook.com/carole.sherman.9/posts/pfbid0een9Ck2n6ByqojeyDUpR1PjMYLrWGZbwJxgKdZt91im1ve6re7CHew9oUGKcR7jTl?rdid=ctFABy6JETOar08t).
+-   Brad Sherman helped [create and led anti-abortion groups](https://web.archive.org/web/20250712165024/https:/shermanforiowa.com/), including an anti-abortion [crisis pregnancy center](https://littlevillagemag.com/crisis-pregnancy-centers-iowa-peddle-phony-care/), and aligned his campaign with prominent [anti-abortion](https://www.facebook.com/shermanforiowa/posts/pfbid02uM6cxMyB8M5TpBFdhNMTd3RZfU338sAzmwff4gdCAxPMtgUfChnHRyejo9VYgNT5l?rdid=5anSdGTiifpJEGHw#) [organizations](https://www.facebook.com/carole.sherman.9/posts/pfbid0een9Ck2n6ByqojeyDUpR1PjMYLrWGZbwJxgKdZt91im1ve6re7CHew9oUGKcR7jTl?rdid=ctFABy6JETOar08t).
 
 **Message:** Brad Sherman threatened the reproductive freedoms of Iowans.  
  
