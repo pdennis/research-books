@@ -2,7 +2,7 @@
 title: Brad Sherman
 description: 
 published: true
-date: 2026-02-06T16:06:31.525Z
+date: 2026-02-06T16:28:10.320Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:18:03.664Z
@@ -87,7 +87,7 @@ Brad Sherman built a record in Iowa of supporting policies that would have raise
   
 ### **Brad Sherman Was An Anti-Vaccine Extremist**
 
--   Brad Sherman campaigned on [“medical freedom”](https://www.desmoinesregister.com/story/news/politics/2025/02/17/republican-brad-sherman-to-run-for-iowa-governor-against-incumbent-kim-reynolds-gop/78963619007/) and sowed distrust in public health initiatives and vaccines, accusing the “medical establishment” of [“tyranny”](https://web.archive.org/web/20251218140147/https:/shermanforiowa.com/issues/) during the COVID-19 pandemic. Sherman promoted [misinformation](https://www.press-citizen.com/story/news/politics/elections/2022/10/26/iowa-house-district-91-election-2022-williamsburg-republican-brad-sherman-democrat-elle-wyant/69525913007/) about the COVID-19 vaccine, and he compared public health efforts during the pandemic to the Holocaust and forced medical experiments in Nazi Germany. He [opposed](https://www.press-citizen.com/story/news/politics/elections/2022/10/26/iowa-house-district-91-election-2022-williamsburg-republican-brad-sherman-democrat-elle-wyant/69525913007/) all vaccine requirements, and received the [endorsement](https://www.facebook.com/standforhealthfreedom/posts/pfbid02jZwXu9mnrb8TbijuBZkyKgCBE3bio2JaJ7YTCBbYZGztvQzHeZVsJs77k6r18nJvl) of the anti-vaccine organization [Stand for Health Freedom](https://www.pbs.org/newshour/health/anti-science-bills-hit-statehouses-attacking-longstanding-public-health-protections) during his 2022 campaign for the Iowa House.
+-   Brad Sherman campaigned on [“medical freedom”](https://www.desmoinesregister.com/story/news/politics/2025/02/17/republican-brad-sherman-to-run-for-iowa-governor-against-incumbent-kim-reynolds-gop/78963619007/) and sowed distrust in public health initiatives and vaccines, accusing the “medical establishment” of [“tyranny”](https://web.archive.org/web/20251218140147/https:/shermanforiowa.com/issues/) during the COVID-19 pandemic. Sherman promoted [misinformation](https://www.press-citizen.com/story/news/politics/elections/2022/10/26/iowa-house-district-91-election-2022-williamsburg-republican-brad-sherman-democrat-elle-wyant/69525913007/) about the COVID-19 vaccine, and he compared public health efforts during the pandemic to the Holocaust and forced medical experiments in Nazi Germany. He [opposed](https://www.press-citizen.com/story/news/politics/elections/2022/10/26/iowa-house-district-91-election-2022-williamsburg-republican-brad-sherman-democrat-elle-wyant/69525913007/) all vaccine requirements, and received the [endorsement](https://www.facebook.com/standforhealthfreedom/posts/pfbid02jZwXu9mnrb8TbijuBZkyKgCBE3bio2JaJ7YTCBbYZGztvQzHeZVsJs77k6r18nJvl) of the anti-vaccine organization [Stand for Health Freedom](https://www.pbs.org/newshour/health/anti-science-bills-hit-statehouses-attacking-longstanding-public-health-protections) during his 2022 campaign for the Iowa House. In 2026, Brad Sherman [Signed A Pledge](https://x.com/AmerHlthFreedom/status/2016323449963282631?s=20) With Americans for Health Freedom To [Oppose COVID Vaccines](https://web.archive.org/web/20251001202727/https:/www.americansforhealthfreedom.org/sign-the-pledge).
 
 **Message:** Brad Sherman threatened the public health of Iowans.
 
