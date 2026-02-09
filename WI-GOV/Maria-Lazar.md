@@ -2,13 +2,23 @@
 title: Maria Lazar
 description: 
 published: false
-date: 2026-02-09T16:31:33.306Z
+date: 2026-02-09T16:38:08.611Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-09T16:11:55.869Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against Maria Lazar
 
@@ -57,14 +67,12 @@ Maria Lazar, conservative candidate for the Wisconsin Supreme Court and [Federal
 
 ## Maria Lazar’s Actions As An Attorney And Judge Have Hurt Everyday People
 
-[Lazar Threatened Reproductive Rights In Wisconsin](https://research-books.com/en/WI-GOV/Maria-Lazar/lazar-abortion)
-
-[Lazar Litigated Against Collective Bargaining Rights For Wisconsin Public Workers](https://research-books.com/en/WI-GOV/Maria-Lazar/lazar-act10)
-
-[Lazar Defended Republican Gerrymandering But Accused Democrats Of Playing “Political Games”](https://research-books.com/en/WI-GOV/Maria-Lazar/lazar-redistricting)
+- [:woman: Lazar Threatened Reproductive Rights In Wisconsin](https://research-books.com/en/WI-GOV/Maria-Lazar/lazar-abortion)
+- [:construction_worker: Lazar Litigated Against Collective Bargaining Rights For Wisconsin Public Workers](https://research-books.com/en/WI-GOV/Maria-Lazar/lazar-act10)
+- [:ballot_box: Lazar Defended Republican Gerrymandering But Accused Democrats Of Playing “Political Games”](https://research-books.com/en/WI-GOV/Maria-Lazar/lazar-redistricting)
+{.links-list}
 
 ## Maria Lazar Used Her Judicial Power To Benefit The Powerful
-
-[Lazar Gave A Lesser Sentence To A Former Federal Agent Convicted of Sexual Assault](https://research-books.com/en/WI-GOV/Maria-Lazar/lazar-scharlat-sentencing)
-
-[Lazar Ruled In Favor Of Releasing Sensitive Voter Data To Election Deniers](https://research-books.com/en/WI-GOV/Maria-Lazar/lazar-voter-data)
+- [⚖️ Lazar Gave A Lesser Sentence To A Former Federal Agent Convicted of Sexual Assault](https://research-books.com/en/WI-GOV/Maria-Lazar/lazar-scharlat-sentencing)
+- [:sos: Lazar Ruled In Favor Of Releasing Sensitive Voter Data To Election Deniers](https://research-books.com/en/WI-GOV/Maria-Lazar/lazar-voter-data)
+{.links-list}
