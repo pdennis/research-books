@@ -2,7 +2,7 @@
 title: David Schweikert
 description: 
 published: true
-date: 2026-01-21T16:36:28.302Z
+date: 2026-02-10T21:35:16.704Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:01:35.784Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against David Schweikert
 
-David Schweikert is unfit to represent Arizona. He voted to kick more than 342,000 Arizonans off their health coverage, for massive cuts to Medicare, and to make food more expensive with his support of the One Big Beautiful Bill Act. Even before that, he proposed imposing per capita caps on Medicaid, which could result in benefit cuts. Then he dismissed Arizonans’ concerns as “whining” and “bedwetting.” Schweikert cast the deciding vote to protect Trump’s tariffs and has dismissed the harm they were causing to Arizonans. Schweikert was “genuinely impressed” with DOGE cuts that gutted Social Security and fired Arizona workers. He’s an anti-choice extremist who has made disparaging comments about women. Schweikert, who in the past has said he doesn’t think the government should have secrets outside of national security matters, cast the deciding vote to protect accused pedophiles named in the Epstein files, before later voting to release the files after Trump gave House Republicans permission. He was officially reprimanded by the House Ethics Committee for 11 violations and his campaign paid a six-figure federal fine.
+David Schweikert is unfit to represent Arizona. He voted to kick more than 342,000 Arizonans off their health coverage, for massive cuts to Medicare, and to make food more expensive with his support of the One Big Beautiful Bill Act. Even before that, he proposed imposing per capita caps on Medicaid, which could result in benefit cuts. Then he dismissed Arizonans’ concerns as “whining” and “bedwetting.” Schweikert cast the deciding vote to protect Trump’s tariffs and has dismissed the harm they were causing to Arizonans. Schweikert was “genuinely impressed” with DOGE cuts that gutted Social Security and fired Arizona workers. Schweikert also failed farmers and failed to pass year-round E15 in Congress, voting for a council instead of actually helping Arizona farmers. He’s an anti-choice extremist who has made disparaging comments about women. Schweikert, who in the past has said he doesn’t think the government should have secrets outside of national security matters, cast the deciding vote to protect accused pedophiles named in the Epstein files, before later voting to release the files after Trump gave House Republicans permission. He was officially reprimanded by the House Ethics Committee for 11 violations and his campaign paid a six-figure federal fine.
 
 ### Schweikert To Arizonans: Stop “Whining” About My Support For Health Cuts 
 
@@ -71,6 +71,12 @@ David Schweikert is unfit to represent Arizona. He voted to kick more than 342,0
 
 **Message:** Schweikert voted to kill job opportunities for Arizonans to give tax cuts to billionaires. 
 
+### David Schweikert Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15
+
+- In January 2026, David Schweikert failed Arizona farmers and [voted](http://clerk.house.gov/evs/2026/roll041.xml) to advance a federal funding package, effectively voting to create an [E15 Rural Domestic Energy Council](https://www.eenews.net/articles/ethanol-allies-stumble-again-in-congress/) in lieu of meaningful legislation to enact [year-round E15.](https://thehill.com/policy/energy-environment/5701330-ethanol-gas-e15/) The National Corn Growers Association called the decision [“weak and offensive”](https://plus.cq.com/doc/news-8392082?12) and warned it would neglect [500,000 American corn farmers.](https://ncga.com/stay-informed/media/in-the-news/article/2026/01/corn-growers-furious-with-new-development-on-e15) The Renewable Fuels Association [emphasized](https://westernagnetwork.com/corn-growers-furious-with-new-development-on-e15) the critical need of year-round E15 to support hard-hit farmers and lower gas prices. The biofuel trade group Growth Energy [noted](https://westernagnetwork.com/corn-growers-furious-with-new-development-on-e15) that failure to pass year-round E15 would “lead to farmers missing out on a critical market during the worst farm crisis in 40 years.” In 2023, Growth Energy [lauded](https://growthenergy.org/2023/03/03/growth-energy-cheers-arizona-rule-expanding-e15-markets/) the Arizona Department of Agriculture for implementing a rule that would expand the sale of E15 in the greater Phoenix area and allow Arizona to take “advantage of lower-cost, lower-carbon E15 blends.”
+
+**Message:** David Schweikert failed Arizona farmers and effectively voted for an E15 Rural Domestic Energy Council instead of passing year-round E15.
+
 ### Schweikert’s Abortion Extremism And Contempt For Women  
 
 -   Schweikert was a perennial co-sponsor of the Life at Conception Act ([2011](https://www.congress.gov/bill/112th-congress/house-bill/374/cosponsors), [2013](https://www.congress.gov/bill/113th-congress/house-bill/1091/cosponsors), [2015](https://www.congress.gov/bill/114th-congress/house-bill/816/cosponsors), [2017](https://www.congress.gov/bill/115th-congress/house-bill/681/cosponsors), [2019](https://www.congress.gov/bill/116th-congress/house-bill/616/cosponsors), [2021](https://www.congress.gov/bill/117th-congress/house-bill/1011/cosponsors)), which sought to establish fetal personhood—a national ban with no exceptions for rape, incest, or life of the patient. Legal analysts warned it threatened IVF as well.
@@ -99,26 +105,27 @@ David Schweikert is unfit to represent Arizona. He voted to kick more than 342,0
 
 ## David Schweikert’s Policies Have Hurt Everyday People
 
-- [:hospital: *Schweikert Supported Efforts To Cut Medicaid And Threaten Arizona's Access To Health Care*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-medicaid)
-- [:older_man: *Schweikert Voted For Medicare Cuts*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-medicare)
-- [:pill: *Schweikert Repeatedly Voted Against Allowing Medicare To Negotiate Prescription Drug Prices*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-drug-prices)
-- [:shopping_cart: *Schweikert Backed Trump’s Tariffs, Endangering Arizona’s Economy*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-tariffs)
-- [:apple: *Schweikert Cast Votes To Cut SNAP Benefits From Arizona Families*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-snap)
-- [:x: *Schweikert Won’t Protect Arizona Jobs Or Social Security From Trump*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-doge) 
-- [:mechanic: *Schweikert Voted Against Protecting Arizona’s Clean Energy Jobs*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-clean-energy)
-- [:woman: *Schweikert Was An Anti-Abortion Extremist*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-abortion)
+- [:hospital: Schweikert Supported Efforts To Cut Medicaid And Threaten Arizona's Access To Health Care](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-medicaid)
+- [:older_man: Schweikert Voted For Medicare Cuts](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-medicare)
+- [:pill: Schweikert Repeatedly Voted Against Allowing Medicare To Negotiate Prescription Drug Prices](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-drug-prices)
+- [:shopping_cart: Schweikert Backed Trump’s Tariffs, Endangering Arizona’s Economy](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-tariffs)
+- [:apple: Schweikert Cast Votes To Cut SNAP Benefits From Arizona Families](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-snap)
+- [:x: Schweikert Won’t Protect Arizona Jobs Or Social Security From Trump](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-doge) 
+- [:mechanic: Schweikert Voted Against Protecting Arizona’s Clean Energy Jobs](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-clean-energy)
+- [:corn: David Schweikert Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15](/AZ-Gov/david-schweikert/schweikert-E15)
+- [:woman: Schweikert Was An Anti-Abortion Extremist](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-abortion)
 
 {.links-list}
 
 ## David Schweikert Used His Power To Benefit The Powerful And Himself  
 
-- [:eyes: *Schweikert Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-epstein)
-- [:moneybag: *Schweikert Embodied The Swamp By Violating House Ethics And Campaign Finance Rules*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-ethics)  
+- [:eyes: Schweikert Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-epstein)
+- [:moneybag: Schweikert Embodied The Swamp By Violating House Ethics And Campaign Finance Rules](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-ethics)  
 
 {.links-list}
 
 # Key Votes
 
-- [:white_check_mark: *Schweikert's Votes As A Member Of Congress*](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-key-votes)
+- [:white_check_mark: Schweikert's Votes As A Member Of Congress](https://research-books.com/en/AZ-Gov/david-schweikert/schweikert-key-votes)
 
 {.links-list}
