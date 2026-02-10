@@ -2,23 +2,13 @@
 title: Maria Lazar
 description: 
 published: true
-date: 2026-02-09T21:05:27.539Z
+date: 2026-02-10T14:21:59.919Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-09T16:11:55.869Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
 
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Maria Lazar
 
