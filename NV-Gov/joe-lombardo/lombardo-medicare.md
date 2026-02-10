@@ -2,7 +2,7 @@
 title: Joe Lombardo On Medicare
 description: 
 published: true
-date: 2026-02-10T18:46:53.651Z
+date: 2026-02-10T19:00:57.601Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T21:50:57.130Z
@@ -10,7 +10,7 @@ dateCreated: 2025-12-10T21:50:57.130Z
 
 ## Overview
 
-In 2025, Lombardo [supported](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) the [Republicans’ reconciliation bill](https://www.congress.gov/votes/house/119-1/190) that the Congressional Budget Office estimated would trigger nearly [$500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare. 
+In 2025, Lombardo [supported](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) the [Republicans’ reconciliation bill](https://www.congress.gov/votes/house/119-1/190) that the Congressional Budget Office estimated would trigger [$500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare. 
 
 Lombardo said [“Nevadans should be excited”](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) about the passing of the bill, and dismissed concerns about its impacts as [“bickering.”](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20)
 
