@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-02-06T18:01:29.074Z
+date: 2026-02-10T20:20:38.966Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -97,6 +97,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 - [:apple: **Tiffany Cast Votes To Cut SNAP Benefits From Wisconsin Families**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Food)
 - [:x: **Tiffany Won't Defend Wisconsin Jobs Or Social Security From Trump**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-DOGE)
 - [:mechanic: **Tiffany Voted Against Protecting Wisconsin’s Clean Energy Jobs**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-CleanEnergy)
+- [:corn: **Tiffany Failed Wisconsin Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-E15)
 - [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Abortion)
 
 {.links-list}
