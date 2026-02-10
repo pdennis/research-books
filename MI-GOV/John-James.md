@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-01-23T16:24:22.241Z
+date: 2026-02-10T20:44:38.289Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against John James
 
-John James voted to cut services and raise costs on Michiganders. He voted to kick more than 424,000 Michiganders off their health insurance, slash Medicare by $500 billion, and make it harder for Michigan families to buy food. John James cast the deciding vote to protect Trump’s tariffs, crushing small businesses and raising grocery prices. John James stood by while Trump fired Michigan workers and gutted Social Security. John James voted to repeal clean energy tax credits that supported Michigan jobs and threatened reproductive freedoms with his extreme anti-abortion agenda. Even after voting against releasing the Epstein files, he only supported their release once Trump approved it. John James repeatedly faced ethics complaints for allegedly using official resources to benefit his campaign and hiding financial dealings.  
+John James voted to cut services and raise costs on Michiganders. He voted to kick more than 424,000 Michiganders off their health insurance, slash Medicare by $500 billion, and make it harder for Michigan families to buy food. John James cast the deciding vote to protect Trump’s tariffs, crushing small businesses and raising grocery prices. John James stood by while Trump fired Michigan workers and gutted Social Security. John James voted to repeal clean energy tax credits that supported Michigan jobs. James also failed farmers and failed to pass year-round E15 in Congress, voting for a council instead of actually helping Michigan farmers. He also threatened reproductive freedoms with his extreme anti-abortion agenda. Even after voting against releasing the Epstein files, he only supported their release once Trump approved it. John James repeatedly faced ethics complaints for allegedly using official resources to benefit his campaign and hiding financial dealings.  
  
 
 ###  John James Voted For Devastating Health Care Cuts
@@ -67,6 +67,13 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 **Message:** John James voted to kill job opportunities for Michigan to give tax cuts to billionaires.
 
+### John James Failed Michigan Farmers And Failed To Pass Year-Round E15 In Congress
+
+- Despite [claiming](https://x.com/JohnJamesMI/status/1943670439118586187) to support Michigan farmers, John James failed Michigan farmers and [failed](https://www.politico.com/live-updates/2026/01/27/congress/trump-reaffirms-ethanol-support-calls-on-congress-to-finalize-deal-00750857) to include [year-round E15](https://thehill.com/policy/energy-environment/5701330-ethanol-gas-e15/) in a federal funding package. In January 2026, James [voted](http://clerk.house.gov/evs/2026/roll045.xml) for a federal spending package that created an [E15 Rural Domestic Energy Council](https://www.eenews.net/articles/ethanol-allies-stumble-again-in-congress/) in lieu of meaningful legislation to enact year-round E15. The National Corn Growers Association called the decision [“weak and offensive.”](https://plus.cq.com/doc/news-8392082?12) and warned it would neglect [500,000 American corn farmers.](https://www.wisfarmer.com/story/news/2026/01/27/ag-briefs-climate-startup-wants-to-inject-liquid-manure-a-mile-deep/88324650007/) The Michigan Corn Growers Association [slammed](https://micorn.org/news-and-media/news/article/2026/01/michigan-corn-growers-deeply-disappointed-in-congressional-e15-decision) the vote as the U.S. House choosing to “kick the can down the road […] when we already have legislation that was crafted after months of negotiation.” The biofuel trade group Growth Energy [noted](https://westernagnetwork.com/corn-growers-furious-with-new-development-on-e15) that failure to pass year-round E15 would “lead to farmers missing out on a critical market during the worst farm crisis in 40 years.” The Renewable Fuels Association [emphasized](https://westernagnetwork.com/corn-growers-furious-with-new-development-on-e15) the critical need of year-round E15 to support hard-hit farmers and lower gas prices. 
+
+**Message:** John James failed Michigan farmers and failed to pass year-round E15 in Congress, voting for a council instead of helping farmers.
+
+
 ###  John James Was An Anti-Abortion Extremist
 
 -   John James was an anti-abortion extremist who declared he was “[100% pro-life](https://x.com/JohnJamesMI/status/994242564214620160)” and compared abortion to “[genocide](https://www.mlive.com/public-interest/2019/11/michigan-democrats-hit-john-james-for-anti-abortion-comments.html).”
@@ -100,6 +107,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 - [:apple: | **John James Cast Votes To Cut SNAP Benefits From Michigan Families**](https://research-books.com/en/MI-GOV/John-James/James-Food)
 - [:x: | **John James Won't Defend Michigan Jobs Or Social Security From Trump**](https://research-books.com/en/MI-GOV/John-James/James-doge)
 - [:mechanic: | **John James Voted Against Protecting Michigan’s Clean Energy Jobs**](https://research-books.com/en/MI-GOV/John-James/James-cleanenergy)
+- [:corn: | **John James Failed Michigan Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/MI-GOV/John-James/James-E15)
 - [:woman: | **John James Was An Anti-Abortion Extremist**](https://research-books.com/en/MI-GOV/John-James/James-abortion)
 {.links-list}
 
