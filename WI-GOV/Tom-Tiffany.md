@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-02-10T20:20:38.966Z
+date: 2026-02-10T20:24:34.349Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -66,6 +66,12 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 -   Tiffany had a long anti-environmental record. He had described the U.S. Environmental Protection Agency as [“radical,”](https://archive.jsonline.com/news/statepolitics/tom-tiffany-has-been-a-lightning-rod-on-environmental-issues-b99547320z1-320987941.html/)  earned a spot on the Wisconsin League of Conservation Voters’ [“dishonor roll,”](https://archive.jsonline.com/news/statepolitics/tom-tiffany-has-been-a-lightning-rod-on-environmental-issues-b99547320z1-320987941.html/) and worked to [weaken environmental protections](https://archive.jsonline.com/news/statepolitics/tom-tiffany-has-been-a-lightning-rod-on-environmental-issues-b99547320z1-320987941.html/) and strip local communities of their authority.
 
 **Message:** Tom Tiffany voted to kill job opportunities for Wisconsin to give tax cuts to billionaires.
+
+### Tiffany Failed Wisconsin Farmers And Failed To Pass Year-Round E15 In Congress
+
+- Tom Tiffany failed Wisconsin farmers and [failed](https://www.politico.com/live-updates/2026/01/27/congress/trump-reaffirms-ethanol-support-calls-on-congress-to-finalize-deal-00750857) to include [year-round E15](https://thehill.com/policy/energy-environment/5701330-ethanol-gas-e15/) in a federal funding package. In January 2026, Tiffany [voted](http://clerk.house.gov/evs/2026/roll045.xml) for a federal spending package that created an [E15 Rural Domestic Energy Council](https://www.eenews.net/articles/ethanol-allies-stumble-again-in-congress/) in lieu of meaningful legislation to enact year-round E15. The National Corn Growers Association called the decision [“weak and offensive.”](https://plus.cq.com/doc/news-8392082?12) and warned it would neglect [500,000 American corn farmers.](https://www.wisfarmer.com/story/news/2026/01/27/ag-briefs-climate-startup-wants-to-inject-liquid-manure-a-mile-deep/88324650007/) The biofuel trade group Growth Energy [noted](https://westernagnetwork.com/corn-growers-furious-with-new-development-on-e15) that failure to pass year-round E15 would “lead to farmers missing out on a critical market during the worst farm crisis in 40 years.” The Renewable Fuels Association [emphasized](https://westernagnetwork.com/corn-growers-furious-with-new-development-on-e15) the critical need of year-round E15 to support hard-hit farmers and lower gas prices. 
+
+**Message:** Tom Tiffany failed Wisconsin farmers and failed to pass year-round E15 in Congress, voting for a council instead of helping farmers.
 
 ### **Tiffany Was An Anti-Abortion Extremist**
 
