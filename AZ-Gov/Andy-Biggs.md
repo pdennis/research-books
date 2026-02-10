@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-01-21T17:14:04.762Z
+date: 2026-02-10T21:04:44.739Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -67,6 +67,12 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 **Message:** Biggs voted to kill job opportunities for Arizonans to give tax cuts to billionaires. 
 
+### Biggs Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15
+
+- Despite claiming to support and [“protect”](https://x.com/RepAndyBiggsAZ/status/2017403717444657614) the livelihoods of Arizona farmers, Andy Biggs failed Arizona farmers in advancing legislation that failed to address the critical need for [year-round E15.](https://www.politico.com/live-updates/2026/01/27/congress/trump-reaffirms-ethanol-support-calls-on-congress-to-finalize-deal-00750857) In January 2026, Biggs [voted](http://clerk.house.gov/evs/2026/roll041.xml) to advance a federal funding package, effectively voting to create an [E15 Rural Domestic Energy Council](https://www.eenews.net/articles/ethanol-allies-stumble-again-in-congress/) in lieu of meaningful legislation to enact [year-round E15.](https://thehill.com/policy/energy-environment/5701330-ethanol-gas-e15/) The National Corn Growers Association called the decision [“weak and offensive”](https://plus.cq.com/doc/news-8392082?12) and warned it would neglect [500,000 American corn farmers.](https://ncga.com/stay-informed/media/in-the-news/article/2026/01/corn-growers-furious-with-new-development-on-e15) The Renewable Fuels Association [emphasized](https://westernagnetwork.com/corn-growers-furious-with-new-development-on-e15) the critical need of year-round E15 to support hard-hit farmers and lower gas prices. The biofuel trade group Growth Energy [noted](https://westernagnetwork.com/corn-growers-furious-with-new-development-on-e15) that failure to pass year-round E15 would “lead to farmers missing out on a critical market during the worst farm crisis in 40 years.” In 2023, Growth Energy [lauded](https://growthenergy.org/2023/03/03/growth-energy-cheers-arizona-rule-expanding-e15-markets/) the Arizona Department of Agriculture for implementing a rule that would expand the sale of E15 in the greater Phoenix area and allow Arizona to take “advantage of lower-cost, lower-carbon E15 blends.”
+
+**Message:** Andy Biggs failed Arizona farmers and effectively voted for an E15 Rural Domestic Energy Council instead of passing year-round E15.
+
 ### **BIGGS WAS AN ANTI-ABORTION EXTREMIST**
 
 - Andy Biggs was an out-of-touch anti-abortion extremist, who [said](https://soundcloud.com/abpac/andy-biggs-todd-starnes-show-9321/s-XoQ0Qy0Zpxu?si=7ac130d39f5a40dd988b2d422702b1a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) he could not support anyone who backed abortion rights.
@@ -98,22 +104,23 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 # Issue Back-Ups
 
 ## Andy Biggs' Policies Have Hurt Everyday People
-- [:hospital: *Biggs Supported Efforts To Cut Medicaid And Threaten Arizonans' Access To Health Care*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-medicaid)
-- [:older_man: *Biggs Voted For Medicare Cuts*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-medicare) 
-- [:shopping_cart: *Biggs Backed Trump's Tariffs, Endangering Arizona's Economy*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-tariffs) 
-- [:apple: *Biggs Cast Votes To Cut SNAP Benefits From Arizona Families*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-snap) 
-- [:x: *Biggs Won't Defend Arizonans’ Jobs Or Social Security From Trump*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-doge) 
-- [:mechanic: *Biggs Voted Against Protecting Arizonans' Clean Energy Jobs*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-cleanenergy) 
-- [:woman: *Biggs Was An Anti-Abortion Extremist*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-abortion) 
+- [:hospital: Biggs Supported Efforts To Cut Medicaid And Threaten Arizonans' Access To Health Care](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-medicaid)
+- [:older_man: Biggs Voted For Medicare Cuts](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-medicare) 
+- [:shopping_cart: Biggs Backed Trump's Tariffs, Endangering Arizona's Economy](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-tariffs) 
+- [:apple: Biggs Cast Votes To Cut SNAP Benefits From Arizona Families](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-snap) 
+- [:x: Biggs Won't Defend Arizonans’ Jobs Or Social Security From Trump](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-doge) 
+- [:mechanic: Biggs Voted Against Protecting Arizonans' Clean Energy Jobs](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-cleanenergy) 
+- [:corn:  Biggs Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15](https://research-books.com/en/AZ-Gov/Andy-Biggs/Biggs-E15)
+- [:woman: Biggs Was An Anti-Abortion Extremist](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-abortion) 
 
 
 {.links-list}
 
 ## Andy Biggs Used His Power To Benefit The Powerful 
-- [:hammer: *Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-osha)
-- [:eyes:  *Biggs Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-epstein)
+- [:hammer: Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-osha)
+- [:eyes:  Biggs Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-epstein)
 {.links-list}
 
 # Key Votes
-- [:white_check_mark:  *Biggs' Key Votes As A Member Of Congress*](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-votes)
+- [:white_check_mark:  Biggs' Key Votes As A Member Of Congress](https://research-books.com/en/AZ-Gov/Andy-Biggs/biggs-votes)
 {.links-list}
