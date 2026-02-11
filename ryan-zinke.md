@@ -2,7 +2,7 @@
 title: Ryan Zinke
 description: 
 published: true
-date: 2025-12-27T04:19:18.292Z
+date: 2026-02-11T15:42:18.684Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:37:41.810Z
@@ -78,7 +78,7 @@ Ryan Zinke [_resigned_](https://www.washingtonpost.com/national/health-science/i
 
 - [:hospital: *Zinke's Repeated Attacks On Montanans' Health Care*](https://research-books.com/en/ryan-zinke/zinke-healthcare)
 - [:older_man: *Zinke Voted For Massive Cuts To Medicare*](https://research-books.com/en/ryan-zinke/zinke-medicare)
-- [:shopping_cart: *Zinke Defended Trump's Tariffs Despite Admitted They Caused Inflation*](https://research-books.com/en/ryan-zinke/zinke-tariffs)
+- [:shopping_cart: *Zinke Defended Trump's Tariffs Despite Admitting They Caused Inflation*](https://research-books.com/en/ryan-zinke/zinke-tariffs)
 - [:x: *Zinke Defended Attacks On Social Security And Montana Workers*](https://research-books.com/en/ryan-zinke/zinke-social-security)
 {.links-list}
 
