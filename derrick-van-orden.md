@@ -2,7 +2,7 @@
 title: Derrick Van Orden
 description: 
 published: true
-date: 2025-12-27T04:16:29.891Z
+date: 2026-02-12T21:43:33.709Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:38:08.830Z
@@ -23,7 +23,7 @@ Derrick Van Orden has been a headache for the district. He backed ripping health
 ### **VAN ORDEN WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS THAT WERE CRUSHING WISCONSIN FARMERS**
 
 -   Despite acknowledging that tariffs were [_“going to be painful”_](https://www.youtube.com/watch?v=8SmeIwEkBYo) for Wisconsinites, Van Orden not only [_defended_](https://www.wizmnews.com/2025/05/22/rep-van-orden-speaks-on-snap-vote-and-how-farmers-could-benefit-from-tariffs/) the tariffs, but [_threatened_](https://www.youtube.com/watch?v=8SmeIwEkBYo) other countries and told them to get in line with the trade war or Trump would destroy them. He even [_taunted_](https://www.wispolitics.com/2025/baldwin-calls-trump-tariffs-bad-news-while-gop-house-members-express-support/) a Canadian premier after he announced retaliatory tariffs on the U.S.
--   Then, he voted four times to protect the tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Wisconsin families who relied on him to a [_trade war_](https://wisconsinagconnection.com/news/wisconsin-soybean-farmers-hit-hard-by-new-us-tariffs?utm_source=chatgpt.com) and rising prices. Tariffs are contributing to [_higher food prices_](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and [_causing_](https://barnraisingmedia.com/farmer-cost-of-trump-tariffs-wisconsin/) [_problems_](https://www.wisn.com/article/a-whole-lot-of-uncertainty-tariffs-take-a-toll-on-wisconsin-farmers/64425479) for Wisconsin farmers.
+-   Then, he voted six times to protect the tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Wisconsin families who relied on him to a [_trade war_](https://wisconsinagconnection.com/news/wisconsin-soybean-farmers-hit-hard-by-new-us-tariffs?utm_source=chatgpt.com) and rising prices. Tariffs are contributing to [_higher food prices_](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and [_causing_](https://barnraisingmedia.com/farmer-cost-of-trump-tariffs-wisconsin/) [_problems_](https://www.wisn.com/article/a-whole-lot-of-uncertainty-tariffs-take-a-toll-on-wisconsin-farmers/64425479) for Wisconsin farmers.
 -   As a result of Trump’s trade war, China had [_stopped buying Americans soybeans_](https://www.nytimes.com/2025/09/15/business/china-us-soybeans-farming.html) and instead [_started buying them from Brazil_](https://www.reuters.com/world/china/us-misses-out-billions-dollars-china-soybean-sales-midway-through-peak-season-2025-09-10/). China had previously been the [_biggest buyer_](https://www.wsj.com/world/china/the-american-farmers-china-is-using-as-a-trade-war-bargaining-chip-134c2cda?gaa_at=eafs&gaa_n=ASWzDAim6K_ctW7ArWM9H6fc_WMa3BuzkmnO1jk_Gc3V0CbMeWyyd1kdeiVJGKHZ73M%3D&gaa_ts=68cc4400&gaa_sig=a7zuiQ_nXRNWx5AM9EsmgKrpRrZEa7Quu2sP9yd5RR5WSyKuJld_wSYsuOip6gkZwbwixDT4bJjsGn-_hMlecQ%3D%3D) of American soybeans.
 
 **Message:** Van Orden has been toasting trade wars while Wisconsin farmers pick up the tab.   
