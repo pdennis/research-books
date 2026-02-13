@@ -2,7 +2,7 @@
 title: Juan Ciscomani
 description: 
 published: true
-date: 2026-02-13T16:55:07.438Z
+date: 2026-02-13T16:56:05.619Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:40:44.781Z
@@ -26,7 +26,7 @@ Ciscomani pretended to be an independent voice for Arizona, but he was just anot
 
 ### ciscomani defended trump’s tariffs that were crushing arizonans
 
--   Ciscomani voted four times to protect Trump’s tariffs, including in April when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs from being repealed by Congress, dooming Arizonans who relied on him to a trade war and rising prices. Tariffs were contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), hurting [Tucson businesses](https://www.kold.com/2025/04/10/tucson-area-business-reacts-90-day-pause-tariffs/), and were [devastating to farmers](https://www.abc15.com/news/state/it-could-break-us-valley-farmer-says-chinese-tariffs-have-crushed-the-alfalfa-export-market). 
+-   Ciscomani voted six times to protect Trump’s tariffs, including in April when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs from being repealed by Congress, dooming Arizonans who relied on him to a trade war and rising prices. Tariffs were contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), hurting [Tucson businesses](https://www.kold.com/2025/04/10/tucson-area-business-reacts-90-day-pause-tariffs/), and were [devastating to farmers](https://www.abc15.com/news/state/it-could-break-us-valley-farmer-says-chinese-tariffs-have-crushed-the-alfalfa-export-market). 
 -   Ciscomani defended the tariffs, claiming people needed to [trust Trump with economic decisions](https://www.gvnews.com/free_access/q-a-ciscomani-looks-at-trumps-first-four-weeks/article_9150683a-f008-11ef-bb2f-abdfeb76f9dd.html), but later admitted that tariffs in the long-term would be [“very detrimental to Arizona.”](https://www.youtube.com/watch?v=4SMn7PWtz_k)
 
 **Message:** Ciscomani was the deciding vote to protect tariffs that were raising prices on Arizona families. 
