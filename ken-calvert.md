@@ -2,7 +2,7 @@
 title: Ken Calvert
 description: 
 published: true
-date: 2026-02-13T16:52:55.622Z
+date: 2026-02-13T16:54:34.734Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T16:19:00.451Z
@@ -33,7 +33,7 @@ Enough is enough. It’s been 30 years, and all Calvert has delivered for Southe
 
 ### Calvert Defended Trump's Tariffs Even Though They Were Raising Costs on Southern Californians
 
--   Calvert [has](https://x.com/KenCalvert/status/1908255329022074901) [defended](https://www.dailynews.com/2025/11/07/house-members-weigh-in-on-trumps-tariffs/) Trump’s tariffs and voted four times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Southern California families who relied on him to a [trade war](https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-small-business-nyc-prices) and [rising prices](https://spectrumlocalnews.com/nys/central-ny/politics/2025/08/12/n-y--businesses-brace-for-impacts-of-u-s--tariffs). Tariffs were contributing to [higher food costs](https://www.theguardian.com/us-news/2025/oct/19/trump-tariffs-us-consumers), [higher costs for California businesses](https://www.axios.com/2025/07/03/trump-tariffs-states-cost), and [endangering jobs](https://www.latimes.com/business/story/2025-04-22/tariffs-impact-trade-industry-southern-california). 
+-   Calvert [has](https://x.com/KenCalvert/status/1908255329022074901) [defended](https://www.dailynews.com/2025/11/07/house-members-weigh-in-on-trumps-tariffs/) Trump’s tariffs and voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Southern California families who relied on him to a [trade war](https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-small-business-nyc-prices) and [rising prices](https://spectrumlocalnews.com/nys/central-ny/politics/2025/08/12/n-y--businesses-brace-for-impacts-of-u-s--tariffs). Tariffs were contributing to [higher food costs](https://www.theguardian.com/us-news/2025/oct/19/trump-tariffs-us-consumers), [higher costs for California businesses](https://www.axios.com/2025/07/03/trump-tariffs-states-cost), and [endangering jobs](https://www.latimes.com/business/story/2025-04-22/tariffs-impact-trade-industry-southern-california). 
 
 **Message:** Calvert was fine with Southern California families paying more in groceries if it means doing what Trump wants. 
 
