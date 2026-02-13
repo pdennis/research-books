@@ -2,7 +2,7 @@
 title: Rob Bresnahan
 description: 
 published: true
-date: 2026-01-27T15:48:12.588Z
+date: 2026-02-13T22:07:21.380Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:34:16.924Z
@@ -31,7 +31,7 @@ Rob Bresnahan sold a blue-collar brand but governs like just another rich guy wh
 
 ### Bresnahan Sided with Trump’s Tariffs Over Pennsylvanians
 
--   Bresnahan told Pennsylvania businesses that were concerned about Trump’s tariffs to [“rip the Band-Aid off” and “persevere.”](https://www.standardspeaker.com/2025/04/04/congressmen-meuser-bresnahan-talk-tariffs-taxes/) Then he voted three times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Pennsylvania families who relied on him to a trade war and [rising prices](https://www.wnep.com/article/news/local/lackawanna-county/impact-of-new-tariffs-on-clothing-industry-scranton-lackawanna-county/523-68b0e9c4-b454-479e-be8d-7790544f0bd8). Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), sparked concern at a [local school district](https://www.standardspeaker.com/2025/04/14/hazleton-area-seeks-to-buy-3500-computers-before-tariffs-add-to-cost/), and Pennsylvania businesses are [warning](https://6abc.com/post/trump-tariffs-small-businesses-warn-price-hike-everyday-items-food-electronics-alcohol/17432575/) they may have to [raise prices](https://pennsylvaniaindependent.com/economy/what-trump-tariffs-mean-for-pennsylvania-breweries/). 
+-   Bresnahan told Pennsylvania businesses that were concerned about Trump’s tariffs to [“rip the Band-Aid off” and “persevere.”](https://www.standardspeaker.com/2025/04/04/congressmen-meuser-bresnahan-talk-tariffs-taxes/) Then he voted five times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Pennsylvania families who relied on him to a trade war and [rising prices](https://www.wnep.com/article/news/local/lackawanna-county/impact-of-new-tariffs-on-clothing-industry-scranton-lackawanna-county/523-68b0e9c4-b454-479e-be8d-7790544f0bd8). Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), sparked concern at a [local school district](https://www.standardspeaker.com/2025/04/14/hazleton-area-seeks-to-buy-3500-computers-before-tariffs-add-to-cost/), and Pennsylvania businesses are [warning](https://6abc.com/post/trump-tariffs-small-businesses-warn-price-hike-everyday-items-food-electronics-alcohol/17432575/) they may have to [raise prices](https://pennsylvaniaindependent.com/economy/what-trump-tariffs-mean-for-pennsylvania-breweries/). 
 
 Message: Bresnahan chose politics over affordable groceries and made NEPA families eat the cost. 
 
