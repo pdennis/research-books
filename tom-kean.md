@@ -2,7 +2,7 @@
 title: Tom Kean, Jr.
 description: 
 published: true
-date: 2025-12-27T04:19:50.140Z
+date: 2026-02-13T20:31:12.672Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T12:54:53.416Z
@@ -34,7 +34,7 @@ Multimillionaire Tom Kean, Jr. is a flip-flopper who will say and do anything to
 ### **Kean Was The Deciding Vote To Protect Trump's “Business-Busting” Tariffs**
 
 -   Kean believed it was [“very important”](https://newjerseyglobe.com/congress/mind-bogglingly-stupid-or-a-great-negotiator-n-j-delegation-tries-to-keep-up-with-trumps-tariff-rollercoaster/) for Trump to have done tariffs the way that he has and defended the use of tariffs as a [“great negotiating tool.”](https://soundcloud.com/abpac/tom-kean-jr-tele-town-hall-712025/s-utwoMpqzCPF?si=aec18e358d77473abaf453b33bf7eb9d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
--   Then, he voted four times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming New Jersey families who relied on him to a _trade war_ and rising prices. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and causing North Jersey businesses to [raise prices](https://www.northjersey.com/story/news/business/2025/06/04/nj-businesses-raised-prices-trump-tariffs/84027265007/), and were described by one New Jersey entrepreneur as [“business-busting.”](https://www.cbsnews.com/newyork/news/new-jersey-rinseroo-tariffs-lisa-lane/)
+-   Then, he voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming New Jersey families who relied on him to a _trade war_ and rising prices. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and causing North Jersey businesses to [raise prices](https://www.northjersey.com/story/news/business/2025/06/04/nj-businesses-raised-prices-trump-tariffs/84027265007/), and were described by one New Jersey entrepreneur as [“business-busting.”](https://www.cbsnews.com/newyork/news/new-jersey-rinseroo-tariffs-lisa-lane/)
 
 **Message:** Kean thinks Trump’s tariffs are a “great negotiating tool,” but they mean higher prices and harder times for New Jersey families and businesses.  
 
