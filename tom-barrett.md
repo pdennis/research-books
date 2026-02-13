@@ -2,7 +2,7 @@
 title: Tom Barrett
 description: 
 published: true
-date: 2025-12-27T04:19:45.917Z
+date: 2026-02-13T18:00:12.722Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:24:34.568Z
@@ -56,7 +56,7 @@ Tom Barrett’s record is out of step with Michiganders. In Congress, he voted t
 
 ### **BARRETT WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS**
 
--   Barrett [_promised_](https://www.lansingstatejournal.com/story/news/local/2025/04/07/tom-barrett-town-hall-meeting-congress/82983251007/) to protect Michigan farmers from the impact of Trump’s tariffs. Then he voted four times to protect the tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect tariffs from being repealed by Congress, dooming Michiganders who relied on him to a trade war and rising prices. Tariffs are contributing to [_higher food prices_](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and [_higher costs for small retailers_](https://www.freep.com/story/money/business/michigan/2025/05/23/how-tariffs-are-hurting-small-michigan-retailers/83743916007/), and are [_hurting Michigan farmers_](https://bridgemi.com/michigan-government/trade-war-drought-squeeze-michigan-farmers-heading-to-fall-harvest/).
+-   Barrett [_promised_](https://www.lansingstatejournal.com/story/news/local/2025/04/07/tom-barrett-town-hall-meeting-congress/82983251007/) to protect Michigan farmers from the impact of Trump’s tariffs. Then he voted six times to protect the tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect tariffs from being repealed by Congress, dooming Michiganders who relied on him to a trade war and rising prices. Tariffs are contributing to [_higher food prices_](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and [_higher costs for small retailers_](https://www.freep.com/story/money/business/michigan/2025/05/23/how-tariffs-are-hurting-small-michigan-retailers/83743916007/), and are [_hurting Michigan farmers_](https://bridgemi.com/michigan-government/trade-war-drought-squeeze-michigan-farmers-heading-to-fall-harvest/).
 
 **Message:** Higher prices and broken promises – Barrett chose Trump’s trade war over affordability for Michiganders.
 
