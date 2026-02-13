@@ -2,7 +2,7 @@
 title: Mike Lawler
 description: 
 published: true
-date: 2026-02-13T17:16:34.417Z
+date: 2026-02-13T17:39:47.786Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T16:30:11.819Z
@@ -93,7 +93,7 @@ Mike Lawler sells a moderate brand, but he is a far-right [_gaslighter_](https:/
 - [:salt: *Lawler Talked Tough on SALT, Then Came Up Short*](https://research-books.com/en/mike-lawler/lawler-salt)
 {.links-list}
 
-## Mike Lawler Used His Power To benefit Himself and the Powerful
+## Mike Lawler Used His Power To Benefit Himself And The Powerful
 
 - [:eyes: *It Took Lawler 11 Months To Vote To Release The Epstein Files And Did Only After Trump Gave Republicans Permission*](https://research-books.com/en/mike-lawler/lawler-epstein)
 - [:wastebasket: *Lawler Defended Wearing Blackface*](https://research-books.com/en/mike-lawler/lawler-blackface) 
