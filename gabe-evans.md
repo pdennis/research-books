@@ -2,7 +2,7 @@
 title: Gabe Evans
 description: 
 published: true
-date: 2026-01-16T16:23:59.463Z
+date: 2026-02-13T17:36:55.793Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:53:10.838Z
@@ -49,7 +49,7 @@ This video is not for public use on a campaign, and is purely here as an example
 
 ### **EVANS WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS**
 
--   Evans has voted four times to protect Trump’s tariffs, including in April when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs from being repealed by Congress, dooming Coloradans who relied on him to a trade war and rising prices. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and are hurting Colorado [small businesses](https://www.usnews.com/news/u-s-news-decision-points/articles/2025-08-21/how-tariffs-are-affecting-this-colorado-small-business-owner) and [construction companies](https://www.vaildaily.com/news/trump-tariffs-colorado-construction-materials/), which could [worsen housing affordability](https://coloradonewsline.com/2025/09/04/colorado-tariff-rate-rises-sevenfold/).
+-   Evans has voted six times to protect Trump’s tariffs, including in April when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs from being repealed by Congress, dooming Coloradans who relied on him to a trade war and rising prices. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and are hurting Colorado [small businesses](https://www.usnews.com/news/u-s-news-decision-points/articles/2025-08-21/how-tariffs-are-affecting-this-colorado-small-business-owner) and [construction companies](https://www.vaildaily.com/news/trump-tariffs-colorado-construction-materials/), which could [worsen housing affordability](https://coloradonewsline.com/2025/09/04/colorado-tariff-rate-rises-sevenfold/).
 -   Despite this, Evans has claimed that Trump’s tariffs will [“bring down the price of goods for all Americans.”](https://www.cpr.org/2025/04/03/what-colorado-lawmakers-think-of-trumps-tariffs/)
 
 **Message:** Evans was the deciding vote to crush Colorado small businesses and ensure Coloradans will pay more for groceries and housing. 
