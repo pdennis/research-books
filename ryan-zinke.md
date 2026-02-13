@@ -2,7 +2,7 @@
 title: Ryan Zinke
 description: 
 published: true
-date: 2026-02-11T15:42:18.684Z
+date: 2026-02-13T16:59:37.662Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:37:41.810Z
@@ -39,7 +39,7 @@ Zinke talks like a Montana independent, but he votes like a big city swamp creat
 
 ### **ZINKE ABANDONED MONTANA AND SAID THE TRADE WAR “HAD TO HAPPEN”**
 
--   Zinke defended Trump’s tariffs and claimed, [“the tariff war, it had to happen”](https://www.youtube.com/watch?v=PLFtbOFucJc) despite acknowledging they would [hit Montana harder than many states](https://www.mtpr.org/podcast/capitol-talk/2025-03-14/republicans-back-trump-cuts-and-tariffs-lawmakers-return-to-helena). He voted four times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Montanans who relied on him to a [trade war](https://dailyinterlake.com/news/2025/aug/01/montana-faces-outsized-economic-risks-from-tariffs-amid-national-economic-slowdown/) and rising prices.
+-   Zinke defended Trump’s tariffs and claimed, [“the tariff war, it had to happen”](https://www.youtube.com/watch?v=PLFtbOFucJc) despite acknowledging they would [hit Montana harder than many states](https://www.mtpr.org/podcast/capitol-talk/2025-03-14/republicans-back-trump-cuts-and-tariffs-lawmakers-return-to-helena). He voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Montanans who relied on him to a [trade war](https://dailyinterlake.com/news/2025/aug/01/montana-faces-outsized-economic-risks-from-tariffs-amid-national-economic-slowdown/) and rising prices.
 -   Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and [hurting Montana farmers](https://nbcmontana.com/news/local/montana-farmers-see-canadian-trade-dry-up-due-to-tariffs). Zinke even admitted that tariffs cause [“some degree of inflation.”](https://www.youtube.com/watch?v=coMN-YPmLsE)
 
 **Message:** Zinke, who admitted tariffs cause inflation, said higher food prices and harm caused to Montana farmers “had to happen.”
