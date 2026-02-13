@@ -2,7 +2,7 @@
 title: Zach Nunn
 description: 
 published: true
-date: 2025-12-27T04:20:20.323Z
+date: 2026-02-13T18:52:09.293Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T12:01:57.306Z
@@ -52,7 +52,7 @@ Nunn isn’t working for IA-03. He backed taking health care from thousands of I
 ### nunn was the deciding vote to protect trump’s tariffs
 
 -   Nunn has described Trump’s tariffs as [“winning”](https://www.desmoinesregister.com/story/news/politics/2025/04/25/zach-nunn-talks-taxes-tariffs-and-more-at-westside-conservatives-club/83231764007/) even though an Iowa economist warned [“we’re all going to be poorer.”](https://www.thegazette.com/article/iowa-state-economist-on-trump-tariff-policies-were-all-going-to-be-poorer/)
--   He voted four times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect tariffs from being repealed by Congress, dooming Iowans who relied on her to a [trade war](https://www.nytimes.com/2025/05/05/business/soy-farmers-struggle-with-trade-war.html) and rising prices. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), [higher costs for researchers](https://www.kcrg.com/2025/05/10/university-iowa-engineering-students-learn-firsthand-about-impacts-tariffs/), and [hurting Iowa farmers](https://www.iasoybeans.com/newsroom/article/us-soybean-farmers-sound-alarm-as-china-turns-to-brazil-amid-trade-standoff).
+-   He voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect tariffs from being repealed by Congress, dooming Iowans who relied on her to a [trade war](https://www.nytimes.com/2025/05/05/business/soy-farmers-struggle-with-trade-war.html) and rising prices. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), [higher costs for researchers](https://www.kcrg.com/2025/05/10/university-iowa-engineering-students-learn-firsthand-about-impacts-tariffs/), and [hurting Iowa farmers](https://www.iasoybeans.com/newsroom/article/us-soybean-farmers-sound-alarm-as-china-turns-to-brazil-amid-trade-standoff).
 
 **Message:** Higher prices, crops sitting in storage, lost income for farmers – Nunn chose Trump’s trade war over protecting affordability and Iowans’ livelihoods.
 
