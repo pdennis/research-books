@@ -2,7 +2,7 @@
 title: Scott Perry
 description: 
 published: true
-date: 2026-02-05T15:24:42.114Z
+date: 2026-02-13T22:12:59.809Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:50:30.919Z
@@ -87,7 +87,7 @@ Scott Perry is out of step with Harrisburg–York–Cumberland. He spent his clo
 
 ### **PERRY WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS**
 
--   Perry [_defended_](https://www.pennlive.com/news/2025/04/us-rep-scott-perry-voices-support-for-trump-tariffs.html) Trump’s tariffs and claimed they would make American industries [_“come back”_](https://www.pennlive.com/news/2025/04/us-rep-scott-perry-voices-support-for-trump-tariffs.html) despite admitting that they would also hurt [_Pennsylvania businesses_](https://www.pennlive.com/news/2025/04/rep-perry-admits-tariffs-might-make-the-sweetest-place-on-earth-a-bit-bitter.html). Then, he voted four times to protect the tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Pennsylvania families who relied on him to a [_trade war_](https://www.washingtonpost.com/politics/2025/05/06/trump-tariffs-layofffs-voters-pennsylvania/) and [_rising prices_](https://theburgnews.com/around-the-burg/harrisburg-area-businesses-ponder-impact-of-tariffs-which-are-likely-to-raise-costs-spark-tough-decisions). Tariffs are contributing to [_higher food prices_](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and Pennsylvania businesses were [_warning_](https://6abc.com/post/trump-tariffs-small-businesses-warn-price-hike-everyday-items-food-electronics-alcohol/17432575/) they may have to [_raise prices_](https://www.fox43.com/article/money/tariffs-pa/521-a2fbcea6-28e6-4f4e-aeb0-69e30526c227).
+-   Perry [_defended_](https://www.pennlive.com/news/2025/04/us-rep-scott-perry-voices-support-for-trump-tariffs.html) Trump’s tariffs and claimed they would make American industries [_“come back”_](https://www.pennlive.com/news/2025/04/us-rep-scott-perry-voices-support-for-trump-tariffs.html) despite admitting that they would also hurt [_Pennsylvania businesses_](https://www.pennlive.com/news/2025/04/rep-perry-admits-tariffs-might-make-the-sweetest-place-on-earth-a-bit-bitter.html). Then, he voted six times to protect the tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Pennsylvania families who relied on him to a [_trade war_](https://www.washingtonpost.com/politics/2025/05/06/trump-tariffs-layofffs-voters-pennsylvania/) and [_rising prices_](https://theburgnews.com/around-the-burg/harrisburg-area-businesses-ponder-impact-of-tariffs-which-are-likely-to-raise-costs-spark-tough-decisions). Tariffs are contributing to [_higher food prices_](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and Pennsylvania businesses were [_warning_](https://6abc.com/post/trump-tariffs-small-businesses-warn-price-hike-everyday-items-food-electronics-alcohol/17432575/) they may have to [_raise prices_](https://www.fox43.com/article/money/tariffs-pa/521-a2fbcea6-28e6-4f4e-aeb0-69e30526c227).
 
 **Message:** Higher grocery and equipment prices for Pennsylvanians, political theater for Scotty Perry.
 
