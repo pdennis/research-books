@@ -2,7 +2,7 @@
 title: Eli Crane
 description: 
 published: true
-date: 2026-01-06T23:06:05.863Z
+date: 2026-02-13T20:49:57.903Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T18:31:22.740Z
@@ -32,7 +32,7 @@ Eli Crane is out-of-touch with his constituents because he doesn’t live in the
 
 ### Crane Was The Deciding Vote To Protect Trump’s Tariffs That Were Making Life More Expensive For Arizonans 
 
--   Despite the negative impact on Arizonans, Crane [defended](https://x.com/EliCrane_CEO/status/1906739364240978298) Trump’s tariffs. Crane voted four times to protect Trump’s tariffs, despite the pain the tariffs were bringing to Arizonans. In April 2025, he was even the [deciding vote](https://clerk.house.gov/evs/2025/roll094.xml) to protect them. Tariffs were contributing to higher food prices, were [hurting](https://www.azfamily.com/2025/05/02/phoenix-toy-store-bracing-trumps-china-tariffs-impact-pricing-supply/) Arizona [businesses](https://www.kgun9.com/news/community-inspired-journalism/eastside-news/tucson-toy-and-game-stores-brace-for-uncertainty-amid-tariffs) and [farmers](https://www.abc15.com/news/state/it-could-break-us-valley-farmer-says-chinese-tariffs-have-crushed-the-alfalfa-export-market), and could [increase car insurance rates](https://www.axios.com/local/phoenix/2025/08/07/arizona-car-insurance-rates-tariffs).
+-   Despite the negative impact on Arizonans, Crane [defended](https://x.com/EliCrane_CEO/status/1906739364240978298) Trump’s tariffs. Crane voted six times to protect Trump’s tariffs, despite the pain the tariffs were bringing to Arizonans. In April 2025, he was even the [deciding vote](https://clerk.house.gov/evs/2025/roll094.xml) to protect them. Tariffs were contributing to higher food prices, were [hurting](https://www.azfamily.com/2025/05/02/phoenix-toy-store-bracing-trumps-china-tariffs-impact-pricing-supply/) Arizona [businesses](https://www.kgun9.com/news/community-inspired-journalism/eastside-news/tucson-toy-and-game-stores-brace-for-uncertainty-amid-tariffs) and [farmers](https://www.abc15.com/news/state/it-could-break-us-valley-farmer-says-chinese-tariffs-have-crushed-the-alfalfa-export-market), and could [increase car insurance rates](https://www.axios.com/local/phoenix/2025/08/07/arizona-car-insurance-rates-tariffs).
 
 **Message:** Crane was the deciding vote to make Arizonans pay higher prices for necessities like groceries and car insurance.   
 
