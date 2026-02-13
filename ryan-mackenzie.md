@@ -2,7 +2,7 @@
 title: Ryan Mackenzie
 description: 
 published: true
-date: 2025-12-27T04:19:13.907Z
+date: 2026-02-13T19:12:56.412Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:23:44.035Z
@@ -34,7 +34,7 @@ Mackenzie is a MAGA-aligned partisan posing as a pragmatist. He backed ripping h
 
 ### **MACKENZIE WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS THAT LAID OFF PENNSYLVANIANS** 
 
--   Mackenzie [_defended_](https://www.lehighvalleynews.com/elections/u-s-rep-ryan-mackenzie-sticks-up-for-trump-musk-on-national-stage-in-cnn-town-hall) Trump’s tariffs and claimed they were a [good concept](https://www.youtube.com/watch?v=18u-Vsl365E). Then, he voted four times to protect the tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Pennsylvania families who relied on him to a [_trade war_](https://www.washingtonpost.com/politics/2025/05/06/trump-tariffs-layofffs-voters-pennsylvania/) and rising prices. Tariffs are contributing to [_higher food prices_](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and Pennsylvania businesses are [_warning_](https://6abc.com/post/trump-tariffs-small-businesses-warn-price-hike-everyday-items-food-electronics-alcohol/17432575/) they may have to [_raise prices_](https://pennsylvaniaindependent.com/economy/what-trump-tariffs-mean-for-pennsylvania-breweries/).
+-   Mackenzie [_defended_](https://www.lehighvalleynews.com/elections/u-s-rep-ryan-mackenzie-sticks-up-for-trump-musk-on-national-stage-in-cnn-town-hall) Trump’s tariffs and claimed they were a [good concept](https://www.youtube.com/watch?v=18u-Vsl365E). Then, he voted six times to protect the tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Pennsylvania families who relied on him to a [_trade war_](https://www.washingtonpost.com/politics/2025/05/06/trump-tariffs-layofffs-voters-pennsylvania/) and rising prices. Tariffs are contributing to [_higher food prices_](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and Pennsylvania businesses are [_warning_](https://6abc.com/post/trump-tariffs-small-businesses-warn-price-hike-everyday-items-food-electronics-alcohol/17432575/) they may have to [_raise prices_](https://pennsylvaniaindependent.com/economy/what-trump-tariffs-mean-for-pennsylvania-breweries/).
 -   When Mack Trucks announced that it would be [_laying off hundreds_](https://penncapital-star.com/briefs/mack-trucks-announces-layoffs-at-lehigh-valley-plant-blames-tariffs/) of workers at its Lehigh Valley operations center as a result of the tariffs, instead of standing up to Trump and calling to stop the tariffs, Mackenzie [_criticized_](https://www.lehighvalleynews.com/business/mack-trucks-to-lay-off-hundreds-of-lehigh-valley-workers-state-representative-says) the company that was struggling from the uncertainty of Trump’s policies.
 
 **Message:** Mackenzie left Pennsylvanians behind as Trump’s tariffs took their jobs and made groceries more expensive.  
