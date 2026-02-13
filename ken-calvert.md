@@ -2,95 +2,65 @@
 title: Ken Calvert
 description: 
 published: true
-date: 2026-02-13T16:48:37.312Z
+date: 2026-02-13T16:51:37.613Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T16:19:00.451Z
 ---
 
-# How To Win Against Ken Calvert
-
-Enough is enough. It’s been 30 years, and all Calvert has delivered for Southern Californians is health care cuts, higher costs, and threats to their benefits, all while he’s lined his own pockets.
-
-### Calvert Broke His Promise And Voted To Take Health Coverage From Southern Californians
-
--   Calvert promised he was “committed to protecting Medicaid benefits for Americans who rely on the program.” Then, he [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that would kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including [nearly 12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off of Medicaid. [More than two million Californians](https://laborcenter.berkeley.edu/medi-cal-enrollment-by-district-and-county-2024/) who lived in Orange and Riversides counties relied on Medicaid for health insurance.
--   Calvert has [attacked](https://www.latimes.com/politics/la-pol-ca-congress-gop-obamacare-20170309-story.html) Californians’ access to affordable health insurance before. In 2017, he [voted](https://www.ocregister.com/2017/05/04/house-gop-health-care-bill-passes/) for House Republicans’ plan to repeal the Affordable Care Act (ACA) and he [defended](https://www.pressenterprise.com/2017/06/22/what-the-senate-gop-health-care-bill-would-do-to-california/) the Senate Republican bill that sought to repeal the ACA. [Nearly two million Californians](https://www.kff.org/affordable-care-act/state-indicator/total-marketplace-enrollment/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) were enrolled in ACA marketplace plans.
-
-**Message:** Calvert promised to protect Southern Californians’ health coverage, then voted to gut it to give tax breaks to billionaires.
-
-### Calvert Voted For Massive Medicare Cuts
-
--   Calvert [voted](http://clerk.house.gov/evs/2025/roll145.xml) for a bill that the Congressional Budget Office estimated would result in [nearly $500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare, absent future congressional action. Then, he [lied](https://www.desertsun.com/story/opinion/contributors/valley-voice/2025/07/24/rep-ken-calvert-tax-relief-on-the-way-for-coachella-valley-taxpayers-opinion/85364413007/) to his constituents and claimed the bill did not contain Medicare cuts and that protecting seniors’ benefits was one of his top priorities.
-
-**Message:** Calvert voted to cut health care services Southern California seniors rely on, all to give billionaires tax breaks.
-
-### Calvert Voted To Cut Food Assistance Southern California Families Rely On To Afford Groceries
-
--   Calvert [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). [Nearly 10 percent of Orange County residents and more than 13 percent of Riverside County residents](https://www.nbclosangeles.com/news/local/map-snap-benefits-california-la-county/3799122/) relied on SNAP to afford groceries.
-
-**Message:** Calvert voted to cut food assistance Southern Californians relied on to afford groceries, all to give tax cuts to billionaires.
-
-### Calvert Defended Trump's Tariffs Even Though They Were Raising Costs on Southern Californians
-
--   Calvert [has](https://x.com/KenCalvert/status/1908255329022074901) [defended](https://www.dailynews.com/2025/11/07/house-members-weigh-in-on-trumps-tariffs/) Trump’s tariffs and voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Southern California families who relied on him to a [trade war](https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-small-business-nyc-prices) and [rising prices](https://spectrumlocalnews.com/nys/central-ny/politics/2025/08/12/n-y--businesses-brace-for-impacts-of-u-s--tariffs). Tariffs were contributing to [higher food costs](https://www.theguardian.com/us-news/2025/oct/19/trump-tariffs-us-consumers), [higher costs for California businesses](https://www.axios.com/2025/07/03/trump-tariffs-states-cost), and [endangering jobs](https://www.latimes.com/business/story/2025-04-22/tariffs-impact-trade-industry-southern-california).
-
-**Message:** Calvert was fine with Southern California families paying more in groceries if it means doing what Trump wants.
-
-### Calvert Defended DOGE As It Attacked Social Security
-
--   Calvert was so supportive of Trump’s “Department of Government Efficiency” that he wrote an [entire op-ed](https://www.ocregister.com/2025/02/12/ken-calvert-doge-is-doing-what-must-be-done-to-protect-taxpayers/) defending the effort. Calvert also provided a flippant response to constituents at his office who were protesting DOGE, saying, [“it’s just another day in paradise.”](https://www.politico.com/news/2025/02/24/house-republicans-protests-00205892) He did this as DOGE-driven cuts and downsizing were [affecting](https://www.axios.com/2025/04/08/social-security-seniors-drive) the [federal government’s](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) ability to [deliver services](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) to seniors.
-
-**Message:** While Calvert wrote op-eds and made jokes the services Southern California seniors rely on came under attack.
-
-### It Took Calvert 11 Months To Vote To Release The Epstein Files And He Did Only After Trump Gave Republicans Permission
-
--   In November 2025, after 11 months, Calvert finally [voted](http://clerk.house.gov/evs/2025/roll289.xml) to release the Epstein files, but only after [Donald Trump gave House Republicans permission](https://truthsocial.com/@realDonaldTrump/posts/115562626931599548) to do so. Previously, Calvert had [cast the deciding vote](http://clerk.house.gov/evs/2025/roll194.xml) against [releasing the Epstein files](https://www.axios.com/2025/07/15/epstein-house-democrats-republicans-trump-doj), protecting the accused pedophiles named within them. Calvert also never [signed](https://clerk.house.gov/DischargePetition/2025090209) the discharge petition that called for their release and he never [co-sponsored](https://www.congress.gov/bill/119th-congress/house-resolution/581/cosponsors?pageSort=alphaByParty) Reps. Thomas Massie and Ro Khanna’s resolution calling for their release.
-
-**Message:** It took Calvert 11 months to vote to release the Epstein files and he did only after Trump gave House Republicans permission to do so.
-
-### Calvert Has Consistently Prioritized His Own Pocketbook Over Southern California
-
--   Throughout his time in Congress, Calvert has become infamous for [prioritizing himself](https://www.washingtonpost.com/investigations/2012/01/12/gIQA97HGvQ_story.html) over Southern California. 20 years ago he [came under scrutiny](https://www.latimes.com/archives/la-xpm-2006-may-15-na-calvert15-story.html) for requesting earmarks and advocating for federal funding that was near his real estate holdings. Just last year, Calvert came under scrutiny for doing the [exact same thing](https://www.latimes.com/politics/story/2024-07-22/ken-calvert-earmarks-riverside-county).
-
-**Message:** Calvert doesn’t care about you, he only cares about himself.
-
-# Issue Backups
-
-## Ken Calvert's Policies Hurt Everyday Californians
-
-## Ken Calvert Used His Power To Benefit Himself and The Powerful
-
-# Votes
-
-![✅](/_assets/svg/twemoji/2705.svg)
-
--   [*Calvert's Key Votes In Congress*](/en/ken-calvert/calvert-votes)
-
-![👀](/_assets/svg/twemoji/1f440.svg)
-
--   [*It Took Calvert 11 Months To Vote To Release The Epstein Files And He Did Only After Trump Gave Republicans Permission*](/en/ken-calvert/calvert-epstein)
-
-![🤑](/_assets/svg/twemoji/1f911.svg)
-
--   [*Calvert Was The King Of Earmarks That Benefited Himself*](/en/ken-calvert/calvert-earmarks)
-
-![❌](/_assets/svg/twemoji/274c.svg)
-
--   [*Calvert Defended Attacks On Social Security*](/en/ken-calvert/calvert-doge)
-
-![🛒](/_assets/svg/twemoji/1f6d2.svg)
-
--   [*Calvert Defended Trump's Tariffs That Hurt Southern Californians*](/en/ken-calvert/calvert-tariffs)
-
-![🥕](/_assets/svg/twemoji/1f955.svg)
-
--   [*Calvert Voted To Take Food Assistance From Southern Californians*](/en/ken-calvert/calvert-SNAP)
-
-![👴](/_assets/svg/twemoji/1f474.svg)
-
--   [*Calvert Voted To Make Massive Cuts To Medicare*](/en/ken-calvert/calvert-medicare)
-
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
-
--   [*Calvert Voted To Take Health Coverage From Southern Californians*](/en/ken-calvert/calvert-medicaid)
+<h1 id="how-to-win-against-ken-calvert" class="toc-header"> How To Win Against Ken Calvert</h1>
+<p>Enough is enough. It’s been 30 years, and all Calvert has delivered for Southern Californians is health care cuts, higher costs, and threats to their benefits, all while he’s lined his own pockets.</p>
+<h3 id="calvert-broke-his-promise-and-voted-to-take-health-coverage-from-southern-californians" class="toc-header"> Calvert Broke His Promise And Voted To Take Health Coverage From Southern Californians</h3>
+<ul>
+<li>Calvert promised he was “committed to protecting Medicaid benefits for Americans who rely on the program.” Then, he <a href="http://clerk.house.gov/evs/2025/roll190.xml" class="is-external-link">voted</a> for a bill that would kick&nbsp;<a href="https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/" class="is-external-link">17 million Americans</a> off their health insurance, including&nbsp;<a href="https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/" class="is-external-link">nearly 12 million Americans</a> off of Medicaid. <a href="https://laborcenter.berkeley.edu/medi-cal-enrollment-by-district-and-county-2024/" class="is-external-link">More than two million Californians</a> who lived in Orange and Riversides counties relied on Medicaid for health insurance.</li>
+<li>Calvert has <a href="https://www.latimes.com/politics/la-pol-ca-congress-gop-obamacare-20170309-story.html" class="is-external-link">attacked</a> Californians’ access to affordable health insurance before. In 2017, he <a href="https://www.ocregister.com/2017/05/04/house-gop-health-care-bill-passes/" class="is-external-link">voted</a> for House Republicans’ plan to repeal the Affordable Care Act (ACA) and he <a href="https://www.pressenterprise.com/2017/06/22/what-the-senate-gop-health-care-bill-would-do-to-california/" class="is-external-link">defended</a> the Senate Republican bill that sought to repeal the ACA. <a href="https://www.kff.org/affordable-care-act/state-indicator/total-marketplace-enrollment/?currentTimeframe=0&amp;sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D" class="is-external-link">Nearly two million Californians</a> were enrolled in ACA marketplace plans.</li>
+</ul>
+<p><strong>Message:</strong> Calvert promised to protect Southern Californians’ health coverage, then voted to gut it to give tax breaks to billionaires.</p>
+<h3 id="calvert-voted-for-massive-medicare-cuts" class="toc-header"> Calvert Voted For Massive Medicare Cuts</h3>
+<ul>
+<li>Calvert <a href="http://clerk.house.gov/evs/2025/roll145.xml" class="is-external-link">voted</a> for a bill that the Congressional Budget Office estimated would result in <a href="https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/" class="is-external-link">nearly $500 billion</a> in cuts to Medicare, absent future congressional action. Then, he <a href="https://www.desertsun.com/story/opinion/contributors/valley-voice/2025/07/24/rep-ken-calvert-tax-relief-on-the-way-for-coachella-valley-taxpayers-opinion/85364413007/" class="is-external-link">lied</a> to his constituents and claimed the bill did not contain Medicare cuts and that protecting seniors’ benefits was one of his top priorities.</li>
+</ul>
+<p><strong>Message:</strong> Calvert voted to cut health care services Southern California seniors rely on, all to give billionaires tax breaks.</p>
+<h3 id="calvert-voted-to-cut-food-assistance-southern-california-families-rely-on-to-afford-groceries" class="toc-header"> Calvert Voted To Cut Food Assistance Southern California Families Rely On To Afford Groceries</h3>
+<ul>
+<li>Calvert <a href="http://clerk.house.gov/evs/2025/roll190.xml" class="is-external-link">voted</a> for a bill that made the <a href="https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes" class="is-external-link">largest SNAP cut in history</a>. <a href="https://www.nbclosangeles.com/news/local/map-snap-benefits-california-la-county/3799122/" class="is-external-link">Nearly 10 percent of Orange County residents and more than 13 percent of Riverside County residents</a> relied on SNAP to afford groceries.</li>
+</ul>
+<p><strong>Message:</strong> Calvert voted to cut food assistance Southern Californians relied on to afford groceries, all to give tax cuts to billionaires.</p>
+<h3 id="calvert-defended-trumps-tariffs-even-though-they-were-raising-costs-on-southern-californians" class="toc-header"> Calvert Defended Trump's Tariffs Even Though They Were Raising Costs on Southern Californians</h3>
+<ul>
+<li>Calvert <a href="https://x.com/KenCalvert/status/1908255329022074901" class="is-external-link">has</a> <a href="https://www.dailynews.com/2025/11/07/house-members-weigh-in-on-trumps-tariffs/" class="is-external-link">defended</a> Trump’s tariffs and voted four times to protect the tariffs, including in April 2025 when he was the&nbsp;<a href="http://clerk.house.gov/evs/2025/roll094.xml" class="is-external-link">deciding vote</a> to protect them, dooming Southern California families who relied on him to a&nbsp;<a href="https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-small-business-nyc-prices" class="is-external-link">trade war</a> and&nbsp;<a href="https://spectrumlocalnews.com/nys/central-ny/politics/2025/08/12/n-y--businesses-brace-for-impacts-of-u-s--tariffs" class="is-external-link">rising prices</a>. Tariffs were contributing to <a href="https://www.theguardian.com/us-news/2025/oct/19/trump-tariffs-us-consumers" class="is-external-link">higher food costs</a>, <a href="https://www.axios.com/2025/07/03/trump-tariffs-states-cost" class="is-external-link">higher costs for California businesses</a>, and <a href="https://www.latimes.com/business/story/2025-04-22/tariffs-impact-trade-industry-southern-california" class="is-external-link">endangering jobs</a>.</li>
+</ul>
+<p><strong>Message:</strong> Calvert was fine with Southern California families paying more in groceries if it means doing what Trump wants.</p>
+<h3 id="calvert-defended-doge-as-it-attacked-social-security" class="toc-header"> Calvert Defended DOGE As It Attacked Social Security</h3>
+<ul>
+<li>Calvert was so supportive of Trump’s “Department of Government Efficiency” that he wrote an <a href="https://www.ocregister.com/2025/02/12/ken-calvert-doge-is-doing-what-must-be-done-to-protect-taxpayers/" class="is-external-link">entire op-ed</a> defending the effort. Calvert also provided a flippant response to constituents at his office who were protesting DOGE, saying, <a href="https://www.politico.com/news/2025/02/24/house-republicans-protests-00205892" class="is-external-link">“it’s just another day in paradise.”</a> He did this as DOGE-driven cuts and downsizing were&nbsp;<a href="https://www.axios.com/2025/04/08/social-security-seniors-drive" class="is-external-link">affecting</a> the&nbsp;<a href="https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/" class="is-external-link">federal government’s</a> ability to&nbsp;<a href="https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/" class="is-external-link">deliver services</a> to seniors.</li>
+</ul>
+<p><strong>Message:</strong> While Calvert wrote op-eds and made jokes the services Southern California seniors rely on came under attack.</p>
+<h3 id="it-took-calvert-11-months-to-vote-to-release-the-epstein-files-and-he-did-only-after-trump-gave-republicans-permission" class="toc-header"> It Took Calvert 11 Months To Vote To Release The Epstein Files And He Did Only After Trump Gave Republicans Permission</h3>
+<ul>
+<li>In November 2025, after 11 months, Calvert finally&nbsp;<a href="http://clerk.house.gov/evs/2025/roll289.xml" class="is-external-link">voted</a> to release the Epstein files, but only after&nbsp;<a href="https://truthsocial.com/@realDonaldTrump/posts/115562626931599548" class="is-external-link">Donald Trump gave House Republicans permission</a> to do so. Previously, Calvert had <a href="http://clerk.house.gov/evs/2025/roll194.xml" class="is-external-link">cast the deciding vote</a> against&nbsp;<a href="https://www.axios.com/2025/07/15/epstein-house-democrats-republicans-trump-doj" class="is-external-link">releasing the Epstein files</a>, protecting the accused pedophiles named within them. Calvert also never&nbsp;<a href="https://clerk.house.gov/DischargePetition/2025090209" class="is-external-link">signed</a> the discharge petition that called for their release and he never <a href="https://www.congress.gov/bill/119th-congress/house-resolution/581/cosponsors?pageSort=alphaByParty" class="is-external-link">co-sponsored</a> Reps. Thomas Massie and Ro Khanna’s resolution calling for their release.</li>
+</ul>
+<p><strong>Message:</strong> It took Calvert 11 months to vote to release the Epstein files and he did only after Trump gave House Republicans permission to do so.</p>
+<h3 id="calvert-has-consistently-prioritized-his-own-pocketbook-over-southern-california" class="toc-header"> Calvert Has Consistently Prioritized His Own Pocketbook Over Southern California</h3>
+<ul>
+<li>Throughout his time in Congress, Calvert has become infamous for <a href="https://www.washingtonpost.com/investigations/2012/01/12/gIQA97HGvQ_story.html" class="is-external-link">prioritizing himself</a> over Southern California. 20 years ago he <a href="https://www.latimes.com/archives/la-xpm-2006-may-15-na-calvert15-story.html" class="is-external-link">came under scrutiny</a> for requesting earmarks and advocating for federal funding that was near his real estate holdings. Just last year, Calvert came under scrutiny for doing the <a href="https://www.latimes.com/politics/story/2024-07-22/ken-calvert-earmarks-riverside-county" class="is-external-link">exact same thing</a>.</li>
+</ul>
+<p><strong>Message:</strong> Calvert doesn’t care about you, he only cares about himself.</p>
+<h1 id="issue-backups" class="toc-header"> Issue Backups</h1>
+<h2 id="ken-calverts-policies-hurt-everyday-californians" class="toc-header"> Ken Calvert's Policies Hurt Everyday Californians</h2>
+<ul class="links-list">
+<li><a href="/en/ken-calvert/calvert-medicaid" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🏥" src="/_assets/svg/twemoji/1f3e5.svg"> <em>Calvert Voted To Take Health Coverage From Southern Californians</em></a></li>
+<li><a href="/en/ken-calvert/calvert-medicare" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="👴" src="/_assets/svg/twemoji/1f474.svg"> <em>Calvert Voted To Make Massive Cuts To Medicare</em></a></li>
+<li><a href="/en/ken-calvert/calvert-SNAP" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🥕" src="/_assets/svg/twemoji/1f955.svg"> <em>Calvert Voted To Take Food Assistance From Southern Californians</em></a></li>
+<li><a href="/en/ken-calvert/calvert-tariffs" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🛒" src="/_assets/svg/twemoji/1f6d2.svg"> <em>Calvert Defended Trump's Tariffs That Hurt Southern Californians</em></a></li>
+<li><a href="/en/ken-calvert/calvert-doge" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="❌" src="/_assets/svg/twemoji/274c.svg"> <em>Calvert Defended Attacks On Social Security</em></a></li>
+</ul>
+<h2 id="ken-calvert-used-his-power-to-benefit-himself-and-the-powerful" class="toc-header"> Ken Calvert Used His Power To Benefit Himself and The Powerful</h2>
+<ul class="links-list">
+<li><a href="/en/ken-calvert/calvert-earmarks" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🤑" src="/_assets/svg/twemoji/1f911.svg"> <em>Calvert Was The King Of Earmarks That Benefited Himself</em></a></li>
+<li><a href="/en/ken-calvert/calvert-epstein" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="👀" src="/_assets/svg/twemoji/1f440.svg"> <em>It Took Calvert 11 Months To Vote To Release The Epstein Files And He Did Only After Trump Gave Republicans Permission</em></a></li>
+</ul>
+<h1 id="votes" class="toc-header"> Votes</h1>
+<ul class="links-list">
+<li><a href="/en/ken-calvert/calvert-votes" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="✅" src="/_assets/svg/twemoji/2705.svg"> <em>Calvert's Key Votes In Congress</em></a></li>
+</ul>
