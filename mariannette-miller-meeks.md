@@ -2,7 +2,7 @@
 title: Mariannette Miller-Meeks
 description: 
 published: true
-date: 2026-01-28T21:08:45.720Z
+date: 2026-02-13T18:37:37.517Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:07:45.530Z
@@ -67,7 +67,7 @@ Miller-Meeks was cozy with Big Pharma despite her [claims](https://www.newtondai
 
 ### **MILLER-MEEKS WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS**
 
--   Miller-Meeks [defended](https://www.foxnews.com/video/6368593360112) Trump’s tariffs even though an Iowa economist warned [“we’re all going to be poorer.”](https://www.thegazette.com/article/iowa-state-economist-on-trump-tariff-policies-were-all-going-to-be-poorer/) She voted four times to protect the tariffs, including in April 2025 when she was the deciding vote to protect tariffs from being repealed by Congress, dooming Iowans who relied on her to a [trade war](https://www.nytimes.com/2025/05/05/business/soy-farmers-struggle-with-trade-war.html) and rising prices. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), [higher costs for researchers](https://www.kcrg.com/2025/05/10/university-iowa-engineering-students-learn-firsthand-about-impacts-tariffs/), and were [hurting Iowa farmers](https://www.iasoybeans.com/newsroom/article/us-soybean-farmers-sound-alarm-as-china-turns-to-brazil-amid-trade-standoff).
+-   Miller-Meeks [defended](https://www.foxnews.com/video/6368593360112) Trump’s tariffs even though an Iowa economist warned [“we’re all going to be poorer.”](https://www.thegazette.com/article/iowa-state-economist-on-trump-tariff-policies-were-all-going-to-be-poorer/) She voted six times to protect the tariffs, including in April 2025 when she was the deciding vote to protect tariffs from being repealed by Congress, dooming Iowans who relied on her to a [trade war](https://www.nytimes.com/2025/05/05/business/soy-farmers-struggle-with-trade-war.html) and rising prices. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), [higher costs for researchers](https://www.kcrg.com/2025/05/10/university-iowa-engineering-students-learn-firsthand-about-impacts-tariffs/), and were [hurting Iowa farmers](https://www.iasoybeans.com/newsroom/article/us-soybean-farmers-sound-alarm-as-china-turns-to-brazil-amid-trade-standoff).
 -   As a result of Trump’s trade war, China had [stopped buying Americans soybeans](https://www.nytimes.com/2025/09/15/business/china-us-soybeans-farming.html) and instead [started buying them from Brazil](https://www.reuters.com/world/china/us-misses-out-billions-dollars-china-soybean-sales-midway-through-peak-season-2025-09-10/). China had previously been the [biggest buyer](https://www.wsj.com/world/china/the-american-farmers-china-is-using-as-a-trade-war-bargaining-chip-134c2cda?gaa_at=eafs&gaa_n=ASWzDAim6K_ctW7ArWM9H6fc_WMa3BuzkmnO1jk_Gc3V0CbMeWyyd1kdeiVJGKHZ73M%3D&gaa_ts=68cc4400&gaa_sig=a7zuiQ_nXRNWx5AM9EsmgKrpRrZEa7Quu2sP9yd5RR5WSyKuJld_wSYsuOip6gkZwbwixDT4bJjsGn-_hMlecQ%3D%3D) of American soybeans.
 
 **Message:** Higher prices, crops sitting in storage, lost income for farmers – Miller-Meeks chose Trump’s trade war over protecting affordability and Iowans’ livelihoods.
