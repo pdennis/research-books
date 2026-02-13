@@ -2,7 +2,7 @@
 title: Jen Kiggans
 description: 
 published: true
-date: 2025-12-27T04:17:20.468Z
+date: 2026-02-13T22:17:39.593Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T13:36:07.734Z
@@ -38,7 +38,7 @@ Jen Kiggans is the biggest threat to her constituents well-being and quality of 
 
 ### Kiggans Was The Deciding Vote To Protect Trump's Tariffs
 
--   Kiggans [defended](https://www.youtube.com/shorts/I4pV8J5aTLk) [Trump’s tariffs](https://www.youtube.com/shorts/bkmhDQtwk-w) and [claimed](https://www.youtube.com/watch?v=dAushBLgMaE) [“the direction of the country is a good one.”](https://www.youtube.com/shorts/m2MUvxgC8kI) Then, she voted four times to protect the tariffs, including in April 2025 when she was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Virginia families who relied on her to a trade war and [rising prices](https://www.pilotonline.com/2025/05/06/trade-war-in-va/). Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), could [raise car insurance rates](https://www.axios.com/local/richmond/2025/08/11/virginia-car-insurance-rates-tariffs), and [caused layoffs in Virginia](https://vadogwood.com/2025/04/22/trumps-tariffs-blamed-for-volvo-layoffs-in-southwest-virginia/). 
+-   Kiggans [defended](https://www.youtube.com/shorts/I4pV8J5aTLk) [Trump’s tariffs](https://www.youtube.com/shorts/bkmhDQtwk-w) and [claimed](https://www.youtube.com/watch?v=dAushBLgMaE) [“the direction of the country is a good one.”](https://www.youtube.com/shorts/m2MUvxgC8kI) Then, she voted six times to protect the tariffs, including in April 2025 when she was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Virginia families who relied on her to a trade war and [rising prices](https://www.pilotonline.com/2025/05/06/trade-war-in-va/). Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), could [raise car insurance rates](https://www.axios.com/local/richmond/2025/08/11/virginia-car-insurance-rates-tariffs), and [caused layoffs in Virginia](https://vadogwood.com/2025/04/22/trumps-tariffs-blamed-for-volvo-layoffs-in-southwest-virginia/). 
 
 **Message:** Kiggans thought Virginians getting laid off and paying higher prices meant the country was going in a good direction.
 
