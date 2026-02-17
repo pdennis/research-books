@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-02-10T21:15:05.107Z
+date: 2026-02-17T18:17:53.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -41,7 +41,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 ###  John James WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS
 
--   In 2025, John James voted four times to protect Trump’s tariffs, including in April when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs from being repealed by Congress, dooming Michiganders who relied on him to a trade war and [rising prices](https://bridgemi.com/business-watch/trump-tariffs-jolt-michigan-businesses-eye-cuts-shoppers-tighten-belts/). Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and are [hurting Michigan small businesses](https://bridgemi.com/business-watch/trump-tariffs-jolt-michigan-businesses-eye-cuts-shoppers-tighten-belts/), [farmers](https://www.thecentersquare.com/michigan/article_c41156e0-439e-4aff-ad5d-7b5dd9442e3d.html), and [families](https://www.newsfromthestates.com/article/whitmer-ordered-report-links-trumps-tariffs-rising-prices-and-slower-growth-across-michigan).
+-   From 2025 to 2026, John James voted six times to protect Trump’s tariffs. In February 2026, James [voted](http://clerk.house.gov/evs/2026/roll065.xml) against terminating tariffs against Canada and effectively [voted](http://clerk.house.gov/evs/2026/roll060.xml) to block votes on legislation terminating Trump's tariffs, even though the Tax Foundation found that Trump's tariffs resulted in a [$1,300 tax](https://plus.cq.com/doc/news-8404311?12) increase on American households in 2026. In April 2025, James was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs from being repealed by Congress, dooming Michiganders who relied on him to a trade war and [rising prices](https://bridgemi.com/business-watch/trump-tariffs-jolt-michigan-businesses-eye-cuts-shoppers-tighten-belts/). Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and are [hurting Michigan small businesses](https://bridgemi.com/business-watch/trump-tariffs-jolt-michigan-businesses-eye-cuts-shoppers-tighten-belts/), [farmers](https://www.thecentersquare.com/michigan/article_c41156e0-439e-4aff-ad5d-7b5dd9442e3d.html), and [families](https://www.newsfromthestates.com/article/whitmer-ordered-report-links-trumps-tariffs-rising-prices-and-slower-growth-across-michigan).
 -    John James said Trump’s tariffs “[level the playing field](https://www.youtube.com/watch?v=0ZWheFyoUgc),” even though the [U.S. stock market crashed](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s escalating global trade war.
 
 **Message:** John James was the deciding vote to crush Michigan small businesses and ensure Michiganders will pay more for groceries.
