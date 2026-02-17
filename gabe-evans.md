@@ -2,7 +2,7 @@
 title: Gabe Evans
 description: 
 published: true
-date: 2026-02-13T17:36:55.793Z
+date: 2026-02-17T04:51:03.661Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:53:10.838Z
@@ -32,7 +32,8 @@ This video is not for public use on a campaign, and is purely here as an example
 
 # How To Win Against Gabe Evans
 
-[Perpetual](https://coloradonewsline.com/2025/07/22/u-s-rep-gabe-evans-misrepresented-familys-immigration-history/) [liar](https://coloradotimesrecorder.com/2025/07/food-bank-warned-gabe-evans-need-will-get-worse-if-trumps-budget-bill-passed/71805/) Gabe Evans ran on [public safety and making life more affordable](https://electgabeevans.com/), then voted to cut services and raise costs on Coloradans. He voted to kick more than 29,000 Coloradans off their health insurance, for massive cuts to Medicare, and to make it harder for his neighbors to buy food. He cast the deciding vote to protect Trump’s tariffs, which were hurting small businesses and could result in higher food and housing costs for Coloradans. For all of his talk about cracking down on criminals, he cast the deciding vote to protect accused pedophiles named in the Epstein files. Then he stood by while Trump laid off Coloradans and gutted the Social Security agency.
+<img src="/2025-06-06_mbo_0195-2.jpeg"
+     style="height:240px; width:auto; float:left; margin:0 12px 8px 0;">[Perpetual](https://coloradonewsline.com/2025/07/22/u-s-rep-gabe-evans-misrepresented-familys-immigration-history/) [liar](https://coloradotimesrecorder.com/2025/07/food-bank-warned-gabe-evans-need-will-get-worse-if-trumps-budget-bill-passed/71805/) Gabe Evans ran on [public safety and making life more affordable](https://electgabeevans.com/), then voted to cut services and raise costs on Coloradans. He voted to kick more than 29,000 Coloradans off their health insurance, for massive cuts to Medicare, and to make it harder for his neighbors to buy food. He cast the deciding vote to protect Trump’s tariffs, which were hurting small businesses and could result in higher food and housing costs for Coloradans. For all of his talk about cracking down on criminals, he cast the deciding vote to protect accused pedophiles named in the Epstein files. Then he stood by while Trump laid off Coloradans and gutted the Social Security agency.
 
 ### **EVANS VOTED FOR DEVASTATING HEALTH CARE CUTS** 
 
