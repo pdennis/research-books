@@ -1,8 +1,8 @@
 ---
 title: Rep. Daniel Webster (FL-11): Compared CFPB to "The Gestapo"
 description: 
-published: true
-date: 2026-02-18T19:03:06.118Z
+published: false
+date: 2026-02-18T19:40:18.193Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:03:06.118Z
