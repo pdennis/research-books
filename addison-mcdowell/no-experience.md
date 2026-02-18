@@ -1,8 +1,8 @@
 ---
 title: Rep. Addison McDowell (NC-06): No Experience, No Mandate
 description: 
-published: true
-date: 2026-02-18T18:57:05.151Z
+published: false
+date: 2026-02-18T19:36:01.971Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:57:05.151Z
