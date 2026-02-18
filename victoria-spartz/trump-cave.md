@@ -1,8 +1,8 @@
 ---
 title: Rep. Victoria Spartz (IN-05): Caved to Trump on the Budget Bill She Called a Fiscal Disaster
 description: 
-published: true
-date: 2026-02-18T19:20:44.619Z
+published: false
+date: 2026-02-18T19:49:38.517Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:44.619Z
