@@ -1,8 +1,8 @@
 ---
 title: Rep. Virginia Foxx (NC-05): Jobs and the Economy
 description: 
-published: true
-date: 2026-02-18T19:21:57.513Z
+published: false
+date: 2026-02-18T19:50:17.287Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:21:57.513Z
