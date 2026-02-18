@@ -1,8 +1,8 @@
 ---
 title: Rep. Tim Moore (NC-14): Can't Be Trusted on Health Care
 description: 
-published: true
-date: 2026-02-18T19:16:30.723Z
+published: false
+date: 2026-02-18T19:47:14.169Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:16:30.723Z
