@@ -1,8 +1,8 @@
 ---
 title: Rep. Tony Wied (WI-08): Active Stock Trading While Voting on Market-Moving Policies
 description: 
-published: true
-date: 2026-02-18T19:19:09.787Z
+published: false
+date: 2026-02-18T19:48:51.333Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:19:09.787Z
