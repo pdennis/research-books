@@ -2,13 +2,23 @@
 title: David Schweikert
 description: 
 published: true
-date: 2026-02-18T17:33:04.841Z
+date: 2026-02-18T17:40:11.185Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:01:35.784Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against David Schweikert
 
@@ -95,54 +105,22 @@ David Schweikert is unfit to represent Arizona. He voted to kick more than 342,0
 
 ## David Schweikert’s Policies Have Hurt Everyday People
 
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
 
--   [Schweikert Supported Efforts To Cut Medicaid And Threaten Arizona's Access To Health Care](/en/AZ-Gov/david-schweikert/schweikert-medicaid)
-
-![👴](/_assets/svg/twemoji/1f474.svg)
-
--   [Schweikert Voted For Medicare Cuts](/en/AZ-Gov/david-schweikert/schweikert-medicare)
-
-![💊](/_assets/svg/twemoji/1f48a.svg)
-
--   [Schweikert Repeatedly Voted Against Allowing Medicare To Negotiate Prescription Drug Prices](/en/AZ-Gov/david-schweikert/schweikert-drug-prices)
-
-![🛒](/_assets/svg/twemoji/1f6d2.svg)
-
--   [Schweikert Backed Trump’s Tariffs, Endangering Arizona’s Economy](/en/AZ-Gov/david-schweikert/schweikert-tariffs)
-
-![🍎](/_assets/svg/twemoji/1f34e.svg)
-
--   [Schweikert Cast Votes To Cut SNAP Benefits From Arizona Families](/en/AZ-Gov/david-schweikert/schweikert-snap)
-
-![❌](/_assets/svg/twemoji/274c.svg)
-
--   [Schweikert Won’t Protect Arizona Jobs Or Social Security From Trump](/en/AZ-Gov/david-schweikert/schweikert-doge)
-
-![🧑‍🔧](/_assets/svg/twemoji/1f9d1-200d-1f527.svg)
-
--   [Schweikert Voted Against Protecting Arizona’s Clean Energy Jobs](/en/AZ-Gov/david-schweikert/schweikert-clean-energy)
-
-![🌽](/_assets/svg/twemoji/1f33d.svg)
-
--   [David Schweikert Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15](/AZ-Gov/david-schweikert/schweikert-E15)
-
-![👩](/_assets/svg/twemoji/1f469.svg)
-
--   [Schweikert Was An Anti-Abortion Extremist](/en/AZ-Gov/david-schweikert/schweikert-abortion)
+-   [:hospital: Schweikert Supported Efforts To Cut Medicaid And Threaten Arizona's Access To Health Care](/en/AZ-Gov/david-schweikert/schweikert-medicaid)
+-   [:older_man: Schweikert Voted For Medicare Cuts](/en/AZ-Gov/david-schweikert/schweikert-medicare)
+-   [:pill: Schweikert Repeatedly Voted Against Allowing Medicare To Negotiate Prescription Drug Prices](/en/AZ-Gov/david-schweikert/schweikert-drug-prices)
+-   [:shopping_cart: Schweikert Backed Trump’s Tariffs, Endangering Arizona’s Economy](/en/AZ-Gov/david-schweikert/schweikert-tariffs)
+-   [:apple: Schweikert Cast Votes To Cut SNAP Benefits From Arizona Families](/en/AZ-Gov/david-schweikert/schweikert-snap)
+-   [:x: Schweikert Won’t Protect Arizona Jobs Or Social Security From Trump](/en/AZ-Gov/david-schweikert/schweikert-doge)
+-   [:mechanic: Schweikert Voted Against Protecting Arizona’s Clean Energy Jobs](/en/AZ-Gov/david-schweikert/schweikert-clean-energy)
+-   [:corn: Schweikert Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15](/AZ-Gov/david-schweikert/schweikert-E15)
+-   [:woman: Schweikert Was An Anti-Abortion Extremist](/en/AZ-Gov/david-schweikert/schweikert-abortion)
+{.links-list}
 
 ## David Schweikert Used His Power To Benefit The Powerful And Himself
-
-![👀](/_assets/svg/twemoji/1f440.svg)
-
--   [Schweikert Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved](/en/AZ-Gov/david-schweikert/schweikert-epstein)
-
-![💰](/_assets/svg/twemoji/1f4b0.svg)
-
--   [Schweikert Embodied The Swamp By Violating House Ethics And Campaign Finance Rules](/en/AZ-Gov/david-schweikert/schweikert-ethics)
-
+-   [:eyes: Schweikert Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved](/en/AZ-Gov/david-schweikert/schweikert-epstein)
+-   [:moneybag: Schweikert Embodied The Swamp By Violating House Ethics And Campaign Finance Rules](/en/AZ-Gov/david-schweikert/schweikert-ethics)
+{.links-list}
 # Key Votes
-
-![✅](/_assets/svg/twemoji/2705.svg)
-
--   [Schweikert's Votes As A Member Of Congress](/en/AZ-Gov/david-schweikert/schweikert-key-votes)
+-   [:white_check_mark: Schweikert's Votes As A Member Of Congress](/en/AZ-Gov/david-schweikert/schweikert-key-votes)
+{.links-list}
