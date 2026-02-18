@@ -1,8 +1,8 @@
 ---
 title: Rep. Andy Ogles: Pushed A Trump Third Term And Attacked The Courts
 description: 
-published: true
-date: 2026-02-18T18:59:16.150Z
+published: false
+date: 2026-02-18T19:37:43.359Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:59:16.150Z
