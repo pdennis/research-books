@@ -1,8 +1,8 @@
 ---
 title: Rep. Tony Wied (WI-08): Said One Thing on the Campaign Trail, Did the Opposite in Congress
 description: 
-published: true
-date: 2026-02-18T19:18:26.834Z
+published: false
+date: 2026-02-18T19:48:25.916Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:26.834Z
