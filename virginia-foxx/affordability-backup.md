@@ -1,8 +1,8 @@
 ---
 title: Rep. Virginia Foxx (NC-05): Affordability
 description: 
-published: true
-date: 2026-02-18T19:21:09.367Z
+published: false
+date: 2026-02-18T19:49:55.982Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:21:09.367Z
