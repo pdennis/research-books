@@ -1,8 +1,8 @@
 ---
 title: Rep. Andy Ogles: Dismissed Gun Violence After The Covenant School Shooting
 description: 
-published: true
-date: 2026-02-18T18:58:45.522Z
+published: false
+date: 2026-02-18T19:37:22.951Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:58:45.522Z
