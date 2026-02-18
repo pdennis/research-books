@@ -1,8 +1,8 @@
 ---
 title: Rep. Virginia Foxx (NC-05): Called Matthew Shepard's Murder a "Hoax"
 description: 
-published: true
-date: 2026-02-18T19:22:04.953Z
+published: false
+date: 2026-02-18T19:50:22.525Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:22:04.953Z
