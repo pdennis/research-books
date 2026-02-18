@@ -1,8 +1,8 @@
 ---
 title: Personal Conduct: Arrests, Son's Felony Charges, Restaurant Scandals
 description: 
-published: true
-date: 2026-02-18T19:11:27.348Z
+published: false
+date: 2026-02-18T19:44:24.074Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:11:27.348Z
