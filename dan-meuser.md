@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Dan Meuser
-description: How to win against Dan Meuser
-published: true
-date: 2026-02-18T19:01:25.982Z
+description: 
+published: false
+date: 2026-02-18T19:39:14.418Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:01:25.982Z
