@@ -1,8 +1,8 @@
 ---
 title: Rep. Tom McClintock (CA-05): Can't Be Trusted on Health Care
 description: 
-published: true
-date: 2026-02-18T19:17:36.701Z
+published: false
+date: 2026-02-18T19:47:55.382Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:36.701Z
