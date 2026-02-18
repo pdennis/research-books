@@ -1,8 +1,8 @@
 ---
 title: Rep. Stephanie Bice (OK-05): False Endorsements and Unauthorized Logo Use
 description: 
-published: true
-date: 2026-02-18T19:14:46.048Z
+published: false
+date: 2026-02-18T19:46:13.331Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:14:46.048Z
