@@ -1,8 +1,8 @@
 ---
 title: Rep. Stephanie Bice (OK-05): Voted Against Protecting Her Own Interracial Marriage
 description: 
-published: true
-date: 2026-02-18T19:15:10.544Z
+published: false
+date: 2026-02-18T19:46:27.202Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:10.544Z
