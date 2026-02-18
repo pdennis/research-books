@@ -1,8 +1,8 @@
 ---
 title: Rep. Tony Wied (WI-08): Can't Be Trusted on Jobs and the Economy
 description: 
-published: true
-date: 2026-02-18T19:18:53.026Z
+published: false
+date: 2026-02-18T19:48:41.298Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:53.026Z
