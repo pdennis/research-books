@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Glenn Grothman
-description: How to win against Glenn Grothman
-published: true
-date: 2026-02-18T19:08:08.931Z
+description: 
+published: false
+date: 2026-02-18T19:42:24.520Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:08.931Z
