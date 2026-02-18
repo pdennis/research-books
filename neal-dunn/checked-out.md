@@ -1,8 +1,8 @@
 ---
 title: Checked Out: Retiring and Rumored to Resign Early
 description: 
-published: true
-date: 2026-02-18T19:11:59.628Z
+published: false
+date: 2026-02-18T19:44:43.796Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:11:59.628Z
