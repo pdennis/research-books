@@ -1,8 +1,8 @@
 ---
 title: Rep. Glenn Grothman (WI-06): Pattern Of Racially Inflammatory Statements
 description: 
-published: true
-date: 2026-02-18T19:08:57.168Z
+published: false
+date: 2026-02-18T19:42:57.981Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:57.168Z
