@@ -1,8 +1,8 @@
 ---
 title: Rep. Virginia Foxx (NC-05): At 82, Among the Oldest Members of Congress
 description: 
-published: true
-date: 2026-02-18T19:21:17.328Z
+published: false
+date: 2026-02-18T19:50:01.032Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:21:17.328Z
