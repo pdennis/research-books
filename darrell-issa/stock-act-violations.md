@@ -1,8 +1,8 @@
 ---
 title: Rep. Darrell Issa (CA-48): STOCK Act Violations and Financial Disclosure Failures
 description: 
-published: true
-date: 2026-02-18T19:05:37.081Z
+published: false
+date: 2026-02-18T19:41:35.597Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:05:37.081Z
