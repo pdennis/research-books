@@ -1,8 +1,8 @@
 ---
 title: Rep. Brad Knott (NC-13): Can't Be Trusted on Jobs and the Economy
 description: 
-published: true
-date: 2026-02-18T19:00:00.687Z
+published: false
+date: 2026-02-18T19:38:12.790Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:00:00.687Z
