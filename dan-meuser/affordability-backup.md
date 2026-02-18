@@ -1,0 +1,51 @@
+---
+title: Rep. Dan Meuser (PA-09): Affordability
+description: 
+published: true
+date: 2026-02-18T19:01:34.875Z
+tags: 
+editor: markdown
+dateCreated: 2026-02-18T19:01:34.875Z
+---
+
+# Rep. Dan Meuser (PA-09): Affordability
+
+Rep. Dan Meuser has cheered on tariff policies that are raising prices on his own constituents, then voted for a bill that will cut food assistance for thousands of families struggling to afford groceries. Meuser praised Trump's tariffs as the start of a "golden era in manufacturing" and claimed they would "bring down inflation" — but the Yale Budget Lab found tariffs are costing the average American household $1,700 a year, with the burden falling three times harder on low-income families than the wealthy. Meanwhile, Pennsylvania saw the highest grocery price increases in the nation, with rural shoppers — the core of Meuser's district — paying 7.6% more while urban consumers paid 5.6%. Rather than protecting his constituents from rising costs, Meuser voted for the One Big Beautiful Bill, which will strip SNAP benefits from 8,185 people in his district and Medicaid from nearly 18,000 more. When confronted with these numbers, Meuser dismissed them as "complete, utter nonsense" and said the cuts would not affect anyone "legitimately eligible" — ignoring that the majority of Pennsylvania's 1.9 million SNAP recipients are children and seniors.
+
+### Championed Tariffs That Are Raising Prices On His Constituents
+
+**Meuser Praised Trump's Tariffs As The Start Of A 'Golden Era In Manufacturing' And Claimed They Would 'Bring Down Inflation.'** According to Newsmax, Meuser said "The more 'made in the USA', the more supply we create, that will match demand, which will bring down inflation, which will allow interest rates to come down, which will allow more housing to take place, more car purchases, more CapEx investment." He called it a "golden era in manufacturing" and said the tariffs were needed because "Free trade has become synonymous with unfair trade." [Newsmax, [4/3/25](https://www.newsmax.com/politics/dan-meuser-tariffs-trump/2025/04/03/id/1205525/)]
+
+  - **Meuser Said Markets 'Needed A Reckoning' As Tariffs Drove Up Consumer Prices.** According to WVIA, Meuser told Newsmax that "We needed a reckoning. We needed a correction, and President Trump is bringing it." He argued that tariffs would help the U.S. compete against countries with lower taxes and fewer regulations. [WVIA, [4/3/25](https://www.wvia.org/news/local/2025-04-03/area-congressmen-offer-support-for-president-trumps-trade-tariffs)]
+
+**Yale Budget Lab Found Tariffs Cost The Average American Household $1,700 Per Year, With Low-Income Families Hit Three Times Harder Than The Wealthy.** According to the Yale Budget Lab, "The price level rises by 1.2% in the short run, representing a loss of $1,700 for the average household and $900 for households at the bottom of the income distribution." The burden on the poorest ten percent of households was 2.4% of their income, compared to just 0.8% for the wealthiest — making tariffs three times more regressive for the families who can least afford it. [Yale Budget Lab, [11/17/25](https://budgetlab.yale.edu/research/state-us-tariffs-november-17-2025)]
+
+**Despite Meuser's Promise That Tariffs Would Lower Prices, He Later Acknowledged That Grocery Costs Were Still Rising.** According to Newsmax, Meuser said in December 2025 that "We all go to the grocery store. People see it. There's no denying that" — acknowledging persistent price increases eight months after he predicted tariffs would "bring down inflation." Rather than reconsider tariff policy, he blamed the prior administration, saying "Their economic initiatives increased our inflation [...] by over 20%." [Newsmax, [12/8/25](https://www.newsmax.com/politics/danmeuser-economy-affordability/2025/12/08/id/1237493/)]
+
+### Rural Pennsylvanians In Meuser's District Paid The Highest Grocery Prices In The Nation
+
+**Pennsylvania Had The Highest Grocery Price Increases In The Nation, With Rural Shoppers Paying More Than Urban Consumers.** According to Supermarket News, Pennsylvania led the nation with an 8.2% year-over-year grocery price increase, far exceeding the national average of 5.3%. Rural areas experienced 7.6% grocery inflation compared to 5.6% for large cities, a gap the report attributed to "a lack of competition — there are far less grocery stores in rural areas than there are in metropolitan areas." Rural retailers sourcing from wholesalers rather than manufacturers face additional supply chain costs. [Supermarket News, [12/14/23](https://www.supermarketnews.com/finance/pennsylvania-has-nation-s-highest-grocery-price-hikes-report)]
+
+**Tariffs Cost Pennsylvania $1.6 Billion In The First Half Of 2025 Alone.** According to The Pennsylvania Independent, tariffs cost Pennsylvania $1.6 billion in the first half of the year, with economists pointing to the effects of tariffs on wholesalers as a major driver of rising food prices — the same wholesalers that supply rural grocery stores throughout PA-09. [Pennsylvania Independent, [2/3/25](https://pennsylvaniaindependent.com/economy/donald-trump-tariffs-mexico-canada-businesses-consumers-farmers-inflation-prices/)]
+
+### Voted To Cut Food Assistance For Thousands Of Constituents Already Struggling With Rising Prices
+
+**Meuser Voted For The One Big Beautiful Bill, Which Will Strip SNAP Benefits From 8,185 People In His District.** According to a fact sheet from the Commonwealth of Pennsylvania, 8,185 Pennsylvanians in Rep. Meuser's 9th Congressional District will lose SNAP benefits under the One Big Beautiful Bill Act, and 17,967 will lose Medicaid coverage. Statewide, approximately 144,000 Pennsylvanians could lose SNAP and 310,000 could lose Medicaid. [Commonwealth of Pennsylvania, [7/2/25](https://www.pa.gov/governor/newsroom/2025-press-releases/fact-sheet--how-many-lose-medicaid-and-snap-as-a-result-of-recon)]
+
+**Meuser Dismissed Projections That His Constituents Would Lose Benefits As 'Complete, Utter Nonsense.'** According to ABC27, Meuser called Governor Shapiro's projections about coverage and benefit losses "complete, utter nonsense," arguing "It's not taking into account there are illegals on the rolls, there are those that are ineligible." [ABC27, [7/3/25](https://www.abc27.com/pennsylvania-politics/meuser-fires-back-at-shapiro-after-medicare-snap-callout/)]
+
+**Meuser Claimed SNAP Cuts Would Not Affect Anyone 'Legitimately Eligible' Despite Majority Of Recipients Being Children And Seniors.** According to WVIA, Meuser stated that cuts to food assistance would not affect people "who are legitimately eligible" to receive benefits, and called for an audit of the program. But according to Spotlight PA, the majority of Pennsylvania's 1.9 million SNAP recipients are children under 18 and adults over 55, and the state faces a minimum $125 million budget hit — with a worst case of nearly $800 million — from the law's cost-shifting provisions. [WVIA, [8/13/25](https://www.wvia.org/news/local/2025-08-13/meuser-touts-one-big-beautiful-bill-at-the-farm-store-in-pottsville); Spotlight PA, [7/3/25](https://www.spotlightpa.org/news/2025/07/trump-big-beautiful-bill-snap-food-stamps-pennsylvania)]
+
+**Governor Shapiro Warned Pennsylvania May Not Be Able To Operate SNAP At All Under The New Law.** According to Spotlight PA, Governor Shapiro stated "Pennsylvania can't backfill those cuts [...] There's a real question as to whether or not we will be able to operate SNAP any longer." The law shifts the state's share of administrative costs from 50% to 75% starting in summer 2026 and penalizes states with error rates above 6% — Pennsylvania's current rate is 10.76%. [Spotlight PA, [7/3/25](https://www.spotlightpa.org/news/2025/07/trump-big-beautiful-bill-snap-food-stamps-pennsylvania)]
+
+### Voted Against Measures That Would Have Lowered Costs
+
+**Meuser Voted Against The Inflation Reduction Act, Which Capped Medicare Prescription Drug Costs And Authorized Drug Price Negotiation For The First Time.** According to a press release from Rep. Meuser's office, he voted against the Inflation Reduction Act, calling it "The Recession Extension Act." The law capped Medicare Part D out-of-pocket costs at $2,000 annually, capped insulin at $35/month for Medicare recipients, and authorized Medicare to negotiate drug prices for the first time. [Meuser.house.gov, [8/12/22](https://meuser.house.gov/media/press-releases/congressman-dan-meuser-votes-no-vote-inflation-reduction-act)]
+
+**Meuser Voted Against Extending ACA Premium Subsidies That Kept Insurance Affordable For His Constituents.** According to WVIA, Rep. Dan Meuser was among Pennsylvania Republicans who voted against extending enhanced ACA premium tax credits. Without the subsidies, Pennie enrollees faced an average premium increase of 102%. [WVIA, [2/14/26](https://www.wvia.org/news/local/2026-02-14/1-in-5-pennie-enrollees-drop-health-insurance-after-expiration-of-affordable-care-act-tax-credits)]
+
+### Impact on Everyday People
+
+**Berwick Resident Said She Would Skip Doctor Visits Because She Could Not Afford Higher Costs After Subsidies Meuser Opposed Expired.** According to WVIA, Jeanne Briggs of Berwick — a community in Columbia County within PA-09 — said she would likely skip doctor visits after her costs rose following the expiration of the ACA subsidies Meuser voted against extending. As a diabetic requiring regular checkups, she said: "'I probably won't go, unless I can come up with $35 before I go.'" [WVIA, [2/14/26](https://www.wvia.org/news/local/2026-02-14/1-in-5-pennie-enrollees-drop-health-insurance-after-expiration-of-affordable-care-act-tax-credits)]
+
+**Feeding America Estimated The Law Meuser Voted For Could Take 6 Billion Meals Off The Table For SNAP Participants Every Year.** According to Feeding America Action, the final budget reconciliation legislation that Meuser supported "could take nearly 6 billion meals off the table for SNAP participants every year," through cost-shifting to states, eligibility restrictions, increased work requirements, and limits on USDA's ability to update benefit levels. The law cuts nearly $200 billion from SNAP over ten years. [Feeding America Action, [12/16/25](https://feedingamericaaction.org/wp-content/uploads/FAQ_OBBBA.pdf)]
