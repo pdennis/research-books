@@ -1,8 +1,8 @@
 ---
 title: Rep. Tim Moore (NC-14): Affair Scandal and Abuse of Power
 description: 
-published: true
-date: 2026-02-18T19:15:51.421Z
+published: false
+date: 2026-02-18T19:46:51.009Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:51.421Z
