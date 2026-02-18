@@ -1,8 +1,8 @@
 ---
 title: Rep. Tom McClintock (CA-05): Carpetbagger -- Doesn't Live in His District
 description: 
-published: true
-date: 2026-02-18T19:17:21.226Z
+published: false
+date: 2026-02-18T19:47:45.818Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:21.226Z
