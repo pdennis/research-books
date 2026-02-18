@@ -1,8 +1,8 @@
 ---
 title: Rep. Tom McClintock (CA-05): Advocated for Social Security and Medicare Cuts
 description: 
-published: true
-date: 2026-02-18T19:17:53.021Z
+published: false
+date: 2026-02-18T19:48:06.288Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:53.021Z
