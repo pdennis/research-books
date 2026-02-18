@@ -1,8 +1,8 @@
 ---
 title: Rep. Victoria Spartz (IN-05): Tariff Flip-Flop — Criticized Biden's Tariffs, Protected Trump's Bigger Ones
 description: 
-published: true
-date: 2026-02-18T19:20:37.680Z
+published: false
+date: 2026-02-18T19:49:33.760Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:37.680Z
