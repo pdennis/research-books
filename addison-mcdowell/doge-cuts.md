@@ -1,8 +1,8 @@
 ---
 title: Rep. Addison McDowell (NC-06): Backed DOGE While District Faced Job Cuts
 description: 
-published: true
-date: 2026-02-18T18:56:32.890Z
+published: false
+date: 2026-02-18T19:35:42.555Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:32.890Z
