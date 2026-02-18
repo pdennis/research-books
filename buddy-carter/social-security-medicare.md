@@ -1,8 +1,8 @@
 ---
 title: Rep. Buddy Carter: Threatened To Cut Social Security And Medicare
 description: 
-published: true
-date: 2026-02-18T19:01:09.868Z
+published: false
+date: 2026-02-18T19:39:04.963Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:01:09.868Z
