@@ -1,8 +1,8 @@
 ---
 title: Rep. Victoria Spartz (IN-05): Called Zelensky a "Moron" and Said Ukraine Should Cede Territory to Russia
 description: 
-published: true
-date: 2026-02-18T19:20:51.802Z
+published: false
+date: 2026-02-18T19:49:43.307Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:51.802Z
