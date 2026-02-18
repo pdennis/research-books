@@ -1,8 +1,8 @@
 ---
 title: Rep. Tom McClintock (CA-05): Climate Denial While His District Burns
 description: 
-published: true
-date: 2026-02-18T19:17:28.807Z
+published: false
+date: 2026-02-18T19:47:50.524Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:28.807Z
