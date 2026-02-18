@@ -1,8 +1,8 @@
 ---
 title: Rep. Glenn Grothman (WI-06): Defended Uganda's Anti-Homosexuality Law
 description: 
-published: true
-date: 2026-02-18T19:09:05.846Z
+published: false
+date: 2026-02-18T19:43:02.471Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:09:05.846Z
