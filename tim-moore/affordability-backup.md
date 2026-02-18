@@ -1,8 +1,8 @@
 ---
 title: Rep. Tim Moore (NC-14): Can't Be Trusted on Affordability
 description: 
-published: true
-date: 2026-02-18T19:15:58.596Z
+published: false
+date: 2026-02-18T19:46:55.442Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:58.595Z
