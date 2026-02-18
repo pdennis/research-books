@@ -1,8 +1,8 @@
 ---
 title: Rep. Buddy Carter: Voted To Overturn The 2020 Election, Then Called Protesters "Insurrectionists"
 description: 
-published: true
-date: 2026-02-18T19:00:47.873Z
+published: false
+date: 2026-02-18T19:38:49.422Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:00:47.873Z
