@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Virginia Foxx
-description: How to win against Virginia Foxx
-published: true
-date: 2026-02-18T19:20:59.329Z
+description: 
+published: false
+date: 2026-02-18T19:49:48.132Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:59.329Z
