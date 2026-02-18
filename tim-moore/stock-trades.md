@@ -1,8 +1,8 @@
 ---
 title: Rep. Tim Moore (NC-14): Stock Trades and STOCK Act Violations
 description: 
-published: true
-date: 2026-02-18T19:16:54.245Z
+published: false
+date: 2026-02-18T19:47:28.593Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:16:54.245Z
