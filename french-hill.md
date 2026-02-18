@@ -2,7 +2,7 @@
 title: How To Win Against French Hill
 description: 
 published: false
-date: 2026-02-18T22:54:24.869Z
+date: 2026-02-18T22:54:54.190Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:05:56.661Z
@@ -42,7 +42,7 @@ His tariff vote helped drive a [surge in Arkansas farm bankruptcies](https://www
 
 Hill was named to a ["Banker's Dozen" list of top Wall Street allies](https://arktimes.com/arkansas-blog/2018/10/14/french-hill-high-on-the-wall-street-flunky-list), and took [\$839,595 from securities and investment firms](https://www.opensecrets.org/members-of-congress/french-hill/summary?cid=N00035792) in the 2024 cycle alone.
 He is now [pushing to eliminate a \$5 cap on bank overdraft fees](https://arktimes.com/arkansas-blog/2025/02/19/banker-french-hill-clears-path-for-bankers-to-charge-you-more) and [collected \$180,500 from the crypto industry](https://www.washingtonexaminer.com/policy/finance-and-economy/3472672/campaign-cash-buys-big-crypto-allies-on-capitol-hill/) while shepherding its deregulation bills through his committee.
-He [oversaw CARES Act loans while owning up to \$5.25 million in Simmons Bank stock](https://arktimes.com/arkansas-blog/2020/07/20/french-hill-fox-in-the-coronavirus-henhouse), and [only 0.73% of his donations come from small donors](https://dccc.org/case-congressman-french-hill/).
+He [oversaw CARES Act loans while owning up to \$5.25 million in Simmons Bank stock](https://arktimes.com/arkansas-blog/2020/07/20/french-hill-fox-in-the-coronavirus-henhouse).
 
 **Message:** French Hill is a banker chairing the committee that regulates banks -- and his donors, not his constituents, come first.
 
