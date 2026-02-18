@@ -2,13 +2,23 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-02-18T17:45:09.186Z
+date: 2026-02-18T17:55:57.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against Andy Biggs
 
@@ -32,7 +42,7 @@ In January 2026, Biggs [voted](http://clerk.house.gov/evs/2026/roll011.xml) agai
 
 ### Biggs WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS
 
--   From 2025 to 2026, Biggs voted six times to protect Trump’s tariffs. In February 2026, Biggs [voted](http://clerk.house.gov/evs/2026/roll065.xml) against terminating tariffs against Canada and effectively [voted](http://clerk.house.gov/evs/2026/roll060.xml) to block votes on legislation terminating Trump's tariffs, even though the Tax Foundation found that Trump's tariffs resulted in a [$1,300 tax increase](https://plus.cq.com/doc/news-8404311?12) on American households in 2026. In April 2025, Biggs was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect Trump's tariffs from being repealed by Congress,  dooming Arizonans who relied on him to a trade war and [rising prices](https://www.azcentral.com/story/money/business/consumers/2025/03/04/donald-trump-tariffs-costs-food/81173998007/). Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and are [hurting Arizona small businesses](https://www.abc15.com/news/local-news/how-tariffs-could-help-and-hurt-arizona-businesses) and [families](https://www.kjzz.org/politics/2025-03-01/5-ways-the-trump-tariffs-on-mexico-and-canada-would-hit-arizona-wallets).
+-   From 2025 to 2026, Biggs voted seven times to protect Trump’s tariffs. In February 2026, Biggs [voted](http://clerk.house.gov/evs/2026/roll065.xml) against terminating tariffs against Canada and effectively [voted](http://clerk.house.gov/evs/2026/roll060.xml) to block votes on legislation terminating Trump's tariffs, even though the Tax Foundation found that Trump's tariffs resulted in a [$1,300 tax increase](https://plus.cq.com/doc/news-8404311?12) on American households in 2026. In April 2025, Biggs was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect Trump's tariffs from being repealed by Congress,  dooming Arizonans who relied on him to a trade war and [rising prices](https://www.azcentral.com/story/money/business/consumers/2025/03/04/donald-trump-tariffs-costs-food/81173998007/). Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and are [hurting Arizona small businesses](https://www.abc15.com/news/local-news/how-tariffs-could-help-and-hurt-arizona-businesses) and [families](https://www.kjzz.org/politics/2025-03-01/5-ways-the-trump-tariffs-on-mexico-and-canada-would-hit-arizona-wallets).
 -   Despite this, Biggs called Trump’s tariffs ["brilliant,"](https://x.com/RepAndyBiggsAZ/status/1907570145138032839) even as the [U.S. stock market crashed](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s escalating global trade war.
 
 **Message:** Biggs was the deciding vote to crush Arizona small businesses and ensure Arizonans will pay more for groceries.
@@ -96,50 +106,21 @@ Biggs [touted](https://x.com/RepAndyBiggsAZ/status/1990943599891218510) his vote
 
 ## Andy Biggs' Policies Have Hurt Everyday People
 
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
-
--   [Biggs Supported Efforts To Cut Medicaid And Threaten Arizonans' Access To Health Care](/en/AZ-Gov/Andy-Biggs/biggs-medicaid)
-
-![👴](/_assets/svg/twemoji/1f474.svg)
-
--   [Biggs Voted For Medicare Cuts](/en/AZ-Gov/Andy-Biggs/biggs-medicare)
-
-![🛒](/_assets/svg/twemoji/1f6d2.svg)
-
--   [Biggs Backed Trump's Tariffs, Endangering Arizona's Economy](/en/AZ-Gov/Andy-Biggs/biggs-tariffs)
-
-![🍎](/_assets/svg/twemoji/1f34e.svg)
-
--   [Biggs Cast Votes To Cut SNAP Benefits From Arizona Families](/en/AZ-Gov/Andy-Biggs/biggs-snap)
-
-![❌](/_assets/svg/twemoji/274c.svg)
-
--   [Biggs Won't Defend Arizonans’ Jobs Or Social Security From Trump](/en/AZ-Gov/Andy-Biggs/biggs-doge)
-
-![🧑‍🔧](/_assets/svg/twemoji/1f9d1-200d-1f527.svg)
-
--   [Biggs Voted Against Protecting Arizonans' Clean Energy Jobs](/en/AZ-Gov/Andy-Biggs/biggs-cleanenergy)
-
-![🌽](/_assets/svg/twemoji/1f33d.svg)
-
--   [Biggs Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15](/en/AZ-Gov/Andy-Biggs/Biggs-E15)
-
-![👩](/_assets/svg/twemoji/1f469.svg)
-
--   [Biggs Was An Anti-Abortion Extremist](/en/AZ-Gov/Andy-Biggs/biggs-abortion)
+-   [:hospital: Biggs Supported Efforts To Cut Medicaid And Threaten Arizonans' Access To Health Care](/en/AZ-Gov/Andy-Biggs/biggs-medicaid)
+-   [:older_man: Biggs Voted For Medicare Cuts](/en/AZ-Gov/Andy-Biggs/biggs-medicare)
+-   [:shopping_cart: Biggs Backed Trump's Tariffs, Endangering Arizona's Economy](/en/AZ-Gov/Andy-Biggs/biggs-tariffs)
+-   [:apple: Biggs Cast Votes To Cut SNAP Benefits From Arizona Families](/en/AZ-Gov/Andy-Biggs/biggs-snap)
+-   [:x: Biggs Won't Defend Arizonans’ Jobs Or Social Security From Trump](/en/AZ-Gov/Andy-Biggs/biggs-doge)
+-   [:mechanic: Biggs Voted Against Protecting Arizonans' Clean Energy Jobs](/en/AZ-Gov/Andy-Biggs/biggs-cleanenergy)
+-   [:corn: Biggs Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15](/en/AZ-Gov/Andy-Biggs/Biggs-E15)
+-   [:woman: Biggs Was An Anti-Abortion Extremist](/en/AZ-Gov/Andy-Biggs/biggs-abortion)
+{.links-list}
 
 ## Andy Biggs Used His Power To Benefit The Powerful
-
-![🔨](/_assets/svg/twemoji/1f528.svg)
-
--   [Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA](/en/AZ-Gov/Andy-Biggs/biggs-osha)
-
-![👀](/_assets/svg/twemoji/1f440.svg)
-
--   [Biggs Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved](/en/AZ-Gov/Andy-Biggs/biggs-epstein)
+-   [:hammer: Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA](/en/AZ-Gov/Andy-Biggs/biggs-osha)
+-   [:eyes: Biggs Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved](/en/AZ-Gov/Andy-Biggs/biggs-epstein)
+{.links-list}
 
 # Key Votes
-
-![✅](/_assets/svg/twemoji/2705.svg)
-
--   [Biggs' Key Votes As A Member Of Congress](/en/AZ-Gov/Andy-Biggs/biggs-votes)
+-   [:white_check_mark: Biggs' Key Votes As A Member Of Congress](/en/AZ-Gov/Andy-Biggs/biggs-votes)
+{.links-list}
