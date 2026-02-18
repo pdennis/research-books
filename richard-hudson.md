@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Richard Hudson
-description: How to win against Richard Hudson
-published: true
-date: 2026-02-18T19:12:48.235Z
+description: 
+published: false
+date: 2026-02-18T19:45:08.619Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:48.234Z
