@@ -1,8 +1,8 @@
 ---
 title: Rep. French Hill (AR-02): Wall Street's Congressman
 description: 
-published: true
-date: 2026-02-18T19:08:00.301Z
+published: false
+date: 2026-02-18T19:42:19.862Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:00.301Z
