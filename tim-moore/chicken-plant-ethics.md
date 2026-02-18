@@ -1,8 +1,8 @@
 ---
 title: Rep. Tim Moore (NC-14): Chicken Plant Self-Dealing and Ethics Complaints
 description: 
-published: true
-date: 2026-02-18T19:16:07.306Z
+published: false
+date: 2026-02-18T19:46:59.986Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:16:07.306Z
