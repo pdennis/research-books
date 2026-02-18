@@ -1,8 +1,8 @@
 ---
 title: Led The NRA's Top Legislative Priority While Accepting Maximum Contributions
 description: 
-published: true
-date: 2026-02-18T19:13:40.502Z
+published: false
+date: 2026-02-18T19:45:39.398Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:13:40.502Z
