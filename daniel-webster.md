@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Daniel Webster
-description: How to win against Daniel Webster
-published: true
-date: 2026-02-18T19:02:47.693Z
+description: 
+published: false
+date: 2026-02-18T19:40:06.250Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:02:47.693Z
