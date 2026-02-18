@@ -1,8 +1,8 @@
 ---
 title: Rep. Andy Ogles: Fabricated His Resume And Professional Credentials
 description: 
-published: true
-date: 2026-02-18T18:59:08.515Z
+published: false
+date: 2026-02-18T19:37:38.678Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:59:08.515Z
