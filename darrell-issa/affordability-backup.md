@@ -1,8 +1,8 @@
 ---
 title: Rep. Darrell Issa (CA-48): Can't Be Trusted on Affordability
 description: 
-published: true
-date: 2026-02-18T19:04:43.418Z
+published: false
+date: 2026-02-18T19:41:01.602Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:04:43.418Z
