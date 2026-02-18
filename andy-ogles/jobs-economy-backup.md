@@ -1,8 +1,8 @@
 ---
 title: Rep. Andy Ogles (TN-05): Can't Be Trusted on Jobs and the Economy
 description: 
-published: true
-date: 2026-02-18T18:59:00.396Z
+published: false
+date: 2026-02-18T19:37:33.370Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:59:00.396Z
