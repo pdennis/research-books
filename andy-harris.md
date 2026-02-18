@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Andy Harris
-description: How to win against Andy Harris
-published: true
-date: 2026-02-18T18:57:20.506Z
+description: 
+published: false
+date: 2026-02-18T19:36:11.213Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:57:20.506Z
