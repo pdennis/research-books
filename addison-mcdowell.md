@@ -2,7 +2,7 @@
 title: How To Win Against Addison McDowell
 description: 
 published: false
-date: 2026-02-18T20:32:03.566Z
+date: 2026-02-18T20:37:30.329Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:15.510Z
@@ -55,14 +55,17 @@ McDowell said he had [DOGE's "back"](https://www.yahoo.com/news/addison-mcdowell
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
+
 - [:hospital: *Health Care: Insurance Lobbyist Voted to Gut Coverage*](/addison-mcdowell/health-care-backup)  
 - [:shopping_cart: *Affordability: Said "Trust the President" — Then - Prices Went Up*](/addison-mcdowell/affordability-backup)  
 - [:briefcase: *Jobs and Economy: Tariffs Killed Local Jobs*](/addison-mcdowell/jobs-economy-backup)  
+
 {.links-list}
 
 ## Personal/Character Vulnerabilities
-[:briefcase: *Insurance Industry Lobbyist Turned Congressman*](/addison-mcdowell/lobbyist-background)  
-[:ballot_box: *No Experience, No Mandate*](/addison-mcdowell/no-experience)  
-[:no_entry_sign: *Refused to Face Constituents*](/addison-mcdowell/town-hall-dodge)  
-[:robot_face: *Backed DOGE While District Faced Job Cuts*](/addison-mcdowell/doge-cuts)  
+- [:briefcase: *Insurance Industry Lobbyist Turned Congressman*](/addison-mcdowell/lobbyist-background)  
+- [:ballot_box: *No Experience, No Mandate*](/addison-mcdowell/no-experience)  
+- [:no_entry_sign: *Refused to Face Constituents*](/addison-mcdowell/town-hall-dodge)  
+- [:robot: *Backed DOGE While District Faced Job Cuts*](/addison-mcdowell/doge-cuts)  
+
 {.links-list}
