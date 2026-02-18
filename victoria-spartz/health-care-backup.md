@@ -1,8 +1,8 @@
 ---
 title: Rep. Victoria Spartz (IN-05): Health Care
 description: 
-published: true
-date: 2026-02-18T19:19:42.790Z
+published: false
+date: 2026-02-18T19:49:13.560Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:19:42.790Z
