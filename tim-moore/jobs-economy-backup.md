@@ -1,8 +1,8 @@
 ---
 title: Rep. Tim Moore (NC-14): Can't Be Trusted on Jobs and the Economy
 description: 
-published: true
-date: 2026-02-18T19:16:38.460Z
+published: false
+date: 2026-02-18T19:47:19.187Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:16:38.460Z
