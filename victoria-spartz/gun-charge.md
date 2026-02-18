@@ -1,8 +1,8 @@
 ---
 title: Rep. Victoria Spartz (IN-05): Charged With Bringing a Gun Through Airport Security
 description: 
-published: true
-date: 2026-02-18T19:19:34.656Z
+published: false
+date: 2026-02-18T19:49:08.769Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:19:34.656Z
