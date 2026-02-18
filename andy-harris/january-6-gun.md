@@ -1,8 +1,8 @@
 ---
 title: Rep. Andy Harris (MD-01): January 6 and the Gun Incident
 description: 
-published: true
-date: 2026-02-18T18:58:15.341Z
+published: false
+date: 2026-02-18T19:36:46.732Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:58:15.341Z
