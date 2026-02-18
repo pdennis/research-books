@@ -1,0 +1,55 @@
+---
+title: Rep. Buddy Carter (GA-01): Can't Be Trusted on Affordability
+description: 
+published: true
+date: 2026-02-18T19:00:28.062Z
+tags: 
+editor: markdown
+dateCreated: 2026-02-18T19:00:28.062Z
+---
+
+# Rep. Buddy Carter (GA-01): Can't Be Trusted on Affordability
+
+Carter talks about lowering costs for Georgia families, but his record tells a different story. He voted to defend Trump's tariffs that are projected to cost the average American household $1,800 per year — tariffs that threaten Georgia's $28 billion poultry industry and the Port of Savannah's cargo operations. As a pharmacist, he voted against capping insulin at $35 a month, called the bill a "socialist plan," and backed repealing the Inflation Reduction Act's drug pricing provisions that allow Medicare to negotiate lower prices for seniors. He voted for the One Big Beautiful Bill that cut nearly $200 billion from SNAP — threatening 1.4 million Georgians who rely on food assistance — while dismissing concerns by saying he's "not in the least way concerned" about people losing benefits. And when local journalists asked about Medicaid funding losses hitting rural hospitals in his district, he dodged the question entirely.
+
+### Defended Price-Spiking Tariffs
+
+**Carter Voted To Block A Resolution Ending Trump's Tariffs On Canada.** According to GovTrack, Carter voted against H.J.Res. 72 on February 11, 2026, which would have terminated the national emergency declaration used to impose tariffs on Canadian imports. The resolution passed the House 219-211, with six Republicans crossing the aisle — but Carter was not among them. [GovTrack, [2/11/26](https://www.govtrack.us/congress/votes/119-2026/h65)]
+
+**Carter Praised Trump's Tariff Policies As "Home-Run Economic" Wins For Georgia.** According to a press release from Carter's office, Carter credited "targeted tariffs with generating billions in revenue while protecting American industries," claiming the policies "delivered real savings and bigger paychecks" for Georgians. [Rep. Buddy Carter Press Release, [Viewed 2/16/26](https://buddycarter.house.gov/news/documentsingle.aspx?DocumentID=16222)]
+
+- **Yale Budget Lab: Tariffs Cost The Average American Household $1,800 Per Year.** According to the Yale Budget Lab, the price level from all 2025 tariffs rises by 1.3% in the short run, "the equivalent of an average per household income loss of $1,800 in 2025." The burden falls hardest on the lowest-income households, who face losses more than three times greater than the top decile as a share of income. [Yale Budget Lab, [10/17/25](https://budgetlab.yale.edu/research/state-us-tariffs-october-17-2025)]
+
+**Retaliatory Tariffs Threatened Georgia's $28 Billion Poultry Industry And 88,000 Jobs.** According to Atlanta News First, Georgia's poultry sector employs more than 88,000 workers and generates $28 billion annually, ranking as the largest in the U.S. and seventh globally. U.S. Poultry and Egg Council President Greg Tyler warned, "'If we can't export this product, the U.S. industry will have to scale back production,'" as Canada removed U.S. poultry products from store shelves and China imposed a 15% tariff increase on chicken. [Atlanta News First, [4/25/25](https://www.atlantanewsfirst.com/2025/04/25/increasing-tariffs-could-threaten-georgias-poultry-industry-officials-warn/)]
+
+**Georgia Chamber Of Commerce Warned Tariffs Would Raise Grocery Prices And Threaten Peanut Exports.** According to Georgia Public Broadcasting, Georgia Chamber CEO Chris Clark warned that reciprocal tariffs could "make it more difficult to ship Georgia peanut products [...] around the world" and that consumers would "continue to" experience higher costs on groceries and retail goods, particularly items imported from Mexico and South America. Georgia leads the nation in peanut production, accounting for roughly half of all U.S.-grown peanuts. [GPB, [4/14/25](https://www.gpb.org/news/2025/04/14/georgia-chamber-urges-businesses-be-proactive-tariffs-take-effect)]
+
+**Port Of Savannah Saw Cargo Volumes Drop 9.6% In June 2025 As Tariff Uncertainty Roiled Trade.** According to The Washington Post, the Port of Savannah — which handles over 4.6 million container units annually and is a critical economic engine for Carter's district — saw container volumes fall 9.6% in June 2025 compared to a year earlier, after months of tariff-driven volatility. Over one-quarter of worldwide poultry exports flow through the port. [Washington Post, [7/29/25](https://www.washingtonpost.com/politics/2025/07/29/georgia-port-of-savannah-statistics-tariffs/1be921c2-6c8b-11f0-aab6-8141d7095676_story.html)]
+
+### Voted Against Lower Drug Prices
+
+**Carter Voted Against Capping Insulin Costs At $35 A Month, Called The Bill A "Socialist Plan."** According to NPR, the House passed the Affordable Insulin Now Act 232-193 on March 31, 2022, capping insulin costs at $35 per month or 25% of an insurance plan's negotiated price. Carter — a pharmacist — voted against the measure, saying, "'We want lower prices for drugs, particularly for insulin. But instead of fixing a broken system, this bill aims to control it,'" and called it a "socialist plan." [NPR, [3/31/22](https://www.npr.org/2022/03/31/1090085513/house-passes-bill-to-cap-insulin-prices)]
+
+**Carter Backed Repealing The Inflation Reduction Act's Drug Pricing Provisions, Calling It "The Worst Legislation I Have Ever Seen."** According to Axios, Carter replied "yes" when asked if he backed repeal of the drug pricing law, saying "'My hope is that it will be eliminated'" and "'In 10 years in the state legislature and 10 years in Congress, this is the worst legislation I've ever seen.'" The IRA allows Medicare to negotiate drug prices directly with pharmaceutical companies for the first time. [Axios, [9/23/22](https://www.axios.com/2022/09/23/gop-drug-price-repeal-target)]
+
+- **Carter's 2022 Opponent Called Him "Big Pharma's Favorite Son."** According to The Current, Carter's opponent Wade Herring "alleged Carter receives substantial pharmaceutical industry donations," dubbing him "'Big Pharma's Favorite Son'" in campaign materials after Carter's public statements opposing drug price regulations. Carter's former opioid supplier McKesson Corp. contributed $108,000 to Carter and his leadership PAC between 2014 and 2022. [Current, [10/18/22](https://thecurrentga.org/2022/10/18/coastal-ga-house-debate-sheds-light-on-healthcare-costs-personal-wealth/)]
+
+**Carter Opposed The Insulin Price Cap While Claiming Pharmacist Credentials.** According to The Current, Carter invoked his pharmacy background during a 2022 debate, stating "'For 40 years, I was behind the counter'" and "'I was the one who had to tell the patient how much their prescription was going to be'" — yet voted against the measure that would have capped that very cost at $35 per month. [Current, [10/18/22](https://thecurrentga.org/2022/10/18/coastal-ga-house-debate-sheds-light-on-healthcare-costs-personal-wealth/)]
+
+### Cut Food Assistance While Dismissing Concerns
+
+**Carter Voted For The One Big Beautiful Bill, Which Cut Nearly $200 Billion From SNAP.** According to FOX 5 Atlanta, the One Big Beautiful Bill Act — which Carter voted for and publicly championed — cuts nearly $200 billion from the Supplemental Nutrition Assistance Program through "cost-shifting to states, eligibility restrictions, increased work requirements and limits on USDA's ability to update benefit levels." The bill also imposed work requirements on parents of children 14 and older and raised the age threshold to 64. [FOX 5 Atlanta, [Viewed 2/16/26](https://www.fox5atlanta.com/news/snap-benefit-cuts-big-beautiful-impact-georgia-explained)]
+
+**Carter Dismissed SNAP Cut Concerns: "I Am Not In The Least Way Concerned."** According to FOX 5 Atlanta, Carter stated, "'I'm not in the least way concerned that people who are deserving to be on the program aren't going to be on the program,'" even as 1.4 million Georgians rely on SNAP benefits, including a disproportionate share of children, seniors, and people with disabilities. [FOX 5 Atlanta, [Viewed 2/16/26](https://www.fox5atlanta.com/news/snap-benefit-cuts-big-beautiful-impact-georgia-explained)]
+
+- **Atlanta Community Food Bank CEO: "We Would Essentially Have To Double Our Volume Overnight."** According to FOX 5 Atlanta, Kyle Waide, CEO of the Atlanta Community Food Bank, stated, "'Our demand has increased by 60% over the last three years,'" and warned that to replace lost SNAP funding, "'we would essentially have to double our volume overnight, and obviously, that's not possible.'" [FOX 5 Atlanta, [Viewed 2/16/26](https://www.fox5atlanta.com/news/snap-benefit-cuts-big-beautiful-impact-georgia-explained)]
+
+**Carter Dodged Questions About Rural Hospital Funding Losses And Short-Term Insurance Plans.** According to The Effingham Herald, Carter declined to address questions about $12 billion in projected Medicaid cuts affecting rural hospitals, short-term insurance plans lacking preexisting condition protections, and proposed VA staffing reductions — despite veterans comprising 9.2% of Effingham County's population — instead pivoting to talking points about eliminating "waste, fraud, and abuse." [Effingham Herald, [8/19/25](https://www.effinghamherald.net/local/qa-rep-buddy-carter-explains-support-for-one-big-beautiful-bill/)]
+
+### Impact on Everyday People
+
+**1.4 Million Georgians Faced Potential SNAP Disruption As Food Banks In Carter's District Scrambled To Respond.** According to WTOC, Second Harvest of Coastal Georgia — which serves 21 counties across Carter's district — distributes 25 million pounds of food annually through more than 240 nonprofit partners. Executive Director Mary Jane Crouch said, "'We're not sure what's going to happen with SNAP benefits, so — you know — we're here.'" [WTOC, [10/23/25](https://www.wtoc.com/2025/10/23/second-harvest-food-bank-steps-up-help-families-impacted-by-potential-snap-funding-cuts/)]
+
+**Nearly 39% Of Households Below The Poverty Line In Carter's District Experienced Food Insecurity.** According to Coastal Democracy, District 1 "consistently shows higher food insecurity rates than national averages," with grocery prices rising 25.6% from February 2020 to July 2025 — outpacing overall inflation of 21.6%. Lower-income households spent approximately one-third of their after-tax income on food. [Coastal Democracy, [Viewed 2/16/26](https://savannahindivisible.org/depleted-food-banks-and-food-insecurity)]
+
+**Savannah's Old City Mission Prepared For Increased Demand As SNAP Cuts Took Effect.** According to WTOC, Gregory Young, a cook at Old Savannah City Mission, noted, "'We offer three meals a day, and we also give out emergency food boxes,'" as approximately 14,736 households in Savannah and 45,000 households in Chatham County rely on SNAP benefits that Carter voted to cut. [WTOC, [10/23/25](https://www.wtoc.com/2025/10/23/second-harvest-food-bank-steps-up-help-families-impacted-by-potential-snap-funding-cuts/)]
