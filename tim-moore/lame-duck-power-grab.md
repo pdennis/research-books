@@ -1,8 +1,8 @@
 ---
 title: Rep. Tim Moore (NC-14): Lame-Duck Power Grab Disguised as Hurricane Relief
 description: 
-published: true
-date: 2026-02-18T19:16:46.491Z
+published: false
+date: 2026-02-18T19:47:24.054Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:16:46.491Z
