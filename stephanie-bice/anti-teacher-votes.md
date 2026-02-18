@@ -1,8 +1,8 @@
 ---
 title: Rep. Stephanie Bice (OK-05): Anti-Teacher Votes in Oklahoma State Senate
 description: 
-published: true
-date: 2026-02-18T19:14:31.100Z
+published: false
+date: 2026-02-18T19:46:04.163Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:14:31.100Z
