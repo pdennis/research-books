@@ -1,8 +1,8 @@
 ---
 title: Rep. Virginia Foxx (NC-05): $665,000 From For-Profit Colleges While Chairing the Committee That Oversees Them
 description: 
-published: true
-date: 2026-02-18T19:21:42.331Z
+published: false
+date: 2026-02-18T19:50:06.907Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:21:42.331Z
