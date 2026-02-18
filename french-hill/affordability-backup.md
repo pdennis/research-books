@@ -1,8 +1,8 @@
 ---
 title: Rep. French Hill (AR-02): Can't Be Trusted on Affordability
 description: 
-published: true
-date: 2026-02-18T19:06:07.626Z
+published: false
+date: 2026-02-18T19:41:54.125Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:06:07.626Z
