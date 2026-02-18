@@ -1,8 +1,8 @@
 ---
 title: Rep. Stephanie Bice (OK-05): Trump Loyalty Flip-Flop
 description: 
-published: true
-date: 2026-02-18T19:15:35.681Z
+published: false
+date: 2026-02-18T19:46:41.406Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:35.681Z
