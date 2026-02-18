@@ -1,8 +1,8 @@
 ---
 title: Rep. Tom McClintock (CA-05): Can't Be Trusted on Jobs and the Economy
 description: 
-published: true
-date: 2026-02-18T19:17:44.824Z
+published: false
+date: 2026-02-18T19:48:00.495Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:44.824Z
