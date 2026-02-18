@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Jay Obernolte
-description: How to win against Jay Obernolte
-published: true
-date: 2026-02-18T19:09:13.510Z
+description: 
+published: false
+date: 2026-02-18T19:43:07.393Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:09:13.510Z
