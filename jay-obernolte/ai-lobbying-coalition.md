@@ -1,8 +1,8 @@
 ---
 title: Rep. Jay Obernolte (CA-23): Paid AI Lobbying Coalition
 description: 
-published: true
-date: 2026-02-18T19:09:30.037Z
+published: false
+date: 2026-02-18T19:43:17.851Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:09:30.037Z
