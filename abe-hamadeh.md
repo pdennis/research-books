@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Abe Hamadeh
-description: Attack memo against Rep. Abe Hamadeh (AZ-08)
+description: 
 published: true
-date: 2026-02-18T18:29:12.819Z
+date: 2026-02-18T18:29:44.504Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:00.917Z
