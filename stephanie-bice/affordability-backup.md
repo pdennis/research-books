@@ -1,8 +1,8 @@
 ---
 title: Rep. Stephanie Bice (OK-05): Affordability
 description: 
-published: true
-date: 2026-02-18T19:14:23.123Z
+published: false
+date: 2026-02-18T19:45:58.993Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:14:23.123Z
