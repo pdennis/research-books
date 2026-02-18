@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Darrell Issa
-description: How to win against Darrell Issa
-published: true
-date: 2026-02-18T19:04:32.248Z
+description: 
+published: false
+date: 2026-02-18T19:40:53.444Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:04:32.248Z
