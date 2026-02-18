@@ -1,8 +1,8 @@
 ---
 title: Passed Zero Bills in Her First Two Years, Ranked Dead Last in Bipartisanship
 description: 
-published: true
-date: 2026-02-18T19:11:11.200Z
+published: false
+date: 2026-02-18T19:44:14.785Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:11:11.200Z
