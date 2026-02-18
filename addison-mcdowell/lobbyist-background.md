@@ -1,8 +1,8 @@
 ---
 title: Rep. Addison McDowell (NC-06): Insurance Industry Lobbyist Turned Congressman
 description: 
-published: true
-date: 2026-02-18T18:56:57.117Z
+published: false
+date: 2026-02-18T19:35:57.171Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:57.117Z
