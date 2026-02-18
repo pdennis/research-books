@@ -1,8 +1,8 @@
 ---
 title: Rep. Stephanie Bice (OK-05): STOCK Act Violations
 description: 
-published: true
-date: 2026-02-18T19:15:19.209Z
+published: false
+date: 2026-02-18T19:46:32.396Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:19.209Z
