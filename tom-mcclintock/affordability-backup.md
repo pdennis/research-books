@@ -1,8 +1,8 @@
 ---
 title: Rep. Tom McClintock (CA-05): Can't Be Trusted on Affordability
 description: 
-published: true
-date: 2026-02-18T19:17:12.713Z
+published: false
+date: 2026-02-18T19:47:40.915Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:12.713Z
