@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Victoria Spartz
-description: How to win against Victoria Spartz
-published: true
-date: 2026-02-18T19:19:17.866Z
+description: 
+published: false
+date: 2026-02-18T19:48:56.321Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:19:17.866Z
