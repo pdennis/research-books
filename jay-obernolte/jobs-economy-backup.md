@@ -1,8 +1,8 @@
 ---
 title: Rep. Jay Obernolte (CA-23): Can't Be Trusted on Jobs and the Economy
 description: 
-published: true
-date: 2026-02-18T19:09:53.363Z
+published: false
+date: 2026-02-18T19:43:32.146Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:09:53.363Z
