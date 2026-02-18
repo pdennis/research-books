@@ -1,8 +1,8 @@
 ---
 title: Rep. Andy Ogles: Fabricated A $320,000 Campaign Loan And Faces An FBI Investigation
 description: 
-published: true
-date: 2026-02-18T18:58:38.122Z
+published: false
+date: 2026-02-18T19:37:18.173Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:58:38.122Z
