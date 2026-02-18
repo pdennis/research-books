@@ -1,8 +1,8 @@
 ---
 title: Fled Her District After Nearly Losing, Attacked as "Carpetbagger" by Fellow Republicans
 description: 
-published: true
-date: 2026-02-18T19:10:41.452Z
+published: false
+date: 2026-02-18T19:44:00.928Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:10:41.452Z
