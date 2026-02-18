@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-02-10T20:25:35.147Z
+date: 2026-02-18T17:26:21.564Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -40,7 +40,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 
 ### Tiffany WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS
 
--   In 2025, Tiffany voted five times to protect Trump’s tariffs, including in April when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs from being repealed by Congress, dooming Wisconsinites who relied on him to a trade war and [rising prices](https://www.jsonline.com/story/news/local/2025/09/23/grocery-prices-rose-across-the-board-in-the-midwest-in-august-2025/86308349007/). Tariffs are contributing to [higher food prices](https://www.jsonline.com/story/news/local/2025/09/23/grocery-prices-rose-across-the-board-in-the-midwest-in-august-2025/86308349007/) and are [hurting Wisconsin small businesses and families](https://www.jsonline.com/story/money/business/2025/10/07/u-s-to-see-record-crop-yields-as-farmers-struggle-under-trump-tariffs/86550248007/).
+-   From 2025 to 2026, Tom Tiffany voted seven times to protect Trump’s tariffs. In February 2026, Tiffany [voted](http://clerk.house.gov/evs/2026/roll065.xml) against terminating tariffs against Canada and effectively [voted](http://clerk.house.gov/evs/2026/roll060.xml) to block votes on legislation terminating Trump's tariffs, even though the Tax Foundation found that Trump's tariffs resulted in a [$1,300 tax increase](https://plus.cq.com/doc/news-8404311?12) on American households in 2026. In April 2025, Tiffany was the  [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs from being repealed by Congress, dooming Wisconsinites who relied on him to a trade war and [rising prices](https://www.jsonline.com/story/news/local/2025/09/23/grocery-prices-rose-across-the-board-in-the-midwest-in-august-2025/86308349007/). Tariffs are contributing to [higher food prices](https://www.jsonline.com/story/news/local/2025/09/23/grocery-prices-rose-across-the-board-in-the-midwest-in-august-2025/86308349007/) and are [hurting Wisconsin small businesses and families](https://www.jsonline.com/story/money/business/2025/10/07/u-s-to-see-record-crop-yields-as-farmers-struggle-under-trump-tariffs/86550248007/).
 -   Despite this, Tiffany called Trump’s tariffs [“fair trade”](https://www.wpr.org/news/wisconsin-trump-tariffs-johnson-baldwin-economic-development) even while the [U.S. stock market](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) crashed during Trump’s escalating global trade war.
 
 **Message:** Tom Tiffany was the deciding vote to crush Wisconsin small businesses and ensure Wisconsin will pay more for groceries.
