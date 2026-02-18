@@ -1,8 +1,8 @@
 ---
 title: Rep. Dan Meuser (PA-09): Election Denial and January 6th
 description: 
-published: true
-date: 2026-02-18T19:01:41.828Z
+published: false
+date: 2026-02-18T19:39:25.812Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:01:41.828Z
