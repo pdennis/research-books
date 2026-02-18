@@ -1,8 +1,8 @@
 ---
 title: Rep. Andy Ogles (TN-05): Can't Be Trusted on Affordability
 description: 
-published: true
-date: 2026-02-18T18:58:30.820Z
+published: false
+date: 2026-02-18T19:37:12.900Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:58:30.820Z
