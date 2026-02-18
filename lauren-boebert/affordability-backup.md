@@ -1,8 +1,8 @@
 ---
 title: Rep. Lauren Boebert (CO-04) Can't Be Trusted on Affordability
 description: 
-published: true
-date: 2026-02-18T19:10:27.566Z
+published: false
+date: 2026-02-18T19:43:51.912Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:10:27.566Z
