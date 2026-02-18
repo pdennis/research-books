@@ -1,8 +1,8 @@
 ---
 title: How To Win Against French Hill
-description: How to win against French Hill
-published: true
-date: 2026-02-18T19:05:56.661Z
+description: 
+published: false
+date: 2026-02-18T19:41:44.695Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:05:56.661Z
