@@ -1,8 +1,8 @@
 ---
 title: Rep. Stephanie Bice (OK-05): Election Denial and January 6
 description: 
-published: true
-date: 2026-02-18T19:14:38.571Z
+published: false
+date: 2026-02-18T19:46:08.766Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:14:38.571Z
