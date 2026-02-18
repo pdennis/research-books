@@ -1,8 +1,8 @@
 ---
 title: Rep. Darrell Issa (CA-48): Arson Suspicion and Criminal History
 description: 
-published: true
-date: 2026-02-18T19:04:50.981Z
+published: false
+date: 2026-02-18T19:41:06.755Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:04:50.981Z
