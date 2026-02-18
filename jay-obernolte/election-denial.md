@@ -1,8 +1,8 @@
 ---
 title: Rep. Jay Obernolte (CA-23): Objected To 2020 Election Certification
 description: 
-published: true
-date: 2026-02-18T19:09:37.712Z
+published: false
+date: 2026-02-18T19:43:22.346Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:09:37.712Z
