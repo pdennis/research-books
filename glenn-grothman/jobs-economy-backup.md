@@ -1,8 +1,8 @@
 ---
 title: Rep. Glenn Grothman (WI-06): Jobs and the Economy
 description: 
-published: true
-date: 2026-02-18T19:08:49.317Z
+published: false
+date: 2026-02-18T19:42:53.271Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:49.317Z
