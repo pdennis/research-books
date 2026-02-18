@@ -1,8 +1,8 @@
 ---
 title: Rep. Tom McClintock (CA-05): Town Hall Confrontations and Constituent Anger
 description: 
-published: true
-date: 2026-02-18T19:18:00.550Z
+published: false
+date: 2026-02-18T19:48:11.013Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:00.550Z
