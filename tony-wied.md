@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Tony Wied
-description: How to win against Tony Wied
-published: true
-date: 2026-02-18T19:18:08.756Z
+description: 
+published: false
+date: 2026-02-18T19:48:15.709Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:08.756Z
