@@ -2,7 +2,7 @@
 title: How To Win Against Addison McDowell
 description: 
 published: false
-date: 2026-02-18T20:07:58.529Z
+date: 2026-02-18T20:26:45.230Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:15.510Z
@@ -55,9 +55,9 @@ McDowell said he had [DOGE's "back"](https://www.yahoo.com/news/addison-mcdowell
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
-[:hospital: *Health Care: Insurance Lobbyist Voted to Gut Coverage*](/addison-mcdowell/health-care-backup)  
-[:shopping_cart: *Affordability: Said "Trust the President" — Then Prices Went Up*](/addison-mcdowell/affordability-backup)  
-[:briefcase: *Jobs and Economy: Tariffs Killed Local Jobs*](/addison-mcdowell/jobs-economy-backup)  
+- [:hospital: *Health Care: Insurance Lobbyist Voted to Gut Coverage*](/addison-mcdowell/health-care-backup)  
+- [:shopping_cart: *Affordability: Said "Trust the President" — Then - Prices Went Up*](/addison-mcdowell/affordability-backup)  
+- [:briefcase: *Jobs and Economy: Tariffs Killed Local Jobs*](/addison-mcdowell/jobs-economy-backup)  
 {.links-list}
 
 ## Personal/Character Vulnerabilities
