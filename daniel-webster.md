@@ -2,7 +2,7 @@
 title: How To Win Against Daniel Webster
 description: 
 published: false
-date: 2026-02-19T05:20:26.896Z
+date: 2026-02-19T05:20:42.095Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:02:47.693Z
@@ -54,17 +54,17 @@ When [300 constituents booed him](https://www.nbcnews.com/id/wbna42773405) at a 
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
-[:hospital: *Health Care: Broke His Promise and Gutted Coverage*](/daniel-webster/health-care-backup)
-[:shopping_cart: *Affordability: Backed Tariffs and Cut Food Assistance*](/daniel-webster/affordability-backup)
-[:briefcase: *Jobs and Economy: One of the Least Effective in Congress*](/daniel-webster/jobs-economy-backup)
+- [:hospital: *Health Care: Broke His Promise and Gutted Coverage*](/daniel-webster/health-care-backup)
+- [:shopping_cart: *Affordability: Backed Tariffs and Cut Food Assistance*](/daniel-webster/affordability-backup)
+- [:briefcase: *Jobs and Economy: One of the Least Effective in Congress*](/daniel-webster/jobs-economy-backup)
 
 {.links-list}
 
 ## Personal and Character Vulnerabilities
-[:church: *IBLP Ministry Ties and Extreme Social Views*](/daniel-webster/iblp-ministry)
-[:ballot_box: *Election Denial and January 6th*](/daniel-webster/election-denial)
-[:no_entry: *Refuses to Face Constituents*](/daniel-webster/town-hall-avoidance)
-[:scroll: *Social Security Cuts*](/daniel-webster/social-security-cuts)
-[:shield: *Compared CFPB to "The Gestapo"*](/daniel-webster/cfpb-gestapo)
+- [:church: *IBLP Ministry Ties and Extreme Social Views*](/daniel-webster/iblp-ministry)
+- [:ballot_box: *Election Denial and January 6th*](/daniel-webster/election-denial)
+- [:no_entry: *Refuses to Face Constituents*](/daniel-webster/town-hall-avoidance)
+- [:scroll: *Social Security Cuts*](/daniel-webster/social-security-cuts)
+- [:shield: *Compared CFPB to "The Gestapo"*](/daniel-webster/cfpb-gestapo)
 
 {.links-list}
