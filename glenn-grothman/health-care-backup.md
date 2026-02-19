@@ -2,7 +2,7 @@
 title: Rep. Glenn Grothman (WI-06): Health Care Record
 description: 
 published: false
-date: 2026-02-18T19:42:43.872Z
+date: 2026-02-19T12:42:14.753Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:34.883Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T19:08:34.883Z
 
 # Rep. Glenn Grothman (WI-06): Health Care Record
 
-Rep. Glenn Grothman has spent a decade in Congress working against affordable health care for his own constituents. He voted to repeal the Affordable Care Act in 2017 and personally introduced an amendment to strip young adults of the right to stay on their parents' insurance until age 26. He voted against legislation to lower prescription drug costs in 2019 and voted against the Inflation Reduction Act in 2022, opposing the $35 monthly insulin cap and Medicare drug price negotiation that now benefit Wisconsin seniors. In 2025, he voted to advance a budget that the Wisconsin Department of Health Services projects will strip health coverage from more than 276,000 Wisconsinites. When asked on television whether ACA subsidies would survive, Grothman called the expanded coverage a "nightmare" and said "we don't have the money at all, at all, at all."
+Rep. Glenn Grothman has spent a decade in Congress working against affordable health care for his own constituents. He voted to repeal the Affordable Care Act in 2017 and personally introduced an amendment to strip young adults of the right to stay on their parents' insurance until age 26. He voted against legislation to lower prescription drug costs in 2019 and voted against the Inflation Reduction Act in 2022, opposing the $35 monthly insulin cap and Medicare drug price negotiation that now benefit Wisconsin seniors. In 2025, he voted to advance a budget that the Wisconsin Department of Health Services projects will strip health coverage from more than 276,000 Wisconsinites. When asked on television whether ACA subsidies would survive he said "we don't have the money at all, at all, at all."
 
 ### Voted to Repeal the ACA and Strip Pre-Existing Condition Protections
 
@@ -34,7 +34,6 @@ Rep. Glenn Grothman has spent a decade in Congress working against affordable he
 
 - **The Bill Imposes New Work Requirements And Blocks Funding For Community Health Clinics.** According to the Wisconsin Department of Health Services, the reconciliation bill "implements work requirements for adults ages 19-64 without dependents" and "restricts Medicaid payments to community clinics providing family planning services for one year." An estimated 63,000 adults without dependents face the highest risk of losing coverage. [Wisconsin DHS, [7/15/25](https://www.dhs.wisconsin.gov/news/releases/071525.htm)]
 
-**Grothman Called Expanded Health Coverage A "Nightmare" On Television.** According to Crooks and Liars, Grothman appeared on the Milwaukee-based talk show UpFront in December 2025 and characterized expanded social programs including ACA subsidies as a "nightmare." When asked whether the subsidies would survive, Grothman said, "we don't have the money at all, at all, at all." [Crooks and Liars, [12/9/25](https://crooksandliars.com/2025/12/gop-congressman-gets-meloncholy-about)]
 
 ### Impact on Everyday People
 
