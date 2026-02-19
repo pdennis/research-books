@@ -2,7 +2,7 @@
 title: How To Win Against Andy Harris
 description: 
 published: false
-date: 2026-02-19T02:38:13.535Z
+date: 2026-02-19T02:38:53.725Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:57:20.506Z
@@ -19,7 +19,7 @@ He [cheered Trump's tariffs](https://danrodricks.com/2025/04/05/trumpy-harris-co
 Harris [demanded his government health plan start immediately](https://www.baltimoresun.com/2010/11/18/andy-harris-learns-a-lesson-2/) upon taking office while campaigning to repeal the ACA — which [cut the uninsured rate in his district by 54%](https://www.baltimoresun.com/2017/08/27/marylands-eastern-shore-a-gop-stronghold-home-to-thousands-who-now-have-insurance-thanks-to-obamacare/), more than any other district in Maryland.
 As Freedom Caucus chair, he pushed to [accelerate Medicaid work requirements](https://www.capitalgazette.com/2025/05/22/andy-harris-votes-present-on-trump-bill/) that could strip coverage from [24,000 people in his district](https://www.thebanner.com/politics-power/national-politics/andy-harris-trump-nill-vote-REWWZFV7WVHFPGEHSPYVLVALPQ/), where [23% of residents rely on Medicaid](https://www.thebanner.com/politics-power/national-politics/andy-harris-trump-nill-vote-REWWZFV7WVHFPGEHSPYVLVALPQ/).
 He was the [only Maryland congressman to vote against the Inflation Reduction Act](https://www.baltimoresun.com/2022/08/14/from-lower-prescription-costs-to-cleaner-power-heres-what-the-federal-inflation-reduction-act-means-for-maryland/), which capped insulin at $35 and let Medicare negotiate drug prices.
-He has accepted [over $920,000 from health care industry PACs](https://www.fec.gov/data/receipts/?committee_id=C00435974), including a [$1,000 donation from Purdue Pharma](https://www.fec.gov/data/receipts/?committee_id=C00435974&contributor_name=purdue+pharma) during the opioid crisis.
+He has accepted [over \$920,000 from health care industry PACs](https://www.fec.gov/data/receipts/?committee_id=C00435974), including a [$1,000 donation from Purdue Pharma](https://www.fec.gov/data/receipts/?committee_id=C00435974&contributor_name=purdue+pharma) during the opioid crisis.
 
 **Message:** Harris is a doctor who demands government health care for himself while voting to take it away from his own patients.
 
