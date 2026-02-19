@@ -2,7 +2,7 @@
 title: Andy Ogles
 description: 
 published: false
-date: 2026-02-19T03:02:09.252Z
+date: 2026-02-19T03:50:57.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T18:36:23.509Z
@@ -50,18 +50,6 @@ He reported a [\$320,000 campaign loan that was actually \$20,000](https://www.a
 
 **Message:** Ogles lied about who he is to get elected and now faces a federal criminal investigation for lying about his campaign finances.
 
-### **OGLES DISMISSED GUN VIOLENCE IN HIS DISTRICT**
-
-Ogles posted a [Christmas card of his family holding AR-15s](https://www.nbcnews.com/politics/politics-news/rep-andy-ogles-whose-district-includes-nashville-criticized-gun-filled-rcna76961), then called gun control ["ridiculous"](https://www.mediaite.com/crime/the-idea-that-guns-are-the-problem-here-is-ridiculous-congressman-representing-nashville-school-in-mass-shooting-scoffs-at-gun-control/) days after six people — including three nine-year-old children — were killed at The Covenant School in his own district.
-
-**Message:** Ogles posed with AR-15s, then shrugged off a mass shooting that killed children in his own district.
-
-### **OGLES PUSHED FOR A TRUMP THIRD TERM AND ATTACKED THE COURTS**
-
-Ogles [introduced a constitutional amendment](https://www.newsweek.com/trump-third-term-constitutional-amendment-andy-ogles-2025020) to let Trump serve a third term, called judges who blocked tariffs ["woke activist judges"](https://www.newsweek.com/andy-ogles-trump-third-term-reset-courts-tariffs-2078645), and [introduced impeachment articles](https://en.wikipedia.org/wiki/Andy_Ogles) against two federal judges who ruled against the administration.
-
-**Message:** Ogles wants to rewrite the Constitution for Trump and impeach any judge who stands in the way.
-
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
@@ -74,7 +62,6 @@ Ogles [introduced a constitutional amendment](https://www.newsweek.com/trump-thi
 ## Personal and Character Vulnerabilities
 - [:eyes: *Ogles Fabricated His Resume And Professional Credentials*](/andy-ogles/resume-fabrication)
 - [:grimacing: *Ogles Fabricated A \$320,000 Campaign Loan And Faces An FBI Investigation*](/andy-ogles/campaign-finance-fraud)
-- [:gun: *Ogles Dismissed Gun Violence After The Covenant School Shooting*](/andy-ogles/gun-violence)
-- [:crown: *Ogles Pushed A Trump Third Term And Attacked The Courts*](/andy-ogles/trump-third-term)
-
+- [:house: *Ogles Lives In Donor's Multimillion Dollar House With Speaker Johnson*](/andy-ogles/unusual-living-situation)
+- [:dollar: *Rep. Andy Ogles Raised Nearly $25,000 For A Children's Burial Garden Using A Photo Of His Stillborn Baby — Then Kept The Money And Never Built It*](/andy-ogles/andy-ogles-gofundme-fraud)
 {.links-list}
