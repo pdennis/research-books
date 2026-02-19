@@ -2,7 +2,7 @@
 title: Mike Lawler
 description: 
 published: true
-date: 2026-02-13T17:39:47.786Z
+date: 2026-02-19T22:44:58.624Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T16:30:11.819Z
@@ -46,7 +46,7 @@ Mike Lawler sells a moderate brand, but he is a far-right [_gaslighter_](https:/
 ### **LAWLER DEFENDED TRUMP’S TARIFFS AT NEW YORKERS’ EXPENSE**
 
 -   Lawler has [_repeatedly_](https://www.youtube.com/watch?v=LjvpBmraipg&list=PLWuvMonaruUjVKsh34r0qO45F9qNd_lgA&index=11) [_defended_](https://www.youtube.com/watch?v=a5uVeAuCYC0&list=PLWuvMonaruUjVKsh34r0qO45F9qNd_lgA&index=4) Trump’s tariffs despite also acknowledging they would cause [_pain_](https://www.youtube.com/watch?v=xbViT8A03pY&list=PLWuvMonaruUjVKsh34r0qO45F9qNd_lgA&index=5). He claimed they were “very effective” and that paired with Republicans’ tax giveaways to the wealthy they would cause the economy to [_“take off.”_](https://www.youtube.com/watch?v=a5uVeAuCYC0)
--   Then, he voted six times to protect the tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming New Jersey families who relied on him to a [_trade war_](https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-small-business-nyc-prices) and [_rising prices_](https://spectrumlocalnews.com/nys/central-ny/politics/2025/08/12/n-y--businesses-brace-for-impacts-of-u-s--tariffs). Tariffs are contributing to [_higher food prices_](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and pain for [_business owners_](https://spectrumlocalnews.com/nys/central-ny/politics/2025/08/12/n-y--businesses-brace-for-impacts-of-u-s--tariffs).
+-   Then, he voted six times to protect the tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming New York families who relied on him to a [_trade war_](https://www.theguardian.com/us-news/2025/apr/04/trump-tariffs-small-business-nyc-prices) and [_rising prices_](https://spectrumlocalnews.com/nys/central-ny/politics/2025/08/12/n-y--businesses-brace-for-impacts-of-u-s--tariffs). Tariffs are contributing to [_higher food prices_](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and pain for [_business owners_](https://spectrumlocalnews.com/nys/central-ny/politics/2025/08/12/n-y--businesses-brace-for-impacts-of-u-s--tariffs).
 
 **Message:** Lawler is fine with New Yorkers paying more for groceries and everything else if it's what Trump wants.   
 
