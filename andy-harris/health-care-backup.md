@@ -2,7 +2,7 @@
 title: Rep. Andy Harris (MD-01): Can't Be Trusted on Health Care
 description: 
 published: false
-date: 2026-02-18T19:36:36.611Z
+date: 2026-02-19T02:53:27.126Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:57:59.121Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T18:57:59.121Z
 
 # Rep. Andy Harris (MD-01): Can't Be Trusted on Health Care
 
-Rep. Andy Harris, a physician-anesthesiologist, has built a career opposing health care access for his constituents while benefiting from government-subsidized coverage himself. Upon winning election in 2010, Harris demanded to know why his taxpayer-funded congressional health plan would not kick in immediately — even as he campaigned on repealing the Affordable Care Act that extended coverage to tens of thousands of his own Eastern Shore constituents. He voted to repeal the ACA, voted for the American Health Care Act, voted against the Inflation Reduction Act's $35 insulin cap and Medicare drug price negotiation, and as Freedom Caucus chair pushed to accelerate Medicaid work requirements that could strip coverage from an estimated 24,000 people in his district. All the while, Harris has accepted over $920,000 from health care industry PACs — including anesthesiology groups, pharmaceutical companies, surgeons, and hospital associations — plus a 2019 donation from Purdue Pharma at the height of the opioid crisis ravaging his district.
+Rep. Andy Harris, a physician-anesthesiologist, has built a career opposing health care access for his constituents while benefiting from government-subsidized coverage himself. Upon winning election in 2010, Harris demanded to know why his taxpayer-funded congressional health plan would not kick in immediately — even as he campaigned on repealing the Affordable Care Act that extended coverage to tens of thousands of his own Eastern Shore constituents. He voted to repeal the ACA, voted for the American Health Care Act, voted against the Inflation Reduction Act's $35 insulin cap and Medicare drug price negotiation, and as Freedom Caucus chair pushed to accelerate Medicaid work requirements that could strip coverage from an estimated 24,000 people in his district. All the while, Harris has accepted over $1.3 million from health sector PACs — including pharmaceutical companies, anesthesiology groups, surgeons, and hospital associations — plus a 2019 donation from Purdue Pharma at the height of the opioid crisis ravaging his district.
 
 ### Demanded Government Health Care for Himself While Fighting to Deny It to Others
 
@@ -42,8 +42,7 @@ Rep. Andy Harris, a physician-anesthesiologist, has built a career opposing heal
 
 ### Accepted Health Care Industry PAC Money While Voting Against Health Care Access
 
-**Harris Accepted Over $920,000 from Health Care Industry PACs Over His Career.** According to FEC records, Harris received approximately $921,000 in health care industry PAC contributions from 2007 to 2025, including approximately $327,000 from medical associations, $206,000 from surgical specialty PACs, $177,000 from anesthesiology groups (his own specialty), $85,000 from pharmaceutical and biotech companies, $47,000 from dental PACs, and $43,000 from health care industry and managed care PACs. Top donors include the American Society of Anesthesiologists PAC (~$82,000), the American College of Radiology PAC (~$68,000), the American Orthopaedic Surgeons PAC (~$67,000), and the American Medical Association PAC (~$63,000). [FEC, [Viewed 2/16/26](https://www.fec.gov/data/receipts/?committee_id=C00435974)]
-
+**Harris Accepted Over $1.3 Million In Health Sector PAC Contributions Over His Career, Including $200,285 From Pharmaceutical And Health Product Interests.** According to OpenSecrets, Harris received $1,318,650 in PAC contributions from the health sector from 2007 to 2024, and $2,903,565 from health professionals (individuals and PACs combined). The pharmaceutical and health products industry contributed $200,285. [OpenSecrets, [2026](https://www.opensecrets.org/members-of-congress/andy-harris/industries?cid=N00029147&cycle=CAREER])]
 - **Harris Accepted a $1,000 Donation from Purdue Pharma's PAC in July 2019, During the Opioid Crisis.** According to FEC records, Harris accepted a $1,000 contribution from "Purdue Pharma Inc. PAC (Purdue PAC)" on July 22, 2019, even as Purdue Pharma faced thousands of lawsuits over its role fueling the opioid epidemic. Maryland's Eastern Shore was among the regions hardest hit by the crisis. Maryland later secured a $90 million settlement from Purdue Pharma and the Sackler family. [FEC, [Viewed 2/16/26](https://www.fec.gov/data/receipts/?committee_id=C00435974&contributor_name=purdue+pharma)]
 
 - **Harris Accepted Approximately $34,000 from Emergent BioSolutions, Which Was Later Involved in COVID Vaccine Contamination.** According to FEC records, Harris accepted approximately $34,000 from Emergent BioSolutions PAC between 2011 and 2023. The Gaithersburg, Maryland-based biodefense company was later involved in a COVID-19 vaccine manufacturing contamination scandal at its Baltimore plant that forced the destruction of millions of doses. [FEC, [Viewed 2/16/26](https://www.fec.gov/data/receipts/?committee_id=C00435974&contributor_name=emergent)]
