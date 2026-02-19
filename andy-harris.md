@@ -2,7 +2,7 @@
 title: How To Win Against Andy Harris
 description: 
 published: false
-date: 2026-02-19T02:38:53.725Z
+date: 2026-02-19T02:42:03.132Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:57:20.506Z
@@ -39,7 +39,7 @@ He [defended DOGE mass layoffs](https://www.cbsnews.com/baltimore/news/maryland-
 
 **Message:** Harris voted against billions in infrastructure and jobs for Maryland, then called his own constituents' livelihoods "immoral."
 
-### **JANUARY 6 AND THE GUN INCIDENT**
+### **EXTREME: JANUARY 6 AND THE GUN INCIDENT**
 
 Harris [voted to overturn the 2020 election results from both Arizona and Pennsylvania](https://www.marylandmatters.org/2021/01/07/after-siege-congress-affirms-electoral-college-votes-harris-supports-objections-overnight/) — even after the Capitol was stormed. He had been [summoned to the White House](https://www.baltimoresun.com/opinion/editorial/bs-ed-0714-andy-harris-january-6-20220713-p6vjpkjvprfcjpx3pum5ud2axy-story.html) to discuss overturning the election and [signed the Texas amicus brief](https://accountability.gop/profile/rep-andy-harris/) seeking to overturn the results.
 Two weeks later, Harris [set off a metal detector near the House chamber while carrying a concealed firearm](https://www.washingtonpost.com/local/md-politics/andy-harris-gun/2021/01/21/81c7ba90-5c63-11eb-8bcf-3877871c819d_story.html). When an officer detected the gun, Harris tried to hand it to another congressman, who refused.
@@ -50,10 +50,9 @@ The Baltimore Sun called Harris an ["unrepentant Jan. 6 co-conspirator"](https:/
 ### **FREEDOM CAUCUS EXTREMISM AND PERSONAL SCANDALS**
 
 Harris was [elected Freedom Caucus chair with Trump's endorsement and Project 2025 backing](https://marylandmatters.org/briefs/maryland-rep-harris-elected-chair-of-the-ultra-conservative-freedom-caucus/). He has said he would [support a national abortion ban after approximately six weeks](https://democrats.org/news/%F0%9F%9A%A8new-project-2025-backed-rep-andy-harris-named-new-house-freedom-caucus-chair/).
-He has [personally blocked D.C. from legalizing marijuana for over a decade](https://www.baltimoresun.com/2025/06/11/rep-andy-harris-and-d-c-have-a-long-personal-war-over-marijuana-and-hes-not-budging/) — even as his own state of Maryland legalized it.
 He was [accused of an ethics violation for failing to disclose his wife's consulting income](https://www.washingtonpost.com/local/md-politics/rep-andy-harris-accused-of-ethical-violation-for-failing-to-disclose-wifes-income/2018/10/17/2f2f982e-d237-11e8-8c22-fa2ef74bd6d6_story.html) from his own campaign committees.
 
-**Message:** Harris is an extremist who pushes national abortion bans and blocks D.C. self-governance while hiding his wife's income from ethics regulators.
+**Message:** Harris is an extremist who pushes national abortion bans while hiding his wife's income from ethics regulators.
 
 # Issue Back-Ups
 
