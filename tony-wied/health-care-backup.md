@@ -2,7 +2,7 @@
 title: Rep. Tony Wied (WI-08): Can't Be Trusted on Health Care
 description: 
 published: false
-date: 2026-02-18T19:48:36.088Z
+date: 2026-02-19T17:21:37.262Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:44.417Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T19:18:44.417Z
 
 # Rep. Tony Wied (WI-08): Can't Be Trusted on Health Care
 
-Despite campaigning as a small business owner who understood the burden of rising health care costs, Rep. Tony Wied has compiled a record in Congress that threatens health coverage for hundreds of thousands of his own constituents. Wied voted for the "Big Beautiful Bill," which the Wisconsin Department of Health Services projects will strip health insurance from 270,000 Wisconsinites through Medicaid work requirements and deep spending cuts. He voted for a Republican health care bill that deliberately excluded an extension of ACA premium subsidies — subsidies that were keeping costs affordable for nearly 290,000 Wisconsinites on the marketplace — and dismissed the resulting premium spikes by blaming "Obamacare." Even fellow Wisconsin Republican Derrick Van Orden broke with the party to vote for the ACA subsidy extension; Wied refused. When constituents tried to hold him accountable, Wied ducked in-person town halls in favor of curated telephone events and left Medicaid advocates waiting outside his locked office. Green Bay's mayor, city council members, and community leaders have all publicly called him out.
+Despite campaigning as a small business owner who understood the burden of rising health care costs, Rep. Tony Wied has compiled a record in Congress that threatens health coverage for hundreds of thousands of his own constituents. Wied voted for the "Big Beautiful Bill," which the Wisconsin Department of Health Services projects will strip health insurance from 270,000 Wisconsinites through Medicaid work requirements and deep spending cuts. He voted for a Republican health care bill that deliberately excluded an extension of ACA premium subsidies — subsidies that were keeping costs affordable for nearly 290,000 Wisconsinites on the marketplace — and dismissed the resulting premium spikes by blaming "Obamacare." When constituents tried to hold him accountable, Wied ducked in-person town halls in favor of curated telephone events and left Medicaid advocates waiting outside his locked office. Green Bay's mayor, city council members, and community leaders have all publicly called him out.
 
 ### Said One Thing on the Campaign Trail, Did Another in Congress
 
@@ -18,7 +18,6 @@ Despite campaigning as a small business owner who understood the burden of risin
 
 **Wied Voted For A Health Care Bill That Deliberately Excluded ACA Subsidy Extensions, Letting Premiums Spike.** According to WBAY, Wied voted to support the Republican health care bill that passed the House by a narrow five-vote margin. The bill did not extend ACA tax credits. When asked about the four Republicans who joined Democrats to push for a three-year subsidy extension, Wied said, "'We have all seen our prices continue to go up because of Obamacare, and I think that's what they feel, and I don't agree.'" [WBAY, [12/19/25](https://www.wbay.com/2025/12/20/rep-tony-wied-speaks-about-his-vote-healthcare-bill/)]
 
-**Even Fellow Wisconsin Republican Van Orden Voted To Extend ACA Subsidies — Wied Did Not.** According to Wisconsin Public Radio, Rep. Derrick Van Orden was one of just 17 Republicans in the House to side with Democrats and pass a clean three-year extension of enhanced ACA tax credits, calling it necessary to "buy time" while Republicans fix the health care system. Wied was not among them. [WPR, [1/8/26](https://www.wpr.org/news/van-orden-sides-with-democrats-on-aca-subsidy-extension-vote)]
 
 ### Voted To Strip Health Coverage From Hundreds of Thousands of Wisconsinites
 
