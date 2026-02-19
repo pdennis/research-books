@@ -2,7 +2,7 @@
 title: How To Win Against Tony Wied
 description: 
 published: false
-date: 2026-02-18T19:48:15.709Z
+date: 2026-02-19T13:26:20.829Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:08.756Z
@@ -52,14 +52,14 @@ Wied's campaign circulators were [accused of tricking voters into signing nomina
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
-[:hospital: *Can't Be Trusted on Health Care*](/tony-wied/health-care-backup)
-[:shopping_cart: *Can't Be Trusted on Affordability*](/tony-wied/affordability-backup)
-[:briefcase: *Can't Be Trusted on Jobs and the Economy*](/tony-wied/jobs-economy-backup)
+- [:hospital: *Can't Be Trusted on Health Care*](/tony-wied/health-care-backup)
+- [:shopping_cart: *Can't Be Trusted on Affordability*](/tony-wied/affordability-backup)
+- [:briefcase: *Can't Be Trusted on Jobs and the Economy*](/tony-wied/jobs-economy-backup)
 {.links-list}
 
 ## Personal/Character Vulnerabilities
-[:chart_with_upwards_trend: *Active Stock Trading While Voting on Market-Moving Policies*](/tony-wied/stock-trading)
-[:no_entry_sign: *Ducked Constituents and Held Curated Town Halls*](/tony-wied/constituent-avoidance)
-[:pencil: *Deceptive Campaign Nomination Paper Collection*](/tony-wied/nomination-papers)
-[:twisted_rightwards_arrows: *Said One Thing on the Campaign Trail, Did the Opposite in Congress*](/tony-wied/broken-promises)
+- [:chart_with_upwards_trend: *Active Stock Trading While Voting on Market-Moving Policies*](/tony-wied/stock-trading)
+- [:no_entry_sign: *Ducked Constituents and Held Curated Town Halls*](/tony-wied/constituent-avoidance)
+- [:pencil: *Deceptive Campaign Nomination Paper Collection*](/tony-wied/nomination-papers)
+- [:twisted_rightwards_arrows: *Said One Thing on the Campaign Trail, Did the Opposite in Congress*](/tony-wied/broken-promises)
 {.links-list}
