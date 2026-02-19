@@ -2,7 +2,7 @@
 title: How To Win Against Victoria Spartz
 description: 
 published: false
-date: 2026-02-18T19:48:56.321Z
+date: 2026-02-19T12:56:48.457Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:19:17.866Z
@@ -30,7 +30,7 @@ The [Yale Budget Lab estimates tariffs cost the average household $1,700/year](h
 
 ### **JOBS AND THE ECONOMY: VOTED AGAINST EVERY MAJOR JOBS BILL, THEN BACKED TARIFFS KILLING JOBS**
 
-Spartz voted against the [CHIPS Act ($3.87B semiconductor investment in Indiana)](https://www.govtrack.us/congress/votes/117-2022/h404), the [Infrastructure Law ($7.9B for Indiana roads and bridges)](https://www.govtrack.us/congress/votes/117-2021/h369), and the [Inflation Reduction Act ($7.8B in clean energy investment in Indiana)](https://www.govtrack.us/congress/votes/117-2022/h420) — opposing every bipartisan jobs bill that brought billions to her state.
+Spartz voted against the [CHIPS Act (\$3.87B semiconductor investment in Indiana)](https://www.govtrack.us/congress/votes/117-2022/h404), the [Infrastructure Law (\$7.9B for Indiana roads and bridges)](https://www.govtrack.us/congress/votes/117-2021/h369), and the [Inflation Reduction Act ($7.8B in clean energy investment in Indiana)](https://www.govtrack.us/congress/votes/117-2022/h420) — opposing every bipartisan jobs bill that brought billions to her state.
 The tariffs she voted to protect triggered [900 layoffs at three Stellantis plants in Kokomo](https://www.wishtv.com/news/business/stellantis-announces-layoffs-at-kokomo-plant/) — in her own district. [Indiana farm income is projected to drop over $1 billion in 2026](https://ag.purdue.edu/commercialag/home/resource/2026/02/farm-income-outlook-for-indiana/).
 
 **Message:** Spartz voted against $19.5 billion in investment for Indiana, then backed tariffs that are laying off her own constituents in Kokomo.
@@ -43,13 +43,6 @@ She [announced her retirement](https://www.nbcnews.com/politics/congress/republi
 
 **Message:** Spartz's own staff can't work for her, her own party can't count on her, and her constituents can't trust her.
 
-### **UKRAINE: CALLED ZELENSKY A "MORON" AND SAID UKRAINE SHOULD CEDE TERRITORY**
-
-The Ukrainian-born congresswoman said Ukraine was ["not in a position to demand the return of all occupied territories"](https://kyivindependent.com/uss-only-ukrainian-born-lawmaker-says-ukraine-should-cede-land-to-russia-demand-zelenskys-resignation/) and called Zelensky and his administration ["morons and crooks."](https://www.kyivpost.com/post/50487)
-Ukraine's Foreign Ministry fired back: ["Unlike Victoria, all of our land has always been and will always remain Ukrainian."](https://kyivindependent.com/foreign-ministry-slams-ukrainian-born-us-lawmaker-claim-on-territorial-demands/)
-Spartz [voted against $61 billion in Ukraine aid](https://kyivindependent.com/ukrainian-born-republican-congresswoman-spartz-says-she-wont-vote-for-ukraine-aid-bill/) despite previously saying "only weapons can bring peace."
-
-**Message:** Even Ukraine's own government called out Spartz for echoing Kremlin talking points.
 
 # Issue Back-Ups
 
@@ -57,13 +50,13 @@ Spartz [voted against $61 billion in Ukraine aid](https://kyivindependent.com/uk
 [:hospital: *Health Care: Lied About Preexisting Conditions, Voted to Gut Medicaid*](/victoria-spartz/health-care-backup)
 [:shopping_cart: *Affordability: Criticized Biden Tariffs, Protected Trump's Bigger Ones*](/victoria-spartz/affordability-backup)
 [:briefcase: *Jobs: Voted Against Every Major Jobs Bill, Backed Job-Killing Tariffs*](/victoria-spartz/jobs-economy-backup)
+[:chart_with_downwards_trend: *Tariff Flip-Flop: Criticized Biden's Tariffs, Protected Trump's Bigger Ones*](/victoria-spartz/tariff-flip-flop)
 {.links-list}
 
 ## Personal/Character Vulnerabilities
 [:rage: *Ethics Investigation: Staff Abuse, Furniture-Throwing, and "Complete and Total Rage"*](/victoria-spartz/staff-abuse-ethics)
 [:gun: *Charged With Bringing a Gun Through Airport Security*](/victoria-spartz/gun-charge)
-[:arrows_counterclockwise: *Retired, Un-Retired, Then Boycotted Her Own Party*](/victoria-spartz/retire-unretire-boycott)
+[:arrows_counterclockwise: *Unreliable: Retired, Un-Retired, Then Boycotted Her Own Party*](/victoria-spartz/retire-unretire-boycott)
 [:pushpin: *Caved to Trump on the Budget Bill She Called a Fiscal Disaster*](/victoria-spartz/trump-cave)
-[:ukraine: *Called Zelensky a "Moron" and Said Ukraine Should Cede Territory*](/victoria-spartz/zelensky-ukraine)
-[:chart_with_downwards_trend: *Tariff Flip-Flop: Criticized Biden's Tariffs, Protected Trump's Bigger Ones*](/victoria-spartz/tariff-flip-flop)
+
 {.links-list}
