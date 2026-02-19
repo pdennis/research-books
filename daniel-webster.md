@@ -2,7 +2,7 @@
 title: How To Win Against Daniel Webster
 description: 
 published: false
-date: 2026-02-19T12:19:00.769Z
+date: 2026-02-19T12:20:19.982Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:02:47.693Z
@@ -36,7 +36,7 @@ He voted against the [\$15 minimum wage](https://clerk.house.gov/Votes/2019496) 
 Webster was ranked [225th out of 228 House Republicans](https://www.tallahassee.com/story/news/politics/2025/03/27/daniel-webster-jared-moskowitz-florida-least-effective-congress/82667620007/) in legislative effectiveness -- zero bills made it to committee in the 118th Congress. He missed more than twice the median rate of votes. 
 
 His district has been hit by major job losses -- [1,400 workers at Kroger's Groveland center](https://www.orlandosentinel.com/2025/11/18/kroger-closing-groveland-automated-facility-impacting-nearly-1400-workers/) and [500 at Frito-Lay in Orlando](https://www.orlandosentinel.com/2025/11/05/frito-lay-eliminates-500-jobs-as-it-closes-orlando-plants/) -- while [Sumter County's unemployment nearly doubled](https://usafacts.org/answers/what-is-the-unemployment-rate/county/sumter-county-fl/) to 7.9%.
-He [blocked farmworkers from unionizing](https://webster.house.gov/2024/5/webster-introduces-legislation-to-block-biden-s-agricultural-labor-regulation), voted to make it [easier to misclassify workers](https://www.govinfo.gov/content/pkg/CRPT-118hrpt445/html/CRPT-118hrpt445.htm) as independent contractors, and compared the [CFPB to "the Gestapo"](https://slate.com/news-and-politics/2014/02/video-dan-webster-compares-cfpb-to-the-gestapo.html).
+He [blocked farmworkers from unionizing](https://webster.house.gov/2024/5/webster-introduces-legislation-to-block-biden-s-agricultural-labor-regulation), voted to make it [easier to misclassify workers](https://www.govinfo.gov/content/pkg/CRPT-118hrpt445/html/CRPT-118hrpt445.htm) as independent contractors.
 When [300 constituents booed him](https://www.nbcnews.com/id/wbna42773405) at a 2011 town hall, he stopped holding them. When [200+ showed up in 2025](https://www.wintergardenvox.com/articles/voters-sound-off-at-webster-district-town-hall), he refused to attend.
 
 **Message:** In 43 years of elected office, Webster has accomplished almost nothing for working people -- but has done plenty to make their lives harder.
@@ -64,6 +64,5 @@ In 1990, Webster [sponsored a "covenant marriage" bill](https://www.factcheck.or
 - [:ballot_box: *Election Denial and January 6th*](/daniel-webster/election-denial)
 - [:no_entry: *Refuses to Face Constituents*](/daniel-webster/town-hall-avoidance)
 - [:scroll: *Social Security Cuts*](/daniel-webster/social-security-cuts)
-- [:shield: *Compared CFPB to "The Gestapo"*](/daniel-webster/cfpb-gestapo)
 
 {.links-list}
