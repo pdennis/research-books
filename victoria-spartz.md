@@ -2,7 +2,7 @@
 title: How To Win Against Victoria Spartz
 description: 
 published: false
-date: 2026-02-19T12:56:48.457Z
+date: 2026-02-19T12:57:02.881Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:19:17.866Z
@@ -47,16 +47,16 @@ She [announced her retirement](https://www.nbcnews.com/politics/congress/republi
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
-[:hospital: *Health Care: Lied About Preexisting Conditions, Voted to Gut Medicaid*](/victoria-spartz/health-care-backup)
-[:shopping_cart: *Affordability: Criticized Biden Tariffs, Protected Trump's Bigger Ones*](/victoria-spartz/affordability-backup)
-[:briefcase: *Jobs: Voted Against Every Major Jobs Bill, Backed Job-Killing Tariffs*](/victoria-spartz/jobs-economy-backup)
-[:chart_with_downwards_trend: *Tariff Flip-Flop: Criticized Biden's Tariffs, Protected Trump's Bigger Ones*](/victoria-spartz/tariff-flip-flop)
+- [:hospital: *Health Care: Lied About Preexisting Conditions, Voted to Gut Medicaid*](/victoria-spartz/health-care-backup)
+- [:shopping_cart: *Affordability: Criticized Biden Tariffs, Protected Trump's Bigger Ones*](/victoria-spartz/affordability-backup)
+- [:briefcase: *Jobs: Voted Against Every Major Jobs Bill, Backed Job-Killing Tariffs*](/victoria-spartz/jobs-economy-backup)
+- [:chart_with_downwards_trend: *Tariff Flip-Flop: Criticized Biden's Tariffs, Protected Trump's Bigger Ones*](/victoria-spartz/tariff-flip-flop)
 {.links-list}
 
 ## Personal/Character Vulnerabilities
-[:rage: *Ethics Investigation: Staff Abuse, Furniture-Throwing, and "Complete and Total Rage"*](/victoria-spartz/staff-abuse-ethics)
-[:gun: *Charged With Bringing a Gun Through Airport Security*](/victoria-spartz/gun-charge)
-[:arrows_counterclockwise: *Unreliable: Retired, Un-Retired, Then Boycotted Her Own Party*](/victoria-spartz/retire-unretire-boycott)
-[:pushpin: *Caved to Trump on the Budget Bill She Called a Fiscal Disaster*](/victoria-spartz/trump-cave)
+- [:rage: *Ethics Investigation: Staff Abuse, Furniture-Throwing, and "Complete and Total Rage"*](/victoria-spartz/staff-abuse-ethics)
+- [:gun: *Charged With Bringing a Gun Through Airport Security*](/victoria-spartz/gun-charge)
+- [:arrows_counterclockwise: *Unreliable: Retired, Un-Retired, Then Boycotted Her Own Party*](/victoria-spartz/retire-unretire-boycott)
+- [:pushpin: *Caved to Trump on the Budget Bill She Called a Fiscal Disaster*](/victoria-spartz/trump-cave)
 
 {.links-list}
