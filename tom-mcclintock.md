@@ -2,7 +2,7 @@
 title: How To Win Against Tom McClintock
 description: 
 published: false
-date: 2026-02-18T19:47:33.344Z
+date: 2026-02-19T17:34:35.492Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:01.908Z
@@ -55,14 +55,14 @@ Has ["incessantly advocated"](https://www.mtdemocrat.com/letters/mcclintocks-pla
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
-[:hospital: *Health Care: Voted to Strip Coverage, Ignored Constituents*](/tom-mcclintock/health-care-backup)
-[:shopping_cart: *Affordability: Tariff Hypocrisy and Tax Cuts for the Rich*](/tom-mcclintock/affordability-backup)
-[:briefcase: *Jobs and the Economy: Voted Against Every Investment*](/tom-mcclintock/jobs-economy-backup)
+- [:hospital: *Health Care: Voted to Strip Coverage, Ignored Constituents*](/tom-mcclintock/health-care-backup)
+- [:shopping_cart: *Affordability: Tariff Hypocrisy and Tax Cuts for the Rich*](/tom-mcclintock/affordability-backup)
+- [:briefcase: *Jobs and the Economy: Voted Against Every Investment*](/tom-mcclintock/jobs-economy-backup)
 {.links-list}
 
 ## Personal and Character Vulnerabilities
-[:fire: *Climate Denial While His District Burns*](/tom-mcclintock/climate-denial)
-[:house: *Carpetbagger: Doesn't Live in His District*](/tom-mcclintock/carpetbagger)
-[:older_man: *Advocated for Social Security and Medicare Cuts*](/tom-mcclintock/social-security-medicare-cuts)
-[:rage: *Town Hall Confrontations and Constituent Anger*](/tom-mcclintock/town-hall-confrontations)
+- [:fire: *Climate Denial While His District Burns*](/tom-mcclintock/climate-denial)
+- [:house: *Carpetbagger: Doesn't Live in His District*](/tom-mcclintock/carpetbagger)
+- [:older_man: *Advocated for Social Security and Medicare Cuts*](/tom-mcclintock/social-security-medicare-cuts)
+- [:rage: *Town Hall Confrontations and Constituent Anger*](/tom-mcclintock/town-hall-confrontations)
 {.links-list}
