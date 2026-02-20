@@ -2,7 +2,7 @@
 title: How To Win Against Tim Moore
 description: 
 published: false
-date: 2026-02-20T15:27:28.947Z
+date: 2026-02-20T15:43:50.733Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:43.505Z
@@ -40,17 +40,10 @@ Used his Speaker's office to [steer a $22,000 state subsidy to a chicken plant h
 
 Moore was [sued for allegedly conducting a three-year affair](https://www.pbs.org/newshour/politics/north-carolina-state-house-speaker-sued-for-damages-over-alleged-affair) with a fellow Republican's wife and using his political power to facilitate sexual relationships. The lawsuit alleged his affair partner [feared ending the relationship could cost her job](https://www.axios.com/local/raleigh/2023/06/29/nc-house-speaker-tim-moore-lawsuit-affair-scandal).
 Used his Speaker's office to [secure a state job for a woman he was dating](https://www.wral.com/speaker-s-aide-buzzed-deq-staffers-about-boss-chicken-plant-deal/18115552/) — she was the only person considered for the newly created position.
-[Failed to disclose hundreds of thousands in stock trades](https://fortune.com/2025/06/16/tim-moore-stock-trades-liberation-day-disclosure/) around Trump's "Liberation Day" tariffs — a potential STOCK Act violation — while serving as Vice Chairman of the Financial Services oversight subcommittee.
+[Failed to disclose hundreds of thousands in stock trades](https://fortune.com/2025/06/16/tim-moore-stock-trades-liberation-day-disclosure/) around Trump's "Liberation Day" tariffs — a potential STOCK Act violation — while serving as Vice Chairman of the Financial Services oversight subcommittee. Moore has held [zero public town halls](https://ncnewsline.com/2025/10/20/as-trump-opposition-grows-north-carolina-republicans-duck-town-halls-does-it-matter/) since taking office.
 
 **Message:** Moore has a pattern of using public office for personal gain — from affair scandals and patronage jobs to suspicious stock trades around major policy announcements.
 
-### **POWER GRABS: GERRYMANDERING, LAME-DUCK COUPS, AND DUCKING VOTERS**
-
-[Engineered a lame-duck power grab](https://www.wral.com/story/with-protested-override-nc-lawmakers-sap-power-from-governor-attorney-general-other-incoming-democrats/21763004/) disguised as hurricane relief that stripped incoming Democrats of authority. Appeared on [Steve Bannon's podcast](https://www.wral.com/story/with-protested-override-nc-lawmakers-sap-power-from-governor-attorney-general-other-incoming-democrats/21763004/) to pressure holdouts.
-[Orchestrated a Democratic lawmaker's party switch](https://www.jezebel.com/turns-out-rep-tricia-cotham-north-carolina-abortion-t-1850691458) to create a supermajority used to ram through a 12-week abortion ban.
-[Ran for Congress in a district his allies drew for him](https://www.wunc.org/politics/2023-12-05/tim-moore-defends-new-congressional-map-as-he-files-to-run) and has held [zero public town halls](https://ncnewsline.com/2025/10/20/as-trump-opposition-grows-north-carolina-republicans-duck-town-halls-does-it-matter/) since taking office.
-
-**Message:** Moore spent his career rigging the rules — gerrymandering his own district, stripping opponents of power, and refusing to face his own constituents.
 
 # Issue Back-Ups
 
@@ -65,6 +58,5 @@ Used his Speaker's office to [secure a state job for a woman he was dating](http
 - [:chicken: *Chicken Plant Self-Dealing and Ethics Complaints*](/tim-moore/chicken-plant-ethics)
 - [:chart_with_downwards_trend: *Stock Trades and STOCK Act Violations*](/tim-moore/stock-trades)
 - [:tornado: *Lame-Duck Power Grab Disguised as Hurricane Relief*](/tim-moore/lame-duck-power-grab)
-- [:ballot_box: *Gerrymandering, Party Switch, and Moore v. Harper*](/tim-moore/gerrymandering-power)
 - [:see_no_evil: *Zero Town Halls and Ducking Constituents*](/tim-moore/ducking-constituents)
 {.links-list}
