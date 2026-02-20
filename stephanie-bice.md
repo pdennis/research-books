@@ -2,7 +2,7 @@
 title: How To Win Against Stephanie Bice
 description: 
 published: false
-date: 2026-02-20T15:53:24.743Z
+date: 2026-02-20T17:51:23.825Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:14:12.565Z
@@ -55,17 +55,17 @@ In the Oklahoma State Senate, [voted to let school districts pay teachers below 
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
-[:hospital: *Health Care: Promised Lower Drug Costs, Voted to Gut Coverage*](/stephanie-bice/health-care-backup)
-[:shopping_cart: *Affordability: Tariffs, SNAP Cuts, and Rising Costs*](/stephanie-bice/affordability-backup)
-[:briefcase: *Jobs and the Economy: Voted Against Oklahoma's Interests*](/stephanie-bice/jobs-economy-backup)
+- [:hospital: *Health Care: Promised Lower Drug Costs, Voted to Gut Coverage*](/stephanie-bice/health-care-backup)
+- [:shopping_cart: *Affordability: Tariffs, SNAP Cuts, and Rising Costs*](/stephanie-bice/affordability-backup)
+- [:briefcase: *Jobs and the Economy: Voted Against Oklahoma's Interests*](/stephanie-bice/jobs-economy-backup)
 {.links-list}
 
 ## Personal and Character Vulnerabilities
-[:ballot_box: *Election Denial and January 6*](/stephanie-bice/election-denial-jan6)
-[:ring: *Voted Against Protecting Her Own Interracial Marriage*](/stephanie-bice/marriage-vote)
-[:see_no_evil: *Hiding From Voters: Town Hall Avoidance*](/stephanie-bice/town-hall-avoidance)
-[:bust_in_silhouette: *Trump Loyalty Flip-Flop*](/stephanie-bice/trump-loyalty-flip)
-[:chart_with_downwards_trend: *STOCK Act Violations*](/stephanie-bice/stock-act-violations)
-[:apple: *Anti-Teacher Votes in Oklahoma State Senate*](/stephanie-bice/anti-teacher-votes)
-[:no_good: *False Endorsements and Unauthorized Logo Use*](/stephanie-bice/false-endorsements)
+- [:ballot_box: *Election Denial and January 6*](/stephanie-bice/election-denial-jan6)
+- [:ring: *Voted Against Protecting Her Own Interracial Marriage*](/stephanie-bice/marriage-vote)
+- [:see_no_evil: *Hiding From Voters: Town Hall Avoidance*](/stephanie-bice/town-hall-avoidance)
+- [:bust_in_silhouette: *Trump Loyalty Flip-Flop*](/stephanie-bice/trump-loyalty-flip)
+- [:chart_with_downwards_trend: *STOCK Act Violations*](/stephanie-bice/stock-act-violations)
+- [:apple: *Anti-Teacher Votes in Oklahoma State Senate*](/stephanie-bice/anti-teacher-votes)
+- [:no_good: *False Endorsements and Unauthorized Logo Use*](/stephanie-bice/false-endorsements)
 {.links-list}
