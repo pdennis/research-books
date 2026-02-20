@@ -2,7 +2,7 @@
 title: How To Win Against Tim Moore
 description: 
 published: false
-date: 2026-02-18T19:46:45.787Z
+date: 2026-02-20T15:27:28.947Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:43.505Z
@@ -55,16 +55,16 @@ Used his Speaker's office to [secure a state job for a woman he was dating](http
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
-[:hospital: *Health Care: Blocked Medicaid, Then Voted to Gut It*](/tim-moore/health-care-backup)
-[:shopping_cart: *Affordability: Tariffs, SNAP Cuts, and "Pay a Little More"*](/tim-moore/affordability-backup)
-[:briefcase: *Jobs and the Economy: HB2, Tariffs, and Self-Dealing*](/tim-moore/jobs-economy-backup)
+- [:hospital: *Health Care: Blocked Medicaid, Then Voted to Gut It*](/tim-moore/health-care-backup)
+- [:shopping_cart: *Affordability: Tariffs, SNAP Cuts, and "Pay a Little More"*](/tim-moore/affordability-backup)
+- [:briefcase: *Jobs and the Economy: HB2, Tariffs, and Self-Dealing*](/tim-moore/jobs-economy-backup)
 {.links-list}
 
 ## Personal and Character Vulnerabilities
-[:flushed: *Affair Scandal and Abuse of Power*](/tim-moore/affair-scandal)
-[:chicken: *Chicken Plant Self-Dealing and Ethics Complaints*](/tim-moore/chicken-plant-ethics)
-[:chart_with_downwards_trend: *Stock Trades and STOCK Act Violations*](/tim-moore/stock-trades)
-[:tornado: *Lame-Duck Power Grab Disguised as Hurricane Relief*](/tim-moore/lame-duck-power-grab)
-[:ballot_box: *Gerrymandering, Party Switch, and Moore v. Harper*](/tim-moore/gerrymandering-power)
-[:see_no_evil: *Zero Town Halls and Ducking Constituents*](/tim-moore/ducking-constituents)
+- [:flushed: *Affair Scandal and Abuse of Power*](/tim-moore/affair-scandal)
+- [:chicken: *Chicken Plant Self-Dealing and Ethics Complaints*](/tim-moore/chicken-plant-ethics)
+- [:chart_with_downwards_trend: *Stock Trades and STOCK Act Violations*](/tim-moore/stock-trades)
+- [:tornado: *Lame-Duck Power Grab Disguised as Hurricane Relief*](/tim-moore/lame-duck-power-grab)
+- [:ballot_box: *Gerrymandering, Party Switch, and Moore v. Harper*](/tim-moore/gerrymandering-power)
+- [:see_no_evil: *Zero Town Halls and Ducking Constituents*](/tim-moore/ducking-constituents)
 {.links-list}
