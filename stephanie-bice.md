@@ -2,7 +2,7 @@
 title: How To Win Against Stephanie Bice
 description: 
 published: false
-date: 2026-02-20T17:51:23.825Z
+date: 2026-02-20T17:54:06.389Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:14:12.565Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T19:14:12.565Z
 
 # How To Win Against Stephanie Bice
 
-Stephanie Bice ran for Congress in 2020 promising to [lower prescription drug costs, including insulin and EpiPens](https://www.readfrontier.org/stories/horn-vows-to-protect-affordable-care-act-bice-promotes-use-of-health-savings-accounts-as-a-replacement/) — then voted against every bill that did, including the [\$35 insulin cap](https://ktul.com/news/local/all-oklahoma-republican-congress-members-vote-no-on-bill-capping-insulin-prices) and [Medicare drug price negotiation](https://bice.house.gov/media/press-releases/bice-opposes-democrats-partisan-budget-bill). She voted for the ["One Big Beautiful Bill"](https://bice.house.gov/media/press-releases/bice-passage-one-big-beautiful-bill) that could strip Medicaid from [174,000 Oklahomans](https://www.kff.org/medicaid/allocating-cbos-estimates-of-federal-medicaid-spending-reductions-and-enrollment-loss-across-the-states/) and SNAP benefits from [131,000 more](https://oklahomawatch.org/2025/07/24/historic-cuts-to-snap-put-131000-oklahomans-at-risk-of-losing-benefits/) — then [dismissed critics as "fear-mongering"](https://kfor.com/news/oklahoma-legislature/oklahoma-congressmembers-vote-to-pass-big-beautiful-bill-as-critics-warn-of-sweeping-cuts-to-social-services-healthcare/) while the bill delivers [over \$50,000 a year in tax cuts to the top 1%](https://www.cnbc.com/2025/05/23/house-republican-big-beautiful-tax-bill-favors-the-rich.html). She voted against the [infrastructure law](https://gaylordnews.net/6956/news/oklahoma-house-representatives-vote-against-bill-that-includes-oklahoma-projects/) that sent $6.4 billion to Oklahoma — after [earmarking \$20 million in the same bill](https://www.normantranscript.com/news/oklahoma-delegation-opposes-infrastructure-bill-despite-earmarks/article_fafd4e98-dac1-11eb-ab8f-e76aed4c2bc9.html). She brands herself as bipartisan but votes with her party [97% of the time](https://projects.propublica.org/represent/members/B000740-stephanie-bice/votes-against-party/117), voted to [overturn the 2020 election](https://www.readfrontier.org/stories/majority-of-oklahoma-members-object-to-bidens-election-after-riot-overtakes-u-s-capitol/), and voted against [protecting her own interracial marriage](https://kfor.com/news/local/4-of-5-oklahoma-u-s-representatives-vote-against-respect-for-marriage-act-5th-did-not-vote/).
+Stephanie Bice ran for Congress in 2020 promising to [lower prescription drug costs, including insulin and EpiPens](https://www.readfrontier.org/stories/horn-vows-to-protect-affordable-care-act-bice-promotes-use-of-health-savings-accounts-as-a-replacement/) — then voted against every bill that did, including the [\$35 insulin cap](https://ktul.com/news/local/all-oklahoma-republican-congress-members-vote-no-on-bill-capping-insulin-prices) and [Medicare drug price negotiation](https://bice.house.gov/media/press-releases/bice-opposes-democrats-partisan-budget-bill). She voted for the ["One Big Beautiful Bill"](https://bice.house.gov/media/press-releases/bice-passage-one-big-beautiful-bill) that could strip Medicaid from [174,000 Oklahomans](https://www.kff.org/medicaid/allocating-cbos-estimates-of-federal-medicaid-spending-reductions-and-enrollment-loss-across-the-states/) and SNAP benefits from [131,000 more](https://oklahomawatch.org/2025/07/24/historic-cuts-to-snap-put-131000-oklahomans-at-risk-of-losing-benefits/) — then [dismissed critics as "fear-mongering"](https://kfor.com/news/oklahoma-legislature/oklahoma-congressmembers-vote-to-pass-big-beautiful-bill-as-critics-warn-of-sweeping-cuts-to-social-services-healthcare/) while the bill delivers [over \$50,000 a year in tax cuts to the top 1%](https://www.cnbc.com/2025/05/23/house-republican-big-beautiful-tax-bill-favors-the-rich.html). She voted against the [infrastructure law](https://gaylordnews.net/6956/news/oklahoma-house-representatives-vote-against-bill-that-includes-oklahoma-projects/) that sent $6.4 billion to Oklahoma — after [earmarking \$20 million in the same bill](https://www.normantranscript.com/news/oklahoma-delegation-opposes-infrastructure-bill-despite-earmarks/article_fafd4e98-dac1-11eb-ab8f-e76aed4c2bc9.html). She brands herself as bipartisan but votes with her party [97% of the time](https://projects.propublica.org/represent/members/B000740-stephanie-bice/votes-against-party/117), voted to [overturn the 2020 election](https://www.readfrontier.org/stories/majority-of-oklahoma-members-object-to-bidens-election-after-riot-overtakes-u-s-capitol/).
 
 ### **HEALTH CARE: PROMISED LOWER COSTS, VOTED TO GUT COVERAGE**
 
@@ -46,11 +46,8 @@ She then [voted for the bipartisan January 6 commission](https://okcfox.com/news
 ### **HIDING FROM VOTERS AND BROKEN CHARACTER PROMISES**
 
 Bice refuses in-person town halls; a constituent called her phone events ["a joke" that are "carefully screened"](https://oklahomavoice.com/2025/07/31/constituent-presses-rep-stephanie-bice-to-hold-in-person-town-halls/). She then [scheduled a meet-and-greet in the wrong congressional district](https://www.rawstory.com/stephanie-bice-town-hall/) and canceled it.
-[Voted against the Respect for Marriage Act](https://kfor.com/news/local/4-of-5-oklahoma-u-s-representatives-vote-against-respect-for-marriage-act-5th-did-not-vote/) that protects interracial marriages like her own — she is the daughter of an Iranian immigrant.
 [Violated the STOCK Act](https://www.newsweek.com/stock-act-congress-violations-trading-shares-1947459) by filing financial disclosures up to a year late.
 In the Oklahoma State Senate, [voted to let school districts pay teachers below state minimums](https://tulsaworld.com/news/education/senate-passes-controversial-optional-school-deregulation-bill/article_568216ec-cc9f-5293-9891-c2394665eb18.html) and cut their health insurance — a record her 2026 opponent, Oklahoma's Teacher of the Year, is built to exploit.
-
-**Message:** Bice hides from voters, voted against protecting her own marriage, and has a trail of ethical lapses and anti-teacher votes her opponent can weaponize.
 
 # Issue Back-Ups
 
@@ -62,7 +59,6 @@ In the Oklahoma State Senate, [voted to let school districts pay teachers below 
 
 ## Personal and Character Vulnerabilities
 - [:ballot_box: *Election Denial and January 6*](/stephanie-bice/election-denial-jan6)
-- [:ring: *Voted Against Protecting Her Own Interracial Marriage*](/stephanie-bice/marriage-vote)
 - [:see_no_evil: *Hiding From Voters: Town Hall Avoidance*](/stephanie-bice/town-hall-avoidance)
 - [:bust_in_silhouette: *Trump Loyalty Flip-Flop*](/stephanie-bice/trump-loyalty-flip)
 - [:chart_with_downwards_trend: *STOCK Act Violations*](/stephanie-bice/stock-act-violations)
