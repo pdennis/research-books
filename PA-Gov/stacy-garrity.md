@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-02-13T16:30:26.941Z
+date: 2026-02-20T15:10:40.112Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -82,7 +82,8 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 ### **GARRITY WOULD NOT PROTECT PENNSYLVANIANS FROM TRUMP’S Federal Forces OVERREACH**
 
-- In September 2025, Garrity [said]( https://www.youtube.com/watch?v=4bfOEcDjAt4) she would be open to Trump sending federal forces and National Guard troops against Philadelphia residents. In December 2025, the U.S. Supreme Court [ruled](https://www.bbc.com/news/articles/c9dv1200j44o) Trump did not have the [authority](https://www.democracydocket.com/news-alerts/trump-ends-national-guard-deployments-los-angeles-chicago-portland/) to deploy National Guard troops in Chicago. Despite this ruling, Trump [suggested](https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html) he would “not hesitate to deploy troops in the future.” 
+- Garrity repeatedly signaled she would allow Trump to overstep his authority and deploy federal forces against Pennsylvanians. In September 2025, Garrity [said]( https://www.youtube.com/watch?v=4bfOEcDjAt4) she would be open to Trump sending federal forces and National Guard troops against Philadelphia residents. In February 2026, when asked how she would handle a surge of protests over federal immigration operations in Pennsylvania, Garrity [called](https://soundcloud.com/abpac/stacy-garrity-mckean-co-meet/s-ObULWW4Aqwz?si=a6a8aec7a3174558a0732406c5542cca&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) for local cooperation with federal immigration and claimed anti-ICE demonstrators were [“well-coordinated” “paid protestors.”](https://meidasnews.com/news/pennsylvania-gop-gubernatorial-candidate-claims-anti-ice-protests-are-paid-and-well-coordinated)
+- In December 2025, the U.S. Supreme Court [ruled](https://www.bbc.com/news/articles/c9dv1200j44o) Trump did not have the [authority](https://www.democracydocket.com/news-alerts/trump-ends-national-guard-deployments-los-angeles-chicago-portland/) to deploy National Guard troops in Chicago. Despite this ruling, Trump [suggested](https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html) he would “not hesitate to deploy troops in the future.” 
 
 - The Trump administration faced repeated [legal challenges](https://penncapital-star.com/criminal-justice/pennsylvania-joins-multi-state-lawsuit-over-trump-deploying-national-guard-in-cities/) for overstepping its authority in deploying federal forces [without](https://www.nytimes.com/2025/12/31/us/politics/trump-national-guard.html) the consent of governors and mayors across several American cities. In January 2026, Minnesota and Illinois sued the Trump administration over its deployment of federal agents to Twin Cities and Chicago for immigration operations, arguing the unprecedented deployment of federal officers was a [“federal invasion”](https://www.cnn.com/2026/01/12/us/minneapolis-immigration-officers-mobilizing-protests) and unconstitutional violation of the [Tenth Amendment.](https://www.politico.com/news/2026/01/12/minnesota-sues-trump-ice-minneapolis-00723482?cid=apn) 
 
