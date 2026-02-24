@@ -2,7 +2,7 @@
 title: Rep. Addison McDowell (NC-06): Can't Be Trusted on Jobs and the Economy
 description: 
 published: false
-date: 2026-02-18T19:35:52.212Z
+date: 2026-02-24T21:37:58.424Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:49.278Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T18:56:49.278Z
 
 # Rep. Addison McDowell (NC-06): Can't Be Trusted on Jobs and the Economy
 
-Rep. Addison McDowell told ABC News viewers to "trust the president" on tariffs — but those tariffs cost the average American household $1,300 in 2026, contributed to 7,200 manufacturing jobs lost statewide, and directly led to the closure of a 250-worker textile plant in his own district. McDowell then voted for the One Big Beautiful Bill, which Governor Josh Stein warned would "cost 45,000 jobs by stymying the state's burgeoning clean tech manufacturing sector" — putting $24 billion in clean energy investments and 44 manufacturing facilities at risk — while delivering its largest tax breaks to millionaires and cutting $187 billion from SNAP in one of the most food-insecure metro areas in the country. Before Congress, McDowell's only professional experience was lobbying for Blue Cross Blue Shield of North Carolina, and he has never held a single in-person town hall to face constituents dealing with rising costs, stagnant wages, and disappearing jobs.
+>Rep. Addison McDowell told ABC News viewers to "trust the president" on tariffs — but those tariffs cost the average American household $1,300 in 2026, contributed to 7,200 manufacturing jobs lost statewide, and directly led to the closure of a 250-worker textile plant in his own district. McDowell then voted for the One Big Beautiful Bill, which Governor Josh Stein warned would "cost 45,000 jobs by stymying the state's burgeoning clean tech manufacturing sector" — putting $24 billion in clean energy investments and 44 manufacturing facilities at risk — while delivering its largest tax breaks to millionaires and cutting $187 billion from SNAP in one of the most food-insecure metro areas in the country. Before Congress, McDowell's only professional experience was lobbying for Blue Cross Blue Shield of North Carolina, and he has never held a single in-person town hall to face constituents dealing with rising costs, stagnant wages, and disappearing jobs.
 
 ### Told Constituents to "Trust the President" — Then Tariffs Killed Local Jobs
 
