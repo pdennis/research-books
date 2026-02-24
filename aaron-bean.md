@@ -2,7 +2,7 @@
 title: How to Win Against Aaron Bean
 description: 
 published: false
-date: 2026-02-24T21:31:39.272Z
+date: 2026-02-24T21:32:03.057Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T16:22:59.800Z
@@ -73,7 +73,7 @@ Aaron Bean actively fought to make life harder for Floridians in his district. F
 - [:older_man: *Bean Was A Threat To Social Security and Medicare*](https://research-books.com/en/aaron-bean/bean-seniors)
 - [:carrot: *Bean Voted To Cut Food Assistance Floridians Relied On To Afford Groceries*](https://research-books.com/en/aaron-bean/bean-SNAP)
 - [:shopping_cart: *Bean Supported Tariffs That Raised Prices On Floridians*](https://research-books.com/en/aaron-bean/bean-tariffs)
-- [:woman: *Bean's Anti-Choice Views Endangered Florida Women](https://research-books.com/en/aaron-bean/bean-choice)
+- [:woman: *Bean's Anti-Choice Views Endangered Florida Women*](https://research-books.com/en/aaron-bean/bean-choice)
 {.links-list}
 
 ## Aaron Bean Used His Power To Protect Himself And The Powerful
