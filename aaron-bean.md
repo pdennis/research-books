@@ -2,7 +2,7 @@
 title: How to Win Against Aaron Bean
 description: 
 published: false
-date: 2026-02-24T21:30:09.876Z
+date: 2026-02-24T21:31:39.272Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T16:22:59.800Z
@@ -48,7 +48,7 @@ Aaron Bean actively fought to make life harder for Floridians in his district. F
 ### Bean Supported Abortion Bans That Endangered Floridians
 
 -   Bean has long been an anti-choice extremist, starting from his time in the Florida Senate when he [attended](https://www.wgcu.org/2015-07-28/jacksonville-anti-abortion-advocates-call-for-defunding-of-planned-parenthood) an anti-abortion protest outside a Planned Parenthood and called the organization “evil” for providing reproductive health care.  Bean later [called](https://www.wusf.org/2016-02-18/senate-panel-passes-sweeping-bill-tightening-abortion-clinic-regulations) abortion a “horrible procedure” while pushing legislation that tightened regulations on abortion clinics, and in a [debate](https://www.reuters.com/article/world/uk/florida-legislature-approves-controversial-abortion-restrictions-idUSKCN0WB2QL/) over the legislation called for getting Florida “out of the abortion business.” In 2022, Bean [voted for](https://news.wjct.org/first-coast/2022-03-04/15-week-abortion-limit-headed-to-desantis) Florida’s 15-week abortion ban that endangered Floridians.
--   Bean’s anti-abortion behavior continued in Congress. He voiced [opposition](file:///Users/adurham/Library/CloudStorage/GoogleDrive-adurham@americanbridge.org/Shared%20drives/Research%20Books/2026%20House/Districts/FL-04/v) to a ballot amendment to enshrine the right to abortion in Florida’s constitution that [57 percent of Floridians supported](https://www.npr.org/2024/11/09/nx-s1-5183891/floridas-amendment-to-protect-abortion-rights-fell-short-of-passing-by-just-3-votes), and touted [receiving](https://bean.house.gov/media/press-releases/congressman-aaron-bean-recognized-pro-family-pro-life) a high score from the anti-choice Family Research Council Action for his “pro-faith, pro-family, and pro-freedom” voting record.
+-   Bean’s anti-abortion behavior continued in Congress. He voiced [opposition](https://flvoicenews.com/several-florida-gop-congressmen-voice-opposition-to-abortion-amendment-4/) to a ballot amendment to enshrine the right to abortion in Florida’s constitution that [57 percent of Floridians supported](https://www.npr.org/2024/11/09/nx-s1-5183891/floridas-amendment-to-protect-abortion-rights-fell-short-of-passing-by-just-3-votes), and touted [receiving](https://bean.house.gov/media/press-releases/congressman-aaron-bean-recognized-pro-family-pro-life) a high score from the anti-choice Family Research Council Action for his “pro-faith, pro-family, and pro-freedom” voting record.
 
 **Message:** Bean was an anti-choice extremist who supported an abortion ban that endangered Floridians.
 
