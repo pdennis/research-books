@@ -2,7 +2,7 @@
 title: Rep. Addison McDowell (NC-06): Can't Be Trusted on Affordability
 description: 
 published: false
-date: 2026-02-18T19:35:37.704Z
+date: 2026-02-24T21:37:44.320Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:24.308Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T18:56:24.308Z
 
 # Rep. Addison McDowell (NC-06): Can't Be Trusted on Affordability
 
-Rep. Addison McDowell told ABC News viewers to "trust the president" on tariffs — but those tariffs are now costing the average American household $1,300 a year, driving up grocery prices, and contributing to manufacturing layoffs in McDowell's own district. Meanwhile, McDowell voted for the One Big Beautiful Bill, which cut over $187 billion from SNAP — threatening food assistance for 1.4 million North Carolinians, including 600,000 children — while delivering its largest tax breaks to millionaires and billionaires. The bill also let ACA subsidies expire, causing a 29% premium spike that hit 800,000 North Carolinians, and shifted tens of millions in new SNAP administrative costs onto county governments already stretched thin. McDowell's district includes Guilford County, which ranks among the worst metro areas in the country for food insecurity — yet his votes have made groceries more expensive, health care less affordable, and food assistance harder to access for the families who need it most.
+>Rep. Addison McDowell told ABC News viewers to "trust the president" on tariffs — but those tariffs are now costing the average American household $1,300 a year, driving up grocery prices, and contributing to manufacturing layoffs in McDowell's own district. Meanwhile, McDowell voted for the One Big Beautiful Bill, which cut over $187 billion from SNAP — threatening food assistance for 1.4 million North Carolinians, including 600,000 children — while delivering its largest tax breaks to millionaires and billionaires. The bill also let ACA subsidies expire, causing a 29% premium spike that hit 800,000 North Carolinians, and shifted tens of millions in new SNAP administrative costs onto county governments already stretched thin. McDowell's district includes Guilford County, which ranks among the worst metro areas in the country for food insecurity — yet his votes have made groceries more expensive, health care less affordable, and food assistance harder to access for the families who need it most.
 
 ### Told Constituents to "Trust the President" on Tariffs — Then Tariffs Raised Prices
 
