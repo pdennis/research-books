@@ -2,7 +2,7 @@
 title: Rep. Richard Hudson (NC-09): Affordability
 description: 
 published: false
-date: 2026-02-18T19:45:15.270Z
+date: 2026-02-24T21:31:43.101Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:58.357Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T19:12:58.357Z
 
 # Rep. Richard Hudson (NC-09): Affordability
 
-Rep. Richard Hudson talks about kitchen-table costs but consistently sides with policies that raise them. He voted to keep Trump's tariffs on Canada even as economists warned they would spike grocery and consumer prices across North Carolina, backed a tax law that CBO projects will cut income for the poorest Americans by $1,200 a year while handing the richest 10 percent a $13,600 annual windfall, and supported a reconciliation package that could strip food assistance from 1.4 million North Carolinians — 600,000 of whom are children. Meanwhile, the tariffs he defended are projected to cost North Carolina farmers $695 million, threaten 8,000 agriculture and food-processing jobs, and function as a $1,600-per-household hidden tax on consumers in 2026. Hudson frames his votes as pro-worker and pro-family; the data says otherwise.
+Rep. Richard Hudson talks about kitchen-table costs but consistently sides with policies that raise them. He voted to keep Trump's tariffs on Canada even as economists warned they would spike grocery and consumer prices across North Carolina, backed a tax law that CBO projects would cut income for the poorest Americans by $1,200 a year while handing the richest 10 percent a $13,600 annual windfall, and supported a reconciliation package that could strip food assistance from 1.4 million North Carolinians — 600,000 of whom are children. Meanwhile, the tariffs he defended were projected to cost North Carolina farmers $695 million, threaten 8,000 agriculture and food-processing jobs, and function as a $1,600-per-household hidden tax on consumers in 2026. Hudson frames his votes as pro-worker and pro-family; the data says otherwise.
 
 ---
 
