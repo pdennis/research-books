@@ -2,7 +2,7 @@
 title: How To Win Against Richard Hudson
 description: 
 published: false
-date: 2026-02-24T21:20:29.769Z
+date: 2026-02-24T21:26:57.725Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:48.234Z
@@ -33,37 +33,29 @@ CBO found the law would [cut income for the poorest Americans by \$1,200/year](h
 ### **JOBS AND ECONOMY: VOTED AGAINST JOBS IN HIS OWN DISTRICT**
 
 Voted against the [CHIPS and Science Act](https://www.govtrack.us/congress/votes/117-2022/h404) that funded a [\$750 million grant for a \$5 billion Wolfspeed semiconductor plant](https://www.wral.com/story/biden-admin-to-provide-750-million-to-north-carolina-based-wolfspeed-for-advanced-computer-chips/21674028/) in Chatham County — in his own district — expected to create 1,800 jobs at nearly double the county average wage. Trump has since [called for repealing the CHIPS Act](https://www.axios.com/local/raleigh/2025/03/07/wolfspeed-cuts-more-jobs-as-trump-calls-chips-act-horrible), threatening those jobs.
-Voted against the [bipartisan infrastructure law](https://www.govtrack.us/congress/votes/117-2021/h369), against [raising the minimum wage from \$7.25](https://www.govtrack.us/congress/votes/116-2019/h496), and against the [PRO Act](https://www.npr.org/2021/03/09/975259434/house-democrats-pass-bill-that-would-protect-worker-organizing-efforts) to protect workers' right to organize.
+Voted against the [bipartisan infrastructure law](https://www.govtrack.us/congress/votes/117-2021/h369), against [raising the minimum wage from \$7.25](https://www.govtrack.us/congress/votes/116-2019/h496).
 North Carolina [lost 7,200 manufacturing jobs in 2025](https://www.carolinajournal.com/nc-loses-7200-manufacturing-jobs-says-nc-commerce/), and [Parkdale Mills closed its Sanford plant](https://businessnc.com/parkdale-mills-closing-lee-county-plan/) in his district, eliminating 74 jobs.
 
 **Message:** Hudson voted against the law creating 1,800 semiconductor jobs in his own district, then backed tariffs that are destroying North Carolina manufacturing — 7,200 jobs lost in 2025 alone.
 
-### **GUNS: LED THE NRA'S TOP LEGISLATIVE PRIORITY**
-
-Lead sponsor of the [Concealed Carry Reciprocity Act](https://www.cbsnews.com/news/concealed-carry-reciprocity-act-showdown/), the NRA's top legislative priority, which would override stricter gun safety laws in states like New York and California. [Seventeen state attorneys general](https://www.cbsnews.com/news/concealed-carry-reciprocity-act-showdown/) opposed the bill.
-Received the [NRA's maximum contribution of \$9,900](https://www.opensecrets.org/orgs/national-rifle-assn/recipients?id=d000000082) in the 2024 cycle — the highest the NRA PAC gave to any congressional candidate.
-
-**Message:** Hudson is the NRA's top man in Congress — he carries their legislation and their maximum contributions while 17 attorneys general warn his bill would weaken gun safety nationwide.
 
 ### **ACCOUNTABILITY: WON'T FACE HIS OWN CONSTITUENTS**
 
 [Instructed fellow Republican members of Congress to stop holding town halls](https://www.theassemblync.com/politics/richard-hudson-republicans-townhalls/), advising them to "avoid the spectacle of booing and jeering." Democrats organized an [alternative town hall in his district that drew over 1,000 people](https://ncnewsline.com/briefs/democrats-to-bring-a-town-hall-to-gop-rep-richard-hudsons-district/).
-His self-described "friend and mentor" Robin Hayes [pleaded guilty to lying to the FBI](https://www.wral.com/former-state-gop-chair-pleading-guilty-to-lying-to-fbi-in-bribery-case/18661683/) in a federal bribery scandal involving a billionaire insurance magnate who received a [seven-year prison sentence](https://www.wsoctv.com/news/local/insurance-magnate-ex-nc-congress-member-learn-sentences/BRACZRCZSFASBOJNSYYBOCRC6E/).
 
-**Message:** Hudson told Republicans to hide from voters, then denied cutting Medicaid on a tele-town hall while voting to do exactly that. His political mentor pleaded guilty in a federal bribery case.
+**Message:** Hudson told Republicans to hide from voters.
 
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
-[:hospital: *Health Care: Top Pharma Recipient Who Blocked Medicaid Expansion*](/richard-hudson/health-care-backup)
-[:shopping_cart: *Affordability: Backed Tariffs and the Largest SNAP Cut in History*](/richard-hudson/affordability-backup)
-[:briefcase: *Jobs and Economy: Voted Against Jobs in His Own District*](/richard-hudson/jobs-economy-backup)
+- [:hospital: *Health Care: Top Pharma Recipient Who Blocked Medicaid Expansion*](/richard-hudson/health-care-backup)
+- [:shopping_cart: *Affordability: Backed Tariffs and the Largest SNAP Cut in History*](/richard-hudson/affordability-backup)
+- [:briefcase: *Jobs and Economy: Voted Against Jobs in His Own District*](/richard-hudson/jobs-economy-backup)
 {.links-list}
 
 ## Personal and Character Vulnerabilities
-[:pill: *Pharma Pay-to-Play: \$240,600 From Drug Industry, Then Voted Against Lower Prices*](/richard-hudson/pharma-pay-to-play)
-[:no_entry_sign: *Blocked Medicaid Expansion That Later Covered 600,000 North Carolinians*](/richard-hudson/medicaid-block)
-[:gun: *NRA's Top Priority: Led National Concealed Carry Reciprocity*](/richard-hudson/nra-concealed-carry)
-[:speak_no_evil: *Won't Face Voters: Told Republicans to Stop Holding Town Halls*](/richard-hudson/town-hall-dodge)
-[:bust_in_silhouette: *Mentor Scandal: Robin Hayes Pleaded Guilty in Federal Bribery Case*](/richard-hudson/mentor-scandal)
+- [:pill: *Pharma Pay-to-Play: \$240,600 From Drug Industry, Then Voted Against Lower Prices*](/richard-hudson/pharma-pay-to-play)
+- [:no_entry_sign: *Blocked Medicaid Expansion That Later Covered 600,000 North Carolinians*](/richard-hudson/medicaid-block)
+- [:speak_no_evil: *Won't Face Voters: Told Republicans to Stop Holding Town Halls*](/richard-hudson/town-hall-dodge)
+- [:bust_in_silhouette: *Mentor Scandal: Robin Hayes Pleaded Guilty in Federal Bribery Case*](/richard-hudson/mentor-scandal)
 {.links-list}
