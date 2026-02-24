@@ -2,7 +2,7 @@
 title: How To Win Against Richard Hudson
 description: 
 published: false
-date: 2026-02-24T21:18:29.729Z
+date: 2026-02-24T21:20:29.769Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:48.234Z
@@ -24,7 +24,7 @@ Voted for a reconciliation bill that CBO projects will [increase the uninsured b
 
 ### **AFFORDABILITY: BACKED TARIFFS AND CUT FOOD ASSISTANCE FOR 1.4 MILLION**
 
-Voted to [keep Trump's tariffs on Canada](https://www.govtrack.us/congress/votes/119-2026/h65) that the Tax Foundation estimates amount to a [\$1,600 tax on the average consumer in 2026](https://www.wunc.org/economy/2025-11-25/nc-farmers-warn-tariffs-spiking-thanksgiving-dinner-prices). Tariffs are projected to cost NC farmers [\$695 million and 8,000 jobs](https://www.carolinajournal.com/report-warns-tariffs-could-cost-nc-farms-700m-8000-jobs/) with total economic losses exceeding $1.9 billion.
+Voted to [keep Trump's tariffs on Canada](https://www.govtrack.us/congress/votes/119-2026/h65) that the Tax Foundation estimates would have amounted to a [\$1,600 tax on the average consumer in 2026](https://www.wunc.org/economy/2025-11-25/nc-farmers-warn-tariffs-spiking-thanksgiving-dinner-prices). Tariffs were projected to cost NC farmers [\$695 million and 8,000 jobs](https://www.carolinajournal.com/report-warns-tariffs-could-cost-nc-farms-700m-8000-jobs/) with total economic losses exceeding $1.9 billion.
 Voted for the One Big Beautiful Bill's [20% SNAP cut — the largest in the program's history](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/) — threatening food assistance for [1.4 million North Carolinians, including 600,000 children](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/). North Carolina faces a [$420 million annual bill](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/) or risks ending its SNAP program entirely.
 CBO found the law would [cut income for the poorest Americans by \$1,200/year](https://www.nbcnews.com/politics/congress/trump-tax-law-mostly-benefit-rich-leaving-poorer-americans-less-cbo-rcna224449) while increasing income for the richest by $13,600 — and it let business owners [deduct private jets in year one](https://www.npr.org/2025/11/05/nx-s1-5590112/trump-beautiful-bill-taxes-republican-rich-wealthy).
 
