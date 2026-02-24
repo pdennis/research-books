@@ -2,7 +2,7 @@
 title: Rep. Richard Hudson (NC-09): Jobs and the Economy
 description: 
 published: false
-date: 2026-02-18T19:45:24.915Z
+date: 2026-02-24T21:32:48.213Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:13:16.439Z
@@ -10,9 +10,9 @@ dateCreated: 2026-02-18T19:13:16.439Z
 
 # Rep. Richard Hudson (NC-09): Jobs and the Economy
 
-Rep. Richard Hudson talks about creating jobs but consistently votes against the investments that bring them to North Carolina. He voted against the CHIPS and Science Act — the law funding a $5 billion Wolfspeed semiconductor plant and 1,800 jobs in his own district in Chatham County — and voted against the $1.2 trillion Bipartisan Infrastructure Law that funded roads, bridges, and broadband across the state. He voted against raising the federal minimum wage from $7.25 and against the PRO Act to protect workers' right to organize. He backed a tax law that CBO says cuts income for the poorest Americans by $1,200 a year while handing the richest a $13,600 windfall, and he voted to keep tariffs that an NC State University report projects will cost North Carolina farmers $695 million and 8,000 jobs. Meanwhile, North Carolina lost 7,200 manufacturing jobs in 2025, and a textile mill in Hudson's own district — Parkdale Mills in Sanford — shut down, eliminating 74 jobs. Hudson promised the 2017 tax cuts would deliver jobs and growth to North Carolina; instead, the law's individual provisions expired while its corporate rate cuts were made permanent.
+>Rep. Richard Hudson talks about creating jobs but consistently votes against the investments that bring them to North Carolina. He voted against the CHIPS and Science Act — the law funding a $5 billion Wolfspeed semiconductor plant and 1,800 jobs in his own district in Chatham County — and voted against the $1.2 trillion Bipartisan Infrastructure Law that funded roads, bridges, and broadband across the state. He voted against raising the federal minimum wage from $7.25 and against the PRO Act to protect workers' right to organize. He backed a tax law that CBO says cuts income for the poorest Americans by $1,200 a year while handing the richest a $13,600 windfall, and he voted to keep tariffs that an NC State University report projects will cost North Carolina farmers $695 million and 8,000 jobs. Meanwhile, North Carolina lost 7,200 manufacturing jobs in 2025, and a textile mill in Hudson's own district — Parkdale Mills in Sanford — shut down, eliminating 74 jobs. Hudson promised the 2017 tax cuts would deliver jobs and growth to North Carolina; instead, the law's individual provisions expired while its corporate rate cuts were made permanent.
 
----
+
 
 ### Voted Against The CHIPS Act That Is Funding 1,800 Jobs In His Own District
 
