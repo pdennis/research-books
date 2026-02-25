@@ -2,7 +2,7 @@
 title: How To Win Against Virginia Foxx
 description: 
 published: false
-date: 2026-02-25T16:59:17.040Z
+date: 2026-02-25T17:02:05.320Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:59.329Z
@@ -59,12 +59,12 @@ At 82, Foxx is [among the oldest members of Congress](https://www.nbcnews.com/po
 - [:hospital: *Two Decades of Voting Against Health Care Coverage*](/virginia-foxx/health-care-backup)
 - [:shopping_cart: *Used Her Gavel to Protect Tariffs While Families Pay More*](/virginia-foxx/affordability-backup)
 - [:briefcase: *Voted Against Infrastructure and Jobs, Shielded Job-Killing Tariffs*](/virginia-foxx/jobs-economy-backup)
+- [:balance_scale: *Tax Law Gave Wealthy 40x More Than Working Families*](/virginia-foxx/tax-inequality)
 {.links-list}
 
 ## Personal/Character Vulnerabilities
 - [:mortar_board: *$665,000 From For-Profit Colleges While Chairing the Committee That Oversees Them*](/virginia-foxx/for-profit-colleges)
 - [:moneybag: *Told Students She Has "Very Little Tolerance" for Their Debt*](/virginia-foxx/student-debt-hypocrisy)
-- [:rainbow_flag: *Called Matthew Shepard's Murder a "Hoax"*](/virginia-foxx/shepard-hoax)
 - [:older_woman: *At 82, Among the Oldest Members of Congress*](/virginia-foxx/age-primary)
-- [:balance_scale: *Tax Law Gave Wealthy 40x More Than Working Families*](/virginia-foxx/tax-inequality)
+
 {.links-list}
