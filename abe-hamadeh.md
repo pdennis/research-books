@@ -2,7 +2,7 @@
 title: How To Win Against Abe Hamadeh
 description: 
 published: false
-date: 2026-02-18T18:30:35.459Z
+date: 2026-02-27T20:31:04.663Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:00.917Z
