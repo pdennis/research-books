@@ -2,7 +2,7 @@
 title: How To Win Against Lauren Boebert
 description: 
 published: false
-date: 2026-02-18T19:43:45.372Z
+date: 2026-02-27T20:29:24.185Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:10:17.547Z
@@ -30,8 +30,8 @@ Voted to cut SNAP benefits for an estimated [131,000 low-income Coloradans](http
 
 ### **JOBS AND ECONOMY: VOTED AGAINST EVERY JOBS BILL, THEN CLAIMED CREDIT**
 
-Called the Inflation Reduction Act "a complete scam" even as it created [850 jobs at CS Wind in Pueblo](https://www.newsweek.com/biden-boebert-colorado-inflation-reduction-act-cs-wind-1847864). Voted against the bipartisan infrastructure law, then [bragged about "securing" $51.4 million](https://coloradosun.com/2024/06/07/lauren-boebert-infrastructure-funding-bill/) it funded for a bridge in Glenwood Springs.
-Her own business — Shooters Grill — [lost more than $600,000](https://www.thedailybeast.com/is-it-last-call-for-lauren-boeberts-gun-restaurant/) over three years and she owed [$20,000 in tax liens](https://coloradonewsline.com/2021/02/04/rep-boebert-paid-off-nearly-20k-in-state-tax-liens-in-2020/) for failing to pay unemployment insurance on her workers.
+Called the Inflation Reduction Act "a complete scam" even as it created [850 jobs at CS Wind in Pueblo](https://www.newsweek.com/biden-boebert-colorado-inflation-reduction-act-cs-wind-1847864). Voted against the bipartisan infrastructure law, then [bragged about "securing" \$51.4 million](https://coloradosun.com/2024/06/07/lauren-boebert-infrastructure-funding-bill/) it funded for a bridge in Glenwood Springs.
+Her own business — Shooters Grill — [lost more than \$600,000](https://www.thedailybeast.com/is-it-last-call-for-lauren-boeberts-gun-restaurant/) over three years and she owed [\$20,000 in tax liens](https://coloradonewsline.com/2021/02/04/rep-boebert-paid-off-nearly-20k-in-state-tax-liens-in-2020/) for failing to pay unemployment insurance on her workers.
 Trump vetoed her own signature water project — a [130-mile pipeline for 50,000 people](https://www.cpr.org/2026/01/08/house-trump-arkansas-valley-conduit-veto-override-fails/) — and she could not persuade her own party to override it.
 
 **Message:** Boebert voted against every major jobs bill, then took credit for the results. She ran a restaurant that lost $600,000 and stiffed her workers — and she could not even deliver her own signature project.
@@ -39,8 +39,8 @@ Trump vetoed her own signature water project — a [130-mile pipeline for 50,000
 ### **CHARACTER: A TRAIL OF SCANDALS AND SELF-DEALING**
 
 [Escorted out of a Denver theater](https://www.denverpost.com/2023/09/12/lauren-boebert-removed-beetlejuice-musical-denver/) for groping her date and vaping during a family musical, then [lied about it](https://www.nbcnews.com/politics/congress/surveillance-video-appears-contradict-boeberts-denial-was-vaping-beetl-rcna105246) before surveillance video proved otherwise.
-Used [campaign funds to pay personal rent](https://www.nbcnews.com/politics/congress/rep-lauren-boebert-improperly-used-campaign-funds-rent-utilities-n1279976), paid herself [$22,000 in undocumented mileage reimbursements](https://www.cpr.org/2021/02/07/what-we-know-about-lauren-boeberts-campaign-payments-to-herself-for-driving-38000-miles/), and faces a new FEC complaint for spending [$3,300 on a Kid Rock trip](https://www.washingtontimes.com/news/2025/dec/9/lauren-boebert-used-campaign-funds-see-kid-rock-fec-filings-show/).
-Failed to disclose her husband's [nearly $1 million in energy consulting income](https://coloradosun.com/2021/08/19/lauren-boebert-husband-terra-energy-productions/) while pushing to loosen drilling rules. Passed [zero bills](https://www.govtrack.us/congress/members/lauren_boebert/456805/report-card/2022) in her first Congress and ranked at the 0th percentile for bipartisanship.
+Used [campaign funds to pay personal rent](https://www.nbcnews.com/politics/congress/rep-lauren-boebert-improperly-used-campaign-funds-rent-utilities-n1279976), paid herself [\$22,000 in undocumented mileage reimbursements](https://www.cpr.org/2021/02/07/what-we-know-about-lauren-boeberts-campaign-payments-to-herself-for-driving-38000-miles/), and faces a new FEC complaint for spending [\$3,300 on a Kid Rock trip](https://www.washingtontimes.com/news/2025/dec/9/lauren-boebert-used-campaign-funds-see-kid-rock-fec-filings-show/).
+Failed to disclose her husband's [nearly \$1 million in energy consulting income](https://coloradosun.com/2021/08/19/lauren-boebert-husband-terra-energy-productions/) while pushing to loosen drilling rules. Passed [zero bills](https://www.govtrack.us/congress/members/lauren_boebert/456805/report-card/2022) in her first Congress and ranked at the 0th percentile for bipartisanship.
 
 **Message:** Boebert uses her office to enrich herself and her family while delivering nothing for her constituents — zero bills passed, zero accountability, endless scandals.
 
@@ -53,16 +53,16 @@ Failed to disclose her husband's [nearly $1 million in energy consulting income]
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
-[:hospital: *Health Care: Voted for Massive Medicaid Cuts While Her Own Constituents Depend on the Program*](/lauren-boebert/health-care-backup)
-[:shopping_cart: *Affordability: Backed Tariffs and Cut Food Assistance While Families Struggle*](/lauren-boebert/affordability-backup)
-[:briefcase: *Jobs and Economy: Voted Against Every Major Jobs Bill, Then Claimed Credit*](/lauren-boebert/jobs-economy-backup)
+- [:hospital: *Health Care: Voted for Massive Medicaid Cuts While Her Own Constituents Depend on the Program*](/lauren-boebert/health-care-backup)
+- [:shopping_cart: *Affordability: Backed Tariffs and Cut Food Assistance While Families Struggle*](/lauren-boebert/affordability-backup)
+- [:briefcase: *Jobs and Economy: Voted Against Every Major Jobs Bill, Then Claimed Credit*](/lauren-boebert/jobs-economy-backup)
 {.links-list}
 
 ## Personal and Character Vulnerabilities
-[:eyes: *Theater Scandal: Caught Groping and Vaping, Then Lied About It*](/lauren-boebert/theater-scandal)
-[:money_with_wings: *Campaign Finance: Used Donor Money for Rent, Mileage, and Kid Rock*](/lauren-boebert/campaign-finance)
-[:oil_drum: *Undisclosed Energy Income: Husband's $1M From Oil and Gas*](/lauren-boebert/energy-income)
-[:running: *District Switch: Fled CO-3 After Nearly Losing*](/lauren-boebert/district-switch)
-[:scales: *Ineffective and Extreme: Zero Bills, Zero Bipartisanship*](/lauren-boebert/ineffective-extreme)
-[:oncoming_police_car: *Personal Conduct: Arrests, Son's Felony Charges, Restaurant Scandals*](/lauren-boebert/personal-conduct)
+- [:eyes: *Theater Scandal: Caught Groping and Vaping, Then Lied About It*](/lauren-boebert/theater-scandal)
+- [:money_with_wings: *Campaign Finance: Used Donor Money for Rent, Mileage, and Kid Rock*](/lauren-boebert/campaign-finance)
+- [:oil_drum: *Undisclosed Energy Income: Husband's $1M From Oil and Gas*](/lauren-boebert/energy-income)
+- [:running: *District Switch: Fled CO-3 After Nearly Losing*](/lauren-boebert/district-switch)
+- [:scales: *Ineffective and Extreme: Zero Bills, Zero Bipartisanship*](/lauren-boebert/ineffective-extreme)
+- [:oncoming_police_car: *Personal Conduct: Arrests, Son's Felony Charges, Restaurant Scandals*](/lauren-boebert/personal-conduct)
 {.links-list}
