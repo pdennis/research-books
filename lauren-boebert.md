@@ -2,7 +2,7 @@
 title: How To Win Against Lauren Boebert
 description: 
 published: false
-date: 2026-02-27T20:29:24.185Z
+date: 2026-02-27T20:29:51.306Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:10:17.547Z
