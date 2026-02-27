@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-02-20T15:21:24.944Z
+date: 2026-02-27T20:04:22.379Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -39,7 +39,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 ### **GARRITY SUPPORTED TRUMP’S DEVASTATING TARIFFS**
 
 -	In 2025, Garrity [supported](https://x.com/GarrityForPA/status/1886483884658831501) Trump’s tariffs, which were dooming Pennsylvanians to a trade war and [rising prices.](https://penncapital-star.com/campaigns-elections/garrity-and-meuser-bring-potential-gubernatorial-pitches-to-conservative-conference/) 
--	Garrity even [recognized](https://www.youtube.com/watch?v=Yv05AZy8eSU) that Trump’s tariffs would increase prices. Tariffs are contributing to [higher food prices]( https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and are [hurting]( https://www.fox43.com/article/news/local/small-businesses-worry-about-tariffs-impacting-the-holiday-shopping-season-holidays-lancaster-county/521-0afe4a32-8fe3-48e0-b220-20a4ca14608c) Pennsylvania small businesses and families. From January to May 2025, Pennsylvanians faced an estimated cost of [$1.6 billion]( https://www.axios.com/local/pittsburgh/2025/07/16/1-6-billion-tariff-impacts-on-pennsylvania) in tariffs. Despite this, Garrity called Trump’s tariffs ["common sense measures,"]( https://penncapital-star.com/campaigns-elections/garrity-and-meuser-bring-potential-gubernatorial-pitches-to-conservative-conference/) even as the [U.S. stock market crashed]( https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s escalating global trade war.
+-	Garrity even [recognized](https://www.youtube.com/watch?v=Yv05AZy8eSU) that Trump’s tariffs would increase prices. Tariffs are contributing to [higher food prices]( https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and are [hurting]( https://www.fox43.com/article/news/local/small-businesses-worry-about-tariffs-impacting-the-holiday-shopping-season-holidays-lancaster-county/521-0afe4a32-8fe3-48e0-b220-20a4ca14608c) Pennsylvania small businesses and families. In February 2026, Garrity [did not respond](https://www.pennlive.com/politics/2026/02/trumps-tariffs-cost-pa-residents-billions-last-year-report.html?outputType=amp) to a request for comment after Trade Partnership Worldwide published a report that showed Trump's tariffs cost Pennsylvanians $4 billion in 2025. Despite this, Garrity called Trump’s tariffs ["common sense measures,"]( https://penncapital-star.com/campaigns-elections/garrity-and-meuser-bring-potential-gubernatorial-pitches-to-conservative-conference/) even as the [U.S. stock market crashed]( https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s escalating global trade war.
 
 
 **Message:** Garrity supported Trump’s disastrous tariffs that harmed Pennsylvania small businesses and ensured Pennsylvanians will pay more for groceries.
