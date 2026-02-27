@@ -2,7 +2,7 @@
 title: How To Win Against Jay Obernolte
 description: 
 published: false
-date: 2026-02-27T20:16:05.679Z
+date: 2026-02-27T20:19:02.548Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:09:13.510Z
@@ -60,14 +60,14 @@ He simultaneously [owns a tech company](https://www.bloomberg.com/news/newslette
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
-[:hospital: *Health Care: Voted to Gut Medi-Cal While Half His District Depends on It*](/jay-obernolte/health-care-backup)
-[:shopping_cart: *Affordability: Flipped His Tariff Vote, Then Refused to Explain*](/jay-obernolte/affordability-backup)
-[:briefcase: *Jobs and the Economy: Voted Against Every Job-Creating Bill*](/jay-obernolte/jobs-economy-backup)
+- [:hospital: *Health Care: Voted to Gut Medi-Cal While Half His District Depends on It*](/jay-obernolte/health-care-backup)
+- [:shopping_cart: *Affordability: Flipped His Tariff Vote, Then Refused to Explain*](/jay-obernolte/affordability-backup)
+- [:briefcase: *Jobs and the Economy: Voted Against Every Job-Creating Bill*](/jay-obernolte/jobs-economy-backup)
 {.links-list}
 
 ## Personal/Character Vulnerabilities
-[:ballot_box: *Election Denial: Objected to 2020 Results Hours After January 6*](/jay-obernolte/election-denial)
-[:mega: *Constituent Backlash: Booed Off Stage, Then Canceled Town Halls*](/jay-obernolte/town-hall-backlash)
-[:robot: *AI Conflicts of Interest: Selling Access While Shaping Policy*](/jay-obernolte/ai-lobbying-coalition)
-[:arrows_counterclockwise: *Tariff Vote Flip: Changed His Vote Under Pressure*](/jay-obernolte/tariff-vote-flip)
+- [:ballot_box: *Election Denial: Objected to 2020 Results Hours After January 6*](/jay-obernolte/election-denial)
+- [:mega: *Constituent Backlash: Booed Off Stage, Then Canceled Town Halls*](/jay-obernolte/town-hall-backlash)
+- [:robot: *AI Conflicts of Interest: Selling Access While Shaping Policy*](/jay-obernolte/ai-lobbying-coalition)
+- [:arrows_counterclockwise: *Tariff Vote Flip: Changed His Vote Under Pressure*](/jay-obernolte/tariff-vote-flip)
 {.links-list}
