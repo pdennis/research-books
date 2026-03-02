@@ -2,7 +2,7 @@
 title: Derrick Van Orden Defended DOGE As It Attacked Social Security 
 description: 
 published: true
-date: 2025-12-09T22:27:37.502Z
+date: 2026-03-02T23:33:26.042Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T16:09:32.251Z
@@ -51,7 +51,7 @@ Van Orden also [defended](https://x.com/derrickvanorden/status/18950791588559221
 
 **HEADLINE: "Social Security Stops Reporting Call Wait Times And Other Metrics"** \[Washington Post, [6/20/25](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/)\]
 
-**HEADLINE: "As Social Security Services Are Cut Back, Millions Of Seniors Face Long Drives"** \[Axios, [6/8/25](https://www.axios.com/2025/04/08/social-security-seniors-drive)\]
+**HEADLINE: "As Social Security Services Are Cut Back, Millions Of Seniors Face Long Drives"** \[Axios, [4/8/25](https://www.axios.com/2025/04/08/social-security-seniors-drive)\]
 
 **HEADLINE: "Social Security Website Keeps Crashing, As DOGE Demands Cuts To IT Staff"** \[Washington Post, [4/7/25](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/)\]
 
