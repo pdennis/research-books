@@ -2,7 +2,7 @@
 title: Ryan Mackenzie Defended DOGE As It Attacked Social Security
 description: 
 published: true
-date: 2026-03-02T23:22:25.122Z
+date: 2026-03-02T23:28:20.399Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T17:28:02.182Z
@@ -14,7 +14,7 @@ Mackenzie also [defended](https://www.lehighvalleynews.com/elections/u-s-rep-rya
 
 ## Mackenzie Promised He Would Protect Social Security, Then He Stood By While The Trump Administration Made Cuts That Hurt Services
 
-### 2024: While Campaigning for Congress, Mackenzie Called to Protect Social Security
+### 2024: While Campaigning For Congress, Mackenzie Called to Protect Social Security
 
 **Mackenzie In 2024: "We Must Stop The Wasteful Overspending And Protect Programs Like Medicare And Social Security."** According to an opinion article by Ryan Mackenzie in the Morning Call, "We must stop the wasteful overspending and protect programs like Medicare and Social Security. We must elect candidates who are willing to tackle these issues and I hope you will join me in this fight to get our country back on the right track." \[Opinion – Ryan Mackenzie, Morning Call, [4/3/24](https://www.mcall.com/2024/04/03/election-2024-your-view-by-ryan-mackenzie-my-experience-in-harrisburg-will-help-me-address-illegal-immigration-economy/)\]
 
