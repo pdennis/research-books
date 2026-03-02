@@ -2,7 +2,7 @@
 title: Ryan Zinke Defended Attacks on Social Security and Montana Workers
 description: 
 published: true
-date: 2025-12-10T19:26:57.192Z
+date: 2026-03-02T23:13:53.561Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:47:51.241Z
@@ -29,7 +29,7 @@ Zinke said he liked DOGE even though it resulted in the mass layoffs of [Montan
 
 **HEADLINE: "Social Security Stops Reporting Call Wait Times And Other Metrics"** \[Washington Post, [6/20/25](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/)\]
 
-**HEADLINE: "As Social Security Services Are Cut Back, Millions Of Seniors Face Long Drives"** \[Axios, [6/8/25](https://www.axios.com/2025/04/08/social-security-seniors-drive)\]
+**HEADLINE: "As Social Security Services Are Cut Back, Millions Of Seniors Face Long Drives"** \[Axios, [4/8/25](https://www.axios.com/2025/04/08/social-security-seniors-drive)\]
 
 **HEADLINE: "Social Security Website Keeps Crashing, As DOGE Demands Cuts To IT Staff"** \[Washington Post, [4/7/25](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/)\]
 
