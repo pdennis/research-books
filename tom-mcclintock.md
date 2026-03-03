@@ -2,7 +2,7 @@
 title: How To Win Against Tom McClintock
 description: 
 published: false
-date: 2026-03-03T22:52:45.993Z
+date: 2026-03-03T22:56:49.852Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:01.908Z
@@ -53,6 +53,5 @@ Voted against the infrastructure law's [\$3.4 billion for wildfire risk reductio
 
 ## Personal and Character Vulnerabilities
 - [:fire: *Climate Denial While His District Burns*](/tom-mcclintock/climate-denial)
-- [:older_man: *Advocated for Social Security and Medicare Cuts*](/tom-mcclintock/social-security-medicare-cuts)
 - [:rage: *Town Hall Confrontations and Constituent Anger*](/tom-mcclintock/town-hall-confrontations)
 {.links-list}
