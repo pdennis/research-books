@@ -2,7 +2,7 @@
 title: Abe Hamadeh: Health Care
 description: Health care voting record backup page
 published: true
-date: 2026-02-18T18:24:24.355Z
+date: 2026-03-03T22:14:50.652Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:24.355Z
@@ -12,13 +12,6 @@ dateCreated: 2026-02-18T18:24:24.355Z
 
 Rep. Abe Hamadeh has positioned himself as a champion of health care affordability, but his voting record tells a different story. Hamadeh voted for the One Big Beautiful Bill Act, which the Congressional Budget Office estimated would cut $911 billion from Medicaid and cause 10.9 million Americans to lose health insurance — including more than 300,000 Arizonans. He then falsely claimed the bill included "no cuts to Medicaid," a talking point PolitiFact rated as false. Hamadeh also voted against extending Affordable Care Act premium subsidies, contributing to premium increases averaging 29-35% for Arizona marketplace enrollees in 2026. Retired Scottsdale teachers in his district saw their projected premiums quadruple from $513 to $2,219 per month. Meanwhile, Hamadeh's own website declares the Affordable Care Act "failed" and pledges to "fight against socialized medicine," while offering no plan to protect the 2 million Arizonans enrolled in AHCCCS or the 423,000 who rely on ACA marketplace coverage.
 
-| Finding | Status | Notes |
-|---------|--------|-------|
-| Voted for $911B in Medicaid cuts while claiming "no cuts to Medicaid" | **Previously Reported** | Covered by PolitiFact, FactCheck.org, AZPM, and others |
-| Voted against ACA subsidy extension as Arizona premiums surged | **New Angle** | Vote itself reported; connection to AZ-08 constituent impact not widely covered |
-| 300,000+ Arizonans projected to lose coverage from bill he supported | **Previously Reported** | Covered by AZCIR, KFF, CBO analyses |
-| Scottsdale retirees facing premium quadrupling | **New Angle** | Premium impacts reported; not previously connected to Hamadeh's votes |
-| Rural Arizona hospitals at risk of closure | **Previously Reported** | Covered by UA Center for Rural Health, KJZZ |
 
 ### Voted for Massive Medicaid Cuts While Claiming "No Cuts"
 
