@@ -2,7 +2,7 @@
 title: Abe Hamadeh: Affordability
 description: Affordability and tariffs backup page
 published: true
-date: 2026-02-18T18:24:32.761Z
+date: 2026-03-03T22:22:11.080Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:32.761Z
@@ -11,14 +11,6 @@ dateCreated: 2026-02-18T18:24:32.761Z
 # Rep. Abe Hamadeh (AZ-08): Affordability
 
 Rep. Abe Hamadeh has championed tariff and trade policies that economists say function as a hidden tax on Arizona families, defended those tariffs even as Arizona businesses warned of devastating price increases, and voted for the One Big Beautiful Bill Act — which CBO found delivers its largest benefits to the wealthiest Americans while cutting food assistance for an estimated 73,000 Arizonans. Despite claiming the bill delivers "the largest tax cut for middle- and working-class Americans in history," CBO's distributional analysis found the poorest 30% of households would see a net loss, with the bottom 10% losing approximately $1,600 per year while the top 10% gain $12,000 per year. Meanwhile, Arizona families face higher grocery bills driven by tariffs on Mexican produce — which flows through the Nogales port of entry at 6.8 billion pounds annually — and small businesses across the state are warning that tariff-driven price hikes on everything from cars to home construction materials will squeeze household budgets for years to come.
-
-| Finding | Status | Notes |
-|---------|--------|-------|
-| Hamadeh defended tariffs that economists call a hidden tax on Arizona families | **New Angle** | His tariff defense reported; not previously connected to specific AZ family cost estimates |
-| CBO found OBBBA benefits top earners, cuts resources for poorest households | **Previously Reported** | Covered by CBO, Senate Budget Committee, multiple outlets |
-| SNAP cuts from OBBBA could affect 73,000 Arizonans | **Previously Reported** | Covered by Axios Phoenix, IRC, CBPP |
-| Arizona produce industry faces billions in tariff-driven losses | **Previously Reported** | Covered by KJZZ, Tucson.com, Fresh Produce Association |
-| Arizona businesses warn of thousands in new costs per household | **New Angle** | Individual business warnings reported by AZ AG; not aggregated against Hamadeh's record |
 
 ### Defended Tariffs That Economists Call A Hidden Tax On Arizona Families
 
