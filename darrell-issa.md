@@ -2,7 +2,7 @@
 title: How To Win Against Darrell Issa
 description: 
 published: false
-date: 2026-02-19T12:27:53.838Z
+date: 2026-03-03T23:06:49.411Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:04:32.248Z
@@ -59,6 +59,5 @@ He [rented his D.C. townhouse to Speaker Johnson's campaign](https://www.sandieg
 - [:office: *Self-Dealing Earmarks*](/darrell-issa/self-dealing-earmarks)
 - [:house: *Speaker Johnson Rental and Ethics Complaints*](/darrell-issa/johnson-rental)
 - [:no_entry: *Refuses to Hold Town Halls*](/darrell-issa/town-hall-avoidance)
-- [:speech_balloon: *False Claims About Medicaid and Immigrants*](/darrell-issa/medicaid-false-claims)
 
 {.links-list}
