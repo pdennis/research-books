@@ -2,7 +2,7 @@
 title: John Lujan
 description: 
 published: false
-date: 2026-03-03T23:37:58.405Z
+date: 2026-03-03T23:43:17.777Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-03T23:37:06.840Z
@@ -48,6 +48,13 @@ John Lujan has long pretended to be a moderate Republican but pledged that he wo
 
 # Issues
 
-## John Lujan's Votes Hurt Everyday Texans
+## John Lujan's Actions Hurt Everyday Texans
+- [:x: *Lujan Vowed To Support Trump's Agenda Of Cutting Health Care And Price-Raising Tariffs*](https://research-books.com/en/john-lujan/lujan-agenda)
+- [:pencil: *Lujan Supported School Voucher At The Expense Of Texas Public Schools*](https://research-books.com/en/john-lujan/lujan-education)
+- [:woman: *Lujan's Anti-Choice Views Endangered Texas Women*](https://research-books.com/en/john-lujan/lujan-choice)
+{.links-list}
 
 ## John Lujan Used His Power To Benefit Himself And The Powerful
+- [:wastebasket: *Lujan Was Just Another Self-Serving Politician*](https://research-books.com/en/john-lujan/lujan-self-serving)
+- [:eyes: *Lujan Supported A Scandal-Ridden City Councilman*](https://research-books.com/en/john-lujan/lujan-whyte)
+{.links-list}
