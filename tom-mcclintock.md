@@ -2,7 +2,7 @@
 title: How To Win Against Tom McClintock
 description: 
 published: false
-date: 2026-03-03T22:39:49.074Z
+date: 2026-03-03T22:48:33.777Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:01.908Z
@@ -44,14 +44,6 @@ Voted against the infrastructure law's [\$3.4 billion for wildfire risk reductio
 
 **Message:** McClintock denies climate science while his district burns, then votes against wildfire prevention funding.
 
-### **CARPETBAGGER: DOESN'T LIVE IN HIS DISTRICT**
-
-[Collected over \$300,000 in tax-free per diem](https://www.presstelegram.com/2008/06/08/californias-carpetbaggers/) as a state senator while living near Sacramento, not in the Southern California district he represented.
-After redistricting, [does not live in the congressional district he represents](https://www.eastbaytimes.com/2010/02/12/carpetbagger-losing-steam-as-campaign-strategy/) — one of only a few members of Congress in that position.
-Has ["incessantly advocated"](https://www.mtdemocrat.com/letters/mcclintocks-plans-for-social-security-and-medicare/) for cuts to Social Security and Medicare, which his own aging constituents depend on.
-
-**Message:** McClintock doesn't even live in the district — he's a career politician who collected $300,000 in per diem while representing a district 350 miles from his home.
-
 # Issue Back-Ups
 
 ## Policies That Hurt Everyday People
@@ -62,7 +54,6 @@ Has ["incessantly advocated"](https://www.mtdemocrat.com/letters/mcclintocks-pla
 
 ## Personal and Character Vulnerabilities
 - [:fire: *Climate Denial While His District Burns*](/tom-mcclintock/climate-denial)
-- [:house: *Carpetbagger: Doesn't Live in His District*](/tom-mcclintock/carpetbagger)
 - [:older_man: *Advocated for Social Security and Medicare Cuts*](/tom-mcclintock/social-security-medicare-cuts)
 - [:rage: *Town Hall Confrontations and Constituent Anger*](/tom-mcclintock/town-hall-confrontations)
 {.links-list}
