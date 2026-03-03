@@ -2,7 +2,7 @@
 title: How To Win Against Abe Hamadeh
 description: 
 published: false
-date: 2026-03-03T22:14:20.834Z
+date: 2026-03-03T22:30:12.545Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:00.917Z
@@ -79,7 +79,7 @@ Before Congress, Hamadeh was a serial election denier who [filed four lawsuits t
 ## Personal/Character Vulnerabilities
 - [:eyes: *Serial Election Denial and Court Sanctions*](/abe-hamadeh/election-denial)
 - [:money_with_wings: *Questionable Campaign Financing and Family Money*](/abe-hamadeh/campaign-finance)
-- [:arrows_counterclockwise: *Abortion Flip-Flop*](/abe-hamadeh/abortion-flip-flop)
+- [:arrows_counterclockwise: *Abortion Extremist*](/abe-hamadeh/abortion-flip-flop)
 - [:bust_in_silhouette: *Embellished Legal Qualifications*](/abe-hamadeh/embellished-qualifications)
 - [:no_entry_sign: *Broke Term Limits Pledge*](/abe-hamadeh/term-limits)
 - [:passport_control: *Immigration Hypocrisy*](/abe-hamadeh/immigration-hypocrisy)
