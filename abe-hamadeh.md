@@ -2,7 +2,7 @@
 title: How To Win Against Abe Hamadeh
 description: 
 published: false
-date: 2026-02-27T20:44:55.589Z
+date: 2026-03-03T22:14:20.834Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:00.917Z
@@ -61,7 +61,7 @@ Before Congress, Hamadeh was a serial election denier who [filed four lawsuits t
 
 **Message:** Hamadeh's campaigns are bankrolled by his brother's money and corporate PACs, not by the people he claims to represent.
 
-### **ABORTION FLIP-FLOP**
+### **ABORTION Extremist**
 
 - In 2022, Hamadeh [pledged to enforce Arizona's near-total abortion ban](https://cronkitenews.azpbs.org/2022/10/12/arizona-attorney-general-abe-hamadeh-republican-running-against-leftist-mob/) as attorney general.
 - Two years later, he [dismissed the same ban as "a complete win for Democrats"](https://www.nbcnews.com/politics/2024-election/arizona-abortion-ban-gop-congressional-primary-rcna150246) and said its effects would not be "actually going to be that significant."
