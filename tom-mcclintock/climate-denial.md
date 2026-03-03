@@ -2,13 +2,13 @@
 title: Rep. Tom McClintock (CA-05): Climate Denial While His District Burns
 description: 
 published: false
-date: 2026-02-18T19:47:50.524Z
+date: 2026-03-03T22:53:35.933Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:28.807Z
 ---
 
-# Rep. Tom McClintock (CA-05): Climate Denial While His District Burns
+# Rep. Tom McClintock (CA-05): His District Burns While He Buries His Head In The Sand
 
 ### Questioned Whether Humans Cause Climate Change While His District Burned
 
