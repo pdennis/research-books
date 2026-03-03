@@ -2,7 +2,7 @@
 title: How To Win Against Tom McClintock
 description: 
 published: false
-date: 2026-03-03T22:48:33.777Z
+date: 2026-03-03T22:52:45.993Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:01.908Z
@@ -38,11 +38,10 @@ Cheered cancellation of a [\$1.2 billion hydrogen project](https://www.yahoo.com
 
 ### **CLIMATE DENIAL WHILE HIS DISTRICT BURNS**
 
-Holds a [3% lifetime score from the League of Conservation Voters](https://www.lcv.org/moc/tom-mcclintock/) and [questioned whether human activity causes climate change](https://www.tommcclintock.com/issues/global-warming-and-climate-change/), citing warming on Mars and Jupiter.
-Said the U.S. ["should not hamstring its economy"](https://thevalleycitizen.com/congressman-tom-mcclintocks-deadly-denial-of-global-warming/) to combat climate change — while his district was ravaged by record wildfires consuming nearly 250,000 acres.
+[Questioned whether human activity causes climate change](https://www.tommcclintock.com/issues/global-warming-and-climate-change/), citing warming on Mars and Jupiter, and he aid the U.S. ["should not hamstring its economy"](https://thevalleycitizen.com/congressman-tom-mcclintocks-deadly-denial-of-global-warming/) to combat climate change — while his district was ravaged by record wildfires consuming nearly 250,000 acres.
 Voted against the infrastructure law's [\$3.4 billion for wildfire risk reduction](https://www.npr.org/2021/11/05/1048745258/the-house-passes-bipartisan-infrastructure-bill-sending-it-to-bidens-desk).
 
-**Message:** McClintock denies climate science while his district burns, then votes against wildfire prevention funding.
+**Message:** McClintock denies the cause of fires in his district burns, then votes against wildfire prevention funding.
 
 # Issue Back-Ups
 
