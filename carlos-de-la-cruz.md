@@ -2,7 +2,7 @@
 title: Carlos De La Cruz
 description: 
 published: false
-date: 2026-03-04T00:03:16.868Z
+date: 2026-03-04T00:08:30.259Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-04T00:02:59.429Z
@@ -50,3 +50,11 @@ Carlos De La Cruz thought he could win the TX-35  election on family ties alone
 -   De La Cruz [touted](https://www.instagram.com/p/DQxFjHwEcWc/) an endorsement from Rep. Ryan Zinke, who was known for [resigning in disgrace](https://www.washingtonpost.com/national/health-science/interior-secretary-zinke-resigns-amid-investigations/2018/12/15/481f9104-0077-11e9-ad40-cdfd0e0dd65a_story.html) as Interior Secretary in Trump’s first administration after violating government [rules](https://www.cnn.com/2018/10/18/politics/zinke-travel-wife-watchdog/index.html) and [ethics](https://www.npr.org/2022/02/16/1081180054/ryan-zinke-interior-investigation-ig-report) obligations.
 
 **Message:** De La Cruz was eager to accept endorsements from scandal-ridden congressmen.
+
+# Issues
+## Carlos De La Cruz Would Make Life Harder For Everyday Texans
+- [:hospital: *Carlos De La Cruz Was Eager To Back An Agenda That Cut Health Care*](https://research-books.com/en/carlos-de-la-cruz/carlos-de-la-cruz-healthcare)
+- [:older_man: *Carlos De La Cruz Supported An Agenda That Cut Medicare And Hamstrung Social Security*](https://research-books.com/en/carlos-de-la-cruz/carlos-de-la-cruz-seniors)
+- [:shopping_cart: *Carlos De La Cruz Supported An Agenda That Raised Costs And Cut Food Assistance*](https://research-books.com/en/carlos-de-la-cruz/carlos-de-la-cruz-costs)
+- [:eyes: *Carlos De La Cruz Accepted Endorsements From Scandal-Ridden Congressmen*](https://research-books.com/en/carlos-de-la-cruz/carlos-de-la-cruz-endorsements)
+{.links-list}
