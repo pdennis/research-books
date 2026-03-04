@@ -2,7 +2,7 @@
 title: Carlos De La Cruz
 description: 
 published: false
-date: 2026-03-04T00:08:30.259Z
+date: 2026-03-04T00:22:24.956Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-04T00:02:59.429Z
@@ -10,7 +10,7 @@ dateCreated: 2026-03-04T00:02:59.429Z
 
 # How To Win Against Carlos De La Cruz
 
-Carlos De La Cruz thought he could win the TX-35  election on family ties alone. He coasted to victory in the primary without taking a stand on key issues important to Texans, instead relying on his sister’s name. One thing he made clear was that he was eager to be “Trump’s wingman” if elected to Congress. He has touted endorsements from President Donald Trump and Speaker Mike Johnson, even though their policies have caused pain for many Texans in the 35^th^ district, and he has also touted endorsements from numerous members of Congress who have faced various scandals. Texans in the new 35^th^ district deserve a congressman who will be honest with them about where they stand on key issues, not another self-serving politician who’s just another talking head for Washington party leaders. 
+Carlos De La Cruz thought he could win the TX-35  election on family ties alone. He coasted to victory in the primary without taking a stand on key issues important to Texans, instead relying on his sister’s name. One thing he made clear was that he was eager to be [“Trump’s wingman”](https://www.ksat.com/news/texas/2026/02/28/redrawn-to-favor-gop-texas-35th-congressional-district-attracts-competitive-primaries-in-both-parties/) if elected to Congress. He has touted endorsements from President Donald Trump and Speaker Mike Johnson, even though their policies have caused pain for many Texans in the 35^th^ district, and he has also touted endorsements from numerous members of Congress who have faced various scandals. Texans in the new 35^th^ district deserve a congressman who will be honest with them about where they stand on key issues, not another self-serving politician who’s just another talking head for Washington party leaders. 
 
 ### De La Cruz Was Eager To Back Trump And Speaker Johnson’s Agenda, Which Included Cutting Health Care For 17 Million Americans
 
@@ -50,6 +50,10 @@ Carlos De La Cruz thought he could win the TX-35  election on family ties alone
 -   De La Cruz [touted](https://www.instagram.com/p/DQxFjHwEcWc/) an endorsement from Rep. Ryan Zinke, who was known for [resigning in disgrace](https://www.washingtonpost.com/national/health-science/interior-secretary-zinke-resigns-amid-investigations/2018/12/15/481f9104-0077-11e9-ad40-cdfd0e0dd65a_story.html) as Interior Secretary in Trump’s first administration after violating government [rules](https://www.cnn.com/2018/10/18/politics/zinke-travel-wife-watchdog/index.html) and [ethics](https://www.npr.org/2022/02/16/1081180054/ryan-zinke-interior-investigation-ig-report) obligations.
 
 **Message:** De La Cruz was eager to accept endorsements from scandal-ridden congressmen.
+
+### De La Cruz Joked That He "Just Barely" Got An Endorsement From His Sister Rep. Monica De La Cruz
+
+- De La Cruz: “I Am The Only One Up Here Tonight That Has Been Endorsed By Several Of President Trump’s Strongest Warriors In Congress, [To Include My Sister Congresswoman Monica De La Cruz, Which I Just Barely Got.”](https://www.youtube.com/watch?v=TL6kcTK55f8)
 
 # Issues
 ## Carlos De La Cruz Would Make Life Harder For Everyday Texans
