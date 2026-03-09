@@ -2,7 +2,7 @@
 title: How To Win Against Virginia Foxx
 description: 
 published: false
-date: 2026-02-25T17:02:05.320Z
+date: 2026-03-09T17:28:54.849Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:59.329Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T19:20:59.329Z
 
 # How To Win Against Virginia Foxx
 
-Virginia Foxx has spent two decades in Congress building a record that is indefensible in her own district. She [called the Affordable Care Act more dangerous than terrorism](https://talkingpointsmemo.com/news/rep-foxx-health-care-reform-more-dangerous-than-any-terrorist), voted for a replacement bill that the [CBO said would leave 23 million more Americans uninsured](https://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured), voted against [\$35 insulin and Medicare drug price negotiation](https://www.kff.org/medicare/issue-brief/faqs-about-the-inflation-reduction-acts-medicare-drug-price-negotiation-program/), then voted for the One Big Beautiful Bill Act that is projected to [strip Medicaid from 200,000 North Carolinians](https://www.kff.org/medicaid/allocating-cbos-estimates-of-federal-medicaid-spending-reductions-across-the-states-enacted-reconciliation-package/) and impose the [largest SNAP cuts in history, threatening 1.35 million North Carolinians](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/) -- all while that tax law delivers [an average tax cut of \$12,540 to the top 20% of earners but just \$150 for the bottom 20%](https://www.cbsnews.com/news/big-beautiful-bill-tax-cuts-by-income-group/). As Rules Committee chairwoman, she [used her gavel to shield Trump's tariffs from congressional repeal](https://rollcall.com/2026/02/10/house-rules-committee-moves-to-protect-trumps-tariffs-from-congressional-disapproval/) even as those tariffs [cost North Carolina 7,200 manufacturing jobs](https://www.carolinajournal.com/nc-loses-7200-manufacturing-jobs-says-nc-commerce/) and threaten to [wipe out \$695 million in farm income](https://www.carolinajournal.com/report-warns-tariffs-could-cost-nc-farms-700m-8000-jobs/). She [collected over \$665,000 from the for-profit education industry](https://newrepublic.com/post/172968/gop-lawmaker-virginia-foxx-erases-maxwell-frost-student-debt-argument-record) while chairing the committee that oversees them, told students she has ["very little tolerance"](https://archive.thinkprogress.org/rep-virginia-foxx-on-people-with-student-loans-i-have-very-little-tolerance-for-them-408d16518ba3/) for their debt despite paying [\$87.50 a semester](https://www.newamerica.org/education-policy/edcentral/virginia-foxx-paid-8750-in-tuition-in-1961/) for her own UNC degree, and [called Matthew Shepard's murder a "hoax"](https://www.nbcnews.com/id/wbna30505428) on the House floor.
+Virginia Foxx has spent two decades in Congress building a record that is indefensible in her own district. She [called the Affordable Care Act more dangerous than terrorism](https://talkingpointsmemo.com/news/rep-foxx-health-care-reform-more-dangerous-than-any-terrorist), voted for a replacement bill that the [CBO said would leave 23 million more Americans uninsured](https://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured), voted against [\$35 insulin and Medicare drug price negotiation](https://www.kff.org/medicare/issue-brief/faqs-about-the-inflation-reduction-acts-medicare-drug-price-negotiation-program/), then voted for the One Big Beautiful Bill Act that is projected to [strip Medicaid from 200,000 North Carolinians](https://www.kff.org/medicaid/allocating-cbos-estimates-of-federal-medicaid-spending-reductions-across-the-states-enacted-reconciliation-package/) and impose the [largest SNAP cuts in history, threatening 1.35 million North Carolinians](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/) -- all while that tax law delivers [an average tax cut of \$12,540 to the top 20% of earners but just \$150 for the bottom 20%](https://www.cbsnews.com/news/big-beautiful-bill-tax-cuts-by-income-group/). As Rules Committee chairwoman, she [used her gavel to shield Trump's tariffs from congressional repeal](https://rollcall.com/2026/02/10/house-rules-committee-moves-to-protect-trumps-tariffs-from-congressional-disapproval/) even as those tariffs [cost North Carolina 7,200 manufacturing jobs](https://www.carolinajournal.com/nc-loses-7200-manufacturing-jobs-says-nc-commerce/) and threaten to [wipe out \$695 million in farm income](https://www.carolinajournal.com/report-warns-tariffs-could-cost-nc-farms-700m-8000-jobs/). She [collected over \$665,000 from the for-profit education industry](https://newrepublic.com/post/172968/gop-lawmaker-virginia-foxx-erases-maxwell-frost-student-debt-argument-record) while chairing the committee that oversees them, and told students she has ["very little tolerance"](https://archive.thinkprogress.org/rep-virginia-foxx-on-people-with-student-loans-i-have-very-little-tolerance-for-them-408d16518ba3/) for their debt despite paying [\$87.50 a semester](https://www.newamerica.org/education-policy/edcentral/virginia-foxx-paid-8750-in-tuition-in-1961/) for her own UNC degree.
 
 ### **HEALTH CARE: TWO DECADES OF VOTING AGAINST COVERAGE**
 
@@ -46,12 +46,11 @@ She told students she has ["very little tolerance" for their debt](https://archi
 
 **Message:** Foxx takes hundreds of thousands from for-profit colleges, then tells students drowning in debt she has "very little tolerance" for them.
 
-### **CHARACTER: "HOAX" COMMENTS AND AGE**
+### **AGE**
 
-Foxx called [Matthew Shepard's murder a "hoax"](https://www.nbcnews.com/id/wbna30505428) on the House floor. His mother [rejected her apology](https://www.nbcnews.com/id/wbna30505428), saying it excused "her sentiment, her insensitivity, [and] her ignorance."
 At 82, Foxx is [among the oldest members of Congress](https://www.nbcnews.com/politics/congress/congress-oldest-members-run-reelection-80s-rcna249479) and would be 83 on Election Day 2026.
 
-**Message:** After calling a hate crime murder a "hoax" and two decades of voting against her own constituents, it is past time for new representation.
+**Message:** It is past time for new representation.
 
 # Issue Back-Ups
 
