@@ -2,7 +2,7 @@
 title: Rep. Tim Moore (NC-14): Can't Be Trusted on Jobs and the Economy
 description: 
 published: false
-date: 2026-02-18T19:47:19.187Z
+date: 2026-03-09T17:23:52.116Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:16:38.460Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T19:16:38.460Z
 
 # Rep. Tim Moore (NC-14): Can't Be Trusted on Jobs and the Economy
 
-Moore claims to be fighting for North Carolina workers, but his record tells a different story. As NC House Speaker, he sponsored HB2 — the "bathroom bill" that cost the state $3.76 billion in lost business and nearly 3,000 jobs as PayPal, Deutsche Bank, and CoStar pulled planned expansions. He used his Speaker's office to steer a state subsidy to a chicken plant he co-owned, flipping it from $85,000 to $550,000 while his aide pressured environmental regulators. Now in Congress, Moore has championed Trump's tariff agenda even as North Carolina lost 7,200 manufacturing jobs in 2025 and western NC manufacturers began laying off workers, telling constituents they should "pay a little more" for tariffed goods. He voted for the One Big Beautiful Bill Act, which the CBO found will cut incomes for the bottom 80% of households. And while publicly touting the economy, Moore privately invested up to $245,000 in a fund that profits when the stock market declines — then failed to disclose hundreds of thousands of dollars in stock trades made around Trump's "Liberation Day" tariff announcement, a potential STOCK Act violation.
+Moore claims to be fighting for North Carolina workers, but his record tells a different story. He used his Speaker's office to steer a state subsidy to a chicken plant he co-owned, flipping it from $85,000 to $550,000 while his aide pressured environmental regulators. Now in Congress, Moore has championed Trump's tariff agenda even as North Carolina lost 7,200 manufacturing jobs in 2025 and western NC manufacturers began laying off workers, telling constituents they should "pay a little more" for tariffed goods. He voted for the One Big Beautiful Bill Act, which the CBO found will cut incomes for the bottom 80% of households. And while publicly touting the economy, Moore privately invested up to $245,000 in a fund that profits when the stock market declines — then failed to disclose hundreds of thousands of dollars in stock trades made around Trump's "Liberation Day" tariff announcement, a potential STOCK Act violation.
 
 ### Sponsored Legislation That Cost North Carolina Billions and Thousands of Jobs
 
