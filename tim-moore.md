@@ -2,7 +2,7 @@
 title: How To Win Against Tim Moore
 description: 
 published: false
-date: 2026-03-09T17:22:03.166Z
+date: 2026-03-09T17:22:25.898Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:43.505Z
@@ -30,7 +30,6 @@ While publicly touting the economy, Moore privately [invested $245,000 betting t
 
 ### **JOBS AND THE ECONOMY: HB2 COST BILLIONS, TARIFFS COST THOUSANDS OF JOBS**
 
-Moore sponsored [HB2, the "bathroom bill"](https://www.pbs.org/newshour/politics/ap-exclusive-bathroom-bill-cost-north-carolina-3-76-billion) that cost NC $3.76 billion in lost business and nearly 3,000 jobs. PayPal alone [canceled a 400-job Charlotte expansion](https://www.cnbc.com/2017/03/27/bathroom-bill-to-cost-north-carolina-376-billion.html).
 Championed tariffs while NC [lost 7,200 manufacturing jobs in 2025](https://www.carolinajournal.com/nc-loses-7200-manufacturing-jobs-says-nc-commerce/) and [Daimler Truck announced 573 potential layoffs near Charlotte](https://www.wral.com/story/new-economic-reality-nc-consumers-face-tariff-driven-inflation/22087128/).
 Used his Speaker's office to [steer a $22,000 state subsidy to a chicken plant he co-owned](http://www.wunc.org/post/nc-house-speaker-s-ethics-challenged-again-after-discovery-emails-deq), flipping it from $85,000 to $550,000 — drawing [two ethics complaints](https://campaignforaccountability.org/watchdog-files-ethics-complaint-against-house-speaker-tim-moore-for-abusing-his-position-for-personal-financial-gain/).
 
