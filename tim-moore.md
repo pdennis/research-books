@@ -2,7 +2,7 @@
 title: How To Win Against Tim Moore
 description: 
 published: false
-date: 2026-03-09T17:22:25.898Z
+date: 2026-03-09T17:23:03.189Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:43.505Z
@@ -33,7 +33,7 @@ While publicly touting the economy, Moore privately [invested $245,000 betting t
 Championed tariffs while NC [lost 7,200 manufacturing jobs in 2025](https://www.carolinajournal.com/nc-loses-7200-manufacturing-jobs-says-nc-commerce/) and [Daimler Truck announced 573 potential layoffs near Charlotte](https://www.wral.com/story/new-economic-reality-nc-consumers-face-tariff-driven-inflation/22087128/).
 Used his Speaker's office to [steer a $22,000 state subsidy to a chicken plant he co-owned](http://www.wunc.org/post/nc-house-speaker-s-ethics-challenged-again-after-discovery-emails-deq), flipping it from $85,000 to $550,000 — drawing [two ethics complaints](https://campaignforaccountability.org/watchdog-files-ethics-complaint-against-house-speaker-tim-moore-for-abusing-his-position-for-personal-financial-gain/).
 
-**Message:** Moore's HB2 cost North Carolina billions and thousands of jobs, tariffs are costing thousands more, and he used his office to line his own pockets.
+**Message:** Tariffs cost North Carolina billions and thousands of jobs, and he used his office to line his own pockets.
 
 ### **PERSONAL CONDUCT: AFFAIR, ETHICS COMPLAINTS, AND STOCK ACT VIOLATIONS**
 
@@ -49,7 +49,7 @@ Used his Speaker's office to [secure a state job for a woman he was dating](http
 ## Policies That Hurt Everyday People
 - [:hospital: *Health Care: Blocked Medicaid, Then Voted to Gut It*](/tim-moore/health-care-backup)
 - [:shopping_cart: *Affordability: Tariffs, SNAP Cuts, and "Pay a Little More"*](/tim-moore/affordability-backup)
-- [:briefcase: *Jobs and the Economy: HB2, Tariffs, and Self-Dealing*](/tim-moore/jobs-economy-backup)
+- [:briefcase: *Jobs and the Economy: Tariffs, and Self-Dealing*](/tim-moore/jobs-economy-backup)
 {.links-list}
 
 ## Personal and Character Vulnerabilities
