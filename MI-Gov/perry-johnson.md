@@ -2,13 +2,23 @@
 title: Perry Johnson
 description: 
 published: false
-date: 2026-03-10T18:32:12.196Z
+date: 2026-03-10T18:35:10.136Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-05T20:03:40.172Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against John James
 
@@ -82,22 +92,18 @@ Failed gubernatorial and presidential candidate Perry Johnson built his campaign
 
 ## Perry Johnson's Policies Have Hurt Everyday People
 
-[Perry Johnson Supported Efforts To Cut Medicaid And Threaten Michiganders’ Access To Health Care](https://research-books.com/en/MI-Gov/perry-johnson/johnson-medicaid)
-
-[Perry Johnson Supported Medicare Cuts](https://research-books.com/en/MI-Gov/perry-johnson/johnson-medicare)
-
-[Perry Johnson Backed Trump's Tariffs, Endangering Michigan’s Economy](https://research-books.com/en/MI-Gov/perry-johnson/johnson-tariffs)
-
-[Perry Johnson Supported Cutting SNAP Benefits From Michigan Families](https://research-books.com/en/MI-Gov/perry-johnson/johnson-food)
-
-[Perry Johnson Supported Trump’s Attacks On Social Security, Michigan Non-Profits, And Hard-Working Federal Employees](https://research-books.com/en/MI-Gov/perry-johnson/johnson-doge)
-
-[Perry Johnson Opposed Protecting Michigan Clean Energy Jobs](https://research-books.com/en/MI-Gov/perry-johnson/johnson-CleanEnergy)
-
-[Perry Johnson Was An Anti-Abortion Extremist](https://research-books.com/en/MI-Gov/perry-johnson/johnson-abortion)
+- [:hospital: | **Perry Johnson Supported Efforts To Cut Medicaid And Threaten Michiganders’ Access To Health Care**](https://research-books.com/en/MI-Gov/perry-johnson/johnson-medicaid)
+- [:older_man: | **Perry Johnson Supported Medicare Cuts**](https://research-books.com/en/MI-Gov/perry-johnson/johnson-medicare)
+- [:shopping_cart: | **Perry Johnson Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/MI-Gov/perry-johnson/johnson-tariffs)
+- [:apple: | **Perry Johnson Supported Cutting SNAP Benefits From Michigan Families**](https://research-books.com/en/MI-Gov/perry-johnson/johnson-food)
+- [:x: | **Perry Johnson Supported Trump’s Attacks On Social Security, Michigan Non-Profits, And Hard-Working Federal Employees**](https://research-books.com/en/MI-Gov/perry-johnson/johnson-doge)
+- [:mechanic: | **Perry Johnson Opposed Protecting Michigan Clean Energy Jobs**](https://research-books.com/en/MI-Gov/perry-johnson/johnson-CleanEnergy)
+- [:woman: | **Perry Johnson Was An Anti-Abortion Extremist**](https://research-books.com/en/MI-Gov/perry-johnson/johnson-abortion)
+{.links-list}
 
 ## Perry Johnson Used His Power To Benefit The Powerful And Himself
 
-#### [Perry Johnson Sowed Distrust In The 2020 Election](https://research-books.com/en/MI-Gov/perry-johnson/johnson-2020)
+- [:sos: | **Perry Johnson Sowed Distrust In The 2020 Election**](https://research-books.com/en/MI-Gov/perry-johnson/johnson-2020)
 
-[Perry Johnson Submitted Fraudulent Petition Signatures During His 2022 Gubernatorial Bid](https://research-books.com/en/MI-Gov/perry-johnson/johnson-BallotFraud)
+- [:ballot_box: | **Perry Johnson Submitted Fraudulent Petition Signatures During His 2022 Gubernatorial Bid**](https://research-books.com/en/MI-Gov/perry-johnson/johnson-BallotFraud)
+{.links-list}
