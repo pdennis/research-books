@@ -2,13 +2,23 @@
 title: Rick Jackson
 description: 
 published: false
-date: 2026-03-10T19:23:55.237Z
+date: 2026-03-10T19:27:07.487Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against Rick Jackson
 
@@ -37,7 +47,7 @@ Georgia Republican gubernatorial candidate Rick Jackson stated that he did not d
 ### Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses
 
 -   In 2020, Jackson Healthcare was [awarded a no-bid agreement](https://www.ajc.com/news/coronavirus/hospitals-overreliance-on-travel-nurses-continues-to-drive-up-costs/BDYLNI4FEJGQ5GZA4PI7LPD3E4/) with the state of Georgia under Governor Brian Kemp to provide extra health care staff during the COVID-19 pandemic, and was paid [more than $694 million from 2020 to 2022.](https://www.ajc.com/news/coronavirus/hospitals-overreliance-on-travel-nurses-continues-to-drive-up-costs/BDYLNI4FEJGQ5GZA4PI7LPD3E4/) At the time, Rick Jackson and his family were [well-established Republican donors](https://www.ajc.com/politics/dealing-with-pandemic-in-georgia-cost-taxpayers-more-than-1-billion-early-on/6KEK3IKK3FFNXCI2A2A4EM5O5Y/), and had [contributed $6,600](https://www.ajc.com/politics/dealing-with-pandemic-in-georgia-cost-taxpayers-more-than-1-billion-early-on/6KEK3IKK3FFNXCI2A2A4EM5O5Y/) to Kemp’s 2018 gubernatorial campaign.
--   In 2013, Jackson [advocated for legislation](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) to privatize child welfare services, which stood to benefit FaithBridge, the [foster care program Jackson was the chairman of](https://specials.myajc.com/self-made-philanthropist/), while fundraising for Governor Nathan Deal and Lieutenant Governor Casey Cagle. Jackson [hosted fundraisers for and donated more than $50,000 each](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) to both Deal and Cagle. Jackson later had a [meeting with Deal](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) in the same month as his fundraiser to discuss his proposal, and [testified before Cagle’s senate working group](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) on foster care on the same day as his fundraiser.
+-   In 2013, Jackson [advocated for legislation](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) to privatize child welfare services, which stood to benefit FaithBridge, the [foster care program Jackson was the chairman of](https://specials.myajc.com/self-made-philanthropist/), while fundraising for Governor Nathan Deal and Lieutenant Governor Casey Cagle. Jackson [hosted fundraisers for and donated more than $50,000 each](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) to both Deal and Cagle. Jackson later had a [meeting with Deal](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) in the same month as his fundraiser to discuss his proposal, and [testified before Cagle’s Senate working group](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) on foster care on the same day as his fundraiser.
 
 **Message:** Rick Jackson used his wealth and power to further enrich himself and his businesses.
 
@@ -45,12 +55,12 @@ Georgia Republican gubernatorial candidate Rick Jackson stated that he did not d
 
 ## Rick Jackson Supported Policies That Have Hurt Everyday People
 
-[Rick Jackson Opposed Medicaid Expansion And Aligned With Trump’s Devastating Health Care Policies](https://research-books.com/en/GA-Gov/rick-jackson/jackson-medicaid) 
-
-[Rick Jackson Supported Stripping SNAP Benefits From Georgia Families](https://research-books.com/en/GA-Gov/rick-jackson/jackson-food)
-
-[Rick Jackson Was An Anti-Abortion Extremist](https://research-books.com/en/GA-Gov/rick-jackson/jackson-abortion)
+- [:hospital: | **Rick Jackson Opposed Medicaid Expansion And Aligned With Trump’s Devastating Health Care Policies**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-medicaid) 
+- [:apple: | **Rick Jackson Supported Stripping SNAP Benefits From Georgia Families**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-food)
+- [:woman: | **Rick Jackson Was An Anti-Abortion Extremist**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-abortion)
+{.links-list}
 
 ## Rick Jackson Used His Wealth To Make Himself More Powerful
 
-[Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses](https://research-books.com/en/GA-Gov/rick-jackson/jackson-georgia-donations)
+- [:money_with_wings: | **Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-georgia-donations)
+{.links-list}
