@@ -2,7 +2,7 @@
 title: Perry Johnson
 description: 
 published: false
-date: 2026-03-10T18:35:10.136Z
+date: 2026-03-10T18:41:14.798Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-05T20:03:40.172Z
@@ -20,7 +20,7 @@ COMING SOON!
 COMING SOON!
 </details>
 
-# How To Win Against John James
+# How To Win Against Perry Johnson
 
 Failed gubernatorial and presidential candidate Perry Johnson built his campaign around supporting Trump’s harmful agenda, including backing the “One Big Beautiful Bill,” which would strip health care from hundreds of thousands of Michiganders. While Trump’s “One Big Beautiful Bill” would slash SNAP benefits relied on by Michigan families, Perry Johnson also denied Trump’s tariffs were raising grocery prices. Perry Johnson praised Trump’s “One Big Beautiful Bill,” which also threatened clean energy jobs and projects across Michigan.Perry Johnson repeatedly praised Trump’s tariffs and urged Americans to “get behind tariffs,” even as they drove up grocery prices and hurt Michigan farmers, families, and small businesses. Perry Johnson supported Trump’s Department of Government Efficiency and called himself the “Perfect DOGE Guy,” even as its cuts threatened social security services relied on by more than 2.3 million Michiganders and threatened thousands of federal workers across Michigan. Johnson supported extreme positions on reproductive rights, claimed “life begins at conception,” supported a six-week abortion ban, and opposed abortion exceptions for rape and incest. Perry Johnson spread conspiracy theories about the 2020 election and endorsed candidates who supported efforts to overturn the results. His previous gubernatorial campaign was tied to fraudulent petition signatures after election officials found more than 9,000 invalid signatures and removed him from the Republican primary ballot.
 
