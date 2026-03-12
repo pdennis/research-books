@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: false
-date: 2026-03-10T19:27:07.487Z
+date: 2026-03-12T19:33:13.733Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against Rick Jackson
 
-Georgia Republican gubernatorial candidate Rick Jackson stated that he did not disagree with a “single White House policy,” implying his support for all of Trump’s policies that Georgians suffered under. Jackson voiced his fervent support for Trump’s extreme agenda as Trump’s “One Big Beautiful Bill” was expected to strip health care away from hundreds of thousands of Georgians. Jackson opposed Medicaid expansion and the Affordable Care Act, which both faced devastating cuts under the “One Big Beautiful Bill.” In line with Trump’s “One Big Beautiful Bill,” Jackson also supported the implementation of work requirements which aligned with his biblical philosophy that “if anyone is not willing to work, let him not eat.” Jackson said he “wouldn’t change a thing” about Georgia’s six-week abortion ban and described himself as “entirely pro life.” Jackson also amassed a large fortune from his several businesses and used that fortune to donate to Georgia Republicans and influence policies that would further enrich himself and his businesses.
+Georgia Republican gubernatorial candidate Rick Jackson stated that he did not disagree with a “single White House policy,” implying his support for all of Trump’s policies that Georgians suffered under. Jackson voiced his fervent support for Trump’s extreme agenda as Trump’s “One Big Beautiful Bill” was expected to strip health care away from hundreds of thousands of Georgians. Jackson opposed Medicaid expansion and the Affordable Care Act, which both faced devastating cuts under the “One Big Beautiful Bill.” In line with Trump’s “One Big Beautiful Bill,” Jackson also supported the implementation of work requirements which aligned with his biblical philosophy that “if anyone is not willing to work, let him not eat.” Jackson said he “wouldn’t change a thing” about Georgia’s six-week abortion ban and described himself as “entirely pro life.” Jackson also amassed a large fortune from his several businesses and used that fortune to donate to Georgia Republicans and influenced policies that would further enrich himself and his businesses.
 
 ### Rick Jackson Opposed Medicaid Expansion And Aligned With Trump’s Health Care Cuts
 
