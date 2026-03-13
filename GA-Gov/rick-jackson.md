@@ -1,8 +1,8 @@
 ---
 title: Rick Jackson
 description: 
-published: false
-date: 2026-03-13T16:52:04.933Z
+published: true
+date: 2026-03-13T17:11:42.293Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
