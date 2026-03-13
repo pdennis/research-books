@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-02-18T17:55:57.559Z
+date: 2026-03-13T17:53:38.678Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -80,7 +80,7 @@ Andy Biggs was an out-of-touch anti-abortion extremist, who [said](https://sound
 
 In Congress, Biggs repeatedly voted to strip Americans of their reproductive rights. Biggs [voted](http://clerk.house.gov/evs/2022/roll360.xml) against codifying abortion protections in federal law, claiming it would expand a procedure that “[killed](https://www.youtube.com/watch?v=XMipJIB36BY) an estimated 62 million babies since Roe v. Wade.” He [voted](http://clerk.house.gov/evs/2022/roll362.xml) against protecting out-of-state abortion services and protecting interstate movement of FDA-approved abortion drugs. Biggs also [voted](http://clerk.house.gov/evs/2022/roll385.xml) against codifying the right to access contraception in federal law.
 
-Biggs introduced anti-abortion legislation to impose [ultrasound mandates](https://thehill.com/homenews/house/4416859-biggs-abortion-bill-ultrasound-images-consent/) and [deny abortion as health care,](https://x.com/RepAndyBiggsAZ/status/1128830172143247360?s=20) and worked to [strip](https://soundcloud.com/abpac/andy-biggs-dewey-meet-greet-81225/s-6PJYq8Cs75a?si=441ec3752ec84453acfa2e25f2876f60&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) international law language protecting reproductive rights. He also supported [defunding](https://www.youtube.com/watch?v=dWo2Jl305WQ) Planned Parenthood.
+From 2017 to 2025, Biggs [co-sponsored the Life at Conception Act](https://www.congress.gov/bill/119th-congress/house-bill/722/cosponsors?s=2&r=1&q=%7B%22search%22%3A%22life+at+conception+act%22%7D) five times, which threatened to [ban abortions nationwide](https://www.washingtonpost.com/politics/2024/02/25/ivf-republicans-legislation/) and jeopardize access to [IVF](https://www.washingtonpost.com/politics/2024/02/25/ivf-republicans-legislation/) and [certain forms of contraception.](https://www.latimes.com/politics/story/2022-08-29/california-congressional-republicans-recalibrate-abortion-stance) Biggs introduced anti-abortion legislation to impose [ultrasound mandates](https://thehill.com/homenews/house/4416859-biggs-abortion-bill-ultrasound-images-consent/) and [deny abortion as health care,](https://x.com/RepAndyBiggsAZ/status/1128830172143247360?s=20) and worked to [strip](https://soundcloud.com/abpac/andy-biggs-dewey-meet-greet-81225/s-6PJYq8Cs75a?si=441ec3752ec84453acfa2e25f2876f60&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) international law language protecting reproductive rights. He also supported [defunding](https://www.youtube.com/watch?v=dWo2Jl305WQ) Planned Parenthood.
 
 Biggs referred to abortion as [“murder,”](https://x.com/RepAndyBiggsAZ/status/1841294008821096928?s=20) ["slaughter,"](https://x.com/RepAndyBiggsAZ/status/2013673149921935807?s=20) and [“killing”](https://soundcloud.com/abpac/andy-biggs-tele-town-hall-93021/s-951dvLaNZHY?si=98e04250b246441e8b16e9ec6fe0aea5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) the unborn, and falsely [claimed](https://www.youtube.com/watch?v=VJO-pJXuPvY) that a fetus “may feel pain as early as 12 weeks.”
 
