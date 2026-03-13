@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-03-13T15:48:25.801Z
+date: 2026-03-13T20:44:20.629Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -92,7 +92,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 
 -   Tiffany posed a threat to democracy due to his support of [overturning](https://thebadgerproject.org/2020/12/14/tiffany-sole-wisconsin-rep-to-sign-document-asking-scotus-to-flip-election-results-in-wisconsin-3-other-swing-states/#:~:text=Tom%20Tiffany%20was,the%20Supreme%20Court%20to%20flip) the 2020 election and [voting against](https://apnews.com/article/joe-biden-donald-trump-wisconsin-elections-electoral-college-0657e37b099f9efaf7cfd8ce1bbe31de) the certification of Joe Biden’s victory. The Congressional Integrity Project named Tiffany as a key [election denier](https://www.theguardian.com/us-news/2024/jan/05/donald-trump-january-6-supporters-behind-joe-biden-impeachment) connected to the January 6^th^ insurrection.
 
-- Tiffany also repeated false claims that mail-in voting increased [fraud](https://pbswisconsin.org/news-item/tiffany-weighs-in-on-november-election/) and said “[I don’t believe we should be doing mail-in voting](https://www.youtube.com/watch?v=kl6q2RN7tyU).” Records show that Tom Tiffany cast absentee ballots more than a [dozen times](https://upnorthnewswi.com/2026/03/12/tom-tiffany-eliminate-mailed-absentee-voting/) since 2016, even while suggesting there was “[rot](https://pbswisconsin.org/news-item/tiffany-weighs-in-on-november-election/)” in the election system.
+- Tiffany also repeated false claims that mail-in voting increased [fraud](https://pbswisconsin.org/news-item/tiffany-weighs-in-on-november-election/) and said “[I don’t believe we should be doing mail-in voting](https://www.youtube.com/watch?v=kl6q2RN7tyU).” Records showed that Tom Tiffany cast absentee ballots more than a [dozen times](https://upnorthnewswi.com/2026/03/12/tom-tiffany-eliminate-mailed-absentee-voting/) since 2016, even while suggesting there was “[rot](https://pbswisconsin.org/news-item/tiffany-weighs-in-on-november-election/)” in the election system.
 
 **Message:** Tom Tiffany was a threat to Wisconsin elections.
 
