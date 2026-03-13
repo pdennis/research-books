@@ -2,7 +2,7 @@
 title: Joe Lombardo
 description: 
 published: true
-date: 2026-01-23T19:31:28.560Z
+date: 2026-03-13T22:43:38.663Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T19:03:34.764Z
@@ -59,9 +59,9 @@ Joe Lombardo supported federal legislation that stripped health care from thousa
 
 **Message:** While Social Security lines grew and Nevada workers were laid off, Lombardo did nothing to help them.
 
-### Lombardo Supported Legislation That Threatened Clean Energy Jobs In Nevada And Repealed Existing Climate Plans
+### Lombardo Supported Legislation That Threatened Clean Energy & Infrastructure Jobs In Nevada And Repealed Existing Climate Plans
 
--   In 2025, Lombardo [supported](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) Trump’s [“One Big Beautiful Bill,”](https://www.congress.gov/votes/house/119-1/190) which [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits and made them harder to access, threatening clean energy jobs in Nevada. Under the bill, more than [8,300 clean energy jobs](https://nevadacurrent.com/2025/07/09/ugly-truths-about-trumps-big-beautiful-bill-and-energy-costs/) were predicted to be cut by 2035, and [63 new and proposed solar projects](https://nevadacurrent.com/2025/07/09/ugly-truths-about-trumps-big-beautiful-bill-and-energy-costs/) were at risk of losing funding. 
+-   In 2025, Lombardo [supported](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) Trump’s [“One Big Beautiful Bill,”](https://www.congress.gov/votes/house/119-1/190) which [repealed](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) clean energy tax credits and made them harder to access, threatening clean energy jobs in Nevada. Under the bill, more than [8,300 clean energy jobs](https://nevadacurrent.com/2025/07/09/ugly-truths-about-trumps-big-beautiful-bill-and-energy-costs/) were predicted to be cut by 2035, and [63 new and proposed solar projects](https://nevadacurrent.com/2025/07/09/ugly-truths-about-trumps-big-beautiful-bill-and-energy-costs/) were at risk of losing funding. Lombardo also [took credit](https://nevadacurrent.com/2026/03/04/lombardo-praises-projects-made-possible-by-bidens-disastrous-policies/) for infrastructure projects that suffered under the bill, but criticized [Biden era policies](https://nevadacurrent.com/2026/03/04/lombardo-praises-projects-made-possible-by-bidens-disastrous-policies/) that funded those projects as [“reckless spending.”](https://nevadacurrent.com/2026/03/04/lombardo-praises-projects-made-possible-by-bidens-disastrous-policies/) 
 -   As governor, Lombardo [repealed Nevada’s climate plan and replaced it with his own](https://thenevadaindependent.com/article/lombardo-releases-revised-climate-plan-after-lengthy-delay), which was then criticized for being less of a plan and more of a [“summary of what state lawmakers have already accomplished.”](https://thenevadaindependent.com/article/lombardo-releases-revised-climate-plan-after-lengthy-delay) Lombardo also [withdrew Nevada](https://www.documentcloud.org/documents/24172777-lombard-us-climate-alliance/?responsive=1&title=1) from the U.S. Climate Alliance, saying it conflicted with [“Nevada’s energy policy objectives.”](https://www.documentcloud.org/documents/24172777-lombard-us-climate-alliance/?responsive=1&title=1)
 
 **Message:** Lombardo supported legislation to kill job opportunities for Nevadans to give tax cuts to billionaires, and repealed plans to mitigate climate change. 
@@ -98,7 +98,7 @@ Joe Lombardo supported federal legislation that stripped health care from thousa
 -   [:shopping_cart: *Lombardo Backed Trump's Tariffs, Endangering Nevada’s Economy*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-tariffs)
 -   [:apple: *Lombardo Supported Cutting SNAP Benefits For Nevada Families*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-snap)
 -   [:x: *Lombardo Won't Defend Nevada Jobs Or Social Security From Trump*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-doge)
--   [:mechanic: *Lombardo Opposed Protecting Nevada’s Clean Energy Jobs*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-clean-energy)
+-   [:mechanic: *Lombardo Opposed Protecting Nevada’s Clean Energy & Infrastructure Jobs*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-clean-energy)
 -   [:woman: *Lombardo Was An Anti-Abortion Extremist*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-abortion)
 {.links-list}
 
