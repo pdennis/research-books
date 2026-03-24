@@ -2,7 +2,7 @@
 title: Took $240,600 From Pharma PACs Then Voted Against Lower Drug Prices
 description: 
 published: false
-date: 2026-02-18T19:45:43.837Z
+date: 2026-03-24T21:44:22.037Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:13:56.389Z
