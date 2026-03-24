@@ -2,7 +2,7 @@
 title: Rep. French Hill (AR-02): Can't Be Trusted on Health Care
 description: 
 published: false
-date: 2026-02-18T19:42:04.214Z
+date: 2026-03-24T15:16:21.213Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:06:22.848Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T19:06:22.848Z
 
 # Rep. French Hill (AR-02): Can't Be Trusted on Health Care
 
-Rep. French Hill has spent a decade in Congress voting against the health care interests of his own constituents. He voted to repeal the Affordable Care Act outright with no replacement, voted for the American Health Care Act that the CBO said would leave 24 million Americans uninsured, voted against protecting people with pre-existing conditions, voted against allowing Medicare to negotiate lower prescription drug prices, championed Medicaid work requirements that stripped 18,000 Arkansans of their coverage, and voted for the "One Big Beautiful Bill" that cuts up to $1 trillion from Medicaid -- then told constituents he had "never voted to end Medicare or Medicaid." His votes are particularly damaging in Arkansas, where Medicaid expansion cut the uninsured rate nearly in half and 30 of 47 rural hospitals are already at risk of closing. Meanwhile, insurance industry PACs have been among Hill's top donors every cycle.
+Rep. French Hill has spent a decade in Congress voting against the health care interests of his own constituents. He voted to repeal the Affordable Care Act outright with no replacement, voted for the American Health Care Act that the CBO said would leave 24 million Americans uninsured, voted against protecting people with pre-existing conditions, voted against allowing Medicare to negotiate lower prescription drug prices, and championed Medicaid work requirements that stripped 18,000 Arkansans of their coverage. Furthermore he voted for the "One Big Beautiful Bill" that cuts up to $1 trillion from Medicaid and then told constituents he had "never voted to end Medicare or Medicaid." His votes are particularly damaging in Arkansas, where Medicaid expansion cut the uninsured rate nearly in half and 30 of 47 rural hospitals are already at risk of closing. Meanwhile, insurance industry PACs have been among Hill's top donors every cycle.
 
 ### Voted to Repeal the ACA
 
@@ -28,7 +28,7 @@ Rep. French Hill has spent a decade in Congress voting against the health care i
 
 **Hill Voted Against Allowing Medicare To Negotiate Prescription Drug Prices.** According to the Arkansas Democrat-Gazette, Hill voted against H.R. 3, the Elijah E. Cummings Lower Drug Costs Now Act, which "would have allowed the federal government to negotiate with drug companies for lower prices" and "set limits on prices so that they don't exceed 120% of the average price charged in several other Western democracies." The bill passed 230-192 with only two Republicans voting in favor. [Arkansas Democrat-Gazette, [12/15/19](https://hill.house.gov/news/documentsingle.aspx?DocumentID=6502)]
 
-- **Hill's 2020 Democratic Challenger Said It "Should Take Your Breath Away."** According to the Arkansas Democrat-Gazette, Joyce Elliott said, "'One of the few things that nearly all Americans can agree on is that prescription drug prices are way too high. It should take your breath away, French Hill voted against lowering prescription drug costs.'" [Arkansas Democrat-Gazette, [12/15/19](https://hill.house.gov/news/documentsingle.aspx?DocumentID=6502)]
+- **Hill's 2020 Democratic Challenger Said Hill's Vote Against Lowering Drug Prices "Should Take Your Breath Away."** According to the Arkansas Democrat-Gazette, Joyce Elliott said, "'One of the few things that nearly all Americans can agree on is that prescription drug prices are way too high. It should take your breath away, French Hill voted against lowering prescription drug costs.'" [Arkansas Democrat-Gazette, [12/15/19](https://hill.house.gov/news/documentsingle.aspx?DocumentID=6502)]
 
 ### Championed Medicaid Work Requirements That Stripped 18,000 Arkansans of Coverage
 
@@ -40,13 +40,13 @@ Rep. French Hill has spent a decade in Congress voting against the health care i
 
 - **Hill Then Told Constituents He Had "Never Voted To End Medicare Or Medicaid."** According to the Arkansas Democratic Party, Hill sent a constituent letter claiming, "'I have never voted to end Medicare or Medicaid.'" Arkansas Democratic Party Chair Grant Tennille responded: "'Rep. Hill is lying to you; he voted to slash essential funding for Medicaid. There is bipartisan consensus from every major economist in the country that the reconciliation bill [...] will gut funds from Medicaid to give tax handouts to the richest Americans.'" The bill potentially affects 821,000 Arkansans on Medicaid. [Arkansas Democrats, [3/25/25](https://www.arkdems.org/arkansas-democrats-slam-trump-and-republicans-attacks-on-health-care-call-out-rep-french-hill-for-lies-about-medicaid/)]
 
-**Hill Voted For A GOP Health Plan That Let ACA Premium Subsidies Expire, Doubling Costs For Millions.** According to NBC News, the Senate rejected both the Democratic proposal to extend enhanced ACA premium subsidies and a Republican alternative (H.R. 6703) that Hill voted for, which expanded Health Savings Accounts but did not extend the subsidies. The result: enhanced ACA premium subsidies expired, and "premiums set to spike" for roughly 22 million Americans who benefited from the credits. [NBC News, [12/11/25](https://www.nbcnews.com/politics/congress/senate-rejects-aca-funding-republican-alternative-premiums-set-spike-rcna248497)]
+**Hill Voted For A GOP Health Plan That Let ACA Premium Subsidies Expire, Doubling Costs For Millions.** According to NBC News, the Senate rejected both the Democratic proposal to extend enhanced ACA premium subsidies and a Republican alternative (H.R. 6703) that Hill voted for, which expanded Health Savings Accounts but did not extend the subsidies. The result, enhanced ACA premium subsidies expired, and "premiums set to spike" for roughly 22 million Americans who benefited from the credits. [NBC News, [12/11/25](https://www.nbcnews.com/politics/congress/senate-rejects-aca-funding-republican-alternative-premiums-set-spike-rcna248497)]
 
 ### Took Insurance Industry Money While Voting Against Health Care
 
-**Insurance Was Hill's Third-Largest Contributing Industry.** According to OpenSecrets, the insurance industry contributed $141,500 to Hill during the 2016 cycle alone -- $122,000 of which came from PACs, not individual donors. Insurance ranked behind only securities and investment ($255,025) and commercial banks ($202,275) among his top industries. [OpenSecrets, [Viewed 2/16/26](https://www.opensecrets.org/members-of-congress/summary?cycle=2016&cid=N00035792&type=I)]
+**Insurance Was Hill's Third-Largest Contributing Industry.** According to OpenSecrets, the insurance industry contributed $335,900 to Hill during the 2024 cycle alone -- $276,500 of which came from PACs, not individual donors. Insurance ranked behind only securities and investment ($839,595) and commercial banks ($354,750) among his top industries. [OpenSecrets, [Viewed 3/24/26](https://www.opensecrets.org/members-of-congress/summary?cid=N00035792&cycle=2024&type=I)]
 
-- **Hill Also Accepted Over $21,000 In Pharmaceutical PAC Contributions.** According to KFF Health News's Pharma Cash to Congress database, Hill received approximately $21,100 in pharmaceutical industry PAC contributions across his career through 2022, including $8,000 in the 2021-2022 cycle. [KFF Health News, [Viewed 2/16/26](https://kffhealthnews.org/news/campaign/)]
+- **Hill Also Accepted Over $13,500 In Pharmaceutical PAC Contributions.** According to KFF Health News's Pharma Cash to Congress database, Hill received approximately $13,500 in pharmaceutical industry PAC contributions across his career through 2022, including $6,500 in the 2019-2020 cycle. [KFF Health News, [Viewed 2/16/26](https://kffhealthnews.org/news/campaign/)]
 
 ### Impact on Everyday People
 
