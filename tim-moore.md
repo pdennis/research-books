@@ -2,7 +2,7 @@
 title: How To Win Against Tim Moore
 description: 
 published: false
-date: 2026-03-24T19:02:13.814Z
+date: 2026-03-24T19:02:55.011Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:43.505Z
@@ -17,6 +17,7 @@ He told constituents they should ["pay a little more"](https://www.charlotteobse
 ### **HEALTH CARE: BLOCKED MEDICAID FOR A DECADE, THEN VOTED TO GUT IT**
 
 Moore [blocked Medicaid expansion for a decade](https://www.pbs.org/newshour/politics/north-carolina-approves-medicaid-expansion-reversing-long-opposition) as Speaker, costing NC an estimated [$20 billion in federal funding](https://www.wral.com/story/editorial-speaker-moore-s-opposition-to-medicaid-expansion-is-prejudiced-fantasy/18471701/) while [12 rural hospitals closed](https://www.wfae.org/health/2025-08-25/medicaid-expansion-helped-hundreds-of-thousands-in-nc-now-its-future-is-uncertain). Then he [took credit](https://www.pbs.org/newshour/health/north-carolina-approves-medicaid-expansion-after-decade-of-fierce-opposition) when it finally passed.
+
 Now in Congress, he voted for the One Big Beautiful Bill whose Medicaid cuts could [trigger NC's automatic expansion termination clause](https://www.wfae.org/health/2025-08-25/medicaid-expansion-helped-hundreds-of-thousands-in-nc-now-its-future-is-uncertain), threatening 680,000 enrollees. A NC doctor warned that young diabetic patients who lose Medicaid ["are not going to make it to 30"](https://www.wfae.org/health/2025-08-25/medicaid-expansion-helped-hundreds-of-thousands-in-nc-now-its-future-is-uncertain). Constituents [brought a black casket to his office](https://qnotescarolinas.com/medicaid-cuts-gastonia-protest-2025/) to protest his Medicaid vote and held [two town halls in his absence](https://ncvoices.com/your-blind-eye-to-your-constituents-rep-tim-moore-constituents-host-town-hall-in-his-absence-to-address-federal-funding-concerns/).
 
 **Message:** Moore blocked Medicaid for a decade, took credit when it passed, then voted to destroy it from Washington.
