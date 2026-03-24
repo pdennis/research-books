@@ -2,7 +2,7 @@
 title: Rep. Richard Hudson (NC-09): Health Care
 description: 
 published: false
-date: 2026-03-24T21:41:52.639Z
+date: 2026-03-24T21:43:06.441Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:13:07.443Z
@@ -10,9 +10,9 @@ dateCreated: 2026-02-18T19:13:07.443Z
 
 # Rep. Richard Hudson (NC-09): Health Care
 
->Rep. Richard Hudson has spent over a decade working to strip health care protections from his own constituents. He voted repeatedly to repeal the Affordable Care Act, personally inserted a provision into a GOP bill to block Medicaid expansion in North Carolina, voted for a bill that would have allowed insurers to charge people with pre-existing conditions more while claiming it preserved protections, voted against the Inflation Reduction Act's prescription drug cost savings for seniors, and backed a reconciliation package that CBO projects will cause millions to lose Medicaid coverage. Meanwhile, he was the top pharmaceutical PAC recipient in Congress in the 2020 cycle, collecting $240,600 from the industry whose profits he protects. When constituents tried to confront him about health care, he told fellow Republicans to stop holding in-person town halls altogether.
+Rep. Richard Hudson has spent over a decade working to strip health care protections from his own constituents. He voted repeatedly to repeal the Affordable Care Act, personally inserted a provision into a GOP bill to block Medicaid expansion in North Carolina, voted for a bill that would have allowed insurers to charge people with pre-existing conditions more while claiming it preserved protections, voted against the Inflation Reduction Act's prescription drug cost savings for seniors, and backed a reconciliation package that CBO projects will cause millions to lose Medicaid coverage. Meanwhile, he was the top pharmaceutical PAC recipient in Congress in the 2020 cycle, collecting $240,600 from the industry whose profits he protects. When constituents tried to confront him about health care, he told fellow Republicans to stop holding in-person town halls altogether.
 
-
+---
 
 ### Voted Repeatedly to Repeal the Affordable Care Act
 
