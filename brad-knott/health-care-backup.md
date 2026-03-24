@@ -2,7 +2,7 @@
 title: Rep. Brad Knott (NC-13): Can't Be Trusted on Health Care
 description: 
 published: false
-date: 2026-02-18T19:38:07.842Z
+date: 2026-03-24T17:33:05.451Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:59:51.941Z
@@ -34,9 +34,9 @@ Rep. Brad Knott voted for the One Big Beautiful Bill Act, which cut $1 trillion 
 
 ### Took Tens of Thousands From Health Care and Insurance Industry
 
-**Knott Accepted Over $57,000 From Pharmaceutical and Health Care PACs.** According to FEC records, Knott accepted contributions from PACs affiliated with Pfizer ($7,500 across three contributions), Eli Lilly ($2,500), Novo Nordisk ($3,500), Amgen ($3,000), Mallinckrodt ($2,500), CVS Health ($1,000), Walgreens ($2,500), McKesson ($2,000), DaVita ($2,500), and the American Health Care Association ($1,000), among others. [FEC, [Viewed 2/16/26](https://www.fec.gov/data/committee/C00855361/)]
+**Knott Accepted Over $57,000 From Pharmaceutical and Health Care PACs.** According to FEC records, Knott accepted contributions from PACs affiliated with Pfizer ($7,500 across three contributions), Eli Lilly ($2,500), Novo Nordisk ($7,500), Amgen ($3,000), CVS Health ($1,000), Walgreens ($2,500), McKesson ($2,000), DaVita ($2,500), and the American Health Care Association ($1,000), among others. [FEC, [Viewed 2/16/26](https://www.fec.gov/data/committee/C00855361/)]
 
-**Knott Accepted Over $26,000 From Insurance Industry PACs.** According to FEC records, Knott accepted contributions from the Council of Insurance Agents and Brokers PAC ($7,500), Elevance Health PAC ($2,500), New York Life Insurance PAC ($3,500), Massachusetts Mutual Life Insurance PAC ($2,500), the National Association of Insurance and Financial Advisors PAC ($2,500), and others. [FEC, [Viewed 2/16/26](https://www.fec.gov/data/committee/C00855361/)]
+**Knott Accepted Over $26,000 From Insurance Industry PACs.** According to FEC records, Knott accepted contributions from the Elevance Health PAC ($2,500), New York Life Insurance PAC ($3,500), Massachusetts Mutual Life Insurance PAC ($2,500), the National Association of Insurance and Financial Advisors PAC ($2,500), and others. [FEC, [Viewed 2/16/26](https://www.fec.gov/data/committee/C00855361/)]
 
 ### Refused To State Health Care Positions
 
