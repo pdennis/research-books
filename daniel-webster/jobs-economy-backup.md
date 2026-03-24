@@ -2,7 +2,7 @@
 title: Rep. Daniel Webster (FL-11): Can't Be Trusted on Jobs and the Economy
 description: 
 published: false
-date: 2026-02-18T19:40:39.077Z
+date: 2026-03-24T20:14:50.771Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:04:07.652Z
@@ -10,7 +10,11 @@ dateCreated: 2026-02-18T19:04:07.652Z
 
 # Rep. Daniel Webster (FL-11): Can't Be Trusted on Jobs and the Economy
 
-Rep. Daniel Webster talks about fighting for "hardworking Americans," but his record tells a different story. Webster is ranked 225th out of 228 House Republicans in legislative effectiveness — with zero bills making it even to committee in the 118th Congress — and has an 11 percent lifetime score from the AFL-CIO. He backed Trump's tariffs that a nonpartisan Florida watchdog says will raise grocery bills 10 to 15 percent and add $10,000 to the cost of a new home, then voted to keep tariffs on Canada even as six fellow Republicans broke ranks. He voted for the "One Big Beautiful Bill" that gutted $187 billion from food assistance — affecting more than 56,000 SNAP recipients in his own district — while repealing consumer energy credits. He voted against raising the federal minimum wage to $15, a level Florida voters themselves approved by a supermajority. He blocked farmworkers from unionizing, voted to make it easier for companies to misclassify workers as independent contractors, and compared the Consumer Financial Protection Bureau to "the Gestapo." Meanwhile, his district has been hit by major job losses — 1,400 workers at a Kroger fulfillment center in Groveland and 500 at Frito-Lay in Orlando — while Sumter County's unemployment rate has nearly doubled. When more than 200 constituents packed a town hall to confront him, Webster refused to show up.
+Rep. Daniel Webster talks about fighting for "hardworking Americans," but his record tells a different story. Webster is ranked 225th out of 228 House Republicans in legislative effectiveness — with zero bills making it even to committee in the 118th Congress — and has an 11 percent lifetime score from the AFL-CIO. He backed Trump's tariffs that a nonpartisan Florida watchdog says will raise grocery bills 10 to 15 percent and add $10,000 to the cost of a new home, then voted to keep tariffs on Canada even as six fellow Republicans broke ranks.
+
+He voted for the "One Big Beautiful Bill" that gutted $187 billion from food assistance — affecting more than 56,000 SNAP recipients in his own district — while repealing consumer energy credits. He voted against raising the federal minimum wage to $15, a level Florida voters themselves approved by a supermajority. He blocked farmworkers from unionizing, voted to make it easier for companies to misclassify workers as independent contractors, and compared the Consumer Financial Protection Bureau to "the Gestapo." 
+
+Meanwhile, his district has been hit by major job losses — 1,400 workers at a Kroger fulfillment center in Groveland and 500 at Frito-Lay in Orlando — while Sumter County's unemployment rate has nearly doubled. When more than 200 constituents packed a town hall to confront him, Webster refused to show up.
 
 ### One Of The Least Effective Members Of Congress On Any Issue — Including Jobs
 
