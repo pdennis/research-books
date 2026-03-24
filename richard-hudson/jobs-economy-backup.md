@@ -2,7 +2,7 @@
 title: Rep. Richard Hudson (NC-09): Jobs and the Economy
 description: 
 published: false
-date: 2026-03-24T21:44:15.605Z
+date: 2026-03-24T21:48:32.977Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:13:16.439Z
@@ -10,9 +10,11 @@ dateCreated: 2026-02-18T19:13:16.439Z
 
 # Rep. Richard Hudson (NC-09): Jobs and the Economy
 
->Rep. Richard Hudson talks about creating jobs but consistently votes against the investments that bring them to North Carolina. He voted against the CHIPS and Science Act — the law funding a $5 billion Wolfspeed semiconductor plant and 1,800 jobs in his own district in Chatham County — and voted against the $1.2 trillion Bipartisan Infrastructure Law that funded roads, bridges, and broadband across the state. He voted against raising the federal minimum wage from $7.25 and against the PRO Act to protect workers' right to organize. He backed a tax law that CBO says cuts income for the poorest Americans by $1,200 a year while handing the richest a $13,600 windfall, and he voted to keep tariffs that an NC State University report projects will cost North Carolina farmers $695 million and 8,000 jobs. Meanwhile, North Carolina lost 7,200 manufacturing jobs in 2025, and a textile mill in Hudson's own district — Parkdale Mills in Sanford — shut down, eliminating 74 jobs. Hudson promised the 2017 tax cuts would deliver jobs and growth to North Carolina; instead, the law's individual provisions expired while its corporate rate cuts were made permanent.
+Rep. Richard Hudson talks about creating jobs but consistently votes against the investments that bring them to North Carolina. He voted against the CHIPS and Science Act — the law funding a $5 billion Wolfspeed semiconductor plant and 1,800 jobs in his own district in Chatham County — and voted against the $1.2 trillion Bipartisan Infrastructure Law that funded roads, bridges, and broadband across the state. He voted against raising the federal minimum wage from $7.25 and against the PRO Act to protect workers' right to organize. 
 
+He backed a tax law that CBO says cuts income for the poorest Americans by $1,200 a year while handing the richest a $13,600 windfall, and he voted to keep tariffs that an NC State University report projects will cost North Carolina farmers $695 million and 8,000 jobs. Meanwhile, North Carolina lost 7,200 manufacturing jobs in 2025, and a textile mill in Hudson's own district — Parkdale Mills in Sanford — shut down, eliminating 74 jobs. Hudson promised the 2017 tax cuts would deliver jobs and growth to North Carolina; instead, the law's individual provisions expired while its corporate rate cuts were made permanent.
 
+---
 
 ### Voted Against The CHIPS Act That Is Funding 1,800 Jobs In His Own District
 
@@ -66,7 +68,7 @@ dateCreated: 2026-02-18T19:13:16.439Z
 
 **Hudson Voted For The One Big Beautiful Bill, Which Included A 20% Cut To SNAP — The Largest In The Program's History.** According to the Harvard Kennedy School analysis cited by NCIOM, the plan to cut SNAP funding by 20% represented the largest cut to the program ever. Over the next decade, the program faces a $187 billion cut, with projections estimating that up to 22 million U.S. families could lose some or all of their SNAP benefits. [NCIOM, [Viewed 2/16/26](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/)]
 
-  - **1.4 Million North Carolinians — Including 600,000 Children — Could Lose Food Assistance.** According to NCIOM, changes to SNAP could leave 1.4 million North Carolina residents without food assistance, 600,000 of whom are children. One in eight North Carolinians currently receives SNAP, including 46,000 veterans. [NCIOM, [Viewed 2/16/26](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/)]
+  - **1.4 Million North Carolinians — Including 600,000 Children — Could Lose Food Assistance.** According to NCIOM, changes to SNAP could leave 1.4 million North Carolina residents without food assistance, 66% of whom are in a household with children. One in eight North Carolinians currently receives SNAP, including 46,000 veterans. [NCIOM, [Viewed 2/16/26](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/)]
 
 ### Impact on Everyday People
 
