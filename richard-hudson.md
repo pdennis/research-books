@@ -1,8 +1,8 @@
 ---
-title: How To Win Against Richard Hudson
+title: Richard Hudson
 description: 
 published: false
-date: 2026-03-24T21:39:47.341Z
+date: 2026-03-24T21:49:15.441Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:48.234Z
