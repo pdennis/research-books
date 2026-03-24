@@ -2,7 +2,7 @@
 title: Rep. Tim Moore (NC-14): Zero Town Halls and Ducking Constituents
 description: 
 published: false
-date: 2026-03-24T19:57:58.512Z
+date: 2026-03-24T19:58:38.646Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:16:15.244Z
