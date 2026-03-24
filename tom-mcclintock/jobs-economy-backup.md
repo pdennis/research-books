@@ -2,7 +2,7 @@
 title: Rep. Tom McClintock (CA-05): Can't Be Trusted on Jobs and the Economy
 description: 
 published: false
-date: 2026-02-18T19:48:00.495Z
+date: 2026-03-24T14:22:36.464Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:44.824Z
@@ -34,9 +34,9 @@ Rep. Tom McClintock talks about supporting workers while voting against virtuall
 
 **McClintock Dismissed Job Cuts At Yosemite National Park — In His Own District — Calling Concerns An 'Absurd Level Of Hysteria.'** According to KMPH, McClintock said: "I did a little bit of checking. Do you know what the staff cuts are at Yosemite? Ten! 10 out of 500 full-time winter employees." He characterized concerns over DOGE-driven federal job cuts as "the absurd level of hysteria that we're seeing from the left." [KMPH, [3/4/25](https://kmph.com/news/local/valley-rep-tom-mcclintock-says-only-ten-jobs-cut-from-yosemite-10-out-of-500-president-donald-trump-volodymyr-zelenskyy)]
 
-### Called Tariffs 'Bad Public Policy' Then Voted To Keep Them As They Slow California Job Growth
+### Called Tariffs 'A Bad Public Policy" Then Voted To Keep Them As They Slow California Job Growth
 
-**McClintock Called Tariffs 'Bad Public Policy' And 'Self-Sabotaging,' Then Voted Against Ending Them.** According to CNBC, McClintock said "tariffs are bad public policy and are self-sabotaging at least part of the recovery that we've set in motion." Yet when the House voted 219-211 on H.J.Res. 72 to end the 25% tariffs on Canadian goods, McClintock voted to keep the tariffs in place — one of 205 Republicans who sided with Trump despite expressing doubts. [CNBC, [2/10/26](https://www.cnbc.com/2026/02/10/gop-tariffs-trump-house-johnson.html)]
+**McClintock Called Tariffs 'Bad Public Policy' And 'Self-Sabotaging,' Then Voted Against Ending Them.** According to The Hill, McClintock said "tariffs are bad public policy and are self-sabotaging at least part of the recovery that we've set in motion." Yet when the House voted 219-211 on H.J.Res. 72 to end the 25% tariffs on Canadian goods, McClintock voted to keep the tariffs in place — one of 205 Republicans who sided with Trump despite expressing doubts. [The Hill, [9/16/25](https://thehill.com/homenews/house/5506897-gop-tariff-concession-rule-vote/)]
 
 **Tariffs Are Projected To Cut California Job Growth In Half In 2026.** According to CalMatters, California job growth is expected to slow to "just 3,000 jobs per month in 2026" — down from 6,000 jobs per month in 2025 — "driven mainly by impacts from tariffs which are broadly assumed to dampen job growth across most sectors including manufacturing, leisure and hospitality, trade, transportation and utilities, and professional and business services." [CalMatters, [12/2025](https://calmatters.org/economy/2025/12/year-in-review-2025-economy/)]
 
