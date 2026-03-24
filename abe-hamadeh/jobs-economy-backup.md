@@ -2,7 +2,7 @@
 title: Abe Hamadeh: Jobs and the Economy
 description: Jobs and economy backup page
 published: true
-date: 2026-03-03T22:29:47.476Z
+date: 2026-03-24T13:53:32.782Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:41.621Z
@@ -35,7 +35,7 @@ Rep. Abe Hamadeh talks about bringing jobs to Arizona, but his record tells a di
 
 **Hamadeh Celebrated TSMC's $100 Billion Arizona Investment, But The Expansion Was Made Possible By The Bipartisan CHIPS Act Signed Before Hamadeh Took Office.** According to NIST, the Biden-Harris Administration awarded TSMC Arizona up to $6.6 billion in direct funding under the CHIPS and Science Act, signed into law in August 2022. The award, finalized in November 2024, supported TSMC's planned investment of "more than $65 billion in three greenfield leading-edge fabs in Phoenix, Arizona" and was described as "the largest foreign direct investment in a greenfield project in the history of the United States." [NIST, [11/15/24](https://www.nist.gov/news-events/news/2024/11/biden-harris-administration-announces-chips-incentives-award-tsmc-arizona)]
 
-  **Hamadeh Issued A Press Release Taking Credit For The Investment, Claiming It Validated 'President Trump's American First Manufacturing Agenda.'** According to Hamadeh's office, he stated that TSMC is "clearly committed to President Trump's American First Manufacturing agenda, bringing high-paying employment opportunities to CD8 allowing US leaders to increase the quality of life for our residents." The CHIPS Act that made the investment possible passed with bipartisan support in 2022 — before Hamadeh was elected to Congress. [Hamadeh Press Release, [3/18/25](https://hamadeh.house.gov/media/press-releases/congressman-abe-hamadeh-celebrates-news-100-billion-investment-arizona-jobs)]
+  **Hamadeh Issued A Press Release Taking Credit For The Investment, Claiming It Validated 'President Trump's American First Manufacturing Agenda.'** According to Hamadeh's office, he stated that TSMC is "clearly committed to President Trump's American First Manufacturing agenda, bringing high-paying employment opportunities to CD8 allowing US leaders to increase the quality of life for our residents." The CHIPS Act that made the investment possible passed with bipartisan support in 2022 — before Hamadeh was elected to Congress. [Hamadeh Press Release, [3/18/25](https://hamadeh.house.gov/news/documentsingle.aspx?DocumentID=465)]
 
 ### Voted To Cut Food Assistance For 124,000 Arizonans
 
