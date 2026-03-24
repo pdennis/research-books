@@ -2,7 +2,7 @@
 title: How To Win Against Abe Hamadeh
 description: 
 published: false
-date: 2026-03-03T22:34:23.896Z
+date: 2026-03-24T13:07:10.503Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:00.917Z
@@ -11,11 +11,13 @@ dateCreated: 2026-02-18T18:24:00.917Z
 # How To Win Against Abe Hamadeh
 
 
-Abe Hamadeh promised Arizona families he would fight for them, but his voting record tells a very different story. He voted for the [One Big Beautiful Bill Act](https://www.factcheck.org/2025/07/the-cbo-breakdown-on-medicaid-losses-increase-in-uninsured/), which CBO estimated would cut $911 billion from Medicaid and leave 10.9 million more Americans uninsured — including [more than 300,000 Arizonans](https://azcir.org/news/2025/07/10/could-an-estimated-300000-plus-arizonans-lose-health-care-coverage-under-trumps-big-beautiful-bill-yes/) — then [falsely claimed the bill included "no cuts to Medicaid,"](https://hamadeh.house.gov/news/documentsingle.aspx?DocumentID=480) a talking point [PolitiFact rated as false](https://www.politifact.com/article/2025/jun/24/one-big-beautiful-bill-trump-taxes-senate/).
+Abe Hamadeh promised Arizona families he would fight for them, but his voting record tells a very different story. He voted for the [One Big Beautiful Bill Act](https://clerk.house.gov/evs/2025/roll190.xml), which CBO estimated would cut $911 billion from Medicaid and leave [10.9 million more Americans uninsured](https://www.factcheck.org/2025/07/the-cbo-breakdown-on-medicaid-losses-increase-in-uninsured/) — including [more than 300,000 Arizonans](https://azcir.org/news/2025/07/10/could-an-estimated-300000-plus-arizonans-lose-health-care-coverage-under-trumps-big-beautiful-bill-yes/) — then [falsely claimed the bill included "no cuts to Medicaid,"](https://hamadeh.house.gov/news/documentsingle.aspx?DocumentID=480) a talking point [PolitiFact rated as false](https://www.politifact.com/article/2025/jun/24/one-big-beautiful-bill-trump-taxes-senate/).
+
+The bill he voted for [cut $187 billion from SNAP](https://www.cbpp.org/research/food-assistance/by-the-numbers-harmful-republican-megabill-takes-food-assistance-away-from) — the largest cut to food assistance in history — while CBO found it [gives the richest 10% an extra $12,000 per year and takes $1,600 from the poorest 10%](https://www.budget.senate.gov/ranking-member/newsroom/press/merkley-cbo-confirms-big-beautiful-bill-benefits-the-wealthy-working-families-pay-the-price).
 
 He [voted against extending ACA premium subsidies](https://www.npr.org/2026/01/08/nx-s1-5662625/house-vote-affordable-care-act-subsidies) as Arizona marketplace premiums surged 29–35%, leaving retired Scottsdale teachers facing [premiums that quadrupled from \$513 to \$2219 per month](https://crh.arizona.edu/news/some-arizonans-rethinking-obamacare-coverage-over-2026-sticker-shock). He [defended tariffs](https://www.azfamily.com/video/2025/04/24/top-arizona-gop-lawmakers-defend-president-trumps-economic-policies/) that economists call a [$2,600-per-year hidden tax on Arizona families](https://azeconcenter.org/tariffs-are-a-hidden-tax-on-arizona-families/).
 
-The bill he voted for [cut $187 billion from SNAP](https://www.cbpp.org/research/food-assistance/by-the-numbers-harmful-republican-megabill-takes-food-assistance-away-from) — the largest cut to food assistance in history — while CBO found it [gives the richest 10% an extra $12,000 per year and takes $1,600 from the poorest 10%](https://www.budget.senate.gov/ranking-member/newsroom/press/merkley-cbo-confirms-big-beautiful-bill-benefits-the-wealthy-working-families-pay-the-price).
+
 
 Before Congress, Hamadeh was a serial election denier who [filed four lawsuits to overturn his 280-vote loss](https://www.democracydocket.com/news-alerts/court-rejects-fourth-attempt-from-arizona-election-denier-to-overturn-2022-race/), was [sanctioned by the Arizona Supreme Court for misrepresenting facts](https://www.democracydocket.com/news-alerts/court-rejects-fourth-attempt-from-arizona-election-denier-to-overturn-2022-race/), and ran campaigns [bankrolled by his brother's questionable financial arrangements](https://www.yahoo.com/news/did-abe-hamadeh-sucker-donald-140234455.html).
 
@@ -30,7 +32,7 @@ Before Congress, Hamadeh was a serial election denier who [filed four lawsuits t
 
 ### **AFFORDABILITY: DEFENDED TARIFFS THAT FUNCTION AS A HIDDEN TAX**
 
-- Hamadeh [publicly defended Trump's tariffs](https://www.azfamily.com/video/2025/04/24/top-arizona-gop-lawmakers-defend-president-trumps-economic-policies/) that the Arizona Center for Economic Progress found function as ["a backdoor tax" costing Arizona families $2,600 per year](https://azeconcenter.org/tariffs-are-a-hidden-tax-on-arizona-families/).
+- Hamadeh [publicly defended Trump's tariffs](https://x.com/RepAbeHamadeh/status/2026488571398426943?s=20/) that the Arizona Center for Economic Progress found function as ["a backdoor tax" costing Arizona families $2,600 per year](https://azeconcenter.org/tariffs-are-a-hidden-tax-on-arizona-families/).
 - A [21% tariff on Mexican tomatoes](https://www.kjzz.org/business/2025-04-15/new-tariff-on-mexican-tomatoes-could-have-major-impact-on-arizona) could cause $3 billion in economic losses for Arizona, and [gas prices rose 29 cents per gallon](https://www.kjzz.org/politics/2025-03-01/5-ways-the-trump-tariffs-on-mexico-and-canada-would-hit-arizona-wallets) in the first month after tariff announcements.
 - CBO found the bill Hamadeh voted for [increases incomes for the wealthiest 10% by 2.7% while cutting incomes for the poorest 10% by 3.1%](https://www.budget.senate.gov/ranking-member/newsroom/press/merkley-cbo-confirms-big-beautiful-bill-benefits-the-wealthy-working-families-pay-the-price).
 
@@ -39,8 +41,8 @@ Before Congress, Hamadeh was a serial election denier who [filed four lawsuits t
 ### **JOBS AND THE ECONOMY: STALLED GROWTH AND FALSE CREDIT**
 
 - Arizona's [job growth stalled to just 0.3% in 2025](https://eller.arizona.edu/news/arizonas-economy-hits-turbulence), well below the national rate of 1.1%, while Hamadeh championed tariff policies that economists blame for the slowdown.
-- Hamadeh [claimed credit for TSMC's $100 billion Arizona investment](https://hamadeh.house.gov/media/press-releases/congressman-abe-hamadeh-celebrates-news-100-billion-investment-arizona-jobs), but the expansion was made possible by the [bipartisan CHIPS Act and a $6.6 billion federal award](https://www.nist.gov/news-events/news/2024/11/biden-harris-administration-announces-chips-incentives-award-tsmc-arizona) finalized before Hamadeh took office.
-- The bill he voted for [cut $187 billion from SNAP](https://www.cbpp.org/research/food-assistance/by-the-numbers-harmful-republican-megabill-takes-food-assistance-away-from) and put [124,000 Arizona SNAP recipients at risk](https://cronkitenews.azpbs.org/2025/11/20/snap-new-work-requirements/) under new work requirements, even as [Arizona food banks reported empty shelves](https://www.rescue.org/announcement/what-you-need-know-about-snap-cuts-arizona-after-one-big-beautiful-bill-act).
+- Hamadeh [claimed credit for TSMC's $100 billion Arizona investment](https://hamadeh.house.gov/news/documentsingle.aspx?DocumentID=465), but the expansion was made possible by the [bipartisan CHIPS Act and a $6.6 billion federal award](https://www.nist.gov/news-events/news/2024/11/biden-harris-administration-announces-chips-incentives-award-tsmc-arizona) finalized before Hamadeh took office.
+- The bill he voted for [cut $187 billion from SNAP](https://www.cbpp.org/research/food-assistance/by-the-numbers-harmful-republican-megabill-takes-food-assistance-away-from) and put [124,000 Arizona SNAP recipients at risk](https://cronkitenews.azpbs.org/2025/11/20/snap-new-work-requirements/) under new work requirements, even as [Arizona food banks reported empty shelves](https://www.azcentral.com/story/news/local/phoenix/2025/10/31/mayor-gallego-urges-help-snap-cuts-empty-phoenix-food-banks/86996228007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z118720p119750c119750e1197xxv118720&gca-ft=166&gca-ds=sophi).
 
 **Message:** Hamadeh takes credit for jobs he had nothing to do with while voting for policies that kill Arizona jobs and cut food assistance.
 
