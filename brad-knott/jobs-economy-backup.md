@@ -2,7 +2,7 @@
 title: Rep. Brad Knott (NC-13): Can't Be Trusted on Jobs and the Economy
 description: 
 published: false
-date: 2026-02-18T19:38:12.790Z
+date: 2026-03-24T17:40:16.858Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:00:00.687Z
@@ -10,7 +10,11 @@ dateCreated: 2026-02-18T19:00:00.687Z
 
 # Rep. Brad Knott (NC-13): Can't Be Trusted on Jobs and the Economy
 
-Rep. Brad Knott voted for the One Big Beautiful Bill Act, which repealed clean energy tax credits that supported 113,000 North Carolina clean energy jobs — a sector growing six times faster than the rest of the state's economy — and is projected to eliminate over 41,000 North Carolina jobs by 2030. Knott's vote came as companies had already canceled $1.4 billion in planned clean energy factories in North Carolina in 2025 alone, including a $1.4 billion battery plant near Rocky Mount that would have created 1,000 jobs. Meanwhile, Knott said "the federal government employs too many people" while DOGE cuts devastated the Research Triangle economy in his backyard — RTI International, dubbed "ground zero" for DOGE cuts, slashed more than a third of its workforce including over 400 North Carolina jobs, and the EPA's Research Triangle Park campus, the agency's largest facility, faced plans to eliminate up to 75% of its research workforce. Knott voted to protect Trump's 25% tariffs on Canada even as a John Locke Foundation report warned tariffs could wipe out $695 million in North Carolina farm income and 8,000 agricultural jobs, and a Johnston County soybean farmer in his district said he was nervous about "making enough to pay the bills." When the News & Observer asked North Carolina's delegation about tariffs, Knott was silent.
+Rep. Brad Knott voted for the One Big Beautiful Bill Act, which repealed clean energy tax credits that supported 113,000 North Carolina clean energy jobs — a sector growing six times faster than the rest of the state's economy — and is projected to eliminate over 41,000 North Carolina jobs by 2030. Knott's vote came as companies had already canceled $1.4 billion in planned clean energy factories in North Carolina in 2025 alone, including a $1.4 billion battery plant near Rocky Mount that would have created 1,000 jobs. 
+
+Meanwhile, Knott said "the federal government employs too many people" while DOGE cuts devastated the Research Triangle economy in his backyard — RTI International, dubbed "ground zero" for DOGE cuts, slashed more than a third of its workforce including over 400 North Carolina jobs, and the EPA's Research Triangle Park campus, the agency's largest facility, faced plans to eliminate up to 75% of its research workforce. 
+
+Knott voted to protect Trump's 25% tariffs on Canada even as a John Locke Foundation report warned tariffs could wipe out $695 million in North Carolina farm income and 8,000 agricultural jobs, and a Johnston County soybean farmer in his district said he was nervous about "making enough to pay the bills." When the News & Observer asked North Carolina's delegation about tariffs, Knott was silent.
 
 ### Voted To Kill Clean Energy Jobs That Were Growing Six Times Faster Than The State Economy
 
@@ -26,7 +30,7 @@ Rep. Brad Knott voted for the One Big Beautiful Bill Act, which repealed clean e
 
 ### Said The Federal Government "Employs Too Many People" While DOGE Devastated Research Triangle Jobs
 
-**Knott Said "The Federal Government Employs Too Many People" As DOGE Cuts Slashed Thousands Of Research Triangle Jobs.** According to VoteSmart, Knott stated that "the federal government employs too many people" and that some employees "add unnecessary costs to both the public and private sector." Meanwhile, more than 23,000 federal workers are employed across the Triangle-area congressional districts that include NC-13. [VoteSmart, [Viewed 2/16/26](https://justfacts.votesmart.org/candidate/key-votes/213703/brad-knott)]
+**Knott Said "The Federal Government Employs Too Many People" As DOGE Cuts Slashed Thousands Of Research Triangle Jobs.** According to VoteSmart, Knott stated that "the federal government employs too many people" and that some employees "add unnecessary costs to both the public and private sector." Meanwhile, more than 23,000 federal workers are employed across the Triangle-area congressional districts that include NC-13. [CBS 17, [1/2/25](https://www.cbs17.com/local-matters/local-matters-us-representative-brad-knott-talks-priorities-ahead/)]
 
 - **RTI International, Dubbed "Ground Zero" For DOGE Cuts, Slashed Over 400 North Carolina Jobs.** According to Business North Carolina, RTI International was labeled "ground zero" for DOGE's impact on independent research nonprofits, having lost 170 federal grants and contracts totaling nearly $1.1 billion. The company cut more than a third of its global workforce, including 355 in North Carolina, driven by "an unprecedented number of federally-funded project cancellations and work stoppages." [Business North Carolina, [Viewed 2/16/26](https://businessnc.com/dialing-back-federal-funding-strikes-the-triangles-acclaimed-research-complex/)]
 
@@ -52,7 +56,7 @@ Rep. Brad Knott voted for the One Big Beautiful Bill Act, which repealed clean e
 
 **Knott Accepted Over $192,000 From Agribusiness, Manufacturing, Energy, Real Estate, And Retail Industry PACs.** According to FEC records, Knott's top affordability-related industry PAC contributions included $73,000 from manufacturing and trade-protected industries, $44,000 from agribusiness and food companies, $42,500 from retail and consumer goods companies, $19,500 from real estate and housing interests, and $13,500 from energy companies. [FEC, [Viewed 2/16/26](https://www.fec.gov/data/committee/C00855361/)]
 
-- **Knott Accepted $10,000 From Sugar Industry PACs That Directly Benefit From Tariff Protections.** According to FEC records, Knott accepted contributions from the American Crystal Sugar Company PAC ($5,000), Amalgamated Sugar Company PAC ($1,500), Minn-Dak Farmers Cooperative Sugar PAC ($1,000), Michigan Sugar Company Growers PAC ($1,000), Florida Sugar Cane League PAC ($1,000), and Sugar Cane Growers Cooperative of Florida PAC ($500). U.S. sugar tariffs and price supports keep domestic sugar prices roughly double the world market price. [FEC, [Viewed 2/16/26](https://www.fec.gov/data/committee/C00855361/)]
+- **Knott Accepted $10,000 From Sugar Industry PACs That Directly Benefit From Tariff Protections.** According to FEC records, Knott accepted contributions from the American Crystal Sugar Company PAC ($5,000), Amalgamated Sugar Company PAC ($2,500), Minn-Dak Farmers Cooperative Sugar PAC ($1,000), Michigan Sugar Company Growers PAC ($1,000), Florida Sugar Cane League PAC ($1,000), and Sugar Cane Growers Cooperative of Florida PAC ($500). U.S. sugar tariffs and price supports keep domestic sugar prices roughly double the world market price. [FEC, [Viewed 2/16/26](https://www.fec.gov/data/committee/C00855361/)]
 
 ### Impact On Everyday People
 
