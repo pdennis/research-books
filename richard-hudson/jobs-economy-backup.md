@@ -2,7 +2,7 @@
 title: Rep. Richard Hudson (NC-09): Jobs and the Economy
 description: 
 published: false
-date: 2026-02-24T21:32:48.213Z
+date: 2026-03-24T21:44:15.605Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:13:16.439Z
