@@ -2,7 +2,7 @@
 title: Rep. Tom McClintock (CA-05): Can't Be Trusted on Health Care
 description: 
 published: false
-date: 2026-02-18T19:47:55.382Z
+date: 2026-03-24T14:26:40.748Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:36.701Z
@@ -32,9 +32,6 @@ Rep. Tom McClintock has spent nearly two decades in Congress working to strip he
 
 **McClintock Voted For The One Big Beautiful Bill Act, Which Cuts Medicaid Funding By Over $1 Trillion Over A Decade.** According to the American Hospital Association, the House passed the final version of the One Big Beautiful Bill Act (H.R. 1) with "significant impacts to Medicaid" and "Health Insurance Marketplaces." McClintock voted yes. The bill was signed into law on July 4, 2025. [American Hospital Association, [7/3/25](https://www.aha.org/news/headline/2025-07-03-house-passes-final-version-one-big-beautiful-bill-act)]
 
-**McClintock Claimed Only People Who 'Refuse To Get Up Off The Couch' Would Lose Coverage Under The Bill.** According to a press release from Rep. McClintock, he stated that the bill would "relieve pressure on Medicaid by requiring able-bodied adults to look for work" and that "the only groups losing coverage are able-bodied grown-ups who refuse to get up off the couch and look for work, illegal aliens who refuse to go home and fraudsters." [Rep. Tom McClintock, [5/22/25](https://mcclintock.house.gov/newsroom/press-releases/big-beautiful-future)]
-
-- **Experts Warned That Work Requirements Would Cause Even Eligible Workers To Lose Coverage Due To Bureaucratic Burdens.** According to CalMatters, "the red tape is so cumbersome that even people who work will lose Medi-Cal." In Arkansas, where work requirements were implemented in 2018, "roughly 18,000 people lost their Medicaid coverage — most of them, state officials said, not because they didn't qualify, but because they either didn't understand the new rules or couldn't navigate the maze of administrative details." [CalMatters, [5/30/25](https://calmatters.org/health/2025/05/medicaid-work-requirement-california-congress/)]
 
 **56% Of Adult Medi-Cal Enrollees In McClintock's District Were At Risk Of Losing Health Coverage Under The Bill's Work Requirements.** According to the California Budget & Policy Center, in McClintock's congressional district, 56% of adult Medi-Cal enrollees faced potential loss of health coverage under the proposed Medi-Cal work requirements. The organization warned that the proposed reductions "would be devastating for communities across the state." [Gold Rush Cam/Sierra Sun Times, [3/1/25](https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/65071-california-budget-policy-center-says-in-congressman-tom-mcclintock-s-district-56-of-adult-medi-cal-enrollees-at-risk-of-losing-health-coverage-by-medi-cal-work-requirements-as-new-data-reveals-how-the-house-budget-framework-could-harm-californians)]
 
