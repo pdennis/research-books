@@ -2,7 +2,7 @@
 title: Rep. Richard Hudson (NC-09): Affordability
 description: 
 published: false
-date: 2026-02-24T21:31:43.101Z
+date: 2026-03-24T21:51:00.384Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:58.357Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T19:12:58.357Z
 
 # Rep. Richard Hudson (NC-09): Affordability
 
-Rep. Richard Hudson talks about kitchen-table costs but consistently sides with policies that raise them. He voted to keep Trump's tariffs on Canada even as economists warned they would spike grocery and consumer prices across North Carolina, backed a tax law that CBO projects would cut income for the poorest Americans by $1,200 a year while handing the richest 10 percent a $13,600 annual windfall, and supported a reconciliation package that could strip food assistance from 1.4 million North Carolinians — 600,000 of whom are children. Meanwhile, the tariffs he defended were projected to cost North Carolina farmers $695 million, threaten 8,000 agriculture and food-processing jobs, and function as a $1,600-per-household hidden tax on consumers in 2026. Hudson frames his votes as pro-worker and pro-family; the data says otherwise.
+Rep. Richard Hudson talks about kitchen-table costs but consistently sides with policies that raise them. He voted to keep Trump's tariffs on Canada even as economists warned they would spike grocery and consumer prices across North Carolina, backed a tax law that CBO projects would cut income for the poorest Americans by $1,200 a year while handing the richest 10 percent a $13,600 annual windfall, and supported a reconciliation package that could strip food assistance from 1.4 million North Carolinians — 66% of whom are in a household with children. Meanwhile, the tariffs he defended were projected to cost North Carolina farmers $695 million, threaten 8,000 agriculture and food-processing jobs, and function as a $1,600-per-household hidden tax on consumers in 2026. Hudson frames his votes as pro-worker and pro-family; the data says otherwise.
 
 ---
 
@@ -44,7 +44,7 @@ Rep. Richard Hudson talks about kitchen-table costs but consistently sides with 
 
 **Hudson Voted for the One Big Beautiful Bill, Which Included a 20% Cut to SNAP — the Largest in the Program's History.** According to the Harvard Kennedy School analysis cited by NCIOM, the plan to cut SNAP funding by 20% represented the largest cut to the program ever. Over the next decade, the program faces a $187 billion cut, with projections estimating that up to 22 million U.S. families could lose some or all of their SNAP benefits. [NCIOM, [Viewed 2/16/26](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/)]
 
-  - **1.4 Million North Carolinians — Including 600,000 Children — Could Lose Food Assistance.** According to NCIOM, changes to SNAP could leave 1.4 million North Carolina residents without food assistance, 600,000 of whom are children. One in eight North Carolinians currently receives SNAP, including 46,000 veterans. [NCIOM, [Viewed 2/16/26](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/)]
+  - **1.4 Million North Carolinians — 66% of Whom Have Children In Their Household — Could Lose Food Assistance.** According to NCIOM, changes to SNAP could leave 1.4 million North Carolina residents without food assistance, 66% of which have children in their household. One in eight North Carolinians currently receives SNAP, including 46,000 veterans. [NCIOM, [Viewed 2/16/26](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/)]
 
   - **North Carolina Faced a $420 Million Annual Bill or Risked Ending Its SNAP Program Entirely.** According to NCIOM, the law shifted SNAP funding burdens onto the states, requiring North Carolina to pay $420 million annually based on payment error rates. Governor Stein warned the state could be "'forced to end our SNAP program entirely.'" The state was left with three options: pay its share, decrease SNAP enrollment, or completely withdraw from the program. [NCIOM, [Viewed 2/16/26](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/)]
 
