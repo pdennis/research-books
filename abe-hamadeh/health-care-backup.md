@@ -2,7 +2,7 @@
 title: Abe Hamadeh: Health Care
 description: Health care voting record backup page
 published: true
-date: 2026-03-03T22:16:29.736Z
+date: 2026-03-24T13:28:42.799Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:24.355Z
@@ -39,7 +39,9 @@ Hamadeh voted for the One Big Beautiful Bill Act, which the Congressional Budget
 
 ### Calls ACA a Failure But Offers No Replacement
 
-**Hamadeh Declared The Affordable Care Act 'Failed' And Pledged To 'Fight Against Socialized Medicine.'** According to Hamadeh's official congressional website, "the Affordable Care Act failed to [improve healthcare access and affordability] and has only complicated an already opaque, unwieldy health care system. Congressman Hamadeh will fight against socialized medicine, and support policies that give Americans full control of their health care without red tape." [Hamadeh.house.gov, [Viewed 2/16/26](https://hamadeh.house.gov/issues/health)]
+**Hamadeh Declared The Affordable Care Act 'Failed' And Pledged To 'Fight Against Socialized Medicine.'** According to Hamadeh's official congressional website, "the Affordable Care Act failed to [improve healthcare access and affordability] and has only complicated an already opaque, unwieldy health care system. Congressman Hamadeh will fight against socialized medicine, and support policies that give Americans full control of their health care without red tape."  [Hamadeh.house.gov, [Viewed 2/16/26](https://hamadeh.house.gov/issues/health)]
+
+**Hamadeh Spent His Early Political Career Calling For The Affordable Care Act To Be Repealed.'** According to Hamadeh's twitter "Obamacare is going to fail, beauty of our govt is past laws are not permanent. We'll repeal it." He also repeatedly called for it to be repealed. [Twitter, [Viewed 3/24/26](https://x.com/AbrahamHamadeh/status/386315621375291392)] 
 
 ### Rural Arizona Hospitals at Risk of Closure
 
