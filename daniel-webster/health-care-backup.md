@@ -2,7 +2,7 @@
 title: Rep. Daniel Webster (FL-11): Can't Be Trusted on Health Care
 description: 
 published: false
-date: 2026-02-18T19:40:28.603Z
+date: 2026-03-24T20:16:26.735Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:03:22.016Z
@@ -10,7 +10,11 @@ dateCreated: 2026-02-18T19:03:22.016Z
 
 # Rep. Daniel Webster (FL-11): Can't Be Trusted on Health Care
 
-Rep. Daniel Webster has spent over a decade working to dismantle health care protections for his own constituents — many of them seniors in one of the oldest congressional districts in the nation. In 2017, he switched his vote at the last minute to pass the American Health Care Act, a bill that would have stripped coverage from 1.8 million Floridians and allowed insurers to charge people with pre-existing conditions more — even though he had promised constituents just months earlier that Congress would "not pull the rug" out from under anyone's coverage. In 2022, he voted against the Inflation Reduction Act, which capped insulin costs at $35/month for Medicare patients and empowered Medicare to negotiate drug prices for the first time. In 2025, he voted for the "One Big Beautiful Bill," which cut $3.8 billion from Florida's health care system, slashed Medicaid — the program that covers 4.3 million Floridians — and is projected to eliminate 17,000 health care jobs statewide and put nearly 1 million Floridians at risk of losing coverage. And in December 2025, he voted for a health care bill that deliberately let ACA subsidies expire — subsidies that had kept premiums affordable for 4.6 million Floridians, the most of any state. When those subsidies expired on January 1, 2026, premiums doubled on average. A 30-year-old Florida woman saw her premium nearly triple, from $900 to $2,500 a month. A Central Florida father of three with diabetes saw his jump from $28 to $733. Webster's response to the fallout? He refused to hold a single in-person town hall.
+Rep. Daniel Webster has spent over a decade working to dismantle health care protections for his own constituents — many of them seniors in one of the oldest congressional districts in the nation. In 2017, he switched his vote at the last minute to pass the American Health Care Act, a bill that would have stripped coverage from 1.8 million Floridians and allowed insurers to charge people with pre-existing conditions more — even though he had promised constituents just months earlier that Congress would "not pull the rug" out from under anyone's coverage. 
+
+In 2022, he voted against the Inflation Reduction Act, which capped insulin costs at $35/month for Medicare patients and empowered Medicare to negotiate drug prices for the first time. In 2025, he voted for the "One Big Beautiful Bill," which cut $3.8 billion from Florida's health care system, slashed Medicaid — the program that covers 4.3 million Floridians — and is projected to eliminate 17,000 health care jobs statewide and put nearly 1 million Floridians at risk of losing coverage. 
+
+And in December 2025, he voted for a health care bill that deliberately let ACA subsidies expire — subsidies that had kept premiums affordable for 4.6 million Floridians, the most of any state. When those subsidies expired on January 1, 2026, premiums doubled on average. A 30-year-old Florida woman saw her premium nearly triple, from $900 to $2,500 a month. A Central Florida father of three with diabetes saw his jump from $28 to $733. Webster's response to the fallout? He refused to hold a single in-person town hall.
 
 ### Switched His Vote At The Last Minute To Pass A Bill That Threatened 1.8 Million Floridians' Coverage
 
