@@ -2,7 +2,7 @@
 title: Rep. Tom McClintock (CA-05): Can't Be Trusted on Affordability
 description: 
 published: false
-date: 2026-02-18T19:47:40.915Z
+date: 2026-03-24T14:24:39.398Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:12.713Z
@@ -24,7 +24,7 @@ Rep. Tom McClintock talks about affordability while voting to make life more exp
 
 ### Called Tariffs 'Bad Public Policy' Then Voted To Keep Them In Place
 
-**McClintock Called Tariffs 'Bad Public Policy' And 'Self-Sabotaging,' Then Voted Against Ending Them.** According to CNBC, McClintock said "tariffs are bad public policy and are self-sabotaging at least part of the recovery that we've set in motion." Yet when the House voted 219-211 on H.J.Res. 72 to end the 25% tariffs on Canadian goods, McClintock voted to keep the tariffs in place — one of 205 Republicans who sided with Trump despite expressing doubts. [CNBC, [2/10/26](https://www.cnbc.com/2026/02/10/gop-tariffs-trump-house-johnson.html)]
+**McClintock Called Tariffs 'Bad Public Policy' And 'Self-Sabotaging,' Then Voted Against Ending Them.** According to The Hill, McClintock said "tariffs are bad public policy and are self-sabotaging at least part of the recovery that we've set in motion." Yet when the House voted 219-211 on H.J.Res. 72 to end the 25% tariffs on Canadian goods, McClintock voted to keep the tariffs in place — one of 205 Republicans who sided with Trump despite expressing doubts. [The Hill, [9/16/25](https://thehill.com/homenews/house/5506897-gop-tariff-concession-rule-vote/)]
 
 - **Only Six Republicans Voted To Actually End The Canada Tariffs.** According to the Council on Foreign Relations, the House voted 219-211 to revoke the tariffs Trump imposed on Canada, with only six Republicans crossing the aisle — Thomas Massie, Don Bacon, Kevin Kiley, Dan Newhouse, Brian Fitzpatrick, and Jeff Hurd. McClintock was not among them. [Council on Foreign Relations, [2/11/26](https://www.cfr.org/articles/the-house-votes-to-rein-in-trumps-canada-tariffs)]
 
