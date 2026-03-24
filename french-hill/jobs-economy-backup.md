@@ -2,7 +2,7 @@
 title: Rep. French Hill (AR-02): Can't Be Trusted on Jobs and the Economy
 description: 
 published: false
-date: 2026-02-18T19:42:09.511Z
+date: 2026-03-24T15:37:34.210Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:06:30.212Z
@@ -10,7 +10,9 @@ dateCreated: 2026-02-18T19:06:30.212Z
 
 # Rep. French Hill (AR-02): Can't Be Trusted on Jobs and the Economy
 
-Rep. French Hill says he is "seeking solutions that lead to job creation and rising income and wages for hard-working Arkansans" -- but his record tells a different story. Hill voted against raising the minimum wage three times, including twice when Arkansas voters overruled him at the ballot box. He voted for the 2017 Tax Cuts and Jobs Act that he promised would create 8,277 new jobs in Arkansas -- but when asked which CEOs planned to hire, he had no answer, and the law's corporate tax cuts produced 37 times more spending on stock buybacks than wage increases. He voted against the bipartisan infrastructure bill that created construction and manufacturing jobs, voted against the American Rescue Plan's expanded child tax credits and unemployment benefits, and voted against the PRO Act's worker protections. Meanwhile, his vote to sustain Trump's tariffs -- cast one day after he told a reporter he opposed across-the-board tariffs -- has helped drive a surge in Arkansas farm bankruptcies, threatens to close 1 in 3 farms in the state, and led 16% of Arkansas manufacturers to project layoffs. Hill represents the 4th poorest state in the country, where the median household income is $50,540 and the minimum wage of $11 an hour does not lift a family of three out of poverty -- yet on every jobs and economy vote that mattered, the millionaire former banker sided with corporations over his own constituents.
+Rep. French Hill says he is "seeking solutions that lead to job creation and rising income and wages for hard-working Arkansans" but his record tells a different story. Hill voted against raising the minimum wage three times, including twice when Arkansas voters overruled him at the ballot box. He voted for the 2017 Tax Cuts and Jobs Act that he promised would create 8,277 new jobs in Arkansas, but when asked which CEOs planned to hire, he had no answer. He voted against the bipartisan infrastructure bill that created construction and manufacturing jobs, voted against the American Rescue Plan's expanded child tax credits and unemployment benefits, and voted against the PRO Act's worker protections. 
+
+Meanwhile, his vote to sustain Trump's tariffs,cast one day after he told a reporter he opposed across-the-board tariffs, has helped drive a surge in Arkansas farm bankruptcies, threatening to close 1 in 3 farms in the state, and led 16% of Arkansas manufacturers to project layoffs. Hill represents the 4th poorest state in the country, where the median household income is $50,540 and the minimum wage of $11 an hour does not lift a family of three out of poverty. Yet on every jobs and economy vote that mattered, the millionaire former banker sided with corporations over his own constituents.
 
 ### Voted Against Raising The Minimum Wage Three Times -- Arkansas Voters Overruled Him Twice
 
@@ -27,8 +29,6 @@ Rep. French Hill says he is "seeking solutions that lead to job creation and ris
 **Hill Promised The Tax Cuts And Jobs Act Would Create 8,277 New Jobs In Arkansas.** According to Hill's own press release, he claimed the bill would allow "hardworking Arkansas families [...] to keep an additional $2,020 of their income and provide Arkansans with 8,277 new full-time jobs." [Hill.house.gov, [11/16/17](https://hill.house.gov/news/documentsingle.aspx?DocumentID=1490)]
 
 - **When Asked Which Arkansas CEOs Planned To Hire, Hill Had No Answer.** According to the Arkansas Times, when told that a majority of American CEOs said they would not use corporate tax breaks to hire new employees, Hill responded, "Well, that's not what the CEOs in my district are saying." When asked which specific CEOs intended to hire people with their tax savings, no answer was provided. [Arkansas Times, [12/19/17](https://arktimes.com/arkansas-blog/2017/12/19/a-question-for-congressman-french-hill)]
-
-- **Corporations Spent 37 Times More On Stock Buybacks Than Wage Increases After The Tax Cuts.** According to Americans for Tax Fairness, corporations authorized $238 billion in stock buybacks after the TCJA while workers received just $6.5 billion in one-time bonuses and wage increases — a ratio of 37 to 1. [Patriotic Millionaires, [Viewed 2/16/26](https://patrioticmillionaires.org/perspectives/corporate-tax-cuts-help-no-one-but-the-wealthy/)]
 
 **The Top 1% Received A Third Of The Corporate Tax Reduction While The Middle Class Got 8%.** According to the Center for American Progress, "The top 1 percent of the income distribution received a full third of the corporate tax reduction but 20 percent of the reduction from all of the measure's provisions." The middle quintile received just "8.2 percent of the benefit of the business reductions." [Center for American Progress, [Viewed 2/16/26](https://www.americanprogress.org/article/the-tax-cuts-and-jobs-act-failed-to-deliver-promised-benefits/)]
 
@@ -58,7 +58,7 @@ Rep. French Hill says he is "seeking solutions that lead to job creation and ris
 
 - **Only 0.73% Of Hill's Campaign Donations Came From Small Donors.** According to the DCCC, "In his most recent filing, only .73% of his donations were from small donors while he received $9,000 donations from banks." [DCCC, [3/3/20](https://dccc.org/case-congressman-french-hill/)]
 
-**Arkansas Is The 4th Poorest State In The Country.** According to World Population Review, Arkansas has a poverty rate of 16%, compared to 12.7% nationally, and a median household income of $50,540 -- second-lowest in the nation. [World Population Review, [Viewed 2/16/26](https://worldpopulationreview.com/state-rankings/poorest-states)]
+**Arkansas Is The 4th Poorest State In The Country.** According to World Population Review, Arkansas has a poverty rate of 16%, compared to 12.7% nationally, and a median household income of $50,540, the second-lowest in the nation. [World Population Review, [Viewed 2/16/26](https://worldpopulationreview.com/state-rankings/poorest-states)]
 
 - **41% Of Arkansas Households Cannot Make Ends Meet.** According to United for ALICE, "In 2023, household costs in every county in Arkansas were well above the Federal Poverty Level [...] Additionally, wages fail to keep pace with the rising cost of household essentials (housing, child care, food, transportation, health care, and a basic smartphone plan)." [United for ALICE, [Viewed 2/16/26](https://www.unitedforalice.org/household-budgets/arkansas)]
 
