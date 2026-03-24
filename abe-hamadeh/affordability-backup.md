@@ -2,7 +2,7 @@
 title: Abe Hamadeh: Affordability
 description: Affordability and tariffs backup page
 published: true
-date: 2026-03-24T13:51:02.913Z
+date: 2026-03-24T13:51:11.927Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:32.761Z
