@@ -2,7 +2,7 @@
 title: Rep. Tony Wied (WI-08): Can't Be Trusted on Affordability
 description: 
 published: false
-date: 2026-02-18T19:48:20.942Z
+date: 2026-03-24T21:28:11.535Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:17.385Z
@@ -10,7 +10,9 @@ dateCreated: 2026-02-18T19:18:17.385Z
 
 # Rep. Tony Wied (WI-08): Can't Be Trusted on Affordability
 
-Tony Wied campaigned on "cutting the cost of everyday items" for Wisconsin families, but his record in Congress tells a different story. Wied enthusiastically backed Trump's tariffs — which economists project will cost Wisconsin dairy farmers $1–2 billion in lost income and have already driven grocery prices up 3.1% — then voted for the "Big Beautiful Bill," which the nonpartisan CBO found will cut incomes for the poorest 10% of Americans by 3.1% while boosting incomes for the richest 10% by 2.7%. When the bill's tariffs and benefit cuts are combined, the Yale Budget Lab found the bottom 10% of households lose about 7% of their income while the top gains nearly 1.5%. In Wied's own district, 27,000 Brown County residents face SNAP cuts, 270,000 Wisconsinites are projected to lose health insurance, and dairy farmers who already operate on thin margins face retaliatory tariffs from their largest export markets. Green Bay's mayor called the bill Wied voted for one that "literally makes the poor poorer, and the rich richer."
+Tony Wied campaigned on "cutting the cost of everyday items" for Wisconsin families, but his record in Congress tells a different story. Wied enthusiastically backed Trump's tariffs — which economists project will cost Wisconsin dairy farmers $1–2 billion in lost income and have already driven grocery prices up 3.1% — then voted for the "Big Beautiful Bill," which the nonpartisan CBO found will cut incomes for the poorest 10% of Americans by 3.1% while boosting incomes for the richest 10% by 2.7%. When the bill's tariffs and benefit cuts are combined, the Yale Budget Lab found the bottom 10% of households lose about 7% of their income while the top gains nearly 1.5%. 
+
+In Wied's own district, 27,000 Brown County residents face SNAP cuts, 270,000 Wisconsinites are projected to lose health insurance, and dairy farmers who already operate on thin margins face retaliatory tariffs from their largest export markets. Green Bay's mayor called the bill Wied voted for one that "literally makes the poor poorer, and the rich richer."
 
 ### Campaigned on Cutting Costs, Then Backed Tariffs That Raise Them
 
@@ -40,9 +42,9 @@ Tony Wied campaigned on "cutting the cost of everyday items" for Wisconsin famil
 
 **Green Bay Mayor Called The Bill Wied Supported One That "Literally Makes The Poor Poorer And The Rich Richer."** According to WFRV, Green Bay Mayor Eric Genrich said of the Big Beautiful Bill, "'It's a bill that literally makes the poor poorer, and the rich richer.'" [WFRV, [7/30/25](https://www.wearegreenbay.com/news/local-news/big-beautiful-bill-debate-continues-as-local-leaders-call-out-tony-wied/)]
 
-### Voted To Cut Food Benefits For 375,000 Wisconsin Families — Then Blamed Democrats When Benefits Ran Out
+### Voted To Cut Food Benefits For 700,000 Wisconsinites — Then Blamed Democrats When Benefits Ran Out
 
-**Wied Voted For The Big Beautiful Bill That Cut SNAP Benefits For 375,000 Wisconsin Families.** According to the Wisconsin Department of Health Services, the budget reconciliation bill Wied voted for would cause 375,000 Wisconsin families to lose critical food benefits from cuts to SNAP. The bill expanded work requirements to SNAP recipients ages 18 to 64 and parents of children 14 and older, requiring 80 hours per month of work, school, or job training. [Wisconsin DHS, [7/15/25](https://www.dhs.wisconsin.gov/news/releases/071525.htm)]
+**Wied Voted For The Big Beautiful Bill That Cut SNAP Benefits For 700,000 Wisconsin Families.** According to the Wisconsin Department of Health Services, the budget reconciliation bill Wied voted for would cause 700,000 Wisconsinites to lose critical food benefits from cuts to SNAP. The bill expanded work requirements to SNAP recipients ages 18 to 64 and parents of children 14 and older, requiring 80 hours per month of work, school, or job training. [Wisconsin DHS, [7/15/25](https://www.dhs.wisconsin.gov/news/releases/071525.htm)]
 
 - **27,000 Brown County Residents — The Heart Of Wied's District — Use SNAP Benefits Threatened By The Bill He Voted For.** According to WFRV, 27,000 residents in Brown County, home to Green Bay, currently rely on SNAP benefits that face cuts under the Big Beautiful Bill. [WFRV, [7/30/25](https://www.wearegreenbay.com/news/local-news/big-beautiful-bill-debate-continues-as-local-leaders-call-out-tony-wied/)]
 
