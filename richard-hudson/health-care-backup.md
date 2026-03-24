@@ -2,7 +2,7 @@
 title: Rep. Richard Hudson (NC-09): Health Care
 description: 
 published: false
-date: 2026-02-24T21:33:41.767Z
+date: 2026-03-24T21:41:52.639Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:13:07.443Z
@@ -36,7 +36,7 @@ dateCreated: 2026-02-18T19:13:07.443Z
 
 ### Top Recipient of Pharmaceutical Industry Money
 
-**Hudson Was the Top Pharmaceutical PAC Recipient in Congress in the 2020 Cycle, Accepting $240,600.** According to OpenSecrets, Hudson was the number-one recipient of pharmaceutical manufacturing PAC contributions in the 2019-2020 election cycle, collecting $240,600 in official committee gifts from the industry. [OpenSecrets, [Viewed 2/16/26](https://www.opensecrets.org/members-of-congress/richard-hudson/industries?cid=N00033630&cycle=2020)]
+**Hudson Was the Top Pharmaceutical PAC Recipient in Congress in the 2020 Cycle, Accepting $275,980.** According to OpenSecrets, Hudson was the number-one recipient of pharmaceutical manufacturing PAC contributions in the 2019-2020 election cycle, collecting $275,980 in official committee gifts from the industry. [OpenSecrets, [Viewed 2/16/26](https://www.opensecrets.org/members-of-congress/richard-hudson/industries?cid=N00033630&cycle=2020)]
 
   - **Hudson's Accounts Received More From Pharmaceutical and Health Products Than Any Other Sector.** According to OpenSecrets, Hudson's accounts received "more from the pharmaceutical and health products industry — nearly $201,000 — than any other sector." [OpenSecrets, [Viewed 2/16/26](https://www.opensecrets.org/members-of-congress/richard-hudson/summary?cid=N00033630)]
 
