@@ -2,7 +2,7 @@
 title: How To Win Against Tim Moore
 description: 
 published: false
-date: 2026-03-09T17:23:03.189Z
+date: 2026-03-24T18:29:27.417Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:43.505Z
@@ -10,7 +10,9 @@ dateCreated: 2026-02-18T19:15:43.505Z
 
 # How To Win Against Tim Moore
 
-Tim Moore spent a decade as North Carolina House Speaker [blocking Medicaid expansion](https://www.wfae.org/health/2021-11-05/nc-house-speaker-tim-moore-explains-his-chambers-opposition-to-medicaid-expansion) that would have covered 600,000 uninsured North Carolinians, telling them ["the best thing that folks can do is to get a job"](https://www.wfae.org/health/2021-11-05/nc-house-speaker-tim-moore-explains-his-chambers-opposition-to-medicaid-expansion) — then [reversed course and took credit](https://www.pbs.org/newshour/health/north-carolina-approves-medicaid-expansion-after-decade-of-fierce-opposition) when expansion finally passed. Now in Congress, he voted for the [One Big Beautiful Bill](https://timmoore.house.gov/media/press-releases/congressman-tim-moore-votes-pass-one-big-beautiful-bill) that threatens to trigger the very clause in NC's expansion law that would [end coverage for nearly 680,000 North Carolinians](https://www.wfae.org/health/2025-08-25/medicaid-expansion-helped-hundreds-of-thousands-in-nc-now-its-future-is-uncertain). He told constituents they should ["pay a little more"](https://www.charlotteobserver.com/news/politics-government/article311705979.html) for tariffed goods as North Carolina [lost 7,200 manufacturing jobs](https://www.carolinajournal.com/nc-loses-7200-manufacturing-jobs-says-nc-commerce/) — then privately [invested up to $245,000 betting against the economy](https://www.notus.org/congress/tim-moore-investment-russell-2000-index-trump-economy) he publicly champions, while [failing to disclose hundreds of thousands in stock trades](https://fortune.com/2025/06/16/tim-moore-stock-trades-liberation-day-disclosure/) made around Trump's tariff announcement.
+Tim Moore spent a decade as North Carolina House Speaker [blocking Medicaid expansion](https://www.wfae.org/health/2021-11-05/nc-house-speaker-tim-moore-explains-his-chambers-opposition-to-medicaid-expansion) that would have covered 600,000 uninsured North Carolinians, telling them ["the best thing that folks can do is to get a job"](https://www.wfae.org/health/2021-11-05/nc-house-speaker-tim-moore-explains-his-chambers-opposition-to-medicaid-expansion) — then [reversed course and took credit](https://www.npr.org/2023/03/28/1166422758/north-carolina-governor-signs-into-law-the-medicaid-expansion-bill) when expansion finally passed. Now in Congress, he voted for the [One Big Beautiful Bill](https://timmoore.house.gov/media/press-releases/congressman-tim-moore-votes-pass-one-big-beautiful-bill) that threatens to trigger the very clause in NC's expansion law that would [end coverage for nearly 680,000 North Carolinians](https://www.wfae.org/health/2025-08-25/medicaid-expansion-helped-hundreds-of-thousands-in-nc-now-its-future-is-uncertain). 
+
+He told constituents they should ["pay a little more"](https://www.charlotteobserver.com/news/politics-government/article311705979.html) for tariffed goods as North Carolina [lost 7,200 manufacturing jobs](https://www.carolinajournal.com/nc-loses-7200-manufacturing-jobs-says-nc-commerce/) — then privately [invested up to $245,000 betting against the economy](https://www.notus.org/congress/tim-moore-investment-russell-2000-index-trump-economy) he publicly champions, while [failing to disclose hundreds of thousands in stock trades](https://fortune.com/2025/06/16/tim-moore-stock-trades-liberation-day-disclosure/) made around Trump's tariff announcement.
 
 ### **HEALTH CARE: BLOCKED MEDICAID FOR A DECADE, THEN VOTED TO GUT IT**
 
