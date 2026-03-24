@@ -2,7 +2,7 @@
 title: Rep. Tony Wied (WI-08): Can't Be Trusted on Jobs and the Economy
 description: 
 published: false
-date: 2026-02-18T19:48:41.298Z
+date: 2026-03-24T21:29:43.321Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:53.026Z
@@ -10,7 +10,9 @@ dateCreated: 2026-02-18T19:18:53.026Z
 
 # Rep. Tony Wied (WI-08): Can't Be Trusted on Jobs and the Economy
 
-Tony Wied campaigned as a small business owner who would "bring jobs and manufacturing back" to Northeast Wisconsin, but his record in Congress tells a different story. Wied enthusiastically backed Trump's tariffs — which a Federal Reserve analysis found may have cost the economy 19,000 jobs per month and hit Wisconsin harder than any other state, with nearly 10% of the state's workforce in industries targeted by retaliatory tariffs. In Wied's own district, 240 workers at the Saputo cheese plant in Suamico lost their jobs, 93 shipbuilders at Marinette Marine were laid off after the Navy canceled a multi-billion-dollar frigate contract, and dairy farmers face $1–2 billion in projected losses from retaliatory tariffs on their largest export market. When Wisconsin Aluminum Foundry's CEO explained that tariffs were destroying demand and forcing layoffs, Wied doubled down, praising tariffs as "simple" — bring jobs back. Instead, the U.S. manufacturing sector lost jobs every single month after tariffs took effect. And the "Big Beautiful Bill" Wied voted for will make it even harder for working families: the CBO found it cuts incomes for the poorest 10% by 3.1% while boosting the richest 10% by 2.7%, and the Yale Budget Lab found that combined with tariffs, the bottom 10% of households lose about 7% of their income.
+Tony Wied campaigned as a small business owner who would "bring jobs and manufacturing back" to Northeast Wisconsin, but his record in Congress tells a different story. Wied enthusiastically backed Trump's tariffs — which a Federal Reserve analysis found may have cost the economy 19,000 jobs per month and hit Wisconsin harder than any other state, with nearly 10% of the state's workforce in industries targeted by retaliatory tariffs. In Wied's own district, 240 workers at the Saputo cheese plant in Suamico lost their jobs, 93 shipbuilders at Marinette Marine were laid off after the Navy canceled a multi-billion-dollar frigate contract, and dairy farmers face $1–2 billion in projected losses from retaliatory tariffs on their largest export market.
+
+When Wisconsin Aluminum Foundry's CEO explained that tariffs were destroying demand and forcing layoffs, Wied doubled down, praising tariffs as "simple" — bring jobs back. Instead, the U.S. manufacturing sector lost jobs every single month after tariffs took effect. And the "Big Beautiful Bill" Wied voted for will make it even harder for working families: the CBO found it cuts incomes for the poorest 10% by 3.1% while boosting the richest 10% by 2.7%, and the Yale Budget Lab found that combined with tariffs, the bottom 10% of households lose about 7% of their income.
 
 ### Promised To Bring Jobs Back — Then Backed Tariffs That Killed Them
 
