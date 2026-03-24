@@ -2,7 +2,7 @@
 title: Abe Hamadeh: Affordability
 description: Affordability and tariffs backup page
 published: true
-date: 2026-03-03T22:28:06.284Z
+date: 2026-03-24T13:51:02.913Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:32.761Z
@@ -10,7 +10,7 @@ dateCreated: 2026-02-18T18:24:32.761Z
 
 # Rep. Abe Hamadeh (AZ-08): Affordability
 
-Rep. Abe Hamadeh has championed tariff and trade policies that economists say function as a hidden tax on Arizona families, defended those tariffs even as Arizona businesses warned of devastating price increases, and voted for the One Big Beautiful Bill Act — which CBO found delivers its largest benefits to the wealthiest Americans while cutting food assistance for an estimated 73,000 Arizonans. Despite claiming the bill delivers "the largest tax cut for middle- and working-class Americans in history," CBO's distributional analysis found the poorest 30% of households would see a net loss, with the bottom 10% losing approximately $1,600 per year while the top 10% gain $12,000 per year. Meanwhile, Arizona families face higher grocery bills driven by tariffs on Mexican produce — which flows through the Nogales port of entry at 6.8 billion pounds annually — and small businesses across the state are warning that tariff-driven price hikes on everything from cars to home construction materials will squeeze household budgets for years to come.
+Rep. Abe Hamadeh has championed tariff and trade policies that economists say function as a hidden tax on Arizona families, defended those tariffs even as Arizona businesses warned of devastating price increases, and voted for the One Big Beautiful Bill Act — which CBO found delivers its largest benefits to the wealthiest Americans while cutting food assistance for an estimated 73,000 Arizonans. Despite claiming the bill delivers "the largest tax cut for middle and working-class Americans in history," CBO's distributional analysis found the poorest 30% of households would see a net loss, with the bottom 10% losing approximately $1,600 per year while the top 10% gain $12,000 per year. Meanwhile, Arizona families face higher grocery bills driven by tariffs on Mexican produce — which flows through the Nogales port of entry at 6.8 billion pounds annually — and small businesses across the state are warning that tariff-driven price hikes on everything from cars to home construction materials will squeeze household budgets for years to come.
 
 ### Defended Tariffs That Economists Call A Hidden Tax On Arizona Families
 
@@ -32,7 +32,7 @@ Rep. Abe Hamadeh has championed tariff and trade policies that economists say fu
 
 ### Voted For A Bill That CBO Found Benefits The Wealthy At The Expense Of The Poorest Americans
 
-**Hamadeh Voted For The One Big Beautiful Bill Act And Claimed It Delivered 'The Largest Tax Cut For Middle- And Working-Class Americans In History.'** According to a press release from Hamadeh's office, Hamadeh stated: "The One Big Beautiful Bill delivers the largest tax cut for middle- and working-class Americans in history and secures increases in paychecks and take-home pay for the hardworking families in Arizona's 8th Congressional District." [Hamadeh Press Release, [7/3/25](https://hamadeh.house.gov/media/press-releases/congressman-hamadeh-votes-one-big-beautiful-bill-keeping-pledge-constituents)]
+**Hamadeh Voted For The One Big Beautiful Bill Act And Claimed It Delivered 'The Largest Tax Cut For Middle And Working-Class Americans In History.'** According to a press release from Hamadeh's office, Hamadeh stated: "The One Big Beautiful Bill delivers the largest tax cut for middle- and working-class Americans in history and secures increases in paychecks and take-home pay for the hardworking families in Arizona's 8th Congressional District." [Hamadeh Press Release, [7/3/25](https://hamadeh.house.gov/media/press-releases/congressman-hamadeh-votes-one-big-beautiful-bill-keeping-pledge-constituents)]
 
 **CBO Found The Bill Hamadeh Voted For Would Increase Incomes For The Wealthiest 10% By 2.7% While Cutting Incomes For The Poorest 10% By 3.1%.** According to the Senate Budget Committee, CBO's distributional analysis estimated "the highest 10% of earners would see incomes rise by 2.7% by 2034 mainly due to tax cuts, while the lowest 10% would see incomes fall by 3.1% mainly due to cuts to programs such as Medicaid and food aid." The richest 10% would receive approximately $12,000 more per year, while the least affluent 10% would lose an average of $1,600 per year. [Senate Budget Committee, [8/11/25](https://www.budget.senate.gov/ranking-member/newsroom/press/merkley-cbo-confirms-big-beautiful-bill-benefits-the-wealthy-working-families-pay-the-price)]
 
