@@ -1,8 +1,8 @@
 ---
 title: Glenn Grothman
 description: 
-published: false
-date: 2026-03-25T12:33:03.615Z
+published: true
+date: 2026-03-25T13:15:19.938Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:08.931Z
