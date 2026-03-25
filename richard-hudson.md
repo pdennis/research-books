@@ -1,8 +1,8 @@
 ---
 title: Richard Hudson
 description: 
-published: false
-date: 2026-03-24T21:49:15.441Z
+published: true
+date: 2026-03-25T13:20:57.115Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:48.234Z
