@@ -1,8 +1,8 @@
 ---
 title: Lauren Boebert
 description: 
-published: false
-date: 2026-03-25T11:42:52.636Z
+published: true
+date: 2026-03-25T13:17:59.370Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:10:17.547Z
