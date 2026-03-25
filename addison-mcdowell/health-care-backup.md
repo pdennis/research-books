@@ -2,7 +2,7 @@
 title: Rep. Addison McDowell (NC-06): Can't Be Trusted on Health Care
 description: 
 published: false
-date: 2026-02-24T21:37:34.225Z
+date: 2026-03-25T11:33:07.924Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:40.669Z
@@ -10,7 +10,9 @@ dateCreated: 2026-02-18T18:56:40.669Z
 
 # Rep. Addison McDowell (NC-06): Can't Be Trusted on Health Care
 
->Rep. Addison McDowell worked as a lobbyist for Blue Cross Blue Shield of North Carolina until the day he announced his congressional campaign in December 2023, and since arriving in Washington he has voted to slash Medicaid by $1 trillion — putting more than 670,000 North Carolinians who gained coverage under Medicaid expansion at risk of losing it — while refusing to join the bipartisan effort to extend ACA subsidies whose expiration caused a 29% premium spike for his former employer's own customers. When NC Health News asked McDowell to share his positions on Medicare, prescription drug costs, Medicaid work requirements, rural hospital support, and other health care issues during the 2024 campaign, his campaign did not respond.
+Rep. Addison McDowell worked as a lobbyist for Blue Cross Blue Shield of North Carolina until the day he announced his congressional campaign in December 2023, and since arriving in Washington he has voted to slash Medicaid by $1 trillion — putting more than 670,000 North Carolinians who gained coverage under Medicaid expansion at risk of losing it — while refusing to join the bipartisan effort to extend ACA subsidies whose expiration caused a 29% premium spike for his former employer's own customers. When NC Health News asked McDowell to share his positions on Medicare, prescription drug costs, Medicaid work requirements, rural hospital support, and other health care issues during the 2024 campaign, his campaign did not respond.
+
+---
 
 ### Former Blue Cross Blue Shield Lobbyist
 
