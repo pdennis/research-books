@@ -1,8 +1,8 @@
 ---
-title: How To Win Against Daniel Webster
+title: Daniel Webster
 description: 
-published: false
-date: 2026-03-24T20:11:04.672Z
+published: true
+date: 2026-03-25T13:16:25.533Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:02:47.693Z
