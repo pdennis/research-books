@@ -1,8 +1,8 @@
 ---
 title: Victoria Spartz
 description: 
-published: false
-date: 2026-03-25T12:53:41.069Z
+published: true
+date: 2026-03-25T13:18:31.860Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:19:17.866Z
