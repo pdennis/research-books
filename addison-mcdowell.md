@@ -1,8 +1,8 @@
 ---
 title: How To Win Against Addison McDowell
 description: 
-published: false
-date: 2026-03-25T11:32:05.175Z
+published: true
+date: 2026-03-25T13:19:50.533Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:15.510Z
