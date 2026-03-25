@@ -1,8 +1,8 @@
 ---
 title: Virginia Foxx
 description: 
-published: false
-date: 2026-03-25T12:48:44.165Z
+published: true
+date: 2026-03-25T13:17:26.572Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:59.329Z
