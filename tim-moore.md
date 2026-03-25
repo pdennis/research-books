@@ -1,8 +1,8 @@
 ---
-title: How To Win Against Tim Moore
+title: Tim Moore
 description: 
 published: false
-date: 2026-03-24T19:02:55.011Z
+date: 2026-03-25T13:22:29.967Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:43.505Z
