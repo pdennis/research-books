@@ -1,8 +1,8 @@
 ---
-title: How To Win Against Tom McClintock
+title: Tom McClintock
 description: 
-published: false
-date: 2026-03-24T14:14:39.210Z
+published: true
+date: 2026-03-25T13:14:09.226Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:17:01.908Z
