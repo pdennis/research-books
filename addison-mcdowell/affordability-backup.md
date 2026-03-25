@@ -2,7 +2,7 @@
 title: Rep. Addison McDowell (NC-06): Can't Be Trusted on Affordability
 description: 
 published: false
-date: 2026-02-24T21:37:44.320Z
+date: 2026-03-25T11:34:30.743Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:24.308Z
@@ -10,8 +10,9 @@ dateCreated: 2026-02-18T18:56:24.308Z
 
 # Rep. Addison McDowell (NC-06): Can't Be Trusted on Affordability
 
->Rep. Addison McDowell told ABC News viewers to "trust the president" on tariffs — but those tariffs are now costing the average American household $1,300 a year, driving up grocery prices, and contributing to manufacturing layoffs in McDowell's own district. Meanwhile, McDowell voted for the One Big Beautiful Bill, which cut over $187 billion from SNAP — threatening food assistance for 1.4 million North Carolinians, including 600,000 children — while delivering its largest tax breaks to millionaires and billionaires. The bill also let ACA subsidies expire, causing a 29% premium spike that hit 800,000 North Carolinians, and shifted tens of millions in new SNAP administrative costs onto county governments already stretched thin. McDowell's district includes Guilford County, which ranks among the worst metro areas in the country for food insecurity — yet his votes have made groceries more expensive, health care less affordable, and food assistance harder to access for the families who need it most.
+Rep. Addison McDowell told ABC News viewers to "trust the president" on tariffs — but those tariffs are now costing the average American household $1,300 a year, driving up grocery prices, and contributing to manufacturing layoffs in McDowell's own district. Meanwhile, McDowell voted for the One Big Beautiful Bill, which cut over $187 billion from SNAP — threatening food assistance for 1.4 million North Carolinians, including 600,000 children — while delivering its largest tax breaks to millionaires and billionaires. The bill also let ACA subsidies expire, causing a 29% premium spike that hit 800,000 North Carolinians, and shifted tens of millions in new SNAP administrative costs onto county governments already stretched thin. McDowell's district includes Guilford County, which ranks among the worst metro areas in the country for food insecurity — yet his votes have made groceries more expensive, health care less affordable, and food assistance harder to access for the families who need it most.
 
+---
 ### Told Constituents to "Trust the President" on Tariffs — Then Tariffs Raised Prices
 
 **McDowell Told ABC News Viewers To "Trust The President" When Asked About Tariff Impacts.** According to ABC News, McDowell appeared on ABC News Live in May 2025 to discuss "President Donald Trump's first 100 days in office and tariff policy," defending the administration's trade agenda under the headline "Trust the president." [ABC News, [5/5/25](https://abcnews.go.com/Politics/video/trust-president-rep-addison-mcdowell-tariff-impacts-121479650)]
@@ -26,7 +27,7 @@ dateCreated: 2026-02-18T18:56:24.308Z
 
 ### Voted to Cut $187 Billion From Food Assistance
 
-**McDowell Voted For The One Big Beautiful Bill, Which Cut $187 Billion From SNAP Over The Next Decade — The Largest Cut To The Program In History.** According to the NC Institute of Medicine, the bill threatens food assistance for 1.4 million North Carolinians, including 600,000 children and 46,000 veterans. The law raised the work requirement age ceiling from 54 to 64 and eliminated exemptions for veterans, people experiencing homelessness, and former foster youth. [NCIOM, [Viewed 2/16/26](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/)]
+**McDowell Voted For The One Big Beautiful Bill, Which Cut $187 Billion From SNAP Over The Next Decade — The Largest Cut To The Program In History.** According to the NC Institute of Medicine, the bill threatens food assistance for 1.4 million North Carolinians, including 46,000 veterans. The law raised the work requirement age ceiling from 54 to 64 and eliminated exemptions for veterans, people experiencing homelessness, and former foster youth. [NCIOM, [Viewed 2/16/26](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/)]
 
 - **SNAP Benefits Already Failed To Cover Moderately Priced Meals In All 100 North Carolina Counties Before The Cuts.** According to the NC Institute of Medicine, SNAP benefit levels were already insufficient to cover the cost of moderately priced meals in every single North Carolina county as of 2024. [NCIOM, [Viewed 2/16/26](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/)]
 
@@ -45,10 +46,6 @@ dateCreated: 2026-02-18T18:56:24.308Z
 ### Cut Services For Working Families While Delivering Tax Breaks To The Wealthy
 
 **The One Big Beautiful Bill Gave The Richest 1% An Average Tax Cut Of More Than $50,000 While The Poorest 20% Got Just $110.** According to the Center for American Progress, the average family earning less than $50,000 received about $250 in tax cuts — less than $1 a day — while filers earning $1 million or more received over $100,000 in tax breaks. Households in the lowest income bracket lost about $1,200 annually after accounting for cuts to Medicaid and food assistance. [Center for American Progress, [Viewed 2/16/26](https://www.americanprogress.org/article/7-ways-the-big-beautiful-bill-cuts-taxes-for-the-rich/)]
-
-### Local Jobs Lost Amid Tariff Uncertainty
-
-**Unifi Closed Its Rockingham County Plant And Eliminated 250 Manufacturing Jobs, Citing Tariff-Driven Customer Uncertainty.** According to Business North Carolina, Greensboro-based Unifi announced it would close its 947,000-square-foot Madison plant — located in McDowell's district — after experiencing "delayed ordering patterns by major customers that wanted to wait and better assess how tariffs would impact global trading patterns." [Business North Carolina, [Viewed 2/16/26](https://businessnc.com/unifi-now-says-250-will-lose-jobs-when-rockingham-county-textile-plant-closes/)]
 
 ### Impact on Everyday People
 
