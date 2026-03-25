@@ -1,8 +1,8 @@
 ---
-title: How To Win Against Brad Knott
+title: Brad Knott
 description: 
-published: false
-date: 2026-03-24T17:20:14.157Z
+published: true
+date: 2026-03-25T13:23:26.614Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:59:23.079Z
