@@ -1,8 +1,8 @@
 ---
 title: Tim Moore
 description: 
-published: false
-date: 2026-03-25T13:22:29.967Z
+published: true
+date: 2026-03-25T13:22:43.148Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:15:43.505Z
