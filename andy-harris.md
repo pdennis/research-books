@@ -1,8 +1,8 @@
 ---
-title: How To Win Against Andy Harris
+title: Andy Harris
 description: 
 published: false
-date: 2026-03-25T12:41:24.495Z
+date: 2026-03-25T12:41:35.337Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:57:20.506Z
