@@ -1,8 +1,8 @@
 ---
-title: How To Win Against Tony Wied
+title: Tony Wied
 description: 
-published: false
-date: 2026-03-24T21:21:00.203Z
+published: true
+date: 2026-03-25T13:21:56.123Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:08.756Z
