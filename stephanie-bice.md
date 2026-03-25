@@ -1,8 +1,8 @@
 ---
 title: Stephanie Bice
 description: 
-published: false
-date: 2026-03-25T11:48:58.212Z
+published: true
+date: 2026-03-25T13:16:57.535Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:14:12.565Z
