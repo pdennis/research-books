@@ -2,7 +2,7 @@
 title: How To Win Against Glenn Grothman
 description: 
 published: false
-date: 2026-03-25T12:32:24.601Z
+date: 2026-03-25T12:32:36.630Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:08.931Z
@@ -54,6 +54,7 @@ He called Martin Luther King Jr. Day ["an insult" to taxpayers](https://www.poli
 ### **HOSTILITY TOWARD WOMEN: "MONEY IS MORE IMPORTANT FOR MEN"**
 
 Grothman [introduced a bill classifying single parenthood as a contributing factor to child abuse](https://healthland.time.com/2012/03/14/according-to-a-wisconsin-bill-single-moms-are-a-child-abuse-threat/), said single mothers ["expect government handouts"](https://madison.com/news/local/writers/todd_milewski/glenn-grothman-single-parents-getting-bribe-to-avoid-work-marriage/article_13356840-78b5-11e4-8a54-c375f6358e8d.html), and declared ["our country is not going to survive if we continue this war on men."](https://www.salon.com/2014/04/04/wisconsin_goper_running_for_u_s_house_our_country_is_not_going_to_survive_if_we_continue_this_war_on_men/)
+
 When shown data that college-educated women earn 80% as much as men, he responded, ["You could argue that money is more important for men"](https://www.politifact.com/article/2014/nov/17/conservative-congressman-elect-glenn-grothman-his-/) -- then [authored the repeal of Wisconsin's Equal Pay Act](https://captimes.com/news/local/govt-and-politics/capitol-report/capitol-report-short-lived-pay-equity-law-appears-headed-for-repeal/article_5c0ed33b-3111-53bb-bed2-4e2aff103070.html).
 
 **Message:** Glenn Grothman said "money is more important for men," repealed Wisconsin's Equal Pay Act, and introduced a bill labeling single parents as a child abuse risk.
