@@ -1,12 +1,12 @@
 ---
 title: Tenessee House Races
 description: 
-published: false
-date: 2025-12-27T04:19:34.196Z
+published: true
+date: 2026-03-26T22:48:08.251Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-06T21:41:38.136Z
 ---
 
-- [🤪*Andy Ogles*](/andy-ogles) Andy Ogles is vulnerable as a politician who raised costs and cut coverage—casting the deciding vote to strip Medicaid, backing tariffs and Medicare/Social Security cuts that threaten Tennessee jobs—while inflating his résumé, ducking an Epstein-files release, and drawing ethics and FBI scrutiny over campaign finances.
+- [🤪*Andy Ogles*](/andy-ogles) Andy Ogles is a corrupt politician who fabricated his resume and didn't believe the rules applied to him. Then, when he got to congress he voted to take Tennesseans' health care and food assinstance away and in support of price-raising tariffs.
 {.links-list}
