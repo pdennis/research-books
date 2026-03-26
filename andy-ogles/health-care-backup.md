@@ -1,8 +1,8 @@
 ---
-title: Rep. Andy Ogles (TN-05): Can't Be Trusted on Health Care
+title: Andy Ogles Gutted Tennesseans' Health Care
 description: 
 published: false
-date: 2026-02-18T19:37:27.904Z
+date: 2026-03-26T14:49:03.035Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:58:52.832Z
