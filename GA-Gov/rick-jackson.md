@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-03-26T14:56:04.151Z
+date: 2026-03-26T14:57:12.691Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -63,6 +63,7 @@ Georgia Republican gubernatorial candidate Rick Jackson stated that he did not d
 
 - [:hospital: | **Rick Jackson Opposed Medicaid Expansion And Aligned With Trump’s Devastating Health Care Policies**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-medicaid) 
 - [:apple: | **Rick Jackson Supported Stripping SNAP Benefits From Georgia Families**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-food)
+- [:shopping_cart: | **Rick Jackson Celebrated How Trump's Tariffs Grew His Wealth**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-tariffs)
 - [:woman: | **Rick Jackson Was An Anti-Abortion Extremist**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-abortion)
 {.links-list}
 
