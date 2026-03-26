@@ -1,8 +1,8 @@
 ---
-title: Rep. Andy Ogles (TN-05): Can't Be Trusted on Affordability
+title: Andy Ogles Voted For Tariffs That Raised Costs On Tennesseans
 description: 
 published: false
-date: 2026-02-18T19:37:12.900Z
+date: 2026-03-26T14:58:23.904Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:58:30.820Z
