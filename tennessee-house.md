@@ -1,8 +1,8 @@
 ---
-title: Tenessee House Races
+title: Tennessee House Races
 description: 
 published: true
-date: 2026-03-26T22:48:49.773Z
+date: 2026-03-26T22:49:17.072Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-06T21:41:38.136Z
