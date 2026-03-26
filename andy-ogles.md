@@ -1,8 +1,8 @@
 ---
-title: Andy Ogles
+title: Andy Ogles (TN-05)
 description: 
-published: false
-date: 2026-03-26T22:35:35.423Z
+published: true
+date: 2026-03-26T22:37:06.086Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T18:36:23.509Z
