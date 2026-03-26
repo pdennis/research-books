@@ -2,7 +2,7 @@
 title: Andy Ogles
 description: 
 published: false
-date: 2026-02-19T03:57:58.577Z
+date: 2026-03-26T14:48:20.325Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T18:36:23.509Z
@@ -66,16 +66,22 @@ When [confronted by a reporter in 2023](https://www.newschannel5.com/news/newsch
 
 # Issue Back-Ups
 
-## Policies That Hurt Everyday People
-- [:hospital: *Ogles Gutted Health Care Protections His Constituents Depend On*](/andy-ogles/health-care-backup)
-- [:shopping_cart: *Ogles Voted For Tariffs And Policies That Raised Costs Across Nashville*](/andy-ogles/affordability-backup)
+## Andy Ogles' Votes Hurt Everyday Tennesseans
+- [:hospital: *Ogles Gutted Health Care Tennesseans Depend On*](/andy-ogles/health-care-backup)
+- [:older_man: *Ogles' Actions Threatened Social Security And Medicare*](/andy-ogles/seniors)
+- [:shopping_cart: *Ogles Voted For Tariffs That Raised Costs Across Nashville*](/andy-ogles/affordability-backup)
+- [:carrot: *Ogles Voted To Cut Food Assistance Tennesseans Rely On To Afford Groceries*](/andy-ogles/SNAP)
+- [:woman: *Ogles Supported Abortion Bans That Endangered Tennessee Women*](/andy-ogles/choice)
 - [:briefcase: *Ogles's Votes Slowed Tennessee's Economy And Killed Jobs*](/andy-ogles/jobs-economy-backup)
 
 {.links-list}
 
-## Personal and Character Vulnerabilities
-- [:eyes: *Ogles Fabricated His Resume And Professional Credentials*](/andy-ogles/resume-fabrication)
-- [:grimacing: *Ogles Fabricated A \$320,000 Campaign Loan And Faces An FBI Investigation*](/andy-ogles/campaign-finance-fraud)
-- [:house: *Ogles Lives In Donor's Multimillion Dollar House With Speaker Johnson*](/andy-ogles/unusual-living-situation)
-- [:dollar: *Rep. Andy Ogles Raised Nearly \$25,000 For A Children's Burial Garden Using A Photo Of His Stillborn Baby — Then Kept The Money And Never Built It*](/andy-ogles/andy-ogles-gofundme-fraud)
+## Andy Ogles Used His Power To Benefit Himself And The Powerful
+- [:necktie: *Ogles Fabricated His Resume And Professional Credentials*](/andy-ogles/resume-fabrication)
+- [:grimacing: *Ogles Fabricated A $320,000 Campaign Loan And Faced An FBI Investigation*](/andy-ogles/campaign-finance-fraud)
+- [:memo: *Ogles Filed Incomplete And Innaccurate Personal Financial Disclosures*](/andy-ogles/PFDs)
+- [:money_with_wings: *Ogles Failed To Pay His Taxes On Time Multiple Times*](/andy-ogles/ogles-taxes)
+- [:house: *Ogles Might Live In A Donor's Multimillion Dollar House With Speaker Johnson*](/andy-ogles/unusual-living-situation)
+- [:dollar: *Rep. Andy Ogles Raised Nearly $25,000 For A Children's Burial Garden Using A Photo Of His Stillborn Baby — Then Kept The Money And Never Built It*](/andy-ogles/andy-ogles-gofundme-fraud)
+- [:eyes: *Despite Advocating For Their Release, Ogles Took 11 Months To Vote To Release The Epstein Files*](/andy-ogles/epstein)
 {.links-list}
