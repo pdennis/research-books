@@ -2,7 +2,7 @@
 title: Andy Ogles
 description: 
 published: false
-date: 2026-03-26T14:48:20.325Z
+date: 2026-03-26T15:11:56.262Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T18:36:23.509Z
@@ -72,8 +72,6 @@ When [confronted by a reporter in 2023](https://www.newschannel5.com/news/newsch
 - [:shopping_cart: *Ogles Voted For Tariffs That Raised Costs Across Nashville*](/andy-ogles/affordability-backup)
 - [:carrot: *Ogles Voted To Cut Food Assistance Tennesseans Rely On To Afford Groceries*](/andy-ogles/SNAP)
 - [:woman: *Ogles Supported Abortion Bans That Endangered Tennessee Women*](/andy-ogles/choice)
-- [:briefcase: *Ogles's Votes Slowed Tennessee's Economy And Killed Jobs*](/andy-ogles/jobs-economy-backup)
-
 {.links-list}
 
 ## Andy Ogles Used His Power To Benefit Himself And The Powerful
