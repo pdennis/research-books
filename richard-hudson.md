@@ -1,8 +1,8 @@
 ---
-title: Richard Hudson
+title: Richard Hudson (NC-09)
 description: 
 published: true
-date: 2026-03-27T15:30:58.395Z
+date: 2026-03-27T15:49:06.707Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:48.234Z
