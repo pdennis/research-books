@@ -1,8 +1,8 @@
 ---
 title: How to Win Against Aaron Bean
 description: 
-published: false
-date: 2026-02-24T23:12:54.366Z
+published: true
+date: 2026-03-27T16:13:24.960Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T16:22:59.800Z
