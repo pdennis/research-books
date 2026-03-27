@@ -2,7 +2,7 @@
 title: How to Win Against Laurel Lee (FL-15)
 description: 
 published: false
-date: 2026-03-27T16:40:02.730Z
+date: 2026-03-27T17:05:01.612Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-23T14:58:21.008Z
@@ -71,17 +71,17 @@ Laurel Lee has made life harder for Floridians in the 15^th^ congressional distr
 # Issue Briefs
 
 ## Laurel Lee's Votes Hurt Every Day Floridians
-- [:hospital: *Lee Voted For Devastating Health Care Cuts*](laurel-lee/medicaid)
-- [:older_man: *Lee Was A Threat To Social Security And Medicare*](laurel-lee/seniors)
-- [:carrot: *Lee Voted To Cut Food Assistance Floridians Rely On To Afford Groceries*](laurel-lee/snap)
-- [:shopping_cart: *Lee Voted To Protect Tariffs That Raised Prices On Floridians*](laurel-lee/tariffs)
-- [:woman: *Lee Supported Abortion Bans That Endangered Floridians*](laurel-lee/choice)
+- [:hospital: *Lee Voted For Devastating Health Care Cuts*](https://research-books.com/en/laurel-lee/medicaid)
+- [:older_man: *Lee Was A Threat To Social Security And Medicare*](https://research-books.com/en/laurel-lee/seniors)
+- [:carrot: *Lee Voted To Cut Food Assistance Floridians Rely On To Afford Groceries*](https://research-books.com/en/laurel-lee/snap)
+- [:shopping_cart: *Lee Voted To Protect Tariffs That Raised Prices On Floridians*](https://research-books.com/en/laurel-lee/tariffs)
+- [:woman: *Lee Supported Abortion Bans That Endangered Floridians*](https://research-books.com/en/laurel-lee/choice)
 {.links-list}
 ## Laurel Lee Used Her Power To Benefit Herself And The Powerful
-- [:eyes: *It Took Lee 11 Months To Vote To Release The Epstein Files*](laurel-lee/epstein)
-- [:ballot_box_with_check: *Lee Defended Controversial Florida Election Laws*](laurel-lee/sos)
-- [:money_with_wings: *Lee Misled Floridians About Her Family's Investment In A Chinese Company*](laurel-lee/china)
+- [:eyes: *It Took Lee 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/laurel-lee/epstein)
+- [:ballot_box_with_check: *Lee Defended Controversial Florida Election Laws*](https://research-books.com/en/laurel-lee/sos)
+- [:money_with_wings: *Lee Misled Floridians About Her Family's Investment In A Chinese Company*](https://research-books.com/en/laurel-lee/china)
 {.links-list}
 # Key Votes
-- [:white_check_mark: *Lee's Key Votes In Congress*](laurel-lee/votes)
+- [:white_check_mark: *Lee's Key Votes In Congress*](https://research-books.com/en/laurel-lee/votes)
 {.links-list}
