@@ -2,7 +2,7 @@
 title: Andy Ogles (TN-05)
 description: 
 published: true
-date: 2026-03-26T22:37:06.086Z
+date: 2026-03-27T15:21:03.394Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T18:36:23.509Z
@@ -125,4 +125,8 @@ Andy Ogles is just another corrupt politician who doesn’t think the rules appl
 - [:house: *Ogles Might Live In A Donor's Multimillion Dollar House With Speaker Johnson*](/andy-ogles/unusual-living-situation)
 - [:dollar: *Rep. Andy Ogles Raised Nearly $25,000 For A Children's Burial Garden Using A Photo Of His Stillborn Baby — Then Kept The Money And Never Built It*](/andy-ogles/andy-ogles-gofundme-fraud)
 - [:eyes: *Despite Advocating For Their Release, Ogles Took 11 Months To Vote To Release The Epstein Files*](/andy-ogles/epstein)
+{.links-list}
+
+# Key Votes
+- [:white_check_mark: *Ogles' Key Votes In Congress*](/andy-ogles/votes)
 {.links-list}
