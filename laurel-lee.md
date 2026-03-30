@@ -2,7 +2,7 @@
 title: How to Win Against Laurel Lee (FL-15)
 description: 
 published: false
-date: 2026-03-30T22:39:12.877Z
+date: 2026-03-30T22:53:06.644Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-23T14:58:21.008Z
@@ -72,7 +72,7 @@ Laurel Lee has made life harder for Floridians in the 15^th^ congressional distr
 
 ## Laurel Lee's Votes Hurt Every Day Floridians
 - [:hospital: *Lee Voted For Devastating Health Care Cuts*](https://research-books.com/en/laurel-lee/medicaid)
-- [:older_man: *Lee Was A Threat To Social Security And Medicare*](https://research-books.com/en/laurel-lee/seniors)
+- [:older_man: *Lee Supported Policies That Threatened Social Security And Medicare*](https://research-books.com/en/laurel-lee/seniors)
 - [:carrot: *Lee Voted To Cut Food Assistance Floridians Rely On To Afford Groceries*](https://research-books.com/en/laurel-lee/snap)
 - [:shopping_cart: *Lee Voted To Protect Tariffs That Raised Prices On Floridians*](https://research-books.com/en/laurel-lee/tariffs)
 - [:woman: *Lee Supported Abortion Bans That Endangered Floridians*](https://research-books.com/en/laurel-lee/choice)
