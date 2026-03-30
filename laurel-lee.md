@@ -2,7 +2,7 @@
 title: How to Win Against Laurel Lee (FL-15)
 description: 
 published: false
-date: 2026-03-27T17:05:01.612Z
+date: 2026-03-30T22:39:12.877Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-23T14:58:21.008Z
@@ -55,7 +55,7 @@ Laurel Lee has made life harder for Floridians in the 15^th^ congressional distr
 
 **Message:** Lee voted to protect the accused pedophiles named in the Epstein files until Trump signaled it was okay to vote to release the files. 
 
-### Lee Endorsed Controversial Florida Election Laws
+### Lee Defended Controversial Efforts To Change Florida Election Laws
 
 -   As the Florida Secretary of State, Lee was [named](https://www.forbes.com/sites/alisondurkee/2021/05/06/civil-rights-groups-sue-florida-moments-after-desantis-signs-voter-suppression-bill-into-law/) in a lawsuit after Governor Ron DeSantis signed a law that placed new restrictions on mail-in voting and ballot drop boxes. She [tried](https://www.cbsnews.com/miami/news/florida-secretary-state-lee-elections-lawsuit/) to get the case thrown out claiming the plaintiff lodged a weak allegation and there was no reason for her to be a defendant, but a judge [rejected](https://subscriber.politicopro.com/article/2021/12/20/federal-judge-rejects-bid-to-scuttle-voting-rights-lawsuit-against-florida-1401981) her claim given her role in overseeing Florida elections. The law was later [blocked](https://www.politico.com/newsletters/playbook-pm/2022/03/31/advocates-applaud-bidens-transgender-policy-moves-00022060) by a federal judge who ruled it violated the Voting Rights Act. 
 -   Lee later [defended](https://www.wusf.org/courts-law/2022-05-10/florida-fires-back-at-plaintiffs-in-a-redistricting-lawsuit) a controversial Congressional redistricting plan that sought to redraw the district of Rep. Al Lawson, a Black Democrat, under claims that it was unconstitutionally gerrymandered. Voting rights groups argued a plan to redistrict violated a 2010 Florida constitutional amendment that sought to protect the voices of minority voters. In July 2025, the Florida Supreme Court [sided](https://floridaphoenix.com/2025/07/17/florida-supreme-court-upholds-congressional-district-maps/) with Governor DeSantis’ redistricting proposal. 
