@@ -2,7 +2,7 @@
 title: María Elvira Salazar (FL-27)
 description: 
 published: false
-date: 2026-03-30T23:03:39.397Z
+date: 2026-03-30T23:06:34.316Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T21:05:15.089Z
@@ -63,7 +63,7 @@ Salazar was willing to go against her own word and ignore her constituents to pl
 
 ### Salazar Had A History Of Campaign Finance Violations
 
--   In 2021, the Federal Election Commission (FEC) sent Salazar [letters](https://www.floridabulldog.org/2024/11/fec-finds-ex-campaign-treasurer-for-u-s-rep-salazar-reckless/?utm_source=chatgpt.com) warning her that her campaign finance reports were full of violations. The FEC [found](https://www.floridabulldog.org/2021/09/fec-slaps-salazar-campaign-accepting-illegal-contributions/) that Salazar had accepted excessive contributions above the legal limit and had failed to disclose the proper identifying information of her donors. In 2024, it was revealed that Salazar used the same campaign treasurer as George Santos and her committees had misreported campaign finance totals by [$2 million](https://www.floridabulldog.org/2024/11/fec-finds-ex-campaign-treasurer-for-u-s-rep-salazar-reckless/?utm_source=chatgpt.com). Three committees connected to Salazar were fined [$22,800](https://www.floridabulldog.org/2024/11/fec-finds-ex-campaign-treasurer-for-u-s-rep-salazar-reckless/?utm_source=chatgpt.com) after self-reporting the errors.
+-   In 2021, the Federal Election Commission (FEC) sent Salazar [letters](https://www.floridabulldog.org/2024/11/fec-finds-ex-campaign-treasurer-for-u-s-rep-salazar-reckless/?utm_source=chatgpt.com) warning her that her campaign finance reports were full of violations. The FEC [found](https://www.floridabulldog.org/2021/09/fec-slaps-salazar-campaign-accepting-illegal-contributions/) that Salazar had accepted excessive contributions above the legal limit and had failed to disclose the proper identifying information of her donors. In 2024, it was revealed that Salazar used the same campaign treasurer as George Santos and her committees had [misreported](https://www.floridabulldog.org/2024/11/fec-finds-ex-campaign-treasurer-for-u-s-rep-salazar-reckless/) campaign finance totals by $2 million. Three committees connected to Salazar were fined [$22,800](https://www.floridabulldog.org/2024/11/fec-finds-ex-campaign-treasurer-for-u-s-rep-salazar-reckless/) after self-reporting the errors.
 
 **Message:** Salazar can’t be trusted to oversee trillions of dollars in taxpayer money when she can hardly keep her own campaign finances in check.
 
