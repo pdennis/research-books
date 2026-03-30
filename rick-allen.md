@@ -2,7 +2,7 @@
 title: Rick Allen (GA-12)
 description: 
 published: false
-date: 2026-03-30T23:39:46.850Z
+date: 2026-03-30T23:48:07.733Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T23:38:54.057Z
@@ -75,3 +75,23 @@ Rick Allen has spent his time in Congress fighting to make Georgians’ lives ha
 -   Allen was found to have violated the STOCK Act at least three times since taking office. In 2021 he [failed](https://www.salon.com/2021/09/29/four-more-reps-under-scrutiny-for-potential-stock-trading-violations/) to disclose stock trades up to $200,000, and then in June 2023 [failed](http://rawstory.com/raw-investigates/maria-elvira-salazar-stock-act/) to disclose a trade his wife made worth up to $250,000. In August 2023, [it was exposed](https://www.rawstory.com/georgia-politics-congress-stock-act/) that Allen had failed to report trades dating back to 2017 and worth up to $8.56 million
 
 **Message:** Allen is just another out-of-touch swamp creature.
+
+# Issue Briefs
+
+## Rick Allen Supported Policies That Hurt Everyday Georgians
+- [:hospital: *Allen Voted To Take Health Care From Georgians*](https://research-books.com/en/rick-allen/health-care)
+- [:older_man: *Allen Supported Policies That Threatened Services Seniors Relied On*](https://research-books.com/en/rick-allen/seniors)
+- [:carrot: *Allen Voted To Cut Food Assistance Georgians Relied On To Afford Groceries*](https://research-books.com/en/rick-allen/snap)
+- [:shopping_cart: *Allen Voted To Protect Tariffs That Raised Prices On Georgians*](https://research-books.com/en/rick-allen/tariffs)
+- [:x: *Allen Supported An Agency That Laid Off Federal Workers And Hamstrung Social Security*](https://research-books.com/en/rick-allen/doge)
+- [:woman: *Allen's Extreme Anti-Choice Views Endangered Georgia Women*](https://research-books.com/en/rick-allen/choice)
+- [:eyes: *Allen's Vehement Opposition To LGBTQ+ Rights Could Put Georgians At Risk*](https://research-books.com/en/rick-allen/lgbtq)
+{.links-list}
+## Rick Allen Used His Power To Protect The Powerful And Himself
+- [:eyes: *It Took Allen 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/rick-allen/epstein)
+- [:ballot_box_with_check: *Allen's 2020 Election Conspiracies Went So Deep He Texted Mark Meadows About Them*](https://research-books.com/en/rick-allen/elections)
+- [:moneybag: *Allen Was Accused Of Violating The STOCK Act Multiple Times*](https://research-books.com/en/rick-allen/stocks)
+{.links-list}
+# Key Votes
+- [:white_check_mark: *Allen's Key Votes In Congress*](https://research-books.com/en/rick-allen/votes)
+{.links-list}
