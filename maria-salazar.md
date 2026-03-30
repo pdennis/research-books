@@ -1,112 +1,80 @@
 ---
-title: María Salazar
+title: María Elvira Salazar (FL-27)
 description: 
 published: false
-date: 2025-12-27T04:17:45.964Z
+date: 2026-03-30T22:53:28.042Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T21:05:15.089Z
 ---
 
-# María Salazar
+# How To Win Against Maria Elvira Salazar 
 
+Salazar was willing to go against her own word and ignore her constituents to please national party leaders instead of doing what was right for FL-27. Salazar voted for a bill that would kick 17 million Americans off their health insurance, which threatened the health care of more than 99,000 Floridians in her district. She went against her own beliefs and voted against a bill allowing the government to negotiate lower costs of prescription drugs for the seniors in her district. She voted to gut Medicare after claiming she would not take a single dollar away from Medicare. When DOGE and Trump administration cuts weakened the Social Security Administration, she said nothing as seniors in her district faced barriers to accessing their own benefits. Salazar was even the deciding vote to protect Trump’s tariffs as Floridians faced increased prices and a $1,000 tax increase. In 2020, she criticized her campaign opponent for violating the STOCK Act, then she was elected to congress and went on to violate the act a couple of times herself. Salazar again proved untrustworthy when she attempted to take credit for funding that went to her district even though she voted against the bills that appropriate that money. Salazar can’t be trusted to do what is right for FL-27.
 
+### salazar Voted To Kick more than 99,000 floridians Off Their Health Insurance
 
-## Overview
+-   Salazar voted for a bill that would kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including nearly [12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off of Medicaid. As a result of her vote, [99,476 of her own constituents](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health insurance.
+-   Salazar has [supported](https://www.miamiherald.com/news/local/community/miami-dade/article219053620.html) repealing the Affordable Care Act. Despite [promising](https://mariaelvirasalazar.com/issues/) to stand up for Floridians’ access to affordable health care, Salazar’s vote to extend enhanced premium tax credits came too late and premiums costs spiked for Floridians in 2026. The [4.7 million Floridians](https://www.kff.org/affordable-care-act/state-indicator/marketplace-enrollment/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) who rely on the ACA for health insurance won’t forget her failure to stand up to national Republican in time. 
 
-María Elvira Salazar is a Cuban-American politician, journalist, and the current U.S. Representative for Florida's 27th Congressional District, serving since 2021. Born and raised in Miami to Cuban exile parents, Salazar built her reputation as a prominent Spanish-language news anchor before launching her political career. She won her congressional seat in a competitive 2020 race, flipped the district from Democrat to Republican, and has since been re-elected with increasing margins. In Congress, Salazar is known for her hardline anti-socialism messaging, active engagement in Hispanic and immigrant issues, vocal foreign policy stances---especially on Cuba and Latin America---and a mix of bipartisan and controversial votes. Her district is one of Florida's most diverse and competitive, covering much of Miami and its surroundings, and economic and kitchen-table issues remain highly salient for her constituents.
+**Message:** Salazar voted to rip away health care from thousands of Floridians all to fund billionaire tax breaks. 
 
-## Political Vulnerabilities
+### Salazar Voted For Medicare Cuts After Claiming Republicans Would Not Take A Single Dollar AWAY From Medicare
 
-The following sections identify central vulnerabilities in María Salazar's political record and public service, supported by evidence and taking into account major economic and "kitchen table" issues affecting her competitive South Florida district.
+-   Salazar [promised](https://x.com/MaElviraSalazar/status/1616851052602466306) not to take “a single dollar” away from Medicare. Then, she [voted](http://clerk.house.gov/evs/2025/roll145.xml) for the Big Beautiful Bill, which the Congressional Budget Office estimated would trigger more than [$500 billion](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf) in cuts to Medicare absent future congressional action. 
+-   Salazar supported DOGE while it weakened the Social Security Administration and said she was [“very proud”](https://x.com/RepMariaSalazar/status/1858998894665101542) to join the Congressional DOGE Caucus. At the same time, DOGE cuts to the Social Security Administration had forced [mass layoffs](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/), [longer wait times](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) and frequent [website crashes](https://www.washingtonpost.com/politics/2025/03/25/social-security-phones-doge-cuts/). There were [135,717](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/fl.pdf) Floridians in the 27th congressional district who relied on Social Security benefits and [6,000 Floridians](https://www.americanprogress.org/article/thousands-of-workers-in-each-congressional-district-could-lose-their-jobs-to-doge/) who were employed by the federal government.
 
-### Vulnerability 1: Economic Trust, "Kitchen Table" Issues, and Hypocrisy on Federal Funding
+**Message:** Salazar voted to cut Medicare after claiming she wouldn’t and was “proud” of the Trump administration threatening services Florida seniors relied on. 
 
--   **Vote-Opposition/Claiming Credit for District Funding**\
-    Salazar voted against major bipartisan economic initiatives, including the Infrastructure Investment and CHIPS Acts, yet promoted the resulting funds and projects as her achievements in the district. This has drawn local criticism and accusations of hypocrisy ([Independent](https://www.independent.co.uk/news/world/americas/us-politics/maria-elvira-salazar-florida-republican-b2486909.html); [Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6D5F-FW61-DYJM-M087-00000-00&context=1519360)).
+### Salazar Voted Against Lowering The Cost Of Prescription Drugs For Seniors, Going Against Her Own Beliefs
 
--   **Mixed Messaging on Health Care and Social Safety Net**\
-    Though Salazar now claims to support Medicaid/Obamacare retention and opposes "inhumane" cuts, she previously campaigned to repeal the Affordable Care Act and voted against key cost-lowering reforms ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:616X-WYD1-DYJM-M1BN-00000-00&context=1519360); [South Florida Sun-Sentinel](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6182-2TF1-JBM5-R1SX-00000-00&context=1519360)). Her changing positions could cause trust issues among moderate swing voters for whom affordable healthcare and economic stability are critical.
+-   In [2021](https://web.archive.org/web/20210309020543/https:/mariaelvirasalazar.com/issues/) and [2022](https://web.archive.org/web/20220729021017/https:/mariaelvirasalazar.com/issues/), and even [still to this day](https://mariaelvirasalazar.com/issues/), Salazar claimed she [supported](https://mariaelvirasalazar.com/issues/) the government negotiating lower drug prices, but she [voted](http://clerk.house.gov/evs/2022/roll420.xml) against the Inflation Reduction Act in 2022, which [allowed](https://www.washingtonpost.com/us-policy/2022/08/07/senate-inflation-reduction-act-climate/) the government to negotiate lower drug prices for Medicare beneficiaries. In 2021, she also [voted](http://clerk.house.gov/evs/2021/roll385.xml) against an effort to allow HHS to negotiate the cost of insulin and other drugs. 
 
--   **Financial Stewardship and Transparency Concerns**\
-    Salazar has faced campaign finance scrutiny, including FEC warnings over disclosure violations, reporting errors, and acceptance of donations from controversial sources ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6135-WG61-DYJM-M1SV-00000-00&context=1519360); [Florida Bulldog](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6DCY-YFD1-DXVP-T4SN-00000-00&context=1519360)). Her personal financial troubles, including default on multi-million-dollar mortgages, further create doubts about her economic judgment ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:5TC6-DW71-JC3J-X046-00000-00&context=1519360)).
+**Message:** Salazar went against her own word and betrayed Florida seniors who are paying too much out of pocket for life-saving prescription drugs.
 
-### Vulnerability 2: Social Issues---Abortion, LGBTQ Rights, and Alienating Diverse Coalitions {#vulnerability-2-social-issuesabortion-lgbtq-rights-and-alienating-diverse-coalitions .unnumbered}
+### Salazar VOTED for the largest food assistance cut in history
 
--   **Anti-Abortion Record, Avoidance and** "**Culture War**" **Positions**\
-    Salazar holds a strong anti-abortion voting record, celebrates Roe v. Wade's overturning, and voted to restrict access to reproductive care, including for military service members and with ambiguity about rape or incest exceptions ([Palm Beach Post](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BRH-SHN1-JB1V-G142-00000-00&context=1519360); [Miami Times](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:66W0-54F1-JBHT-D2MT-00000-00&context=1519360)). In a diverse, competitive district, such positions risk alienating moderates, independents, and women.
+-   Salazar [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Her vote threatened food assistance for over [51,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) in the 27^th^ congressional district. 
 
--   **Inconsistent Record on LGBTQ Rights**\
-    Salazar voted against the federal Equality Act and changed her vote on marriage equality protections, moving from support to opposition over "religious liberty," drawing criticism for inconsistency ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6724-JGF1-DYJM-M2F3-00000-00&context=1519360)). Public commitments to the LGBTQ community have been undermined by these actions.
+**Message:** Salazar voted to cut food assistance to fund tax breaks for billionaires. 
 
--   **Rhetoric Alienating Minority and Progressive Groups**\
-    Strong opposition to "Latinx" and accusations linking BLM and Democrats to socialism play well with certain bases but can be perceived as divisive or out-of-touch by younger, progressive, and non-Cuban Hispanics ([NBC - 8 WFLA](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:683X-6FD1-DXVP-T44K-00000-00&context=1519360)). Voting against removing Confederate symbols and civil rights legislation raises further questions for minority voters ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:631S-DFN1-JC3J-X0JF-00000-00&context=1519360)).
+### Salazar Backed Trump’s Tariffs that raised prices on floridians
 
-### Vulnerability 3: Weaknesses on Community Engagement and Local Issues
+-   Salazar defended Trump’s tariffs claiming: [“I am sure that it is going to be beautiful in the end.”](https://floridianpress.com/2025/04/salazar-says-tariff-negotiations-will-be-beautiful-in-the-end-as-negotiations-continue/) Then, she voted six times to protect the tariffs, including in April 2025 when she was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Florida families who relied on her to a trade war and [spooking](https://www.alligator.org/article/2025/04/florida-faces-trump-administration-tariffs) businesses. Meanwhile, Trump’s tariffs were increasing prices for [Floridians](https://www.wusf.org/politics-issues/2025-07-13/trump-tariffs-have-florida-experts-concerned-about-rising-costs) and [hurting Florida’s tourism revenue](https://www.palmbeachpost.com/story/news/2025/10/13/tariffs-food-prices-make-bad-start-florida-holiday-season-tourism/85935708007/).
 
--   **Perception of Hardline Partisanship over Local Action**\
-    Critics---including some former opponents and community leaders---have accused Salazar of prioritizing anti-communist messaging and political theater over direct problem-solving on local economic, insurance, and affordability concerns ([Miami Herald Editorial](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6CR3-53G1-JC3J-X189-00000-00&context=1519360); [Islander News](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6BF1-S9S1-DXVP-T559-00000-00&context=1519360)).
+**Message:** Salazar was the deciding vote to make Floridians pay higher prices. 
 
--   **Gaps with Certain Demographic Groups**\
-    Salazar's engagement with Black communities and some immigrant groups has been criticized as sparse, with local voices noting she attends few events outside Cuban-American or Republican settings ([Miami Times](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:66W0-54F1-JBHT-D2MT-00000-00&context=1519360)).
+### **Salazar supported Restricting Reproductive Freedom In Florida**
 
--   **Home Insurance, Disaster Relief, and Affordability**\
-    In a district increasingly affected by Florida's insurance insecurity and post-disaster vulnerability, Salazar's focus on broader ideological battles rather than sustained advocacy for affordable insurance, housing, and disaster recovery may become a salient attack line if economic anxieties worsen ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:64YY-5S51-JC3J-X190-00000-00&context=1519360)).
+-   Salazar [praised](https://x.com/MaElviraSalazar/status/1540345502054621186) the Supreme Court’s decision to overturn Roe v. Wade, which led to Florida instituting a near-total abortion ban. She further demonstrated her support for restricting abortion access by [voting against](http://clerk.house.gov/evs/2022/roll362.xml) protecting patients who needed to [travel across state lines](https://www.washingtonpost.com/politics/2022/07/15/house-abortion-roe-v-wade/) to receive reproductive care. She also voted against [codifying the right to choose at the national level](https://www.nytimes.com/2022/07/15/us/politics/house-passes-abortion-access-bills.html). She later [refused](https://www.miamiherald.com/news/politics-government/article293713594.html) to state her position on a Florida constitutional amendment that sought to protect the right to choose – which [57 percent of Floridians](https://www.npr.org/2024/11/09/nx-s1-5183891/floridas-amendment-to-protect-abortion-rights-fell-short-of-passing-by-just-3-votes) supported. 
 
-### Vulnerability 4: Inconsistencies, Communication, and Policy Depth {#vulnerability-4-inconsistencies-communication-and-policy-depth .unnumbered}
+**Message:** Salazar was an anti-choice extremist who voted to restrict women’s reproductive freedom. 
 
--   **Frequently Shifting or Avoided Positions**\
-    Salazar has sometimes switched votes, delayed statements on controversial issues (notably abortion and marriage equality), or contradicted herself in high-profile policy settings, including on international affairs and gun safety ([Miami Herald editorial](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6519-HK31-DYJM-M38R-00000-00&context=1519360)).
+### salazar’s stance on cuba has come under scrutiny during her time running for public office
 
--   **Election Integrity and Misinformation**\
-    She repeated false 2020 election claims in Spanish-language media, despite ultimately voting to certify the results---leaving her vulnerable to charges of fueling distrust ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:66N1-XCD1-DYJM-M0P7-00000-00&context=1519360)).
+-   In 2023, Salazar [criticized the Biden administration](https://x.com/MaElviraSalazar/status/1731497525243199619) for not being tough enough on Cuba. In 2022, Salazar received [$750 in campaign donations](https://www.politico.com/newsletters/playbook/2023/12/06/biden-and-trump-get-candid-00130314) from an alleged Cuban spy arrested by the U.S. government. Salazar’s campaign spokesperson claimed she planned to [return the money](https://www.politico.com/newsletters/playbook/2023/12/06/biden-and-trump-get-candid-00130314) and said she had no personal relationship with the suspected spy. She was the [only candidate](https://www.washingtonpost.com/national-security/2023/12/04/ambassador-cuba-spy-manuel-rocha/) he had donated to that year. 
+-   In 2018, Salazar faced criticism for a 20-year-old interview she had conducted with Fidel Castro that resurfaced. She responded by claiming the video was [manipulated](https://www.news-journalonline.com/story/news/politics/elections/local/2018/08/05/old-castro-interview-haunts-cuban-american-journalists-congressional-campaign/6505023007/) and [fought](https://www.news-journalonline.com/story/news/politics/elections/local/2018/08/05/old-castro-interview-haunts-cuban-american-journalists-congressional-campaign/6505023007/) to have it taken down. There were roughly [280,000 Cubans](https://www.news-journalonline.com/story/news/politics/elections/local/2018/08/05/old-castro-interview-haunts-cuban-american-journalists-congressional-campaign/6505023007/) in Salazar’s district. She later posted her interview with Castro on her YouTube page. 
 
--   **Policy Gaps and Deflections**\
-    On issues like Ukraine, gun reform, and immigration, Salazar's answers have sometimes lacked depth, with editorial boards noting her tendency to defer or avoid direct, substantive answers ([Miami Herald editorial](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6519-HK31-DYJM-M38R-00000-00&context=1519360)). This may become more damaging as economic and governance crises put pressure on "results, not rhetoric."
+### Salazar Violated The stock act More Than Once after criticizing her previous campaign opponent for doing just that
 
-### Vulnerability 5: Immigration Reform---Caught Between Sides {#vulnerability-5-immigration-reformcaught-between-sides .unnumbered}
+-   In [2022](https://www.businessinsider.com/florida-maria-elvira-salazar-stock-trade-congress-2022-6) and [2023](https://www.rawstory.com/raw-investigates/maria-elvira-salazar-stock-act/?refresh), Salazar violated the STOCK Act for improper disclosure of stock trades. Both times she failed to disclose large stock trades within the required timeframe. In 2020, Salazar [accused](https://x.com/MaElviraSalazar/status/1253036884747603969) her opponent of violating the STOCK Act and suggested she could not be trusted to represent the district because of such violations. 
 
--   **Dignity Act Criticized from Right and Left**\
-    Salazar's proposals require immigrants to pay high fees and navigate long legal processes, with no access to federal benefits---a burden criticized by advocates as punitive, while hardliners call it "amnesty." The lack of progress and conflicting criticisms expose her to attacks from all sides of the immigration debate ([Miami Herald](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:69P9-S3R1-DY37-F05X-00000-00&context=1519360); [South Florida Sun-Sentinel](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:69P9-S3R1-DY37-F05X-00000-00&context=1519360)).
+**Message:** According to Salazar’s own words: “How can we trust her to represent Miami or oversee $2 trillion in government funds while she violates and skirts federal law with her own finances?”
 
--   **Vulnerability: Family Ties and Florida-focused Immigration Concerns**\
-    With the district heavily affected by Cuban, Venezuelan, and Nicaraguan refugee and family reunification needs, her ambivalence or soft-pedaling on the harshest GOP border/security policies, especially during election cycles, leaves her open to charges of not standing up for constituents or being "silent" in the face of party overreach ([Sun-Sentinel, 3/19/25](https://advance.lexis.com/api/document?collection=news&id=urn:contentItem:6FCR-XB53-RRWF-P2VY-00000-00&context=1519360)).
+### Salazar Had A History Of Campaign Finance Violations
 
--
+-   In 2021, the Federal Election Commission (FEC) sent Salazar [letters](https://www.floridabulldog.org/2024/11/fec-finds-ex-campaign-treasurer-for-u-s-rep-salazar-reckless/?utm_source=chatgpt.com) warning her that her campaign finance reports were full of violations. The FEC [found](https://www.floridabulldog.org/2021/09/fec-slaps-salazar-campaign-accepting-illegal-contributions/) that Salazar had accepted excessive contributions above the legal limit and had failed to disclose the proper identifying information of her donors. In 2024, it was revealed that Salazar used the same campaign treasurer as George Santos and her committees had misreported campaign finance totals by [$2 million](https://www.floridabulldog.org/2024/11/fec-finds-ex-campaign-treasurer-for-u-s-rep-salazar-reckless/?utm_source=chatgpt.com). Three committees connected to Salazar were fined [$22,800](https://www.floridabulldog.org/2024/11/fec-finds-ex-campaign-treasurer-for-u-s-rep-salazar-reckless/?utm_source=chatgpt.com) after self-reporting the errors.
 
-## Contents
+**Message:** Salazar can’t be trusted to oversee trillions of dollars in taxpayer money when she can hardly keep her own campaign finances in check.
 
-- [María Salazar's Childhood & Education](/maria-salazar/salazar-childhood-education)
-- [Personal Litigation Involving María Salazar](/maria-salazar/salazar-litigation)
-- [María Salazar's Family](/maria-salazar/salazar-family)
-- [María Salazar's Private Sector Career](/maria-salazar/salazar-career)
-- [María Salazar's Public Sector Career](/maria-salazar/salazar-career-lkdm)
-- [María Salazar's Campaigns for Office](/maria-salazar/salazar-campaigns)
-- [María Salazar's Hobbies](/maria-salazar/maria-salazar-hobbies)
-- [María Salazar's Religion](/maria-salazar/salazar-religion)
-- [María Salazar's Relationships with Individuals and Groups](/maria-salazar/salazar-relationships)
-- [María Salazar's Positions On Energy and the Environment Policy](/maria-salazar/salazar-energy-environment)
-- [María Salazar's Personal Wealth](/maria-salazar/salazar-wealth)
-- [María Salazar's Positions On Labor Union Policy](/maria-salazar/salazar-labor-policy)
-- [María Salazar's Positions On Education Policy](/maria-salazar/salazar-education-policy)
-- [María Salazar's Positions On Civil Rights and Liberties Policy](/maria-salazar/salazar-civil-rights)
-- [María Salazar's Positions On Government and Campaign Reform Policy](/maria-salazar/salazar-campaign-reform)
-- [María Salazar's Positions On Business and Jobs Policy](/maria-salazar/salazar-business-policy)
-- [María Salazar's Positions On Abortion and Family Planning Policy](/maria-salazar/salazar-abortion-policy)
-- [María Salazar's Positions On Government Budget Policy](/maria-salazar/salazar-budget-policy)
-- [María Salazar's Positions On Crime and Public Safety Policy](/maria-salazar/salazar-crime-policy)
-- [María Salazar's Positions On Poverty Policy](/maria-salazar/salazar-poverty-policy)
-- [María Salazar's Positions On Disaster Management Policy](/maria-salazar/salazar-disaster-policy)
-- [María Salazar's Positions On Immigration Policy](/maria-salazar/salazar-immigration-policy)
-- [María Salazar's Positions On Health Care Policy](/maria-salazar/salazar-healthcare)
-- [María Salazar's Positions On Guns Policy](/maria-salazar/salazar-gun-policy)
-- [María Salazar's Positions On Foreign Policy and International Trade Policy](/maria-salazar/salazar-foreign-trade)
-- [María Salazar's Positions On Science and Technology Policy](/maria-salazar/salazar-science-technology)
-- [María Salazar's Positions On LGBTQ Policy](/maria-salazar/salazar-lgbtq-policy)
-- [María Salazar's Positions On Defense Policy](/maria-salazar/salazar-defense-policy)
-- [María Salazar's Positions On Agriculture, Livestock and Fishing Policy](/maria-salazar/salazar-agriculture-policy)
-- [María Salazar's Positions On Housing Policy](/maria-salazar/salazar-housing-policy)
-- [María Salazar's Positions On Homeland Security and Terrorism Policy](/maria-salazar/salazar-homeland-security)
-- [María Salazar's Positions On Consumer Protections Policy](/maria-salazar/salazar-consumer-protection)
-- [María Salazar's Positions On Disabilities Policy](/maria-salazar/salazar-disabilities-policy)
-- [Uncategorized](/maria-salazar/uncategorized)
+### Salazar Tried To Take Credit For federal Funding She Voted Against
+
+-   Salazar got [caught](https://www.ms.now/rachel-maddow-show/maddowblog/gop-rep-tries-take-credit-investments-opposed-rcna140932) [repeatedly attempting](https://www.independent.co.uk/news/world/americas/us-politics/maria-elvira-salazar-florida-republican-b2486909.html) to take credit for securing federal funding for local projects that she had voted against. She tried to take credit for funding that went to Florida International University by handing them a check during a photo-op, but she had voted against the bill that appropriated the money. She touted the South Florida Climate Resilience Tech Hub, but had voted against the CHIPS and Science Act. She touted federal funding going to the airport despite having voted against the bipartisan infrastructure law. Salazar [claimed](https://thehill.com/homenews/house/4435658-gop-salazar-cannot-recall-vote-chips-appropriations-bills/) she couldn’t remember how she voted on a couple bills. However, her campaign doubled-down and claimed Salazar was standing up to [“wasteful spending”](https://www.politico.com/news/2024/02/01/maria-salazar-interview-ad-00139117) in Washington. 
+
+**Message:** Salazar embodied the swamp by voting against funding for her own district then trying to take credit for it in front of the cameras.
+
+### It Took Salazar 11 Months To Vote To Release The Epstein Files, And She Did Only After Trump Signaled To House Republicans That He Approved
+
+-   In November 2025, after 11 months, Salazar finally [voted](http://clerk.house.gov/evs/2025/roll289.xml) to release the Epstein files, but only after [Donald Trump gave House Republicans permission](https://truthsocial.com/@realDonaldTrump/posts/115562626931599548) to do so. Previously, Salazar had [cast the deciding vote](http://clerk.house.gov/evs/2025/roll194.xml) against [releasing the Epstein files](https://www.axios.com/2025/07/15/epstein-house-democrats-republicans-trump-doj), protecting the accused pedophiles named within them. Salazar never [signed](https://clerk.house.gov/DischargePetition/2025090209) the discharge petition that called for their release and she never [co-sponsored](https://www.congress.gov/bill/119th-congress/house-resolution/581/cosponsors?pageSort=alphaByParty) Reps. Thomas Massie and Ro Khanna’s resolution calling for their release. 
+
+**Message:** Salazar cast the deciding vote against releasing the Epstein files, protecting the accused pedophiles named within. She only voted to release them once Trump said it was okay.
