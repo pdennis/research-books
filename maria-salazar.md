@@ -2,7 +2,7 @@
 title: María Elvira Salazar (FL-27)
 description: 
 published: false
-date: 2026-03-30T22:53:28.042Z
+date: 2026-03-30T23:03:39.397Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T21:05:15.089Z
@@ -78,3 +78,27 @@ Salazar was willing to go against her own word and ignore her constituents to pl
 -   In November 2025, after 11 months, Salazar finally [voted](http://clerk.house.gov/evs/2025/roll289.xml) to release the Epstein files, but only after [Donald Trump gave House Republicans permission](https://truthsocial.com/@realDonaldTrump/posts/115562626931599548) to do so. Previously, Salazar had [cast the deciding vote](http://clerk.house.gov/evs/2025/roll194.xml) against [releasing the Epstein files](https://www.axios.com/2025/07/15/epstein-house-democrats-republicans-trump-doj), protecting the accused pedophiles named within them. Salazar never [signed](https://clerk.house.gov/DischargePetition/2025090209) the discharge petition that called for their release and she never [co-sponsored](https://www.congress.gov/bill/119th-congress/house-resolution/581/cosponsors?pageSort=alphaByParty) Reps. Thomas Massie and Ro Khanna’s resolution calling for their release. 
 
 **Message:** Salazar cast the deciding vote against releasing the Epstein files, protecting the accused pedophiles named within. She only voted to release them once Trump said it was okay.
+
+# Issues Briefs
+
+## Maria Elvira Salazar Supported Policies That Hurt Everyday Floridians
+
+- [:hospital: *Salazar Voted To Take Health Care From Floridians*](https://research-books.com/en/maria-salazar/health-care)
+- [:older_man: *Salazar's Votes Threatened Services Seniors Relied On*](https://research-books.com/en/maria-salazar/seniors)
+- [:carrot: *Salazar Voted To Take Food Assistance From Floridians Who Relied On It To Afford Groceries*](https://research-books.com/en/maria-salazar/SNAP)
+- [:shopping_cart: *Salazar Voted To Protect Tariffs That Raised Prices On Floridians*](https://research-books.com/en/maria-salazar/tariffs)
+- [:woman: *Salazar Supported Restricting Reproductive Freedom In Florida*](https://research-books.com/en/maria-salazar/choice)
+- [:cuba: *Salazar's Stance On Cuba Has Come Under Scrutiny During Her Time In Public Office*](https://research-books.com/en/maria-salazar/cuba)
+{.links-list}
+
+## Maria Elvira Salazar Used Her Power To Benefit The Powerful And Herself
+- [:moneybag: *Salazar Violated The STOCK Act After Criticizing Her Previous Opponent For Doing Just That*](https://research-books.com/en/maria-salazar/stocks)
+- [:warning: *Salazar Had A History Of Campaign Finance Violations*](https://research-books.com/en/maria-salazar/campaign-finance)
+- [:x: *Salazar Tried To Take Credit For Federal Funding She Voted Against*](https://research-books.com/en/maria-salazar/federal-funding)
+- [:eyes: *It Took Salazar 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/maria-salazar/epstein)
+{.links-list}
+
+# Key Votes
+
+- [:white_check_mark: *Salazar's Key Votes In Congress*](https://research-books.com/en/maria-salazar/votes)
+{.links-list}
