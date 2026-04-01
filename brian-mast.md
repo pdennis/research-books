@@ -2,7 +2,7 @@
 title: Brian Mast (FL-21)
 description: 
 published: false
-date: 2026-04-01T00:39:37.411Z
+date: 2026-04-01T00:39:59.825Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T00:24:49.844Z
@@ -25,7 +25,7 @@ Brian Mast has spent nine years in elected office actively making life harder fo
 
 **Message:** Mast betrayed Florida seniors who were paying too much out of pocket for life-saving prescription drugs.
 
-### Mast Wanted To Raise The Retirement Age For Seniors
+### Mast Wanted To Raise The Social Security Retirement Age 
 
 -   Mast claimed on his congressional website that one of his top priorities in Congress was [protecting Social Security](https://mast.house.gov/seniors), but the truth is Mast wanted to [raise the retirement age](https://www.youtube.com/watch?v=lNi6BgNVZ2A&t=625s) for seniors to collect Social Security. He advocated for [gradually](https://www.youtube.com/watch?v=PcyicT0qwKI&t=301s) increasing the age at which people can collect Social Security. Mast was also a [member](https://rsc-pfluger.house.gov/search?search_api_fulltext=brian+mast) of the Republican Study Committee, which advocated for [raising the retirement age](https://hern.house.gov/uploadedfiles/final_budget_including_letter_word_doc-final_as_of_march_25.pdf).
 -   Mast was a big fan of Trump’s “Department of Government Efficiency,” declaring DOGE had his [“100% Support.”](https://www.wptv.com/news/region-martin-county/palm-city/were-not-all-going-to-agree-on-everything-us-rep-brian-mast-hosts-town-hall-in-martin-county) That support was unyielding even as DOGE weakened Americans’ ability to [access the Social Security Administration](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/) with [mass layoffs](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/), [longer wait times](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/), and [website crashes](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/). More than [224,000 Floridians](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/fl.pdf) in the 21st congressional district relied on Social Security benefits. 
