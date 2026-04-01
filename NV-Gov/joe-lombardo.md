@@ -2,7 +2,7 @@
 title: Joe Lombardo
 description: 
 published: true
-date: 2026-04-01T14:08:20.149Z
+date: 2026-04-01T14:13:04.216Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T19:03:34.764Z
@@ -28,7 +28,7 @@ This video is not for public use on a campaign, and is purely here as an example
 <summary><strong>📺 - Click here for Notable Clips and Visuals
   </strong></summary>
 
-  **Joe Lombardo Is Okay With Nevadans Feeling "Some Pain" Because of Tariffs.** [3/7/2026]
+  **Joe Lombardo Is Okay With Nevadans Feeling "Some Pain" Because of Tariffs.** [3/7/2026](https://youtu.be/-TjDMhYp8P8)
 <video
   src="https://streamable.com/l/ovsxog/mp4.mp4"
   type="video/mp4"
@@ -37,7 +37,7 @@ This video is not for public use on a campaign, and is purely here as an example
   style="width:560px;max-width:100%;height:auto;border-radius:8px;">
 </video>
 
-**Lombardo Said Nevadans Needed To "Maybe Feel A Little Pain In the Short Term" With Tariffs.** [3/25/2025]
+**Lombardo Said Nevadans Needed To "Maybe Feel A Little Pain In the Short Term" With Tariffs.** [3/25/2025](https://youtu.be/S9OcKVYPPq0)
 <video
   src="https://streamable.com/l/1en3x3/mp4.mp4"
   type="video/mp4"
