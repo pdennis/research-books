@@ -2,7 +2,7 @@
 title: Tony Wied
 description: 
 published: true
-date: 2026-03-25T13:21:56.123Z
+date: 2026-04-01T20:59:26.790Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:08.756Z
@@ -24,7 +24,7 @@ Wisconsin ACA enrollees like Donna Cuyler now face [premium increases of $8,000 
 
 ### **AFFORDABILITY: CAMPAIGNED ON CUTTING COSTS, THEN BACKED TARIFFS THAT RAISE THEM**
 
-Wied ran on ["cutting the cost of everyday items"](https://tonywiedforcongress.com/) then [applauded Trump's reciprocal tariffs](https://www.wispolitics.com/2025/u-s-rep-wied-statement-on-president-trumps-reciprocal-tariff-announcement/) that economists project will [cost Wisconsin dairy farmers $1-2 billion](https://www.wxpr.org/food-and-agriculture/2025-05-02/the-potential-impact-of-tariffs-on-wisconsins-dairy-industry) and have already driven [grocery prices up 3.1%](https://urbanmilwaukee.com/2026/01/23/make-america-affordable-again-meets-reality-in-checkout-lines/).
+Wied ran on ["cutting the cost of everyday items"](https://tonywiedforcongress.com/) then [applauded Trump's reciprocal tariffs](https://wied.house.gov/media/press-releases/rep-wied-statement-president-trumps-reciprocal-tariff-announcement) that economists project will [cost Wisconsin dairy farmers $1-2 billion](https://www.wxpr.org/food-and-agriculture/2025-05-02/the-potential-impact-of-tariffs-on-wisconsins-dairy-industry) and have already driven [grocery prices up 3.1%](https://urbanmilwaukee.com/2026/01/23/make-america-affordable-again-meets-reality-in-checkout-lines/).
 
 The [CBO found](https://www.cbo.gov/publication/61387) the Big Beautiful Bill Wied voted for will cut incomes for the poorest 10% by 3.1% while boosting the richest 10% by 2.7%. The [Yale Budget Lab found](https://budgetlab.yale.edu/research/combined-distributional-effects-one-big-beautiful-bill-act-and-tariffs-0) that combined with tariffs, the bottom 10% of households lose about 7% of their income.
 
@@ -34,7 +34,7 @@ Wied voted for SNAP cuts that threatens food assisatnce for the [700,000 Wiscons
 
 ### **JOBS AND THE ECONOMY: PROMISED JOBS, DELIVERED LAYOFFS**
 
-Wied said tariffs would ["bring jobs and manufacturing back"](https://www.wispolitics.com/2025/u-s-rep-wied-statement-on-president-trumps-reciprocal-tariff-announcement/) — instead, a [Federal Reserve analysis found tariffs cost the economy 19,000 jobs per month](https://www.foxbusiness.com/economy/tariffs-may-have-cost-us-economy-thousands-jobs-monthly-fed-analysis-reveals), and Wisconsin has the [highest share of its workforce in industries targeted by retaliatory tariffs](https://upnorthnewswi.com/2025/03/17/wisconsin-will-get-hit-hardest-from-trumps-trade-war-analysis-shows/) — nearly 10%.
+Wied said tariffs would ["bring jobs and manufacturing back"](https://wied.house.gov/media/press-releases/rep-wied-statement-president-trumps-reciprocal-tariff-announcement) — instead, a [Federal Reserve analysis found tariffs cost the economy 19,000 jobs per month](https://www.foxbusiness.com/economy/tariffs-may-have-cost-us-economy-thousands-jobs-monthly-fed-analysis-reveals), and Wisconsin has the [highest share of its workforce in industries targeted by retaliatory tariffs](https://upnorthnewswi.com/2025/03/17/wisconsin-will-get-hit-hardest-from-trumps-trade-war-analysis-shows/) — nearly 10%.
 
 In Wied's own district: [240 workers lost their jobs](https://fox11online.com/news/local/saputo-cheese-usa-closing-suamico-plant-green-bay-area-layoffs-wisconsin-dwd-warn-notice) when the Saputo cheese plant in Suamico closed, [93 shipbuilders were laid off](https://urbanmilwaukee.com/2025/12/05/marinette-marine-lays-off-93-employees-after-navy-cancels-ship-order/) at Marinette Marine, and [Wisconsin Aluminum Foundry laid off 150-200 workers](https://www.nbc26.com/manitowoc/trumps-aluminum-tariffs-impact-wisconsin-foundry) after tariffs destroyed demand.
 
