@@ -2,13 +2,13 @@
 title: Brian Mast (FL-21)
 description: 
 published: false
-date: 2026-04-01T00:25:05.436Z
+date: 2026-04-01T00:34:19.811Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T00:24:49.844Z
 ---
 
-# How To win Against Brian Mast
+# How To Win Against Brian Mast
 
 Brian Mast has spent nine years in elected office actively making life harder for his constituents. Since first running for Congress, Mast has been transparent about wanting to rip away health care from millions of Americans. He said he was “committed to repealing and replacing” the Affordable Care Act, which in 2025 provided 4.7 million Floridians with health insurance. In 2025, he voted with Republican leaders to support the “Big Beautiful Bill” to kick roughly 17 million Americans off their health insurance. He later voted to make health insurance more expensive for the millions of Americans who relied on ACA enhanced premium subsidies. The “Big Beautiful Bill” also made the largest SNAP cut in history, which more than 28,500 households in his district relied on to afford groceries. He has admitted to wanting to raise the age of retirement for seniors to collect Social Security benefits and joined the Republican Study Committee, which advocated for raising the retirement age. Mast has even caused controversy in the past after old social media posts resurfaced where he made jokes about sex with underage girls and rape. Ultimately, Mast has been at the forefront of an agenda that has raised costs and taken health care from the people of Florida’s 21^st^ congressional district.  
 
@@ -50,7 +50,7 @@ Brian Mast has spent nine years in elected office actively making life harder fo
 
 **Message:** Mast was the deciding vote to make Floridians pay higher prices at the grocery store. 
 
-### Mast supported extreme anti-choice policies that endangered florida women
+### Mast Supported The Overturning Of Roe V. Wade, Which Allowed Florida To Institute A Dangerous Six-Week Abortion Ban
 
 -   When women across the country lost their right to choose following the [overturning of Roe v. Wade](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn), Mast said he was [“overjoyed”](https://mast.house.gov/blog?ContentRecord_id=5EF62B34-98A5-4CDF-A5C5-6589EA90B037) and called it a [“great decision.”](https://mast.house.gov/blog?ContentRecord_id=13589F13-70CF-4E2C-8994-D8536D45003E) That ruling led to an dangerous [six-week abortion ban](https://phr.org/our-work/resources/delayed-and-denied-floridas-six-week-abortion-ban/) being instituted in Florida. Mast has also previously [suggested](https://www.timesofisrael.com/pro-israel-us-army-vet-runs-for-congress-on-prosthetic-legs/) that some women used abortion as a form of birth control. 
 
@@ -68,22 +68,35 @@ Brian Mast has spent nine years in elected office actively making life harder fo
 
 **Message:** Florida’s 21^st^ district deserves better than a congressman who thought sexual assault jokes were funny. 
 
-### Mast has been Tied To A Company Caught Defrauding Its Customers
-
--   Mast was listed on the advisory board of a company [accused](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) by the Federal Trade Commission of [defrauding](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) thousands of people. Mast claimed he did not know he was being appointed to World Patent Marketing’s board and [downplayed](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) his relationship with its owner Scott J. Cooper. Despite claiming to be unaware of his appointment to the board, the company’s website featured a quote attributed to Mast in the announcement post, as well as a picture of Mast and owner. 
-
-**Message:** Mast has been linked to a company that was caught defrauding its customers 
-
 ### Mast Violated Stock Trading Law Twice Since Being In Congress
 
 -   In 2022, Mast [failed to disclose](https://www.businessinsider.com/stock-act-congress-republican-rick-scott-brian-mast-2022-8) a $50,000 stock sale within the required time frame for members of Congress. In 2021, Mast [failed to report](https://www.businessinsider.com/brian-mast-florida-bought-virgin-galactic-stock-congress-after-testimony-2021-8) a stock purchase of up to $100,000 within the required time frame for members of Congress. The 2021 stock trade also involved Mast buying stock in a company whose president had testified to a committee he sat on only a month earlier. 
 
 **Message:** Mast is just another DC swamp creature who believed the rules didn’t apply to him. 
 
+### Mast has been Tied To A Company Caught Defrauding Its Customers
+
+-   Mast was listed on the advisory board of a company [accused](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) by the Federal Trade Commission of [defrauding](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) thousands of people. Mast claimed he did not know he was being appointed to World Patent Marketing’s board and [downplayed](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) his relationship with its owner Scott J. Cooper. Despite claiming to be unaware of his appointment to the board, the company’s website featured a quote attributed to Mast in the announcement post, as well as a picture of Mast and owner. 
+
+**Message:** Mast has been linked to a company that was caught defrauding its customers. 
+
 # Issue Briefs
 
 ## Brian Mast Supported Policies That Hurt Every Day Floridians
 
+- [:hospital: *Mast Voted To Kick Floridians Off Their Health Coverage*](https://research-books.com/en/brian-mast/health-care)
+- [:pill: *Mast Voted Against Lowering The Cost Of Prescription Drugs For Seniors*](https://research-books.com/en/brian-mast/prescription-drugs)
+- [:older_man: *Mast Supported Policies That Threatened Social Security And Medicare*](https://research-books.com/en/brian-mast/seniors)
+- [:carrot: *Mast Voted To Cut Food Assistance Floridians Relied On To Afford Groceries*](https://research-books.com/en/brian-mast/snap)
+- [:shopping_cart: *Mast Voted To Protect Tariffs That Raised Prices On Floridians*](https://research-books.com/en/brian-mast/tariffs)
+- [:woman: *Mast Supported The Overturning Of Roe v. Wade, Which Allowed Florida To Institute A Dangerous Six-Week Abortion Ban*](https://research-books.com/en/brian-mast/choice)
+{.links-list}
 ## Brian Mast Used His Power To Protect The Powerful And Himself
-
-# Key VOtes
+- [:eyes: *It Took Mast 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/brian-mast/epstein)
+- [:warning: *Mast Faced Criticism After Social Media Posts Resurfaced Showing Him Making Jokes About Rape And Sex With Underage Girls*](https://research-books.com/en/brian-mast/yikes)
+- [:moneybag: *Mast Violated To STOCK Act*](https://research-books.com/en/brian-mast/stocks)
+- [:computer: *Mast Was Linked To A Company That Got Caught Defrauding Its Customers*](https://research-books.com/en/brian-mast/world-patent-marketing)
+{.links-list}
+# Key Votes
+- [:white_check_mark: *Mast's Key Votes In Congress*](https://research-books.com/en/brian-mast/votes)
+{.links-list}
