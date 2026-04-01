@@ -2,7 +2,7 @@
 title: Brian Mast (FL-21)
 description: 
 published: false
-date: 2026-04-01T00:39:59.825Z
+date: 2026-04-01T00:52:47.656Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T00:24:49.844Z
@@ -76,7 +76,7 @@ Brian Mast has spent nine years in elected office actively making life harder fo
 
 ### Mast has been Tied To A Company Caught Defrauding Its Customers
 
--   Mast was listed on the advisory board of a company [accused](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) by the Federal Trade Commission of [defrauding](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) thousands of people. Mast claimed he did not know he was being appointed to World Patent Marketing’s board and [downplayed](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) his relationship with its owner Scott J. Cooper. Despite claiming to be unaware of his appointment to the board, the company’s website featured a quote attributed to Mast in the announcement post, as well as a picture of Mast and owner. 
+-   Mast was listed on the advisory board of a company [accused](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) by the Federal Trade Commission of [defrauding](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) thousands of people. Mast claimed he did not know he was being appointed to World Patent Marketing’s advisory board and [downplayed](https://www.politico.com/story/2017/03/florida-mast-marketing-scandal-236103) his relationship with its owner Scott J. Cooper. Despite claiming to be unaware of his appointment to the board, the company’s website featured a quote attributed to Mast in the announcement post, as well as a picture of Mast and owner. 
 
 **Message:** Mast has been linked to a company that was caught defrauding its customers. 
 
