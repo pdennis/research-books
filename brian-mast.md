@@ -2,7 +2,7 @@
 title: Brian Mast (FL-21)
 description: 
 published: false
-date: 2026-04-01T00:34:19.811Z
+date: 2026-04-01T00:39:37.411Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T00:24:49.844Z
@@ -19,7 +19,7 @@ Brian Mast has spent nine years in elected office actively making life harder fo
 
 **Message:** Mast has repeatedly voted to rip health care from Floridians.
 
-### Mast Opposed Lowering The Cost Of Prescription Drugs For Seniors On Medicare
+### Mast Voted Against Lowering The Cost Of Prescription Drugs For Seniors On Medicare
 
 -   In 2022, Mast [voted](http://clerk.house.gov/evs/2022/roll420.xml) against the Inflation Reduction Act,  which included provisions aimed at lowering the cost of [prescription drugs](https://www.hhs.gov/inflation-reduction-act/index.html) for seniors on Medicare. He called the legislation [“tyranny.”](https://mast.house.gov/2022/8/inflation-reduction-act#:~:text=I%20voted%20no%20on%20this,8/inflation%2Dreduction%2Dact)
 
