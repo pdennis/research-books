@@ -2,7 +2,7 @@
 title: Joe Lombardo
 description: 
 published: true
-date: 2026-03-13T22:43:38.663Z
+date: 2026-04-01T14:08:20.149Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T19:03:34.764Z
@@ -10,14 +10,43 @@ dateCreated: 2025-12-10T19:03:34.764Z
 
 <details>
 <summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
+This video is an example of an ad or social video that one can create using the research below.
+
+<video
+  src="https://streamable.com/l/29piu3/mp4-mobile.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+This video is not for public use on a campaign, and is purely here as an example.
 </details>
 
 
 <details>
 <summary><strong>📺 - Click here for Notable Clips and Visuals
   </strong></summary>
-COMING SOON!
+
+  **Joe Lombardo Is Okay With Nevadans Feeling "Some Pain" Because of Tariffs.** [3/7/2026]
+<video
+  src="https://streamable.com/l/ovsxog/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+**Lombardo Said Nevadans Needed To "Maybe Feel A Little Pain In the Short Term" With Tariffs.** [3/25/2025]
+<video
+  src="https://streamable.com/l/1en3x3/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+[**Click here to check out more videos from Joe Lombardo.**](https://www.youtube.com/playlist?list=PLWuvMonaruUi1tIXjCMEUtOeGlqUwbRn_)
 </details>
 
 # How To Win Against Joe Lombardo
