@@ -2,7 +2,7 @@
 title: Laurel Lee (FL-15)
 description: 
 published: false
-date: 2026-03-31T23:49:43.120Z
+date: 2026-04-01T12:01:31.812Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-23T14:58:21.008Z
@@ -33,7 +33,7 @@ Laurel Lee has made life harder for Floridians in the 15^th^ congressional distr
 
 ### Lee Was The Deciding Vote To Protect Trump’s Tariffs that were raising prices on floridians
 
--   Lee praised Trump’s tariffs and claimed they were “delivering real results.” Then, she voted six times to protect the tariffs, including in April 2025 when she was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Florida families who relied on her to a trade war and [spooking](https://www.alligator.org/article/2025/04/florida-faces-trump-administration-tariffs) businesses. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the country, and amounted to a [$1,000 tax increase](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) on Americans. 
+-   Lee praised Trump’s tariffs and claimed they were [“delivering real results.”](https://x.com/RepLaurelLee/status/1908598513455202306?s=20) Then, she voted six times to protect the tariffs, including in April 2025 when she was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Florida families who relied on her to a trade war and [spooking](https://www.alligator.org/article/2025/04/florida-faces-trump-administration-tariffs) businesses. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the country, and amounted to a [$1,000 tax increase](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) on Americans. 
 
 **Message:** Lee thought that Floridians paying higher prices and dealing with “mega-layoffs” were okay. 
 
