@@ -2,7 +2,7 @@
 title: Joe Lombardo
 description: 
 published: true
-date: 2026-04-01T14:13:04.216Z
+date: 2026-04-03T21:18:49.068Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T19:03:34.764Z
@@ -51,7 +51,7 @@ This video is not for public use on a campaign, and is purely here as an example
 
 # How To Win Against Joe Lombardo
 
-Joe Lombardo supported federal legislation that stripped health care from thousands of Nevadans, set up future cuts to Medicare, cut SNAP benefits, and rescinded tax credits meant to support clean energy jobs and projects in Nevada. Lombardo praised Trump’s “One Big Beautiful Bill,” saying “Nevadans should be excited” about its impacts. Lombardo also praised Trump’s tariffs, saying Nevadans needed to “feel a little pain” to see long term benefits, ignoring the stock market crashing and increasing food prices they caused. He also lauded Trump’s “Department of Government Efficiency,” even as its cuts affected thousands of Nevada federal workers and those reliant on Social Security. Lombardo opposed protections for reproductive rights, supported extreme abortion bans, and wanted to increase barriers to access reproductive care. Lombardo repeatedly used his power as Clark County Sheriff to increase his own salary amid budget cuts and threaten election integrity in Nevada. 
+[Trump endorsed](https://www.facebook.com/share/r/1DFx7fCJCx/) Joe Lombardo supported federal legislation that stripped health care from thousands of Nevadans, set up future cuts to Medicare, cut SNAP benefits, and rescinded tax credits meant to support clean energy jobs and projects in Nevada. Lombardo praised Trump’s “One Big Beautiful Bill,” saying “Nevadans should be excited” about its impacts. Lombardo also praised Trump’s tariffs, saying Nevadans needed to “feel a little pain” to see long term benefits, ignoring the stock market crashing and increasing food prices they caused. He also lauded Trump’s “Department of Government Efficiency,” even as its cuts affected thousands of Nevada federal workers and those reliant on Social Security. Lombardo opposed protections for reproductive rights, supported extreme abortion bans, and wanted to increase barriers to access reproductive care. Lombardo repeatedly used his power as Clark County Sheriff to increase his own salary amid budget cuts and threaten election integrity in Nevada. 
 
 ### Lombardo Supported Devastating Health Care Cuts
 
