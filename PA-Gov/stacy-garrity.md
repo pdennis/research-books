@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-02-27T20:04:22.379Z
+date: 2026-04-03T17:54:04.770Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -27,6 +27,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 ### **GARRITY SUPPORTED DEVASTATING HEALTH CARE CUTS** 
 -	In 2025, Garrity [supported](https://x.com/GarrityForPA/status/1940757598761816555) Trump's "One Big Beautiful Bill," which is estimated to kick [17 million](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) Americans off their health insurance, including nearly [12 million]( https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) Americans who rely on Medicaid. While Garrity [praised](https://x.com/GarrityForPA/status/1924879935728189650) the bill as a “historic plan,” more than [451,000 Pennsylvanians](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health insurance as a result of the bill. More than [496,000 Pennsylvanians]( https://www.kff.org/affordable-care-act/state-indicator/marketplace-enrollment/?currentTimeframe=0&selectedRows=%7B%22states%22:%7B%22pennsylvania%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) were enrolled in Affordable Care Act Marketplace health insurance plans. 
 -	Garrity [suggested](https://www.pennlive.com/opinion/2025/06/washington-leads-while-harrisburg-lags-on-reform-pennlive-letters.html?outputType=amp) Pennsylvania’s government should replicate the Medicaid restrictions imposed under Trump’s tax bill, even though [Medicaid expansion](https://www.cbpp.org/research/health/medicaid-expansion-frequently-asked-questions-0) enabled coverage for more Pennsylvanians. More than [300,000 Medicaid recipients]( https://www.spotlightpa.org/statecollege/2025/06/medicaid-pennsylvania-trump-republican-budget-rural-health-care/) in Pennsylvania were expected to lose their coverage due to Trump’s tax bill. 
+- On December 17, 2026, the same day in which Congressional Republicans voted on legislation that did not extend the ACA tax credits, Garrity [said](https://heartlandsignal.com/2026/03/30/pennsylvania-governor-candidate-stacy-garrity-says-gop-was-correct-to-let-health-care-tax-credits-expire/) they were “absolutely correct” in letting the subsidies expire. In 2025, more than 420,000 Pennsylvanians used tax credits to afford their health insurance.
 
 **Message:** Garrity supported ripping away health care from thousands of Pennsylvanians to fund tax cuts for the wealthy. 
 
