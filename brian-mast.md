@@ -2,7 +2,7 @@
 title: Brian Mast (FL-21)
 description: 
 published: false
-date: 2026-04-06T22:31:57.105Z
+date: 2026-04-06T22:36:06.023Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T00:24:49.844Z
@@ -11,6 +11,7 @@ dateCreated: 2026-04-01T00:24:49.844Z
 <details>
 <summary><strong>📺 - Click here for Notable Clips and Visuals </strong></summary>
 
+**2016: Mast Said He Believed Raising The Retirement Age Was Something That Should Be Done To Keep Social Security Solvent.** [[WPTV News, 9/4/16]](https://youtu.be/YRNODTLX_DM) 
 <video
   src="https://streamable.com/l/il412p/mp4.mp4"
   type="video/mp4"
@@ -19,6 +20,7 @@ dateCreated: 2026-04-01T00:24:49.844Z
   style="width:560px;max-width:100%;height:auto;border-radius:8px;">
 </video>
 
+**2016: Mast Argued For Gradually Increasing The Age At Which People Can Receive Retirement Benefits In Order To Protect The Solvency Of Social Security.** [[18th District Congressional Debate, 10/18/16]](https://youtu.be/1Ln9IGVdbaA)
 <video
   src="https://streamable.com/l/kv0se7/mp4.mp4"
   type="video/mp4"
