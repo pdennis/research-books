@@ -2,15 +2,43 @@
 title: Aaron Bean
 description: 
 published: true
-date: 2026-03-31T14:10:03.850Z
+date: 2026-04-06T22:53:39.340Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T16:22:59.800Z
 ---
 
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals </strong></summary>
+
+**Bean On The Affordable Care Act: “We Have Got To Dismantle It, Start Over. In Fact, I Don’t Know If It Can Be Saved At All.”** [[Newsmax News, 11/14/25]](https://www.youtube.com/watch?v=b8H3bwyklhU) 
+<video
+  src="https://streamable.com/l/bjzkmx/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+**Aaron Bean Called Health Care Tax Credits "Yucky"** [[3/10/2026]](https://youtu.be/nQMGGM9GI5w)
+<video
+  src="https://streamable.com/l/6fc946/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+[**Click here to check out more videos from Aaron Bean.**](https://www.youtube.com/playlist?list=PLWuvMonaruUhNQiAi5Uy4OECIZEPH6XAn)
+
+</details>
+
+
 # How To Win Against Aaron Bean
 
-Aaron Bean actively fought to make life harder for Floridians in his district. From his time in the Florida Senate to his current role as a Congressman, Bean has shown that he cares more about his own political career than improving life for Floridians. He voted to kick more than 55,000 Floridians off their health coverage by supporting the Big Ugly Bill, even though Florida health care professionals warned that the bill’s cuts would deal an “extreme blow” to the state’s health care system. In the same vote, he passed the biggest cuts to SNAP in history, ignoring that more than 46,000 households in his district relied on the program. Bean was an early and vocal supporter of DOGE, launching the Congressional DOGE Caucus immediately after Trump was elected the second time and saying he was “thrilled” to work with the agency. Even as DOGE was eliminating his constituents’ jobs and hamstringing the Social Security agency, Bean said he was “proud” to work alongside the agency. Bean is a member of the Republican Study Committee, which has staunchly advocated for raising the retirement age, claiming it was the only way to keep Social Security solvent. He praised Trump’s tariffs despite the “mega-layoffs” they were causing across the country and the $1,000 tax increase they imposed on Americans. He has also landed himself in ethics crises twice as a Florida state senator: once after he secured $1 million in state funding to his friend’s business, and again after the hospital he worked at was set to receive $12 million in special appropriations funding right after his brother-in-law became chair of the Senate Appropriations Committee. 
+Aaron Bean actively fought to make life harder for Floridians in his district. From his time in the Florida Senate to his current role as a Congressman, Bean has shown that he cares more about his own political career than improving life for Floridians. He voted to kick more than 55,000 Floridians off their health coverage by supporting the Big Ugly Bill, even though Florida health care professionals warned that the bill’s cuts would deal an “extreme blow” to the state’s health care system. In the same vote, he passed the biggest cuts to SNAP in history, ignoring that more than 46,000 households in his district relied on the program. Bean was an early and vocal supporter of DOGE, launching the Congressional DOGE Caucus immediately after Trump was elected the second time and saying he was “thrilled” to work with the agency. Even as DOGE was eliminating his constituents’ jobs and hamstringing the Social Security agency, Bean said he was “proud” to work alongside the agency. 
+
+Bean is a member of the Republican Study Committee, which has staunchly advocated for raising the retirement age, claiming it was the only way to keep Social Security solvent. He praised Trump’s tariffs despite the “mega-layoffs” they were causing across the country and the $1,000 tax increase they imposed on Americans. He has also landed himself in ethics crises twice as a Florida state senator: once after he secured $1 million in state funding to his friend’s business, and again after the hospital he worked at was set to receive $12 million in special appropriations funding right after his brother-in-law became chair of the Senate Appropriations Committee. 
 
 ### Bean Voted For Devastating Health Care Cuts and Called to Dismantle the Law that Provided 4.7 Million Floridians with Health Insurance
 
