@@ -2,7 +2,7 @@
 title: Brian Mast (FL-21)
 description: 
 published: true
-date: 2026-04-06T22:36:48.467Z
+date: 2026-04-06T22:46:12.037Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T00:24:49.844Z
@@ -28,6 +28,8 @@ dateCreated: 2026-04-01T00:24:49.844Z
   preload="metadata"
   style="width:560px;max-width:100%;height:auto;border-radius:8px;">
 </video>
+
+[**Click here to check out more videos from Brian Mast.**](https://www.youtube.com/playlist?list=PLWuvMonaruUjQGw4xCv6KaDautbshYErj)
 
 </details>
 
