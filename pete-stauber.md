@@ -2,7 +2,7 @@
 title: Pete Stauber (MN-08)
 description: 
 published: false
-date: 2026-04-07T18:37:46.935Z
+date: 2026-04-07T22:05:25.640Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-02T14:58:13.050Z
@@ -12,7 +12,7 @@ dateCreated: 2026-04-02T14:58:13.050Z
 
 Pete Stauber voted to rip away health care and food assistance from Minnesotans. He made promises and then broke them to please his party leaders in Washington. He promised he would protect Medicare but voted for the Republican budget bill that would trigger cuts to Medicare. He promised he would protect Social Security but sat idly by while Donald Trump and DOGE weakened the Social Security Administration. Stauber pretended to care about the rising costs of prescription drugs but then voted against legislation that capped the price of certain prescription drugs, like insulin, for seniors. He voted against legislation that gave millions of dollars in funding for his district to improve roads, bridges, and airports then took credit for the grants once they got to Minnesota. Time after time Pete Stauber has proven he is not someone Minnesotans can trust to represent them.
 
-### Stauber Voted To Take Health Insurance From minnesotans
+### Stauber Voted To Take Health Coverage From Minnesotans
 
 -   Stauber voted for a bill that would kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including nearly [12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off of Medicaid. As a result of his vote, more than [22,000](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) Minnesotans in the 8^th^ congressional district could lose their health insurance. 
 -   Stauber was a staunch opponent of the Affordable Care Act and called it a [“disaster”](https://web.archive.org/web/20181108034424/https:/www.cookcountynews-herald.com/articles/an-interview-with-republican-candidate-for-congress-pete-stauber/) even though [150,000 Minnesotans](https://www.kff.org/affordable-care-act/state-indicator/total-marketplace-enrollment/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) relied on the law to obtain health insurance. He also [opposed](https://www.duluthnewstribune.com/news/local/stauber-votes-for-republican-health-care-bill) extending enhanced ACA premium subsidies that helped Minnesotans afford health insurance. As a result, Minnesotans who relied on the ACA for health insurance [faced higher premium costs in 2026](https://www.startribune.com/where-the-health-insurance-tax-credit-debate-hits-hardest-in-minnesota/601522191). 
