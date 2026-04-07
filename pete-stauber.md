@@ -2,7 +2,7 @@
 title: Pete Stauber (MN-08)
 description: 
 published: false
-date: 2026-04-07T18:29:11.141Z
+date: 2026-04-07T18:37:46.935Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-02T14:58:13.050Z
@@ -81,7 +81,19 @@ Pete Stauber voted to rip away health care and food assistance from Minnesotans.
 # Issue Briefs
 
 ## Pete Stauber Supported Policies That Hurt Every Day Minnesotans
-
+- [:hospital: *Stauber Voted To Take Health Coverage From Minnesotans*](https://research-books.com/en/pete-stauber/health-care)
+- [:older_man: *Stauber Supported Policies That Weakened Social Security and Medicare Despite His Promises To Strengthen Both Programs*](https://research-books.com/en/pete-stauber/seniors)
+- [:pill: *Stauber Voted Against Lowering Prescription Drug Costs For Seniors*](https://research-books.com/en/pete-stauber/prescription-drugs)
+- [:carrot: *Stauber Voted To Take Food Assistance From Minnesotans*](https://research-books.com/en/pete-stauber/snap)
+- [:shopping_cart: *Stauber Supported Tariffs That Raised Prices On Minnesotans*](https://research-books.com/en/pete-stauber/tariffs)
+- [:woman: *Stauber Was An Anti-Choice Extremist*](https://research-books.com/en/pete-stauber/choice)
+- [:warning: *Stauber Refused To Stand Up For Minnesota When ICE Occupied Their State, Killed Two Residents, And Hamstrung Businesses*](https://research-books.com/en/pete-stauber/ice)
+{.links-list}
 ## Pete Stauber Used His Power To Benefit The Powerful And Himself
-
+- [:eyes: *It Took Stauber 11 Months To Vote To Release The Epstein Files And He Did Only After Trump Said It Was Okay*](https://research-books.com/en/pete-stauber/epstein)
+- [:email: *As A County Commissioner Stauber Got Caught Using A Government Email For Political Business*](https://research-books.com/en/pete-stauber/emails)
+- [:wastebasket: *Stauber Repeatedly Took Credit For Infrastructure Funding He Voted Against*](https://research-books.com/en/pete-stauber/infrastructure)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *Stauber's Key Votes In Congress*](https://research-books.com/en/pete-stauber/votes)
+{.links-list}
