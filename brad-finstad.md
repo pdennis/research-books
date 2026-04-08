@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: false
-date: 2026-04-08T23:10:42.404Z
+date: 2026-04-08T23:12:31.180Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -20,7 +20,7 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 
 ### Finstad Supported Massive Cuts To Medicare And Was Part Of A Group That Wanted To Raise The Social Security Retirement Age
 
--   In May and July 2025, Finstad voted for Republicans reconciliation bill, which the Congressional Budget Office estimated would trigger more than [$500 billion](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf) in cuts to Medicare, absent future congressional action. 
+-   In 2025, Finstad voted for Republicans reconciliation bill, which the Congressional Budget Office estimated would trigger more than [$500 billion](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf) in cuts to Medicare, absent future congressional action. 
 -   Finstad was a [member](https://web.archive.org/web/20250102210447/https:/rsc-pfluger.house.gov/about/membership) of the Republican Study Committee, which has been a staunch advocate for raising the age at which seniors would be eligible to collect Social Security. The Committee claimed the age increase was [essential](https://rsc-pfluger.house.gov/policy-solutions/preserving-american-freedom) for keeping Social Security solvent, ignoring that a higher retirement age would [cut](https://www.americanprogress.org/article/raising-the-retirement-age-for-social-security-would-cut-benefits-by-thousands-of-dollars-each-year/) the median-wage retiree’s benefits by thousands of dollars every year. The Committee also advocated for switching to a “[premium support](https://rollcall.com/2023/06/14/conservatives-budget-plan-renews-battle-over-seniors-benefits/)” healthcare system with Medicare, which would [raise](http://cbpp.org/blog/house-republican-health-plan-would-radically-restructure-medicare#:~:text=The%20plan%20would%20likely%20shift,to%20maintain%20continuous%20health%20coverage.) health care costs for most beneficiaries. 
 
 **Message:** Finstad worked to make health care more expensive and less accessible for Minnesota seniors. 
