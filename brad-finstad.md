@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: false
-date: 2026-04-08T23:12:31.180Z
+date: 2026-04-08T23:14:15.467Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -27,7 +27,7 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 
 ### Finstad Voted To Cut Food Assistance Minnesotans Rely On To Afford Groceries
 
--   Finstad [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). [More than 25,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard), making up 8.7% of his district, relied on SNAP to afford groceries.
+-   Finstad [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). [More than 21,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard), making up 8.7% of his district, relied on SNAP to afford groceries.
 
 **Message:** Finstad voted to cut food assistance Minnesotans relied on to afford groceries, all to give tax cuts to billionaires.
 
