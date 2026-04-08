@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: false
-date: 2026-04-08T23:16:49.340Z
+date: 2026-04-08T23:18:51.119Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -37,7 +37,7 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 
 **Message:** Finstad thought a strategy that resulted in Minnesotans paying higher prices and paralyzing Minnesota businesses was “needed.”
 
-### Finstad Supported An Agency That Laid Off Federal Workers And Hamstrung Social Security
+### Finstad Supported An Agency That Laid Off Federal Workers And Weakened Social Security
 
 -   Finstad was a vocal supporter of Trump’s “Department of Government Efficiency.” As soon as Trump was elected Finstad [joined](https://www.postbulletin.com/news/local/rep-brad-finstad-joins-house-doge-caucus-to-slash-federal-spending-bureaucracy)the Congressional “Delivering Outstanding Government Efficiency (DOGE)” Caucus in order to support the agency’s agenda, and said he was “[eager](https://www.postbulletin.com/news/local/rep-brad-finstad-joins-house-doge-caucus-to-slash-federal-spending-bureaucracy)” to help DOGE enact its agenda. 
 -   While Finstad was enabling DOGE, Minnesotans were suffering due to the agency’s actions. DOGE’s downsizing efforts were affecting the [federal government’s](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) ability to [deliver services](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) to seniors, and the $296 million in federal grants cut by DOGE [threatened](https://statescoop.com/federal-funding-cuts-minnesota-tracker-state-services/) to put a hole in Minnesota’s state budget. More than [158,000](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/mn.pdf) Minnesotans in Finstad’s district relied on Social Security benefits and more than [3,000](https://www.americanprogress.org/article/thousands-of-workers-in-each-congressional-district-could-lose-their-jobs-to-doge/) were employed by the federal government. 
