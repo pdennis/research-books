@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: false
-date: 2026-04-08T23:03:16.889Z
+date: 2026-04-08T23:04:07.499Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -18,20 +18,20 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 
 **Message:** Finstad voted to take health coverage from Minnesotans to give billionaires tax breaks.
 
-### Finstad Supported Massive Cuts To Medicare And Raising The Social Security Age
+### Finstad Supported Massive Cuts To Medicare And Was Part Of A Group That Wanted To Raise The Social Security Retirement Age
 
 -   In May and July 2025, Finstad voted for Republicans reconciliation bill, which the Congressional Budget Office estimated would trigger more than [$500 billion](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf) in cuts to Medicare, absent future congressional action. 
 -   Finstad was a [member](https://web.archive.org/web/20250102210447/https:/rsc-pfluger.house.gov/about/membership) of the Republican Study Committee, which has been a staunch advocate for raising the age at which seniors would be eligible to collect Social Security. The Committee claimed the age increase was [essential](https://rsc-pfluger.house.gov/policy-solutions/preserving-american-freedom) for keeping Social Security solvent, ignoring that a higher retirement age would [cut](https://www.americanprogress.org/article/raising-the-retirement-age-for-social-security-would-cut-benefits-by-thousands-of-dollars-each-year/) the median-wage retiree’s benefits by thousands of dollars every year. The Committee also advocated for switching to a “[premium support](https://rollcall.com/2023/06/14/conservatives-budget-plan-renews-battle-over-seniors-benefits/)” healthcare system with Medicare, which would [raise](http://cbpp.org/blog/house-republican-health-plan-would-radically-restructure-medicare#:~:text=The%20plan%20would%20likely%20shift,to%20maintain%20continuous%20health%20coverage.) health care costs for most beneficiaries. 
 
 **Message:** Finstad worked to make health care more expensive and less accessible for Minnesota seniors. 
 
-### Finstad Voted To Cut Food Assistance His Constituents Rely On To Afford Groceries
+### Finstad Voted To Cut Food Assistance Minnesotans Rely On To Afford Groceries
 
 -   Finstad [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). [More than 25,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard), making up 8.7% of his district, relied on SNAP to afford groceries.
 
 **Message:** Finstad voted to cut food assistance Minnesotans relied on to afford groceries, all to give tax cuts to billionaires.
 
-### Finstad Was The Deciding Vote To Protect Trump’s Tariffs 
+### Finstad Was The Deciding Vote To Protect Tariffs That Raised Costs On Minnesotans
 
 -   Finstad praised Trump’s tariffs, [claiming](https://www.postbulletin.com/news/local/why-finstad-defends-trumps-tariff-policy-to-create-a-more-even-playing-field) they were the “shake-up needed” to get foreign nations to the negotiation table. Then, he voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Minnesota families who relied on him to a trade war, causing the price of [hockey gear](https://www.cbsnews.com/minnesota/news/trump-tariff-tumult-hockey-gear-minnesota-canada/) to skyrocket and [paralyzing](https://tcbmag.com/how-trumps-tariffs-are-impacting-minnesota-businesses/) Minnesota businesses. Tariffs were contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the nation. 
 
