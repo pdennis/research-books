@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: false
-date: 2026-04-08T23:04:07.499Z
+date: 2026-04-08T23:10:42.404Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -14,7 +14,7 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 
 ### Finstad Voted For Devastating Health Care Cuts
 
--   Finstad [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that would kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including nearly [12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off of Medicaid. More than [19,000 Minnesotans](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health coverage as a result of his votes. Minnesota hospitals [expected](https://sahanjournal.com/health/minnesota-hospitals-clinics-brace-impact-medicaid-cuts/) the newly implemented work requirements would deter people from applying for Medicaid who otherwise would, and local clinics across the state faced [revenue cuts](https://sahanjournal.com/health/minnesota-hospitals-clinics-brace-impact-medicaid-cuts/) up to 20%. 
+-   Finstad [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that would kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including nearly [12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off of Medicaid. More than [19,000 Minnesotans](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health coverage as a result of his votes. The Minnesota Hospital Association also [warned](https://www.mprnews.org/story/2025/11/18/minnesota-applies-for-1-billion-federal-rural-health-funds-medicaid-offset) that funds the state received through the Rural Health Transformation Program would not cover the losses incurred by Republican budget bill cuts.  
 
 **Message:** Finstad voted to take health coverage from Minnesotans to give billionaires tax breaks.
 
