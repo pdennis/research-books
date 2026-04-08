@@ -2,7 +2,7 @@
 title: Pete Stauber (MN-08)
 description: 
 published: false
-date: 2026-04-07T22:05:25.640Z
+date: 2026-04-08T22:31:31.318Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-02T14:58:13.050Z
@@ -47,7 +47,7 @@ Pete Stauber voted to rip away health care and food assistance from Minnesotans.
 
 ### Stauber Was An Anti-choice Extremist
 
--   In 2022, Stauber [praised](https://stauber.house.gov/media/press-releases/stauber-statement-historic-pro-life-ruling) the Supreme Court’s decision to [overturn](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn) Roe V. Wade. On Stauber’s old campaign website he also said he believed life began at conception and claimed he would always be a [“voice for the right to life.”](https://web.archive.org/web/20180811023845/http:/petestauberforcongress.com/issues/) He spent several years [advocating](https://x.com/RepPeteStauber/status/1141393711038947328?s=20) for the so-called “Born-Alive” bills, which could [delay women from receiving appropriate and timely care](https://www.nytimes.com/2025/01/22/us/politics/senate-abortion-vote-republicans.html#:~:text=Democrats%20warned%20that%20the%20measure%20was%20merely%20the%20leading%20edge,for%20women%20and%20their%20families.). He also [voted](http://clerk.house.gov/evs/2021/roll295.xml) against the Women’s Health Protection Act, which would have [codified](https://abcnews.com/Politics/womens-health-protection-act-explained-roe-wade-threat/story?id=84491568) Roe V. Wade.  
+-   In 2022, Stauber [praised](https://stauber.house.gov/media/press-releases/stauber-statement-historic-pro-life-ruling) the Supreme Court’s decision to [overturn](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn) Roe V. Wade. On Stauber’s old campaign website he also said he believed life began at conception and claimed he would always be a [“voice for the right to life.”](https://web.archive.org/web/20180811023845/http:/petestauberforcongress.com/issues/) When he got to congress he even [co-sponsored](https://www.congress.gov/bill/118th-congress/house-bill/431/cosponsors?s=1&r=1&q=%7B%22search%22%3A%22H.R.+431%22%7D) a nationwide abortion ban. He spent several years [advocating](https://x.com/RepPeteStauber/status/1141393711038947328?s=20) for the so-called “Born-Alive” bills and [voted](http://clerk.house.gov/evs/2021/roll295.xml) against the Women’s Health Protection Act, which would have [codified](https://abcnews.com/Politics/womens-health-protection-act-explained-roe-wade-threat/story?id=84491568) Roe V. Wade.  
 
 **Message:** Stauber was an extremist who wanted to restrict women’s reproductive freedoms and choice. 
 
