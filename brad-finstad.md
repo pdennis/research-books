@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: false
-date: 2026-04-08T23:14:15.467Z
+date: 2026-04-08T23:16:49.340Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -33,7 +33,7 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 
 ### Finstad Was The Deciding Vote To Protect Tariffs That Raised Costs On Minnesotans
 
--   Finstad praised Trump’s tariffs, [claiming](https://www.postbulletin.com/news/local/why-finstad-defends-trumps-tariff-policy-to-create-a-more-even-playing-field) they were the “shake-up needed” to get foreign nations to the negotiation table. Then, he voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Minnesota families who relied on him to a trade war, causing the price of [hockey gear](https://www.cbsnews.com/minnesota/news/trump-tariff-tumult-hockey-gear-minnesota-canada/) to skyrocket and [paralyzing](https://tcbmag.com/how-trumps-tariffs-are-impacting-minnesota-businesses/) Minnesota businesses. Tariffs were contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the nation. 
+-   Finstad praised Trump’s tariffs, [claiming](https://www.postbulletin.com/news/local/why-finstad-defends-trumps-tariff-policy-to-create-a-more-even-playing-field) they were the “shake-up needed” to get foreign nations to the negotiation table. Then, he voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Minnesota families who relied on him to a trade war, causing the price of [hockey gear](https://www.cbsnews.com/minnesota/news/trump-tariff-tumult-hockey-gear-minnesota-canada/) to skyrocket and [paralyzing](https://tcbmag.com/how-trumps-tariffs-are-impacting-minnesota-businesses/) Minnesota businesses. Tariffs contributed to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the nation. 
 
 **Message:** Finstad thought a strategy that resulted in Minnesotans paying higher prices and paralyzing Minnesota businesses was “needed.”
 
