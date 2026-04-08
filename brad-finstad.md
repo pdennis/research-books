@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: false
-date: 2026-04-08T22:47:08.472Z
+date: 2026-04-08T23:03:16.889Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -59,7 +59,16 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 # Issue Briefs
 
 ## Brad Finstad Supported Policies That Hurt Everyday Minnesotans
-
+- [:hospital: *Finstad Voted To Take Health Coverage From Minnesotans*](https://research-books.com/en/brad-finstad/healthcare)
+- [:older_man: *Finstad Voted For Massive Cuts To Medicare And Belonged To A Group That Wanted To Raise The Social Security Retirement Age*](https://research-books.com/en/brad-finstad/seniors)
+- [:carrot: *Finstad Voted To Cut Food Assistance Minnesotans Relied On*](https://research-books.com/en/brad-finstad/snap)
+- [:shopping_cart: *Finstad Voted To Protect Tariffs That Raised Prices On Minnesotans*](https://research-books.com/en/brad-finstad/tariffs)
+- [:x: *Finstad Supported An Agency That Laid Off Federal Workers And Hamstrung Social Security*](https://research-books.com/en/brad-finstad/doge)
+- [:woman: *Finstad Was An Anti-Choice Extremist Who Supported A Nationwide Abortion Ban*](https://research-books.com/en/brad-finstad/choice)
+{.links-list}
 ## Brad Finstad Used His Power To Protect The Powerful And Himself
-
+- [:eyes: *It Took Finstad 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/brad-finstad/epstein)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *Finstad Key Votes In Congress*](https://research-books.com/en/brad-finstad/votes)
+{.links-list}
