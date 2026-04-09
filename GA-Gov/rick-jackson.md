@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-03-26T15:11:06.928Z
+date: 2026-04-09T23:50:25.657Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -70,4 +70,5 @@ Georgia Republican gubernatorial candidate Rick Jackson stated that he did not d
 ## Rick Jackson Used His Wealth To Make Himself More Powerful
 
 - [:money_with_wings: | **Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-georgia-donations)
+- [:moneybag: | **Billionaire Rick Jackson Courted Trump’s Support After He Benefitted From Trump’s Tax Cuts And Donated To MAGA Inc.**](/GA-Gov/rick-jackson/jackson-billionaire-trump)
 {.links-list}
