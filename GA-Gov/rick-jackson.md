@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-04-09T23:50:25.657Z
+date: 2026-04-09T23:56:02.687Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -56,6 +56,16 @@ Georgia Republican gubernatorial candidate Rick Jackson stated that he did not d
 -   In 2013, Jackson [advocated for legislation](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) to privatize child welfare services, which stood to benefit FaithBridge, the [foster care program Jackson was the chairman of](https://specials.myajc.com/self-made-philanthropist/), while fundraising for Governor Nathan Deal and Lieutenant Governor Casey Cagle. Jackson [hosted fundraisers for and donated more than $50,000 each](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) to both Deal and Cagle. Jackson later had a [meeting with Deal](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) in the same month as his fundraiser to discuss his proposal, and [testified before Cagle’s Senate working group](https://www.ajc.com/news/state--regional-govt--politics/from-rags-riches-the-levers-power/sDfZFltQz80DxD8SrsR3aI/) on foster care on the same day as his fundraiser.
 
 **Message:** Rick Jackson used his wealth and power to further enrich himself and his businesses.
+
+Rick Jackson seemingly became an ardent Trump supporter and courted Trump’s approval for his gubernatorial campaign after Jackson benefitted from Trump’s devastating tax cuts and tariff policies. 
+
+Even though Rick Jackson [donated](https://www.axios.com/2026/03/17/georgia-governor-trump-rick-jackson-donation) to Nikki Haley’s and Vivek Ramaswamy’s presidential campaigns in 2024, Jackson [claimed](https://www.lagrangenews.com/news/governor-hopeful-rick-jackson-makes-case-in-lagrange-60f9fbc9) “nobody supports [Trump] more than I do now” as he campaigned for governor. Rick Jackson even [celebrated](https://americanjournalnews.com/rick-jackson-brags-that-tariffs-and-tax-cuts-are-boosting-his-wealth/) how Trump’s tariff policies and the tax cuts from the “One Big Beautiful Bill” grew his wealth. Eight weeks before launching his gubernatorial bid, Rick Jackson donated [$1 million to MAGA Inc.,](https://www.axios.com/2026/03/17/georgia-governor-trump-rick-jackson-donation) which Republican operatives claimed could have been an attempt to sway Trump on his endorsement of Burt Jones for Georgia governor.
+
+### RICK JACKSON COURTED TRUMP’S SUPPORT AFTER HE BENEFITTED FROM TRUMP’S TAX CUTS AND DONATED TO MAGA INC.
+
+Rick Jackson’s primary opponents repeatedly scrutinized Rick Jackson for using his wealth to influence the gubernatorial election. Burt Jones cast Jackson as an [“out of touch billionaire”](https://www.ajc.com/politics/2026/03/how-the-jones-jackson-clash-has-engulfed-the-governors-race-and-georgia-politics/) who was [selling](https://www.ajc.com/politics/2026/04/mysterious-text-sparks-questions-after-clay-fullers-runoff-win/) [“bullshit”](https://x.com/burtjonesforga/status/2041588644264157220) and using his money to [“portray something that he’s not.”](https://www.youtube.com/watch?v=TEbQ9iN1f0g) Jones also accused [“Slick Rick”](ttps://www.youtube.com/watch?v=ifBh-bRepw8) of being a [“Never Trumper”](https://www.youtube.com/watch?v=gLbpk_Au9rY) who donated to [Jeb Bush](https://x.com/burtjonesforga/status/2024117287460978999?s=20) and [Liz Cheney.](https://x.com/burtjonesforga/status/2032071132950458393?s=20) Chris Carr blasted Rick Jackson for being one of the [“really rich guys that are trying to buy the race”](https://www.youtube.com/watch?v=skjWZ6ZZsNE) and scrutinized [self-funders](https://www.nbcnews.com/politics/2026-election/billionaire-rick-jackson-georgia-governor-race-maga-base-rcna261940) like Jackson who ran for office in Georgia.
+
+**Message:** Rick Jackson is an out of touch billionaire who donated $1 million to MAGA Inc. and courted Trump’s support for his gubernatorial bid as he benefitted from Trump’s tax cuts and tariffs.
 
 # Issue Back-Ups
 
