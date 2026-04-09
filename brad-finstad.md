@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: false
-date: 2026-04-09T15:18:36.044Z
+date: 2026-04-09T16:03:05.918Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -15,6 +15,7 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 ### Finstad Voted For Devastating Health Care Cuts
 
 -   Finstad [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that would kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including nearly [12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off of Medicaid. More than [19,000 Minnesotans](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health coverage as a result of his votes. The Minnesota Hospital Association also [warned](https://www.mprnews.org/story/2025/11/18/minnesota-applies-for-1-billion-federal-rural-health-funds-medicaid-offset) that funds the state received through the Rural Health Transformation Program would not cover the losses incurred by Republican budget bill cuts.  
+- Finstad also [voted](http://clerk.house.gov/evs/2026/roll011.xml) against extending critical health care tax credits, allowing them to expire and dooming Minnesotans to [higher premium costs.](https://www.startribune.com/where-the-health-insurance-tax-credit-debate-hits-hardest-in-minnesota/601522191) 
 
 **Message:** Finstad voted to take health coverage from Minnesotans to give billionaires tax breaks.
 
