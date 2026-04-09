@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: false
-date: 2026-04-09T16:03:05.918Z
+date: 2026-04-09T16:06:18.828Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -62,7 +62,7 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 
 ## Brad Finstad Supported Policies That Hurt Everyday Minnesotans
 - [:hospital: *Finstad Voted To Take Health Coverage From Minnesotans*](https://research-books.com/en/brad-finstad/healthcare)
-- [:older_man: *Finstad Voted For Massive Cuts To Medicare And Belonged To A Group That Wanted To Raise The Social Security Retirement Age*](https://research-books.com/en/brad-finstad/seniors)
+- [:older_man: *Finstad Supported Policies That Would Raise Costs And Reduce Benefits For Seniors*](https://research-books.com/en/brad-finstad/seniors)
 - [:carrot: *Finstad Voted To Cut Food Assistance Minnesotans Relied On*](https://research-books.com/en/brad-finstad/snap)
 - [:shopping_cart: *Finstad Voted To Protect Tariffs That Raised Prices On Minnesotans*](https://research-books.com/en/brad-finstad/tariffs)
 - [:x: *Finstad Supported An Agency That Laid Off Federal Workers And Hamstrung Social Security*](https://research-books.com/en/brad-finstad/doge)
