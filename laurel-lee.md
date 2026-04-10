@@ -2,11 +2,30 @@
 title: Laurel Lee (FL-15)
 description: 
 published: false
-date: 2026-04-01T12:01:31.812Z
+date: 2026-04-10T15:04:44.995Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-23T14:58:21.008Z
 ---
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Laurel Lee Agrees With The Overturning Of Roe v Wade."** [[Debate, 10/20/2022](https://youtu.be/rG0QV1KeAyc)]
+<video
+  src="https://streamable.com/l/c4ohiw/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+
+[**Click here to check out more videos from Laurel Lee.**](https://www.youtube.com/playlist?list=PLWuvMonaruUiQ5GQsFfiQy_LchkiBrgBR)
+  
+
+</details>
 
 # How TO Win Against Laurel Lee
 
@@ -45,7 +64,7 @@ Laurel Lee has made life harder for Floridians in the 15^th^ congressional distr
 
 ### Lee supported abortion ban that endangered floridians 
 
--   Lee has long been an anti-choice extremist, starting from her first campaign for Congress in 2022 when she [praised](https://floridapolitics.com/archives/565536-alan-cohn-laurel-lee-spar-on-abortion-immigration-as-accusations-fly/) the Supreme Court’s decision to overturn Roe v. Wade, which led to Florida instituting a near-total abortion ban. She also [supported](https://floridapolitics.com/archives/564157-alan-cohn-attacks-laurel-lee-on-abortion-issue-amid-reports-of-incest-victim/) Florida’s 15-week abortion ban that [endangered](https://phr.org/news/floridas-abortion-ban-endangers-patients-by-causing-delays-and-denials-of-medical-care-phr-research-brief/) Floridians. After she was elected to Congress, she voiced [opposition](https://x.com/Vote_Laurel/status/1848793349593174502) to a ballot amendment to enshrine the right to abortion in Florida’s constitution that received support from [57 percent of Floridians](https://www.npr.org/2024/11/09/nx-s1-5183891/floridas-amendment-to-protect-abortion-rights-fell-short-of-passing-by-just-3-votes). 
+-   Lee has long been an anti-choice extremist, starting from her first campaign for Congress in 2022 when she [praised](https://youtu.be/rG0QV1KeAyc) the Supreme Court’s decision to overturn Roe v. Wade, which led to Florida instituting a near-total abortion ban. She also [supported](https://floridapolitics.com/archives/564157-alan-cohn-attacks-laurel-lee-on-abortion-issue-amid-reports-of-incest-victim/) Florida’s 15-week abortion ban that [endangered](https://phr.org/news/floridas-abortion-ban-endangers-patients-by-causing-delays-and-denials-of-medical-care-phr-research-brief/) Floridians. After she was elected to Congress, she voiced [opposition](https://x.com/Vote_Laurel/status/1848793349593174502) to a ballot amendment to enshrine the right to abortion in Florida’s constitution that received support from [57 percent of Floridians](https://www.npr.org/2024/11/09/nx-s1-5183891/floridas-amendment-to-protect-abortion-rights-fell-short-of-passing-by-just-3-votes). 
 
 **Message:** Lee was an anti-choice extremist who praised the overturning of Roe v. Wade and supported a 15-week abortion ban that endangered Floridians
 
