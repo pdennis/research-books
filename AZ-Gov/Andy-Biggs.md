@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-04-10T17:43:33.573Z
+date: 2026-04-10T17:44:05.959Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against Andy Biggs
 
-Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-endorsement-arizona-governor-596a7c7bc1129119b1c8e401bae987ad) from Donald Trump, ran on a [“Arizona First”](https://x.com/andybiggs4az/status/1937697788684566741) agenda, but voted to cut services and raise costs on Arizonans. He voted to kick more than 342,000 Arizonans off their health insurance, for massive cuts to Medicare, and to make it harder for his neighbors to buy food. Biggs cast the deciding vote to protect Trump’s tariffs, which were hurting small businesses and could result in higher food costs for Arizonans. Biggs stood by while Trump laid off Arizonans and gutted the Social Security agency. He voted to cut clean energy tax credits that supported Arizona jobs and projects. Biggs also failed farmers and failed to pass year-round E15 in Congress, voting for a council instead of actually helping Arizona farmers. Biggs posed a threat to Arizona women's reproductive freedoms as he repeatedly voted against abortion protections and co-sponsored the Life at Conception Act. Biggs sided with corporate profits over Arizona workers as he worked to remove workplace safety protections for workers. Despite previously voting against releasing the Epstein files, it took 11 months for Biggs to ultimately vote for the release of the Epstein files only because Trump approved of the release.
+Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-endorsement-arizona-governor-596a7c7bc1129119b1c8e401bae987ad) from Donald Trump, ran on an [“Arizona First”](https://x.com/andybiggs4az/status/1937697788684566741) agenda, but voted to cut services and raise costs on Arizonans. He voted to kick more than 342,000 Arizonans off their health insurance, for massive cuts to Medicare, and to make it harder for his neighbors to buy food. Biggs cast the deciding vote to protect Trump’s tariffs, which were hurting small businesses and could result in higher food costs for Arizonans. Biggs stood by while Trump laid off Arizonans and gutted the Social Security agency. He voted to cut clean energy tax credits that supported Arizona jobs and projects. Biggs also failed farmers and failed to pass year-round E15 in Congress, voting for a council instead of actually helping Arizona farmers. Biggs posed a threat to Arizona women's reproductive freedoms as he repeatedly voted against abortion protections and co-sponsored the Life at Conception Act. Biggs sided with corporate profits over Arizona workers as he worked to remove workplace safety protections for workers. Despite previously voting against releasing the Epstein files, it took 11 months for Biggs to ultimately vote for the release of the Epstein files only because Trump approved of the release.
 
 ### **BIGGS VOTED FOR DEVASTATING HEALTH CARE CUTS**
 
