@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-03-13T18:01:17.943Z
+date: 2026-04-10T17:43:33.573Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -102,6 +102,16 @@ Biggs [touted](https://x.com/RepAndyBiggsAZ/status/1990943599891218510) his vote
 
 **Message:** Despite previously voting against releasing the Epstein files, Biggs ultimately voted for the release of the Epstein files only because Trump approved of the release.
 
+### **Biggs Helped Plan The January 6th Insurrection And Had Ties To Far-Right Extremist Groups**
+
+After the 2020 election, Biggs was allegedly involved in efforts to overturn the election results in favor of Trump and planning the January 6th protest at the Capitol that escalated into a violent insurrection. The congressional committee investigating January 6th [subpoenaed Biggs](https://apnews.com/article/capitol-siege-donald-trump-presidential-elections-election-2020-mo-brooks-8ecfb58a1845ed21d380d6c8a3181f95) after allegations that he [attended a White House meeting](https://georgiarecorder.com/2022/07/13/trump-tweet-invited-wild-mob-to-block-transfer-of-power-on-jan-6-house-panel-says/) o strategize ways to overturn the election results, including sending fake electors to the capitol, and [asked the Arizona speaker of the house](https://thehill.com/homenews/house/3531373-bowers-says-biggs-asked-him-to-sign-letter-to-decertify-states-electors/) to support decertifying Arizona’s electors. Biggs pledged to publish the [“lies”](https://www.azcentral.com/story/news/politics/arizona/2022/12/19/rep-andy-biggs-referred-to-house-ethics-committee-over-subpoena/69741383007/) of the January 6th committee after they referred Biggs to the House Ethics Committee for failing to comply with the subpoena, which Biggs called a [“baseless witch hunt.”](https://www.azcentral.com/story/news/politics/arizona/2022/12/19/rep-andy-biggs-referred-to-house-ethics-committee-over-subpoena/69741383007/)
+
+Additionally, pro-Trump personality and “Stop the Steal” movement founder Ali Alexander [claimed multiple times](https://theintercept.com/2021/01/11/capitol-plot-andy-biggs-paul-gosar/) that Biggs helped him plan January 6th, along with Congressmen Paul Gosar and Mo Brooks. 
+
+Biggs associated with far-right extremist groups including the Proud Boys and College Republicans United, and [attended a second amendment rally](https://www.azcentral.com/story/news/politics/arizona/2024/02/20/andy-biggs-spoke-at-event-sponsored-by-extremist-group-the-proud-boys/72665908007/) the groups sponsored in 2024. [The Proud Boys were known for](https://web.archive.org/web/20260407182651/https://www.splcenter.org/resources/extremist-files/proud-boys/) their white nationalist, anti-Muslim, and misogynistic rhetoric, as well as instigating violence against other activists, while College Republicans United [promoted anti-Semitic texts and was associated with white supremacist Nick Fuentes.](https://www.azcentral.com/story/news/politics/arizona/2024/02/20/andy-biggs-spoke-at-event-sponsored-by-extremist-group-the-proud-boys/72665908007/)
+
+**Message:** Biggs used his power in Congress to push his extremist views and attempt to undermine the 2020 election, which culminated in a violent insurrection at the Capitol.
+
 # Issue Back-Ups
 
 ## Andy Biggs' Policies Have Hurt Everyday People
@@ -119,6 +129,7 @@ Biggs [touted](https://x.com/RepAndyBiggsAZ/status/1990943599891218510) his vote
 ## Andy Biggs Used His Power To Benefit The Powerful
 -   [:hammer: Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA](/en/AZ-Gov/Andy-Biggs/biggs-osha)
 -   [:eyes: Biggs Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved](/en/AZ-Gov/Andy-Biggs/biggs-epstein)
+- [:sos: Biggs Helped Plan The January 6th Insurrection And Had Ties To Far-Right Extremist Groups](/en/AZ-Gov/Andy-Biggs/biggs-extremism)
 {.links-list}
 
 # Key Votes
