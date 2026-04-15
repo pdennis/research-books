@@ -2,7 +2,7 @@
 title: David Rouzer (NC-07)
 description: 
 published: false
-date: 2026-04-15T00:07:53.680Z
+date: 2026-04-15T00:13:11.607Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-09T16:55:17.838Z
@@ -69,7 +69,17 @@ North Carolinians in the 7^th^ congressional district deserve better representat
 # Issue Briefs
 
 ## David Rouzer Supported Policies That Hurt Everyday North Carolinians
-
+- [:hospital: *Rouzer Voted To Strip Health Coverage From Thousands Of North Carolinians*](https://research-books.com/en/david-rouzer/health-care)
+- [:older_man: *Rouzer Supported Policies That Threatened Services North Carolina Seniors Relied On*](https://research-books.com/en/david-rouzer/seniors)
+- [:carrot: *Rouzer Voted To Cut Food Assistance North Carolinians Relied On*](https://research-books.com/en/david-rouzer/snap)
+- [:shopping_cart: *Rouzer Voted To Protect Tariffs That Raised Prices On North Carolina*](https://research-books.com/en/david-rouzer/tariffs)
+- [:apple: *Rouzer Supported Policies That Threatened Public Education In North Carolina*](https://research-books.com/en/david-rouzer/education)
+{.links-list}
 ## David Rouzer Used His Power To Benefit The Powerful And Himself
-
+- [:nauseated_face: *Rouzer Was Just Another DC Swamp Creature*](https://research-books.com/en/david-rouzer/swamp-creature)
+- [:moneybag: *Before Entering Congress, Rouzer Made Money Lobbying For A Foreign Tobacco Company*](https://research-books.com/en/david-rouzer/tobacco)
+- [:eyes: *It Took Rouzer 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/david-rouzer/epstein)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *Rouzer's Key Votes In Congress*](https://research-books.com/en/david-rouzer/votes)
+{.links-list}
