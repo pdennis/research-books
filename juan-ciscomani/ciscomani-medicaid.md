@@ -2,7 +2,7 @@
 title: Juan Ciscomani's Attacks On Health Care
 description: 
 published: true
-date: 2026-01-12T19:16:38.393Z
+date: 2026-04-15T22:50:03.574Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:42:01.877Z
@@ -18,7 +18,7 @@ dateCreated: 2025-05-27T11:42:01.877Z
 
 #### Ciscomani Urged Republican Leadership Not To Cut Medicaid
 
-**2/21/25: Ciscomani Joined A Group Of Representatives From The Congressional Hispanic Conference To Send A Letter To Speaker Mike Johnson Urging Him Not To Cut SNAP, Pell Grants, Or Medicaid.** According to the Arizona Daily Star, "Tucson Republican U.S. Rep. Juan Ciscomani and others advocate against federal aid cuts for SNAP, Pell Grants and Medicaid, but uphold support for funding President Donald Trump’s border security agenda in a letter from the Congressional Hispanic Conference.  The conference, a group of Hispanic Republicans in Congress, sent a letter to House Speaker Mike Johnson Wednesday about protecting Hispanic American communities from budget cuts in the new House budget.  The House Budget Committee approved its proposed 2025 fiscal year budget on Feb. 13, which is aimed at reducing mandatory spending by approximately $2 trillion, but the House has not voted on it yet. Both the House and the Senate must pass the same budget for it to be accepted and finalized." \[Arizona Daily Star, [2/21/25](https://tucson.com/news/local/government-politics/us-rep-juan-ciscomani-tucson-republican-budget-cuts-fund-border-security-protect-medicai-snap-pell-grants/article_6356b6d2-f08a-11ef-b79b-e7e8ad1308e8.html)\]
+**February 2025: Ciscomani Joined A Group Of Representatives From The Congressional Hispanic Conference To Send A Letter To Speaker Mike Johnson Urging Him Not To Cut SNAP, Pell Grants, Or Medicaid.** According to the Arizona Daily Star, "Tucson Republican U.S. Rep. Juan Ciscomani and others advocate against federal aid cuts for SNAP, Pell Grants and Medicaid, but uphold support for funding President Donald Trump’s border security agenda in a letter from the Congressional Hispanic Conference.  The conference, a group of Hispanic Republicans in Congress, sent a letter to House Speaker Mike Johnson Wednesday about protecting Hispanic American communities from budget cuts in the new House budget.  The House Budget Committee approved its proposed 2025 fiscal year budget on Feb. 13, which is aimed at reducing mandatory spending by approximately $2 trillion, but the House has not voted on it yet. Both the House and the Senate must pass the same budget for it to be accepted and finalized." \[Arizona Daily Star, [2/21/25](https://tucson.com/news/local/government-politics/us-rep-juan-ciscomani-tucson-republican-budget-cuts-fund-border-security-protect-medicai-snap-pell-grants/article_6356b6d2-f08a-11ef-b79b-e7e8ad1308e8.html)\]
 
 -   **HEADLINE: “Rep. Juan Ciscomani Signals Doubt About GOP's Proposed Medicaid Spending Cuts”** \[Arizona Republic, [2/22/25](https://www.azcentral.com/story/news/politics/arizona/2025/02/22/rep-juan-ciscomani-signals-doubt-about-republican-medicaid-cuts/79330875007/)\]
 
