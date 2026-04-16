@@ -2,23 +2,13 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-03-13T20:44:20.629Z
+date: 2026-04-16T18:49:41.425Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
 
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Tom Tiffany
 
