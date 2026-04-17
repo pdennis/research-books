@@ -2,7 +2,7 @@
 title: House Of Representatives
 description: 
 published: true
-date: 2026-04-17T14:55:04.793Z
+date: 2026-04-17T14:55:20.215Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T02:59:41.057Z
@@ -23,7 +23,6 @@ dateCreated: 2025-12-27T02:59:41.057Z
 -   [:tulip: *New Jersey*](/newjersey-house)
 -   [:taxi: *New York*](/new-york-house)
 -   [:deciduous_tree: *North Carolina*](/north-carolina-house)
--   [:roller_coaster: *Ohio*](/ohio-house)
 -   [:horse: *Oklahoma*](/oklahoma-house)
 -   [:bell: *Pennsylvania*](/pennsylvania-house)
 -  [:musical_note: *Tennessee*](/tennessee-house)
