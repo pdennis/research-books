@@ -1,8 +1,8 @@
 ---
 title: David Rouzer (NC-07)
 description: 
-published: false
-date: 2026-04-15T00:13:11.607Z
+published: true
+date: 2026-04-17T14:49:00.269Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-09T16:55:17.838Z
