@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: false
-date: 2026-04-09T16:06:18.828Z
+date: 2026-04-21T16:11:16.589Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -35,24 +35,26 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 
 ### Finstad Was The Deciding Vote To Protect Tariffs That Raised Costs On Minnesotans
 
--   Finstad praised Trump’s tariffs, [claiming](https://www.postbulletin.com/news/local/why-finstad-defends-trumps-tariff-policy-to-create-a-more-even-playing-field) they were the “shake-up needed” to get foreign nations to the negotiation table. Then, he voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Minnesota families who relied on him to a trade war, causing the price of [hockey gear](https://www.cbsnews.com/minnesota/news/trump-tariff-tumult-hockey-gear-minnesota-canada/) to skyrocket and [paralyzing](https://tcbmag.com/how-trumps-tariffs-are-impacting-minnesota-businesses/) Minnesota businesses. Tariffs contributed to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the nation. 
+-   Finstad praised Trump’s tariffs, [claiming](https://www.postbulletin.com/news/local/why-finstad-defends-trumps-tariff-policy-to-create-a-more-even-playing-field) they were the “shake-up needed” to get foreign nations to the negotiation table. 
+- Then, he voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming Minnesota families who relied on him to a trade war, causing the price of [hockey gear](https://www.cbsnews.com/minnesota/news/trump-tariff-tumult-hockey-gear-minnesota-canada/) to skyrocket and [paralyzing](https://tcbmag.com/how-trumps-tariffs-are-impacting-minnesota-businesses/) Minnesota businesses. Tariffs contributed to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the nation. 
 
 **Message:** Finstad thought a strategy that resulted in Minnesotans paying higher prices and paralyzing Minnesota businesses was “needed.”
 
 ### Finstad Supported An Agency That Laid Off Federal Workers And Weakened Social Security
 
--   Finstad was a vocal supporter of Trump’s “Department of Government Efficiency.” As soon as Trump was elected Finstad [joined](https://www.postbulletin.com/news/local/rep-brad-finstad-joins-house-doge-caucus-to-slash-federal-spending-bureaucracy)the Congressional “Delivering Outstanding Government Efficiency (DOGE)” Caucus in order to support the agency’s agenda, and said he was “[eager](https://www.postbulletin.com/news/local/rep-brad-finstad-joins-house-doge-caucus-to-slash-federal-spending-bureaucracy)” to help DOGE enact its agenda. 
+-   Finstad was a vocal supporter of Trump’s “Department of Government Efficiency.” As soon as Trump was elected Finstad [joined](https://www.postbulletin.com/news/local/rep-brad-finstad-joins-house-doge-caucus-to-slash-federal-spending-bureaucracy) the Congressional “Delivering Outstanding Government Efficiency (DOGE)” Caucus in order to support the agency’s agenda, and said he was “[eager](https://www.postbulletin.com/news/local/rep-brad-finstad-joins-house-doge-caucus-to-slash-federal-spending-bureaucracy)” to help DOGE enact its agenda. 
 -   While Finstad was enabling DOGE, Minnesotans were suffering due to the agency’s actions. DOGE’s downsizing efforts were affecting the [federal government’s](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) ability to [deliver services](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) to seniors, and the $296 million in federal grants cut by DOGE [threatened](https://statescoop.com/federal-funding-cuts-minnesota-tracker-state-services/) to put a hole in Minnesota’s state budget. More than [158,000](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/mn.pdf) Minnesotans in Finstad’s district relied on Social Security benefits and more than [3,000](https://www.americanprogress.org/article/thousands-of-workers-in-each-congressional-district-could-lose-their-jobs-to-doge/) were employed by the federal government. 
 
 **Message:** Finstad was “eager” to eliminate his constituents’ jobs and cause seniors to wait longer for services. 
 
 ### Finstad Was An Anti-Abortion Extremist Who Supported A Nationwide Abortion Ban
 
--   Finstad vowed to “always protect the sanctity of life” after [voting](https://clerk.house.gov/Votes/202329) for the so-called “Born-Alive” bill. Then he doubled-down on that belief by [cosponsoring](https://www.congress.gov/bill/118th-congress/house-bill/431/cosponsors?s=1&r=1&q=%7B%22search%22%3A%22H.R.+431%22%7D) the Life at Conception Act, a nationwide abortion ban. In 2025, Finstad [cosponsored](https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2586) legislation to establish a federal consent requirement for women seeking to use abortion medication – the legislation was based on a premise that the American College of Obstetricians and Gynecologists said was [“not based in science.”](https://www.acog.org/advocacy/facts-are-important/medication-abortion-reversal-is-not-supported-by-science) 
+-   Finstad vowed to “always protect the sanctity of life” after [voting](https://clerk.house.gov/Votes/202329) for the so-called “Born-Alive” bill. Then he doubled-down on that belief by [cosponsoring](https://www.congress.gov/bill/118th-congress/house-bill/431/cosponsors?s=1&r=1&q=%7B%22search%22%3A%22H.R.+431%22%7D) the Life at Conception Act, a nationwide abortion ban.
+- In 2025, Finstad [cosponsored](https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2586) legislation to establish a federal consent requirement for women seeking to use abortion medication – the legislation was based on a premise that the American College of Obstetricians and Gynecologists said was [“not based in science.”](https://www.acog.org/advocacy/facts-are-important/medication-abortion-reversal-is-not-supported-by-science) 
 
 **Message:** Finstad was an anti-choice extremist who supported a nationwide abortion ban.
 
-### It Took Finstad 11 Months To Vote To release The Epstein Files
+### It Took Finstad 11 Months To Vote To Release The Epstein Files
 
 -   Finstad voted twice to [protect](https://www.politico.com/live-updates/2025/07/15/congress/jeffrey-epstein-house-democrats-struggle-00454000) the accused pedophiles named in the Epstein files, and never [cosponsored](https://www.congress.gov/bill/119th-congress/house-resolution/581/cosponsors?pageSort=alphaByParty) legislation or [signed](https://clerk.house.gov/DischargePetition/2025090209) Rep. Thomas Massie’s discharge petition that called for the Epstein files to be released. Only after Trump [signaled](https://truthsocial.com/@realDonaldTrump/posts/115562626931599548) it was okay did Finstad [vote](http://clerk.house.gov/evs/2025/roll289.xml) to release the files and [claim](http://x.com/RepFinstad/status/1990870212095181256) that the victims deserved the truth. 
 
