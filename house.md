@@ -2,7 +2,7 @@
 title: House Of Representatives
 description: 
 published: true
-date: 2026-04-21T15:35:48.165Z
+date: 2026-04-21T16:13:17.284Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T02:59:41.057Z
@@ -20,6 +20,7 @@ dateCreated: 2025-12-27T02:59:41.057Z
 -   [:corn: *Iowa*](/iowa-house)
 -   [:crab: *Maryland*](/maryland-house)
 -   [:car: *Michigan*](/michigan-house)
+-   [:evergreen_tree: *Minnesota*](/minnesota-house)
 -   [:fish: *Montana*](/montana-house)
 -   [:tulip: *New Jersey*](/newjersey-house)
 -   [:taxi: *New York*](/new-york-house)
