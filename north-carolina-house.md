@@ -2,7 +2,7 @@
 title: North Carolina House
 description: 
 published: true
-date: 2026-04-17T14:51:06.321Z
+date: 2026-04-21T16:22:21.730Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T18:47:51.831Z
@@ -12,7 +12,7 @@ dateCreated: 2025-11-08T18:47:51.831Z
 - [:elephant:*Virginia Foxx*](https://research-books.com/en/virginia-foxx)
 {.links-list}
 
-## NC-05
+## NC-06
 - [:elephant:*Addison McDowell*](https://research-books.com/en/addison-mcdowell)
 {.links-list}
 
