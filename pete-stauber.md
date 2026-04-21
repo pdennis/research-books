@@ -2,7 +2,7 @@
 title: Pete Stauber (MN-08)
 description: 
 published: false
-date: 2026-04-08T22:31:31.318Z
+date: 2026-04-21T16:00:04.559Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-02T14:58:13.050Z
@@ -19,7 +19,7 @@ Pete Stauber voted to rip away health care and food assistance from Minnesotans.
 
 **Message:** Stauber voted to rip health care from thousands of Minnesotans all to give billionaires tax breaks.
 
-### Stauber supported policies that weakened Medicare And Social Security Despite His Promises to protect both programs
+### Stauber Supported Policies That Weakened Medicare And Social Security Despite His Promises to protect both programs
 
 -   Despite claiming he would always [protect Medicare and Social Security](https://web.archive.org/web/20201012142134/https:/petestauberforcongress.com/issues/) for seniors, Stauber [voted](http://clerk.house.gov/evs/2025/roll145.xml) for House Republicans’ reconciliation bill, which would trigger nearly [$500 billion in Medicare cuts](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf), absent future congressional action. 
 -   Stauber touted joining the congressional [DOGE Caucus](https://stauberforms.house.gov/news/email/show.aspx?ID=YTACSJODB7RI7LUPIP4UPZNLYQ) at the same time Trump’s Department of Government Efficiency was weakening Americans’ ability to access the [Social Security Administration](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/). Stauber did nothing to stand up for the [193,000 Minnesotans](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/mn.pdf) in the 8^th^ congressional district who relied on Social Security benefits.
@@ -33,7 +33,7 @@ Pete Stauber voted to rip away health care and food assistance from Minnesotans.
 
 **Message:** Stauber voted against alleviating costs for seniors who were paying too much out of pocket for prescription drugs. 
 
-### stauber VOTED for the largest food assistance cut in history
+### Stauber Voted For The Largest Food Assistance Cut In History
 
 -   Stauber [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes), while also telling his constituents it would actually [strengthen](https://x.com/RepPeteStauber/status/1945948977980903553?s=20) SNAP. His vote threatened food assistance for more than [28,000 Minnesotan households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) in the 8^th^ congressional district. 
 
@@ -41,13 +41,16 @@ Pete Stauber voted to rip away health care and food assistance from Minnesotans.
 
 ### Stauber Defended Trump’s Tariffs Despite the Harm it brought To minnesota Farmers And Small Businesses
 
--   Stauber voted six times to protect Trump’s tariffs including in April 2025, when Stauber was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect Trump’s tariffs. Stauber [expressed support](https://www.startribune.com/trump-tariffs-pause-china-minnesota-reaction/601349718) for the tariffs despite the [harm](https://www.startribune.com/trump-new-tariffs-import-agriculture-farm-trade-war-soybeans-pork-chs/601316988) they were causing to Minnesota [farmers](https://www.mprnews.org/story/2025/03/04/minnesota-farmers-fearful-of-tariff-impact) and [small businesses](https://www.cbsnews.com/minnesota/news/minnesota-small-businesses-trump-china-trade-war-impact/). Tariffs contributed to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the country, and amounted to a [$1,000 tax increase](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) on Americans.
+-   Stauber voted six times to protect Trump’s tariffs including in April 2025, when Stauber was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect Trump’s tariffs. 
+- Stauber [expressed support](https://www.startribune.com/trump-tariffs-pause-china-minnesota-reaction/601349718) for the tariffs despite the [harm](https://www.startribune.com/trump-new-tariffs-import-agriculture-farm-trade-war-soybeans-pork-chs/601316988) they were causing to Minnesota [farmers](https://www.mprnews.org/story/2025/03/04/minnesota-farmers-fearful-of-tariff-impact) and [small businesses](https://www.cbsnews.com/minnesota/news/minnesota-small-businesses-trump-china-trade-war-impact/). Tariffs contributed to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the country, and amounted to a [$1,000 tax increase](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) on Americans.
 
 **Message:** Stauber was the deciding vote to raise prices on Minnesotans, while making it harder for Minnesota small businesses and farmers to succeed. 
 
 ### Stauber Was An Anti-choice Extremist
 
--   In 2022, Stauber [praised](https://stauber.house.gov/media/press-releases/stauber-statement-historic-pro-life-ruling) the Supreme Court’s decision to [overturn](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn) Roe V. Wade. On Stauber’s old campaign website he also said he believed life began at conception and claimed he would always be a [“voice for the right to life.”](https://web.archive.org/web/20180811023845/http:/petestauberforcongress.com/issues/) When he got to congress he even [co-sponsored](https://www.congress.gov/bill/118th-congress/house-bill/431/cosponsors?s=1&r=1&q=%7B%22search%22%3A%22H.R.+431%22%7D) a nationwide abortion ban. He spent several years [advocating](https://x.com/RepPeteStauber/status/1141393711038947328?s=20) for the so-called “Born-Alive” bills and [voted](http://clerk.house.gov/evs/2021/roll295.xml) against the Women’s Health Protection Act, which would have [codified](https://abcnews.com/Politics/womens-health-protection-act-explained-roe-wade-threat/story?id=84491568) Roe V. Wade.  
+-   In 2022, Stauber [praised](https://stauber.house.gov/media/press-releases/stauber-statement-historic-pro-life-ruling) the Supreme Court’s decision to [overturn](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn) Roe V. Wade. 
+- On Stauber’s old campaign website he also said he believed life began at conception and claimed he would always be a [“voice for the right to life.”](https://web.archive.org/web/20180811023845/http:/petestauberforcongress.com/issues/)  When he got to congress he even [co-sponsored](https://www.congress.gov/bill/118th-congress/house-bill/431/cosponsors?s=1&r=1&q=%7B%22search%22%3A%22H.R.+431%22%7D) a nationwide abortion ban.
+- He spent several years [advocating](https://x.com/RepPeteStauber/status/1141393711038947328?s=20) for the so-called “Born-Alive” bills and [voted](http://clerk.house.gov/evs/2021/roll295.xml) against the Women’s Health Protection Act, which would have [codified](https://abcnews.com/Politics/womens-health-protection-act-explained-roe-wade-threat/story?id=84491568) Roe V. Wade.  
 
 **Message:** Stauber was an extremist who wanted to restrict women’s reproductive freedoms and choice. 
 
@@ -65,13 +68,13 @@ Pete Stauber voted to rip away health care and food assistance from Minnesotans.
 
 **Message:** Stauber took advantage of his office and constituents by violating county policy to further his own political career. 
 
-### Stauber FREQUENTLY Took Credit For INFRASTRUCTURE Funding He Voted Against
+### Stauber Frequently Took Credit For Infrastructure Funding He Voted Against
 
 -   Stauber [voted against](http://clerk.house.gov/evs/2021/roll369.xml) the bipartisan infrastructure package that helped fund [roads, bridges, and airports](https://www.cnn.com/2021/07/28/politics/infrastructure-bill-explained/index.html) in his district. He labeled the funding as a [“multi-trillion-dollar tax-and-spend spree,”](https://www.twincities.com/2022/01/10/rep-pete-stauber-touts-grants-from-infrastructure-bill-he-voted-against/) but when [airports](https://www.twincities.com/2022/01/10/rep-pete-stauber-touts-grants-from-infrastructure-bill-he-voted-against/), [highways](https://www.grandrapidsmn.com/opinion/pete-stauber-takes-credit-for-biden-s-infrastructure-plan/article_29817274-e099-11ed-be59-2b373c5ead1c.html), and [bridges](https://www.ms.now/rachel-maddow-show/maddowblog/gop-rep-touts-essential-infrastructure-funds-voted-rcna135217) in his district were benefiting from that funding, he claimed to h is constituents that he was [“proud”](https://www.ms.now/rachel-maddow-show/maddowblog/gop-rep-touts-essential-infrastructure-funds-voted-rcna135217) to secure that funding. 
 
 **Message:** Stauber is just another DC swamp creature who votes against critical funding for Minnesotans then tries to take credit when it helps his district. 
 
-### Stauber Refused To Stand Up For Minnesotans When ICE Officers Occupied Their State, Killed Two Residents, And hamstrung businesses
+### Stauber Refused To Stand Up For Minnesotans When ICE Officers Occupied Their State, Killed Two Residents, And Hurt Businesses
 
 -   In January 2026, Trump sent 2,000 federal officers to Minnesota for the [“largest immigration operation ever.”](https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says) Immigration and Customs Enforcement officers faced resistance from Minnesotans, who were then met with force by agents, some even used [tear gas](https://www.nbcnews.com/news/us-news/immigration-agents-deploy-tear-gas-pepper-spray-minneapolis-confrontat-rcna253782) and [pepper spray](https://www.nbcnews.com/news/us-news/immigration-agents-deploy-tear-gas-pepper-spray-minneapolis-confrontat-rcna253782) against protestors. Stauber failed to speak up against the Trump administration and enabled ICE’s rampage despite heavy [dissent](https://www.northernnewsnow.com/2026/02/12/union-workers-protest-outside-pete-staubers-office-urge-action-ice-impact/) from his constituents. 
 -   During the month of January, ICE shot and killed [two Minnesotans](https://apnews.com/article/immigration-enforcement-minnesota-ice-b0cec9d1c5bae4b62469011775082300). Instead of urging the Trump administration to hold ICE accountable and leave the state, Stauber [blamed](https://www.kare11.com/article/news/politics/minnesotas-elected-leaders-react-to-womans-fatal-shooting-by-ice-agents/89-064658fd-e477-45fb-94b5-04c1be7854aa) their deaths on Democratic politicians and their [“hateful rhetoric.”](https://www.kare11.com/article/news/politics/minnesotas-elected-leaders-react-to-womans-fatal-shooting-by-ice-agents/89-064658fd-e477-45fb-94b5-04c1be7854aa) He made it clear he wanted Minnesota officials to do more to [cooperate](https://x.com/RepPeteStauber/status/2012200688441336122?s=20) with ICE, even though [Minnesota businesses](https://time.com/7371835/minneapolis-trump-ice-immigration-local-business-economy/) suffered because of their presence.
