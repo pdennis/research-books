@@ -1,8 +1,8 @@
 ---
 title: John Lujan
 description: 
-published: false
-date: 2026-04-21T15:14:32.219Z
+published: true
+date: 2026-04-21T15:15:01.880Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-03T23:37:06.840Z
