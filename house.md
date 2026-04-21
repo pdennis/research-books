@@ -2,7 +2,7 @@
 title: House Of Representatives
 description: 
 published: true
-date: 2026-04-17T14:55:20.215Z
+date: 2026-04-21T15:35:48.165Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T02:59:41.057Z
@@ -15,6 +15,7 @@ dateCreated: 2025-12-27T02:59:41.057Z
 -   [:palm_tree: *California*](/california-house)
 -   [:mountain: *Colorado*](/colorado-house)
 -   [:sunny: *Florida*](/florida-house)
+-   [:peach: *Georgia*](/georgia-house)
 -   [:checkered_flag: *Indiana*](/indiana-house)
 -   [:corn: *Iowa*](/iowa-house)
 -   [:crab: *Maryland*](/maryland-house)
