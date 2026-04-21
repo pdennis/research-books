@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: true
-date: 2026-04-21T16:11:47.301Z
+date: 2026-04-21T16:22:07.339Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
