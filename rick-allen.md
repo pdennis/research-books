@@ -1,8 +1,8 @@
 ---
 title: Rick Allen (GA-12)
 description: 
-published: false
-date: 2026-04-21T15:32:12.516Z
+published: true
+date: 2026-04-21T15:36:20.682Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T23:38:54.057Z
