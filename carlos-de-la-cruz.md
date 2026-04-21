@@ -1,8 +1,8 @@
 ---
 title: Carlos De La Cruz
 description: 
-published: false
-date: 2026-03-04T00:22:24.956Z
+published: true
+date: 2026-04-21T15:08:06.973Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-04T00:02:59.429Z
