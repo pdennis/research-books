@@ -1,8 +1,8 @@
 ---
 title: Pete Stauber (MN-08)
 description: 
-published: false
-date: 2026-04-21T16:00:04.559Z
+published: true
+date: 2026-04-21T16:00:30.884Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-02T14:58:13.050Z
