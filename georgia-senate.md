@@ -2,7 +2,7 @@
 title: Senate Races In Georgia
 description: 
 published: true
-date: 2026-04-21T14:13:19.975Z
+date: 2026-04-21T14:13:28.749Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-11T15:07:38.691Z
