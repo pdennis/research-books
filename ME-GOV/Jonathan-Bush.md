@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T21:55:10.825Z
+date: 2026-04-22T22:02:55.857Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -92,23 +92,14 @@ Jonathan Bush faced questions about his connection to Maine during a tense inter
 
 ## Jonathan Bush's Policies Have Hurt Everyday People
 
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
+- [:hospital: **Jonathan Bush Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](/en/ME-GOV/Jonathan-Bush/Bush-Medicaid)
 
--   [| **Jonathan Bush Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](/en/ME-GOV/Jonathan-Bush/Bush-Medicaid)
+- [:face_with_thermometer:  **Jonathan Bush Scrutinized Medicare**](/en/ME-GOV/Jonathan-Bush/Bush-Medicare)
 
-![👴](/_assets/svg/twemoji/1f474.svg)
+- [:shopping_cart: **Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It**](/en/ME-GOV/Jonathan-Bush/Bush-food)
 
--   [| **Jonathan Bush Scrutinized Medicare**](/en/ME-GOV/Jonathan-Bush/Bush-Medicare)
+-   [:older_woman: **Jonathan Bush Supported Raising The Social Security Retirement Age**](/en/ME-GOV/Jonathan-Bush/bush-socialsecurity)
 
-![🍎](/_assets/svg/twemoji/1f34e.svg)
-
--   [| **Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It**](/en/ME-GOV/Jonathan-Bush/Bush-food)
-
-![👴](/_assets/svg/twemoji/1f474.svg)
-
--   [| **Jonathan Bush Supported Raising The Social Security Retirement Age**](/en/ME-GOV/Jonathan-Bush/bush-socialsecurity)
-
-![❌](/_assets/svg/twemoji/274c.svg)
 
 -   [| **Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services**](/en/ME-GOV/Jonathan-Bush/Bush-DOGE)
 
