@@ -2,7 +2,7 @@
 title: Jonathan Bush Downplayed His History Of Domestic Violence As “Cancel Culture”
 description: 
 published: false
-date: 2026-04-22T21:37:33.226Z
+date: 2026-04-22T21:38:06.629Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-22T14:50:00.847Z
