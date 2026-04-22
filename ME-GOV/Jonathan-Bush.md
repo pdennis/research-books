@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T22:02:55.857Z
+date: 2026-04-22T22:06:09.812Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -92,15 +92,11 @@ Jonathan Bush faced questions about his connection to Maine during a tense inter
 
 ## Jonathan Bush's Policies Have Hurt Everyday People
 
-- [:hospital: **Jonathan Bush Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](/en/ME-GOV/Jonathan-Bush/Bush-Medicaid)
+- [:hospital: **Jonathan Bush Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-Medicaid)
 
 - [:face_with_thermometer:  **Jonathan Bush Scrutinized Medicare**](/en/ME-GOV/Jonathan-Bush/Bush-Medicare)
-
 - [:shopping_cart: **Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It**](/en/ME-GOV/Jonathan-Bush/Bush-food)
-
 -   [:older_woman: **Jonathan Bush Supported Raising The Social Security Retirement Age**](/en/ME-GOV/Jonathan-Bush/bush-socialsecurity)
-
-
 -   [| **Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services**](/en/ME-GOV/Jonathan-Bush/Bush-DOGE)
 
 ## Jonathan Bush Laid Off Workers
