@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T21:34:24.249Z
+date: 2026-04-22T21:43:18.787Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -48,7 +48,7 @@ Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly
 
 -  Jonathan Bush said he “wouldn’t mind” [raising the Social Security retirement age to 70,](https://www.youtube.com/watch?v=xC3Vgwu9cG8) even though more than [375,700 Mainers](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/me.pdf) relied on Social Security benefits.
 
-Message: Jonathan Bush supported stripping Social Security from seniors. 
+**Message**: Jonathan Bush supported stripping Social Security from seniors. 
 
 ### Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services
 
