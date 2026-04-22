@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T22:21:57.196Z
+date: 2026-04-22T22:26:50.913Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -77,9 +77,7 @@ Jonathan Bush aligned closely with DonaldTrump’s governing agenda, repeatedly 
 
 - During his 2026 gubernatorial campaign, Bush [repeatedly minimized](https://soundcloud.com/abpac/71b26e82-8361-4c1c-87e7-948daa488248/s-IqP3vVxWASf?si=686abbe774904a149ba689ae2927b7be&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) his domestic violence history in on-air interviews, recasting documented abuse as a “tough divorce” and emphasizing his ex-wife’s expressed [support.](https://www.bangordailynews.com/2025/10/20/politics/elections/domestic-violence-incidents-jonathan-bush-joam40zk0w/?_ga=2.170907296.101696965.1767812981-1608322392.1766520166) When confronted directly, Bush deflected accountability by attributing the [allegations](https://fortune.com/2021/06/17/the-return-of-athenahealth-ceo-jonathan-bush/) to an [activist investor campaign](https://soundcloud.com/abpac/2612c67f-2a12-4002-9739-a37a6685be12/s-c8ny0E5rxdA?si=7751a23eb9804abe92dd4e5761b77559&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) and [“cancel culture,”](https://soundcloud.com/abpac/ba352c20-dbf4-401b-bfc1-8a2eac22ab2c/s-zaVDtBPmU9l?si=fe5378732e4640fc866ee7a5892af106&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) while declining to substantively address the violence itself. 
 
-
 **Message:** Jonathan Bush downplayed documented domestic violence and refused to take accountability when confronted during his gubernatorial campaign.
-
 
 ### JONATHAN BUSH WAS NOT A MAINER AND MIGHT NOT HAVE MET MAINE’S RESIDENCY REQUIREMENT FOR GOVERNOR
 
