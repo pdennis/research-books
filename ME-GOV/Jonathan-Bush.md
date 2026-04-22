@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T16:07:21.330Z
+date: 2026-04-22T16:08:00.592Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -71,7 +71,7 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 
 **Message:** Jonathan Bush left Athenahealth amid sexual misconduct reporting and investor pressure, then refused to take responsibility.
 
-## JONATHAN BUSH DOWNPLAYED HIS HISTORY OF DOMESTIC VIOLENCE AS “CANCEL CULTURE”
+### JONATHAN BUSH DOWNPLAYED HIS HISTORY OF DOMESTIC VIOLENCE AS “CANCEL CULTURE”
 
 - According to court records from 2006, Jonathan Bush admitted to [repeated acts of](https://www.bangordailynews.com/2025/10/20/politics/elections/domestic-violence-incidents-jonathan-bush-joam40zk0w/) [physical violence against his first wife](/ME-GOV/Jonathan-Bush/bush-divorce)https://www.dailymail.co.uk/news/article-5775305/George-W-Bushs-cousin-admits-attacking-wife-marriage.html) during their marriage, resulting in court intervention during their divorce. Bush’s ex-wife [alleged](https://www.masscourts.org/eservices/searchresults.page?x=ZcNg*uuP1XZwLFognBWFZKdNA7zN-5W8KrO2tPZfHlzsDHf5LloW1RraQs6u51dOXrCFOyXwMUC8jONkLToXunqDmbfIywpK-RYdL3CrsB59brGX219HyZhbrySXQZTBWM-qIiAKz1TSdoyhAaqRC2HfOWvJySLPC39V4eDVp9K4GOuDw1vzjQ&antiCache=1776808100162) that he “struck her on numerous occasions once causing a black eye and has thrown hard objects at her.” 
 
