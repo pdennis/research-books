@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T21:22:50.905Z
+date: 2026-04-22T21:25:50.108Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -80,42 +80,24 @@ Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly
 
 ## Jonathan Bush's Policies Have Hurt Everyday People
 
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
+[:hospital:](/_assets/svg/twemoji/1f3e5.svg)[| **Jonathan Bush Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](/en/ME-GOV/Jonathan-Bush/Bush-Medicaid)
 
--   [| **Jonathan Bush Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](/en/ME-GOV/Jonathan-Bush/Bush-Medicaid)
+[👴](/_assets/svg/twemoji/1f474.svg)[| **Jonathan Bush Scrutinized Medicare**](/en/ME-GOV/Jonathan-Bush/Bush-Medicare)
 
-![👴](/_assets/svg/twemoji/1f474.svg)
+[🍎](/_assets/svg/twemoji/1f34e.svg)[| **Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It**](/en/ME-GOV/Jonathan-Bush/Bush-food)
 
--   [| **Jonathan Bush Scrutinized Medicare**](/en/ME-GOV/Jonathan-Bush/Bush-Medicare)
+[👴](/_assets/svg/twemoji/1f474.svg)[| **Jonathan Bush Supported Raising The Social Security Retirement Age**](/en/ME-GOV/Jonathan-Bush/bush-socialsecurity)
 
-![🍎](/_assets/svg/twemoji/1f34e.svg)
-
--   [| **Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It**](/en/ME-GOV/Jonathan-Bush/Bush-food)
-
-![👴](/_assets/svg/twemoji/1f474.svg)
-
--   [| **Jonathan Bush Supported Raising The Social Security Retirement Age**](/en/ME-GOV/Jonathan-Bush/bush-socialsecurity)
-
-![❌](/_assets/svg/twemoji/274c.svg)
-
--   [| **Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services**](/en/ME-GOV/Jonathan-Bush/Bush-DOGE)
+[❌](/_assets/svg/twemoji/274c.svg)[| **Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services**](/en/ME-GOV/Jonathan-Bush/Bush-DOGE)
 
 ## Jonathan Bush Laid Off Workers
 
-![💥](/_assets/svg/twemoji/1f4a5.svg)
-
--   [| **Jonathan Bush Stood Behind Laying Off Employees As Athenahealth CEO**](/en/ME-GOV/Jonathan-Bush/bush-layoffs)
+[💥](/_assets/svg/twemoji/1f4a5.svg)[| **Jonathan Bush Stood Behind Laying Off Employees As Athenahealth CEO**](/en/ME-GOV/Jonathan-Bush/bush-layoffs)
 
 ## Jonathan Bush Had Notorious Scandals
 
-![🚫](/_assets/svg/twemoji/1f6ab.svg)
+[🚫](/_assets/svg/twemoji/1f6ab.svg)[| **As Athenahealth CEO, Jonathan Bush Faced Allegations Of Sexually Inappropriate Conduct And A Sexually Hostile Work Environment**](/en/ME-GOV/Jonathan-Bush/bush-misconduct)
 
--   [| **As Athenahealth CEO, Jonathan Bush Faced Allegations Of Sexually Inappropriate Conduct And A Sexually Hostile Work Environment**](/en/ME-GOV/Jonathan-Bush/bush-misconduct)
+[🆘](/_assets/svg/twemoji/1f198.svg)[| **Jonathan Bush Downplayed His History Of Domestic Violence As "Cancel Culture"**](/en/ME-GOV/Jonathan-Bush/bush-divorce)
 
-![🆘](/_assets/svg/twemoji/1f198.svg)
-
--   [| **Jonathan Bush Downplayed His History Of Domestic Violence As "Cancel Culture"**](/en/ME-GOV/Jonathan-Bush/bush-divorce)
-
-![🏠](/_assets/svg/twemoji/1f3e0.svg)
-
--   [| **Jonathan Bush Was Not A Mainer And Might Not Have Met Maine’s Residency Requirement For Governor**](/en/ME-GOV/Jonathan-Bush/bush-residency)
+[🏠](/_assets/svg/twemoji/1f3e0.svg) [| **Jonathan Bush Was Not A Mainer And Might Not Have Met Maine’s Residency Requirement For Governor**](/en/ME-GOV/Jonathan-Bush/bush-residency)
