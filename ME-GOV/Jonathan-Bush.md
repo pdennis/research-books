@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T15:23:29.250Z
+date: 2026-04-22T15:26:48.094Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -83,11 +83,11 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 
 {.links-list}
 ## Jonathan Bush Laid Off Workers
-- [:x: | **Jonathan Bush Stood “Behind” Laying Off Employees As Athenahealth CEO**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-layoffs)
+- [:boom:| **Jonathan Bush Stood “Behind” Laying Off Employees As Athenahealth CEO**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-layoffs)
 
 {.links-list}
 ## Jonathan Bush Had Notorious Scandals
-- [:x: | **As Athenahealth CEO, Jonathan Bush Faced Allegations Of Sexually Inappropriate Conduct And A Sexually Hostile Work Environment**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-misconduct)
+- [:no_entry_sign: | **As Athenahealth CEO, Jonathan Bush Faced Allegations Of Sexually Inappropriate Conduct And A Sexually Hostile Work Environment**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-misconduct)
 - [:sos: | **Jonathan Bush Downplayed His History Of Domestic Violence As "Cancel Culture"**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-divorce)
 - [:house: | **Jonathan Bush Was Not A Mainer And Might Not Have Met Maine’s Residency Requirement For Governor**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-residency)
 {.links-list}
