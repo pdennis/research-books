@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T16:13:00.290Z
+date: 2026-04-22T16:14:27.073Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -73,7 +73,7 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 
 ### JONATHAN BUSH DOWNPLAYED HIS HISTORY OF DOMESTIC VIOLENCE AS “CANCEL CULTURE”
 
-- According to court records from 2006, Jonathan Bush admitted to [repeated acts of](https://www.bangordailynews.com/2025/10/20/politics/elections/domestic-violence-incidents-jonathan-bush-joam40zk0w/) [physical violence against his first wife](/ME-GOV/Jonathan-Bush/bush-divorce)https://www.dailymail.co.uk/news/article-5775305/George-W-Bushs-cousin-admits-attacking-wife-marriage.html) during their marriage, resulting in court intervention during their divorce. Bush’s ex-wife [alleged](https://www.masscourts.org/eservices/searchresults.page?x=ZcNg*uuP1XZwLFognBWFZKdNA7zN-5W8KrO2tPZfHlzsDHf5LloW1RraQs6u51dOXrCFOyXwMUC8jONkLToXunqDmbfIywpK-RYdL3CrsB59brGX219HyZhbrySXQZTBWM-qIiAKz1TSdoyhAaqRC2HfOWvJySLPC39V4eDVp9K4GOuDw1vzjQ&antiCache=1776808100162) that he “struck her on numerous occasions once causing a black eye and has thrown hard objects at her.” 
+- According to court records from 2006, Jonathan Bush admitted to [repeated acts of](https://www.bangordailynews.com/2025/10/20/politics/elections/domestic-violence-incidents-jonathan-bush-joam40zk0w/) [physical violence against his first wife](https://www.dailymail.co.uk/news/article-5775305/George-W-Bushs-cousin-admits-attacking-wife-marriage.html) during their marriage, resulting in court intervention during their divorce. Bush’s ex-wife [alleged](https://www.masscourts.org/eservices/searchresults.page?x=ZcNg*uuP1XZwLFognBWFZKdNA7zN-5W8KrO2tPZfHlzsDHf5LloW1RraQs6u51dOXrCFOyXwMUC8jONkLToXunqDmbfIywpK-RYdL3CrsB59brGX219HyZhbrySXQZTBWM-qIiAKz1TSdoyhAaqRC2HfOWvJySLPC39V4eDVp9K4GOuDw1vzjQ&antiCache=1776808100162) that he “struck her on numerous occasions once causing a black eye and has thrown hard objects at her.” 
 
 - During his 2026 gubernatorial campaign, Bush [repeatedly minimized](https://soundcloud.com/abpac/71b26e82-8361-4c1c-87e7-948daa488248/s-IqP3vVxWASf?si=686abbe774904a149ba689ae2927b7be&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) his domestic violence history in on-air interviews, recasting documented abuse as a “tough divorce” and emphasizing his ex-wife’s expressed [support.](https://www.bangordailynews.com/2025/10/20/politics/elections/domestic-violence-incidents-jonathan-bush-joam40zk0w/?_ga=2.170907296.101696965.1767812981-1608322392.1766520166) When confronted directly, Bush deflected accountability by attributing the [allegations](https://fortune.com/2021/06/17/the-return-of-athenahealth-ceo-jonathan-bush/) to an [activist investor campaign](https://soundcloud.com/abpac/2612c67f-2a12-4002-9739-a37a6685be12/s-c8ny0E5rxdA?si=7751a23eb9804abe92dd4e5761b77559&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) and [“cancel culture,”](https://soundcloud.com/abpac/ba352c20-dbf4-401b-bfc1-8a2eac22ab2c/s-zaVDtBPmU9l?si=fe5378732e4640fc866ee7a5892af106&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) while declining to substantively address the violence itself. 
 
