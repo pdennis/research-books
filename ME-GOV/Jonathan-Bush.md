@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-01-21T16:48:22.381Z
+date: 2026-04-22T14:46:47.328Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -56,7 +56,7 @@ Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly
 ## Jonathan Bush's Policies Have Hurt Everyday People
 
 - [:hospital: | **Jonathan Bush Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-Medicaid)
-- [:older_man: | **Jonathan Bush Scrutinized Medicare And Pushed For Medicare Advantage**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-Medicare)
+- [:older_man: | **Jonathan Bush Scrutinized Medicare**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-Medicare)
 - [:apple: | **Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-food)
 - [:x: | **Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-DOGE)
 {.links-list}
