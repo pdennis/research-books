@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T15:26:48.094Z
+date: 2026-04-22T15:28:07.413Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -65,7 +65,7 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 
 ## JONATHAN BUSH WAS NOT A MAINER AND MIGHT NOT HAVE MET MAINE’S RESIDENCY REQUIREMENT FOR GOVERNOR
 
-•	In 2026, Jonathan Bush faced questions about whether he met the state’s five-year requirement to serve as governor. Bush's Maine residency timeline drew scrutiny after records showed he [maintained ties](https://www.pressherald.com/2026/03/28/does-jonathan-bush-meet-maines-residency-requirement-for-governor/) to Massachusetts, claimed primary residence tax benefits there, and did not register to vote in Maine until 2022, 
+•	In 2026, Jonathan Bush faced questions about whether he met the state’s five-year requirement to serve as governor. Bush's Maine residency timeline drew scrutiny after records showed he [maintained ties](https://www.pressherald.com/2026/03/28/does-jonathan-bush-meet-maines-residency-requirement-for-governor/) to Massachusetts, claimed primary residence tax benefits there, and did not register to vote in Maine until 2022. 
 
 •	Jonathan Bush faced questions about his connection to Maine during a tense interview, where he acknowledged [he was not born in the state,](https://soundcloud.com/abpac/jonathan-bush-the-ray-1/s-iZ08J5Ix0UE?si=8ea62fe8b37c45ce93624867b6ed9af1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) described himself as a “summer guy,” and pushed back on claims he wanted to be [governor of “any state.”](https://soundcloud.com/abpac/jonathan-bush-the-ray-2/s-cz0y8qfN6IL?si=687c43f22c1a40b78f5b7df6f9e790e8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
 
