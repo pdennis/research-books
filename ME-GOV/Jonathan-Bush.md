@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T15:09:47.860Z
+date: 2026-04-22T15:18:11.753Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against Jonathan Bush
 
-Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly praising Trump’s health care policies, his governance, and his economic approach. At the same time, Bush proposed policies that threatened health coverage, Medicare, and Social Security. He backed Medicaid block grants, attacked the Affordable Care Act, and criticized public health coverage as “wealth redistribution.” Bush praised Trump’s governance as Trump’s DOGE caused disruptions to the Social Security Administration, federal workers were laid off, and millions of dollars in federal funding were cut from Maine nonprofits. 
+Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly praising Trump’s health care policies, his governance, and his economic approach. At the same time, Bush proposed policies that threatened health coverage, Medicare, and Social Security. He backed Medicaid block grants, attacked the Affordable Care Act, and criticized public health coverage as “wealth redistribution.” Bush opposed expanding MaineCare, dismissed it as “not a safety net” but a “Barcalounger,” and claimed Democratic health care plans would leave people “controlled." Bush praised Trump’s governance as Trump’s DOGE fired federal workers and millions of dollars in federal funding were cut from Maine nonprofits. Bush stood behind “everything” he did as CEO of Athenahealth, which included laying off workers. Bush’s record was further complicated by unresolved personal controversies from his time as CEO of Athenahealth, including allegations of sexual harassment, mass layoffs, and his abrupt departure under investor pressure. During his gubernatorial campaign, Bush faced renewed scrutiny over a documented history of domestic violence and attempted to dismiss its significance. During his gubernatorial bid, Bush faced scrutiny for potentially not meeting Maine’s residency requirements to run for governor.. 
 
 ### Jonathan Bush Supported Devastating Health Care Cuts
 
@@ -44,12 +44,32 @@ Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly
 
 **Message:** Jonathan Bush demeaned food assistance while tens of thousands of Maine families depended on SNAP to afford groceries and put food on the table.
 
+### JONATHAN BUSH SUPPORTED RAISING THE SOCIAL SECURITY RETIREMENT AGE
+
+•	Jonathan Bush said he “wouldn’t mind” [raising the Social Security retirement age to 70,](https://www.youtube.com/watch?v=xC3Vgwu9cG8) even though more than [375,700 Mainers](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/me.pdf) relied on Social Security benefits.
+
+Message: Jonathan Bush supported stripping Social Security from seniors. 
+
 ### Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services
 
--   In 2026, Jonathan Bush praised Trump’s governing approach and said the country owed Trump “[a debt of gratitude](https://soundcloud.com/abpac/jonathan-bush-the-ray-richardson-show-192026/s-EyEfarrqgXX?si=b3bd8fd060184934bcb6b8b7998de8ae&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing),” even as DOGE-driven cuts and downsizing were [affecting](https://www.axios.com/2025/04/08/social-security-seniors-drive) the [federal government’s](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) [ability](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/) to [deliver services](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) to seniors. Jonathan Bush also said he would not mind [raising the Social Security retirement age to 70](https://www.youtube.com/watch?v=xC3Vgwu9cG8). More than [375,000 Mainers](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/me.pdf) relied on Social Security benefits. 
+-   In 2026, Jonathan Bush praised Trump’s governing approach and said the country owed Trump “[a debt of gratitude](https://soundcloud.com/abpac/jonathan-bush-the-ray-richardson-show-192026/s-EyEfarrqgXX?si=b3bd8fd060184934bcb6b8b7998de8ae&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing),” even as DOGE-driven cuts were impacting Maine non-profits and services.
 -   Bush [called for a $1 billion tax cut](https://web.archive.org/web/20251223183118/https:/jonathanbush.org/issues/) and proposed sweeping [audits and automation of the state government](https://youtube.com/shorts/Agh48zffxQk). Trump’s DOGE-related cuts [eliminated roughly $3 million](https://mainemorningstar.com/2025/08/07/environmental-justice-grants-are-still-frozen-maine-grantees-look-to-federal-lawsuit-for-relief/) in federal funding for Maine nonprofits and environmental programs and threatened the livelihoods of more than [12,700 federal workers](https://www.centralmaine.com/2025/07/09/federal-workers-in-maine-face-uncertainty-following-court-ruling-allowing-for-mass-layoffs) across the state, including employees at Acadia National Park and other [critical federal agencies](https://www.pressherald.com/2025/02/19/acadia-national-park-samhsa-employees-fired-as-trump-administration-slashes-federal-workforce/).
 
-**Message:** While Social Security services faltered and federal workers were laid off, Jonathan Bush praised Trump’s governance.
+**Message:** While essential government services faltered and federal workers were laid off, Jonathan Bush praised Trump’s governance.
+
+JONATHAN BUSH STOOD “BEHIND” LAYING OFF EMPLOYEES AS ATHENAHEALTH CEO
+
+●	In 2025, Jonathan Bush said he stood behind [“everything”](https://www.pressherald.com/2025/10/08/republican-jonathan-bush-enters-maine-governors-race/) he did as CEO of Athenahealth. Under Bush’s leadership, Athenahealth carried out [large-scale layoffs](https://www.healthcareitnews.com/news/athenahealth-lays-hundreds-reorganizes-be-leaner) and [office closures](https://www.bostonglobe.com/business/2017/10/19/watertown-based-athenahealth-inc-begins-layoffs/Myo8aTnnDXCVKyIUjsYjCP/story.html) amid pressure from activist investors. 
+
+**Message:** Jonathan Bush stood by his record as Athenahealth CEO while overseeing mass layoffs and office closures.
+
+## JONATHAN BUSH WAS NOT A MAINER AND MIGHT NOT HAVE MET MAINE’S RESIDENCY REQUIREMENT FOR GOVERNOR
+
+•	In 2026, Jonathan Bush’s Maine residency timeline drew scrutiny after records showed he [maintained ties](https://www.pressherald.com/2026/03/28/does-jonathan-bush-meet-maines-residency-requirement-for-governor/) to Massachusetts, claimed primary residence tax benefits there, and did not register to vote in Maine until 2022, raising questions about whether he met the state’s five-year requirement to serve as governor.
+
+•	Jonathan Bush faced questions about his connection to Maine during a tense interview, where he acknowledged [he was not born in the state,](https://soundcloud.com/abpac/jonathan-bush-the-ray-1/s-iZ08J5Ix0UE?si=8ea62fe8b37c45ce93624867b6ed9af1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) described himself as a “summer guy,” and pushed back on claims he wanted to be [governor of “any state.”](https://soundcloud.com/abpac/jonathan-bush-the-ray-2/s-cz0y8qfN6IL?si=687c43f22c1a40b78f5b7df6f9e790e8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+
+**Message:** Jonathan Bush’s ties to Massachusetts and limited roots in Maine raised questions about whether he truly qualified to serve as governor.
 
 # Issue Back-Ups
 
