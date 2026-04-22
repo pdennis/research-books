@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T20:54:42.505Z
+date: 2026-04-22T20:55:53.239Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -36,7 +36,8 @@ Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly
 
 ###  Jonathan Bush Criticized Medicare 
 
--   In October 2025, Jonathan Bush [praised](https://www.youtube.com/shorts/oKzR-oHyDnc) the Trump administration’s health care policies and expressed enthusiasm for its approach, even as the Congressional Budget Office estimated that Trump’s “One Big Beautiful Bill” would trigger [nearly $500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare.
+•   In October 2025, Jonathan Bush [praised](https://www.youtube.com/shorts/oKzR-oHyDnc) the Trump administration’s health care policies and expressed enthusiasm for its approach, even as the Congressional Budget Office estimated that Trump’s “One Big Beautiful Bill” would trigger[nearly $500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare.
+
 • Bush also framed Medicare as a “[wealth redistribution mechanism](https://www.youtube.com/watch?v=drYc6st-UUo),” and further claimed federal health programs were “jamming everybody’s nose in the same [puppy poop](https://www.youtube.com/watch?v=xBCOD9ULwTo&feature=youtu.be).”
 
 **Message:** Jonathan Bush scrutinized Medicare, which seniors relied on for health care.
