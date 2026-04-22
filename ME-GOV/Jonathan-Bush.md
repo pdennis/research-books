@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T21:43:18.787Z
+date: 2026-04-22T21:44:02.804Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against Jonathan Bush
 
-Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly praising Trump’s health care policies, his governance, and his economic approach. At the same time, Bush proposed policies that threatened health coverage, Medicare, and Social Security. He backed Medicaid block grants, attacked the Affordable Care Act, and criticized public health coverage as “wealth redistribution.” Bush opposed expanding MaineCare, dismissed it as “not a safety net” but a “Barcalounger,” and claimed Democratic health care plans would leave people “controlled." Bush praised Trump’s governance as Trump’s DOGE fired federal workers and millions of dollars in federal funding were cut from Maine nonprofits. Bush stood behind “everything” he did as CEO of Athenahealth, which included laying off workers. Bush’s record was further complicated by unresolved personal controversies from his time as CEO of Athenahealth, including allegations of sexual harassment, mass layoffs, and his abrupt departure under investor pressure. During his gubernatorial campaign, Bush faced renewed scrutiny over a documented history of domestic violence and attempted to dismiss its significance. During his gubernatorial bid, Bush faced scrutiny for potentially not meeting Maine’s residency requirements to run for governor.. 
+Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly praising Trump’s health care policies, his governance, and his economic approach. At the same time, Bush proposed policies that threatened health coverage, Medicare, and Social Security. He backed Medicaid block grants, attacked the Affordable Care Act, and criticized public health coverage as “wealth redistribution.” Bush opposed expanding MaineCare, dismissed it as “not a safety net” but a “Barcalounger,” and claimed Democratic health care plans would leave people “controlled." Bush praised Trump’s governance as Trump’s DOGE fired federal workers and millions of dollars in federal funding were cut from Maine nonprofits. Bush stood behind “everything” he did as CEO of Athenahealth, which included laying off workers. Bush’s record was further complicated by unresolved personal controversies from his time as CEO of Athenahealth, including allegations of sexual harassment, mass layoffs, and his abrupt departure under investor pressure. During his gubernatorial campaign, Bush faced renewed scrutiny over a documented history of domestic violence and attempted to dismiss its significance. During his gubernatorial bid, Bush faced scrutiny for potentially not meeting Maine’s residency requirements to run for governor.
 
 ### Jonathan Bush Supported Devastating Health Care Cuts
 
