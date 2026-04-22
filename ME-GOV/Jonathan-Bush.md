@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T15:52:39.088Z
+date: 2026-04-22T16:07:08.464Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -57,19 +57,29 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 
 **Message:** While essential government services faltered and federal workers were laid off, Jonathan Bush praised Trump’s governance.
 
-## JONATHAN BUSH STOOD “BEHIND” LAYING OFF EMPLOYEES AS ATHENAHEALTH CEO
+### JONATHAN BUSH STOOD “BEHIND” LAYING OFF EMPLOYEES AS ATHENAHEALTH CEO
 
 - In 2025, Jonathan Bush said he stood behind [“everything”](https://www.pressherald.com/2025/10/08/republican-jonathan-bush-enters-maine-governors-race/) he did as CEO of Athenahealth. Under Bush’s leadership, Athenahealth carried out [large-scale layoffs](https://www.healthcareitnews.com/news/athenahealth-lays-hundreds-reorganizes-be-leaner) and [office closures](https://www.bostonglobe.com/business/2017/10/19/watertown-based-athenahealth-inc-begins-layoffs/Myo8aTnnDXCVKyIUjsYjCP/story.html) amid pressure from activist investors. 
 
 **Message:** Jonathan Bush stood by his record as Athenahealth CEO while overseeing mass layoffs and office closures.
 
-## AS ATHENAHEALTH CEO, JONATHAN BUSH FACED ALLEGATIONS OF SEXUALLY INAPPROPRIATE CONDUCT AND A SEXUALLY HOSTILE WORK ENVIRONMENT 
+### AS ATHENAHEALTH CEO, JONATHAN BUSH FACED ALLEGATIONS OF SEXUALLY INAPPROPRIATE CONDUCT AND A SEXUALLY HOSTILE WORK ENVIRONMENT 
 
 •	In 2025, Jonathan Bush said he stood behind [“everything”](https://www.pressherald.com/2025/10/08/republican-jonathan-bush-enters-maine-governors-race/) he did as CEO of Athenahealth. While serving as CEO of Athenahealth, Jonathan Bush faced allegations of [sexually inappropriate conduct](https://www.bloomberg.com/news/articles/2018-06-04/athenahealth-ceo-bush-faces-new-allegations-as-video-emerges) and a [sexually hostile work environment.](https://nypost.com/2018/05/31/athenahealth-ceo-facing-sexual-harassment-allegations/) In 2009, in a case that was settled confidentially, a female employee filed a complaint that [alleged](https://nypost.com/2018/05/31/athenahealth-ceo-facing-sexual-harassment-allegations/) Bush made “sexually oriented remarks” towards female employees. In June 2018, Bush [abruptly stepped down as CEO](https://apnews.com/at-athenahealth-the-ceo-is-out-and-it-may-be-up-for-sale-f4e99fb5911b438aab04a018579c8247) while the company explored a potential sale and buyout. 
 
 •	In later interviews, Jonathan Bush [blamed an activist campaign](https://fortune.com/2021/06/17/the-return-of-athenahealth-ceo-jonathan-bush/) from Elliott Management and what he described as [“cancel culture”](https://soundcloud.com/abpac/jonathan-bush-the-ray-5/s-mTjfwOwj8NA?si=822bfb119a3d4bf3b377d2c5f9618fa5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) for his removal.
 
 **Message:** Jonathan Bush left Athenahealth amid sexual misconduct reporting and investor pressure, then refused to take responsibility.
+
+## JONATHAN BUSH DOWNPLAYED HIS HISTORY OF DOMESTIC VIOLENCE AS “CANCEL CULTURE”
+
+- According to court records from 2006, Jonathan Bush admitted to [repeated acts of](https://www.bangordailynews.com/2025/10/20/politics/elections/domestic-violence-incidents-jonathan-bush-joam40zk0w/) [physical violence against his first wife](/ME-GOV/Jonathan-Bush/bush-divorce)https://www.dailymail.co.uk/news/article-5775305/George-W-Bushs-cousin-admits-attacking-wife-marriage.html) during their marriage, resulting in court intervention during their divorce. Bush’s ex-wife [alleged](https://www.masscourts.org/eservices/searchresults.page?x=ZcNg*uuP1XZwLFognBWFZKdNA7zN-5W8KrO2tPZfHlzsDHf5LloW1RraQs6u51dOXrCFOyXwMUC8jONkLToXunqDmbfIywpK-RYdL3CrsB59brGX219HyZhbrySXQZTBWM-qIiAKz1TSdoyhAaqRC2HfOWvJySLPC39V4eDVp9K4GOuDw1vzjQ&antiCache=1776808100162) that he “struck her on numerous occasions once causing a black eye and has thrown hard objects at her.” 
+
+- During his 2026 gubernatorial campaign, Bush [repeatedly minimized](https://soundcloud.com/abpac/71b26e82-8361-4c1c-87e7-948daa488248/s-IqP3vVxWASf?si=686abbe774904a149ba689ae2927b7be&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) his domestic violence history in on-air interviews, recasting documented abuse as a “tough divorce” and emphasizing his ex-wife’s expressed [support.](https://www.bangordailynews.com/2025/10/20/politics/elections/domestic-violence-incidents-jonathan-bush-joam40zk0w/?_ga=2.170907296.101696965.1767812981-1608322392.1766520166) When confronted directly, Bush deflected accountability by attributing the [allegations](https://fortune.com/2021/06/17/the-return-of-athenahealth-ceo-jonathan-bush/) to an [activist investor campaign](https://soundcloud.com/abpac/2612c67f-2a12-4002-9739-a37a6685be12/s-c8ny0E5rxdA?si=7751a23eb9804abe92dd4e5761b77559&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) and [“cancel culture,”](https://soundcloud.com/abpac/ba352c20-dbf4-401b-bfc1-8a2eac22ab2c/s-zaVDtBPmU9l?si=fe5378732e4640fc866ee7a5892af106&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) while declining to substantively address the violence itself. 
+
+
+**Message:** Jonathan Bush downplayed documented domestic violence and refused to take accountability when confronted during his gubernatorial campaign.
+
 
 ## JONATHAN BUSH WAS NOT A MAINER AND MIGHT NOT HAVE MET MAINE’S RESIDENCY REQUIREMENT FOR GOVERNOR
 
