@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T15:39:07.877Z
+date: 2026-04-22T15:52:39.088Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -62,6 +62,14 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 - In 2025, Jonathan Bush said he stood behind [“everything”](https://www.pressherald.com/2025/10/08/republican-jonathan-bush-enters-maine-governors-race/) he did as CEO of Athenahealth. Under Bush’s leadership, Athenahealth carried out [large-scale layoffs](https://www.healthcareitnews.com/news/athenahealth-lays-hundreds-reorganizes-be-leaner) and [office closures](https://www.bostonglobe.com/business/2017/10/19/watertown-based-athenahealth-inc-begins-layoffs/Myo8aTnnDXCVKyIUjsYjCP/story.html) amid pressure from activist investors. 
 
 **Message:** Jonathan Bush stood by his record as Athenahealth CEO while overseeing mass layoffs and office closures.
+
+## AS ATHENAHEALTH CEO, JONATHAN BUSH FACED ALLEGATIONS OF SEXUALLY INAPPROPRIATE CONDUCT AND A SEXUALLY HOSTILE WORK ENVIRONMENT 
+
+•	In 2025, Jonathan Bush said he stood behind [“everything”](https://www.pressherald.com/2025/10/08/republican-jonathan-bush-enters-maine-governors-race/) he did as CEO of Athenahealth. While serving as CEO of Athenahealth, Jonathan Bush faced allegations of [sexually inappropriate conduct](https://www.bloomberg.com/news/articles/2018-06-04/athenahealth-ceo-bush-faces-new-allegations-as-video-emerges) and a [sexually hostile work environment.](https://nypost.com/2018/05/31/athenahealth-ceo-facing-sexual-harassment-allegations/) In 2009, in a case that was settled confidentially, a female employee filed a complaint that [alleged](https://nypost.com/2018/05/31/athenahealth-ceo-facing-sexual-harassment-allegations/) Bush made “sexually oriented remarks” towards female employees. In June 2018, Bush [abruptly stepped down as CEO](https://apnews.com/at-athenahealth-the-ceo-is-out-and-it-may-be-up-for-sale-f4e99fb5911b438aab04a018579c8247) while the company explored a potential sale and buyout. 
+
+•	In later interviews, Jonathan Bush [blamed an activist campaign](https://fortune.com/2021/06/17/the-return-of-athenahealth-ceo-jonathan-bush/) from Elliott Management and what he described as [“cancel culture”](https://soundcloud.com/abpac/jonathan-bush-the-ray-5/s-mTjfwOwj8NA?si=822bfb119a3d4bf3b377d2c5f9618fa5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) for his removal.
+
+**Message:** Jonathan Bush left Athenahealth amid sexual misconduct reporting and investor pressure, then refused to take responsibility.
 
 ## JONATHAN BUSH WAS NOT A MAINER AND MIGHT NOT HAVE MET MAINE’S RESIDENCY REQUIREMENT FOR GOVERNOR
 
