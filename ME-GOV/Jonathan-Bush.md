@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T22:16:27.590Z
+date: 2026-04-22T22:21:57.196Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -38,17 +38,17 @@ Jonathan Bush aligned closely with DonaldTrump’s governing agenda, repeatedly 
 
 **Message:** Jonathan Bush scrutinized Medicare, which seniors relied on for health care.
 
+### JONATHAN BUSH SUPPORTED RAISING THE SOCIAL SECURITY RETIREMENT AGE
+
+-  Jonathan Bush said he “wouldn’t mind” [raising the Social Security retirement age to 70,](https://www.youtube.com/watch?v=xC3Vgwu9cG8) even though more than [375,700 Mainers](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/me.pdf) relied on Social Security benefits.
+
+**Message:** Jonathan Bush supported stripping Social Security from seniors. 
+
 ### Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It
 
 -  In 2024, Jonathan Bush belittled food stamps as a “[wealth distribution mechanism](https://www.youtube.com/watch?v=drYc6st-UUo)” and criticized government assistance while more than [78,000](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) households in Maine relied on SNAP to meet basic food needs.
 
 **Message:** Jonathan Bush demeaned food assistance while tens of thousands of Maine families depended on SNAP to afford groceries and put food on the table.
-
-### JONATHAN BUSH SUPPORTED RAISING THE SOCIAL SECURITY RETIREMENT AGE
-
-•	Jonathan Bush said he “wouldn’t mind” [raising the Social Security retirement age to 70,](https://www.youtube.com/watch?v=xC3Vgwu9cG8) even though more than [375,700 Mainers](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/me.pdf) relied on Social Security benefits.
-
-Message: Jonathan Bush supported stripping Social Security from seniors. 
 
 ### Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services
 
@@ -65,9 +65,9 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 
 ### AS ATHENAHEALTH CEO, JONATHAN BUSH FACED ALLEGATIONS OF SEXUALLY INAPPROPRIATE CONDUCT AND A SEXUALLY HOSTILE WORK ENVIRONMENT 
 
-•	In 2025, Jonathan Bush said he stood behind [“everything”](https://www.pressherald.com/2025/10/08/republican-jonathan-bush-enters-maine-governors-race/) he did as CEO of Athenahealth. While serving as CEO of Athenahealth, Jonathan Bush faced allegations of [sexually inappropriate conduct](https://www.bloomberg.com/news/articles/2018-06-04/athenahealth-ceo-bush-faces-new-allegations-as-video-emerges) and a [sexually hostile work environment.](https://nypost.com/2018/05/31/athenahealth-ceo-facing-sexual-harassment-allegations/) In 2009, in a case that was settled confidentially, a female employee filed a complaint that [alleged](https://nypost.com/2018/05/31/athenahealth-ceo-facing-sexual-harassment-allegations/) Bush made “sexually oriented remarks” towards female employees. In June 2018, Bush [abruptly stepped down as CEO](https://apnews.com/at-athenahealth-the-ceo-is-out-and-it-may-be-up-for-sale-f4e99fb5911b438aab04a018579c8247) while the company explored a potential sale and buyout. 
+-  In 2025, Jonathan Bush said he stood behind [“everything”](https://www.pressherald.com/2025/10/08/republican-jonathan-bush-enters-maine-governors-race/) he did as CEO of Athenahealth. While serving as CEO of Athenahealth, Jonathan Bush faced allegations of [sexually inappropriate conduct](https://www.bloomberg.com/news/articles/2018-06-04/athenahealth-ceo-bush-faces-new-allegations-as-video-emerges) and a [sexually hostile work environment.](https://nypost.com/2018/05/31/athenahealth-ceo-facing-sexual-harassment-allegations/) In 2009, in a case that was settled confidentially, a female employee filed a complaint that [alleged](https://nypost.com/2018/05/31/athenahealth-ceo-facing-sexual-harassment-allegations/) Bush made “sexually oriented remarks” towards female employees. In June 2018, Bush [abruptly stepped down as CEO](https://apnews.com/at-athenahealth-the-ceo-is-out-and-it-may-be-up-for-sale-f4e99fb5911b438aab04a018579c8247) while the company explored a potential sale and buyout. 
 
-•	In later interviews, Jonathan Bush [blamed an activist campaign](https://fortune.com/2021/06/17/the-return-of-athenahealth-ceo-jonathan-bush/) from Elliott Management and what he described as [“cancel culture”](https://soundcloud.com/abpac/jonathan-bush-the-ray-5/s-mTjfwOwj8NA?si=822bfb119a3d4bf3b377d2c5f9618fa5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) for his removal.
+-  In later interviews, Jonathan Bush [blamed an activist campaign](https://fortune.com/2021/06/17/the-return-of-athenahealth-ceo-jonathan-bush/) from Elliott Management and what he described as [“cancel culture”](https://soundcloud.com/abpac/jonathan-bush-the-ray-5/s-mTjfwOwj8NA?si=822bfb119a3d4bf3b377d2c5f9618fa5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) for his removal.
 
 **Message:** Jonathan Bush left Athenahealth amid sexual misconduct reporting and investor pressure, then refused to take responsibility.
 
@@ -83,9 +83,9 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 
 ### JONATHAN BUSH WAS NOT A MAINER AND MIGHT NOT HAVE MET MAINE’S RESIDENCY REQUIREMENT FOR GOVERNOR
 
-•	In 2026, Jonathan Bush faced questions about whether he met the state’s five-year requirement to serve as governor. Bush's Maine residency timeline drew scrutiny after records showed he [maintained ties](https://www.pressherald.com/2026/03/28/does-jonathan-bush-meet-maines-residency-requirement-for-governor/) to Massachusetts, claimed primary residence tax benefits there, and did not register to vote in Maine until 2022. 
+-  In 2026, Jonathan Bush faced questions about whether he met the state’s five-year requirement to serve as governor. Bush's Maine residency timeline drew scrutiny after records showed he [maintained ties](https://www.pressherald.com/2026/03/28/does-jonathan-bush-meet-maines-residency-requirement-for-governor/) to Massachusetts, claimed primary residence tax benefits there, and did not register to vote in Maine until 2022. 
 
-•	Jonathan Bush faced questions about his connection to Maine during a tense interview, where he acknowledged [he was not born in the state,](https://soundcloud.com/abpac/jonathan-bush-the-ray-1/s-iZ08J5Ix0UE?si=8ea62fe8b37c45ce93624867b6ed9af1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) described himself as a “summer guy,” and pushed back on claims he wanted to be [governor of “any state.”](https://soundcloud.com/abpac/jonathan-bush-the-ray-2/s-cz0y8qfN6IL?si=687c43f22c1a40b78f5b7df6f9e790e8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+-  Jonathan Bush faced questions about his connection to Maine during a tense interview, where he acknowledged [he was not born in the state,](https://soundcloud.com/abpac/jonathan-bush-the-ray-1/s-iZ08J5Ix0UE?si=8ea62fe8b37c45ce93624867b6ed9af1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) described himself as a “summer guy,” and pushed back on claims he wanted to be [governor of “any state.”](https://soundcloud.com/abpac/jonathan-bush-the-ray-2/s-cz0y8qfN6IL?si=687c43f22c1a40b78f5b7df6f9e790e8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
 
 **Message:** Jonathan Bush’s ties to Massachusetts and limited roots in Maine raised questions about whether he truly qualified to serve as governor.
 
