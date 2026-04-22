@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T15:18:11.753Z
+date: 2026-04-22T15:21:11.989Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -57,9 +57,9 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 
 **Message:** While essential government services faltered and federal workers were laid off, Jonathan Bush praised Trump’s governance.
 
-JONATHAN BUSH STOOD “BEHIND” LAYING OFF EMPLOYEES AS ATHENAHEALTH CEO
+## JONATHAN BUSH STOOD “BEHIND” LAYING OFF EMPLOYEES AS ATHENAHEALTH CEO
 
-●	In 2025, Jonathan Bush said he stood behind [“everything”](https://www.pressherald.com/2025/10/08/republican-jonathan-bush-enters-maine-governors-race/) he did as CEO of Athenahealth. Under Bush’s leadership, Athenahealth carried out [large-scale layoffs](https://www.healthcareitnews.com/news/athenahealth-lays-hundreds-reorganizes-be-leaner) and [office closures](https://www.bostonglobe.com/business/2017/10/19/watertown-based-athenahealth-inc-begins-layoffs/Myo8aTnnDXCVKyIUjsYjCP/story.html) amid pressure from activist investors. 
+- In 2025, Jonathan Bush said he stood behind [“everything”](https://www.pressherald.com/2025/10/08/republican-jonathan-bush-enters-maine-governors-race/) he did as CEO of Athenahealth. Under Bush’s leadership, Athenahealth carried out [large-scale layoffs](https://www.healthcareitnews.com/news/athenahealth-lays-hundreds-reorganizes-be-leaner) and [office closures](https://www.bostonglobe.com/business/2017/10/19/watertown-based-athenahealth-inc-begins-layoffs/Myo8aTnnDXCVKyIUjsYjCP/story.html) amid pressure from activist investors. 
 
 **Message:** Jonathan Bush stood by his record as Athenahealth CEO while overseeing mass layoffs and office closures.
 
@@ -83,12 +83,12 @@ JONATHAN BUSH STOOD “BEHIND” LAYING OFF EMPLOYEES AS ATHENAHEALTH CEO
 
 {.links-list}
 ## Jonathan Bush Laid Off Workers
-
+- [:x: | **Jonathan Bush Stood “Behind” Laying Off Employees As Athenahealth CEO**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-layoffs)
 
 {.links-list}
 ## Jonathan Bush Had Notorious Scandals
-- [:x: |(https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-misconduct)
-- [:sos: |(https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-divorce)
-- [:house: |(https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-residency)
+- [:x: | **As Athenahealth CEO, Jonathan Bush Faced Allegations Of Sexually Inappropriate Conduct And A Sexually Hostile Work Environment**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-misconduct)
+- [:sos: | **Jonathan Bush Downplayed His History Of Domestic Violence As "Cancel Culture"**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-divorce)
+- [:house: | **Jonathan Bush Was Not A Mainer And Might Not Have Met Maine’s Residency Requirement For Governor**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-residency)
 {.links-list}
-{.links-list}
+
