@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T16:08:00.592Z
+date: 2026-04-22T16:13:00.290Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -101,7 +101,7 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 
 {.links-list}
 ## Jonathan Bush Laid Off Workers
-- [:boom:| **Jonathan Bush Stood “Behind” Laying Off Employees As Athenahealth CEO**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-layoffs)
+- [:boom:| **Jonathan Bush Stood Behind Laying Off Employees As Athenahealth CEO**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-layoffs)
 
 {.links-list}
 ## Jonathan Bush Had Notorious Scandals
