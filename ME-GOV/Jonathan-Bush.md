@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: false
-date: 2026-04-22T16:07:08.464Z
+date: 2026-04-22T16:07:21.330Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -81,7 +81,7 @@ Message: Jonathan Bush supported stripping Social Security from seniors.
 **Message:** Jonathan Bush downplayed documented domestic violence and refused to take accountability when confronted during his gubernatorial campaign.
 
 
-## JONATHAN BUSH WAS NOT A MAINER AND MIGHT NOT HAVE MET MAINE’S RESIDENCY REQUIREMENT FOR GOVERNOR
+### JONATHAN BUSH WAS NOT A MAINER AND MIGHT NOT HAVE MET MAINE’S RESIDENCY REQUIREMENT FOR GOVERNOR
 
 •	In 2026, Jonathan Bush faced questions about whether he met the state’s five-year requirement to serve as governor. Bush's Maine residency timeline drew scrutiny after records showed he [maintained ties](https://www.pressherald.com/2026/03/28/does-jonathan-bush-meet-maines-residency-requirement-for-governor/) to Massachusetts, claimed primary residence tax benefits there, and did not register to vote in Maine until 2022. 
 
