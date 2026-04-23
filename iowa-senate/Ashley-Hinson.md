@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-04-23T15:06:25.647Z
+date: 2026-04-23T15:11:09.801Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
@@ -84,3 +84,5 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 -   [:pill:**Hinson Opposed Expanding And Protecting Healthcare Coverage**](/iowa-senate/Ashley-Hinson/Health-Coverage)
 
 -   [:hospital:**Hinson Voted For Devastating Health Care Cuts**](/iowa-senate/Ashley-Hinson/Health-Care-Cuts)
+
+- [:bomb: **Hinson Supported War In Iran Which Caused Skyrocketing Gas And Fertilizer Prices**](/iowa-senate/Ashley-Hinson/Iran)
