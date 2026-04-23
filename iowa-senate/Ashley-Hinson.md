@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2025-12-19T02:36:35.561Z
+date: 2026-04-23T15:06:25.647Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
@@ -62,6 +62,12 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 -   DOGE-driven cuts were making it [difficult](https://www.thegazette.com/government-politics/iowa-rep-ashley-hinson-will-still-hold-town-halls-despite-gop-advice-not-to/) for Iowa veterans to receive care. DOGE-driven cuts led to [layoffs](https://www.weareiowa.com/article/news/local/doge-federal-funding-cuts-trump-americorps-iowa-seed-coalition-impact/524-cf96270c-860c-4f1a-9cc0-b145c608f425)[across](https://cbs2iowa.com/news/local/seven-federal-offices-closing-in-iowa-under-doge-cuts-but-savings-remain-unclear)[Iowa](https://www.kcrg.com/2025/02/20/fired-federal-employees-iowa-warn-bigger-economic-impacts/). DOGE-driven cuts led to [cancelled grants](https://iowacapitaldispatch.com/2025/09/16/federal-research-funding-canceled-in-iowa-includes-medical-student-driven-studies/) for research in Iowa’s higher educational institutions.
 
 **Message:** Hinson cheered cuts that meant slower services, loss of jobs, and a worse economy.
+
+### Hinson Supported War In Iran Which Caused Skyrocketting Gas And Fertilizer Prices
+
+- Hinson [defended](https://www.desmoinesregister.com/story/news/politics/2026/03/05/iowas-us-house-vote-limits-on-trumps-war-powers-iran/89000093007/) the war in Iran and [opposed](https://www.telegraphherald.com/news/politics/article_6347594f-a20b-46b1-83bf-108c978188e2.html) legislative action to limit the ongoing war. The war in Iran caused [gas prices](https://www.desmoinesregister.com/story/news/politics/2026/04/02/cheapest-gas-near-me-iowa-iran-war-response/89434867007/) in Iowa to skyrocket harming Iowan families. The war also caused the price of [fertilizer](https://www.thegazette.com/news/agriculture/iowa-farmers-were-already-struggling-with-fertilizer-prices-the-war-in-iran-made-them-worse/article_33f67315-ef9c-5cc6-a367-31632ac67b0c.html) to increase which, along with the [gas prices](https://www.thegazette.com/news/agriculture/iowa-farmers-were-already-struggling-with-fertilizer-prices-the-war-in-iran-made-them-worse/article_33f67315-ef9c-5cc6-a367-31632ac67b0c.html), were [harming](https://www.thegazette.com/news/agriculture/iowa-farmers-were-already-struggling-with-fertilizer-prices-the-war-in-iran-made-them-worse/article_33f67315-ef9c-5cc6-a367-31632ac67b0c.html) Iowa’s farmers. 
+
+**Message:** Hinson cheered on Trump’s war in Iran which was raising gas and fertilizer prices, tightening Iowan families and farmer’s pockets.  
 
 # Issue Back-ups
 
