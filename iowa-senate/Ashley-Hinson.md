@@ -2,13 +2,23 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-04-23T19:22:49.310Z
+date: 2026-04-23T19:26:42.923Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against Ashley Hinson
 
@@ -104,44 +114,30 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 
 ## Ashley Hinson Supported Policies That Hurt Iowans
 
-![💰](/_assets/svg/twemoji/1f4b0.svg)
+-   [:moneybag:**Hinson Defended Cuts That Threatened Social Security, Iowans' Livelihoods And Iowa's Economy**](/iowa-senate/Ashley-Hinson/DOGE)
 
-[**Hinson Defended Cuts That Threatened Social Security, Iowans' Livelihoods And Iowa's Economy**](/iowa-senate/Ashley-Hinson/DOGE)
+-   [:bulb:**Hinson Voted Against Protecting Iowans' Clean Energy Jobs**](/iowa-senate/Ashley-Hinson/Energy)
 
-![💡](/_assets/svg/twemoji/1f4a1.svg)
+-   [:shopping_cart:**Hinson Voted To Protect Damaging Tariffs**](/iowa-senate/Ashley-Hinson/Tariffs)
 
-[**Hinson Voted Against Protecting Iowans' Clean Energy Jobs**](/iowa-senate/Ashley-Hinson/Energy)
+-   [:apple:**Hinson Voted To Take Food Assistance From Iowans**](/iowa-senate/Ashley-Hinson/SNAP)
 
-![🛒](/_assets/svg/twemoji/1f6d2.svg)
+-   [:pill:**Hinson Opposed Expanding And Protecting Healthcare Coverage**](/iowa-senate/Ashley-Hinson/Health-Coverage)
 
-[**Hinson Voted To Protect Damaging Tariffs**](/iowa-senate/Ashley-Hinson/Tariffs)
+-   [:hospital:**Hinson Voted For Devastating Health Care Cuts**](/iowa-senate/Ashley-Hinson/Health-Care-Cuts)
 
-![🍎](/_assets/svg/twemoji/1f34e.svg)
+- [:bomb: **Hinson Supported War In Iran Which Caused Skyrocketing Gas And Fertilizer Prices**](/iowa-senate/Ashley-Hinson/Iran)
 
-[**Hinson Voted To Take Food Assistance From Iowans**](/iowa-senate/Ashley-Hinson/SNAP)
+- [:hammer:**Hinson Opposed Infrastructure Spending That Supported Iowans**](/iowa-senate/Ashley-Hinson/Infrastructure)
 
-![💊](/_assets/svg/twemoji/1f48a.svg)
+- [:potable_water:**Hinson Opposed Keeping Iowa’s Drinking Water Clean**](/iowa-senate/Ashley-Hinson/drinking-water) 
 
-[**Hinson Opposed Expanding And Protecting Healthcare Coverage**](/iowa-senate/Ashley-Hinson/Health-Coverage)
+- [:older_woman:**Hinson Was A Threat To Social Security**](/iowa-senate/Ashley-Hinson/Social-Security)
 
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
-
-[**Hinson Voted For Devastating Health Care Cuts**](/iowa-senate/Ashley-Hinson/Health-Care-Cuts)
-
-![💣](/_assets/svg/twemoji/1f4a3.svg)
-
-[**Hinson Supported War In Iran Which Caused Skyrocketing Gas And Fertilizer Prices**](/iowa-senate/Ashley-Hinson/Iran)
-
-[**Hinson Opposed Infrastructure Spending That Supported Iowans**](/iowa-senate/Ashley-Hinson/Infrastructure)
-
-[**Hinson Opposed Keeping Iowa’s Drinking Water Clean**](/iowa-senate/Ashley-Hinson/drinking-water) 
-
-[**Hinson Was A Threat To Social Security**](/iowa-senate/Ashley-Hinson/Social-Security)
-
-[**Hinson Was An Ineffective And Bad Representative For Farmers**](/iowa-senate/Ashley-Hinson/Farmers)
+- [:farmer:**Hinson Was An Ineffective And Bad Representative For Farmers**](/iowa-senate/Ashley-Hinson/Farmers)
 
 ## Ashley Hinson Would Be Bad In The Senate 
 
-[**Hinson Would Be Just Another Joni Ernst**](/iowa-senate/Ashley-Hinson/Ernst) 
+- [:pig2:**Hinson Would Be Just Another Joni Ernst**](/iowa-senate/Ashley-Hinson/Ernst) 
 
-[**Hinson Was Caught Plagiarizing Campaign Materials**](/iowa-senate/Ashley-Hinson/plagiarism)
+- [:writing_hand:**Hinson Was Caught Plagiarizing Campaign Materials**](/iowa-senate/Ashley-Hinson/plagiarism)
