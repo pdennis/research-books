@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy
 description: 
 published: false
-date: 2026-04-24T13:43:51.464Z
+date: 2026-04-24T13:49:51.259Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
@@ -12,7 +12,7 @@ dateCreated: 2026-04-24T13:17:44.471Z
 
 # How To Win Against Vivek Ramaswamy
 
-Former failed presidential candidate and extremist Vivek Ramaswamy sought to bring his extremism to Ohio, promoting policies that would strip Ohioans of their health care and food assistance. Ramaswamy supported Medicaid work requirements, calling them “not extreme but common sense,” and scrutinized Trump for not repealing and replacing the Affordable Care Act. Ramaswamy indicated he supported Trump’s reciprocal tariffs, even though Trump’s tariff policies were harming Ohio farmers and manufacturing. Ramaswamy was a key architect of Trump’s DOGE initiative, which shut down critical federal offices and targeted the livelihoods of 83,000 federal workers in Ohio. Ramaswamy was an anti-abortion extremist, who called abortion "murder” and expressed support for a six-week abortion ban at the state level. Ramaswamy also excused the January 6 insurrectionists, entertained conspiracy theories about January 6, and said he would not have certified the Electoral College votes as Pence did. In 2023, Ramaswamy accepted a campaign contribution from a notorious Islamophobe. Ramaswamy was found to have paid a Wikipedia editor to delete references to his involvement in Ohio’s COVID-19 Response Team and his relationship with a stem-cell chemist who pioneered the mRNA vaccine. Despite Ramaswamy’s COVID-19 vaccine skepticism and attacks on Operation Warp Speed and the FDA, he stood to reap a windfall from lawsuits his former companies were pursuing against Moderna, Pfizer, and BioNTech over technology that was used in the COVID-19 vaccines.
+Former failed presidential candidate and extremist Vivek Ramaswamy sought to bring his extremism to Ohio, promoting policies that would strip Ohioans of their health care and food assistance. Ramaswamy supported Medicaid work requirements, calling them “not extreme but common sense,” and scrutinized Trump for not repealing and replacing the Affordable Care Act. Ramaswamy indicated he supported Trump’s reciprocal tariffs, even though Trump’s tariff policies were harming Ohio farmers and manufacturing. Ramaswamy was a key architect of Trump’s DOGE initiative, which shut down critical federal offices and targeted the livelihoods of 83,000 federal workers in Ohio. Ramaswamy was an anti-abortion extremist, who called abortion "murder" and expressed support for a six-week abortion ban at the state level. Ramaswamy also excused the January 6 insurrectionists, entertained conspiracy theories about January 6, and said he would not have certified the Electoral College votes as Pence did. In 2023, Ramaswamy accepted a campaign contribution from a notorious Islamophobe. Ramaswamy was found to have paid a Wikipedia editor to delete references to his involvement in Ohio’s COVID-19 Response Team and his relationship with a stem-cell chemist who pioneered the mRNA vaccine. Despite Ramaswamy’s COVID-19 vaccine skepticism and attacks on Operation Warp Speed and the FDA, he stood to reap a windfall from lawsuits his former companies were pursuing against Moderna, Pfizer, and BioNTech over technology that was used in the COVID-19 vaccines.
 
 ### Vivek Ramaswamy Supported Restricting Medicaid And Repealing The Affordable Care Act
 
@@ -85,28 +85,33 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 -   In February 2022, Arbutus and Genevant [filed suit](https://www.reuters.com/business/healthcare-pharmaceuticals/arbutus-files-patent-infringement-lawsuit-against-moderna-2022-02-28/) against Moderna, while Ramaswamy was still chairman of Roivant, over Liquid Nanoparticles patent infringement. In March 2026, Moderna [settled](https://www.jdsupra.com/legalnews/moderna-settles-patent-litigation-with-3250578/) the infringement damages and agreed to pay $950 million by July 2026. 
 -   In April 2023, Arbutus and Genevant [filed suit](https://www.reuters.com/legal/arbutus-files-patent-infringement-lawsuit-against-pfizerbiontech-2023-04-04/) against Pfizer and BioNTech. Arbutus and Genevant claimed Pfizer and BioNTech’s COVID-19 vaccines infringed on Arbutus’ patents. 
 
+**Message:** While Vivek Ramaswamy undermined public health initiatives during a global pandemic, he failed to mention how he would profit from lawsuits over the COVID-19 vaccine.  
+
 # Issue Back-Ups
 
 ## Vivek Ramaswamy Policies Have Hurt Everyday People
 
-[Vivek Ramaswamy Supported Restricting Medicaid And Opposed The Affordable Care Act](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-medicaid)
+- [:hospital: | **Vivek Ramaswamy Supported Restricting Medicaid And Opposed The Affordable Care Act**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-medicaid)
 
-[Vivek Ramaswamy Backed Trump's Reciprocal Tariffs, Endangering Ohio’s Economy](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-tariffs)
+- [:shopping_cart: | **Vivek Ramaswamy Backed Trump's Reciprocal Tariffs, Endangering Ohio’s Economy**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-tariffs)
 
-[Vivek Ramaswamy Supported Cutting SNAP Benefits From Ohio Families](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-food)
+- [:apple: | **Vivek Ramaswamy Supported Cutting SNAP Benefits From Ohio Families**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-food)
 
-[Vivek Ramaswamy Was A Co-Architect Of Trump’s DOGE](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-DOGE)
+- [:x: | **Vivek Ramaswamy Was A Co-Architect Of Trump’s DOGE**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-DOGE)
 
-[Vivek Ramaswamy Was An Anti-Abortion Extremist](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-abortion)
+- [:woman: | **Vivek Ramaswamy Was An Anti-Abortion Extremist**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-abortion)
+{.links-list}
 
 ## Vivek Ramaswamy Had Ties To Extremists And Conspiracy Theories 
 
-[Vivek Ramaswamy Was An Election Denier And Entertained January 6 Conspiracy Theories](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-biglie)
+- [:ballot_box: | **Vivek Ramaswamy Was An Election Denier And Entertained January 6 Conspiracy Theories**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-biglie)
 
-[Vivek Ramaswamy Accepted A Donation From A Notorious Islamophobe](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-donation-islamophobe)
+- [:money_with_wings: | **Vivek Ramaswamy Accepted A Donation From A Notorious Islamophobe**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-donation-islamophobe)
+{.links-list}
 
 ## Vivek Ramaswamy Used His Power And Wealth To Benefit Himself
 
-[Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-wikipedia)
+- [:sos: | **Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-wikipedia)
 
-[Vivek Ramaswamy Stood To Reap Windfall From Lawsuits Over The COVID-19 Vaccine Technology Which He Attacked In Public](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-covid-vaccine)
+- [:syringe: | **Vivek Ramaswamy Stood To Reap Windfall From Lawsuits Over The COVID-19 Vaccine Technology Which He Attacked In Public**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-covid-vaccine)
+{.links-list}
