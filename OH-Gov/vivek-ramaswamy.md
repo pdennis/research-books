@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy
 description: 
 published: false
-date: 2026-04-24T13:43:47.583Z
+date: 2026-04-24T13:43:51.464Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
