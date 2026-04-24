@@ -2,23 +2,12 @@
 title: Vivek Ramaswamy
 description: 
 published: true
-date: 2026-04-24T14:15:32.486Z
+date: 2026-04-24T14:30:23.760Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
-
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Vivek Ramaswamy
 
