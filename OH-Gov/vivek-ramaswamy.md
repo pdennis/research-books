@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy
 description: 
 published: false
-date: 2026-04-24T13:55:20.949Z
+date: 2026-04-24T13:56:50.953Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
@@ -83,6 +83,7 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 ### Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base
 
 -   In 2023, Vivek Ramaswamy was found to have paid a Wikipedia editor to delete references to his involvement in [Ohio’s COVID-19 Response Team](https://www.mediaite.com/politics/exclusive-vivek-ramaswamy-paid-to-have-his-soros-fellowship-and-covid-era-role-scrubbed-from-wikipedia-page/) and his relationship with a [stem-cell chemist](https://www.nationalreview.com/news/ramaswamy-paid-wikipedia-editor-to-delete-reference-to-harvard-vaccine-scientist-mentor-days-before-announcing-campaign/) who pioneered the mRNA vaccine. 
+- Vivek Ramaswamy repeatedly pushed [COVID-19 vaccine skepticism](https://www.nbcnews.com/politics/2024-election/vivek-ramaswamy-regrets-taking-covid-vaccine-wife-surgeon-not-rcna105527) and [attacks on Operation Warp Speed](https://www.youtube.com/watch?v=5iQ-kp1zprY) and the [FDA.](https://www.youtube.com/watch?v=6Afwp3qY-vE)
 
 **Message:** Vivek Ramaswamy used his wealth to hide his own record from his right-wing base. 
 
