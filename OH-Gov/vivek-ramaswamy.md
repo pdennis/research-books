@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy
 description: 
 published: true
-date: 2026-04-24T14:30:23.760Z
+date: 2026-04-24T14:40:59.299Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
@@ -11,7 +11,7 @@ dateCreated: 2026-04-24T13:17:44.471Z
 
 # How To Win Against Vivek Ramaswamy
 
-Former failed presidential candidate and extremist Vivek Ramaswamy sought to bring his extremism to Ohio, promoting policies that would strip Ohioans of their health care and food assistance. Ramaswamy supported Medicaid work requirements, calling them “not extreme but common sense,” and scrutinized Trump for not repealing and replacing the Affordable Care Act. Ramaswamy indicated he supported Trump’s reciprocal tariffs, even though Trump’s tariff policies were harming Ohio farmers and manufacturing. Ramaswamy was a key architect of Trump’s DOGE initiative, which shut down critical federal offices and targeted the livelihoods of 83,000 federal workers in Ohio. Ramaswamy was an anti-abortion extremist, who called abortion "murder" and expressed support for a six-week abortion ban at the state level. Ramaswamy also excused the January 6 insurrectionists, entertained conspiracy theories about January 6, and said he would not have certified the Electoral College votes as Pence did. In 2023, Ramaswamy accepted a campaign contribution from a notorious Islamophobe. Ramaswamy was found to have paid a Wikipedia editor to delete references to his involvement in Ohio’s COVID-19 Response Team and his relationship with a stem-cell chemist who pioneered the mRNA vaccine. Despite Ramaswamy’s COVID-19 vaccine skepticism and attacks on Operation Warp Speed and the FDA, he stood to reap a windfall from lawsuits his former companies were pursuing against Moderna, Pfizer, and BioNTech over technology that was used in the COVID-19 vaccines.
+Former failed presidential candidate and extremist Vivek Ramaswamy sought to bring his extremism to Ohio, promoting policies that would strip Ohioans of their health care and food assistance. Ramaswamy supported Medicaid work requirements, calling them “not extreme but common sense,” and scrutinized Trump for not repealing and replacing the Affordable Care Act. Ramaswamy indicated he supported Trump’s reciprocal tariffs, even though Trump’s tariff policies were harming Ohio farmers and manufacturing. Ramaswamy was a key architect of Trump’s DOGE initiative, which shut down critical federal offices and targeted the livelihoods of 83,000 federal workers in Ohio. Ramaswamy was an anti-abortion extremist, who called abortion "murder" and expressed support for a six-week abortion ban at the state level. Ramaswamy also excused the January 6 insurrectionists, entertained conspiracy theories about the January 6 insurrection, and said he would not have certified the Electoral College votes as Pence did. In 2023, Ramaswamy accepted a campaign contribution from a notorious Islamophobe. Ramaswamy was found to have paid a Wikipedia editor to delete references to his involvement in Ohio’s COVID-19 Response Team and his relationship with a stem-cell chemist who pioneered the mRNA vaccine. Despite Ramaswamy’s COVID-19 vaccine skepticism and attacks on Operation Warp Speed and the FDA, he stood to reap a windfall from lawsuits his former companies were pursuing against Moderna, Pfizer, and BioNTech over technology that was used in the COVID-19 vaccines.
 
 ### Vivek Ramaswamy Supported Restricting Medicaid And Repealing The Affordable Care Act
 
