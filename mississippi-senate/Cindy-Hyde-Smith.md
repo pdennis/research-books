@@ -2,13 +2,23 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-04-24T15:18:36.647Z
+date: 2026-04-24T15:23:23.630Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
 
 # How To Win Against Cindy Hyde-Smith
 
@@ -55,11 +65,11 @@ Hyde-Smith [attended](https://www.jacksonfreepress.com/news/2018/nov/23/hyde-smi
 
 ## Cindy Hyde-Smith Supported Policies That Hurt Mississippi
 
--   [Hyde-Smith Supported Tariffs Which Harmed Mississippi’s Economy](/mississippi-senate/Cindy-Hyde-Smith/tariffs ) 
--   [Hyde-Smith Supported Iran’s War Which Was Driving Up Gas And Fertilizer Prices](/mississippi-senate/Cindy-Hyde-Smith/Iran) 
--   [Hyde-Smith Dismissed Concerns About The Rising Cost Of Beef](/mississippi-senate/Cindy-Hyde-Smith/Beef) 
+-   [:shopping_cart:Hyde-Smith Supported Tariffs Which Harmed Mississippi’s Economy](/mississippi-senate/Cindy-Hyde-Smith/tariffs ) 
+-   [:bomb:Hyde-Smith Supported Iran’s War Which Was Driving Up Gas And Fertilizer Prices](/mississippi-senate/Cindy-Hyde-Smith/Iran) 
+-   [:cow2:Hyde-Smith Dismissed Concerns About The Rising Cost Of Beef](/mississippi-senate/Cindy-Hyde-Smith/Beef) 
 
 ## Cindy Hyde-Smith Was Not Fit To Represent Mississippi 
 
--   [Hyde-Smith Used Racially Insensitive Language And Embraced Confederate History](/mississippi-senate/Cindy-Hyde-Smith/Confederate)
--   [Hyde-Smith Campaigned With A Sheriff Whose Office Contained An Alleged “Goon Squad”](/mississippi-senate/Cindy-Hyde-Smith/goon-squad)
+-   [:white_flag:Hyde-Smith Used Racially Insensitive Language And Embraced Confederate History](/mississippi-senate/Cindy-Hyde-Smith/Confederate)
+-   [:oncoming_police_car:Hyde-Smith Campaigned With A Sheriff Whose Office Contained An Alleged “Goon Squad”](/mississippi-senate/Cindy-Hyde-Smith/goon-squad)
