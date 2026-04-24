@@ -2,7 +2,7 @@
 title: Senate Races
 description: 
 published: true
-date: 2026-01-27T16:59:26.369Z
+date: 2026-04-24T15:25:15.828Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T03:01:09.377Z
@@ -16,5 +16,6 @@ dateCreated: 2025-12-27T03:01:09.377Z
 -   [:wrench:*Ohio*](/ohio-senate)
 -   [:car: *Michigan*](/michigan-senate)
 -   [:lobster: *Maine*](/maine-senate)
+-   [:hibiscus: *Mississippi*](/mississippi-senate)
 -   [:cow: *Texas*](/texas-senate)
 {.links-list}
