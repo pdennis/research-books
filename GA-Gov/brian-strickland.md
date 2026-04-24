@@ -2,7 +2,7 @@
 title: Brian Strickland
 description: 
 published: false
-date: 2026-04-24T20:42:02.123Z
+date: 2026-04-24T20:43:00.441Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T20:12:33.873Z
@@ -23,8 +23,6 @@ COMING SOON!
 # How To Win Against Brian Strickland
 
 Brian Strickland’s tenure in the Georgia General Assembly reflected a record of opposition to Medicaid expansion, restrictions to food assistance, attacks on public education, anti-abortion extremism, and attacks against Georgians’ fundamental rights. Strickland repeatedly voted to make it harder for Georgia to fully expand Medicaid and previously voted to make Georgia non-compliant with the Affordable Care Act. Strickland repeatedly voted for anti-abortion legislation, including Georgia’s extreme six-week abortion ban. Strickland supported and voted for policies that would defund Georgia’s public schools and enable book bans. Despite warnings it was illegal, Strickland voted to impose drug tests for certain SNAP recipients. Strickland also voted to allow people to deny employment or services, including marriage ceremonies, to LGBTQ+ Georgians. Strickland voted for Georgia’s 2021 voter suppression law that restricted voting access in Georgia, predominantly affecting Black and minority voters. He also voted for a “crack down” on protesters that would “stifle” Georgians’ right to protest. Strickland’s support for Trump’s deployment of federal forces against Los Angeles residents raised questions about whether he would protect Georgians from Trump overstepping his authority.
-
-# Issue Back-Ups
 
 ### Brian Strickland Repeatedly Voted To Make It Harder For Georgia To Expand Medicaid
 
@@ -88,6 +86,7 @@ In 2016, Brian Strickland [voted](https://www.legis.ga.gov/legislation/47388) fo
 
 **Message:** Brian Strickland would not protect Georgians from federal forces as Trump continues to test how far he can exceed his authority.
 
+# Issue Back-Ups
 ## Brian Strickland’s Policies Have Hurt Everyday People
 
 - [:hospital: | **Brian Strickland Repeatedly Voted To Make It Harder For Georgia To Expand Medicaid**](https://research-books.com/en/GA-Gov/brian-strickland/strickland-medicaid)
