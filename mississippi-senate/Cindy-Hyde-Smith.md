@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-04-27T19:52:53.957Z
+date: 2026-04-27T20:09:33.005Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -40,15 +40,29 @@ Hyde-Smith [voted](https://www.congress.gov/bill/117th-congress/house-bill/3684/
 
 Hyde-Smith's fellow senator, Senator Wicker, did vote for the legislation and highlighted that the investments were “[badly needed](https://www.wicker.senate.gov/2021/8/wicker-supports-physical-infrastructure-bill)” and “[historic](https://www.ddtonline.com/politics-press-releases/wicker-hyde-smith-split-ending-debate-over-infrastructure-bill-6111607d81a5c).”
 
-**Message:** Hyde-Smith touted critical spending that she voted againist and was out of touch with the needs of Mississippi.
+**Message:** Hyde-Smith touted critical spending that she voted against and was out of touch with the needs of Mississippi.
+
+### **Hyde-Smith Opposed Access To Affordable Healthcare**
+
+-   Hyde-Smith [_repeatedly_](http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&session=2&vote=00325) [_opposed_](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00644.htm) the Affordable Care Act premium subsidies and [_dismissed_](https://www.hydesmith.senate.gov/hyde-smith-appeals-legitimate-cooperation-fix-unaffordable-fraud-plagued-obamacare) Mississippians who faced increased healthcare costs.
+-   200,000 Mississippi residents were projected to [_drop their insurance_](https://www.wlbt.com/2025/12/27/aca-subsidies-set-expire-driving-up-insurance-costs-mississippi-residents/) without the Affordable Care Act premium subsidies and health insurance costs in Mississippi [_increased by 41%_](https://www.wlbt.com/2025/12/27/aca-subsidies-set-expire-driving-up-insurance-costs-mississippi-residents/).
+-   Hyde-Smith [_supported_](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm) the GOP’s Big Beautiful Bill; the Senator [_praised_](https://x.com/cindyhydesmith/status/1943478066317070524) the damaging legislation and [_downplayed_](https://www.hydesmith.senate.gov/one-big-beautiful-bill?fbclid=IwY2xjawRafXlleHRuA2FlbQIxMABicmlkETFRWGpnT1E0bzY3YVkwcDltc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtdEREgbNdJjtBUkF3eajaUO6s-knqoHHQnOJik3KAWi46-f_JEzJtnkwuIe_aem_PczwKypR5ry3dUwbmmK-xA) the Medicaid cuts contained therein.
+-   Six rural Mississippi hospitals were [_at risk of closure_](https://www.clarionledger.com/story/news/2026/04/14/6-mississippi-hospitals-are-at-risk-of-closing-due-to-medicaid-cuts/89609149007/) from the Big Beautiful Bill’s Medicaid cuts and Mississippi hospitals were projected to [_lose $1 billion_](https://mississippitoday.org/2026/04/21/mississippi-lawmakers-health-care/). 115,000 Mississippians expected to [_lose their healthcare benefits_](https://www.mississippifreepress.org/thousands-in-mississippians-could-lose-medicaid-chip-coverage-under-trumps-big-beautiful-bill/) under the Big Beautiful Bill and healthcare enrollment rates [_dropped by 8%_](https://mississippitoday.org/2026/04/21/mississippi-lawmakers-health-care/).
+
+**Message:** Hyde-Smith blocked Mississippians’ access to affordable healthcare and drove up their insurance costs. 
+
+### **Hyde-Smith Slashed Mississippians’ Supplemental Nutrition Assistance And Threatened Mississippi Children With Food Insecurity**
+
+-   Hyde-Smith [_backed_](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm) the GOP’s Big Beautiful Bill and [_downplayed_](https://www.hydesmith.senate.gov/one-big-beautiful-bill?fbclid=IwY2xjawRafXlleHRuA2FlbQIxMABicmlkETFRWGpnT1E0bzY3YVkwcDltc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtdEREgbNdJjtBUkF3eajaUO6s-knqoHHQnOJik3KAWi46-f_JEzJtnkwuIe_aem_PczwKypR5ry3dUwbmmK-xA) the legislation’s cuts to nutritional assistance programs.
+-   The Big Beautiful Bill [_slashed_](https://mississippitoday.org/2025/07/24/heres-how-trumps-big-beautiful-bill-will-impact-mississippi-schools/) Mississippians’ Supplemental Nutrition Assistance and [_threatened_](https://mississippitoday.org/2025/07/24/heres-how-trumps-big-beautiful-bill-will-impact-mississippi-schools/) Mississippi children with food insecurity.
+
+**Message:** Hyde-Smith prioritized tax cuts for wealthy donors over nutrition assistance for Mississippi children.
 
 ### Hyde-Smith Used Racially Insensitive Language And Embraced Confederate History
 
-Hyde-Smith had a long history of embracing a history that was insensitive to Black Mississippians. At a campaign event, Hyde-Smith claimed that if the man who introduced her invited her to a public hanging that she would be in “[the front row](https://youtu.be/78Ao0UggyjQ?si=_dzwYFnQpke739bp).” Her comments drew [condemnation](https://www.pbs.org/newshour/politics/public-hanging-remark-by-mississippis-sen-cindy-hyde-smith-draws-rebuke-ahead-of-runoff) from [Mississippi's](https://www.npr.org/2018/11/21/669746158/racial-controversy-stirs-mississippi-senate-runoff) Black community and when asked about it, she claimed that the expression didn't have a “[negative connotation](https://www.pbs.org/newshour/politics/public-hanging-remark-by-mississippis-sen-cindy-hyde-smith-draws-rebuke-ahead-of-runoff).”
-
-Hyde-Smith [repeatedly](https://www.washingtonpost.com/politics/cindy-hyde-smith-has-embraced-confederate-history-more-than-once-in-her-political-career/2018/11/22/2d8ac440-ed0c-11e8-baac-2a674e91502b_story.html) embraced confederate history including [posing](https://www.politico.com/story/2018/11/20/hyde-smith-confederate-hat-picture-1008010) in with a confederate hat.
-
-Hyde-Smith [attended](https://www.jacksonfreepress.com/news/2018/nov/23/hyde-smith-attended-all-white-seg-academy-avoid-in/) an all white segregation academy that was founded when the state had to integrate the public schools.
+-   Hyde-Smith had a long history of embracing a history that was insensitive to Black Mississippians. At a campaign event, Hyde-Smith claimed that if the man who introduced her invited her to a public hanging that she would be in “[the front row](https://youtu.be/78Ao0UggyjQ?si=_dzwYFnQpke739bp).” Her comments drew [condemnation](https://www.pbs.org/newshour/politics/public-hanging-remark-by-mississippis-sen-cindy-hyde-smith-draws-rebuke-ahead-of-runoff) from [Mississippi's](https://www.npr.org/2018/11/21/669746158/racial-controversy-stirs-mississippi-senate-runoff) Black community and when asked about it, she claimed that the expression didn't have a “[negative connotation](https://www.pbs.org/newshour/politics/public-hanging-remark-by-mississippis-sen-cindy-hyde-smith-draws-rebuke-ahead-of-runoff).”
+-   Hyde-Smith [repeatedly](https://www.washingtonpost.com/politics/cindy-hyde-smith-has-embraced-confederate-history-more-than-once-in-her-political-career/2018/11/22/2d8ac440-ed0c-11e8-baac-2a674e91502b_story.html) embraced confederate history including [posing](https://www.politico.com/story/2018/11/20/hyde-smith-confederate-hat-picture-1008010) in with a confederate hat.
+-   Hyde-Smith [attended](https://www.jacksonfreepress.com/news/2018/nov/23/hyde-smith-attended-all-white-seg-academy-avoid-in/) an all white segregation academy that was founded when the state had to integrate the public schools.
 
 **Message:** How can Hyde-Smith be trusted to continue representing Mississippi if she continuously disrespects her Black constituents.
 
@@ -58,6 +72,12 @@ Hyde-Smith [attended](https://www.jacksonfreepress.com/news/2018/nov/23/hyde-smi
 -   Sheriff Bailey also was [**accused**](https://americanjournalnews.com/hyde-smith-campaigns-with-sheriff-linked-to-rankin-county-abuse-scandal/) of misusing his influence to spy on his girlfriend's phone and having inmates at the Rankin County jail do manual labor on his mother;'s farm where some claimed that they were unpaid.
 
 **Message:** How can Hyde-Smith be trusted to continue representing Mississippi if she is campaigning with those who were accused of misusing their power and had a “good squad” operating under their nose.
+
+### **Hyde-Smith Voted To Protect Her Stock Portfolio**
+
+-   Hyde-Smith [_voted_](https://www.wjtv.com/washington/washington-dc/sen-hyde-smith-blocks-bid-to-ban-stock-trading-in-congress/) to block a ban on congressional stock trading and [_refused_](https://msindy.org/p/hyde-smith-votes-to-kill-stock-trading) to comment on her vote. Hyde-Smith was [_far wealthier_](https://mississippitoday.org/2026/04/22/congressional-delegation-wealthier-mississippi/) than the average Mississippian and voted to protect her investment portfolio; the Senator [_owned_](https://mississippitoday.org/2026/04/22/congressional-delegation-wealthier-mississippi/) telecommunications stocks and was worth [_over $1.3 million_](https://www.quiverquant.com/congresstrading/politician/Cindy%20Hyde-Smith-H001079/net-worth).
+
+**Message:** Hyde-Smith voted to protect her stock portfolio and wanted to get rich off Mississippians’ Senate seat.
 
 # Issue Back-ups
 
@@ -79,6 +99,10 @@ Hyde-Smith [attended](https://www.jacksonfreepress.com/news/2018/nov/23/hyde-smi
 
 -   [Hyde-Smith Opposed Infrastructure Spending That Supported Mississippians](/mississippi-senate/Cindy-Hyde-Smith/infrastructure)
 
+-   [Hyde-Smith Opposed Access To Affordable Healthcare](https://research-books.com/mississippi-senate/Cindy-Hyde-Smith/healthcare)
+
+-   [Hyde-Smith Slashed Mississippians’ Supplemental Nutrition Assistance And Threatened Mississippi Children With Food Insecurity](https://research-books.com/mississippi-senate/Cindy-Hyde-Smith/snap-cuts)
+
 ## Cindy Hyde-Smith Was Not Fit To Represent Mississippi
 
 ![🏳️](/_assets/svg/twemoji/1f3f3.svg)
@@ -89,4 +113,4 @@ Hyde-Smith [attended](https://www.jacksonfreepress.com/news/2018/nov/23/hyde-smi
 
 -   [Hyde-Smith Campaigned With A Sheriff Whose Office Contained An Alleged “Goon Squad”](/mississippi-senate/Cindy-Hyde-Smith/goon-squad)
 
--   [_Hyde-Smith Voted To Protect Her Stock Portfolio_](https://research-books.com/mississippi-senate/Cindy-Hyde-Smith/stocks)
+-   [_Hyde-Smith Voted To Protect Her Stock Portfolio_](/mississippi-senate/Cindy-Hyde-Smith/stocks)
