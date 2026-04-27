@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-04-24T15:27:52.025Z
+date: 2026-04-27T14:44:59.937Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -68,6 +68,7 @@ COMING SOON!
 -   [:shopping_cart:Hyde-Smith Supported Tariffs Which Harmed Mississippi’s Economy](/mississippi-senate/Cindy-Hyde-Smith/tariffs ) 
 -   [:bomb:Hyde-Smith Supported Iran’s War Which Was Driving Up Gas And Fertilizer Prices](/mississippi-senate/Cindy-Hyde-Smith/Iran) 
 -   [:cow2:Hyde-Smith Dismissed Concerns About The Rising Cost Of Beef](/mississippi-senate/Cindy-Hyde-Smith/Beef) 
+- [:wrench:Hyde-Smith Opposed Infrastructure Spending That Supported Mississippians](/mississippi-senate/Cindy-Hyde-Smith/infrastructure)
 
 ## Cindy Hyde-Smith Was Not Fit To Represent Mississippi 
 
