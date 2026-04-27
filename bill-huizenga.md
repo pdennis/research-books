@@ -2,7 +2,7 @@
 title: Bill Huizenga (MI-04)
 description: 
 published: false
-date: 2026-04-27T22:24:18.641Z
+date: 2026-04-27T22:25:43.864Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-22T14:23:46.505Z
@@ -42,7 +42,7 @@ Bill Huizenga has shown that he will turn his back on West Michiganders when it 
 
 ### Huizenga voted against the bipartisan infrastructure law that was helping rebuild michigan’s infrastructure
 
--   In 2021, Huizenga [voted](http://clerk.house.gov/evs/2021/roll369.xml) against the Bipartisan Infrastructure Law, calling it a [“monstrosity” and a “reckless spending spree.”](https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=401392) Since its passage, Michigan has received [$13 billion in infrastructure funding](https://www.michigan.gov/whitmer/issues/michigan-infrastructure-office/mio-press-release/2024/11/15/bipartisan-infrastructure-law-invests-$13-billion-projects-statewide), including for a grant to help Kalamazoo [upgrade its stormwater infrastructure](https://www.kalamazoocity.org/files/assets/public/v/1/city-view/may_2024.pdf).
+-   In 2021, Huizenga [voted](http://clerk.house.gov/evs/2021/roll369.xml) against the Bipartisan Infrastructure Law, calling it a [“monstrosity” and a “reckless spending spree.”](https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=401392) Since its passage, Michigan has received $13 billion in infrastructure funding, including for a grant to help Kalamazoo [upgrade its stormwater infrastructure](https://www.kalamazoocity.org/files/assets/public/v/1/city-view/may_2024.pdf).
 
 **Message:** Huizenga was so entrenched in party politics he wouldn’t even vote to repair West Michigan’s roads and bridges. 
 
