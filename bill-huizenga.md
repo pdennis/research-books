@@ -2,7 +2,7 @@
 title: Bill Huizenga (MI-04)
 description: 
 published: false
-date: 2026-04-27T22:18:50.602Z
+date: 2026-04-27T22:24:18.641Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-22T14:23:46.505Z
@@ -61,7 +61,16 @@ Bill Huizenga has shown that he will turn his back on West Michiganders when it 
 # Issue Briefs
 
 ## Bill Huizenga Supported Policies That Hurt Every Day Michiganders
-
+- [:hospital: *Huizenga Has Repeatedly Voted To Take Health Care From Michiganders*](https://research-books.com/en/bill-huizenga/health-care)
+- [:older_man: *Huizenga Supported Policies That Hurt West Michigan Seniors*](https://research-books.com/en/bill-huizenga/seniors)
+- [:carrot: *Huizenga Voted To Take Food Assistance From Michiganders*](https://research-books.com/en/bill-huizenga/snap)
+- [:shopping_cart: *Huizenga Flip-Flopped On Tariffs Dooming Michiganders To Higher Prices*](https://research-books.com/en/bill-huizenga/tariffs)
+- [:hammer: *Huizenga Voted Against Repairing West Michigan's Infrastructure*](https://research-books.com/en/bill-huizenga/infrastructure)
+{.links-list}
 ## Bill Huizenga Used His Power To Benefit The Powerful And Himself
-
+- [:moneybag: *Huizenga's Net Worth Has Increased During His Time In Congress*](https://research-books.com/en/bill-huizenga/personal-wealth)
+- [:eyes: *It Took Huizenga 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/bill-huizenga/epstein)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *Huizenga's Key Votes In Congress*](https://research-books.com/en/bill-huizenga/votes)
+{.links-list}
