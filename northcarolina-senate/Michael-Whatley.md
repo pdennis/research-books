@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2025-12-19T03:36:03.009Z
+date: 2026-04-27T19:32:39.486Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -70,6 +70,16 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 
 **Message:** Whatley was a DC insider and big oil lobbyist that spent his career delivering for special interests and DC politicians instead of North Carolinians. 
 
+### Whatley Elevated A Convicted Child Sex Offender 
+
+- Whatley elevated Harvey West Jr. within the North Carolina Republican party ranks. West Jr. was arrested and charged for the statutory rape of three girls and pled guilty to “taking indecent liberties with a child.” 
+
+- Whatley allegedly “snuffed” out concerns from Republican party activists and was warned multiple times. When asked about his relationship with West Jr., Whatley dodged the questions and his campaign attacked the media. 
+
+- Whatley’s alleged embrace of West Jr. resulted in some North Carolina Republican party activists feeling “horrified.” 
+
+**Message:** How could North Carolina families trust Whatley in the Senate if he elevated convicted child sex offenders within the North Carolina Republican Party?
+
 # Issue Back-ups
 
 ## Michael Whatley Supported Policies That Hurt North Carolinians 
@@ -81,3 +91,4 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 ## Michael Whatley Was A Failed DC Insider
 -   [:moneybag:**Whatley Was A DC Insider And Lobbyist**](/northcarolina-senate/Michael-Whatley/Swamp)
 -   [:cyclone:**Whatley Failed As Hurricane Recovery Czar**](/northcarolina-senate/Michael-Whatley/Hurricane)
+- [:triangular_flag_on_post:**Whatley Elevated A Convicted Child Sex Offender**](/northcarolina-senate/Michael-Whatley/West-Jr)
