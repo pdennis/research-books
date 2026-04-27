@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-04-27T20:14:59.897Z
+date: 2026-04-27T20:18:30.523Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -21,6 +21,8 @@ COMING SOON!
 </details>
 
 # How To Win Against Cindy Hyde-Smith
+
+Hyde-Smith betrayed Mississippians by cutting their healthcare, SNAP benefits, supporting tariffs that raised costs on goods. Hyde-Smith supported a war in Iran that has caused gas prices to skyrocket on everyday families. When she had a chance to vote for funding to support Mississippi infrastructure, she choose not too and she actively disrespects her constitutients. Hyde-Smith is out of touch of everyday Mississippians. 
 
 ### Hyde-Smith Supported Tariffs Which Harmed Mississippi’s Economy
 
