@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-04-27T19:32:39.486Z
+date: 2026-04-27T19:33:37.265Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -72,11 +72,11 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 
 ### Whatley Elevated A Convicted Child Sex Offender 
 
-- Whatley elevated Harvey West Jr. within the North Carolina Republican party ranks. West Jr. was arrested and charged for the statutory rape of three girls and pled guilty to “taking indecent liberties with a child.” 
+- Whatley [elevated](https://www.washingtonexaminer.com/news/washington-secrets/4540179/michael-whatley-silence-sex-offender/) Harvey West Jr. within the North Carolina Republican party ranks. West Jr. was arrested and charged for the statutory rape of three girls and [pled guilty](https://avlwatchdog.org/democracy-watch-links-between-convicted-sex-offender-state-gop-leadership-may-complicate-candidacies/) to “taking indecent liberties with a child.” 
 
-- Whatley allegedly “snuffed” out concerns from Republican party activists and was warned multiple times. When asked about his relationship with West Jr., Whatley dodged the questions and his campaign attacked the media. 
+- Whatley allegedly “[snuffed](https://avlwatchdog.org/democracy-watch-links-between-convicted-sex-offender-state-gop-leadership-may-complicate-candidacies/)” out concerns from Republican party activists and was [warned](https://www.thedailybeast.com/trump-shrugs-off-child-sex-offender-scandal-to-plug-great-gop-candidate/) multiple times. When asked about his relationship with West Jr., Whatley [dodged](https://www.washingtonexaminer.com/news/washington-secrets/4510483/fundraiser-roiling-north-carolina-republican-party/) the questions and his campaign [attacked](https://www.charlotteobserver.com/news/politics-government/article315046274.html) the media. 
 
-- Whatley’s alleged embrace of West Jr. resulted in some North Carolina Republican party activists feeling “horrified.” 
+- Whatley’s alleged embrace of West Jr. resulted in some North Carolina Republican party activists feeling “[horrified](https://ncnewsline.com/2026/04/01/heading-into-midterms-ncgop-faces-mounting-backlash-from-its-conservative-base/).”
 
 **Message:** How could North Carolina families trust Whatley in the Senate if he elevated convicted child sex offenders within the North Carolina Republican Party?
 
