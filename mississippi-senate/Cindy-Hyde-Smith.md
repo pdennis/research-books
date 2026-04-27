@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-04-27T14:44:59.937Z
+date: 2026-04-27T14:48:02.530Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -43,6 +43,14 @@ COMING SOON!
 - While [**beef prices**](https://www.mississippifreepress.org/americans-who-cant-afford-beef-have-so-many-proteins-to-choose-from-says-us-sen-cindy-hyde-smith/) were climbing for Mississippi families, instead of finding bipartisan solutions to decrease rising food costs, Hyde-Smith dismissed concerns and claimed that Americans who couldn't afford beef “[**have so many proteins to choose from**](https://youtu.be/RtoSdmrnDwI?si=6rXvGXJgLsjDAnQc).” 
 
 **Message:** Hyde-Smith was out of touch with the financial concerns of everyday Mississippian families. 
+
+### Hyde-Smith Opposed Infrastructure Spending That Supported Mississippians 
+
+- Hyde-Smith [voted](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions) against the Bipartisan Infrastructure Bill which provided critical funding for Mississippi infrastructure. The infrastructure bill provided funding for [water infrastructure](https://www.mississippifreepress.org/mississippi-to-receive-nearly-75m-in-infrastructure-funding/), [bridges](https://www.supertalk.fm/mississippi-awarded-more-than-170m-to-improve-bridges-and-rail-lines/), [roads](https://www.newsweek.com/these-30-republicans-voted-against-infrastructure-bill-heres-what-it-would-give-their-states-1618521) and [rail](https://www.supertalk.fm/mississippi-awarded-more-than-170m-to-improve-bridges-and-rail-lines/) upgrades. Despite voting against the package, she happily [touted](https://www.washingtonpost.com/business/2023/07/09/gop-spending-infrastructure-ira-biden/) the projects that the bill paid for. 
+
+- Hyde-Smith's fellow senator, Senator Wicker, did vote for the legislation and highlighted that the investments were “[badly needed](https://www.wicker.senate.gov/2021/8/wicker-supports-physical-infrastructure-bill)” and “[historic](https://www.ddtonline.com/politics-press-releases/wicker-hyde-smith-split-ending-debate-over-infrastructure-bill-6111607d81a5c).” 
+
+**Message:** Hyde-Smith touted critical spending that she voted againist and was out of touch with the needs of Mississippi. 
 
 ### Hyde-Smith Used Racially Insensitive Language And Embraced Confederate History
 
