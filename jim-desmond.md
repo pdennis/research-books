@@ -2,7 +2,7 @@
 title: Jim Desmond (CA-48)
 description: 
 published: false
-date: 2026-04-28T14:43:39.979Z
+date: 2026-04-28T14:50:19.448Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-27T23:32:24.709Z
@@ -67,5 +67,13 @@ Jim Desmond is an out-of-touch millionaire who wants to be elected to Congress t
 # Issue Briefs
 
 ## Desmond Supported Policies That Hurt Everyday Californians
-
+- [:hospital: *Desmond Supported A Bill That Took Health Coverage From Southern Californians*](https://research-books.com/en/jim-desmond/health-care)
+- [:older_man: *Desmond Defended Poilicies That Put Southern California Seniors At Risk*](https://research-books.com/en/jim-desmond/seniors)
+- [:carrot: *Desmond Supported Taking Food Assistance From Southern Californians*](https://research-books.com/en/jim-desmond/snap)
+- [:shopping_cart: *Desmond Defended Policies That Raised Costs On Southern Californians*](https://research-books.com/en/jim-desmond/costs)
+- [:x: *Desmond Was The Only County Supervisor To Vote Against A Proposal To Crack Down On Scams, Junk Fees, And Predatory Financial Practices*](https://research-books.com/en/jim-desmond/scams)
+{.links-list}
 ## Desmond Used His Power To Benefit Himself And The Powerful
+- [:office: *Desmond Was Investigated For Accepting Donations From Individuals Who Had A Financial Investment In A Development Project He Greenlit As Mayor*](https://research-books.com/en/jim-desmond/san-marcos)
+- [:eyes: *The California Fair Political Practices Commission Investigated Desmond For Conflift-Of-Interest Violations*](https://research-books.com/en/jim-desmond/conflicts)
+{.links-list}
