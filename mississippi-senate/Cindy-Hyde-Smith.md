@@ -2,16 +2,44 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-04-28T14:13:02.163Z
+date: 2026-04-28T15:04:38.101Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
 ---
 
 <details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
+<summary><strong>📺 - Click here for Notable Clips and Visuals </strong></summary>
+  
+**Cindy Hyde-Smith Supports Trump's Tariffs That Would Devestate Farmers, While Admitting They Are "Brutal" and "Painful"For Farmers.** [[6/14/25](https://youtu.be/NnQKxcIyRvI)]
+<video
+  src="https://streamable.com/l/vbxwb6/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+**Cindy Hyde-Smith:"If He Invited Me To A Public Hanging, I'd Be On The Front Row."** [[11/11/18](https://youtu.be/w6gE8sMV2Fg)]
+<video
+  src="https://streamable.com/l/8apza5/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+  
+**Cindy Hyde-Smith Disgregards Concerns Over Rising Cost of Beef Claiming Americans Who Can't Afford It "Have So Many Proteins To Choose From."** [[WLOX, 2/22/26](https://youtu.be/RtoSdmrnDwI)]
+<video
+  src="https://streamable.com/l/zs9cn9/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+[**Click here to check out more videos from Cindy Hyde-Smith.**](https://www.youtube.com/playlist?list=PLWuvMonaruUhG-01gUCfyq3tkhHvyl3k1)
+
 </details>
 
 # How To Win Against Cindy Hyde-Smith
