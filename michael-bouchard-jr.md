@@ -2,7 +2,7 @@
 title: Michael Bouchard (MI-10)
 description: 
 published: false
-date: 2026-04-28T15:26:17.853Z
+date: 2026-04-28T18:31:25.359Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-28T15:25:15.671Z
@@ -68,5 +68,10 @@ Michael Bouchard Jr. thought he could win the MI-10 Republican nomination on fa
 # Issue Briefs
 
 ## Bouchard Supported Policies That Hurt Everyday Michiganders
-
+- [:hospital: *Bouchard Was Eager To Back An Agenda That Included Cutting Health Coverage For Michiganders*](https://research-books.com/en/michael-bouchard-jr/health-care)
+- [:older_man: *Bouchard Was Ready To Defend Policies That Put Michigan Seniors At Risk*](https://research-books.com/en/michael-bouchard-jr/seniors)
+- [:carrot: *Bouchard Stood With National Republicans As They Cut Food Assistance For Michiganders*](https://research-books.com/en/michael-bouchard-jr/snap)
+- [:shopping_cart: *Bouchard Supported Policies That Raised Costs On Michiganders And Wanted To Continue Trump's Abysmal Economy*](https://research-books.com/en/michael-bouchard-jr/costs)
 ## Bouchard Used His Power To Benefit Himself And The Powerful
+- [:eyes: *Bouchard Had A Close Relationship With A Scandal-Ridden County Prosecutor*](https://research-books.com/en/michael-bouchard-jr/friends)
+- [:crown: *Bouchard Claimed He Was Not Running On His Father's Legacy, But He Was Recruited By His Father And Other Influential Michigan Republicans*](https://research-books.com/en/michael-bouchard-jr/dynasty)
