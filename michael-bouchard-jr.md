@@ -1,8 +1,8 @@
 ---
 title: Michael Bouchard (MI-10)
 description: 
-published: false
-date: 2026-04-28T20:11:42.733Z
+published: true
+date: 2026-04-29T15:03:28.807Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-28T15:25:15.671Z
