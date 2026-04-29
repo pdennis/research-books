@@ -2,7 +2,7 @@
 title: Joe Mitchell (IA-02)
 description: 
 published: false
-date: 2026-04-29T21:55:56.679Z
+date: 2026-04-29T22:03:09.240Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T21:43:21.661Z
@@ -65,5 +65,13 @@ Joe Mitchell is a social climber who is more interested in running for Congress 
 # Issue Briefs
 
 ## Joe Mitchell Supported Policies That Hurt Everyday Iowans
-
+- [:hospital: *Mitchell Supported A Bill That Took Health Coverage From Iowans*](https://research-books.com/en/joe-mitchell/health-care)
+- [:older_man: *Mitchell Supported Policies That Put Iowa Seniors At-Risk*](https://research-books.com/en/joe-mitchell/seniors)
+- [:carrot: *Mitchell Supported A Bill That Cut Food Assistance For Iowans*](https://research-books.com/en/joe-mitchell/snap)
+- [:shopping_cart: *Mitchell Supported Policies That Raised Costs On Iowans*](https://research-books.com/en/joe-mitchell/costs)
+{.links-list}
 ## Joe Mitchell Used His Power To Benefit The Powerful And Himself
+- [:palm_tree: *Mitchell Spent A Lot Of Time In Palm Beach, FL For Someone Running For Congress In Iowa*](https://research-books.com/en/joe-mitchell/florida-man)
+- [:eyes: *While In The State Legislature, Mitchell Accepted A Large Donation From The CEO Of A Company Trying to Build A Pipeline In Iowa Days Before He Voted To Make Way For The Pipeline's Development*](https://research-books.com/en/joe-mitchell/pipeline)
+- [:house: *Mitchell Never Lived In The District He Wants To Represent Until He Ran For Congress*](https://research-books.com/en/joe-mitchell/pipeline)
+{.links-list}
