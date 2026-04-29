@@ -2,7 +2,7 @@
 title: Joe Mitchell (IA-02)
 description: 
 published: false
-date: 2026-04-29T22:39:49.230Z
+date: 2026-04-29T22:43:37.007Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T21:43:21.661Z
@@ -73,5 +73,5 @@ Joe Mitchell is a social climber who is more interested in running for Congress 
 ## Joe Mitchell Used His Power To Benefit The Powerful And Himself
 - [:palm_tree: *Mitchell Spent A Lot Of Time In Palm Beach, FL For Someone Running For Congress In Iowa*](https://research-books.com/en/joe-mitchell/florida-man)
 - [:eyes: *While In The State Legislature, Mitchell Accepted A Large Donation From The CEO Of A Company Trying to Build A Pipeline In Iowa Days Before He Voted To Make Way For The Pipeline's Development*](https://research-books.com/en/joe-mitchell/pipeline)
-- [:house: *Mitchell Never Lived In The District He Wants To Represent Until He Ran For Congress*](https://research-books.com/en/joe-mitchell/residence)
+- [:house: *Mitchell Moved To IA-02 To Run For Congress*](https://research-books.com/en/joe-mitchell/residence)
 {.links-list}
