@@ -2,7 +2,7 @@
 title: Robert Lulgjuraj (MI-10)
 description: 
 published: false
-date: 2026-04-29T17:20:27.073Z
+date: 2026-04-29T17:52:47.170Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T17:06:11.295Z
@@ -66,5 +66,12 @@ Robert Lulgjuraj is an out-of-touch extremist who will stand behind Trump’s po
 # Issue Briefs
 
 ## Robert Lulgjuraj Supported Policies That Hurt Everyday Michiganders
-
+- [:hospital: *Lulgjuraj Supported A Bill That Took Health Coverage From Michiganders*](https://research-books.com/en/robert-lulgjuraj/health-care)
+- [:older_man: *Lulgjuraj Supported Policies That Put Michigan Seniors At-Risk*](https://research-books.com/en/robert-lulgjuraj/seniors)
+- [:carrot: *Lulgjuraj Supported A Bill That Took Food Assistance From Michiganders*](https://research-books.com/en/robert-lulgjuraj/snap)
+- [:shopping_cart: *Lulgjuraj Supported Policies That Raised Costs On Michiganders*](https://research-books.com/en/robert-lulgjuraj/costs)
+- [:apple: *Lulgjuraj Supported Policies That Would Weaken Michigan Public Schools*](https://research-books.com/en/robert-lulgjuraj/education)
+{.links-list}
 ## Robert Lulgjuraj Used His Power To Benefit The Powerful And Himself
+- [:eyes: *Lulgjuraj Supported A Scandal-Ridden County Prosecutor*](https://research-books.com/en/robert-lulgjuraj/friends)
+{.links-list}
