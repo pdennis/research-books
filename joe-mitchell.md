@@ -1,8 +1,8 @@
 ---
 title: Joe Mitchell (IA-02)
 description: 
-published: false
-date: 2026-04-29T22:43:37.007Z
+published: true
+date: 2026-04-29T22:53:31.719Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T21:43:21.661Z
