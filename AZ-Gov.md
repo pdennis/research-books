@@ -2,7 +2,7 @@
 title: State Level Races in Arizona
 description: 
 published: true
-date: 2026-04-29T20:24:26.081Z
+date: 2026-04-30T16:20:07.914Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:00:26.802Z
@@ -14,6 +14,3 @@ dateCreated: 2025-11-24T21:00:26.802Z
 - [:elephant: ***Karrin Taylor Robson***](/AZ-Gov/karrin-taylor-robson) Arizona Republican who supported extreme abortion bans and called devastating healthcare cuts in exchange for tax cuts for the wealthy a "huge win for Arizona."
 {.links-list}
 
-## Attorney General
-- [:elephant: ***Warren Petersen***](/AZ-Gov/warren-petersen) Arizona Republican who threatened reproductive rights and public education funding while promoting tax cuts for the wealthy and sowing distrust in democracy.
-{.links-list}
