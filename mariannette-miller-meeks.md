@@ -2,7 +2,7 @@
 title: Mariannette Miller-Meeks
 description: 
 published: true
-date: 2026-02-13T18:37:37.517Z
+date: 2026-04-30T13:58:39.530Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:07:45.530Z
@@ -27,8 +27,38 @@ This video is not for public use on a campaign, and is purely here as an example
 <details>
 <summary><strong>📺 - Click here for Notable Clips and Visuals
   </strong></summary>
-COMING SOON!
+
+**Mariannette Miller-Meeks refused to talk to constituents about their health care concerns at the Iowa State Fair and instead offers than an egg.** [[Iowa State Fair, 8/17/25](https://youtu.be/_sPQurQYD6M)]
+<video
+  src="https://streamable.com/l/5kg3ld/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
 </video>
+
+
+**Mariannette Miller-Meeks booed at townhall after giving her support for Trump's tariffs and the bailout for Argentina.** [[11/11/25](https://youtu.be/Pjejh5EtBjo)]
+<video
+  src="https://streamable.com/l/d4ayds/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+**Mariannette Miller-Meeks thinks Iowans are over utilizing their healthcare. "When there's a copay and a deductible there's some skin in the game, patients don't over-utilize."**  [[1/12/26](https://youtu.be/uZontIa25f8)]
+<video
+  src="https://streamable.com/l/16dzuz/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+[**Click here to check out more videos from Mariannette Miller-Meeks.**](https://www.youtube.com/playlist?list=PLWuvMonaruUgIJAcIsxGLRO3YbfEVMvo-)
+  
+
 </details>
 
 # How To Win Against Mariannette Miller-Meeks
