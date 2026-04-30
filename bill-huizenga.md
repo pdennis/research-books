@@ -2,11 +2,38 @@
 title: Bill Huizenga (MI-04)
 description: 
 published: true
-date: 2026-04-27T23:26:16.549Z
+date: 2026-04-30T15:46:17.222Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-22T14:23:46.505Z
 ---
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Bill Huizenga calims there will be "bumps in the road" with tariffs, but it will be "good in the long run."** [[Bloomberg Balance of Power, 4/28/25](https://youtu.be/h60_DCLBNjo)
+<video
+  src="https://streamable.com/l/2oc3et/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+
+**Bill Huizenga claims that the One Big Beautiful Bill didn't make cuts to Medicaid: "These are savings not cuts."**[[Newsmax: Wake Up America, 6/17/25](https://youtu.be/7oPuXvMtoSU)]
+<video
+  src="https://streamable.com/l/jwlvl9/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+[**Click here to check out more videos from Bill Huizenga.**](https://www.youtube.com/playlist?list=PLWuvMonaruUhsv7dIFeEzgf1Lb_MQfaUs)
+
+</details>
 
 # How To Win Against Bill Huizenga
 
