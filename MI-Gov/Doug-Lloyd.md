@@ -2,7 +2,7 @@
 title: Doug Lloyd
 description: 
 published: false
-date: 2026-04-30T16:58:41.292Z
+date: 2026-04-30T17:01:01.439Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-30T16:23:03.899Z
@@ -49,21 +49,17 @@ Michigan Attorney General nominee Doug Lloyd has taken positions on public safet
 
 ## **Doug Lloyd's Positions Have Hurt Everyday People**
 
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
 
--   [**_Doug Lloyd Doug Lloyd Opposed Red Flag Laws Designed To Protect Michiganders_**](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-red-flag-laws)
 
-![🛒](/_assets/svg/twemoji/1f6d2.svg)
+- [:x: Doug Lloyd Doug Lloyd Opposed Red Flag Laws Designed To Protect Michiganders](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-red-flag-laws)
 
--   [**_Doug Lloyd Called For Broader Authority To Prosecute Unsubstantiated Voter Fraud_**](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-democracy)
 
-![👩](/_assets/svg/twemoji/1f469.svg)
+- [:ballot_box: Doug Lloyd Called For Broader Authority To Prosecute Unsubstantiated Voter Fraud](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-democracy)
 
-- [:woman: Doug Lloyd Was Open To Prosecuting Abortion Providers Under Michigan’s 1931 Abortion Ban Despite An Injunction_**](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-abortion)  
+
+- [:woman: Doug Lloyd Was Open To Prosecuting Abortion Providers Under Michigan’s 1931 Abortion Ban Despite An Injunction](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-abortion)  
      
 
-![🏫](/_assets/svg/twemoji/1f3eb.svg)
-
--  [:x: Doug Lloyd Threatened To Defund Michigan Cities That Did Not Comply With Trump’s Extreme Immigration Policies_**](https://research-books.com/MI-Gov/Doug-Lloyd/lloyd-defund-cities)
+-   Doug Lloyd Threatened To Defund Michigan Cities That Did Not Comply With Trump’s Extreme Immigration Policies_**](https://research-books.com/MI-Gov/Doug-Lloyd/lloyd-defund-cities)
 
 {.links-list}
