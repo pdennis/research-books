@@ -2,7 +2,7 @@
 title: Doug Lloyd
 description: 
 published: false
-date: 2026-04-30T16:55:37.409Z
+date: 2026-04-30T16:58:41.292Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-30T16:23:03.899Z
@@ -59,9 +59,11 @@ Michigan Attorney General nominee Doug Lloyd has taken positions on public safet
 
 ![👩](/_assets/svg/twemoji/1f469.svg)
 
--   [**_Doug Lloyd Was Open To Prosecuting Abortion Providers Under Michigan’s 1931 Abortion Ban Despite An Injunction_**](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-abortion)  
+- [:woman: Doug Lloyd Was Open To Prosecuting Abortion Providers Under Michigan’s 1931 Abortion Ban Despite An Injunction_**](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-abortion)  
      
 
 ![🏫](/_assets/svg/twemoji/1f3eb.svg)
 
--   [**_Doug Lloyd Threatened To Defund Michigan Cities That Did Not Comply With Trump’s Extreme Immigration Policies_**](https://research-books.com/MI-Gov/Doug-Lloyd/lloyd-defund-cities)
+-  [:x: Doug Lloyd Threatened To Defund Michigan Cities That Did Not Comply With Trump’s Extreme Immigration Policies_**](https://research-books.com/MI-Gov/Doug-Lloyd/lloyd-defund-cities)
+
+{.links-list}
