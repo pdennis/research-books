@@ -2,7 +2,7 @@
 title: Mariannette Miller-Meeks
 description: 
 published: true
-date: 2026-04-30T13:58:39.530Z
+date: 2026-04-30T14:23:31.942Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:07:45.530Z
@@ -139,7 +139,7 @@ Miller-Meeks faced an ethics complaint over where her primary address was actual
 # Issue Back-Ups
 
 ## Mariannette Miller-Meeks' Policies Have Hurt Everyday People
-- [:hospital: *Miller-Meeks Voted To Cut The Health Care More Than 100,000 Iowans In Her District Rely On*](/en/mariannette-miller-meeks/mm-medicaid)
+- [:hospital: *Miller-Meeks Voted To Cut The Health Care Iowans In Her District Rely On*](/en/mariannette-miller-meeks/mm-medicaid)
 - [:older_man: *Miller-Meeks Voted For Massive Cuts To Medicare*](/en/mariannette-miller-meeks/mm-medicare)
 - [:pill: *Miller-Meeks Was In The Pocket Of Big Pharma*](/en/mariannette-miller-meeks/mm-pharma)
 - [:carrot: *Miller-Meeks Voted To Take Food Assistance From Iowans*](/en/mariannette-miller-meeks/mm-snap)
