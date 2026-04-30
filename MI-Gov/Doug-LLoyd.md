@@ -1,0 +1,76 @@
+---
+title: Doug LLoyd
+description: 
+published: false
+date: 2026-04-30T16:23:03.899Z
+tags: 
+editor: markdown
+dateCreated: 2026-04-30T16:23:03.899Z
+---
+
+<details>
+<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
+COMING SOON!
+</details>
+
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+COMING SOON!
+</details>
+
+# **How To Win Against Warren Petersen**
+
+As a member of the Arizona state legislature, Republican Arizona attorney general candidate Warren Petersen supported policies that threatened reproductive rights and public education funding, and increased the cost of health care and everyday goods for Arizonans. Petersen voted multiple times against reproductive rights, including supporting an 1864 near-total abortion ban, and advocated for overturning Roe v. Wade. He also refused to compromise on Arizona’s public school funding mechanism, but supported charter schools and education savings accounts that siphoned funding from public education. Petersen supported Trump’s “One Big Beautiful Bill,” which stripped health care from millions of Americans, and Trump’s tariffs which increased costs and threatened jobs. Petersen also used his role as Senate President to further question the integrity of the 2020 election and threaten the state of democracy in Arizona. 
+
+### **Petersen Was An Anti-Abortion Extremist**
+
+-   Petersen voted multiple times against legislation affirming abortion rights and for legislation that increased abortion restrictions. Petersen [_voted against_](https://apps.azleg.gov/BillStatus/BillOverview/80760) repealing a near-total abortion ban, and co-sponsored legislation [_banning abortions after 15 weeks_](https://apps.azleg.gov/BillStatus/BillOverview/76636) and [_mailing abortion drugs_](https://apps.azleg.gov/BillStatus/BillOverview/75512). Petersen also [_co-sponsored legislation_](https://apps.azleg.gov/BillStatus/BillOverview/79276) protecting fetuses [_“born alive”_](https://apps.azleg.gov/BillStatus/BillOverview/74617) from an abortion. 
+-   Petersen also used extreme anti-abortion rhetoric, calling abortions [_“heinous”_](https://soundcloud.com/abpac/warren-petersen-into-the-fire/s-XEifNv5j93x?si=ef9150a230f346be86db4695eff9ede4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) and accusing Planned Parenthood of [_“murdering babies.”_](https://x.com/votewarren/status/1244780199910096896?s=20) After Arizona voters approved an abortion rights amendment, [_Petersen defended existing laws_](https://azmirror.com/2026/01/15/trial-over-arizona-abortion-restrictions-ends-with-judge-voicing-doubt-about-gop-defense/) that contradicted the amendment and [_criticized Attorney General Kris Mayes_](https://soundcloud.com/abpac/warren-petersen-into-the-1/s-exagBNlXxSq?si=6fa7cbda98a748179fd14458bc9d5d3a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) for wanting to strike them down. Petersen [_advocated for the overturning of Roe v. Wade_](https://www.facebook.com/votewarrenpetersen/posts/pfbid02siLwtFuZjtwYiQFyUDGAzxC372qJcQ2Ni58WupF4W66fdYeix4Yht6f3LYnYNS4rl?__cft__%5b0%5d=AZa7WgF0at97yafIJDnyJOMHpUatSoEtkSrtTP8xnlUZx5as_G51kA4Wux8zhotzKipwEDOVgD9nsdpyOJ-AcP4yH4lc6U8wskgpVTaB48wKBWF_14atGJerE3FdsNWIKQ2d4tZsh46mDq6WfkZ0SkYwkwKMtHsG31rb_rAOta7f_w&__tn__=%2CO%2CP-R), and once it was overturned, celebrated the Arizona Supreme Court determining that an [_1864 near-total abortion ban_](https://ktar.com/arizona-news/arizona-senate-president-leader-responds-to-state-supreme-court-abortion-ruling/5569738/) could go into effect. Petersen also [_associated with_](https://www.facebook.com/photo/?fbid=1092727697488471&set=a.358641666074664&__cft__%5b0%5d=AZZ3ScrVfMrD63J08JVYAM4O18NRK66SRiqgJzsqeR2BKoQRKycBqWPRtVKPXm066gCV6RaFzJHT6RIjGTL07gJ7_393jRGMFUF4xUY5JlaJjo8L_D2AaxIaKrgP9oKnZp46BhW1L-xqTonR-xpV6KL80WUXXMHjIjTOgPK9IfhtemePGO1KB53b2sZzHmVtYnp7j2wjlU9qk6G_lDWGbyx8&__tn__=%2CO%2CP-R) [_anti-abortion organizations_](https://www.facebook.com/photo/?fbid=912490922178817&set=a.358641659407998&__cft__%5b0%5d=AZaV8HIyznyONgJDKudmjNdW_0lkuKzHiAF_izjYFLuxctYP7Weii2W3XxoYSW4Qq3LG8HZgLZlxIi0sNrJQX07fumgUZEj-JH2p9MPJ9txMNcdVL4-IWE2FXEcqoE2TcF1tz9mje4G3U21cANutOXOTAzP5U0Uw54dwRgkbLUy8B2asrPnYyAIZKgRgPo_lcPp9fBuVgZcXR1_ZnyirvDBT&__tn__=%2CO%2CP-R) and [_dismissed the need_](https://azmirror.com/2024/03/07/hobbs-democrats-blast-gop-for-refusing-to-give-arizonans-a-right-to-contraception/) for legislation protecting access to contraception. 
+
+**Message:** Petersen was a threat to the reproductive rights of women in Arizona.
+
+### **Petersen Threatened Public School Funding And Championed “School Choice”**
+
+-   During 2026 budget negotiations while serving as senate president, Petersen [_refused to compromise_](https://www.azcentral.com/story/news/politics/arizona-education/2026/03/30/hobbs-gop-budget-impasse-has-serious-education-implications/89320455007/) with Governor Katie Hobbs on renewing the state’s public school funding mechanism, Proposition 123. Prop 123 gave $300 million annually to the school system from the state land trust, but had expired after 10 years and needed voter approval to be renewed. Petersen said Hobbs’ plan to renew Prop 123 was [_“irresponsible and risky,”_](https://www.azcentral.com/story/news/politics/arizona-education/2026/03/30/hobbs-gop-budget-impasse-has-serious-education-implications/89320455007/) but did not provide an alternative means for school funding. Additionally, Petersen [_refused to participate_](https://pro.stateaffairs.com/az/education/arizona-education-funding-lawsuit) in discussions on Arizona’s public school capital finance system after it was ruled unconstitutional for disadvantaging schools in lower income areas. Petersen instead appealed the ruling while Arizona schools faced infrastructure failures. 
+-   Petersen was also an advocate for charter schools even when their students were underperforming. When the Arizona Charter School Board [_threatened to revoke_](https://www.abc15.com/rebound/state-of-education/arizona-charter-school-board-takes-steps-to-close-primavera-online) the charter of Primavera, an online charter school, Petersen called the inquiry a [_“witch hunt”_](https://x.com/votewarren/status/1920290793392312379?s=20) even though the students were performing significantly below state averages. Instead, Petersen supported reclassifying Primavera as an [_“alternative school,”_](https://www.12news.com/article/news/education/primavera-online-charter-school-avoids-shutdown-for-abysmal-grades-after-state-superintendent-tom-horne-steps-in-for-multi-millionaire-owner/75-9c7cb5a4-de59-44d0-8594-d60385a99f93) which had lower academic standards. 
+-   Petersen called himself a [_“longtime champion of school choice,”_](https://youtu.be/rF3jcBO_tws) celebrated allowing parents to [_opt their children out_](https://x.com/votewarren/status/1938620035603525634?s=20) of sex education, and [_supported education savings accounts_](https://youtu.be/1ciHw6IEH8g) as a means to save taxpayers money, but [_opposed giving teachers_](https://apps.azleg.gov/BillStatus/BillOverview/67252) a $200 tax credit for buying school supplies. 
+
+**Message:** Petersen promoted charter schools, education savings accounts, and tax policies that took funding from Arizona public schools.
+
+### **Petersen Supported Massive Cuts To Medicaid And The Affordable Care Act**
+
+-   In 2026, Petersen [_led efforts_](https://www.thecentersquare.com/arizona/article_eb6b1401-7eb2-4223-82f6-a347ab3352ea.html) to [_conform Arizona’s tax statutes_](https://apps.azleg.gov/BillStatus/BillOverview/83812) to Trump’s “One Big Beautiful Bill,” which is estimated to kick [_17 million Americans_](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including [_nearly 12 million_](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) Americans who rely on Medicaid. Under the “One Big Beautiful Bill,” more than [_342,000 Arizonans_](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health insurance, including 193,981 Medicaid recipients and 148,500 Affordable Care Act enrollees, and rural hospitals in Arizona were in jeopardy with [_at least five at risk of closing_](https://cronkitenews.azpbs.org/2025/07/01/medicaid-cuts-donald-trump-big-beautiful-bill-could-cripple-rural-hospitals/).
+-   Between 2013 and 2015, Petersen [_voted against_](https://apps.azleg.gov/BillStatus/BillOverview/66900) enforcing the Affordable Care Act in Arizona, [_voted for_](https://apps.azleg.gov/BillStatus/BillOverview/33276) Medicaid work requirements, and called Medicaid expansion [_“unsustainable.”_](https://www.facebook.com/votewarrenpetersen/posts/105297313001714?__cft__%5b0%5d=AZbj5UNuCjifDpDUmzo-FCPo5Gd1TRbbbavEPcGYiXin4WDVaDKspRxEzRyGwA-COEcMyoM989w5H4tSKdLdOHVeLpPt1tnAOb3-ALpp_chzIQLe7gHda04V42rdBJ5xYAR-UpRh9FflIT8jZss7ca2YnMe2logjIACNYAAS8YqZLtdQRTAWOC8TyOsw9jITGrY&__tn__=%2CO%2CP-R)  In 2026, [_357,144_](https://www.kff.org/affordable-care-act/state-indicator/open-enrollment-marketplace-plan-selections/?currentTimeframe=0&selectedRows=%7B%22states%22:%7B%22arizona%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) Arizonans relied on Affordable Care Act marketplace plans for their health care.
+
+**Message:** Petersen supported ripping health care away from hundreds of thousands of Arizonans to fund tax cuts for the wealthy.
+
+### **Petersen Supported Trump’s Devastating Tariffs**
+
+-   In 2025, Petersen supported Trump’s tariffs, calling them [_“a tool to enact positive changes”_](https://www.thecentersquare.com/arizona/article_eab45104-e278-11ef-8bcf-97859c229604.html) and dismissed concerns that they would increase the costs of American goods. Tariffs are contributing to [_higher food prices_](https://www.azcentral.com/story/money/business/consumers/2025/03/04/donald-trump-tariffs-costs-food/81173998007/), are [_hurting_](https://www.azfamily.com/2025/05/02/phoenix-toy-store-bracing-trumps-china-tariffs-impact-pricing-supply/) Arizona [_businesses_](https://www.kgun9.com/news/community-inspired-journalism/eastside-news/tucson-toy-and-game-stores-brace-for-uncertainty-amid-tariffs) and [_farmers_](https://www.abc15.com/news/state/it-could-break-us-valley-farmer-says-chinese-tariffs-have-crushed-the-alfalfa-export-market), and could [_increase car insurance rates_](https://www.axios.com/local/phoenix/2025/08/07/arizona-car-insurance-rates-tariffs).
+-   At the end of 2025, Petersen [_claimed Trump's economic policies were working and had proved “experts” wrong_](https://www.facebook.com/votewarrenpetersen/posts/pfbid0iycQaLUZNvuJJa224jq7WnSsJqQDrFuoqKpo1A2KHYr74m9p5quepWcqX7qRFaGXl?__cft__%5b0%5d=AZad1_gD8eXIm_vtK4QKjspzpZvMo-hEtW1S1dEUCfcmMUMMSkMd0hl_ceihLvGeKgboT1U--3itysZ6E8-Ych8STY-MLUStFZvT8Fzj257jOxWYrEtbUvEtXNRrT65zzORGt6wc2V6IgUYBFMzJYaOhogDvBn7Q8unPrbGFATLodsEkN4YNEDdB_NFa7mzYLnQ&__tn__=%2CO%2CP-R), even though the [_U.S. stock market crashed_](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s escalating global trade war.
+
+**Message:** Petersen championed Trump’s tariffs that increased everyday costs for Arizonans and threatened jobs.
+
+### **Petersen Platformed 2020 Election Fraud Conspiracy Theories Continuing Into 2026**
+
+-   In 2026, Petersen [_responded to a subpoena_](https://azmirror.com/2026/04/07/senate-president-petersent-refers-ag-mayes-and-secretary-fontes-to-doj-for-obstruction/) from the Department of Justice seeking documents in an investigation of the 2020 election in Maricopa County, which potentially contained confidential voter information. When Attorney General Kris Mayes sought more information on what was included in the documents, Petersen accused her of [_“obstruction of justice”_](https://azmirror.com/2026/04/07/senate-president-petersent-refers-ag-mayes-and-secretary-fontes-to-doj-for-obstruction/) and [_interfering with the investigation_](https://youtu.be/6h8AyJZdXQQ). 
+-   In 2020, Petersen [_associated with_](https://www.facebook.com/votewarrenpetersen/posts/pfbid0TCRzygiVA8drzRWPMaimyDqiG1YJbjek4qZPbwGBN3eunAKchcUTZvGMfzQqpm16l?__cft__%5b0%5d=AZbbcESk3-GvfyKuAr2ZdMnrVwVwPSOcudrLDv33RKpY3-2AcYb6DGNMjmjSHHuK10SlouXWTlO754CPBMvfIOmYRhReaDA749V5M9xYy8DWhq9y7Z1hNngZbspAYvN5iRWjtsI3EHHpKOfDVStrTVBOEWlC9bmbdS1hi5rhgcOPNUe8GRr9OBLNlVd28Zb77w8&__tn__=%2CO%2CP-R) election deniers and helped [_lead an “audit”_](https://azmirror.com/2021/09/24/arizona-audit-a-multitude-of-unsubstantiated-claims-and-no-proof-of-fraud/) into Maricopa County elections with a team of inexperienced conspiracy theorists tied to the “Stop The Steal” movement. The team included lead auditor [_Doug Logan_](https://azmirror.com/2021/09/24/arizona-audit-a-multitude-of-unsubstantiated-claims-and-no-proof-of-fraud/), who wrote a report on “election fraud facts” and worked with a pro-trump lawyer to challenge the election results, and a lawyer, [_Stefanie Lambert_](https://www.azcentral.com/story/news/politics/arizona/2023/01/27/arizona-election-audit-infighting-deceit-messages-show/69822009007/), who was involved in a lawsuit challenging the results of the election known as “The Kraken.” Petersen was also allegedly aware of a controversial member of the “audit” team described as an [_“eccentric treasure hunter/inventor,”_](https://www.azcentral.com/story/news/politics/arizona/2023/01/27/arizona-election-audit-infighting-deceit-messages-show/69822009007/) but wanted to keep the individual’s name out of the final report.
+
+**Message:** Petersen’s continued promotion of election fraud theories posed a threat to democracy in Arizona. 
+
+# **Issue Back-Ups**
+
+## **Warren Petersen Policies Have Hurt Everyday People**
+
+- [:woman: **Petersen Was An Anti-Abortion Extremist**](/AZ-Gov/warren-petersen/petersen-abortion)
+- [:school: **Petersen Threatened Public School Funding And Championed “School Choice”**](/AZ-Gov/warren-petersen/petersen-education)
+- [:hospital: **Petersen Supported Massive Cuts To Medicaid And The Affordable Care Act**](/AZ-Gov/warren-petersen/petersen-medicaid)
+- [:shopping_cart: **Petersen Supported Trump’s Devastating Tariffs**](/AZ-Gov/warren-petersen/petersen-tariffs) 
+{.links-list}
+
+## **Warren Petersen Used His Power To Benefit The Powerful** 
+
+- [:sos: **Petersen Platformed 2020 Election Fraud Conspiracy Theories Continuing Into 2026**](/AZ-Gov/warren-petersen/petersen-democracy)
+{.links-list}
