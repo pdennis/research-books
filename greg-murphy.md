@@ -2,7 +2,7 @@
 title: Greg Murphy (NC-03)
 description: 
 published: true
-date: 2026-05-03T23:54:35.061Z
+date: 2026-05-03T23:59:47.293Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-03T23:10:22.395Z
@@ -79,18 +79,18 @@ Greg Murphy has spent his time in Congress fighting to make North Carolinians’
 # Issue Briefs
 
 ## Greg Murphy Supported Policies That Hurt Everyday North Carolinians
-- [:hospital: *Murphy Voted To Take Health Coverage From North Carolinians*](https://research-books.com/en/greg-muprhy/health-care)
-- [:older_man: *Murphy Supported Policies That Could Hurt Services North Carolina Seniors Rely On*](https://research-books.com/en/greg-muprhy/seniors)
-- [:carrot: *Murphy Voted To Cut Food Assistance North Carolinians Relied On To Afford Groceries*](https://research-books.com/en/greg-muprhy/food)
-- [:shopping_cart: *Murphy Supported Tariffs That Raised Prices On North Carolinians*](https://research-books.com/en/greg-muprhy/tariffs)
-- [:x: *Murphy Was "Delighted" By An Agency That Laid Off Workers And Hamstrung Social Security*](https://research-books.com/en/greg-muprhy/doge)
-- [:woman: *Murphy's Extreme Anti-Choice Viewed Put North Carolina Women At-Risk*](https://research-books.com/en/greg-muprhy/choice)
+- [:hospital: *Murphy Voted To Take Health Coverage From North Carolinians*](https://research-books.com/en/greg-murphy/health-care)
+- [:older_man: *Murphy Supported Policies That Could Hurt Services North Carolina Seniors Rely On*](https://research-books.com/en/greg-murphy/seniors)
+- [:carrot: *Murphy Voted To Cut Food Assistance North Carolinians Relied On To Afford Groceries*](https://research-books.com/en/greg-murphy/food)
+- [:shopping_cart: *Murphy Supported Tariffs That Raised Prices On North Carolinians*](https://research-books.com/en/greg-murphy/tariffs)
+- [:x: *Murphy Was "Delighted" By An Agency That Laid Off Workers And Hamstrung Social Security*](https://research-books.com/en/greg-murphy/doge)
+- [:woman: *Murphy's Extreme Anti-Choice Viewed Put North Carolina Women At-Risk*](https://research-books.com/en/greg-murphy/choice)
 {.links-list}
 ## Greg Murphy Used His Power To Benefit The Powerful And Himself
-- [:eyes: *It Took Murphy 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/greg-muprhy/epstein)
-- [:ballot_box_with_check: *Murphy Supported Efforts To Overturn The 2020 Presidential Election Results*](https://research-books.com/en/greg-muprhy/big-lie)
-- [:warning: *Murphy Made Controversial Comments About Women Elected Officials*](https://research-books.com/en/greg-muprhy/offensive)
+- [:eyes: *It Took Murphy 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/greg-murphy/epstein)
+- [:ballot_box_with_check: *Murphy Supported Efforts To Overturn The 2020 Presidential Election Results*](https://research-books.com/en/greg-murphy/big-lie)
+- [:warning: *Murphy Made Controversial Comments About Women Elected Officials*](https://research-books.com/en/greg-murphy/offensive)
 {.links-list}
 # Key Votes
-- [:white_check_mark: *Murphy's Key Votes In Congress*](https://research-books.com/en/greg-muprhy/votes)
+- [:white_check_mark: *Murphy's Key Votes In Congress*](https://research-books.com/en/greg-murphy/votes)
 {.links-list}
