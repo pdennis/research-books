@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: false
-date: 2026-05-04T20:37:25.587Z
+date: 2026-05-04T20:37:33.689Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
@@ -103,7 +103,6 @@ Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to
 - [:apple: | **Kris Kobach Supported SNAP And TANF Cuts And Handing Over Sensitive SNAP Data To The Trump Administration**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-food)
 - [:x: | **Kris Kobach Refused To Defend Kansas’ Critical Grants From DOGE Cuts**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-DOGE)
 - [:woman: | **Kris Kobach Was An Anti-Abortion Extremist**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-abortion)
-
 - [:rainbow: | **Kris Kobach Opposed LGBTQ+ Kansans Adopting Children And Getting Married**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-LGBTQ)
 {.links-list}
 
