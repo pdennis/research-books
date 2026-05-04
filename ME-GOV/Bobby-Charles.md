@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-02-02T16:23:53.799Z
+date: 2026-05-04T20:29:25.867Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -39,7 +39,7 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 
 ### Bobby Charles Supported Stripping SNAP Benefits From Maine Families 
 
--   In 2025, Bobby Charles [supported](https://www.facebook.com/photo/?fbid=122136461522771161&set=a.122120850236771161) Trump’s “One Big Beautiful Bill,” which made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Charles also [declared](https://www.youtube.com/shorts/tKxOqz3kKC4) he was “totally on side” with Trump’s agenda and backed work requirements that would restrict Mainers’ ability to receive public assistance. More than [77,400](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) households in Maine relied on SNAP to meet basic food needs.
+-   In 2025, Bobby Charles [supported](https://www.facebook.com/photo/?fbid=122136461522771161&set=a.122120850236771161) Trump’s “One Big Beautiful Bill,” which made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Charles also [declared](https://www.youtube.com/shorts/tKxOqz3kKC4) he was “totally on side” with Trump’s agenda and backed work requirements that would restrict Mainers’ ability to receive public assistance. More than [78,000](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) households in Maine relied on SNAP to meet basic food needs.
 
 **Message:** Bobby Charles supported making food more expensive for Maine families.
 
