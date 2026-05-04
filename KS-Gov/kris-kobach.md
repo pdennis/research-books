@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: false
-date: 2026-05-04T20:38:40.732Z
+date: 2026-05-04T20:40:46.902Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
@@ -41,7 +41,7 @@ Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to
 
 ### **Kris Kobach Supported SNAP And TANF Cuts And Handing Over Sensitive SNAP Data To The Trump Administration**
 
-- From 2025 to 2026, Kris Kobach supported the [Trump administration’s request](https://www.cjonline.com/story/news/politics/government/2026/03/27/kansas-supreme-court-rules-in-laura-kelly-lawsuit-against-kris-kobach/89331292007/) for the personal data of 730,000 Kansans who relied on food assistance or applied for benefits. In 2025, Kobach [sued](https://www.ag.ks.gov/Home/Components/News/News/203/1292) Kansas Governor Kelly for refusing to turn over the sensitive SNAP data. In 2026, Kobach [_called_](https://x.com/KrisKobach1787/status/2018863990349156698) on Kansas lawmakers to force Governor Kelly to submit the SNAP data to Trump’s Department of Agriculture.
+- From 2025 to 2026, Kris Kobach supported the [Trump administration’s request](https://www.cjonline.com/story/news/politics/government/2026/03/27/kansas-supreme-court-rules-in-laura-kelly-lawsuit-against-kris-kobach/89331292007/) for the personal data of 730,000 Kansans who relied on food assistance or applied for benefits. In 2025, Kobach [sued](https://www.ag.ks.gov/Home/Components/News/News/203/1292) Kansas Governor Kelly for refusing to turn over the sensitive SNAP data. In 2026, Kobach [called](https://x.com/KrisKobach1787/status/2018863990349156698) on Kansas lawmakers to force Governor Kelly to submit the SNAP data to Trump’s Department of Agriculture.
 - In 2018, Kobach [proposed](https://www.breitbart.com/midterm-election/2018/10/17/kris-kobachs-welfare-reform-drug-tests-for-food-stamps-end-benefits-for-illegal-aliens/) increasing the work requirements for TANF recipients and implementing work requirements and [illegal](https://www.reuters.com/article/business/u-s-tells-georgia-that-drug-testing-of-food-stamp-recipients-violates-law-idUSL1N0OL2Q5/#:~:text=The%20federal%20government%20has%20warned%20the%20state,recipients%20to%20undergo%20drug%20testing%20is%20illegal.) drug testing requirements for SNAP recipients. Since 2015, Kansas already had one of the ["trickiest”](https://kansasreflector.com/2024/10/04/kansas-governor-keen-to-revamp-cash-assistance-program-in-2025/) TANF programs for people in need, with only 2,800 recipients by 2023. [No Kid Hungry](https://www.nokidhungry.org/blog/why-more-snap-work-requirements-will-harm-families-and-increase-hunger) warned that new work requirements for SNAP recipients would increase hunger and threaten access to food for families in need. In 2024, [more than 71,000 households in Kansas](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
 
 **Message:** Kris Kobach supported handing over sensitive SNAP data to the Trump administration and wanted to impose requirements that would make it harder for Kansans to afford groceries.
