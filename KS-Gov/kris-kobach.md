@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: false
-date: 2026-05-04T20:37:33.689Z
+date: 2026-05-04T20:38:40.732Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # **How To Win Against Kris Kobach**
 
-Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to stand up for Kansas and repeatedly attacked Kansans’ healthcare, food assistance, and voting rights. Kobach supported restricting Medicaid through work requirements, and opposed Medicaid expansion and the Affordable Care Act. He backed Trump’s disastrous tariffs that hurt Kansas small businesses and the agricultural industry. Kobach also supported handing over sensitive SNAP data to the Trump administration and wanted to impose requirements that would make it harder for Kansans to afford groceries. He refused to defend Kansas’ critical grants from DOGE cuts as the cuts hindered Kansas’ ability to provide critical services and federal workers in Kansas were laid off. Kobach repeatedly attacked Kansas’ fundamental right to abortion and attempted to threaten Kansans’ access to abortion medication. Kobach also had a record of opposing rights to the LGBTQ+ community, like their ability to adopt or foster children, and used extreme anti-LGBTQ+ rhetoric. Kobach’s support for Trump’s deployment of federal forces against the consent of governors raised concerns about whether he would protect Kansans from Trump overstepping his authority. Kobach repeatedly promoted baseless conspiracies of voter fraud and helped strategize a lawsuit to overturn the 2020 election. Kobach also had a history of lining his own pockets at the expense of taxpayers on personal and partisan battles.
+Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to stand up for Kansas and repeatedly attacked Kansans’ healthcare, food assistance, and voting rights. Kobach supported restricting Medicaid through work requirements, and opposed Medicaid expansion and the Affordable Care Act. He backed Trump’s disastrous tariffs that hurt Kansas small businesses and the agricultural industry. Kobach also supported handing over sensitive SNAP data to the Trump administration and wanted to impose requirements that would make it harder for Kansans to afford groceries. He refused to defend Kansas’ critical grants from DOGE cuts as the cuts hindered Kansas’ ability to provide critical services and federal workers in Kansas were laid off. Kobach repeatedly attacked Kansas’ fundamental right to abortion and attempted to threaten Kansans’ access to abortion medication. Kobach also had a record of opposing rights to the LGBTQ+ community, like their ability to adopt or foster children, and used extreme anti-LGBTQ+ rhetoric. Kobach’s support for Trump’s deployment of federal forces against the consent of governors raised concerns about whether he would protect Kansans from Trump overstepping his authority. Kobach repeatedly promoted baseless voter fraud conspiracies and helped strategize a lawsuit to overturn the 2020 election. Kobach also had a history of lining his own pockets at the expense of taxpayers on personal and partisan battles.
 
 ### **Kris Kobach Supported Restricting Medicaid And Opposed The Affordable Care Act**
 
