@@ -2,11 +2,15 @@
 title: North Carolina House
 description: 
 published: true
-date: 2026-04-21T16:22:21.730Z
+date: 2026-05-04T19:31:30.292Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T18:47:51.831Z
 ---
+
+## NC-03
+- [:elephant:*Greg Murphy*](https://research-books.com/greg-murphy)
+{.links-list}
 
 ## NC-05
 - [:elephant:*Virginia Foxx*](https://research-books.com/en/virginia-foxx)
