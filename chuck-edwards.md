@@ -2,7 +2,7 @@
 title: Chuck Edwards
 description: 
 published: false
-date: 2026-02-17T16:34:20.145Z
+date: 2026-05-05T23:25:46.854Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T19:01:59.270Z
@@ -92,25 +92,19 @@ Chuck Edwards called Medicaid expansion a ["budget boondoggle"](https://www.citi
 
 # Issue Back-Ups
 
-## Policies That Hurt Everyday People
-- [:hospital: *Health Care: Edwards Flip-Flopped Three Times on Medicaid and Cast the Deciding Vote To Gut It*](health-care-backup.md)
-- [:shopping_cart: *Affordability: Edwards Backed Tariffs and Cut Food Aid While Families Rebuilt From Helene*](affordability-backup.md)
-- [:briefcase: *Jobs and Economy: Edwards Defended DOGE Firings and Tariffs That Gutted WNC's Workforce*](jobs-economy-backup.md)
+## Edwards Supported Policies That Hurt Everyday North Carolinians
+- [:hospital: *Edwards Promised He Wouldn't Disrupt Medicaid, Then Voted To Cut It*](https://research-books.com/en/chuck-edwards/health-care)
+- [:older_man: *Edwards Voted To Cut Medicare After Promising Republicans Wouldn't Disrupt It*](https://research-books.com/en/chuck-edwards/seniors)
+- [:carrot: *Edwards Voted To Cut Food Assistance North Carolinians Relied On*](https://research-books.com/en/chuck-edwards/snap)
+- [:shopping_cart: *Edwards Supported Tariffs That Were Crushing North Carolinians*](https://research-books.com/en/chuck-edwards/tariffs)
+- [:cyclone: *Edwards' Helene Recovery Failures*](https://research-books.com/en/chuck-edwards/helene)
 {.links-list}
-
-## Helene Recovery Failures
-- [:cyclone: *FEMA Denial: Edwards Accepted FEMA's Ruling While Governor Stein Fought It*](fema-helene.md)
-- [:deciduous_tree: *DOGE Firings: Edwards Defended Cuts That Fired Helene Recovery Workers*](doge-firings.md)
-- [:tractor: *Farm Aid: DOGE Slashed the Farm Service Agency Office Helene Farmers Depend On*](farm-aid-cuts.md)
+## Edwards Used His Power To Benefit The Powerful And Himself
+- [:eyes: *Edwards Was Being Investigated By The House Ethics Committee Over Allegations Of Inappropriate Conduct With Female Staffers*](https://www.axios.com/2026/05/04/chuck-edwards-letter-house-ethics)
+- [:hamburger: *Edwards McDonald's Restaurant Scandals*](https://research-books.com/en/chuck-edwards/restaurants)
+- [:moneybag: *Edwards Was Out-Of-Touch With North Carolinians*](https://research-books.com/en/chuck-edwards/out-of-touch)
 {.links-list}
-
-## Personal and Character Vulnerabilities
-- [:hamburger: *McDonald's Scandals: Norovirus, A Wrongful Death, and Fly Larvae*](mcdonalds-scandals.md)
-- [:no_good: *Dodging Constituents: Walked Away Under Police Escort, Ignored Thousands of Calls*](dodging-constituents.md)
-- [:moneybag: *Wealth vs. Poverty: $16.6 Million Congressman in One of America's Poorest Districts*](wealth-vs-poverty.md)
-- [:twisted_rightwards_arrows: *Medicaid Flip-Flop: Opposed It, Championed It, Then Voted To Gut It*](medicaid-flip-flop.md)
-- [:crossed_swords: *Primary Challenge: Former Green Beret Who Led Helene Relief Runs Against Edwards*](primary-challenge.md)
-- [:derelict_house: *Mission Hospital: Edwards Blamed "Obamacare" While Hospital Found in "Immediate Jeopardy" Four Times*](mission-hospital.md)
-- [:microphone: *Media Avoidance: Edwards Said He Would Only Speak To Favorable Media*](media-avoidance.md)
+# Key Votes
+- [:white_check_mark: *Edwards' Key Votes In Congress*](https://research-books.com/en/chuck-edwards/votes)
 {.links-list}
 
