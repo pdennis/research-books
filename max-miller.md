@@ -2,7 +2,7 @@
 title: Max Miller (OH-07)
 description: 
 published: true
-date: 2026-05-05T22:03:11.627Z
+date: 2026-05-05T22:24:57.128Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-05T18:31:57.331Z
@@ -69,7 +69,17 @@ Max Miller has voted against Ohioans to give the wealthiest Americans’ tax bre
 # Issue Briefs
 
 ## Max Miller Supported Policies That Hurt Everyday Ohioans
-
+- [:hospital: *Miller Promised To Fight For Working People, Then Voted To Take Away Their Health Coverage*](https://research-books.com/en/max-miller/health-care)
+- [:older_man: *Miller Promised To Be A Fierce Advocate For Seniors, Then Supported Policies That Would Hurt Services They Rely On*](https://research-books.com/en/max-miller/seniors)
+- [:carrot: *Miller Voted To Cut Food Assistance Ohioans Relied On To Afford Groceries*](https://research-books.com/en/max-miller/snap)
+- [:shopping_cart: *Miller Supported Tariffs That Raised Prices On Ohioans*](https://research-books.com/en/max-miller/tariffs)
+- [:x: *Miller Proudly Supported An Agency That Hurt Services Ohioans Relied On*](https://research-books.com/en/max-miller/doge)
+- [:question: *Miller Requested The National Guard Be Deployed To Cleveland Even Though The City's Crime Rate Had Dropped Since The Pandemic*](https://research-books.com/en/max-miller/national-guard)
+{.links-list}
 ## Max Miller Used His Power To Benefit The Powerful And Himself
-
+- [:file_cabinet: *Miller Has Had Extensive Legal Issues Over The Past Five Years*](https://research-books.com/en/max-miller/legal-problems)
+- [:eyes: *Miller Helped Plan Trump's January 6th Rally, Then Campaigned To Unseat The GOP Congressman Who Voted To Impeach Trump Over January 6th*](https://research-books.com/en/max-miller/big-lie)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *Miller's Key Votes In Congress*](https://research-books.com/en/max-miller/votes)
+{.links-list}
