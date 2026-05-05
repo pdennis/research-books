@@ -2,7 +2,7 @@
 title: Dan Sullivan
 description: 
 published: true
-date: 2026-04-22T14:39:18.369Z
+date: 2026-05-05T14:28:35.021Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T22:32:56.261Z
@@ -34,18 +34,16 @@ Sullivan [_defended_](https://www.alaskasnewssource.com/2024/11/27/sen-sullivan-
 
 Sullivan [_voted_](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm) for the “One Big Beautiful Bill” that contained the [_largest cut_](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes) to the Supplemental Nutrition Assistance Program (SNAP) in history. Sullivan also [_supported_](https://www.adn.com/alaska-news/2025/06/07/nothing-you-can-do-except-stand-here-public-assistance-office-keeps-alaskans-waiting/) work requirements for SNAP under the bill, which would disproportionately impact [_20%_](https://blog.foodbankofalaska.org/feeding-those-who-feed-us-through-snap) of the Alaskan workforce that are classified as seasonal workers.
 
-**Message:** 
-
-Sullivan voted for cuts to food assistance that would hurt Alaska’s large population of seasonal workers.
+**Message:** Sullivan voted for cuts to food assistance that would hurt Alaska’s large population of seasonal workers.
 
 # **Issue Back-Ups**
 
 ## **Dan Sullivan’s Policies Have Hurt Everyday Alaskans**
 
-#### [**Sullivan Voted For Devastating Health Care Cuts**](https://research-books.com/en/dan-sullivan/sullivan-healthcare)
+- [**Sullivan Voted For Devastating Health Care Cuts**](https://research-books.com/en/dan-sullivan/sullivan-healthcare)
 
-#### [**Sullivan Supported The Elimination Of Funding For Life-Saving Public Broadcasting**](https://research-books.com/en/dan-sullivan/sullivan-publicbroadcasting)
+- [**Sullivan Supported The Elimination Of Funding For Life-Saving Public Broadcasting**](https://research-books.com/en/dan-sullivan/sullivan-publicbroadcasting)
 
-#### [**Sullivan Supported Tariffs That Endangered The Alaskan Economy**](https://research-books.com/en/dan-sullivan/sullivan-tariffs)
+- [**Sullivan Supported Tariffs That Endangered The Alaskan Economy**](https://research-books.com/en/dan-sullivan/sullivan-tariffs)
 
-#### [**Sullivan Supported Cuts To Food Assistance For Alaskans**](https://research-books.com/en/dan-sullivan/sullivan-food-assistance)
+- [**Sullivan Supported Cuts To Food Assistance For Alaskans**](https://research-books.com/en/dan-sullivan/sullivan-food-assistance)
