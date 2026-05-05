@@ -2,23 +2,13 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-05-04T20:29:25.867Z
+date: 2026-05-05T21:15:11.743Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
 
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Robert “Bobby” Charles
 
