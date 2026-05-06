@@ -2,7 +2,7 @@
 title: Chuck Edwards
 description: 
 published: false
-date: 2026-05-06T01:41:46.667Z
+date: 2026-05-06T21:53:34.497Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T19:01:59.270Z
@@ -97,6 +97,7 @@ Chuck Edwards called Medicaid expansion a ["budget boondoggle"](https://www.citi
 - [:older_man: *Edwards Supported Policies That Hurt Services Seniors Relied On*](https://research-books.com/en/chuck-edwards/seniors)
 - [:carrot: *Edwards Voted To Cut Food Assistance North Carolinians Relied On*](https://research-books.com/en/chuck-edwards/snap)
 - [:shopping_cart: *Edwards Supported Tariffs That Were Crushing North Carolinians*](https://research-books.com/en/chuck-edwards/tariffs)
+- [:fuelpump: *Edwards Defended A War That Raised Gas Prices On Western North Carolina*](https://research-books.com/en/chuck-edwards/gas)
 - [:cyclone: *Edwards' Helene Recovery Failures*](https://research-books.com/en/chuck-edwards/helene)
 {.links-list}
 ## Edwards Used His Power To Benefit The Powerful And Himself
