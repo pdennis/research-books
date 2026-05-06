@@ -2,7 +2,7 @@
 title: Chuck Edwards
 description: 
 published: false
-date: 2026-05-05T23:25:46.854Z
+date: 2026-05-06T01:41:46.667Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T19:01:59.270Z
@@ -94,7 +94,7 @@ Chuck Edwards called Medicaid expansion a ["budget boondoggle"](https://www.citi
 
 ## Edwards Supported Policies That Hurt Everyday North Carolinians
 - [:hospital: *Edwards Promised He Wouldn't Disrupt Medicaid, Then Voted To Cut It*](https://research-books.com/en/chuck-edwards/health-care)
-- [:older_man: *Edwards Voted To Cut Medicare After Promising Republicans Wouldn't Disrupt It*](https://research-books.com/en/chuck-edwards/seniors)
+- [:older_man: *Edwards Supported Policies That Hurt Services Seniors Relied On*](https://research-books.com/en/chuck-edwards/seniors)
 - [:carrot: *Edwards Voted To Cut Food Assistance North Carolinians Relied On*](https://research-books.com/en/chuck-edwards/snap)
 - [:shopping_cart: *Edwards Supported Tariffs That Were Crushing North Carolinians*](https://research-books.com/en/chuck-edwards/tariffs)
 - [:cyclone: *Edwards' Helene Recovery Failures*](https://research-books.com/en/chuck-edwards/helene)
