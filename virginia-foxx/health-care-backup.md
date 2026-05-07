@@ -1,8 +1,8 @@
 ---
 title: Rep. Virginia Foxx (NC-05): Health Care
 description: 
-published: false
-date: 2026-02-18T19:50:12.022Z
+published: true
+date: 2026-05-07T14:09:11.236Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:21:49.390Z
