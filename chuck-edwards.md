@@ -1,8 +1,8 @@
 ---
 title: Chuck Edwards
 description: 
-published: false
-date: 2026-05-07T04:00:52.974Z
+published: true
+date: 2026-05-07T04:12:37.883Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T19:01:59.270Z
