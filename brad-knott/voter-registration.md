@@ -1,8 +1,8 @@
 ---
 title: Rep. Brad Knott: Voted From The Wrong Address For Nearly A Decade
 description: 
-published: false
-date: 2026-02-18T19:38:23.016Z
+published: true
+date: 2026-05-07T14:50:40.372Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:00:19.523Z
