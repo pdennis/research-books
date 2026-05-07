@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-04-03T17:54:04.770Z
+date: 2026-05-07T20:22:48.003Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -69,7 +69,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 ### **GARRITY WAS AN ANTI-ABORTION EXTREMIST**
 
 -	Although she [tried]( https://www.politico.com/news/2025/09/11/establishment-gop-pick-in-pa-gov-race-looks-to-pivot-from-her-anti-abortion-past-00556345) to soften her tone on abortion, Garrity was an out-of-touch anti-abortion extremist.
--	Garrity [celebrated]( https://americanjournalnews.com/anti-abortion-extremists-eye-pennsylvania-governors-mansion/) the overturning of Roe v. Wade and [claimed]( https://www.facebook.com/GarrityForPA/posts/pfbid0zPr7Lx4qtG4hbpj4UUenroEHoxgP88g8PRU7keXXJSdNjjdStv1htL8Ym7LBhyFwl) it “was wrong from the beginning.” Garrity supported [defunding]( https://americanjournalnews.com/anti-abortion-extremists-eye-pennsylvania-governors-mansion/) Planned Parenthood and previously [sold]( https://www.politico.com/news/2025/09/11/establishment-gop-pick-in-pa-gov-race-looks-to-pivot-from-her-anti-abortion-past-00556345) anti-abortion campaign merchandise. While Garrity [claimed]( https://www.fox43.com/article/news/politics/elections/stacy-garrity-fox43-pennsylvania-josh-shapiro-2026-governor-republican-nomine-election/521-624f6be3-3ae8-426e-8415-476b7a30aaaf) she no longer wanted to talk abortion, she previously [said,]( https://americanjournalnews.com/2024-election-abortion-reproductive-rights-pennsylvania-senate-republicans/) “What’s really dangerous to families and freedom is aborting babies and packing the Supreme Court.”
+-	In April 2026, Garrity [condemned](https://www.facebook.com/GarrityForPA/posts/pfbid0UCRNwbZWbwzNi5vrZVb3eGtXPG2j8DVDUSchVf273Qwf1vNV8nJAzK5tqgjcka1nl) the Pennsylvania Commonwealth Court's ruling that [declared the right to abortion,](https://penncapital-star.com/abortion-policy/commonwealth-court-rules-the-state-constitution-includes-a-fundamental-right-to-abortion/) calling it “immoral.” In 2022, Garrity [celebrated]( https://americanjournalnews.com/anti-abortion-extremists-eye-pennsylvania-governors-mansion/) the overturning of Roe v. Wade and [claimed]( https://www.facebook.com/GarrityForPA/posts/pfbid0zPr7Lx4qtG4hbpj4UUenroEHoxgP88g8PRU7keXXJSdNjjdStv1htL8Ym7LBhyFwl) it “was wrong from the beginning.” Garrity supported [defunding]( https://americanjournalnews.com/anti-abortion-extremists-eye-pennsylvania-governors-mansion/) Planned Parenthood and previously [sold]( https://www.politico.com/news/2025/09/11/establishment-gop-pick-in-pa-gov-race-looks-to-pivot-from-her-anti-abortion-past-00556345) anti-abortion campaign merchandise. While Garrity [claimed]( https://www.fox43.com/article/news/politics/elections/stacy-garrity-fox43-pennsylvania-josh-shapiro-2026-governor-republican-nomine-election/521-624f6be3-3ae8-426e-8415-476b7a30aaaf) she no longer wanted to talk abortion, she previously [said,]( https://americanjournalnews.com/2024-election-abortion-reproductive-rights-pennsylvania-senate-republicans/) “What’s really dangerous to families and freedom is aborting babies and packing the Supreme Court.”
 
 **Message:** Garrity threatened the reproductive freedoms of Pennsylvanians.
 
