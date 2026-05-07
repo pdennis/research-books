@@ -1,8 +1,8 @@
 ---
 title: Rep. Richard Hudson (NC-09): Health Care
 description: 
-published: false
-date: 2026-03-24T21:43:06.441Z
+published: true
+date: 2026-05-07T16:53:50.815Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:13:07.443Z
