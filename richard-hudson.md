@@ -2,7 +2,7 @@
 title: Richard Hudson (NC-09)
 description: 
 published: true
-date: 2026-03-27T15:49:06.707Z
+date: 2026-05-07T14:32:56.433Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:48.234Z
@@ -16,7 +16,7 @@ He called the One Big Beautiful Bill ["the most pro-worker, pro-family legislati
 
 ### **HEALTH CARE: TOP PHARMA RECIPIENT WHO BLOCKED MEDICAID FOR OWN CONSTITUENTS**
 
-- Was the [#1 pharmaceutical PAC recipient in Congress](https://www.opensecrets.org/members-of-congress/richard-hudson/industries?cid=N00033630&cycle=2020) in the 2020 cycle ($275,980), then voted against the [a \$35 insulin cap and Medicare drug price negotiation](https://myfox8.com/news/north-carolina/heres-what-the-inflation-reduction-act-means-for-north-carolina/). 
+- Was a [top pharmaceutical PAC recipient in Congress](https://www.opensecrets.org/members-of-congress/richard-hudson/industries?cid=N00033630&cycle=2020) in the 2020 cycle ($275,980), then voted against the [a \$35 insulin cap and Medicare drug price negotiation](https://myfox8.com/news/north-carolina/heres-what-the-inflation-reduction-act-means-for-north-carolina/). 
 
 - Personally [inserted a provision to block Medicaid expansion in North Carolina](https://www.rollcall.com/2017/03/22/gop-bill-takes-aim-at-long-shot-medicaid-expansion-hopes/), boasting, "I did get something for North Carolina. We got a provision that says we can't expand Medicaid." Expansion eventually covered [600,000+ people](https://www.ncdhhs.gov/news/press-releases/2024/12/16/over-600000-north-carolinians-enrolled-medicaid-expansion) — no thanks to Hudson.
 
