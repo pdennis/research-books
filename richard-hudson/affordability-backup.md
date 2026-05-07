@@ -1,8 +1,8 @@
 ---
 title: Rep. Richard Hudson (NC-09): Affordability
 description: 
-published: false
-date: 2026-03-24T21:51:00.384Z
+published: true
+date: 2026-05-07T16:54:27.680Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:58.357Z
