@@ -2,7 +2,7 @@
 title: Brad Knott
 description: 
 published: true
-date: 2026-03-25T13:23:26.614Z
+date: 2026-05-07T21:47:06.076Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:59:23.079Z
@@ -20,7 +20,7 @@ Knott voted for [Medicaid cuts](https://www.wunc.org/politics/2025-09-19/telepho
 
 He [voted against extending ACA subsidies](https://www.northcarolinahealthnews.org/2026/01/19/nc-health-insurance-consumers-left-in-limbo-by-congress/) and refused to comment, driving premiums up [28.6% on average](https://www.ncdoi.gov/news/press-releases/2025/10/29/aca-health-insurance-rates-released-2026-open-enrollment) — one Charlotte couple saw their premium [quadruple from \$7,225 to \$31,446 per year](https://ncvoices.com/north-carolina-leaders-warn-aca-premiums-are-soaring-after-tax-credits-expire/).
 
-NC Health News could not find [a single public statement](https://www.northcarolinahealthnews.org/govpack_profiles/brad-knott/) from Knott on Medicare, Medicaid, rural hospital funding, or prescription drug costs.
+When he was running for congress, NC Health News could not find [a single public statement](https://www.northcarolinahealthnews.org/govpack_profiles/brad-knott/) from Knott on Medicare, Medicaid, rural hospital funding, or prescription drug costs.
 
 **Message:** Knott voted to gut health care for half a million North Carolinians, then refused to even talk about it.
 
