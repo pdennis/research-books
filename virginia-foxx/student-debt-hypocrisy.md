@@ -1,8 +1,8 @@
 ---
 title: Rep. Virginia Foxx (NC-05): Told Students She Has "Very Little Tolerance" for Their Debt
 description: 
-published: false
-date: 2026-02-18T19:50:27.392Z
+published: true
+date: 2026-05-07T14:16:49.778Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:22:11.924Z
