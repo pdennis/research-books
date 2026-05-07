@@ -1,8 +1,8 @@
 ---
 title: Rep. Brad Knott (NC-13): Can't Be Trusted on Affordability
 description: 
-published: false
-date: 2026-02-18T19:37:57.759Z
+published: true
+date: 2026-05-07T14:52:45.027Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:59:36.001Z
