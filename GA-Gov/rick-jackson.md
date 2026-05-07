@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-04-13T19:26:53.431Z
+date: 2026-05-07T17:59:40.443Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -34,7 +34,7 @@ Georgia Republican gubernatorial candidate Rick Jackson stated that he did not d
 
 ### Rick Jackson Was An Anti-Abortion Extremist
 
--   In 2026, Rick Jackson called himself [“entirely pro life,”](https://www.ajc.com/politics/2026/02/why-rick-jackson-says-hell-be-trumps-favorite-governor/) and said he [“wouldn’t change a thing”](https://www.ajc.com/politics/2026/02/why-rick-jackson-says-hell-be-trumps-favorite-governor/) about Georgia’s abortion law, which banned abortions [“when cardiac activity is detected, \[…\] at approximately six weeks of pregnancy.”](https://www.axios.com/2022/11/23/georgia-supreme-court-reinstates-six-week-abortion-ban)
+-   In 2026, Rick Jackson called himself [“entirely pro life,”](https://www.ajc.com/politics/2026/02/why-rick-jackson-says-hell-be-trumps-favorite-governor/) and said he [“wouldn’t change a thing”](https://www.ajc.com/politics/2026/02/why-rick-jackson-says-hell-be-trumps-favorite-governor/) about Georgia’s abortion law, which banned abortions [“when cardiac activity is detected, \[…\] at approximately six weeks of pregnancy.”](https://www.axios.com/2022/11/23/georgia-supreme-court-reinstates-six-week-abortion-ban) In March 2026, Jackson [took credit](https://americanjournalnews.com/jackson-takes-credit-for-georgia-abortion-ban-backs-even-stricter-limits/) for Georgia's extreme abortion restrictions and said he would “absolutely” back an even stricter ban in Georgia.
 -   When Jackson’s opponent, Burt Jones, claimed Jackson’s [business supported Planned Parenthood](https://www.breitbart.com/politics/2026/02/13/georgia-republican-gov-candidate-rick-jackson-runs-company-helping-recruit-for-planned-parenthood/), Jackson said it was an [“absurd lie,”](https://x.com/TeamJacksonHQ/status/2023883441985777985?s=20) and called Jones a [“desperate trust fund baby.”](https://x.com/TeamJacksonHQ/status/2023883441985777985?s=20) 
 
 **Message:** Rick Jackson threatened the reproductive freedoms of Georgians. 
