@@ -1,8 +1,8 @@
 ---
 title: Rep. Addison McDowell (NC-06): Can't Be Trusted on Affordability
 description: 
-published: false
-date: 2026-03-25T11:34:30.743Z
+published: true
+date: 2026-05-07T14:26:48.879Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:24.308Z
