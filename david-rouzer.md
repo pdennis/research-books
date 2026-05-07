@@ -2,7 +2,7 @@
 title: David Rouzer (NC-07)
 description: 
 published: true
-date: 2026-04-17T14:49:00.269Z
+date: 2026-05-07T13:41:39.318Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-09T16:55:17.838Z
@@ -39,7 +39,7 @@ North Carolinians in the 7^th^ congressional district deserve better representat
 
 **Message:** Rouzer supported tariffs that raised prices on North Carolinians and hurt farmers.
 
-### Rouzer supported policies that threated public education in north carolina
+### Rouzer supported policies that threatened public education in north carolina
 
 -   Rouzer joined the [congressional DOGE caucus](https://bean.house.gov/media/press-releases/icymi-senator-ernst-joins-congressman-bean-creating-bicameral-doge-caucus) and [defended](https://www.politico.com/news/2025/02/05/duffy-musk-air-traffic-control-00202611) Trump’s Department of Government Efficiency (DOGE) as the agency made massive cuts to grants that [supported students](https://www.wfmynews2.com/article/news/local/2-wants-to-know/full-list-nc-loses-714-million-grant-cuts-doge-elon-musk/83-9a86380d-601b-4fa5-9fbd-1eb8580dc285), [expecting mothers](https://www.wfmynews2.com/article/news/local/2-wants-to-know/full-list-nc-loses-714-million-grant-cuts-doge-elon-musk/83-9a86380d-601b-4fa5-9fbd-1eb8580dc285), and [Black youth in North Carolina](https://www.wfmynews2.com/article/news/local/2-wants-to-know/full-list-nc-loses-714-million-grant-cuts-doge-elon-musk/83-9a86380d-601b-4fa5-9fbd-1eb8580dc285).
 -   His support for DOGE’s cutting rampage aligned with his agenda to abolish the federal Department of Education. Ever since getting elected to congress, Rouzer has introduced a bill ([six times total](https://www.carolinajournal.com/what-do-us-department-of-education-layoffs-mean-for-north-carolina/)) to abolish the agency, even though [63 percent of North Carolina voters](https://www.wral.com/story/what-happens-in-north-carolina-if-the-u-s-department-of-education-shuts-down/21860414/) opposed doing so. North Carolina’s K-12 schools relied on [$1.5 billion in federal funding](https://www.wral.com/story/what-happens-in-north-carolina-if-the-u-s-department-of-education-shuts-down/21860414/) and [more than 211,000 North Carolina college students](https://www.wral.com/story/what-happens-in-north-carolina-if-the-u-s-department-of-education-shuts-down/21860414/) were supported by federal funding.
