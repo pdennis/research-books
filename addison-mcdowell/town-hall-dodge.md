@@ -1,8 +1,8 @@
 ---
 title: Rep. Addison McDowell (NC-06): Refused to Face Constituents
 description: 
-published: false
-date: 2026-02-18T19:36:06.775Z
+published: true
+date: 2026-05-07T14:28:25.764Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:57:12.732Z
