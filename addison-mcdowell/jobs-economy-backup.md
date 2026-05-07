@@ -1,8 +1,8 @@
 ---
 title: Rep. Addison McDowell (NC-06): Can't Be Trusted on Jobs and the Economy
 description: 
-published: false
-date: 2026-02-24T21:37:58.424Z
+published: true
+date: 2026-05-07T14:27:15.431Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:49.278Z
