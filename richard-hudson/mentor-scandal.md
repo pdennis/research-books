@@ -1,8 +1,8 @@
 ---
 title: Political Mentor Pleaded Guilty In Federal Bribery Scandal
 description: 
-published: false
-date: 2026-02-18T19:45:34.752Z
+published: true
+date: 2026-05-07T14:44:47.966Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:13:32.630Z
