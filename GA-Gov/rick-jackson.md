@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-05-08T22:55:37.252Z
+date: 2026-05-08T23:04:35.839Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -22,7 +22,7 @@ Georgia Republican gubernatorial candidate Rick Jackson stated that he did not d
 
 ### Rick Jackson Supported Stripping SNAP Benefits From Georgia Families
 
--   In 2026, Rick Jackson quoted the Bible to justify his [support for work requirements for public assistance programs](https://x.com/RickJacksonGA/status/2023149065807216753?s=20) like SNAP, saying, [“if anyone is not willing to work, let him not eat.”](https://x.com/RickJacksonGA/status/2023411655997378652?s=20) Jackson also said he did not disagree with a [“single White House policy”](https://www.ajc.com/politics/2026/02/why-rick-jackson-says-hell-be-trumps-favorite-governor/) despite Trump’s [“One Big Beautiful Bill”](https://www.congress.gov/votes/house/119-1/190) making the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). More than [456,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) in Georgia relied on SNAP to afford groceries. 
+- In 2026, Rick Jackson's campaign said he [supported](https://www.foxnews.com/politics/gop-governor-hopefuls-pro-trump-pitch-voters-clashes-paper-trail-inside-own-company) Trump's [“One Big Beautiful Bill”](https://www.congress.gov/votes/house/119-1/190), calling  “many parts” of the bill “great,” and he said he did not disagree with a [“single White House policy.”](https://www.ajc.com/politics/2026/02/why-rick-jackson-says-hell-be-trumps-favorite-governor/) Rick Jackson also quoted the Bible to justify his [support for work requirements for public assistance programs](https://x.com/RickJacksonGA/status/2023149065807216753?s=20) like SNAP, saying, [“if anyone is not willing to work, let him not eat.”](https://x.com/RickJacksonGA/status/2023411655997378652?s=20) Trump’s [“One Big Beautiful Bill”](https://www.congress.gov/votes/house/119-1/190) made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes) as more than [456,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) in Georgia relied on SNAP to afford groceries. 
 
 **Message:** Rick Jackson supported making food more expensive for Georgia families. 
 
