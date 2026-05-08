@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-05-07T20:22:48.003Z
+date: 2026-05-08T21:29:52.410Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -75,7 +75,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 ### **GARRITY WAS A THREAT TO THE VOTING RIGHTS OF PENNSYLVANIANS**
 
-- Garrity was an election denier who [opposed]( https://www.fox43.com/article/news/politics/elections/stacy-garrity-fox43-pennsylvania-josh-shapiro-2026-governor-republican-nomine-election/521-624f6be3-3ae8-426e-8415-476b7a30aaaf) mail-in ballots, except for when Republicans used them. Although Garrity [tried]( https://penncapital-star.com/election-2024/garrity-campaign-tries-to-walk-back-election-denial/) to walk back her election denialism, Garrity [claimed]( https://www.post-gazette.com/news/politics-state/2022/05/06/donald-trump-mehmet-oz-u-s-senate-save-america-guy-reschenthaler-j-d-vance-westmoreland/stories/202205060143) Trump won the 2020 election and [spoke]( https://penncapital-star.com/election-2024/garrity-campaign-tries-to-walk-back-election-denial/) at a rally one day before the January 6 insurrection to cast doubt on the 2020 election results. 
+- Garrity was an election denier who [opposed]( https://www.fox43.com/article/news/politics/elections/stacy-garrity-fox43-pennsylvania-josh-shapiro-2026-governor-republican-nomine-election/521-624f6be3-3ae8-426e-8415-476b7a30aaaf) mail-in ballots, except for when Republicans used them. Although Garrity [tried]( https://penncapital-star.com/election-2024/garrity-campaign-tries-to-walk-back-election-denial/) to walk back her election denialism, Garrity [claimed]( https://www.post-gazette.com/news/politics-state/2022/05/06/donald-trump-mehmet-oz-u-s-senate-save-america-guy-reschenthaler-j-d-vance-westmoreland/stories/202205060143) Trump won the 2020 election and [spoke]( https://penncapital-star.com/election-2024/garrity-campaign-tries-to-walk-back-election-denial/) at a rally one day before the January 6 insurrection to cast doubt on the 2020 election results. Recently unearthed [social media posts](https://americanjournalnews.com/garrity-praised-rioters-questioned-2020-election-in-unearthed-posts/) revealed Garrity questioned the 2020 election and praised January 6 insurrectionists. 
 - While Garrity [claimed]( https://www.youtube.com/watch?v=jXFx0FEmtpQ) she did not like mail-in ballots and said Trump had a “legitimate concern” over voter fraud, she also [touted]( https://twitter.com/GarrityForPA/status/1658608518683844619) Republicans “stepping up” in embracing mail-in voting.
 - In February 2026, Garrity publicly [admitted](https://www.witf.org/2026/02/06/governor-hopeful-stacy-garrity-says-shed-work-with-trump-administration-on-pennsylvanias-elections/) she would cooperate with the Trump administration in administering Pennsylvania elections, even as Trump called for Republicans to “nationalize” elections and “take over the voting.”
 
