@@ -2,7 +2,7 @@
 title: North Carolina House
 description: 
 published: true
-date: 2026-05-04T19:31:30.292Z
+date: 2026-05-08T21:07:23.579Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T18:47:51.831Z
@@ -26,6 +26,10 @@ dateCreated: 2025-11-08T18:47:51.831Z
 
 ## NC-09
 - [:elephant:*Richard Hudson*](https://research-books.com/en/richard-hudson)
+{.links-list}
+
+## NC-11
+- [:elephant: *Chuck Edwards*](https://research-books.com/chuck-edwards)
 {.links-list}
 
 ## NC-13
