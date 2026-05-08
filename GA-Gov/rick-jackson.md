@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-05-08T23:04:35.839Z
+date: 2026-05-08T23:08:19.100Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -28,7 +28,7 @@ Georgia Republican gubernatorial candidate Rick Jackson stated that he did not d
 
 ### Rick Jackson Celebrated How Trump's Tariffs Grew His Wealth
 
-- In March 2026, Rick Jackson [touted](https://americanjournalnews.com/rick-jackson-brags-that-tariffs-and-tax-cuts-are-boosting-his-wealth/) how Trump’s tariffs and tax cuts were growing his wealth. Jackson said he bought stocks when the [stock market crashed in April 2025](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s tariffs and celebrated making a “80% return in four weeks.” Trump’s tariffs were dooming Georgia’s ranking as [7th in the nation](https://www.fox5atlanta.com/news/trumps-tariff-plan-sparks-economic-uncertainty-georgia) for net exports and harming the state’s key industries of agriculture, automotive manufacturing, construction, and port logistics. Additionally, [two-thirds of Georgians](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/) believed the tariffs would cause their everyday costs to increase.
+- In 2026, Rick Jackson [praised](https://www.foxnews.com/politics/gop-governor-hopefuls-pro-trump-pitch-voters-clashes-paper-trail-inside-own-company) Trump's tariffs and even [touted](https://americanjournalnews.com/rick-jackson-brags-that-tariffs-and-tax-cuts-are-boosting-his-wealth/) how Trump’s tariffs and tax cuts were growing his wealth. Jackson said he bought stocks when the [stock market crashed in April 2025](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s tariffs and celebrated making a “80% return in four weeks.” Trump’s tariffs were dooming Georgia’s ranking as [7th in the nation](https://www.fox5atlanta.com/news/trumps-tariff-plan-sparks-economic-uncertainty-georgia) for net exports and harming the state’s key industries of agriculture, automotive manufacturing, construction, and port logistics. Additionally, [two-thirds of Georgians](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/) believed the tariffs would cause their everyday costs to increase.
 
 **Message**: While Trump's tariffs harmed Georgia's key industries and drove costs up for Georgians, Rick Jackson celebrated how the tariffs grew his wealth.
 
