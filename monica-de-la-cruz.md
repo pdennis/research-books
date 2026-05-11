@@ -1,8 +1,8 @@
 ---
 title: Monica De La Cruz (TX-15)
 description: 
-published: false
-date: 2026-05-11T17:40:54.728Z
+published: true
+date: 2026-05-11T21:20:39.893Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-15T00:46:32.500Z
