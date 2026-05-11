@@ -1,8 +1,8 @@
 ---
 title: Texas House Races
 description: 
-published: false
-date: 2026-04-15T00:44:51.997Z
+published: true
+date: 2026-05-11T21:23:30.521Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-03T22:35:32.107Z
