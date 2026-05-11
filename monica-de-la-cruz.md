@@ -2,7 +2,7 @@
 title: Monica De La Cruz (TX-15)
 description: 
 published: false
-date: 2026-05-11T17:40:30.534Z
+date: 2026-05-11T17:40:54.728Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-15T00:46:32.500Z
@@ -68,7 +68,7 @@ Monica De La Cruz was [out-of-touch](https://www.texastribune.org/2026/04/09/bob
 
 ## Monica De La Cruz Supported Policies That Hurt Everyday Texans
 - [:hospital: *De La Cruz Voted To Take Health Coverage From Texans*](https://research-books.com/en/monica-de-la-cruz/health-care)
-- [:older_man: *De La Cruz Supported Policies That Would Hurt Services Texas Seniors Relied On](https://research-books.com/en/monica-de-la-cruz/seniors)
+- [:older_man: *De La Cruz Supported Policies That Would Hurt Services Texas Seniors Relied On*](https://research-books.com/en/monica-de-la-cruz/seniors)
 - [:carrot: *De La Cruz Voted To Cut Food Assistance For Texans*](https://research-books.com/en/monica-de-la-cruz/snap)
 - [:shopping_cart: *De La Cruz Voted To Protect Tariffs That Were Raising Prices On Texans*](https://research-books.com/en/monica-de-la-cruz/tariffs)
 - [:woman: *De La Cruz Was An Anti-Choice Extremist Who Opposed Exceptions For Rape And Incest*](https://research-books.com/en/monica-de-la-cruz/choice)
