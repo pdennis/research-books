@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:05:50.077Z
+date: 2026-05-12T19:10:55.019Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -30,7 +30,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ### Garrett Mason Supported Stripping SNAP Benefits From Maine Families 
 
-
+- In 2025, Garrett Mason supported Trump’s “One Big Beautiful Bill,” praised it as "[the exact kind of package that working people need](https://www.youtube.com/watch?v=cSvLBjlmh7U&feature=youtu.be)" and backed increased [work requirements](https://youtu.be/d3thptxRSuQ) for public assistance programs despite the law making the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Trump’s “One Big Beautiful Bill” [slashed](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes) $186 billion in funding and [reduced](https://www.urban.org/research/publication/how-senate-budget-reconciliation-snap-proposals-will-affect-families-every-us)
 
 **Message:** Garrett Mason supported limiting food assistance while tens of thousands of Maine families depended on SNAP to afford groceries and put food on the table.
 
