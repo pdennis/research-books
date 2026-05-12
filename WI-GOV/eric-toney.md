@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:11:06.388Z
+date: 2026-05-12T21:11:40.662Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -45,6 +45,8 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 ### Eric Toney Opposed Stronger Environmental Protections Amid Wisconsin PFAS Concerns
 
 -   In 2022, Eric Toney [refused](https://www.wuwm.com/2022-11-03/a-non-interview-with-wisconsin-attorney-general-candidate-da-eric-toney) to commit to [continuing the state’s PFAS lawsuit](https://www.wpr.org/justice/josh-kaul-eric-toney-spar-wisconsin-attorney-general-debate) against companies accused of contamination as Wisconsin pursued PFAS cleanup efforts and lawsuits over contaminated water sources. Eric Toney repeatedly argued stronger environmental regulations [hurt](http://archive.today/2026.05.05-201105/https://ivoterguide.com/candidate/60126/race/6854/election/985) [businesses](https://www.wuwm.com/2022-11-03/a-non-interview-with-wisconsin-attorney-general-candidate-da-eric-toney) and the economy and warned [environmental enforcement](https://www.jsonline.com/story/news/politics/2025/12/29/what-to-know-about-the-josh-kaul-eric-toney-attorney-general-rematch/87570353007/) could place financial burdens on Wisconsin businesses, even though PFAS contamination harmed Wisconsin communities and raised serious public health concerns. 
+
+- Investigate Midwest [reported](https://investigatemidwest.org/2021/04/29/the-middle-of-a-massive-contamination-residents-of-wisconsin-region-struggle-with-aftereffects-of-dangerous-forever-chemicals/) residents near Johnson Controls International’s Marinette facility linked PFAS exposure to serious [health concerns](https://investigatemidwest.org/2021/04/29/the-middle-of-a-massive-contamination-residents-of-wisconsin-region-struggle-with-aftereffects-of-dangerous-forever-chemicals/), including testicular cancer cases identified in Craig Koller’s high school class at rates roughly 10 times higher than the national average. PFAS contamination spread across Wisconsin while regulators declined to set groundwater standards, Midwest Environmental Advocates warned private well users remained vulnerable to contamination, and more than 100 contamination cases remained under investigation statewide. Investigate Midwest also reported Johnson Controls International found elevated PFAS levels near its Marinette facility in 2013 but did not acknowledge contamination beyond the site until 2017. 
 
 
 **Message:** Eric Toney refused to protect Wisconsin communities from PFAS contamination and drinking water risks.
