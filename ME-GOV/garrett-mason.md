@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:10:55.019Z
+date: 2026-05-12T19:13:11.589Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -30,7 +30,10 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ### Garrett Mason Supported Stripping SNAP Benefits From Maine Families 
 
-- In 2025, Garrett Mason supported Trump’s “One Big Beautiful Bill,” praised it as "[the exact kind of package that working people need](https://www.youtube.com/watch?v=cSvLBjlmh7U&feature=youtu.be)" and backed increased [work requirements](https://youtu.be/d3thptxRSuQ) for public assistance programs despite the law making the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Trump’s “One Big Beautiful Bill” [slashed](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes) $186 billion in funding and [reduced](https://www.urban.org/research/publication/how-senate-budget-reconciliation-snap-proposals-will-affect-families-every-us)
+- In 2025, Garrett Mason supported Trump’s “One Big Beautiful Bill,” praised it as "[the exact kind of package that working people need](https://www.youtube.com/watch?v=cSvLBjlmh7U&feature=youtu.be)" and backed increased [work requirements](https://youtu.be/d3thptxRSuQ) for public assistance programs despite the law making the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Trump’s “One Big Beautiful Bill” [slashed](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes) $186 billion in funding and [reduced](https://www.urban.org/research/publication/how-senate-budget-reconciliation-snap-proposals-will-affect-families-every-us) food assistance for millions. More than 22 million families were projected to lose some or all benefits, with some losing an average of $146 per month. States facing new cost-sharing requirements could be [forced to cut benefits](https://www.cnbc.com/2025/07/10/trumps-big-beautiful-bill-cuts-snap-for-millions-of-families.html) or leave the program entirely. 
+
+- Trump’s "[One Big Beauitful Bill](https://www.cnbc.com/2025/07/10/trumps-big-beautiful-bill-cuts-snap-for-millions-of-families.html)" expanded work requirements that were projected to reduce SNAP participation by 2.4 million people each month. [No Kid Hungry](https://www.nokidhungry.org/blog/why-more-snap-work-requirements-will-harm-families-and-increase-hunger) warned that new work requirements for SNAP recipients would increase hunger and threaten access to food for families in need, as more than [78,000](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) households in Maine relied on SNAP to meet basic food needs. 
+
 
 **Message:** Garrett Mason supported limiting food assistance while tens of thousands of Maine families depended on SNAP to afford groceries and put food on the table.
 
