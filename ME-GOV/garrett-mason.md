@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:13:11.589Z
+date: 2026-05-12T19:14:16.137Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -38,7 +38,6 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 **Message:** Garrett Mason supported limiting food assistance while tens of thousands of Maine families depended on SNAP to afford groceries and put food on the table.
 
 
-
 ### Garrett Mason Opposed Marriage Equality
 
 -  In 2015, Mason [co-sponsored](https://www.pressherald.com/2015/04/14/maine-republican-senate-leaders-co-sponsor-religious-freedom-bill/) legislation allowing individuals and businesses to refuse services to same-sex couples based on religious beliefs. The “Preservation of Religious Freedom Act” could have [legalized discrimination](https://www.bangordailynews.com/2015/04/07/news/maines-religious-freedom-bill-is-nearly-identical-to-indiana-law/) based on sexual orientation.
@@ -50,7 +49,8 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ### Garrett Mason Funneled Clean Elections Money To His Future Employer Despite Opposition To Maine’s Clean Election Act
 
--   In 2025, Charles promoted [election fraud claims](https://amac.us/newsline/politics/democrats-cocky-for-the-wrong/), accused Democrats and immigrants of undermining Maine’s voting system, and encouraged voters to support Question 1, which would have imposed voter ID and absentee voting restrictions. Charles claimed that Maine elections were “[corrupt](https://x.com/Bobby4Maine/status/1976710444573487400?s=20)” and pushed voter ID and absentee voting restrictions, despite Maine voters later [rejecting](https://www.mainepublic.org/politics/2025-11-04/mainers-reject-voter-id-absentee-ballot-restrictions-as-question-1-fails) Question 1 by a more than 25-point margin in 2025.
+-   In 2018, Garrett Mason [funneled more than $100,000 in taxpayer-funded Clean Elections money](https://www.pressherald.com/2019/10/20/candidate-for-maine-governor-paid-clean-elections-money-to-future-employer/) to his future employer, Eaton River Strategies. The consulting firm hired Mason after he lost the 2018 Republican gubernatorial primary. During the primary, Mason qualified for the Clean Elections program and collected $700,000 in public campaign funds despite claiming to oppose Maine’s Clean Election Act and public funding in elections. Mason’s payments to the consulting firm raised concerns Clean Election funds could be used for personal financial gain or as a way to obtain employment. 
+
 
 **Message:** Garrett Mason’s use of taxpayer-funded campaign money raised questions about whether he put his own interests ahead of Mainers.
 
