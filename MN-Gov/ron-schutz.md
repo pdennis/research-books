@@ -2,23 +2,13 @@
 title: Ron Schutz
 description: 
 published: false
-date: 2026-05-12T21:04:43.295Z
+date: 2026-05-12T21:11:39.909Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-07T17:36:58.154Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
 
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Ron Schutz
 
