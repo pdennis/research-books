@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T15:38:56.727Z
+date: 2026-05-12T16:34:58.707Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -10,9 +10,9 @@ dateCreated: 2026-05-12T15:38:56.727Z
 
 
 
-# How To Win Against Robert “Bobby” Charles
+# How To Win Against Garret Mason
 
-Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health care cuts that would leave tens of thousands of Mainers without coverage, including Medicaid recipients, trigger massive Medicare reductions, and rescind tax credits that experts warned would increase energy costs for Mainers. He supported work requirements and the largest SNAP cuts in history, making it harder for Maine families to afford food. Charles praised Trump’s DOGE agenda and said he wanted to bring it to Maine, even as those policies disrupted Social Security services, cut funding for nonprofits, and threatened thousands of jobs across the state. Charles also pushed an extreme anti-abortion agenda, promoted election fraud claims that Maine voters overwhelmingly rejected, and supported sweeping changes to Maine’s elections. Charles also floated a Maine version of Florida’s failed “Alligator Alcatraz,” called for closing the northern border, and embraced immigration policies that would cause legal, environmental, and economic harm to Maine communities.
+Garrett Mason’s political history includes attacks on Mainers’ healthcare, public education, and reproductive rights. Mason supported Trump’s “One Big Beautiful Bill,” rolling back Medicaid expansion, and backing work requirements that could cause people to lose insurance. He also attacked the Affordable Care Act even though thousands of Mainers depended on it to stay covered. Mason supported changes to food assistance that would make it harder to qualify and easier to lose benefits, which could leave families struggling to afford basic groceries. Mason also touted championing charter school legislation that threatened education funding for public schools. He supported restricting reproductive health care, including policies that would limit access to abortion and family planning services to reduce options for patients across the state. Mason also backed positions against marriage equality, supporting policies that would allow businesses to deny services to same-sex couples. In 2018, Mason funneled more than $100,000 in taxpayer-funded Clean Elections money to his future employer despite claiming to oppose Maine’s Clean Election Act. Garrett Mason supported “Trump Accounts,” which analyses found disproportionately benefited wealthier families while offering far less support to lower-income children.
 
 ### Bobby Charles Supported Devastating Health Care Cuts
 
