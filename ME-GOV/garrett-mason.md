@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:03:47.396Z
+date: 2026-05-12T19:05:50.077Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -30,9 +30,6 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ### Garrett Mason Supported Stripping SNAP Benefits From Maine Families 
 
--   In 2015, Mason [co-sponsored](https://www.pressherald.com/2015/04/14/maine-republican-senate-leaders-co-sponsor-religious-freedom-bill/) legislation allowing individuals and businesses to refuse services to same-sex couples based on religious beliefs. The “Preservation of Religious Freedom Act” could have [legalized discrimination](https://www.bangordailynews.com/2015/04/07/news/maines-religious-freedom-bill-is-nearly-identical-to-indiana-law/) based on sexual orientation.
-
-- In 2018, during his first gubernatorial campaign, Mason supported defining marriage as between one man and one woman. 
 
 
 **Message:** Garrett Mason supported limiting food assistance while tens of thousands of Maine families depended on SNAP to afford groceries and put food on the table.
@@ -41,8 +38,10 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ### Garrett Mason Opposed Marriage Equality
 
--   In 2025, Bobby Charles publicly [endorsed](https://www.facebook.com/photo/?fbid=122136461522771161&set=a.122120850236771161) Trump’s “One Big Beautiful Bill” and framed Trump’s national agenda as the agenda he wanted to [bring to Maine](https://www.facebook.com/photo/?fbid=122136461522771161&set=a.122120850236771161). According to experts, the “One Big Beautiful Bill’s” [repeal](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) of clean energy tax credits would raise annual household energy costs in Maine and increase electricity rates statewide.
--   [Energy Innovation](https://web.archive.org/web/20260116221159/https:/energyinnovation.org/wp-content/uploads/OBBBA-impacts-on-Maine.pdf) warned that Trump’s “One Big Beautiful Bill’s” phase out of clean energy tax credits would reduce electricity generation capacity, raise energy prices for Maine households annually by $54 by 2030 and $80 by 2035, and raise gasoline costs by more than $700 annually by 2035. [Center for American Progress](https://www.americanprogress.org/article/maine-families-cost-of-living-would-increase-under-house-republicans-one-big-beautiful-bill-act/) also warned that the phase out of the tax credits also put more than 4,000 jobs at risk and raise the cost of living for Mainers.
+-  In 2015, Mason [co-sponsored](https://www.pressherald.com/2015/04/14/maine-republican-senate-leaders-co-sponsor-religious-freedom-bill/) legislation allowing individuals and businesses to refuse services to same-sex couples based on religious beliefs. The “Preservation of Religious Freedom Act” could have [legalized discrimination](https://www.bangordailynews.com/2015/04/07/news/maines-religious-freedom-bill-is-nearly-identical-to-indiana-law/) based on sexual orientation.
+
+- In 2018, during his first gubernatorial campaign, Mason supported defining marriage as between one man and one woman. 
+
 
 **Message:** Garrett Mason was a threat to marriage equality in Maine.
 
