@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:20:02.153Z
+date: 2026-05-12T21:20:30.387Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -67,15 +67,15 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 ### Eric Toney Opposed Red Flag Laws Designed To Protect Wisconsinites 
 
--   In 2025, Tiffany [praised](https://x.com/RepTiffany/status/1929930522416865361) Trump’s “Department of Government Efficiency” as DOGE-driven cuts and downsizing were [affecting](https://www.axios.com/2025/04/08/social-security-seniors-drive) the [federal government’s](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) [ability](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/) to [deliver services](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) to seniors. More than [1.36 million Wisconsinites](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/wi.pdf) relied on Social Security benefits. 
--   Tiffany [promoted DOGE](https://www.breitbart.com/politics/2025/01/07/exclusive-rep-tom-tiffany-republicans-can-tackle-deficit-while-securing-the-border/) even though it resulted in [federal funding cuts](https://www.wkow.com/news/more-federal-offices-in-wisconsin-listed-on-doge-website-for-downsizing-closure/article_9d28d32c-f954-11ef-b9ae-1711c0e60af1.html) to [Wisconsin](https://www.wpr.org/news/federal-workers-wisconsin-fight-firings-mass-layoffs-trump-musk#:~:text=As%20a%20supply%20technician%2C%20he,adding%20he's%20appealing%20the%20decision.) and Trump threatened the livelihoods of [18,000 federal workers](https://www.jsonline.com/story/news/local/wisconsin/2025/03/11/federal-worker-cuts-how-many-probationary-workers-are-in-wisconsin/81591791007/) in Wisconsin.
+-   
 
 **Message:** Eric Toney opposed red flag laws despite constitutional due process protections designed to protect Wisconsinites.
 
 
 # Issue Back-Ups
 
-## Tom Tiffany's Policies Have Hurt Everyday People
+## Eric Toney's  Positions Have Hurt Everyday People
+
 - [:hospital:  **Tiffany Supported Efforts To Cut Medicaid And Threaten Wisconsin’s Access To Health Care**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-medicaid)
 - [:older_man: **Tiffany Voted For Medicare Cuts**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Medicare)
 - [:shopping_cart: **Tiffany Backed Trump's Tariffs, Endangering Wisconsin’s Economy**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Tariffs)
