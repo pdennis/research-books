@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:04:55.171Z
+date: 2026-05-12T21:05:29.501Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -44,8 +44,8 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 ### Eric Toney Opposed Stronger Environmental Protections Amid Wisconsin PFAS Concerns
 
--   From 2025 to 2026, Tom Tiffany voted seven times to protect Trump’s tariffs. In February 2026, Tiffany [voted](http://clerk.house.gov/evs/2026/roll065.xml) against terminating tariffs against Canada and effectively [voted](http://clerk.house.gov/evs/2026/roll060.xml) to block votes on legislation terminating Trump's tariffs, even though the Tax Foundation found that Trump's tariffs resulted in a [$1,300 tax increase](https://plus.cq.com/doc/news-8404311?12) on American households in 2026. In April 2025, Tiffany was the  [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs from being repealed by Congress, dooming Wisconsinites who relied on him to a trade war and [rising prices](https://www.jsonline.com/story/news/local/2025/09/23/grocery-prices-rose-across-the-board-in-the-midwest-in-august-2025/86308349007/). Tariffs are contributing to [higher food prices](https://www.jsonline.com/story/news/local/2025/09/23/grocery-prices-rose-across-the-board-in-the-midwest-in-august-2025/86308349007/) and are [hurting Wisconsin small businesses and families](https://www.jsonline.com/story/money/business/2025/10/07/u-s-to-see-record-crop-yields-as-farmers-struggle-under-trump-tariffs/86550248007/).
--   Despite this, Tiffany called Trump’s tariffs [“fair trade”](https://www.wpr.org/news/wisconsin-trump-tariffs-johnson-baldwin-economic-development) even while the [U.S. stock market](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) crashed during Trump’s escalating global trade war.
+-   In 2022, Eric Toney [refused](https://www.wuwm.com/2022-11-03/a-non-interview-with-wisconsin-attorney-general-candidate-da-eric-toney) to commit to continuing the state’s PFAS lawsuit against companies accused of contamination as Wisconsin pursued PFAS cleanup efforts and lawsuits over contaminated water sources. Eric Toney repeatedly argued stronger environmental regulations hurt businesses and the economy and warned environmental enforcement could place financial burdens on Wisconsin businesses, even though PFAS contamination harmed Wisconsin communities and raised serious public health concerns. 
+
 
 **Message:** Eric Toney refused to protect Wisconsin communities from PFAS contamination and drinking water risks.
 
