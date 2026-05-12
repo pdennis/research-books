@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T18:34:28.342Z
+date: 2026-05-12T18:34:37.253Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -16,7 +16,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ### Garrett Mason Supported Devastating Health Care Cuts And Opposed The Affordable Care Act
 
--   In October 2025, Garrett Mason supported Trump’s “One Big Beautiful Bill” which he praised as "[the exact kind of package that working people need](https://www.youtube.com/watch?v=cSvLBjlmh7U&feature=youtu.be)." Trump’s “One Big Beautiful Bill” would lead to major coverage [losses] (https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) and result in Mainers losing access to health insurance. The bill was projected to leave more than [57,300 Mainers](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf)without health care coverage by 2034, including more than 34,000 Medicaid recipients. 
+-   In October 2025, Garrett Mason supported Trump’s “One Big Beautiful Bill” which he praised as "[the exact kind of package that working people need](https://www.youtube.com/watch?v=cSvLBjlmh7U&feature=youtu.be)." Trump’s “One Big Beautiful Bill” would lead to major coverage [losses] (https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) and result in Mainers losing access to health insurance. The bill was projected to leave more than [57,300 Mainers](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) without health care coverage by 2034, including more than 34,000 Medicaid recipients. 
 
 
  
