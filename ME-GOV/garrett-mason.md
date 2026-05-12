@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:43:39.667Z
+date: 2026-05-12T19:45:02.634Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -97,8 +97,8 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ## Garrett Mason’s Use Of Clean Election Money Raised Ethics Concerns
 
-- [:mag_right: | **Garrett Mason Violated Maine’s Clean Election Act And Sent Public Funds To A Future Employer**](https://research-books.com/en/ME-GOV/garrett-mason/mason-ethics)
+- [:grimacing:| **Garrett Mason Violated Maine’s Clean Election Act And Sent Public Funds To A Future Employer**](https://research-books.com/en/ME-GOV/garrett-mason/mason-ethics)
 
 # Key Votes
-- [:mag_right: | **Garrett Mason’s Key Votes As A Member Of The Maine Legislature**](https://research-books.com/en/ME-GOV/garrett-mason/mason-votes)
+- [:white_check_mark: | **Garrett Mason’s Key Votes As A Member Of The Maine Legislature**](https://research-books.com/en/ME-GOV/garrett-mason/mason-votes)
 {.links-list}
