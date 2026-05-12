@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:38:36.464Z
+date: 2026-05-12T19:39:15.449Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -92,7 +92,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 - [:books: | **Garrett Mason Supported Defunding Maine’s Public Schools**](https://research-books.com/en/ME-GOV/garrett-mason/mason-defunding-public-education)
 - [:woman: | **Garrett Mason Was An Anti-Abortion Extremist**](https://research-books.com/en/ME-GOV/garrett-mason/mason-abortion)
 
-[:money_with_wings: | **Garrett Mason Supported “Trump Accounts” Which Benefited Wealthier Families**](https://research-books.com/en/ME-GOV/garrett-mason/mason-abortion)
+- [:money_with_wings: | **Garrett Mason Supported “Trump Accounts” Which Benefited Wealthier Families**](https://research-books.com/en/ME-GOV/garrett-mason/mason-trump-accounts) 
 {.links-list}
 
 
