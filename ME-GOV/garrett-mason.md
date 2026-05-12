@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:19:27.906Z
+date: 2026-05-12T19:20:55.645Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -64,7 +64,8 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ### Garrett Mason Was An Anti-Abortion Extremist
 
--   In 2025, Bobby Charles pushed an extreme anti-choice agenda, declaring himself “[unapologetically pro-life](https://www.youtube.com/shorts/T3n9sXUzM34).” Charles called for limiting abortion access and ending public funding for abortion. He also opposed pregnancy-related health care coverage for people under 21 and undocumented immigrants, framing access to care as something he would [roll back](https://www.facebook.com/share/p/1De8xjVZBZ/) if elected governor.
+-   Garrett Mason had a history of promoting an extreme anti-choice agenda. In 2026, Garrett Mason [said](https://www.newscentermaine.com/article/news/politics/maine-politics/republican-gubernatorial-candidate-garrett-mason-promises-ready-day-one/97-dabd0520-4c4e-438a-ac98-28b713b0c282) he opposed Maine’s current 24-week abortion law, claiming it was “far too extreme.” In 2018, Mason opposed abortion in [nearly all cases](https://www.bangordailynews.com/2018/05/28/politics/garrett-mason-mixes-christian-conservative-roots-with-youthful-leadership-in-bid-to-succeed-lepage/), including rape and incest.
+
 
 **Message:** Garrett Mason threatened the reproductive freedoms of Mainers.
 
