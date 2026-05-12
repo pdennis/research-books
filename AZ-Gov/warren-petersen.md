@@ -2,23 +2,12 @@
 title: Warren Petersen
 description: 
 published: false
-date: 2026-04-30T16:17:26.659Z
+date: 2026-05-12T21:13:29.222Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T16:02:27.010Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
-
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # **How To Win Against Warren Petersen**
 
@@ -64,13 +53,13 @@ As a member of the Arizona state legislature, Republican Arizona attorney genera
 
 ## **Warren Petersen Policies Have Hurt Everyday People**
 
-- [:woman: **Petersen Was An Anti-Abortion Extremist**](/AZ-Gov/warren-petersen/petersen-abortion)
-- [:school: **Petersen Threatened Public School Funding And Championed “School Choice”**](/AZ-Gov/warren-petersen/petersen-education)
-- [:hospital: **Petersen Supported Massive Cuts To Medicaid And The Affordable Care Act**](/AZ-Gov/warren-petersen/petersen-medicaid)
-- [:shopping_cart: **Petersen Supported Trump’s Devastating Tariffs**](/AZ-Gov/warren-petersen/petersen-tariffs) 
+- [:woman: ***Petersen Was An Anti-Abortion Extremist***](/AZ-Gov/warren-petersen/petersen-abortion)
+- [:school: ***Petersen Threatened Public School Funding And Championed “School Choice”***](/AZ-Gov/warren-petersen/petersen-education)
+- [:hospital: ***Petersen Supported Massive Cuts To Medicaid And The Affordable Care Act***](/AZ-Gov/warren-petersen/petersen-medicaid)
+- [:shopping_cart: ***Petersen Supported Trump’s Devastating Tariffs***](/AZ-Gov/warren-petersen/petersen-tariffs) 
 {.links-list}
 
 ## **Warren Petersen Used His Power To Benefit The Powerful** 
 
-- [:sos: **Petersen Platformed 2020 Election Fraud Conspiracy Theories Continuing Into 2026**](/AZ-Gov/warren-petersen/petersen-democracy)
+- [:sos: ***Petersen Platformed 2020 Election Fraud Conspiracy Theories Continuing Into 2026***](/AZ-Gov/warren-petersen/petersen-democracy)
 {.links-list}
