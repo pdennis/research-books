@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:14:16.137Z
+date: 2026-05-12T19:15:33.432Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -56,8 +56,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ### Garrett Mason Supported Defunding Maine’s Public Schools
 
--   In 2025, Bobby Charles publicly [praised](https://x.com/Bobby4Maine/status/1940819405266735230) Ron DeSantis’ “Alligator Alcatraz” detention facility and floated the idea of creating a similar immigrant detention camp in Maine. Ron DeSantis [defended](https://www.wusf.org/environment/2026-01-06/how-alligator-alcatraz-detention-center-stirred-up-environmental-fight) the Everglades detention center by claiming surrounding wildlife provided “natural security,” despite the facility’s risks to wetlands and South Florida’s drinking water supply. Florida’s “Alligator Alcatraz” detention center faced a [court-ordered shutdown](https://www.nytimes.com/2025/08/21/us/alligator-alcatraz-florida-ruling.html) after judges found the state and federal governments failed to account for environmental and legal requirements.
--   That same year, Bobby Charles [said](https://www.youtube.com/shorts/tKxOqz3kKC4) he wanted to close the northern border while aligning himself with Trump’s immigration agenda. At the same time, Trump’s border and tariff policies cut Canadian travel to Maine [down](https://www.mecep.org/blog/trumps-attacks-on-canadians-are-hurting-maines-border-economies/) by nearly 750,000 crossings and contributed to a 3.3% decline in retail sales and nearly 5% drops in restaurant and lodging sales in border communities. Trump also escalated diplomatic tensions with U.S. allies by posting an AI-generated image depicting Canada and Greenland [under U.S. control](https://www.cnn.com/2026/01/20/americas/canada-greenland-trump-analysis-latam-intl), adding to cross-border uncertainty.
+-   In 2026, Mason [touted](https://www.themainewire.com/2026/04/garrett-mason-touts-conservative-record-targets-democrats-on-housing-energy-and-taxes-at-maine-gop-convention/) championing education policies that defunded and hurt public education in Maine. In 2011, Mason
 
 **Message:** Garrett Mason championed charter school policies that threatened to defund public schools in Maine.
 
