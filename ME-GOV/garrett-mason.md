@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:17:39.927Z
+date: 2026-05-12T19:18:59.754Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -56,7 +56,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ### Garrett Mason Supported Defunding Maine’s Public Schools
 
--   In 2026, Mason [touted](https://www.themainewire.com/2026/04/garrett-mason-touts-conservative-record-targets-democrats-on-housing-energy-and-taxes-at-maine-gop-convention/) championing education policies that defunded and hurt public education in Maine. In 2011, Mason [sponsored and voted for legislation](https://www.mainelegislature.org/LawMakerWeb/dockets.asp?ID=280041607) to [allow 10 charter schools in Maine](https://www.bangordailynews.com/2011/06/29/politics/lepage-signs-bill-to-allow-charter-schools-in-maine/?ref=search), despite warnings charter schools [threatened](https://www.govtech.com/education/k-12/ten-years-on-maines-charter-schools-yield-mixed-results) public school funding. In 2021, ten years after the enactment of Mason’s charter school legislation, [a state report](https://www.govtech.com/education/k-12/ten-years-on-maines-charter-schools-yield-mixed-results)
+-   In 2026, Mason [touted](https://www.themainewire.com/2026/04/garrett-mason-touts-conservative-record-targets-democrats-on-housing-energy-and-taxes-at-maine-gop-convention/) championing education policies that defunded and hurt public education in Maine. In 2011, Mason [sponsored and voted for legislation](https://www.mainelegislature.org/LawMakerWeb/dockets.asp?ID=280041607) to [allow 10 charter schools in Maine](https://www.bangordailynews.com/2011/06/29/politics/lepage-signs-bill-to-allow-charter-schools-in-maine/?ref=search), despite warnings charter schools [threatened](https://www.govtech.com/education/k-12/ten-years-on-maines-charter-schools-yield-mixed-results) public school funding. In 2021, ten years after the enactment of Mason’s charter school legislation, [a state report](https://www.govtech.com/education/k-12/ten-years-on-maines-charter-schools-yield-mixed-results) found Maine charter schools had lower graduation rates and mixed student performance compared to traditional public schools. In 2013, Mason also [sponsored and voted for legislation](https://www.mainelegislature.org/LawMakerWeb/rollcall.asp?ID=280049049&chamber=Senate&serialnumber=315) to lift the cap on charter schools, allow some taxpayer money to religious schools, and allow education funding to follow students away from public schools. Mason’s legislation would have effectively [repealed](https://www.centralmaine.com/2013/05/09/lepage-nix-charter-school-cap-send-public-funds-to-private-schools/) a law that banned state funding to sectarian schools. The Maine Education Association
 
 **Message:** Garrett Mason championed charter school policies that threatened to defund public schools in Maine.
 
