@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:16:53.960Z
+date: 2026-05-12T21:17:08.214Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -56,7 +56,7 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 ### Eric Toney Embraced Aggressive Voter Fraud Prosecutions That Were Called “A Hammer In Search Of A Nail” 
 
--   In 2022, Eric Toney promoted himself as “[one of the most aggressive prosecutors of election fraud](https://www.wpr.org/news/wisconsin-ag-candidate-prosecutes-eligible-voters-address-snafus)” in Wisconsin as he pursued [felony voter fraud charges](https://wisconsinwatch.org/2022/07/a-hammer-in-search-of-a-nail-wisconsin-ag-candidate-prosecutes-eligible-voters-for-address-snafus/) against Fond du Lac County residents, which one an election law expert called “a hammer in search of a nail.” One of those residents, [first-time voter](https://wisconsinwatch.org/2022/07/a-hammer-in-search-of-a-nail-wisconsin-ag-candidate-prosecutes-eligible-voters-for-address-snafus/) Jamie Wells, later said the prosecution made her never want to vote again. Wells and her husband faced prison time, fines, and the potential loss of voting rights after [using a UPS Store address](https://wisconsinwatch.org/2022/07/a-hammer-in-search-of-a-nail-wisconsin-ag-candidate-prosecutes-eligible-voters-for-address-snafus/) they had relied on for decades. Wisconsin [law required voters to register using a residential address](https://wisconsinwatch.org/2022/07/a-hammer-in-search-of-a-nail-wisconsin-ag-candidate-prosecutes-eligible-voters-for-address-snafus/), although Wells said she did not realize using the UPS address could lead to felony charges.
+-   In 2022, Eric Toney promoted himself as “[one of the most aggressive prosecutors of election fraud](https://www.wpr.org/news/wisconsin-ag-candidate-prosecutes-eligible-voters-address-snafus)” in Wisconsin as he pursued [felony voter fraud charges](https://wisconsinwatch.org/2022/07/a-hammer-in-search-of-a-nail-wisconsin-ag-candidate-prosecutes-eligible-voters-for-address-snafus/) against Fond du Lac County residents, which one an election law expert called “a hammer in search of a nail.” One of those residents, [first-time voter](https://wisconsinwatch.org/2022/07/a-hammer-in-search-of-a-nail-wisconsin-ag-candidate-prosecutes-eligible-voters-for-address-snafus/) Jamie Wells, later said the prosecution made her never want to vote again. Wells and her husband faced prison time, fines, and the potential loss of voting rights after [using a UPS Store address](https://wisconsinwatch.org/2022/07/a-hammer-in-search-of-a-nail-wisconsin-ag-candidate-prosecutes-eligible-voters-for-address-snafus/) they had relied on for decades. Wisconsin [law required voters to register using a residential address](https://wisconsinwatch.org/2022/07/a-hammer-in-search-of-a-nail-wisconsin-ag-candidate-prosecutes-eligible-voters-for-address-snafus/), although Wells said she did not realize using the UPS address could [lead](https://wisconsinwatch.org/2022/07/a-hammer-in-search-of-a-nail-wisconsin-ag-candidate-prosecutes-eligible-voters-for-address-snafus/) to felony charges.
 
 **Message:** Eric Toney’s aggressive voter fraud prosecutions risked discouraging Wisconsin residents from exercising their right to vote.
 
