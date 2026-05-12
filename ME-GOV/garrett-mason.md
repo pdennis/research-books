@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T20:18:49.350Z
+date: 2026-05-12T20:18:55.882Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -78,7 +78,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 -   In 2026, Garrett Mason [supported](https://www.wmtw.com/article/republican-candidate-governor-wants-build-trump-accounts/70269312) expanding “Trump Accounts” in Trump’s “One Big Beautiful Bill.” Mason proposed [increasing](https://www.wmtw.com/article/primary-candidates-governor-their-policy-plans/70735789) “Trump Accounts” from $1,000 to up to $2,500 through a refundable tax credit for eligible children. However, the Council of Economic Advisers’ [analysis](https://www.whitehouse.gov/wp-content/uploads/2025/08/Trump-Accounts-Give-the-Next-Generation-a-Jump-Start-on-Saving.pdf) showed the program disproportionately [benefited wealthier families](https://time.com/7338829/problem-with-trump-accounts/), who could contribute more and receive larger tax advantages, while lower-income children saw far smaller financial gains. Under the plan, children without additional family contributions would see accounts grow to only about $5,800 by age 18, far less than the roughly $303,757 that accounts would grow to by age 18 under maximum contributions.
 
-**Message:** Garrett Mason supported “Trump Accounts” which benefitted wealthier families, and left low-income Maine families behind.
+**Message:** Garrett Mason supported “Trump Accounts” which benefited wealthier families, and left low-income Maine families behind.
 
 
 
