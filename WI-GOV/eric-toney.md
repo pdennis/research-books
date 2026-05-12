@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:42:37.951Z
+date: 2026-05-12T21:44:04.503Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -72,8 +72,8 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 ## Eric Toney's  Positions Have Hurt Everyday People
 
 
-- [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Abortion)
+- [:woman: **Eric Toney Was An Abortion Extremist And Was Open To Prosecuting Wisconsin Abortion Providers**](https://research-books.com/en/WI-GOV/eric-toney/toney-abortion)
 
-- [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Abortion)
+- [:ring: **Eric Toney Opposed Same-Sex Marriage**](https://research-books.com/en/WI-GOV/eric-toney/toney-marriage-equality)
 
 {.links-list}
