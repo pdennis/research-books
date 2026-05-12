@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:01:58.082Z
+date: 2026-05-12T21:03:04.451Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -36,7 +36,7 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 ### Eric Toney Opposed Same-Sex Marriage
 
--   
+-   In 2022, Eric Toney said marriage between “[one man and one woman](http://archive.today/2026.05.05-201105/https://ivoterguide.com/candidate/60126/race/6854/election/985)” was “the foundation of civilization” and “[fundamental](http://archive.today/2026.05.05-201105/https://ivoterguide.com/candidate/60126/race/6854/election/985)” to Wisconsin’s prosperity.
 
 **Message:** Eric Toney threatened LGBTQ+ Wisconsinites' right to marry and aligned with anti-LGBTQ groups. 
 
