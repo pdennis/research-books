@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:05:29.501Z
+date: 2026-05-12T21:10:34.915Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -44,7 +44,7 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 ### Eric Toney Opposed Stronger Environmental Protections Amid Wisconsin PFAS Concerns
 
--   In 2022, Eric Toney [refused](https://www.wuwm.com/2022-11-03/a-non-interview-with-wisconsin-attorney-general-candidate-da-eric-toney) to commit to continuing the state’s PFAS lawsuit against companies accused of contamination as Wisconsin pursued PFAS cleanup efforts and lawsuits over contaminated water sources. Eric Toney repeatedly argued stronger environmental regulations hurt businesses and the economy and warned environmental enforcement could place financial burdens on Wisconsin businesses, even though PFAS contamination harmed Wisconsin communities and raised serious public health concerns. 
+-   In 2022, Eric Toney [refused](https://www.wuwm.com/2022-11-03/a-non-interview-with-wisconsin-attorney-general-candidate-da-eric-toney) to commit to [continuing the state’s PFAS lawsuit](https://www.wpr.org/justice/josh-kaul-eric-toney-spar-wisconsin-attorney-general-debate) against companies accused of contamination as Wisconsin pursued PFAS cleanup efforts and lawsuits over contaminated water sources. Eric Toney repeatedly argued stronger environmental regulations [hurt](http://archive.today/2026.05.05-201105/https://ivoterguide.com/candidate/60126/race/6854/election/985) [businesses](https://www.wuwm.com/2022-11-03/a-non-interview-with-wisconsin-attorney-general-candidate-da-eric-toney) and the economy and warned [environmental enforcement](https://www.jsonline.com/story/news/politics/2025/12/29/what-to-know-about-the-josh-kaul-eric-toney-attorney-general-rematch/87570353007/) could place financial burdens on Wisconsin businesses, even though PFAS contamination harmed Wisconsin communities and raised serious public health concerns. 
 
 
 **Message:** Eric Toney refused to protect Wisconsin communities from PFAS contamination and drinking water risks.
