@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:45:38.331Z
+date: 2026-05-12T19:52:18.419Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -10,7 +10,7 @@ dateCreated: 2026-05-12T15:38:56.727Z
 
 
 
-# How To Win Against Garret Mason
+# How To Win Against Garrett Mason
 
 Garrett Mason’s political history includes attacks on Mainers’ healthcare, public education, and reproductive rights. Mason supported Trump’s “One Big Beautiful Bill,” rolling back Medicaid expansion, and backing work requirements that could cause people to lose insurance. He also attacked the Affordable Care Act even though thousands of Mainers depended on it to stay covered. Mason supported changes to food assistance that would make it harder to qualify and easier to lose benefits, which could leave families struggling to afford basic groceries. Mason also touted championing charter school legislation that threatened education funding for public schools. He supported restricting reproductive health care, including policies that would limit access to abortion and family planning services to reduce options for patients across the state. Mason also backed positions against marriage equality, supporting policies that would allow businesses to deny services to same-sex couples. In 2018, Mason funneled more than $100,000 in taxpayer-funded Clean Elections money to his future employer despite claiming to oppose Maine’s Clean Election Act. Garrett Mason supported “Trump Accounts,” which analyses found disproportionately benefited wealthier families while offering far less support to lower-income children.
 
