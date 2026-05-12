@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T16:41:18.131Z
+date: 2026-05-12T18:34:28.342Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -16,7 +16,10 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ### Garrett Mason Supported Devastating Health Care Cuts And Opposed The Affordable Care Act
 
--   In 2025, Bobby Charles [supported](https://www.facebook.com/photo/?fbid=122136461522771161&set=a.122120850236771161) Trump’s “One Big Beautiful Bill,” which was estimated to kick [17 million](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) Americans off their health insurance, including [nearly 12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) who rely on Medicaid. Experts found that Trump’s “One Big Beautiful Bill” and the expiration of Affordable Care Act tax credits would result in [33,000 Mainers](https://www.americanprogress.org/article/the-one-big-beautiful-bill-act-will-increase-the-number-of-americans-without-health-coverage-in-every-state-and-congressional-district/#:~:text=Table_content:%20header:%20%7C%20State%20%7C%20Increase%20in,%7C%20Increase%20in%20uninsured%20population:%20+422%2C000%20%7C) becoming uninsured by 2034. The bill was projected to leave more than [57,300 Mainers](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) without health care coverage by 2034.
+-   In October 2025, Garrett Mason supported Trump’s “One Big Beautiful Bill” which he praised as "[the exact kind of package that working people need](https://www.youtube.com/watch?v=cSvLBjlmh7U&feature=youtu.be)." Trump’s “One Big Beautiful Bill” would lead to major coverage [losses] (https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) and result in Mainers losing access to health insurance. The bill was projected to leave more than [57,300 Mainers](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf)without health care coverage by 2034, including more than 34,000 Medicaid recipients. 
+
+
+ 
 -   In 2025, Charles [declared](https://youtube.com/shorts/tKxOqz3kKC4) he was “totally on side” with Trump’s agenda and backed [work requirements](https://www.kff.org/medicaid/a-closer-look-at-the-work-requirement-provisions-in-the-2025-federal-budget-reconciliation-law/) that would restrict Mainers’ ability to receive public assistance. Trump’s “One Big Beautiful Bill” was projected to leave [34,700 Medicaid recipients](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) in Maine without health care coverage.
 
 **Message:** Garrett Mason supported healthcare policies that would rip health coverage away from tens of thousands of Mainers.
