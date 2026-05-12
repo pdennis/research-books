@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T16:38:33.275Z
+date: 2026-05-12T16:40:40.881Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -44,6 +44,21 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 **Message:** Garrett Mason’s use of taxpayer-funded campaign money raised questions about whether he put his own interests ahead of Mainers.
 
+### Garrett Mason Supported Defunding Maine’s Public Schools
+
+-   In 2025, Bobby Charles publicly [praised](https://x.com/Bobby4Maine/status/1940819405266735230) Ron DeSantis’ “Alligator Alcatraz” detention facility and floated the idea of creating a similar immigrant detention camp in Maine. Ron DeSantis [defended](https://www.wusf.org/environment/2026-01-06/how-alligator-alcatraz-detention-center-stirred-up-environmental-fight) the Everglades detention center by claiming surrounding wildlife provided “natural security,” despite the facility’s risks to wetlands and South Florida’s drinking water supply. Florida’s “Alligator Alcatraz” detention center faced a [court-ordered shutdown](https://www.nytimes.com/2025/08/21/us/alligator-alcatraz-florida-ruling.html) after judges found the state and federal governments failed to account for environmental and legal requirements.
+-   That same year, Bobby Charles [said](https://www.youtube.com/shorts/tKxOqz3kKC4) he wanted to close the northern border while aligning himself with Trump’s immigration agenda. At the same time, Trump’s border and tariff policies cut Canadian travel to Maine [down](https://www.mecep.org/blog/trumps-attacks-on-canadians-are-hurting-maines-border-economies/) by nearly 750,000 crossings and contributed to a 3.3% decline in retail sales and nearly 5% drops in restaurant and lodging sales in border communities. Trump also escalated diplomatic tensions with U.S. allies by posting an AI-generated image depicting Canada and Greenland [under U.S. control](https://www.cnn.com/2026/01/20/americas/canada-greenland-trump-analysis-latam-intl), adding to cross-border uncertainty.
+
+**Message:** Garrett Mason championed charter school policies that threatened to defund public schools in Maine.
+
+
+### Garrett Mason Was An Anti-Abortion Extremist
+
+-   In 2025, Bobby Charles pushed an extreme anti-choice agenda, declaring himself “[unapologetically pro-life](https://www.youtube.com/shorts/T3n9sXUzM34).” Charles called for limiting abortion access and ending public funding for abortion. He also opposed pregnancy-related health care coverage for people under 21 and undocumented immigrants, framing access to care as something he would [roll back](https://www.facebook.com/share/p/1De8xjVZBZ/) if elected governor.
+
+**Message:** Garrett Mason threatened the reproductive freedoms of Mainers.
+
+
 ### Bobby Charles Was An Anti-Abortion Extremist
 
 -   In 2025, Bobby Charles pushed an extreme anti-choice agenda, declaring himself “[unapologetically pro-life](https://www.youtube.com/shorts/T3n9sXUzM34).” Charles called for limiting abortion access and ending public funding for abortion. He also opposed pregnancy-related health care coverage for people under 21 and undocumented immigrants, framing access to care as something he would [roll back](https://www.facebook.com/share/p/1De8xjVZBZ/) if elected governor.
@@ -52,12 +67,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 
 
-### Bobby Charles Called For The Closure Of The Northern Border And A Replica Of The Failed “Alligator Alcatraz” In Maine
 
--   In 2025, Bobby Charles publicly [praised](https://x.com/Bobby4Maine/status/1940819405266735230) Ron DeSantis’ “Alligator Alcatraz” detention facility and floated the idea of creating a similar immigrant detention camp in Maine. Ron DeSantis [defended](https://www.wusf.org/environment/2026-01-06/how-alligator-alcatraz-detention-center-stirred-up-environmental-fight) the Everglades detention center by claiming surrounding wildlife provided “natural security,” despite the facility’s risks to wetlands and South Florida’s drinking water supply. Florida’s “Alligator Alcatraz” detention center faced a [court-ordered shutdown](https://www.nytimes.com/2025/08/21/us/alligator-alcatraz-florida-ruling.html) after judges found the state and federal governments failed to account for environmental and legal requirements.
--   That same year, Bobby Charles [said](https://www.youtube.com/shorts/tKxOqz3kKC4) he wanted to close the northern border while aligning himself with Trump’s immigration agenda. At the same time, Trump’s border and tariff policies cut Canadian travel to Maine [down](https://www.mecep.org/blog/trumps-attacks-on-canadians-are-hurting-maines-border-economies/) by nearly 750,000 crossings and contributed to a 3.3% decline in retail sales and nearly 5% drops in restaurant and lodging sales in border communities. Trump also escalated diplomatic tensions with U.S. allies by posting an AI-generated image depicting Canada and Greenland [under U.S. control](https://www.cnn.com/2026/01/20/americas/canada-greenland-trump-analysis-latam-intl), adding to cross-border uncertainty.
-
-**Message:** Bobby Charles supported extreme immigration policies that would cause legal, environmental, and economic harm in Maine.
 
 ## Bobby Charles’ Policies Have Hurt Everyday People
 
