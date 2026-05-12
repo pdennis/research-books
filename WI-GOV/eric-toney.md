@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:00:05.418Z
+date: 2026-05-12T21:00:34.180Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -34,11 +34,11 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 **Message:** Eric Toney would leave Wisconsin abortion providers at risk for criminal charges.
 
-### Tiffany Voted For Massive Cuts To Medicare
+### Eric Toney Opposed Same-Sex Marriage
 
--   In 2025, Tiffany [voted](http://clerk.house.gov/evs/2025/roll145.xml) for a bill that the Congressional Budget Office estimated would trigger [$500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare. 
+-   
 
-**Message:** Tom Tiffany voted to make massive cuts to health care services seniors rely on. 
+**Message:** Eric Toney threatened LGBTQ+ Wisconsinites' right to marry and aligned with anti-LGBTQ groups. 
 
 ### Tiffany WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS
 
