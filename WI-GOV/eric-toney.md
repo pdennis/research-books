@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:15:11.996Z
+date: 2026-05-12T21:15:47.849Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -56,7 +56,7 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 ### Eric Toney Embraced Aggressive Voter Fraud Prosecutions That Were Called “A Hammer In Search Of A Nail” 
 
--   In 2025, Tiffany [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). In Wisconsin, more than [330,000 households](https://wisconsinexaminer.com/2025/11/07/full-snap-benefits-for-november-paid-to-wisconsin-foodshare-recipients/) relied on SNAP to afford groceries.
+-   In 2022, Eric Toney promoted himself as “[one of the most aggressive prosecutors of election fraud](https://www.wpr.org/news/wisconsin-ag-candidate-prosecutes-eligible-voters-address-snafus)” in Wisconsin as he pursued felony voter fraud charges against Fond du Lac County residents, which one an election law expert called “a hammer in search of a nail.” One of those residents, first-time voter Jamie Wells, later said the prosecution made her never want to vote again. Wells and her husband faced prison time, fines, and the potential loss of voting rights after using a UPS Store address they had relied on for decades. Wisconsin law required voters to register using a residential address, although Wells said she did not realize using the UPS address could lead to felony charges.
 
 **Message:** Eric Toney’s aggressive voter fraud prosecutions risked discouraging Wisconsin residents from exercising their right to vote.
 
