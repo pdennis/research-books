@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T18:47:41.891Z
+date: 2026-05-12T18:47:49.099Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -21,7 +21,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 - In March 2026, Mason [opposed](https://www.youtube.com/watch?v=6r9X7ONktpI) expanding Medicaid eligibility, called [coverage](https://www.youtube.com/watch?v=UDqMwfbrZ_Y) for childless adults “crazy,” said a future governor [should repeal the expansion](https://www.youtube.com/watch?v=AU_871vLa28), and supported Medicaid [work requirements](https://youtu.be/d3thptxRSuQ). At the same time, Mainers [warned](https://wgme.com/news/local/medicaid-cuts-threaten-services-for-people-with-disabilities-in-maine) reducing Medicaid funding would [threeaten](https://wgme.com/news/local/medicaid-cuts-threaten-services-for-people-with-disabilities-in-maine) programs that helped [vulnerable](https://wgme.com/news/local/medicaid-cuts-threaten-services-for-people-with-disabilities-in-maine) residents live independently and avoid institutionalization. In 2014, Mason [voted](https://www.mainelegislature.org/LawMakerWeb/dockets.asp?ID=280048866) against Medicaid expansion, including efforts to [override](https://www.bangordailynews.com/2014/04/11/news/senate-upholds-lepages-veto-of-compromise-medicaid-expansion-bill/) a veto,[opposing](https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280050715) efforts that would have expanded health coverage and used federal funding to insure tens of thousands of low-income Mainers. Today, the program provides health coverage to more than [400,000 Mainers](https://web.archive.org/web/20260304203707/https:/www.maine.gov/dhhs/blog/celebrating-60-years-medicaid-mainecares-impact-maine-2025-07-30), including more than half of the state’s children.
 
 
-- In November 2025, Mason called the Affordable Care Act a “[sham](https://youtu.be/x6L-RZkqCgo)" and claimed it "[destroyed](https://youtu.be/AYZTOqyqdDg)" the health care system, even though more than 
+- In November 2025, Mason called the Affordable Care Act a “[sham](https://youtu.be/x6L-RZkqCgo)" and claimed it "[destroyed](https://youtu.be/AYZTOqyqdDg)" the healthcare system, even though more than 
 
 **Message:** Garrett Mason supported healthcare policies that would rip health coverage away from tens of thousands of Mainers.
 
