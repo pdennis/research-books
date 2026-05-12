@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:31:52.949Z
+date: 2026-05-12T19:33:25.815Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -86,8 +86,8 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 ## Garrett Mason’s Policies Have Hurt Everyday People
 
 - [:hospital: | **Garrett Mason Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](https://research-books.com/en/ME-GOV/garrett-mason/mason-medicaid)
-- [:older_man: | **Bobby Charles Supported Massive Cuts To Medicare**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-medicare)
-- [:apple: | **Bobby Charles Supported Stripping SNAP Benefits From Maine Families**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-food)
+
+- [:apple: | **Garrett Mason Supported Stripping SNAP Benefits From Maine Families**](https://research-books.com/en/ME-GOV/garrett-mason/mason-snap)
 - [:x: | **Bobby Charles Won’t Protect Maine’s Nonprofits, Services, Or Social Security From Trump**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-doge)
 - [:money_with_wings: | **Bobby Charles Supported Increases To Energy Costs In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-energyprices)
 - [:woman: | **Bobby Charles Was An Anti-Abortion Extremist**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-abortion)
