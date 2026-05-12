@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T16:37:53.563Z
+date: 2026-05-12T16:38:33.275Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -38,17 +38,19 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 **Message:** Garrett Mason was a threat to marriage equality in Maine.
 
+### Garrett Mason Funneled Clean Elections Money To His Future Employer Despite Opposition To Maine’s Clean Election Act
+
+-   In 2025, Charles promoted [election fraud claims](https://amac.us/newsline/politics/democrats-cocky-for-the-wrong/), accused Democrats and immigrants of undermining Maine’s voting system, and encouraged voters to support Question 1, which would have imposed voter ID and absentee voting restrictions. Charles claimed that Maine elections were “[corrupt](https://x.com/Bobby4Maine/status/1976710444573487400?s=20)” and pushed voter ID and absentee voting restrictions, despite Maine voters later [rejecting](https://www.mainepublic.org/politics/2025-11-04/mainers-reject-voter-id-absentee-ballot-restrictions-as-question-1-fails) Question 1 by a more than 25-point margin in 2025.
+
+**Message:** Garrett Mason’s use of taxpayer-funded campaign money raised questions about whether he put his own interests ahead of Mainers.
+
 ### Bobby Charles Was An Anti-Abortion Extremist
 
 -   In 2025, Bobby Charles pushed an extreme anti-choice agenda, declaring himself “[unapologetically pro-life](https://www.youtube.com/shorts/T3n9sXUzM34).” Charles called for limiting abortion access and ending public funding for abortion. He also opposed pregnancy-related health care coverage for people under 21 and undocumented immigrants, framing access to care as something he would [roll back](https://www.facebook.com/share/p/1De8xjVZBZ/) if elected governor.
 
 **Message:** Bobby Charles threatened the reproductive freedoms of Mainers.
 
-### Bobby Charles Promoted Election Fraud Claims 
 
--   In 2025, Charles promoted [election fraud claims](https://amac.us/newsline/politics/democrats-cocky-for-the-wrong/), accused Democrats and immigrants of undermining Maine’s voting system, and encouraged voters to support Question 1, which would have imposed voter ID and absentee voting restrictions. Charles claimed that Maine elections were “[corrupt](https://x.com/Bobby4Maine/status/1976710444573487400?s=20)” and pushed voter ID and absentee voting restrictions, despite Maine voters later [rejecting](https://www.mainepublic.org/politics/2025-11-04/mainers-reject-voter-id-absentee-ballot-restrictions-as-question-1-fails) Question 1 by a more than 25-point margin in 2025.
-
-**Message:** Bobby Charles was a threat to Maine elections and promoted election conspiracy theories.
 
 ### Bobby Charles Called For The Closure Of The Northern Border And A Replica Of The Failed “Alligator Alcatraz” In Maine
 
