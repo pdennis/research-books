@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:40:58.824Z
+date: 2026-05-12T19:41:28.820Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -97,9 +97,8 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 ## Garrett Mason’s Use Of Clean Election Money Raised Ethics Concerns
 
-- [:x: | **Bobby Charles Promoted Election Fraud Claims**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-voting)
-- [:sos: | **Bobby Charles Called For The Closure Of The Northern Border And A Replica Of The Failed “Alligator Alcatraz” In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-immigration)
-{.links-list}
+- [:x: | **Garrett Mason Violated Maine’s Clean Election Act And Sent Public Funds To A Future Employer**](https://research-books.com/en/ME-GOV/garrett-mason/mason-ethics)
+
 # Key Votes
 
 {.links-list}
