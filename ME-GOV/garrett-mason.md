@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:35:11.716Z
+date: 2026-05-12T19:36:05.306Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -89,7 +89,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 - [:apple: | **Garrett Mason Supported Stripping SNAP Benefits From Maine Families**](https://research-books.com/en/ME-GOV/garrett-mason/mason-snap)
 - [:ring: | **Garrett Mason Opposed Marriage Equality**](https://research-books.com/en/ME-GOV/garrett-mason/mason-marriage-equality)
-- [:money_with_wings: | **Bobby Charles Supported Increases To Energy Costs In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-energyprices)
+- [:school: | **Garrett Mason Supported Defunding Maine’s Public Schools**](https://research-books.com/en/ME-GOV/garrett-mason/mason-defunding-public-education)
 - [:woman: | **Bobby Charles Was An Anti-Abortion Extremist**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-abortion)
 {.links-list}
 
