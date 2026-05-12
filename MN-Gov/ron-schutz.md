@@ -2,7 +2,7 @@
 title: Ron Schutz
 description: 
 published: false
-date: 2026-05-07T20:12:54.725Z
+date: 2026-05-12T21:04:43.295Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-07T17:36:58.154Z
@@ -64,13 +64,13 @@ Republican Minnesota attorney general candidate Ron Schutz attacked the health c
 
 ## **Ron Schutz Supported Policies That Harmed Everyday Minnesotans**
 
-- [:triangular_flag_on_post: *Ron Schutz Was A Board Member Of A Right-Wing Minnesota Think Tank*](/MN-Gov/ron-schutz/schutz-CoAE)
-- [:sos: *Ron Schutz Would Not Protect Minnesotans From Trump’s Federal Overreach*](/MN-Gov/ron-schutz/schutz-fraud)
-- [:ballot_box: *Ron Schutz Promoted Election Denial Conspiracies*](/MN-Gov/ron-schutz/schutz-elections)
-- [:gun: *Ron Schutz Opposed Gun Safety Laws*](/MN-Gov/ron-schutz/schutz-guns)
+- [:triangular_flag_on_post: ***Ron Schutz Was A Board Member Of A Right-Wing Minnesota Think Tank***](/MN-Gov/ron-schutz/schutz-CoAE)
+- [:sos: ***Ron Schutz Would Not Protect Minnesotans From Trump’s Federal Overreach***](/MN-Gov/ron-schutz/schutz-fraud)
+- [:ballot_box: ***Ron Schutz Promoted Election Denial Conspiracies***](/MN-Gov/ron-schutz/schutz-elections)
+- [:gun: ***Ron Schutz Opposed Gun Safety Laws***](/MN-Gov/ron-schutz/schutz-guns)
 {.links-list}
 
 ## **Ron Schutz Would Use His Power To Benefit The Powerful** 
 
-- [:handshake: *Ron Schutz Was A Trump Lackey*](/MN-Gov/ron-schutz/schutz-trump)
+- [:handshake: ***Ron Schutz Was A Trump Lackey***](/MN-Gov/ron-schutz/schutz-trump)
 {.links-list}
