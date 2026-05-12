@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T16:36:06.032Z
+date: 2026-05-12T16:36:49.722Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -21,13 +21,9 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 **Message:** Garrett Mason supported healthcare policies that would rip health coverage away from tens of thousands of Mainers.
 
-### Bobby Charles Supported Massive Cuts To Medicare
 
--   In 2025, Bobby Charles [supported](https://www.facebook.com/photo/?fbid=122136461522771161&set=a.122120850236771161) Trump’s “One Big Beautiful Bill,” which the Congressional Budget Office estimated would trigger [$500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare.
 
-**Message:** Bobby Charles supported making massive cuts to health care services seniors rely on.
-
-### Bobby Charles Supported Stripping SNAP Benefits From Maine Families 
+### Garrett Mason Supported Stripping SNAP Benefits From Maine Families 
 
 -   In 2025, Bobby Charles [supported](https://www.facebook.com/photo/?fbid=122136461522771161&set=a.122120850236771161) Trump’s “One Big Beautiful Bill,” which made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Charles also [declared](https://www.youtube.com/shorts/tKxOqz3kKC4) he was “totally on side” with Trump’s agenda and backed work requirements that would restrict Mainers’ ability to receive public assistance. More than [78,000](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) households in Maine relied on SNAP to meet basic food needs.
 
