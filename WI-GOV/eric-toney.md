@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T19:53:17.421Z
+date: 2026-05-12T20:45:34.978Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -12,7 +12,7 @@ dateCreated: 2026-05-12T19:53:17.420Z
 
 # How To Win Against Eric Toney
 
-Tom Tiffany built his career claiming to stand up for Wisconsin families but voted to cut services and raise costs on Wisconsinites. He voted to kick more than 258,000 Wisconsinites off their health insurance, for massive cuts to Medicare, and to make it harder for his neighbors to buy food. Tiffany cast the deciding vote to protect Trump’s tariffs, which were hurting small businesses and could result in higher food costs for Wisconsinites. Tiffany stood by while Trump laid off Wisconsinites and gutted the Social Security agency. He voted to cut clean energy tax credits that supported Wisconsin jobs and projects. Tiffany also failed farmers and failed to pass year-round E15 in Congress, voting for a council instead of actually helping Wisconsin farmers. Tom Tiffany posed a threat to Wisconsinite women's reproductive freedoms as he repeatedly voted against abortion protections. Despite previously voting against releasing the Epstein files, it took 11 months for Tom Tiffany to ultimately vote for the release of the Epstein files only because Trump approved of the release. Tom Tiffany also supported efforts to overturn the 2020 election. Tom Tiffany, who was ["honored"](https://x.com/TomTiffanyWI/status/2016324852211122577) to receive Trump's endorsement, would leave Wisconsin vulnerable to Trump’s attacks.
+Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce” and “defend” Wisconsin’s 1849 near-total abortion ban after Roe v. Wade was overturned, even suggesting abortion providers could face prosecution. He embraced endorsements from anti-abortion organizations that praised his “core values” and opposition to abortion rights. Eric Toney also said marriage between “one man and one woman” was “the foundation of civilization” and embraced support from Wisconsin Family Action, a group that opposed same-sex marriage and LGBTQ+ rights. Eric Toney opposed stronger environmental protections and refused to say whether he would continue Wisconsin’s PFAS lawsuit while communities across the state faced contamination concerns, drinking water risks, and ongoing cleanup efforts. In 2022, Eric Toney promoted himself as “one of the most aggressive prosecutors of election fraud” in Wisconsin while pursuing felony voter fraud charges experts warned could discourage voting, even as voter fraud remained extremely rare statewide. Toney also opposed red flag laws designed to temporarily restrict firearm access for dangerous individuals. Instead, Toney argued Wisconsin’s existing mental health commitment process provided sufficient due process protections, despite gun violence prevention advocates arguing the system was more complex and less effective for preventing suicides and protecting people in crisis.
 
 ### Tiffany Voted For Devastating Health Care Cuts
 
