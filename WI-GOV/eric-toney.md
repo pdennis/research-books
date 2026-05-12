@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T20:58:42.805Z
+date: 2026-05-12T20:59:38.175Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -30,7 +30,7 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 - Toney also supported [blocking public funding](http://archive.today/2026.05.05-201105/https://ivoterguide.com/candidate/60126/race/6854/election/985) for Planned Parenthood and other abortion providers.
 
-- In 2022, anti-abortion rights organizations [Wisconsin Family Action](https://wifamilyaction.org/primary-election-analysis/) and [Wisconsin Right to Life](https://www.fox6now.com/news/wisconsin-attorney-general-race-gop-candidates-issues) endorsed Toney for attorney general and praised his anti-abortion positions and “[core values](https://www.wispolitics.com/2022/toney-campaign-wisconsin-family-action-endorses-eric-toney-for-attorney-general/).” After he pledged to enforce Wisconsin’s 1849 abortion ban, Toney embraced the endorsements and described Wisconsin Family Action as the state’s leading group fighting for “pro-family” and anti-abortion issues.
+- In 2022, anti-abortion rights organizations [Wisconsin Family Action](https://wifamilyaction.org/primary-election-analysis/) and [Wisconsin Right to Life](https://www.fox6now.com/news/wisconsin-attorney-general-race-gop-candidates-issues) endorsed Toney for attorney general and praised his anti-abortion positions and “[core values](https://www.wispolitics.com/2022/toney-campaign-wisconsin-family-action-endorses-eric-toney-for-attorney-general/).” After he [pledged to enforce](https://www.fox6now.com/news/wisconsin-attorney-general-race-gop-candidates-issues) Wisconsin’s 1849 abortion ban, Toney embraced the endorsements and described Wisconsin Family Action as the state’s leading group fighting for “pro-family” and anti-abortion issues.
 
 
 
