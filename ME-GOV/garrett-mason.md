@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T16:37:10.688Z
+date: 2026-05-12T16:37:53.563Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -29,19 +29,14 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 **Message:** Garrett Mason supported limiting food assistance while tens of thousands of Maine families depended on SNAP to afford groceries and put food on the table.
 
-### Bobby Charles Won’t Protect Maine’s NONPROFITS, SERVICES, OR SOCIAL SECURITY From TRump
 
--   In 2025, Bobby Charles [praised](https://www.youtube.com/shorts/lWyHcqPqo84) Trump’s “Department of Government Efficiency” and said he was “[totally on side](https://www.youtube.com/shorts/tKxOqz3kKC4)” with Trump’s agenda as DOGE-driven cuts and downsizing were [affecting](https://www.axios.com/2025/04/08/social-security-seniors-drive) the [federal government’s](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) [ability](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/) to [deliver services](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) to seniors. More than [375,000 Mainers](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/me.pdf) relied on Social Security benefits.
--   Charles also called for a [“DOGE for Maine”](https://www.youtube.com/shorts/lWyHcqPqo84) and [proposed](https://www.facebook.com/BobbyCharlesMaine/posts/pfbid02GAQNH2GpVsC8hAYnVSQ1fYvfVjfcCuLHmJKq3MfFqKfh6GpGDPnJhxYaVLEa3Ambl?rdid=B7SDxkmqDVvbwReD) sweeping [cuts to taxes and regulations](https://web.archive.org/web/20260114222938/https:/www.bobbyformaine.com/issues) that would impact state revenue and Maine’s ability to fund public services. Trump’s DOGE-related cuts [eliminated roughly $3 million](https://mainemorningstar.com/2025/08/07/environmental-justice-grants-are-still-frozen-maine-grantees-look-to-federal-lawsuit-for-relief/) in federal funding for Maine nonprofits and environmental programs and threatened the livelihoods of more than [12,700 federal workers](https://www.centralmaine.com/2025/07/09/federal-workers-in-maine-face-uncertainty-following-court-ruling-allowing-for-mass-layoffs) across the state, including employees at Acadia National Park and other [critical federal agencies](https://www.pressherald.com/2025/02/19/acadia-national-park-samhsa-employees-fired-as-trump-administration-slashes-federal-workforce/).
 
-**Message:** As Trump’s DOGE disrupted services at the Social Security Administration, laid off Maine workers, and cut funding for Maine nonprofits, Bobby Charles pledged to replicate those policies at the state-level.
-
-### Bobby Charles Supported Increases To Energy Costs In Maine
+### Garrett Mason Opposed Marriage Equality
 
 -   In 2025, Bobby Charles publicly [endorsed](https://www.facebook.com/photo/?fbid=122136461522771161&set=a.122120850236771161) Trump’s “One Big Beautiful Bill” and framed Trump’s national agenda as the agenda he wanted to [bring to Maine](https://www.facebook.com/photo/?fbid=122136461522771161&set=a.122120850236771161). According to experts, the “One Big Beautiful Bill’s” [repeal](https://www.utilitydive.com/news/house-passes-senate-megabill-trump-ira-tax-credit/752276/) of clean energy tax credits would raise annual household energy costs in Maine and increase electricity rates statewide.
 -   [Energy Innovation](https://web.archive.org/web/20260116221159/https:/energyinnovation.org/wp-content/uploads/OBBBA-impacts-on-Maine.pdf) warned that Trump’s “One Big Beautiful Bill’s” phase out of clean energy tax credits would reduce electricity generation capacity, raise energy prices for Maine households annually by $54 by 2030 and $80 by 2035, and raise gasoline costs by more than $700 annually by 2035. [Center for American Progress](https://www.americanprogress.org/article/maine-families-cost-of-living-would-increase-under-house-republicans-one-big-beautiful-bill-act/) also warned that the phase out of the tax credits also put more than 4,000 jobs at risk and raise the cost of living for Mainers.
 
-**Message:** Bobby Charles supported raising energy bills in Maine to give tax cuts to the wealthy.
+**Message:** Garrett Mason was a threat to marriage equality in Maine.
 
 ### Bobby Charles Was An Anti-Abortion Extremist
 
