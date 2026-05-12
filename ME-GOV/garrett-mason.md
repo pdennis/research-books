@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T18:53:26.121Z
+date: 2026-05-12T18:55:22.292Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -23,7 +23,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 - In November 2025, Mason called the Affordable Care Act a “[sham](https://youtu.be/x6L-RZkqCgo)" and claimed it "[destroyed](https://youtu.be/AYZTOqyqdDg)" the healthcare system, even though more than [58,500](https://www.kff.org/affordable-care-act/state-indicator/open-enrollment-marketplace-plan-selections/?currentTimeframe=0&selectedRows=%7B%22states%22:%7B%22maine%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) relied on ACA plans for coverage. In 2025, Mason [blamed](https://youtu.be/TSo_nvEOB1o) Democrats for “destroying” healthcare and [claimed](https://youtu.be/ZAZgrKh76sE) Affordable Care Act subsidies drove up costs, despite more than [54,000](https://www.mainepublic.org/health/2025-11-06/mainers-face-steep-premiums-on-aca-marketplace-with-expiration-of-enhanced-tax-credits) depending on them for coverage in 2025. After Congress failed to extend them, Maine’s marketplace saw a 9.5% [enrollment drop](https://www.pressherald.com/2026/03/26/mainers-go-uninsured-as-health-care-premiums-rise/),with 3,500 Mainers [canceling](https://www.pressherald.com/2026/03/26/mainers-go-uninsured-as-health-care-premiums-rise/) their plans because they could no longer afford them.
 
-- In 2025, Mason also promoted Christian Healthcare Sharing Ministries as an “[affordable](https://youtu.be/uEn9CVvBTdc)
+- In 2025, Mason also promoted Christian Healthcare Sharing Ministries as an “[affordable](https://youtu.be/uEn9CVvBTdc)" alternative to the Affordable Care Act,  even though the Maine Bureau of Insurance [warned](https://www.bangordailynews.com/2026/04/23/midcoast/midcoast-health/maine-unregulated-alternative-payment-medical-bills/) they were not bound to the same rules as insurers. Georgetown University’s Center on Health Insurance Reform warned these plans were not subject to compliance with the Affordable Care Act and often [exclude](https://chir.georgetown.edu/health-care-sharing-ministry-data-point-to-problems-for-consumers-regulators/) pre-existing conditions and essential benefits, leaving Mainers [at risk](https://chir.georgetown.edu/health-care-sharing-ministry-data-point-to-problems-for-consumers-regulators/) of significant out-of-pocket costs. At the same time, the Affordable Care Act’s Medicaid expansion
 
 **Message:** Garrett Mason supported healthcare policies that would rip health coverage away from tens of thousands of Mainers.
 
