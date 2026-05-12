@@ -2,23 +2,13 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:21:14.496Z
+date: 2026-05-12T21:42:37.951Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
 
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Eric Toney
 
@@ -67,7 +57,12 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 ### Eric Toney Opposed Red Flag Laws Designed To Protect Wisconsinites 
 
--   
+-   Eric Toney opposed “[red flag laws](https://www.wuwm.com/2022-11-03/a-non-interview-with-wisconsin-attorney-general-candidate-da-eric-toney)” and argued Wisconsin’s existing Chapter 51 mental health commitment process provided sufficient [due process](http://archive.today/2026.05.05-201105/https://ivoterguide.com/candidate/60126/race/6854/election/985) protections to restrict firearm access for dangerous individuals.
+
+- Wisconsin’s Chapter 51 law [allowed](https://law.justia.com/codes/wisconsin/chapter-51/section-51-20/) courts to seize firearms after involuntary commitment proceedings while permitting individuals to later petition for [restoration](https://law.justia.com/codes/wisconsin/chapter-51/section-51-20/) of their gun rights. The Wisconsin Anti-Violence Effort argued Chapter 51 was “[more complex](https://web.archive.org/web/20260508204423/https://waveedfund.org/resources/extreme-risk-protection-orders-erpo/)” than Extreme Risk Protection Order laws and “often [inadequate](https://web.archive.org/web/20260508204423/https://waveedfund.org/resources/extreme-risk-protection-orders-erpo/) for providing safety to someone who is suicidal.”
+
+- According to [Everytown Research & Policy](https://everytownresearch.org/report/extreme-risk-laws-save-lives/), Extreme Risk laws limited who could file petitions, required evidence of serious threats, and ensured respondents had opportunities to present a defense. Everytown Research & Policy also found the process included timely hearings and had been recognized by the U.S. Supreme Court as [meeting constitutional due process standards](https://everytownresearch.org/report/extreme-risk-laws-save-lives/).
+
 
 **Message:** Eric Toney opposed red flag laws despite constitutional due process protections designed to protect Wisconsinites.
 
