@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-12T21:20:30.387Z
+date: 2026-05-12T21:21:14.496Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -76,24 +76,9 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 ## Eric Toney's  Positions Have Hurt Everyday People
 
-- [:hospital:  **Tiffany Supported Efforts To Cut Medicaid And Threaten Wisconsin’s Access To Health Care**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-medicaid)
-- [:older_man: **Tiffany Voted For Medicare Cuts**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Medicare)
-- [:shopping_cart: **Tiffany Backed Trump's Tariffs, Endangering Wisconsin’s Economy**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Tariffs)
-- [:apple: **Tiffany Cast Votes To Cut SNAP Benefits From Wisconsin Families**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Food)
-- [:x: **Tiffany Won't Defend Wisconsin Jobs Or Social Security From Trump**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-DOGE)
-- [:mechanic: **Tiffany Voted Against Protecting Wisconsin’s Clean Energy Jobs**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-CleanEnergy)
-- [:corn: **Tiffany Failed Wisconsin Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-E15)
+
 - [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Abortion)
 
-{.links-list}
+- [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Abortion)
 
-## Tom Tiffany Used His Power To Benefit The Powerful 
-
-- [:eyes:  **It Took Tiffany 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Epstein)
-- [:sos: **Tiffany Was An Election Denier Who Supported Overturning The 2020 Election**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-2020)
-{.links-list}
-
-# Key Votes
-
-- [:white_check_mark: **Tom Tiffany’s Key Votes As A Member Of Congress**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Votes)
 {.links-list}
