@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:23:38.507Z
+date: 2026-05-12T19:24:06.200Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -66,7 +66,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 -   Garrett Mason had a history of promoting an extreme anti-choice agenda. In 2026, Garrett Mason [said](https://www.newscentermaine.com/article/news/politics/maine-politics/republican-gubernatorial-candidate-garrett-mason-promises-ready-day-one/97-dabd0520-4c4e-438a-ac98-28b713b0c282) he opposed Maine’s current 24-week abortion law, claiming it was “far too extreme.” In 2018, Mason opposed abortion in [nearly all cases](https://www.bangordailynews.com/2018/05/28/politics/garrett-mason-mixes-christian-conservative-roots-with-youthful-leadership-in-bid-to-succeed-lepage/), including rape and incest.
 
-- Garrett Mason had a history of supporting policies that limited access to family planning and reproductive health care. In 2025, he supported [shutting down](https://youtu.be/_UAz5m8x3fA) Maine Family Planning clinics, [opposed public funding](https://www.newscentermaine.com/article/news/politics/maine-politics/republican-gubernatorial-candidate-garrett-mason-promises-ready-day-one/97-dabd0520-4c4e-438a-ac98-28b713b0c282) for Planned Parenthood despite its non-abortion services, and argued the state prioritized funding for these providers over nursing homes.
+- Garrett Mason had a history of supporting policies that limited access to family planning and reproductive health care. In 2025, he supported [shutting down](https://youtu.be/_UAz5m8x3fA) Maine Family Planning clinics, [opposed public funding](https://www.newscentermaine.com/article/news/politics/maine-politics/republican-gubernatorial-candidate-garrett-mason-promises-ready-day-one/97-dabd0520-4c4e-438a-ac98-28b713b0c282) for Planned Parenthood despite its non-abortion services, and argued the state prioritized funding for these providers [over](https://youtu.be/EqdINGP2TcY) nursing homes.
 
 
 **Message:** Garrett Mason threatened the reproductive freedoms of Mainers.
