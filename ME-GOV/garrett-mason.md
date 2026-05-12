@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:00:20.081Z
+date: 2026-05-12T19:03:47.396Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -20,7 +20,6 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 - In March 2026, Mason [opposed](https://www.youtube.com/watch?v=6r9X7ONktpI) expanding Medicaid eligibility, called [coverage](https://www.youtube.com/watch?v=UDqMwfbrZ_Y) for childless adults “crazy,” said a future governor [should repeal the expansion](https://www.youtube.com/watch?v=AU_871vLa28), and supported Medicaid [work requirements](https://youtu.be/d3thptxRSuQ). At the same time, Mainers [warned](https://wgme.com/news/local/medicaid-cuts-threaten-services-for-people-with-disabilities-in-maine) reducing Medicaid funding would [threaten](https://wgme.com/news/local/medicaid-cuts-threaten-services-for-people-with-disabilities-in-maine) programs that helped [vulnerable](https://wgme.com/news/local/medicaid-cuts-threaten-services-for-people-with-disabilities-in-maine) residents live independently and avoid institutionalization. In 2014, Mason [voted](https://www.mainelegislature.org/LawMakerWeb/dockets.asp?ID=280048866) against Medicaid expansion, including efforts to [override](https://www.bangordailynews.com/2014/04/11/news/senate-upholds-lepages-veto-of-compromise-medicaid-expansion-bill/) a veto,[opposing](https://legislature.maine.gov/LawMakerWeb/dockets.asp?ID=280050715) efforts that would have expanded health coverage and used federal funding to insure tens of thousands of low-income Mainers. Today, the program provides health coverage to more than [400,000 Mainers](https://web.archive.org/web/20260304203707/https:/www.maine.gov/dhhs/blog/celebrating-60-years-medicaid-mainecares-impact-maine-2025-07-30), including more than half of the state’s children.
 
-
 - In November 2025, Mason called the Affordable Care Act a “[sham](https://youtu.be/x6L-RZkqCgo)" and claimed it "[destroyed](https://youtu.be/AYZTOqyqdDg)" the healthcare system, even though more than [58,500](https://www.kff.org/affordable-care-act/state-indicator/open-enrollment-marketplace-plan-selections/?currentTimeframe=0&selectedRows=%7B%22states%22:%7B%22maine%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) relied on ACA plans for coverage. In 2025, Mason [blamed](https://youtu.be/TSo_nvEOB1o) Democrats for “destroying” healthcare and [claimed](https://youtu.be/ZAZgrKh76sE) Affordable Care Act subsidies drove up costs, despite more than [54,000](https://www.mainepublic.org/health/2025-11-06/mainers-face-steep-premiums-on-aca-marketplace-with-expiration-of-enhanced-tax-credits) depending on them for coverage in 2025. After Congress failed to extend them, Maine’s marketplace saw a 9.5% [enrollment drop](https://www.pressherald.com/2026/03/26/mainers-go-uninsured-as-health-care-premiums-rise/),with 3,500 Mainers [canceling](https://www.pressherald.com/2026/03/26/mainers-go-uninsured-as-health-care-premiums-rise/) their plans because they could no longer afford them.
 
 - In 2025, Mason also promoted Christian Healthcare Sharing Ministries as an “[affordable](https://youtu.be/uEn9CVvBTdc)" alternative to the Affordable Care Act,  even though the Maine Bureau of Insurance [warned](https://www.bangordailynews.com/2026/04/23/midcoast/midcoast-health/maine-unregulated-alternative-payment-medical-bills/) they were not bound to the same rules as insurers. Georgetown University’s Center on Health Insurance Reform warned these plans were not subject to compliance with the Affordable Care Act and often [exclude](https://chir.georgetown.edu/health-care-sharing-ministry-data-point-to-problems-for-consumers-regulators/) pre-existing conditions and essential benefits, leaving Mainers [at risk](https://chir.georgetown.edu/health-care-sharing-ministry-data-point-to-problems-for-consumers-regulators/) of significant out-of-pocket costs. At the same time, the Affordable Care Act’s Medicaid expansion [dramatically reduced uninsured rates](https://www.cbpp.org/research/health/medicaid-expansion-frequently-asked-questions-0), including cutting the rate among low-income workers from 38 percent in 2013 to 17 percent in 2022.
@@ -29,10 +28,12 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 **Message:** Garrett Mason supported healthcare policies that would rip health coverage away from tens of thousands of Mainers.
 
 
-
 ### Garrett Mason Supported Stripping SNAP Benefits From Maine Families 
 
--   In 2025, Bobby Charles [supported](https://www.facebook.com/photo/?fbid=122136461522771161&set=a.122120850236771161) Trump’s “One Big Beautiful Bill,” which made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Charles also [declared](https://www.youtube.com/shorts/tKxOqz3kKC4) he was “totally on side” with Trump’s agenda and backed work requirements that would restrict Mainers’ ability to receive public assistance. More than [78,000](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) households in Maine relied on SNAP to meet basic food needs.
+-   In 2015, Mason [co-sponsored](https://www.pressherald.com/2015/04/14/maine-republican-senate-leaders-co-sponsor-religious-freedom-bill/) legislation allowing individuals and businesses to refuse services to same-sex couples based on religious beliefs. The “Preservation of Religious Freedom Act” could have [legalized discrimination](https://www.bangordailynews.com/2015/04/07/news/maines-religious-freedom-bill-is-nearly-identical-to-indiana-law/) based on sexual orientation.
+
+- In 2018, during his first gubernatorial campaign, Mason supported defining marriage as between one man and one woman. 
+
 
 **Message:** Garrett Mason supported limiting food assistance while tens of thousands of Maine families depended on SNAP to afford groceries and put food on the table.
 
