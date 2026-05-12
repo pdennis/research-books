@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:25:25.239Z
+date: 2026-05-12T19:26:40.246Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -74,7 +74,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 **Message:** Garrett Mason threatened the reproductive freedoms of Mainers.
 
 
-### Garrett Mason Supported “Trump Accounts” Which Benefitted Wealthier Families
+### Garrett Mason Supported “Trump Accounts” Which Benefited Wealthier Families
 
 -   In 2025, Bobby Charles pushed an extreme anti-choice agenda, declaring himself “[unapologetically pro-life](https://www.youtube.com/shorts/T3n9sXUzM34).” Charles called for limiting abortion access and ending public funding for abortion. He also opposed pregnancy-related health care coverage for people under 21 and undocumented immigrants, framing access to care as something he would [roll back](https://www.facebook.com/share/p/1De8xjVZBZ/) if elected governor.
 
