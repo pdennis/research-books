@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: false
-date: 2026-05-12T19:40:08.225Z
+date: 2026-05-12T19:40:58.824Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
@@ -99,4 +99,7 @@ Garrett Mason’s political history includes attacks on Mainers’ healthcare, p
 
 - [:x: | **Bobby Charles Promoted Election Fraud Claims**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-voting)
 - [:sos: | **Bobby Charles Called For The Closure Of The Northern Border And A Replica Of The Failed “Alligator Alcatraz” In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-immigration)
+{.links-list}
+# Key Votes
+
 {.links-list}
