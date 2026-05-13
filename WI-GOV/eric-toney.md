@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: false
-date: 2026-05-13T15:00:27.016Z
+date: 2026-05-13T15:12:18.334Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -74,7 +74,7 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 - [:woman: **Eric Toney Was An Abortion Extremist And Was Open To Prosecuting Wisconsin Abortion Providers**](https://research-books.com/en/WI-GOV/eric-toney/toney-abortion)
 - [:ring: **Eric Toney Opposed Same-Sex Marriage**](https://research-books.com/en/WI-GOV/eric-toney/toney-marriage-equality)
 - [:warning: **Eric Toney Opposed Stronger Environmental Protections Amid Wisconsin PFAS Concerns**](https://research-books.com/en/WI-GOV/eric-toney/toney-environment)
-- [:ballot_box: **Eric Toney Embraced Aggressive Voter Fraud Prosecutions**](https://research-books.com/en/WI-GOV/eric-toney/toney-elections)
+- [:ballot_box: **Eric Toney Embraced Aggressive Voter Fraud Prosecutions That Were Called “A Hammer In Search Of A Nail”**](https://research-books.com/en/WI-GOV/eric-toney/toney-elections)
 - [:triangular_flag_on_post: **Eric Toney Opposed Red Flag Laws Designed To Protect Wisconsinites**](https://research-books.com/en/WI-GOV/eric-toney/toney-red-flag-laws)
 
 {.links-list}
