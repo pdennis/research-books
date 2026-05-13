@@ -2,7 +2,7 @@
 title: Dan Sullivan
 description: 
 published: true
-date: 2026-05-05T14:33:10.342Z
+date: 2026-05-13T21:31:53.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T22:32:56.261Z
@@ -10,7 +10,7 @@ dateCreated: 2025-12-19T22:32:56.261Z
 
 # **How To Win Against Dan Sullivan**
 
-Dan Sullivan, a born-and-raised Ohioan, has voted time and time again to cut services for hard-working Alaskans and to endanger the lives of rural and native Alaskans. Sullivan voted for legislation that kicked tens of thousands of Alaskans off their health insurance, supported the elimination of funding for life-saving public broadcasting, defended tariffs that hurt the many small businesses that employ half of Alaska’s workforce, ignored Alaskan Natives opposing the opening of the NPR-A for development, and cut food assistance for hard-working Alaskans. Sullivan does not know what is best for Alaskan communities and shows it through his consistent votes against the Alaskan people.
+Dan Sullivan, a born-and-raised Ohioan, has voted time and time again to cut services for hard-working Alaskans and to endanger the lives of rural and native Alaskans. Sullivan voted for legislation that kicked tens of thousands of Alaskans off their health insurance, supported the elimination of funding for life-saving public broadcasting, defended tariffs that hurt the many small businesses that employ half of Alaska’s workforce, ignored Alaska Natives opposing the opening of the NPR-A for development, and cut food assistance for hard-working Alaskans. Sullivan does not know what is best for Alaskan communities and shows it through his consistent votes against the Alaskan people.
 
 ### **Sullivan Voted For Devastating Health Care Cuts**
 
