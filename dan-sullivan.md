@@ -2,7 +2,7 @@
 title: Dan Sullivan
 description: 
 published: true
-date: 2026-05-13T21:44:10.326Z
+date: 2026-05-13T21:44:53.201Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T22:32:56.261Z
@@ -22,7 +22,7 @@ Sullivan [_voted_](https://www.senate.gov/legislative/LIS/roll_call_votes/vote11
 
 Sullivan [_voted_](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00411.htm) for the 2025 rescissions package that [reduced](https://www.npr.org/2025/08/01/nx-s1-5489808/cpb-shut-down-public-broadcasting-trump) funding for public broadcasting by $1.1 billion through fiscal year 2027. In Alaska, that Native-American initiated station KYUK received [_70%_](https://www.npr.org/2025/11/14/nx-s1-5585941/alaska-typhoon-public-radio-funding) of its funding from the federal government. In the leadup and aftermath of Typhoon Halong, KYUK played a key role in warning primarily Yu’pik communities, many of whom speak Yugtun. With the loss of a little over [_$1 million_](https://www.npr.org/2025/11/14/nx-s1-5585941/alaska-typhoon-public-radio-funding) in federal funding, however, KYUK was forced to reduce staff from 23 employees to 14 as well as cut a daily program to four days a week. 
 
-**Message:** Sullivan voted for legislation that would endanger the lives of rural and native Alaskans in times of emergency.
+**Message:** Sullivan voted for legislation that would endanger the lives of rural Alaskans and Alaska natives in times of emergency.
 
 ### **Sullivan Supported Tariffs That Endangered The Alaskan Economy**
 
