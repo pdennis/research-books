@@ -2,23 +2,12 @@
 title: Brian Strickland
 description: 
 published: false
-date: 2026-04-24T20:43:00.441Z
+date: 2026-05-13T17:40:08.887Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T20:12:33.873Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
-
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Brian Strickland
 
