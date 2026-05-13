@@ -2,7 +2,7 @@
 title: Brinker Harding (NE-02)
 description: 
 published: true
-date: 2026-05-13T01:25:48.402Z
+date: 2026-05-13T17:50:50.895Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-13T00:59:31.701Z
@@ -55,7 +55,7 @@ Brinker Harding criticized politicians who optimized their own careers but admit
 
 ### Harding Criticized Politicians who Optimized Their Own Career, but admitted to prepping a run for congress just in case don bacon retired
 
--   Harding said that a good representative doesn’t show up concerned about [their own career](https://www.jewishomaha.org/wp-content/uploads/2026/04/JCRC-2026-Voter-Guide-FINAL.pdf). He said “the job isn’t about him” and a good representative did not “optimizing for their own reelection” or “their own career.” However, when asked why he ran for congress so soon after being reelected to the city council, Harding [said](https://www.facebook.com/watch/?v=712184705118146) he was always looking at what he would do next and that he prepped a run for congress in case Don Bacon retired either in 2026 or two years later.
+-   Harding said that a good representative doesn’t show up concerned about [their own career](https://www.jewishomaha.org/wp-content/uploads/2026/04/JCRC-2026-Voter-Guide-FINAL.pdf). He said “the job isn’t about him” and a good representative should not be “optimizing for their own reelection” or “their own career.” However, when asked why he ran for congress so soon after being reelected to the city council, Harding [said](https://www.facebook.com/watch/?v=712184705118146) he was always looking at what he would do next and that he prepped a run for congress in case Don Bacon retired either in 2026 or two years later.
 
 **Message:** Harding was just another career politician trying to climb the ladder. 
 
