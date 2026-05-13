@@ -2,7 +2,7 @@
 title: Brinker Harding (NE-02)
 description: 
 published: true
-date: 2026-05-13T18:15:18.055Z
+date: 2026-05-13T18:45:55.589Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-13T00:59:31.701Z
@@ -14,8 +14,8 @@ Brinker Harding criticized politicians who optimized their own careers but admit
 
 ### Harding Supported a bill That Would take Health coverage from nebraskans 
 
--   Harding [supported](https://www.instagram.com/p/DLs3KVruxuo/) the “One Big Beautiful Bill,” which cut health care for [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/), including nearly [12 million Medicaid](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) beneficiaries. More than [19,000 Nebraskans](https://www.rand.org/pubs/research_reports/RRA4098-1.html) were estimated to be at risk to lose health coverage from the “One Big Beautiful Bill” that Harding [defended](https://www.instagram.com/p/DN_0HvCjvmE/).
--   Harding advocated for [balancing the budget](https://www.facebook.com/share/p/1J47A2b2oh/) “[like we do in Omaha](https://nebraskaexaminer.com/2025/07/01/omaha-city-council-vp-brinker-harding-jumps-into-nebraska-2nd-district-u-s-house-race/)” if elected to Congress, which could [require](https://www.crfb.org/blogs/what-would-it-take-balance-budget-update)[cuts](https://www.cbpp.org/research/federal-budget/a-balanced-budget-amendment-doesnt-change-the-math) to Medicaid in order to achieve at the federal level. More than [114,000](https://www.americanprogress.org/article/medicaid-and-chip-coverage-mapped-by-119th-congressional-districts/) Nebraskans in the 2^nd^ District, relied on Medicaid for healthcare.
+-   Harding [supported](https://www.instagram.com/p/DLs3KVruxuo/) the “One Big Beautiful Bill,” which cut health care for [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/), including nearly [12 million Medicaid](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) beneficiaries. More than [23,000 Nebraskans](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf).
+-   Harding advocated for [balancing the budget](https://www.facebook.com/share/p/1J47A2b2oh/) “[like we do in Omaha](https://nebraskaexaminer.com/2025/07/01/omaha-city-council-vp-brinker-harding-jumps-into-nebraska-2nd-district-u-s-house-race/)” if elected to Congress, which could [require](https://www.crfb.org/blogs/what-would-it-take-balance-budget-update)[cuts](https://www.cbpp.org/research/federal-budget/a-balanced-budget-amendment-doesnt-change-the-math) to Medicaid in order to achieve at the federal level. More than [114,000](https://www.americanprogress.org/article/medicaid-and-chip-coverage-mapped-by-119th-congressional-districts/) Nebraskans in the 2^nd^ District relied on Medicaid for healthcare.
 
 **Message:** Harding supported a bill that would take health care from Nebraskans, all to fund tax breaks for the super rich. 
 
