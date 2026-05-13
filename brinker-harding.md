@@ -2,7 +2,7 @@
 title: Brinker Harding (NE-02)
 description: 
 published: false
-date: 2026-05-13T01:02:32.876Z
+date: 2026-05-13T01:07:25.986Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-13T00:59:31.701Z
@@ -75,5 +75,14 @@ Brinker Harding criticized politicians who optimized their own careers but admit
 # Issue Briefs
 
 ## Harding Supported Policies That Hurt Everyday Nebraskans
-
+- [:hospital: *Harding Supported A Bill That Took Health Coverage From Nebraskans*](https://research-books.com/e/en/brinker-harding/health-care)
+- [:older_man: *Harding Supported Policies That Hurt Services Nebraska Seniors Rely On*](https://research-books.com/e/en/brinker-harding/seniors)
+- [:carrot: *Harding Supported A Bill That Took Food Assistance From Nebraskans*](https://research-books.com/e/en/brinker-harding/snap)
+- [:shopping_cart: *Harding Supported Economic Policy That Raised Costs On Nebraskans*](https://research-books.com/e/en/brinker-harding/tariffs)
+- [:fuelpump: *Harding Supported The War In Iran That Was Raising Prices On Nebraskans*](https://research-books.com/e/en/brinker-harding/gas)
+- [:house: *Harding Tried To Criminalize Homelessness In Omaha*](https://research-books.com/e/en/brinker-harding/housing)
+{.links-list}
 ## Harding Used His Power To Benefit Himself And The Powerful
+- [:x: *Harding Criticized Politicians Who Optimized Their Own Careers, But Admitted To Prepping A Congressional Run In Case Don Bacon Retired*](https://research-books.com/e/en/brinker-harding/swampy)
+- [:eyes: *Harding Faced Criticism After Proliferating A Meme Widely Denounced As Racist*](https://research-books.com/e/en/brinker-harding/offensive)
+{.links-list}
