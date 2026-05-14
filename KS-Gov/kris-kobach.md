@@ -2,23 +2,11 @@
 title: Kris Kobach
 description: 
 published: false
-date: 2026-05-04T20:41:21.503Z
+date: 2026-05-14T15:30:47.476Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
 ---
-
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
-
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # **How To Win Against Kris Kobach**
 
