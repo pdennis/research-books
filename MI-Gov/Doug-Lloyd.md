@@ -1,8 +1,8 @@
 ---
 title: Doug Lloyd
 description: 
-published: false
-date: 2026-04-30T18:27:43.490Z
+published: true
+date: 2026-05-14T16:13:13.315Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-30T16:23:03.899Z
