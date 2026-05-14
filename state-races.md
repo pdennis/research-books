@@ -2,7 +2,7 @@
 title: State races
 description: 
 published: true
-date: 2026-04-24T14:20:16.511Z
+date: 2026-05-14T15:40:44.231Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T03:03:34.652Z
@@ -21,6 +21,7 @@ dateCreated: 2025-12-27T03:03:34.652Z
 -   [:ice_hockey: *Minnesota*](/MN-Gov)
 -   [:lobster: *Maine*](/ME-GOV)
 -   [:wrench:*Ohio*](/OH-Gov)
+-   [:sunflower:*Kansas*](/KS-Gov)
 -   [:heart: *Virginia*](/virginia-state)
 
 {.links-list}
