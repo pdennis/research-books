@@ -1,8 +1,8 @@
 ---
 title: Eric Toney
 description: 
-published: false
-date: 2026-05-13T15:12:18.334Z
+published: true
+date: 2026-05-14T16:24:51.886Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
