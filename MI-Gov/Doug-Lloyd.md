@@ -2,23 +2,13 @@
 title: Doug Lloyd
 description: 
 published: true
-date: 2026-05-14T16:13:13.315Z
+date: 2026-05-14T16:13:22.162Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-30T16:23:03.899Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
 
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # **How To Win Against Doug Lloyd**
 
