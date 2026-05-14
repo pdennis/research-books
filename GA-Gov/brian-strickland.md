@@ -1,13 +1,12 @@
 ---
 title: Brian Strickland
 description: 
-published: false
-date: 2026-05-13T17:40:08.887Z
+published: true
+date: 2026-05-14T15:26:09.364Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T20:12:33.873Z
 ---
-
 
 # How To Win Against Brian Strickland
 
