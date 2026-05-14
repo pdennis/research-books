@@ -1,8 +1,8 @@
 ---
 title: Warren Petersen
 description: 
-published: false
-date: 2026-05-12T21:13:29.222Z
+published: true
+date: 2026-05-14T16:05:25.467Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T16:02:27.010Z
