@@ -2,7 +2,7 @@
 title: Brian Strickland
 description: 
 published: true
-date: 2026-05-14T15:28:03.173Z
+date: 2026-05-15T16:20:08.315Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T20:12:33.873Z
@@ -22,11 +22,11 @@ Brian Strickland’s tenure in the Georgia General Assembly reflected a record o
 
 ### Brian Strickland Was An Anti-Abortion Extremist
 
--   Brian Strickland was an out-of-touch anti-abortion extremist, who touted being [“100% pro-life.”](https://x.com/StricklandForGA/status/1528707322138312704) 
+-   Brian Strickland was an out-of-touch anti-abortion extremist, who touted being [“100% pro-life”](https://x.com/StricklandForGA/status/1528707322138312704) and touted the endorsement of the anti-abortion [Susan B. Anthony Pro-Life America.](https://x.com/StricklandForGA/status/2050265387254607905) 
 
 -   As a member of the Georgia General Assembly, Strickland repeatedly voted for anti-abortion legislation. 
 
--   Strickland [voted](https://www.legis.ga.gov/legislation/55445) for Georgia’s extreme [six-week abortion ban](https://www.wabe.org/abortion-rights-anti-abortion-advocates-mark-three-years-of-georgia-ban/), which restricted abortion access [“before many people know they are pregnant.”](https://www.axios.com/2022/11/23/georgia-supreme-court-reinstates-six-week-abortion-ban) 
+-   Strickland [touted](https://x.com/StricklandForGA/status/2050265387254607905)  [voting](https://www.legis.ga.gov/legislation/55445) for Georgia’s extreme [six-week abortion ban](https://www.wabe.org/abortion-rights-anti-abortion-advocates-mark-three-years-of-georgia-ban/), which restricted abortion access [“before many people know they are pregnant.”](https://www.axios.com/2022/11/23/georgia-supreme-court-reinstates-six-week-abortion-ban) 
 -   Strickland [co-sponsored and voted for](https://www.legis.ga.gov/legislation/61731) legislation that would have banned access to [abortion-inducing drugs by mail](https://www.gpb.org/news/2022/02/23/doctors-warn-against-restricting-abortion-pills-by-mail#:~:text=Primary%20Content,who%20live%20in%20rural%20areas.) without an in-person doctor’s visit and [prohibited distribution of abortion medication](https://www.ajc.com/politics/georgia-senate-approves-bill-to-ban-the-mailing-of-abortion-pills/M3ALJDBJEZCGDI4XV5JJRGVDVM/) on state property or public schools or colleges. 
 -   Strickland [voted](https://www.legis.ga.gov/legislation/47914) to direct state funds to anti-abortion [crisis pregnancy centers](https://www.wabe.org/anti-abortion-pregnancy-centers-could-soon-get-state-grants/).
 
@@ -49,7 +49,7 @@ Brian Strickland’s tenure in the Georgia General Assembly reflected a record o
 
 ### Brian Strickland Supported Denying Services Or Employment To LGBTQ+ Georgians
 
-In 2016, Brian Strickland [voted](https://www.legis.ga.gov/legislation/47388) for legislation that would have allowed faith-based groups and individuals to [deny employment or services](https://www.pbs.org/newshour/nation/georgia-governor-to-veto-religious-exemptions-bill), including [marriage ceremonies](https://abcnews.com/US/georgia-governor-veto-anti-lgbt-bill/story?id=37976498), to [LGBTQ+](https://www.cbsnews.com/news/georgias-religious-liberty-law-stirs-backlash-from-business/) Georgians.
+- In 2016, Brian Strickland [voted](https://www.legis.ga.gov/legislation/47388) for legislation that would have allowed faith-based groups and individuals to [deny employment or services](https://www.pbs.org/newshour/nation/georgia-governor-to-veto-religious-exemptions-bill), including [marriage ceremonies](https://abcnews.com/US/georgia-governor-veto-anti-lgbt-bill/story?id=37976498), to [LGBTQ+](https://www.cbsnews.com/news/georgias-religious-liberty-law-stirs-backlash-from-business/) Georgians.
 
 **Message:** Brian Strickland stood in opposition to the basic rights of LGBTQ+ Georgians.
 
