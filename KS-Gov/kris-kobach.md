@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: true
-date: 2026-05-14T15:30:56.894Z
+date: 2026-05-15T17:00:38.468Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
@@ -10,7 +10,7 @@ dateCreated: 2026-05-04T19:48:53.745Z
 
 # **How To Win Against Kris Kobach**
 
-Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to stand up for Kansas and repeatedly attacked Kansans’ healthcare, food assistance, and voting rights. Kobach supported restricting Medicaid through work requirements, and opposed Medicaid expansion and the Affordable Care Act. He backed Trump’s disastrous tariffs that hurt Kansas small businesses and the agricultural industry. Kobach also supported handing over sensitive SNAP data to the Trump administration and wanted to impose requirements that would make it harder for Kansans to afford groceries. He refused to defend Kansas’ critical grants from DOGE cuts as the cuts hindered Kansas’ ability to provide critical services and federal workers in Kansas were laid off. Kobach repeatedly attacked Kansas’ fundamental right to abortion and attempted to threaten Kansans’ access to abortion medication. Kobach also had a record of opposing rights to the LGBTQ+ community, like their ability to adopt or foster children, and used extreme anti-LGBTQ+ rhetoric. Kobach’s support for Trump’s deployment of federal forces against the consent of governors raised concerns about whether he would protect Kansans from Trump overstepping his authority. Kobach repeatedly promoted baseless voter fraud conspiracies and helped strategize a lawsuit to overturn the 2020 election. Kobach also had a history of lining his own pockets at the expense of taxpayers on personal and partisan battles.
+Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to stand up for Kansas and repeatedly attacked Kansans’ healthcare, food assistance, and voting rights. Kobach supported restricting Medicaid through work requirements, and opposed Medicaid expansion and the Affordable Care Act. He backed Trump’s disastrous tariffs that hurt Kansas small businesses and the agricultural industry. Kobach also supported handing over sensitive SNAP data to the Trump administration and wanted to impose requirements that would make it harder for Kansans to afford groceries. He refused to defend Kansas’ critical grants from DOGE cuts as the cuts hindered Kansas’ ability to provide critical services and federal workers in Kansas were laid off. Kobach repeatedly attacked Kansas’ fundamental right to abortion and attempted to threaten Kansans’ access to abortion medication. Kobach also had a record of opposing rights to the LGBTQ+ community, like their ability to adopt or foster children, and used extreme anti-LGBTQ+ rhetoric. Kobach’s support for Trump’s deployment of federal forces against the consent of governors raised concerns about whether he would protect Kansans from Trump overstepping his authority. Kobach repeatedly promoted baseless voter fraud conspiracies and helped strategize a lawsuit to overturn the 2020 election. Kobach also had a history of lining his own pockets at the expense of taxpayers on personal and partisan battles. In May 2026, Kobach neglected Kansans and prioritized a trip to Ireland instead of attending the annual Kansas Law Enforcement Memorial honoring fallen Kansas officers.
 
 ### **Kris Kobach Supported Restricting Medicaid And Opposed The Affordable Care Act**
 
@@ -82,6 +82,12 @@ Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to
 
 **Message:** Kris Kobach lined his pockets at the expense of taxpayers on personal and partisan battles.
 
+### Kris Kobach Skipped A Law Enforcement Ceremony For A Trip To Ireland
+
+- On May 1, 2026, Kansas Attorney General Kris Kobach [skipped the annual Kansas Law Enforcement Memorial honoring fallen Kansas law enforcement officers](https://kansasreflector.com/2026/05/11/kansas-attorney-general-misses-annual-law-enforcement-memorial-event-during-trip-to-ireland/) to travel to Ireland. Instead of honoring fallen Kansas law enforcement at the ceremony, Kobach claimed he had a “scheduling conflict” and traveled to Ireland to “gather insights into dealing with hooligan fans during World Cup soccer events.” Kobach also traveled back to the U.S. in time to attend a Republican Attorneys General Association retreat at a resort in Sea Island, Georgia. 
+
+**Message:** Kris Kobach prioritized an internal trip over honoring Kansas law enforcement who lost their lives serving Kansans. 
+
 # **Issue Back-Ups**
 
 ## **Kris Kobach Policies Have Hurt Everyday People**
@@ -99,4 +105,10 @@ Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to
 - [:sos: | **Kris Kobach Would Allow Trump To Deploy Federal Forces Against Kansans**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-federalforces)
 - [:ballot_box: | **Kris Kobach Promoted Baseless Voter Fraud Conspiracies And Helped Strategize A Lawsuit To Overturn The 2020 Election**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-biglie)
 - [:money_with_wings: | **Kris Kobach Wasted Millions Of Taxpayer Dollars On Personal And Partisan Political Battles**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-partisan-political-battles)
+{.links-list}
+
+## **Kris Kobach Neglected Kansans**
+
+ [:cop: | **Kris Kobach Skipped A Law Enforcement Ceremony For A Trip To Ireland**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-ireland)
+
 {.links-list}
