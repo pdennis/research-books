@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: true
-date: 2026-05-15T17:00:38.468Z
+date: 2026-05-15T17:01:20.968Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
@@ -109,6 +109,5 @@ Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to
 
 ## **Kris Kobach Neglected Kansans**
 
- [:cop: | **Kris Kobach Skipped A Law Enforcement Ceremony For A Trip To Ireland**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-ireland)
-
+- [:cop: | **Kris Kobach Skipped A Law Enforcement Ceremony For A Trip To Ireland**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-ireland)
 {.links-list}
