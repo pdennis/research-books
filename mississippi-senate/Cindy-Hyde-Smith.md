@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-04-28T15:04:38.101Z
+date: 2026-05-18T21:19:54.801Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -128,6 +128,7 @@ Hyde-Smith's fellow senator, Senator Wicker, did vote for the legislation and hi
 -   [:hospital:Hyde-Smith Opposed Access To Affordable Healthcare](https://research-books.com/mississippi-senate/Cindy-Hyde-Smith/healthcare)
 
 -   [:apple:Hyde-Smith Slashed Mississippians’ Supplemental Nutrition Assistance And Threatened Mississippi Children With Food Insecurity](https://research-books.com/mississippi-senate/Cindy-Hyde-Smith/snap-cuts)
+{.links-list}
 
 ## Cindy Hyde-Smith Was Not Fit To Represent Mississippi
 
@@ -136,3 +137,4 @@ Hyde-Smith's fellow senator, Senator Wicker, did vote for the legislation and hi
 -   [:police_car:Hyde-Smith Campaigned With A Sheriff Whose Office Contained An Alleged “Goon Squad”](/mississippi-senate/Cindy-Hyde-Smith/goon-squad)
 
 -   [:dollar:Hyde-Smith Voted To Protect Her Stock Portfolio_](/mississippi-senate/Cindy-Hyde-Smith/stocks)
+{.links-list}
