@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-05-18T19:54:36.144Z
+date: 2026-05-18T21:20:59.862Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -95,7 +95,9 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 -   [:money_with_wings:**Whatley Supported Tariffs That Placed North Carolina's Economy At Risk**](/northcarolina-senate/Michael-Whatley/Tariffs)
 -   [:bulb:**Whatley Supported Cuts To Clean Energy Jobs**](/northcarolina-senate/Michael-Whatley/Clean-Energy)
 - [:bomb:**Whatley Supported War In Iran Which Caused Skyrocketting Gas And Fertilizer Prices**](/northcarolina-senate/Michael-Whatley/Iran)
+{.links-list}
 ## Michael Whatley Was A Failed DC Insider
 -   [:moneybag:**Whatley Was A DC Insider And Lobbyist**](/northcarolina-senate/Michael-Whatley/Swamp)
 -   [:cyclone:**Whatley Failed As Hurricane Recovery Czar**](/northcarolina-senate/Michael-Whatley/Hurricane)
 - [:triangular_flag_on_post:**Whatley Elevated A Convicted Child Sex Offender**](/northcarolina-senate/Michael-Whatley/West-Jr)
+{.links-list}
