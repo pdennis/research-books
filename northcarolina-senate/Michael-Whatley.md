@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-04-27T19:33:37.265Z
+date: 2026-05-18T19:54:36.144Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -63,6 +63,12 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 
 **Message:** Whatley supported harming North Carolina’s growing clean energy sector and raising North Carolinian’s energy bills in favor of the oil and gas industry that he previously lobbied for. 
 
+### Whatley Supported War In Iran Which Caused Skyrocketting Gas And Fertilizer Prices
+
+- Whatley [defended](https://youtu.be/jUGbpQ47mfg?si=Y9tPVY14yrSt2Xsn) the war in Iran despite the war causing [gas](https://abc11.com/post/gas-price-surge-strains-farmers-drivers-nc/18817529/) and [fertilizer](https://www.wral.com/news/local/raleigh-state-farmers-market-vendors-fertilizer-costs-iran-war-march-2026/) prices in North Carolina to skyrocket. The resulting rising prices were hurting North Carolina [families](https://abc11.com/post/fuel-prices-surge-north-carolina-ahead-spring-break-raising-travel-costs/18693000/), [businesses](https://youtu.be/cX0bRYeDWrk?si=ggpwleJR8o-jj_8C) and [farmers](https://www.newsobserver.com/news/business/article315526585.html). 
+
+**Message:** Whatley cheered on Trump’s war in Iran which was raising gas and fertilizer prices, tightening North Carolina families and farmer’s pockets. 
+
 ### Whatley Was A DC Insider And Lobbyist 
 
 -   Whatley was a big [oil lobbyist](https://apnews.com/article/republican-national-committee-whatley-trump-mcdaniel-b0c1714ac648bfa91b6ee72a30278266) who spent his time representing big oil across the country. Whatley led an [special interest funded organization](https://www.huffingtonpost.co.uk/entry/bp-shell-climate_n_5f6e3120c5b64deddeed6762) that launched several [astroturfing campaigns](https://www.salon.com/2011/12/15/big_oil_and_canada_thwarted_u_s_carbon_standards/) and used [deceitful](https://apnews.com/article/republican-national-committee-whatley-trump-mcdaniel-b0c1714ac648bfa91b6ee72a30278266) [tactics](https://captimes.com/news/local/writers/mike_ivey/did-houston-energy-group-dupe-mge-customers-to-back-rate-changes/article_fbe07fa3-c487-5eff-84a7-72d502c842cd.html) to trick people into supporting the organization’s pro-big money causes.
@@ -88,6 +94,7 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 -   [:hospital:**Whatley Opposed Expanding Healthcare For North Carolina**](/northcarolina-senate/Michael-Whatley/ACA)
 -   [:money_with_wings:**Whatley Supported Tariffs That Placed North Carolina's Economy At Risk**](/northcarolina-senate/Michael-Whatley/Tariffs)
 -   [:bulb:**Whatley Supported Cuts To Clean Energy Jobs**](/northcarolina-senate/Michael-Whatley/Clean-Energy)
+- [:bomb:**Whatley Supported War In Iran Which Caused Skyrocketting Gas And Fertilizer Prices**](/northcarolina-senate/Michael-Whatley/Iran)
 ## Michael Whatley Was A Failed DC Insider
 -   [:moneybag:**Whatley Was A DC Insider And Lobbyist**](/northcarolina-senate/Michael-Whatley/Swamp)
 -   [:cyclone:**Whatley Failed As Hurricane Recovery Czar**](/northcarolina-senate/Michael-Whatley/Hurricane)
