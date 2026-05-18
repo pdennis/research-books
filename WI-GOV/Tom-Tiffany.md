@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-04-16T18:49:41.425Z
+date: 2026-05-18T20:23:37.632Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -86,6 +86,16 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 
 **Message:** Tom Tiffany was a threat to Wisconsin elections.
 
+###  Tiffany Embraced Extremists
+- MAGA-endorsed Tom Tiffany is trying to [rebrand](https://www.jsonline.com/story/news/politics/2025/10/07/tiffany-erases-hot-button-issues-like-abortion-from-website-bice/86438816007/) as a mainstream Republican in his bid for governor, all while he continues to court the far-right fringe. On December 30, 2025, Tiffany [appeared](https://www.youtube.com/watch?v=nDO-FAvDfZE) [on](https://soundcloud.com/bethanyanderson-179905639/4669ff3a-220c-45ff-a560-b8c3dfghj35496daa/s-mOQH80zqmZg?si=f4ee7ea0875244d29cb635d770dba6f1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) “[TheQuartering](https://web.archive.org/web/20260515203103/https://thequartering.com/),” a podcast hosted by Jeremy Hambly, an internet personality with a documented history of [antisemitic rhetoric](https://www.youtube.com/watch?v=jcteLHwxz1M) and online harassment controversies. 
+
+- TheQuartering founder and host Jeremy Hambly has previously said Hitler had “[actually done some good things](https://www.youtube.com/watch?v=M7i_MqiRaOk),” defended a [shirt](https://archive.org/details/hambly-jeremy-dale-daily-stormer/camp_auschwitz_jan_6.jpg) with “Camp Auschwitz” emblazoned on the front as “[dark humor](https://archive.org/details/hambly-jeremy-dale-daily-stormer/camp_auschwitz_jan_6.jpg),” used antisemitic rhetoric and slurs, and told jokes making [light](https://www.youtube.com/watch?v=FhcE8yK8Bwc&feature=youtu.be) of the [Holocaust](https://www.youtube.com/watch?v=FhcE8yK8Bwc&feature=youtu.be) and [Hitler](https://archive.org/details/hambly-jeremy-dale-daily-stormer/Hambly_Jeremy_Dale__Fuck_Hitler_YIKES_Peace_Nobel_Price.jpg). 
+
+- In 2023, [white nationalist publisher](https://werb.substack.com/p/youtuber-thequarting-real-name-jeremy) Antelope Hill Publishing [sponsored](https://archive.ph/8Zox9#selection-461.0-473.162) Hambly’s TheQuartering. Antelope Hill Publishing [celebrated Hitler’s birthday](https://archive.ph/i9Ac7) with annual discounts on books written by Hitler.
+
+- During the interview, Hambly offered to mobilize campaign support for Tiffany alongside [Scott Presler](https://www.thedailybeast.com/meet-the-dark-maga-emissary-with-a-dirty-past-radical-touted-as-movements-secret-weapon/), a prominent “Stop the Steal” activist. Hambly said, “[I can bring Scott Presler out. We can doorknock for you](https://www.youtube.com/watch?v=nDO-FAvDfZE).” Tiffany did not object or distance himself from the offer. Presler was a [key figure in efforts to overturn the 2020 election](https://www.nbcnews.com/politics/2024-election/scott-presler-conspiracy-theories-lara-trump-rnc-job-rcna144144) and has helped amplify conspiracy-driven movements, including QAnon-aligned networks. 
+
+Message: Tom Tiffany’s appearance and silence reinforced a broader pattern of engaging with extremist figures while running for governor.
 # Issue Back-Ups
 
 ## Tom Tiffany's Policies Have Hurt Everyday People
@@ -97,7 +107,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 - [:mechanic: **Tiffany Voted Against Protecting Wisconsin’s Clean Energy Jobs**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-CleanEnergy)
 - [:corn: **Tiffany Failed Wisconsin Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-E15)
 - [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Abortion)
-
+- [:exclamation:  **Tom Tiffany Joined TheQuartering Podcast, Whose Fringe Host Had A Documented History Of Antisemitic Rhetoric And Online Harassment Controversies**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-extremists)
 {.links-list}
 
 ## Tom Tiffany Used His Power To Benefit The Powerful 
