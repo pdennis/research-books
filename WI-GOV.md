@@ -2,7 +2,7 @@
 title: State Level Races In Wisconsin
 description: 
 published: true
-date: 2026-05-18T13:56:16.468Z
+date: 2026-05-18T13:56:39.075Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T14:15:06.118Z
@@ -13,7 +13,7 @@ dateCreated: 2025-12-11T14:15:06.118Z
 {.links-list}
 
 ## Attorney General
-- [:elephant: ***Eric Toney***](https://research-books.com/en/WI-GOV/eric-toney) who backed Wisconsin Republican who supported Wisconsin’s near-total abortion ban, opposed red flag laws, aligned with anti-LGBTQ+ groups, and threatened Wisconsinites’ rights and safety.
+- [:elephant: ***Eric Toney***](https://research-books.com/en/WI-GOV/eric-toney) Wisconsin Republican who supported Wisconsin’s near-total abortion ban, opposed red flag laws, aligned with anti-LGBTQ+ groups, and threatened Wisconsinites’ rights and safety.
 {.links-list}
 
 ## Supreme Court
