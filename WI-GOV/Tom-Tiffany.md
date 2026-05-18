@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-05-18T20:23:37.632Z
+date: 2026-05-18T20:25:43.105Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -107,7 +107,7 @@ Message: Tom Tiffany’s appearance and silence reinforced a broader pattern of 
 - [:mechanic: **Tiffany Voted Against Protecting Wisconsin’s Clean Energy Jobs**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-CleanEnergy)
 - [:corn: **Tiffany Failed Wisconsin Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-E15)
 - [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Abortion)
-- [:exclamation:  **Tom Tiffany Joined TheQuartering Podcast, Whose Fringe Host Had A Documented History Of Antisemitic Rhetoric And Online Harassment Controversies**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-extremists)
+- [:exclamation:  **Tiffany Joined TheQuartering Podcast, Whose Fringe Host Had A Documented History Of Antisemitic Rhetoric And Online Harassment Controversies**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-extremists)
 {.links-list}
 
 ## Tom Tiffany Used His Power To Benefit The Powerful 
