@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-04-23T19:26:42.923Z
+date: 2026-05-18T21:20:27.907Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
@@ -135,9 +135,11 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 - [:older_woman:**Hinson Was A Threat To Social Security**](/iowa-senate/Ashley-Hinson/Social-Security)
 
 - [:farmer:**Hinson Was An Ineffective And Bad Representative For Farmers**](/iowa-senate/Ashley-Hinson/Farmers)
+{.links-list}
 
 ## Ashley Hinson Would Be Bad In The Senate 
 
 - [:pig2:**Hinson Would Be Just Another Joni Ernst**](/iowa-senate/Ashley-Hinson/Ernst) 
 
 - [:writing_hand:**Hinson Was Caught Plagiarizing Campaign Materials**](/iowa-senate/Ashley-Hinson/plagiarism)
+{.links-list}
