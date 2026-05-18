@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-05-18T20:56:22.259Z
+date: 2026-05-18T20:57:25.000Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -109,13 +109,16 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 - [:mechanic: **Tiffany Voted Against Protecting Wisconsin’s Clean Energy Jobs**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-CleanEnergy)
 - [:corn: **Tiffany Failed Wisconsin Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-E15)
 - [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Abortion)
-- [:exclamation:  **Tiffany Joined TheQuartering Podcast, Whose Fringe Host Had A Documented History Of Antisemitic Rhetoric And Online Harassment Controversies**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-extremists)
 {.links-list}
 
 ## Tom Tiffany Used His Power To Benefit The Powerful 
 
 - [:eyes:  **It Took Tiffany 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Epstein)
 - [:sos: **Tiffany Was An Election Denier Who Supported Overturning The 2020 Election**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-2020)
+{.links-list}
+
+## Tom Tiffany Courted Far-Right Extremists
+- [:exclamation:  **Tiffany Joined TheQuartering Podcast, Whose Fringe Host Had A Documented History Of Antisemitic Rhetoric And Online Harassment Controversies**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-extremists)
 {.links-list}
 
 # Key Votes
