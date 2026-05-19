@@ -2,27 +2,16 @@
 title: Lisa Demuth
 description: 
 published: true
-date: 2026-01-23T20:09:50.606Z
+date: 2026-05-19T16:33:25.849Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-22T22:08:13.355Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
-
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Lisa Demuth
 
-Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported Trump administration policies that enriched the already wealthy and further harmed already struggling Minnesotans. Demuth supported Trump’s “One Big Beautiful Bill,” which put 161,000 Minnesotans at risk of losing health insurance, cut $500 billion in Medicare funding, reduced food assistance for 186,000 Minnesotan households relying on SNAP, and killed green energy jobs in Minnesota’s fastest growing industry. Demuth turned a blind eye to Trump’s tariffs, which made gas in Minnesota more expensive and threatened the state’s agricultural industry. Demuth advocated for policies in Minnesota to “root out fraud,” an excuse which Trump’s DOGE used to cut funds that impacted 20,000 federal employees and several nonprofit organizations in Minnesota. Demuth stated her personal opinion on abortion was, “as long as there is a heartbeat, there is life,” and, as a state lawmaker, she introduced a “heartbeat” abortion ban and opposed legislation to protect reproductive rights in Minnesota. Demuth also falsely took credit for being involved in exposing a Minnesota day care fraud scandal. After an ICE agent fatally shot a Minnesota resident, Demuth endorsed aggressive ICE operations in Minneapolis and did not oppose Trump overstepping his authority in sending federal forces against Minnesotans.
+Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported Trump administration policies that enriched the already wealthy and further harmed already struggling Minnesotans. Demuth supported Trump’s “One Big Beautiful Bill,” which put 161,000 Minnesotans at risk of losing health insurance, cut $500 billion in Medicare funding, reduced food assistance for 186,000 Minnesotan households relying on SNAP, and killed green energy jobs in Minnesota’s fastest growing industry. Demuth turned a blind eye to Trump’s tariffs, which made gas in Minnesota more expensive and threatened the state’s agricultural industry. Demuth advocated for policies in Minnesota to “root out fraud,” an excuse which Trump’s DOGE used to cut funds that impacted 20,000 federal employees and several nonprofit organizations in Minnesota. Demuth said she "supported life from conception to natural death," and, as a state lawmaker, she introduced a “heartbeat” abortion ban and opposed legislation to protect reproductive rights in Minnesota. Demuth also falsely took credit for being involved in exposing a Minnesota day care fraud scandal. After an ICE agent fatally shot a Minnesota resident, Demuth endorsed aggressive ICE operations in Minneapolis and did not oppose Trump overstepping his authority in sending federal forces against Minnesotans.
 
 ### Demuth Supported Devastating Health Care Cuts
 
@@ -66,9 +55,10 @@ Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported T
 
 ### Demuth Was An Anti-Abortion Extremist
 
--   Demuth was an out-of-touch anti-abortion extremist, who [equated](https://www.minnpost.com/state-government/2022/12/new-house-republican-leader-lisa-demuth-plans-to-lead-minority-with-calm-and-conversational-style/) the presence of a heartbeat and life.
+-   Demuth was an out-of-touch anti-abortion extremist, who [“supported life from conception to natural death.”](https://youtu.be/lQ5C1HmoErM)
 -   In 2021, as a state lawmaker, Demuth [introduced](https://www.house.mn.gov/cco/journals/2021-22/J0121006.htm#177) legislation to prohibit “abortions when a fetal heartbeat is detected.”
 -   In 2023, Demuth [opposed](https://www.house.mn.gov/members/profile/news/15498/48146) Minnesota’s PRO Act, which [protected reproductive rights under state law](https://www.mprnews.org/story/2023/01/27/you-asked-we-answered-what-would-the-pro-act-really-change). Demuth claimed the legislation allowed for [“abortion services far beyond”](https://www.house.mn.gov/members/profile/news/15498/48146) existing law and had [“zero guardrails.”](https://www.house.mn.gov/members/profile/news/15498/48146) 
+- In 2026, Demuth said opposing abortion from conception was [“biblical,”](https://youtu.be/lQ5C1HmoErM) and wanted to restore funding for anti-abortion crisis pregnancy centers. 
 -   In 2022, Demuth stated her personal opinion on abortion was, [“as long as there’s a heartbeat, there is life,”](https://www.minnpost.com/state-government/2022/12/new-house-republican-leader-lisa-demuth-plans-to-lead-minority-with-calm-and-conversational-style/) and she praised anti-abortion advocates that [“champion the unborn.”](https://x.com/LisaDemuthMN/status/1617184436642095104?s=20) 
 
 **Message:** Demuth threatened the reproductive freedoms of Minnesotans. 
