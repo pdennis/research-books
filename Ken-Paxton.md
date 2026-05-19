@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-05-19T19:48:49.772Z
+date: 2026-05-19T19:50:27.702Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -21,3 +21,5 @@ dateCreated: 2026-05-19T19:33:30.966Z
 # Issue Back-Ups
 
 ## Ken Paxton Supported Policies That Hurt Texans
+- [:bomb:**Paxton Supported War In Iran Which Caused Skyrocketing Gas and Fertilizer Prices**](/Ken-Paxton/Iran)
+{.links-list}
