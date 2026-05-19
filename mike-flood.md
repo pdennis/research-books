@@ -2,7 +2,7 @@
 title: Mike Flood (NE-01)
 description: 
 published: false
-date: 2026-05-19T17:57:19.741Z
+date: 2026-05-19T18:01:47.184Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:58:36.642Z
@@ -53,7 +53,15 @@ Mike Flood was a career politician who has spent his time in congress making lif
 # Issue Briefs
 
 ## Flood Supported Policies That Hurt Everyday Nebraskans
-
+- [:hospital: *Flood Voted To Take Health Coverage From Nebraskans*](https://research-books.com/en/mike-flood/health-care)
+- [:older_man: *Flood Supported Policies That Hurt Seniors Relied On*](https://research-books.com/en/mike-flood/seniors)
+- [:carrot: *Flood Voted To Cut Food Assistance For Nebraskans*](https://research-books.com/en/mike-flood/snap)
+- [:shopping_cart: *Flood Protected Tariffs That Hurt Nebraska Farmers And Manufacturers*](https://research-books.com/en/mike-flood/tariffs)
+- [:woman: *Flood Supported Extreme Anti-Choice Policies That Put Nebraska Women At-Risk*](https://research-books.com/en/mike-flood/choice)
+{.links-list}
 ## Flood Used His Power To Benefit The Powerful And Himself
-
+- [:eyes: *It Took Flood 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/mike-flood/epstein)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *Flood's Key Votes In Congress*](https://research-books.com/en/mike-flood/votes)
+{.links-list}
