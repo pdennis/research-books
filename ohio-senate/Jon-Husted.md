@@ -2,7 +2,7 @@
 title: Jon Husted
 description: 
 published: true
-date: 2026-05-19T21:49:52.369Z
+date: 2026-05-19T21:53:52.350Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T18:04:10.787Z
@@ -86,7 +86,7 @@ Husted [_defended_](https://www.newsandsentinel.com/news/local-news/2026/03/west
 -   [:medical_symbol: **Husted Was An Anti-Abortion Extremist**](/ohio-senate/Jon-Husted/Abortion)
 {.links-list}
 
-- [:bomb:**Husted Supported War In Iran Which Caused Skyrocketing Gas and Fertilizer Prices**](/ohio-senate/Jon-Husted/Iran)
+- [:bomb:**Husted Supported War In Iran Which Caused Skyrocketing Gas and Fertilizer Prices**](/Jon-Husted/Iran)
 {.links-list}
 
 ## Jon Husted Was Involved In Scandal
