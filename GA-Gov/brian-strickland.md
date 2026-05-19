@@ -2,7 +2,7 @@
 title: Brian Strickland
 description: 
 published: true
-date: 2026-05-15T16:20:08.315Z
+date: 2026-05-19T21:28:02.185Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T20:12:33.873Z
@@ -27,6 +27,7 @@ Brian Strickland’s tenure in the Georgia General Assembly reflected a record o
 -   As a member of the Georgia General Assembly, Strickland repeatedly voted for anti-abortion legislation. 
 
 -   Strickland [touted](https://x.com/StricklandForGA/status/2050265387254607905)  [voting](https://www.legis.ga.gov/legislation/55445) for Georgia’s extreme [six-week abortion ban](https://www.wabe.org/abortion-rights-anti-abortion-advocates-mark-three-years-of-georgia-ban/), which restricted abortion access [“before many people know they are pregnant.”](https://www.axios.com/2022/11/23/georgia-supreme-court-reinstates-six-week-abortion-ban) 
+- Strickland said he opposed abortion exceptions in cases of rape or incest and claimed he only supported the six-week abortion ban with [exceptions](https://www.usatoday.com/story/news/health/2019/04/02/georgia-fetal-heartbeat-abortion-bill-governor-brian-kemp/3331514002/) [“because it needed to pass.”](https://irp.cdn-website.com/d51b2a5e/files/uploaded/Strickland-2026-GLA+Signed.pdf)
 -   Strickland [co-sponsored and voted for](https://www.legis.ga.gov/legislation/61731) legislation that would have banned access to [abortion-inducing drugs by mail](https://www.gpb.org/news/2022/02/23/doctors-warn-against-restricting-abortion-pills-by-mail#:~:text=Primary%20Content,who%20live%20in%20rural%20areas.) without an in-person doctor’s visit and [prohibited distribution of abortion medication](https://www.ajc.com/politics/georgia-senate-approves-bill-to-ban-the-mailing-of-abortion-pills/M3ALJDBJEZCGDI4XV5JJRGVDVM/) on state property or public schools or colleges. 
 -   Strickland [voted](https://www.legis.ga.gov/legislation/47914) to direct state funds to anti-abortion [crisis pregnancy centers](https://www.wabe.org/anti-abortion-pregnancy-centers-could-soon-get-state-grants/).
 
