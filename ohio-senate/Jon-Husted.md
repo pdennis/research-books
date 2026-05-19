@@ -2,7 +2,7 @@
 title: Jon Husted
 description: 
 published: true
-date: 2026-05-19T21:39:23.188Z
+date: 2026-05-19T21:48:04.929Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T18:04:10.787Z
@@ -68,35 +68,28 @@ Husted [_defended_](https://www.newsandsentinel.com/news/local-news/2026/03/west
 
 ## Jon Husted Supported Policies That Hurt Ohio
 
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
+-   [:hospital: **Husted Voted For Devastating Health Care Cuts**](/ohio-senate/Jon-Husted/Health-Cuts)
+{.links-list}
 
--   [**Husted Voted For Devastating Health Care Cuts**](/ohio-senate/Jon-Husted/Health-Cuts)
+-   [:pill: **Husted Opposed Expanding And Protecting Ohioans Healthcare Coverage**](/ohio-senate/Jon-Husted/ACA)
+{.links-list}
 
-![💊](/_assets/svg/twemoji/1f48a.svg)
+-   [:plate_with_cutlery: **Husted Voted To Take Food Assistance From Ohioans**](/ohio-senate/Jon-Husted/SNAP)
+{.links-list}
 
--   [**Husted Opposed Expanding And Protecting Ohioans Healthcare Coverage**](/ohio-senate/Jon-Husted/ACA)
+-   [:money_with_wings: **Husted Voted For Damaging Tariffs**](/ohio-senate/Jon-Husted/Tariffs)
+{.links-list}
 
-![🛒](/_assets/svg/twemoji/1f6d2.svg)
+-   [:bulb: **Husted Voted Against Protecting Ohioans' Clean Energy Jobs**](/ohio-senate/Jon-Husted/Clean-Energy)
+{.links-list}
 
--   [**Husted Voted To Take Food Assistance From Ohioans**](/ohio-senate/Jon-Husted/SNAP)
-
-![💸](/_assets/svg/twemoji/1f4b8.svg)
-
--   [**Husted Voted For Damaging Tariffs**](/ohio-senate/Jon-Husted/Tariffs)
-
-![💡](/_assets/svg/twemoji/1f4a1.svg)
-
--   [**Husted Voted Against Protecting Ohioans' Clean Energy Jobs**](/ohio-senate/Jon-Husted/Clean-Energy)
-
-![👩](/_assets/svg/twemoji/1f469.svg)
-
--   [**Husted Was An Anti-Abortion Extremist**](/ohio-senate/Jon-Husted/Abortion)
+-   [:medical_symbol: **Husted Was An Anti-Abortion Extremist**](/ohio-senate/Jon-Husted/Abortion)
+{.links-list}
 
 - [:bomb:**Husted Supported War In Iran Which Caused Skyrocketing Gas and Fertilizer Prices**](/ohio-senate/Jon-Husted/Iran)
 {.links-list}
 
 ## Jon Husted Was Involved In Scandal
 
-![💰](/_assets/svg/twemoji/1f4b0.svg)
-
--   [**Husted Was Involved In Ohio's Major Corruption Scandal**](/ohio-senate/Jon-Husted/FirstEnergy)
+-   [:moneybag: **Husted Was Involved In Ohio's Major Corruption Scandal**](/ohio-senate/Jon-Husted/FirstEnergy)
+{.links-list}
