@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-05-19T15:18:48.272Z
+date: 2026-05-20T16:15:03.912Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -106,12 +106,12 @@ Hyde-Smith betrayed Mississippians by cutting their healthcare, SNAP benefits, s
 
 **Message:** How can Hyde-Smith be trusted to continue representing Mississippi if she continuously disrespects her Black constituents.
 
-### Hyde-Smith Campaigned With A Sheriff Whose Office Contained An Alleged “Good Squad"
+### Hyde-Smith Campaigned With A Sheriff Whose Office Contained An Alleged “Goon Squad"
 
 -   Hyde-Smith [**campaigned**](https://americanjournalnews.com/hyde-smith-campaigns-with-sheriff-linked-to-rankin-county-abuse-scandal/) with a sheriff who claimed that he didn't know a “goon squad” was operating under his nose. Officers under Sheriff Bailey's command [**tortured and sexually assaulted**](https://americanjournalnews.com/hyde-smith-campaigns-with-sheriff-linked-to-rankin-county-abuse-scandal/) Black residents of Rankin County.
 -   Sheriff Bailey also was [**accused**](https://americanjournalnews.com/hyde-smith-campaigns-with-sheriff-linked-to-rankin-county-abuse-scandal/) of misusing his influence to spy on his girlfriend's phone and having inmates at the Rankin County jail do manual labor on his mother;'s farm where some claimed that they were unpaid.
 
-**Message:** How can Hyde-Smith be trusted to continue representing Mississippi if she is campaigning with those who were accused of misusing their power and had a “good squad” operating under their nose.
+**Message:** How can Hyde-Smith be trusted to continue representing Mississippi if she is campaigning with those who were accused of misusing their power and had a “goon squad” operating under their nose.
 
 ### **Hyde-Smith Voted To Protect Her Stock Portfolio**
 
