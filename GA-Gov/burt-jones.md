@@ -2,7 +2,7 @@
 title: Burt Jones
 description: 
 published: true
-date: 2026-05-14T19:55:12.913Z
+date: 2026-05-21T22:00:03.454Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:16:25.941Z
@@ -47,9 +47,17 @@ Burt Jones supported federal legislation that stripped health care from hundreds
 
 -   In 2025, Jones [supported](https://x.com/burtjonesforga/status/1958522567804755995) Trump’s [“One Big Beautiful Bill,”](https://www.congress.gov/votes/house/119-1/190) which made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Nearly [514,000 households in Georgia](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
 
+
+### Burt Jones Supported The War In Iran Even As The War Led To Increased Costs In Georgia
+- Burt Jones [repeatedly](https://x.com/burtjonesforga/status/2039703893915885978) [supported](https://x.com/burtjonesforga/status/2027868815669727384?s=20) [Trump’s war in Iran.](https://x.com/burtjonesforga/status/2027742422369779926?s=20) Jones even claimed he was [“confident”](https://www.youtube.com/watch?v=_5nvoEynEPc) in Trump’s claim that prices would magically come down soon and argued Trump “knows the situation in Iran the best.”
+
+- Trump's war of choice with Iran [drove up](https://www.ajc.com/business/2026/05/metro-atlanta-gas-prices-are-up-50-since-start-of-iran-war/) [Georgians'](https://gasprices.aaa.com/?state=GA#state-metro) [gas prices](https://www.walb.com/2026/04/08/experts-warn-war-with-iran-could-raise-costs-georgia-fuel-prices-leading-way/) and [squeezed](https://www.cbsnews.com/atlanta/news/georgia-farmers-delivery-drivers-diesel-gas-prices-iran-war-impact/) [Georgia farmers.](https://www.13wmaz.com/article/news/local/georgia-farmers-brace-for-price-spike-as-iran-war-rattles-fertilizer-markets/93-9f41de8a-5449-403b-8edc-f38512da9b75) [Fertilizer](https://www.walb.com/2026/04/08/experts-warn-war-with-iran-could-raise-costs-georgia-fuel-prices-leading-way/) costs soared and Georgians braced for higher utility bills as the war prolonged. The Iran war [disrupted](https://www.walb.com/2026/04/08/experts-warn-war-with-iran-could-raise-costs-georgia-fuel-prices-leading-way/) shipping at Georgia ports and slammed Georgia exporters with uncertainty and increased insurance costs. The war also [led](https://www.walb.com/2026/04/08/experts-warn-war-with-iran-could-raise-costs-georgia-fuel-prices-leading-way/) to Georgia airlines raising their baggage fees and experts warned of reverberating price shocks from increased jet fuel prices.
+
+**Message:** Burt Jones backed Trump’s war with Iran even as it drove up gas and fertilizer prices across Georgia and squeezed Georgia farmers and families.
+
 **Message:** Jones supported making food more expensive for Georgia families. 
 
-### Jones stood by while trump attacked social security and fired hard-working Georgians
+### Jones Stood By While Trump Attacked Social Security And Fired Hard-Working Georgians
 
 -   In 2025, Jones [praised](https://x.com/burtjonesforga/status/1885725137833459722) Trump’s “Department of Government Efficiency” as DOGE-driven cuts and downsizing were [affecting](https://www.axios.com/2025/04/08/social-security-seniors-drive) the [federal government’s](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) [ability](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/) to [deliver services](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) to seniors. More than [2 million Georgians](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/ga.pdf) relied on Social Security benefits. 
 -   Jones called for the creation of a [Georgia DOGE](https://www.youtube.com/watch?v=z8RrqDrqPho) to keep [“state employees in check,”](https://www.youtube.com/watch?v=aQWrDdC47Tc) even though Trump’s DOGE resulted in [$815 million](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) in federal funding cuts to Georgia nonprofits, universities, and organizations. Trump’s DOGE also threatened the livelihoods of [115,600 federal workers](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) in Georgia. 
@@ -95,6 +103,7 @@ Burt Jones supported federal legislation that stripped health care from hundreds
 - [:older_man:*Jones Supported Medicare Cuts*](https://research-books.com/en/GA-Gov/burt-jones/jones-medicare)
 - [:shopping_cart:*Jones Backed Trump's Tariffs, Endangering Georgia’s Economy*](https://research-books.com/en/GA-Gov/burt-jones/jones-tariffs)
 - [:apple:*Jones Supported Cutting SNAP Benefits From Georgia Families*](https://research-books.com/en/GA-Gov/burt-jones/jones-food)
+- [:bomb:*Burt Jones Supported The War In Iran Even As The War Led To Increased Costs In Georgia*](https://research-books.com/en/GA-Gov/burt-jones/jones-iran-war)
 - [:x:*Jones Won't Defend Georgians’ Jobs Or Social Security From Trump*](https://research-books.com/en/GA-Gov/burt-jones/jones-doge)
 - [:mechanic:*Jones Opposed Protecting Georgia’s Clean Energy Jobs*](https://research-books.com/en/GA-Gov/burt-jones/jones-clean-energy)
 - [:woman:*Jones Was An Anti-Abortion Extremist*](https://research-books.com/en/GA-Gov/burt-jones/jones-abortion)
