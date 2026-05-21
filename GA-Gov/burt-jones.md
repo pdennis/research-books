@@ -2,7 +2,7 @@
 title: Burt Jones
 description: 
 published: true
-date: 2026-05-21T22:02:46.159Z
+date: 2026-05-21T22:05:48.689Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:16:25.941Z
@@ -98,18 +98,18 @@ Burt Jones supported federal legislation that stripped health care from hundreds
 
 ## Burt Jones' Policies Have Hurt Everyday People
 
-- [:hospital:*Jones Supported Efforts To Cut Medicaid And Threaten Georgians’ Access To Health Care*](https://research-books.com/en/GA-Gov/burt-jones/jones-medicaid)
-- [:older_man:*Jones Supported Medicare Cuts*](https://research-books.com/en/GA-Gov/burt-jones/jones-medicare)
-- [:shopping_cart:*Jones Backed Trump's Tariffs, Endangering Georgia’s Economy*](https://research-books.com/en/GA-Gov/burt-jones/jones-tariffs)
-- [:apple:*Jones Supported Cutting SNAP Benefits From Georgia Families*](https://research-books.com/en/GA-Gov/burt-jones/jones-food)
-- [:bomb:*Burt Jones Supported The War In Iran Even As The War Led To Increased Costs In Georgia*](https://research-books.com/en/GA-Gov/burt-jones/jones-iran-war)
-- [:x:*Jones Won't Defend Georgians’ Jobs Or Social Security From Trump*](https://research-books.com/en/GA-Gov/burt-jones/jones-doge)
-- [:mechanic:*Jones Opposed Protecting Georgia’s Clean Energy Jobs*](https://research-books.com/en/GA-Gov/burt-jones/jones-clean-energy)
-- [:woman:*Jones Was An Anti-Abortion Extremist*](https://research-books.com/en/GA-Gov/burt-jones/jones-abortion)
+- [:hospital: **Burt Jones Supported Efforts To Cut Medicaid And Threaten Georgians’ Access To Health Care**](https://research-books.com/en/GA-Gov/burt-jones/jones-medicaid)
+- [:older_man: **Burt Jones Supported Medicare Cuts**](https://research-books.com/en/GA-Gov/burt-jones/jones-medicare)
+- [:shopping_cart: **Burt Jones Backed Trump's Tariffs, Endangering Georgia’s Economy**](https://research-books.com/en/GA-Gov/burt-jones/jones-tariffs)
+- [:apple: **Burt Jones Supported Cutting SNAP Benefits From Georgia Families**](https://research-books.com/en/GA-Gov/burt-jones/jones-food)
+- [:bomb: **Burt Jones Supported The War In Iran Even As The War Led To Increased Costs In Georgia**](https://research-books.com/en/GA-Gov/burt-jones/jones-iran-war)
+- [:x: **Burt Jones Won't Defend Georgians’ Jobs Or Social Security From Trump**](https://research-books.com/en/GA-Gov/burt-jones/jones-doge)
+- [:mechanic: **Burt Jones Opposed Protecting Georgia’s Clean Energy Jobs**](https://research-books.com/en/GA-Gov/burt-jones/jones-clean-energy)
+- [:woman: **Burt Jones Was An Anti-Abortion Extremist**](https://research-books.com/en/GA-Gov/burt-jones/jones-abortion)
 {.links-list}
 
 ## Burt Jones Used His Power To Benefit The Powerful And Himself
 
-- [:money_with_wings:*Jones Used His Power And Wealth To Benefit Himself And His Family*](https://research-books.com/en/GA-Gov/burt-jones/jones-power-wealth)
-- [:sos:*Jones Propagated The Big Lie And Served As A Fake Elector*](https://research-books.com/en/GA-Gov/burt-jones/jones-biglie)
+- [:money_with_wings: **Burt Jones Used His Power And Wealth To Benefit Himself And His Family**](https://research-books.com/en/GA-Gov/burt-jones/jones-power-wealth)
+- [:sos: **Burt Jones Propagated The Big Lie And Served As A Fake Elector**](https://research-books.com/en/GA-Gov/burt-jones/jones-biglie)
 {.links-list}
