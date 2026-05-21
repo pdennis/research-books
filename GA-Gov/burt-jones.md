@@ -2,7 +2,7 @@
 title: Burt Jones
 description: 
 published: true
-date: 2026-05-21T22:02:37.317Z
+date: 2026-05-21T22:02:46.159Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:16:25.941Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against Burt Jones
 
-Burt Jones supported federal legislation that stripped health care from hundreds of thousands of Georgians, set up future cuts to Medicare, cut SNAP benefits, and rescinded tax credits meant to support clean energy jobs and projects in Georgia. Jones praised Trump’s “One Big Beautiful Bill,” and opposed Medicaid expansion. He also lauded Trump’s “Department of Government Efficiency,” even as its cuts affected thousands of Georgia federal workers and those reliant on Social Security. Jones praised Trump’s tariffs as they crushed Georgia’s economy, which was 7^th^ in the nation for net exports, ignoring the [stock market crashing](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) and increasing food prices. Jones also supported Trump's war with Iran even as it drove up gas and fertilizier prices across Georgia. Jones supported Georgia’s 2019 abortion ban and attended events with extreme anti-abortion organizations. As a state senator and lieutenant governor, Jones used his power to attempt to overturn the 2020 presidential election, and to advance legislation that would benefit his family’s business. In addition, Jones used his wealth to enrich his own campaigns.
+Burt Jones supported federal legislation that stripped health care from hundreds of thousands of Georgians, set up future cuts to Medicare, cut SNAP benefits, and rescinded tax credits meant to support clean energy jobs and projects in Georgia. Jones praised Trump’s “One Big Beautiful Bill,” and opposed Medicaid expansion. He also lauded Trump’s “Department of Government Efficiency,” even as its cuts affected thousands of Georgia federal workers and those reliant on Social Security. Jones praised Trump’s tariffs as they crushed Georgia’s economy, which was 7^th^ in the nation for net exports, ignoring the [stock market crashing](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) and increasing food prices. Jones also supported Trump's war with Iran even as it drove up gas and fertilizer prices across Georgia. Jones supported Georgia’s 2019 abortion ban and attended events with extreme anti-abortion organizations. As a state senator and lieutenant governor, Jones used his power to attempt to overturn the 2020 presidential election, and to advance legislation that would benefit his family’s business. In addition, Jones used his wealth to enrich his own campaigns.
 
 ### Burt Jones Supported Devastating Health Care Cuts
 
