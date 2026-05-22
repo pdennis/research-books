@@ -2,23 +2,13 @@
 title: David Schweikert
 description: 
 published: true
-date: 2026-05-22T20:03:48.598Z
+date: 2026-05-22T20:17:19.172Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:01:35.784Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
 
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against David Schweikert
 
