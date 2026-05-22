@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-05-22T21:27:45.434Z
+date: 2026-05-22T21:31:05.445Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -70,6 +70,19 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 -   Tiffany previously [backed](https://www.jsonline.com/story/news/politics/2025/10/07/tiffany-erases-hot-button-issues-like-abortion-from-website-bice/86438816007/) a six-week abortion ban without exceptions. Tiffany [supported](https://www.wpr.org/health/rep-tom-tiffany-signals-support-20-week-federal-abortion-ban) anti-abortion pregnancy centers that dissuaded women from accessing abortion care.
 
 **Message:** Tom Tiffany threatened the reproductive freedoms of Wisconsinites.
+
+
+### Tom Tiffany Supported The War In Iran As The War Led To Increased Costs In Wisconsin
+
+- Tom Tiffany [supported](https://x.com/RepTiffany/status/2027752425235329308) Trump’s [war](https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html) with Iran and later admitted that rising gas prices during the war caused “[a bit of a slump](https://soundcloud.com/abpac/tom-tiffany-john-solomon/s-9gTb4IziICZ?si=54a3df6801614[…]_source=clipboard&utm_medium=text&utm_campaign=social_sharing)” in his gubernatorial polling. When confronted about higher [gas](https://gasprices.aaa.com/?state=WI#state-metro) prices and growing frustration with Trump, Tiffany dodged blaming Trump and said you would have to ask “[the man on the street](https://youtu.be/jv4bt_OARyw)” why people were upset. Despite acknowledging those [concerns](https://civicmedia.us/news/2026/05/16/tom-tiffany-says-u-s-must-end-war-with-iran-just-hours-before-voting-to-continue-operations), Tiffany later [voted against](https://clerk.house.gov/Votes/2026170) a resolution directing the president to end U.S. military involvement in Iran without congressional authorization.
+
+- Trump’s war with Iran triggered one of the largest gas price increases in the country for Wisconsinites, with prices rising more than 68 percent after the conflict began. Experts also warned prices could continue rising through the summer and potentially reach record highs before Labor Day. 
+
+- As Wisconsin families faced rising gas, grocery, and fertilizer costs during the Iran war, Tiffany dismissed “affordability” concerns as a “buzzword.” Experts warned the Iran war and rising fuel and fertilizer costs could increase grocery and beef prices across Wisconsin, making everyday costs even less affordable for Wisconsin families. 
+
+- Wisconsin farmers and milk haulers also warned the Iran war drove up fuel and fertilizer costs and increased financial pressure across the state. Record diesel prices and rising fertilizer costs threatened farmers’ bottom lines during planting season.
+
+**Message:**  Tom Tiffany backed Trump’s war with Iran even as it drove up gas and fertilizer prices across Wisconsin and squeezed Wisconsin farmers and families.
 
 ### Tom Tiffany Voted To Release The Epstein Files After 11 Months, Only Because Trump Finally Approved Of The Release
 
