@@ -2,7 +2,7 @@
 title: David Schweikert
 description: 
 published: true
-date: 2026-05-22T20:17:19.172Z
+date: 2026-05-22T20:24:17.008Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:01:35.784Z
@@ -50,7 +50,7 @@ David Schweikert is unfit to represent Arizona. He voted to kick more than 342,0
 ### Schweikert Supported Trump's War In Iran Despite It Increasing Gas Prices In Arizona
 
 - In 2026, Schweikert said it [“was the right vote”](https://cronkitenews.azpbs.org/2026/03/05/trump-iran-war-power-arizona-biggs-schweikert/) for the U.S. House to reject a resolution ending Trump’s war in Iran, even though Schweikert claimed to support the War Powers Resolution, which stated [“the power to declare war rests exclusively with Congress, not the Executive branch.”](https://cronkitenews.azpbs.org/2026/03/05/trump-iran-war-power-arizona-biggs-schweikert/) 
-- As of May 22, average gas prices in Arizona had risen above the national average to [more than $4.80 per gallon,](https://gasprices.aaa.com/?state=AZ) which was a [more than 46 percent increase](https://www.americanprogress.org/article/the-trump-administrations-tariffs-and-iran-war-will-cause-americans-to-face-higher-prices-this-summer/) from before the war started. Arizona workers including [farmers](https://www.azcentral.com/story/grocery/shopping/2026/05/04/diesel-prices-impacting-arizona-farmers/89822735007/) and [rideshare drivers](https://www.fox10phoenix.com/news/arizona-rideshare-drivers-squeezed-gas-averages-remain-high) reported struggling to make ends meet as fuel costs continued to make up a larger share of their operational costs.
+- As of May 22, average gas prices in Arizona had risen above the national average to [more than $4.80 per gallon](https://gasprices.aaa.com/?state=AZ), a [more than 46 percent increase](https://www.americanprogress.org/article/the-trump-administrations-tariffs-and-iran-war-will-cause-americans-to-face-higher-prices-this-summer/) since the war started. Arizona workers, including [farmers](https://www.azcentral.com/story/grocery/shopping/2026/05/04/diesel-prices-impacting-arizona-farmers/89822735007/) and [rideshare drivers](https://www.fox10phoenix.com/news/arizona-rideshare-drivers-squeezed-gas-averages-remain-high), reported struggling to make ends meet as fuel costs continued to make up a larger share of their operational costs. 
 
 **Message:** Schweikert backed Trump's war in Iran even as it drove up costs and harmed Arizona workers. 
 
