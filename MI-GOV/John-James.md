@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-05-22T22:32:46.531Z
+date: 2026-05-22T22:33:17.148Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -103,7 +103,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 ### John James Supported The War In Iran As The War Led To Increased Costs In Michigan
 
-- John James [supported](https://www.mlive.com/news/us-world/2026/02/michigan-lawmakers-react-to-us-israel-strikes-on-iran.html?outputType=amp) Trump’s war with [Iran](https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html) and [repeatedly](https://x.com/JohnJamesMI/status/2029597453582749760) praised Trump’s military actions against Iran. James defended the U.S. air strikes on Iran, declared “[America’s worth fighting for](https://x.com/JohnJamesMI/status/2027779790539800897),” and later [admitted](https://www.youtube.com/watch?v=6EEy5qI-_vE) that gas prices above $4 per gallon “[hurts everybody around the state, around the country](https://youtu.be/6EEy5qI-_vE).” Despite acknowledging those concerns, James doubled down on his support for Trump’s war with Iran and later voted against resolutions directing the president to end U.S. military involvement in Iran without congressional authorization.
+- John James [supported](https://www.mlive.com/news/us-world/2026/02/michigan-lawmakers-react-to-us-israel-strikes-on-iran.html?outputType=amp) Trump’s war with [Iran](https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html) and [repeatedly](https://x.com/JohnJamesMI/status/2029597453582749760) praised Trump’s military actions against Iran. James defended the U.S. air strikes on Iran, declared “[America’s worth fighting for](https://x.com/JohnJamesMI/status/2027779790539800897),” and later [admitted](https://www.youtube.com/watch?v=6EEy5qI-_vE) that gas prices above $4 per gallon “[hurts everybody around the state, around the country](https://youtu.be/6EEy5qI-_vE).” Despite acknowledging those concerns, James doubled down on his support for Trump’s war with Iran and later [voted](https://clerk.house.gov/evs/2026/roll085.xml) [against](https://clerk.house.gov/Votes/2026170) resolutions directing the president to end U.S. military involvement in Iran without congressional authorization.
 
 - Trump’s war with Iran triggered an increase in gas prices for Michiganders, with prices rising more than 61 percent after the conflict started. The war also drove up fuel and fertilizer costs for Michigan farmers, increasing financial pressure during planting season and threatening farm profitability.
 
