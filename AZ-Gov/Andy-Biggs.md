@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-05-22T20:27:20.548Z
+date: 2026-05-22T20:35:58.421Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -41,6 +41,14 @@ In January 2026, Biggs [voted](http://clerk.house.gov/evs/2026/roll011.xml) agai
 -   In 2025, Biggs [voted](http://clerk.house.gov/evs/2025/roll190.xml) for Trump's "One Big Beautiful Bill," which was made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Biggs [touted](https://biggs.house.gov/media/press-releases/congressman-biggs-issues-statement-houses-passage-president-trumps-big#:~:text=Congressman%20Andy%20Biggs-,Congressman%20Biggs%20Issues%20Statement%20on%20House's%20Passage%20of%20President%20Trump's,to%20Medicaid%20and%20SNAP%20benefits) voting for the SNAP cuts and previously called SNAP a [“highly abused welfare program.”](https://x.com/RepAndyBiggsAZ/status/1787868804921360602) In Arizona, more than [294,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
 
 **Message:** Biggs voted to make food more expensive for Arizonans.
+
+### Biggs Supported Trump's War In Iran Despite It Increasing Gas Prices In Arizona
+
+- In 2026, Biggs [opposed the U.S. House resolution](https://cronkitenews.azpbs.org/2026/03/05/trump-iran-war-power-arizona-biggs-schweikert/) to end the war in Iran, arguing Trump had the authority under Article II and the War Powers Act of 1973. Biggs also claimed Trump’s strikes against Iran were [“limited and strategic,”](https://cronkitenews.azpbs.org/2026/03/05/trump-iran-war-power-arizona-biggs-schweikert/) and therefore did [“not constitute open-ended war.”](https://cronkitenews.azpbs.org/2026/03/05/trump-iran-war-power-arizona-biggs-schweikert/)
+- This was in contrast to Biggs' work during Trump’s first term and Biden’s presidency to limit the power of presidents to take military action without congressional approval. Biggs claimed to agree with the framers of the Constitution, who he said [“were committed to ensuring that Congress be at the heart of all decision-making related to our country going to war.”](https://cronkitenews.azpbs.org/2026/03/05/trump-iran-war-power-arizona-biggs-schweikert/)
+- As of May 22, average gas prices in Arizona had risen above the national average to [more than $4.80 per gallon](https://gasprices.aaa.com/?state=AZ), a [more than 46 percent increase](https://www.americanprogress.org/article/the-trump-administrations-tariffs-and-iran-war-will-cause-americans-to-face-higher-prices-this-summer/) since the war started. Arizona workers, including [farmers](https://www.azcentral.com/story/grocery/shopping/2026/05/04/diesel-prices-impacting-arizona-farmers/89822735007/) and [rideshare drivers](https://www.fox10phoenix.com/news/arizona-rideshare-drivers-squeezed-gas-averages-remain-high), reported struggling to make ends meet as fuel costs continued to make up a larger share of their operational costs.
+
+**Message:** Biggs backed Trump's war in Iran even as it drove up costs and harmed Arizona workers.
 
 ### **BIGGS STOOD BY WHILE TRUMP ATTACKED SOCIAL SECURITY AND FIRED HARD-WORKING ARIZONANS**
 
@@ -105,22 +113,23 @@ In January 2026, Biggs [voted](http://clerk.house.gov/evs/2026/roll011.xml) agai
 
 ## Andy Biggs' Policies Have Hurt Everyday People
 
--   [:hospital: Biggs Supported Efforts To Cut Medicaid And Threaten Arizonans' Access To Health Care](/en/AZ-Gov/Andy-Biggs/biggs-medicaid)
--   [:older_man: Biggs Voted For Medicare Cuts](/en/AZ-Gov/Andy-Biggs/biggs-medicare)
--   [:shopping_cart: Biggs Backed Trump's Tariffs, Endangering Arizona's Economy](/en/AZ-Gov/Andy-Biggs/biggs-tariffs)
--   [:apple: Biggs Cast Votes To Cut SNAP Benefits From Arizona Families](/en/AZ-Gov/Andy-Biggs/biggs-snap)
--   [:x: Biggs Won't Defend Arizonans’ Jobs Or Social Security From Trump](/en/AZ-Gov/Andy-Biggs/biggs-doge)
--   [:mechanic: Biggs Voted Against Protecting Arizonans' Clean Energy Jobs](/en/AZ-Gov/Andy-Biggs/biggs-cleanenergy)
--   [:corn: Biggs Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15](/en/AZ-Gov/Andy-Biggs/Biggs-E15)
--   [:woman: Biggs Was An Anti-Abortion Extremist](/en/AZ-Gov/Andy-Biggs/biggs-abortion)
+-   [:hospital: ***Biggs Supported Efforts To Cut Medicaid And Threaten Arizonans' Access To Health Care***](/en/AZ-Gov/Andy-Biggs/biggs-medicaid)
+-   [:older_man: ***Biggs Voted For Medicare Cuts***](/en/AZ-Gov/Andy-Biggs/biggs-medicare)
+-   [:shopping_cart: ***Biggs Backed Trump's Tariffs, Endangering Arizona's Economy***](/en/AZ-Gov/Andy-Biggs/biggs-tariffs)
+-   [:apple: ***Biggs Cast Votes To Cut SNAP Benefits From Arizona Families***](/en/AZ-Gov/Andy-Biggs/biggs-snap)
+- [:fuelpump: ***Biggs Supported Trump's War In Iran Despite It Increasing Gas Prices In Arizona***](/en/AZ-Gov/Andy-Biggs/biggs-iran-war)
+-   [:x: ***Biggs Won't Defend Arizonans’ Jobs Or Social Security From Trump***](/en/AZ-Gov/Andy-Biggs/biggs-doge)
+-   [:mechanic: ***Biggs Voted Against Protecting Arizonans' Clean Energy Jobs***](/en/AZ-Gov/Andy-Biggs/biggs-cleanenergy)
+-   [:corn: ***Biggs Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15***](/en/AZ-Gov/Andy-Biggs/Biggs-E15)
+-   [:woman: ***Biggs Was An Anti-Abortion Extremist***](/en/AZ-Gov/Andy-Biggs/biggs-abortion)
 {.links-list}
 
 ## Andy Biggs Used His Power To Benefit The Powerful
--   [:hammer: Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA](/en/AZ-Gov/Andy-Biggs/biggs-osha)
--   [:eyes: Biggs Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved](/en/AZ-Gov/Andy-Biggs/biggs-epstein)
-- [:sos: Biggs Helped Plan The January 6th Insurrection And Had Ties To Far-Right Extremist Groups](/en/AZ-Gov/Andy-Biggs/biggs-extremism)
+-   [:hammer: ***Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA***](/en/AZ-Gov/Andy-Biggs/biggs-osha)
+-   [:eyes: ***Biggs Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved***](/en/AZ-Gov/Andy-Biggs/biggs-epstein)
+- [:sos: ***Biggs Helped Plan The January 6th Insurrection And Had Ties To Far-Right Extremist Groups***](/en/AZ-Gov/Andy-Biggs/biggs-extremism)
 {.links-list}
 
 # Key Votes
--   [:white_check_mark: Biggs' Key Votes As A Member Of Congress](/en/AZ-Gov/Andy-Biggs/biggs-votes)
+-   [:white_check_mark: ***Biggs' Key Votes As A Member Of Congress***](/en/AZ-Gov/Andy-Biggs/biggs-votes)
 {.links-list}
