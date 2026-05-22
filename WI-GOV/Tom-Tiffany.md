@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-05-18T20:57:34.568Z
+date: 2026-05-22T21:27:14.717Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -109,6 +109,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 - [:mechanic: **Tiffany Voted Against Protecting Wisconsin’s Clean Energy Jobs**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-CleanEnergy)
 - [:corn: **Tiffany Failed Wisconsin Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-E15)
 - [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Abortion)
+- [:fuelpump: **Supported The War In Iran As The War Led To Increased Costs In Wisconsin**](https://research-books.com/WI-GOV/Tom-Tiffany/tiffany-iran)
 {.links-list}
 
 ## Tom Tiffany Used His Power To Benefit The Powerful 
