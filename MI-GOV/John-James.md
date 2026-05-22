@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-05-22T22:29:37.472Z
+date: 2026-05-22T22:30:23.166Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -101,6 +101,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 **Message:** John James repeatedly faced ethics complaints for abusing his office and hiding financial dealings.
 
 
+### John James Supported The War In Iran As The War Led To Increased Costs In Michigan
 
 # Issue Back-Ups
 
