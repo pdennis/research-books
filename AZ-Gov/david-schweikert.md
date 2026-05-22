@@ -2,7 +2,7 @@
 title: David Schweikert
 description: 
 published: true
-date: 2026-02-18T18:00:44.852Z
+date: 2026-05-22T20:03:48.598Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:01:35.784Z
@@ -57,6 +57,13 @@ David Schweikert is unfit to represent Arizona. He voted to kick more than 342,0
 
 **Message:** Schweikert voted to strip SNAP benefits from nearly 300,000 Arizonans who relied on them.
 
+### Schweikert Supported Trump's War In Iran Despite It Increasing Gas Prices In Arizona
+
+- In 2026, Schweikert said it [“was the right vote”](https://cronkitenews.azpbs.org/2026/03/05/trump-iran-war-power-arizona-biggs-schweikert/) for the U.S. House to reject a resolution ending Trump’s war in Iran, even though Schweikert claimed to support the War Powers Resolution, which stated [“the power to declare war rests exclusively with Congress, not the Executive branch.”](https://cronkitenews.azpbs.org/2026/03/05/trump-iran-war-power-arizona-biggs-schweikert/) 
+- As of May 22, average gas prices in Arizona had risen above the national average to [more than $4.80 per gallon,](https://gasprices.aaa.com/?state=AZ) which was a [more than 46 percent increase](https://www.americanprogress.org/article/the-trump-administrations-tariffs-and-iran-war-will-cause-americans-to-face-higher-prices-this-summer/) from before the war started. Arizona workers including [farmers](https://www.azcentral.com/story/grocery/shopping/2026/05/04/diesel-prices-impacting-arizona-farmers/89822735007/) and [rideshare drivers](https://www.fox10phoenix.com/news/arizona-rideshare-drivers-squeezed-gas-averages-remain-high) reported struggling to make ends meet as fuel costs continued to make up a larger share of their operational costs.
+
+**Message:** Schweikert backed Trump's war in Iran even as it drove up costs and harmed Arizona workers. 
+
 ### Schweikert stood by while trump attacked social security and fired hard-working Arizonans
 
 -   Schweikert said he was [“genuinely impressed”](https://www.businessinsider.com/doge-capitol-hill-musk-ramaswamy-visit-republicans-2024-12) with the architects of the “Department of Government Efficiency” and said it was doing some [“great stuff”](https://www.youtube.com/watch?v=EuG9_BzYm9M) as DOGE-driven cuts and downsizing were [affecting](https://www.axios.com/2025/04/08/social-security-seniors-drive) the [federal government’s](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) [ability](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/) to [deliver services](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) to seniors. Schweikert [voted for](http://clerk.house.gov/evs/2017/roll555.xml) raising the Social Security retirement age to 69 and, in 2023, warned it was the [“end of your republic”](https://americanjournalnews.com/arizona-dave-schweikert-house-representatives-social-security-medicare-funding-cuts-republican-study-committee/) if Congress did not cut major programs benefiting seniors. More than [1.53 million Arizonans](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/az.pdf) relied on Social Security benefits.
@@ -106,21 +113,23 @@ David Schweikert is unfit to represent Arizona. He voted to kick more than 342,0
 ## David Schweikert’s Policies Have Hurt Everyday People
 
 
--   [:hospital: Schweikert Supported Efforts To Cut Medicaid And Threaten Arizona's Access To Health Care](/en/AZ-Gov/david-schweikert/schweikert-medicaid)
--   [:older_man: Schweikert Voted For Medicare Cuts](/en/AZ-Gov/david-schweikert/schweikert-medicare)
--   [:pill: Schweikert Repeatedly Voted Against Allowing Medicare To Negotiate Prescription Drug Prices](/en/AZ-Gov/david-schweikert/schweikert-drug-prices)
--   [:shopping_cart: Schweikert Backed Trump’s Tariffs, Endangering Arizona’s Economy](/en/AZ-Gov/david-schweikert/schweikert-tariffs)
--   [:apple: Schweikert Cast Votes To Cut SNAP Benefits From Arizona Families](/en/AZ-Gov/david-schweikert/schweikert-snap)
--   [:x: Schweikert Won’t Protect Arizona Jobs Or Social Security From Trump](/en/AZ-Gov/david-schweikert/schweikert-doge)
--   [:mechanic: Schweikert Voted Against Protecting Arizona’s Clean Energy Jobs](/en/AZ-Gov/david-schweikert/schweikert-clean-energy)
--   [:corn: Schweikert Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15](/AZ-Gov/david-schweikert/schweikert-E15)
--   [:woman: Schweikert Was An Anti-Abortion Extremist](/en/AZ-Gov/david-schweikert/schweikert-abortion)
+-   [:hospital: ***Schweikert Supported Efforts To Cut Medicaid And Threaten Arizona's Access To Health Care***](/en/AZ-Gov/david-schweikert/schweikert-medicaid)
+-   [:older_man: ***Schweikert Voted For Medicare Cuts***](/en/AZ-Gov/david-schweikert/schweikert-medicare)
+-   [:pill: ***Schweikert Repeatedly Voted Against Allowing Medicare To Negotiate Prescription Drug Prices***](/en/AZ-Gov/david-schweikert/schweikert-drug-prices)
+-   [:shopping_cart: ***Schweikert Backed Trump’s Tariffs, Endangering Arizona’s Economy***](/en/AZ-Gov/david-schweikert/schweikert-tariffs)
+-   [:apple: ***Schweikert Cast Votes To Cut SNAP Benefits From Arizona Families***](/en/AZ-Gov/david-schweikert/schweikert-snap)
+- [:fuelpump: ***Schweikert Supported Trump's War In Iran Despite It Increasing Gas Prices In Arizona***](/en/AZ-Gov/david-schweikert/schweikert-iran-war)
+-   [:x: ***Schweikert Won’t Protect Arizona Jobs Or Social Security From Trump***](/en/AZ-Gov/david-schweikert/schweikert-doge)
+-   [:mechanic: ***Schweikert Voted Against Protecting Arizona’s Clean Energy Jobs***](/en/AZ-Gov/david-schweikert/schweikert-clean-energy)
+-   [:corn: ***Schweikert Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15***](/AZ-Gov/david-schweikert/schweikert-E15)
+-   [:woman: ***Schweikert Was An Anti-Abortion Extremist***](/en/AZ-Gov/david-schweikert/schweikert-abortion)
 {.links-list}
 
 ## David Schweikert Used His Power To Benefit The Powerful And Himself
--   [:eyes: Schweikert Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved](/en/AZ-Gov/david-schweikert/schweikert-epstein)
--   [:moneybag: Schweikert Embodied The Swamp By Violating House Ethics And Campaign Finance Rules](/en/AZ-Gov/david-schweikert/schweikert-ethics)
+-   [:eyes: ***Schweikert Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved***](/en/AZ-Gov/david-schweikert/schweikert-epstein)
+-   [:moneybag: ***Schweikert Embodied The Swamp By Violating House Ethics And Campaign Finance Rules***](/en/AZ-Gov/david-schweikert/schweikert-ethics)
 {.links-list}
+
 # Key Votes
--   [:white_check_mark: Schweikert's Votes As A Member Of Congress](/en/AZ-Gov/david-schweikert/schweikert-key-votes)
+-   [:white_check_mark: ***Schweikert's Votes As A Member Of Congress***](/en/AZ-Gov/david-schweikert/schweikert-key-votes)
 {.links-list}
