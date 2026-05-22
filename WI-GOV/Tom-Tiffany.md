@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-05-22T21:27:14.717Z
+date: 2026-05-22T21:27:45.434Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -71,7 +71,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 
 **Message:** Tom Tiffany threatened the reproductive freedoms of Wisconsinites.
 
-### Tom Tiffany Voted To Release The Epstein Files aFTER 11 mONTHS, Only Because Trump Finally Approved Of The Release
+### Tom Tiffany Voted To Release The Epstein Files After 11 Months, Only Because Trump Finally Approved Of The Release
 
 -   It took Tiffany 11 months to [vote](http://clerk.house.gov/evs/2025/roll289.xml) for the release of the Epstein files, only after [Trump](https://www.npr.org/2025/11/16/nx-s1-5610552/trump-house-republicans-epstein-files) told House Republicans he approved of the release. 
 -   Tiffany [touted](https://x.com/reptiffany/status/1990872010461716537?s=46&t=Jw8V2k0fBUcuZCZ5U4_46A) his vote for the release of the Epstein files, blaming Democrats for the delay and claiming he supported transparency, but he never signed the [discharge petition](https://clerk.house.gov/DischargePetition/2025090209), never [co-sponsored the legislation](https://www.congress.gov/bill/119th-congress/house-resolution/581/cosponsors?pageSort=alphaByParty), and previously voted against the release of the files. In [July](http://clerk.house.gov/evs/2025/roll194.xml) and [September 2025](https://clerk.house.gov/evs/2025/roll222.xml), Tom Tiffany cast the deciding votes against [releasing the Epstein files](https://www.axios.com/2025/07/15/epstein-house-democrats-republicans-trump-doj), protecting the accused pedophiles named within them. 
