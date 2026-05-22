@@ -2,7 +2,7 @@
 title: Randy Feenstra
 description: 
 published: true
-date: 2026-05-22T22:20:05.073Z
+date: 2026-05-22T22:20:25.153Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:43:18.333Z
@@ -122,7 +122,7 @@ Randy Feenstra built his career claiming to fight for Iowan families but voted t
 - [:mechanic: | **Randy Feenstra Voted Against Protecting Iowa’s Clean Energy Jobs**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-cleanenergy)
 - [:corn: | **Randy Feenstra Failed Farmers And Failed To Pass Year-Round E15 In Congress**](/IA-Gov/randy-feenstra/feenstra-e15)
 - [:woman: | **Randy Feenstra Was An Anti-Abortion Extremist**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-abortion)
-- [:fuelpump: **Randy Feenstra Supported The War In Iran As The War Led To Increased Costs In Wisconsin**](https://research-books.com/WI-GOV/Tom-Tiffany/tiffany-iran)
+- [:fuelpump: **Randy Feenstra Supported The War In Iran As The War Led To Increased Costs In Wisconsin**](https://research-books.com/IA-Gov/randy-feenstra/feenstra-iran)
 {.links-list}
 
 ## Randy Feenstra Used His Power To Benefit The Powerful
