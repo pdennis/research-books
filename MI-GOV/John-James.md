@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-05-22T21:49:03.522Z
+date: 2026-05-22T22:29:37.472Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -100,6 +100,8 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 **Message:** John James repeatedly faced ethics complaints for abusing his office and hiding financial dealings.
 
+
+
 # Issue Back-Ups
 
 ## John James' Policies Have Hurt Everyday People
@@ -112,6 +114,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 - [:mechanic: | **John James Voted Against Protecting Michigan’s Clean Energy Jobs**](https://research-books.com/en/MI-GOV/John-James/James-cleanenergy)
 - [:corn: | **John James Failed Michigan Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/MI-GOV/John-James/James-E15)
 - [:woman: | **John James Was An Anti-Abortion Extremist**](https://research-books.com/en/MI-GOV/John-James/James-abortion)
+- [:fuelpump: **John James Supported The War In Iran As The War Led To Increased Costs In Michigan**](https://research-books.com/MI-GOV/John-James/james-iran )
 {.links-list}
 
 ## John James Used His Power To Benefit The Powerful And Himself
