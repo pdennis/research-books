@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-05-22T22:30:23.166Z
+date: 2026-05-22T22:31:16.837Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -102,6 +102,17 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 
 ### John James Supported The War In Iran As The War Led To Increased Costs In Michigan
+
+- John James supported Trump’s war with Iran and repeatedly praised Trump’s military actions against Iran. James defended the U.S. air strikes on Iran, declared “America’s worth fighting for,” and later admitted that gas prices above $4 per gallon “hurts everybody around the state, around the country.” Despite acknowledging those concerns, James doubled down on his support for Trump’s war with Iran and later voted against resolutions directing the president to end U.S. military involvement in Iran without congressional authorization.
+
+- Trump’s war with Iran triggered an increase in gas prices for Michiganders, with prices rising more than 61 percent after the conflict started. The war also drove up fuel and fertilizer costs for Michigan farmers, increasing financial pressure during planting season and threatening farm profitability.
+
+- Experts also warned the Iran war could increase grocery prices, reduce crop yields, and further strain the food supply chain. Independent grocery store owners warned rising fuel surcharges and wholesale prices increased financial pressure during the Iran war.
+
+**Message:** John James backed Trump’s war with Iran even as it drove up gas and fertilizer prices across Michigan and squeezed Michigan farmers and families.
+
+
+
 
 # Issue Back-Ups
 
