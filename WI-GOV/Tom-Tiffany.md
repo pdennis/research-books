@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-05-22T21:33:10.673Z
+date: 2026-05-22T21:33:51.597Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -78,7 +78,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 
 - Trump’s war with Iran triggered one of the [largest](https://www.americanprogress.org/article/the-trump-administrations-tariffs-and-iran-war-will-cause-americans-to-face-higher-prices-this-summer/) gas price [increases](https://www.wpr.org/news/average-gas-price-wisconsin-more-than-4-per-gallon) in the country for Wisconsinites, with prices [rising](https://www.americanprogress.org/article/the-trump-administrations-tariffs-and-iran-war-will-cause-americans-to-face-higher-prices-this-summer/) more than 68 percent after the conflict began. Experts also warned prices could continue rising through the summer and potentially reach record [highs](https://www.jsonline.com/story/news/local/wisconsin/2026/05/20/why-wisconsin-gas-prices-arent-likely-to-fall-before-memorial-day/90175015007/) before Labor Day. 
 
-- As Wisconsin families faced rising [gas](https://www.wpr.org/news/average-gas-price-wisconsin-more-than-4-per-gallon), [grocery](https://www.wpr.org/news/average-gas-price-wisconsin-more-than-4-per-gallon), and [fertilizer](https://www.wpr.org/news/average-gas-price-wisconsin-more-than-4-per-gallon) costs during the Iran war, Tiffany dismissed “affordability” concerns as a “[buzzword](https://www.youtube.com/watch?v=7Ta9dgHr_LU).” Experts warned the Iran war and rising fuel and fertilizer costs could increase grocery and beef prices across Wisconsin, making everyday costs even less affordable for Wisconsin families. 
+- As Wisconsin families faced rising [gas](https://www.wpr.org/news/average-gas-price-wisconsin-more-than-4-per-gallon), [grocery](https://www.wpr.org/news/average-gas-price-wisconsin-more-than-4-per-gallon), and [fertilizer](https://www.wpr.org/news/average-gas-price-wisconsin-more-than-4-per-gallon) costs during the Iran war, Tiffany dismissed “affordability” concerns as a “[buzzword](https://www.youtube.com/watch?v=7Ta9dgHr_LU).” Experts [warned](https://www.wpr.org/agriculture/harvest-wisconsin-groceries-expensive-fuel-prices-climb) the Iran war and rising fuel and fertilizer costs could [increase](https://www.wpr.org/agriculture/harvest-wisconsin-groceries-expensive-fuel-prices-climb) grocery and beef prices across Wisconsin, making everyday costs even less affordable for Wisconsin families. 
 
 - Wisconsin farmers and milk haulers also warned the Iran war drove up fuel and fertilizer costs and increased financial pressure across the state. Record diesel prices and rising fertilizer costs threatened farmers’ bottom lines during planting season.
 
