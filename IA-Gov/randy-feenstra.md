@@ -2,7 +2,7 @@
 title: Randy Feenstra
 description: 
 published: true
-date: 2026-02-18T19:36:56.795Z
+date: 2026-05-22T21:49:39.402Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:43:18.333Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against Randy Feenstra
 
-Randy Feenstra built his career claiming to fight for Iowan families but voted to cut medical services and nutrition assistance while raising costs for Iowans. He voted to rip health insurance away from thousands of Iowans, supported massive cuts to Medicare, and backed the largest SNAP cuts in history. Feenstra cast the deciding vote to protect Trump’s tariffs, which drove up grocery prices and hurt small businesses and farmers across Iowa. He stood by while Trump’s DOGE cuts shut down federal offices, reduced nonprofit funding, and threatened the livelihoods of federal workers and seniors who rely on Social Security services. Feenstra previously recognized the importance of biofuel credits for Iowa’s economy, yet he supported GOP plans to gut the Inflation Reduction Act’s clean-energy incentives and jeopardize Iowa jobs. Feenstra failed farmers and failed to pass year-round E15 in Congress, voting for a council instead of actually helping Iowa farmers. He advanced an extreme anti-abortion agenda, co-sponsored legislation establishing personhood at fertilization, and repeatedly voted against protecting abortion rights, contraception access, and out-of-state reproductive care. Feenstra initially voted against releasing the Epstein files and only supported their release once Trump approved it. He also promoted election denial claims and defended Trump after the January 6th insurrection.  
+Randy Feenstra built his career claiming to fight for Iowan families but voted to cut medical services and nutrition assistance while raising costs for Iowans. He voted to rip health insurance away from thousands of Iowans, supported massive cuts to Medicare, and backed the largest SNAP cuts in history. Feenstra cast the deciding vote to protect Trump’s tariffs, which drove up grocery prices and hurt small businesses and farmers across Iowa. He stood by while Trump’s DOGE cuts shut down federal offices, reduced nonprofit funding, and threatened the livelihoods of federal workers and seniors who rely on Social Security services. Feenstra previously recognized the importance of biofuel credits for Iowa’s economy, yet he supported GOP plans to gut the Inflation Reduction Act’s clean-energy incentives and jeopardize Iowa jobs. Feenstra failed farmers and failed to pass year-round E15 in Congress, voting for a council instead of actually helping Iowa farmers. He advanced an extreme anti-abortion agenda, co-sponsored legislation establishing personhood at fertilization, and repeatedly voted against protecting abortion rights, contraception access, and out-of-state reproductive care. Feenstra initially voted against releasing the Epstein files and only supported their release once Trump approved it. He also promoted election denial claims and defended Trump after the January 6th insurrection. Feenstra backed Trump’s war with Iran even as rising gas, grocery, fertilizer, and diesel costs squeezed Iowa families, farmers, and businesses across the state
  
 
 ### Feenstra Voted For Devastating Health Care Cuts
