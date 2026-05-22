@@ -2,7 +2,7 @@
 title: Randy Feenstra
 description: 
 published: true
-date: 2026-05-22T21:49:39.402Z
+date: 2026-05-22T22:12:35.636Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:43:18.333Z
@@ -102,6 +102,14 @@ Randy Feenstra built his career claiming to fight for Iowan families but voted t
 -   Randy Feenstra described January 6th protesters as a “[wonderful group](https://www.kcrg.com/2021/01/07/iowa-rep-feenstra-clarifies-description-of-protest-that-led-up-to-the-mob-attack-on-us-capitol/)” and later [opposed impeaching Trump](https://feenstra.house.gov/media/press-releases/rep-randy-feenstra-statement-todays-impeachment-vote) following the insurrection, claiming Trump actually had “committed to a peaceful transfer of power.”
 
 **Message:** Randy Feenstra undermined Iowa's elections.
+
+### Randy Feenstra Supported The War In Iran As The War Led To Increased Costs In Wisconsin
+
+- Randy Feenstra supported Trump’s war with Iran and later admitted that Iowans may have to “pay a little higher gas price temporarily” as families across the state continue struggling with rising costs and affordability pressures. Feenstra also acknowledged the war drove up fertilizer and fuel costs and warned the increased costs could be “catastrophic” for Iowa farmers. Despite those concerns, Feenstra voted against ending U.S. military involvement in Iran without congressional authorization.
+- Trump’s war with Iran triggered an increase in gas prices for Iowans, with prices rising more than 62 percent between before the conflict began on February 27th and May 18th, according to the Center for American Progress. The war also increased fuel and fertilizer costs for already struggling Iowa farmers facing falling crop prices. Iowa farmers warned rising fertilizer costs forced some producers to choose between taking on debt or risking smaller crop yields during planting season.
+- Experts warned the Iran war could make groceries more expensive for consumers and further strain the food supply chain, while Iowans said rising grocery and gas prices were already forcing families to cut back on spending. Economists warned rising fuel costs were already increasing grocery prices, while the U.S. Department of Agriculture more than doubled its 2026 food inflation forecast after the Iran war increased costs across the supply chain.
+
+**Message:** Randy Feenstra backed Trump’s war with Iran even as it drove up gas and fertilizer prices across Iowa and squeezed Iowa farmers and families.
 
 # Issue Back-Ups
 
