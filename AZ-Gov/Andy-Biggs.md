@@ -2,23 +2,12 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-04-10T17:48:56.211Z
+date: 2026-05-22T20:27:20.548Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
-
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Andy Biggs
 
