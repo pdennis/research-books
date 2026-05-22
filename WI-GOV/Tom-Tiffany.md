@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-05-22T21:33:51.597Z
+date: 2026-05-22T21:34:31.995Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -80,7 +80,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 
 - As Wisconsin families faced rising [gas](https://www.wpr.org/news/average-gas-price-wisconsin-more-than-4-per-gallon), [grocery](https://www.wpr.org/news/average-gas-price-wisconsin-more-than-4-per-gallon), and [fertilizer](https://www.wpr.org/news/average-gas-price-wisconsin-more-than-4-per-gallon) costs during the Iran war, Tiffany dismissed “affordability” concerns as a “[buzzword](https://www.youtube.com/watch?v=7Ta9dgHr_LU).” Experts [warned](https://www.wpr.org/agriculture/harvest-wisconsin-groceries-expensive-fuel-prices-climb) the Iran war and rising fuel and fertilizer costs could [increase](https://www.wpr.org/agriculture/harvest-wisconsin-groceries-expensive-fuel-prices-climb) grocery and beef prices across Wisconsin, making everyday costs even less affordable for Wisconsin families. 
 
-- Wisconsin farmers and milk haulers also warned the Iran war drove up fuel and fertilizer costs and increased financial pressure across the state. Record diesel prices and rising fertilizer costs threatened farmers’ bottom lines during planting season.
+- Wisconsin farmers and milk haulers also [warned](https://urbanmilwaukee.com/2026/04/03/diesel-price-spike-threatens-to-lift-wisconsin-grocery-bills/) the Iran war drove up fuel and fertilizer [costs](https://www.channel3000.com/news/wisconsin-farmers-face-rising-costs-as-iran-conflict-disrupts-fuel-fertilizer-markets/article_c1e9ef3d-5e00-45e1-afac-7c0589c3dfa0.html) and increased financial pressure across the state. Record diesel prices and rising fertilizer costs [threatened](https://www.wbay.com/2026/05/15/diesel-fertilizer-prices-strain-wisconsin-farmers-amid-iran-war/) farmers’ bottom lines during planting season.
 
 **Message:**  Tom Tiffany backed Trump’s war with Iran even as it drove up gas and fertilizer prices across Wisconsin and squeezed Wisconsin farmers and families.
 
