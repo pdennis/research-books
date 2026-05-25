@@ -2,7 +2,7 @@
 title: Jeff Crank (CO-05)
 description: 
 published: true
-date: 2026-05-25T18:38:38.561Z
+date: 2026-05-25T18:40:20.295Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T15:18:53.326Z
@@ -33,7 +33,7 @@ Crank was a life-long political insider who was out-of-touch with the needs of e
 
 ### Crank Backed Trump’s Tariffs even though they amounted to a large tax increase on coloradans
 
--   Crank claimed he was [“not a giant fan”](https://coloradonewsline.com/2024/12/28/jeff-crank-government-efficiency-congress/) of tariffs because of the cost increases they created, but has voted to protect them anyway. When asked for his opinion on Trump administration actions over the first few months of his presidency, including tariffs, Crank said he would give the president an [“A.”](https://www.youtube.com/watch?v=hsE0UWEpD10) He then [voted](http://clerk.house.gov/evs/2026/roll065.xml) six times to defend Trump’s tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs. Tariffs have raised costs on [Colorado small businesses](https://krdo.com/news/2026/02/25/local-coffee-shop-feel-sting-of-rising-costs-as-latest-global-tariff-takes-effect/) and the state Treasurer said they had cost Colorado businesses [$1.1 billion](https://www.cpr.org/2026/04/01/colorado-tariffs-business-struggle/) in 2025. They also amounted to a [$1,000 tax increase](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) on Americans.
+-   Crank claimed he was [“not a giant fan”](https://coloradonewsline.com/2024/12/28/jeff-crank-government-efficiency-congress/) of tariffs because of the cost increases they created, but has voted to protect them anyway. When asked for his opinion on Trump administration actions over the first few months of his presidency, including tariffs, Crank said he would give the president an [“A.”](https://www.youtube.com/watch?v=hsE0UWEpD10) He then [voted](http://clerk.house.gov/evs/2026/roll065.xml) six times to defend Trump’s tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs. Tariffs have raised costs on [Colorado small businesses](https://krdo.com/news/2026/02/25/local-coffee-shop-feel-sting-of-rising-costs-as-latest-global-tariff-takes-effect/) and the state Treasurer said they had cost Colorado businesses $1.1 billion in 2025. They also amounted to a [$1,000 tax increase](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) on Americans.
 
 **Message:** Crank was the deciding vote to make Coloradans pay higher prices. 
 
