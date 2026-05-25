@@ -2,7 +2,7 @@
 title: Jeff Crank (CO-05)
 description: 
 published: true
-date: 2026-05-25T18:34:13.004Z
+date: 2026-05-25T18:38:38.561Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T15:18:53.326Z
@@ -60,7 +60,16 @@ Crank was a life-long political insider who was out-of-touch with the needs of e
 # Issue Briefs
 
 ## Crank's Votes Hurt Everyday Coloradans
-
+- [:hospital: *Crank Voted To Take Health Coverage From Coloradans*](https://research-books.com/en/jeff-crank/health-care)
+- [:older_man: *Crank Voted For Medicare Cuts*](https://research-books.com/en/jeff-crank/medicare)
+- [:carrot: *Crank Voted To Take Food Assistance From Coloradans*](https://research-books.com/en/jeff-crank/snap)
+- [:shopping_cart: *Crank Voted To Protect Tariffs That Amounted To A Tax Increase On Coloradans*](https://research-books.com/en/jeff-crank/tariffs)
+- [:x: *Crank Supported An Agency That Hamstrung Social Security And Threatened Jobs In His District*](https://research-books.com/en/jeff-crank/doge)
+- [:woman: *Crank Opposed Protecting Coloradans' Reproductive Freedoms*](https://research-books.com/en/jeff-crank/choice)
+{.links-list}
 ## Crank Used His Power To Benefit The Powerful And Himself
-
+- [:eyes: Despite Calling For Their Release, It Took Crank 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/jeff-crank/epstein)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *Crank's Key Voted In Congress*](https://research-books.com/en/jeff-crank/votes)
+{.links-list}
