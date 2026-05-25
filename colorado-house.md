@@ -2,7 +2,7 @@
 title: Colorado House Races
 description: 
 published: true
-date: 2026-04-17T14:14:22.435Z
+date: 2026-05-25T18:59:05.427Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T17:29:01.808Z
@@ -10,6 +10,10 @@ dateCreated: 2025-05-22T17:29:01.808Z
 
 ## CO-04
 - [:elephant:***Lauren Boebert***](/lauren-boebert) Colorado Republican with a trail of scandals and self-dealing, who abandoned her CO-03 district after winning her election.
+{.links-list}
+
+## CO-05
+- [:elephant: ***Jeff Crank***](https://research-books.com/jeff-crank) Just another Republican political insider who has wanted this seat since 2006 and made life more expensive for Coloradans once he finally got it.
 {.links-list}
 
 ## CO-08
