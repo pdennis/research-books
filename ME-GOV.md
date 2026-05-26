@@ -2,7 +2,7 @@
 title: State Level Races In Maine
 description: 
 published: true
-date: 2026-05-26T19:49:46.550Z
+date: 2026-05-26T19:51:14.467Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:02:34.992Z
@@ -13,5 +13,5 @@ dateCreated: 2026-01-20T21:02:34.992Z
 
 - [:elephant: **Garrett Mason**](/en/ME-GOV/garrett-mason) Maine Republican who supported devastating health care cuts, supported stripping food assistance from families, and aligned himself with Trump’s agenda to roll back reproductive rights and public benefits for Mainers.
 
-- [:elephant: **Jonathan Bush**](/en/ME-GOV/jonathan-bush) Republican Jonathan Bush supported Trump’s agenda to roll back health care and public benefits for Mainers while downplaying domestic violence allegations and facing questions about his Maine residency.
+- [:elephant: **Jonathan Bush**](https://research-books.com/en/ME-GOV/Jonathan-Bush) Republican Jonathan Bush supported Trump’s agenda to roll back health care and public benefits for Mainers while downplaying domestic violence allegations and facing questions about his Maine residency.
 {.links-list}
