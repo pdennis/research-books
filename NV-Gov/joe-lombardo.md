@@ -2,7 +2,7 @@
 title: Joe Lombardo
 description: 
 published: true
-date: 2026-05-26T18:40:33.222Z
+date: 2026-05-26T19:32:12.417Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T19:03:34.764Z
@@ -69,7 +69,7 @@ This video is not for public use on a campaign, and is purely here as an example
 
 ### Lombardo Supported Trump’s Tariffs
 
--   In 2025, Lombardo [supported](https://www.youtube.com/watch?v=S9OcKVYPPq0) Trump’s tariffs without understanding the ["nuances"](https://youtu.be/fEeWJhEaH8I) of how they would affect Nevada, which doomed Nevadans to a trade war and [rising prices](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/). Tariffs are contributing to [higher](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/) food prices and posing risks to Nevada’s [retail and hospitality industries](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/). 
+-   In 2025, Lombardo [supported](https://www.youtube.com/watch?v=S9OcKVYPPq0) Trump’s tariffs without understanding the ["nuances"](https://youtu.be/umoNebwqC6I) of how they would affect Nevada, which doomed Nevadans to a trade war and [rising prices](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/). Tariffs are contributing to [higher](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/) food prices and posing risks to Nevada’s [retail and hospitality industries](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/). 
 -   Despite this, Lombardo said Nevadans needed to [“feel a little pain”](https://www.youtube.com/watch?v=S9OcKVYPPq0) to see long term benefits of Trump’s tariffs, even as the [U.S. stock market crashed](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s escalating global trade war.
 
 **Message:** Lombardo supported tariffs that made food more expensive and threatened jobs in Nevada’s top industries. 
