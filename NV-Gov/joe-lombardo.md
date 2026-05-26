@@ -2,7 +2,7 @@
 title: Joe Lombardo
 description: 
 published: true
-date: 2026-04-03T21:18:49.068Z
+date: 2026-05-26T18:30:54.717Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T19:03:34.764Z
@@ -55,7 +55,7 @@ This video is not for public use on a campaign, and is purely here as an example
 
 ### Lombardo Supported Devastating Health Care Cuts
 
--   In 2025, Lombardo [supported](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) Trump’s [“One Big Beautiful Bill,”](https://www.congress.gov/votes/house/119-1/190) which is estimated to kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including [nearly 12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) who rely on Medicaid. Under the “One Big Beautiful Bill,” more than [100,000 Nevadans](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health insurance, and Nevada community health centers [could be downsized](https://news3lv.com/news/local/very-alarming-114k-nevadans-could-lose-health-insurance-in-president-donald-trump-one-big-beautiful-bill-medicaid-care). 
+-   In 2025, Lombardo [supported](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) Trump’s [“One Big Beautiful Bill,”](https://www.congress.gov/votes/house/119-1/190)  and its [Medicaid work requirements](https://youtu.be/c8Lx7fm3eO8?si=kEJjMx_dOuEHfAWg), which is estimated to kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including [nearly 12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) who rely on Medicaid. Under the “One Big Beautiful Bill,” more than [100,000 Nevadans](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) could lose their health insurance, and Nevada community health centers [could be downsized](https://news3lv.com/news/local/very-alarming-114k-nevadans-could-lose-health-insurance-in-president-donald-trump-one-big-beautiful-bill-medicaid-care). 
 -   Lombardo said [“Nevadans should be excited about”](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) the “One Big Beautiful Bill,” despite previously expressing concerns about the [“detrimental”](https://thenevadaindependent.com/article/nevada-republican-gov-lombardo-speaks-out-against-gops-proposed-medicaid-cuts) cuts to Medicaid it would cause. [67,888 Medicaid recipients](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) in Nevada were expected to lose their coverage by 2034 under the bill. 
 
 **Message:** Lombardo supported ripping away health care from thousands of Nevadans to fund tax cuts for the wealthy, despite previously admitting it would be “detrimental” to the state. 
