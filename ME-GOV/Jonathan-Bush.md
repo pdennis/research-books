@@ -1,8 +1,8 @@
 ---
 title: Jonathan Bush
 description: 
-published: false
-date: 2026-05-26T19:50:14.164Z
+published: true
+date: 2026-05-26T19:50:24.897Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
