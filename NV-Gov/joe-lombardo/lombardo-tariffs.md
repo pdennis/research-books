@@ -2,7 +2,7 @@
 title: Joe Lombardo Supported Trump's Tariffs
 description: 
 published: true
-date: 2025-12-21T16:40:49.340Z
+date: 2026-05-26T18:39:19.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T21:51:42.267Z
@@ -10,7 +10,7 @@ dateCreated: 2025-12-10T21:51:42.267Z
 
 ## Overview
 
-In 2025, Lombardo [supported](https://www.youtube.com/watch?v=S9OcKVYPPq0) Trump’s tariffs, which doomed Nevadans to a trade war and [rising prices](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/). Tariffs are contributing to [higher](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/) food prices and posing risks to Nevada’s [retail and hospitality industries](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/). 
+In 2025, Lombardo [supported](https://www.youtube.com/watch?v=S9OcKVYPPq0) Trump’s tariffs without understanding the ["nuances"](https://youtu.be/fEeWJhEaH8I) of how they would affect Nevada, which doomed Nevadans to a trade war and [rising prices](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/). Tariffs are contributing to [higher](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/) food prices and posing risks to Nevada’s [retail and hospitality industries](https://nevadacurrent.com/2025/03/06/trump-tariff-impacts-on-booze-food-travel-no-little-disturbance-in-nv-experts-warn/). 
 
 Despite this, Lombardo said Nevadan’s needed to [“feel a little pain”](https://www.youtube.com/watch?v=S9OcKVYPPq0) to see long term benefits of Trump’s tariffs, even as the [U.S. stock market crashed](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s escalating global trade war.
 
@@ -18,7 +18,9 @@ Despite this, Lombardo said Nevadan’s needed to [“feel a little pain”](htt
 
 ### Lombardo Supported Trump’s Devastating Tariffs, Even As The Stock Market Crashed
 
-#### Lombardo Said Nevadans Needed “To Maybe Feel A Little Pain In The Short Term” Under Trump’s Tariffs
+#### Lombardo Admitted He Did Not "Know All The Nuances" Of How Trump's Tariffs Would Affect Nevada, But Said Nevadans Needed “To Maybe Feel A Little Pain In The Short Term”
+
+**May 2026: Lombardo Said He Was “Concerned About Nevada” Rather Than Trump’s Tariffs, But Admitted He Did Not “Know All The Nuances Of \[...\] The Tariffs And How It Directly Affects Nevada.”** According to Lombardo in an interview with KTVN 2 News Nevada, “But you talk about tariffs, is that having an effect on all the forms of businesses across the board? You know, I'm worried about Nevada, to tell you the truth. You know, and the Supreme Court opined on the tariff situation, so the Trump administration will have to work through the nuances of that. And then, you know, and then he will figure out different ways to improve upon the economy, which is a mandate of Washington, D.C. and the office of the president. And so, I don't know all the nuances of foreign policy associated with that and the tariffs and how it directly affects Nevada, but me, as the governor of the state of Nevada, I'm concerned about Nevada.” \[Joe Lombardo Interview - KTVN 2 News Nevada, [5/21/26](https://youtu.be/fEeWJhEaH8I)\] (VIDEO)
 
 **March 2025: Lombardo Said Nevadans Needed “To Maybe Feel A Little Pain In The Short Term” Under Trump’s Tariffs To “Hopefully” See Economic Benefits In The Long Term.** According to Lombardo in an interview with 8 News Now, “HOST: What's your response to the tariffs? LOMBARDO: There's people well versed in that space better than me. What I would I be concerned with is if we continue to do the same old thing out of Washington, D.C. All right. So, at the end of Biden's economy and his ideas, you know, a lot of that was bolstered off of free money. You know, we talk about ARPA funds, infrastructure funds, and those those type of programs. You know, those come due after a certain period of time. So how are we going to do business different in the federal government? And Trump has he ran on it. He was very vocal about it and very transparent about it in how he was going to accomplish that. So the majority of the people voted for him. So I think we need to maybe feel a little pain in the short term and hopefully in the long term, it's a huge benefit for us.” \[Joe Lombardo Interview – 8 News Now, [3/25/25](https://www.youtube.com/watch?v=S9OcKVYPPq0)\] (VIDEO) 
 
