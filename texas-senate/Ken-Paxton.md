@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-05-27T21:29:39.458Z
+date: 2026-05-27T21:35:49.281Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -24,11 +24,19 @@ dateCreated: 2026-05-19T19:33:30.966Z
 
 **Message:** Paxton is siding with tariffs and is choosing higher prices over protecting affordability and Texan’s livelihoods.
 
+### Paxton Supported Taking Food Assistance From Texans
+
+- Paxton [supported](https://x.com/KenPaxtonTX/status/1940846754087485495) a bill that made the [largest SNAP cut](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes) in history. Due in part to the cuts, SNAP enrollees in Texas dropped by [14 Percent](https://www.texastribune.org/2026/05/20/texas-snap-food-stamps-decline-work-restrictions-immigration/). 
+
+**Message:** Paxton supported a bill that took away Texan’s ability to afford groceries to fund billionaire tax breaks.
+
 # Issue Back-Ups
 
 ## Ken Paxton Supported Policies That Hurt Texans
 - [:bomb:**Paxton Supported War In Iran Which Caused Skyrocketing Gas and Fertilizer Prices**](/texas-senate/Ken-Paxton/Iran)
 - [:shopping_cart:**Paxton Supported Damaging Tariffs**](/texas-senate/Ken-Paxton/Tariffs)
+- [:apple:**Paxton Supported Taking Food Assistance From Texans**](/texas-senate/Ken-Paxton/SNAP)
+
 {.links-list}
 
 ## Ken Paxton Was Unethical And Currupt
