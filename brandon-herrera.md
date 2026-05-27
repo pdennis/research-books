@@ -2,7 +2,7 @@
 title: Brandon Herrera (TX-23)
 description: 
 published: true
-date: 2026-05-27T00:15:59.377Z
+date: 2026-05-27T00:29:22.165Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T19:02:58.206Z
@@ -47,7 +47,7 @@ Herrera may have been Trump’s only option, but the people of TX-23 can make a 
 
 **Message:** Herrera supported policies that would hurt Texas public schools. 
 
-### Herrera Disregarded The Severity of Mass Shootings And Called TO Disband The Agency Tasked With Investigating Them
+### Herrera Downplayed The Severity of Mass Shootings And Called TO Disband The Agency Tasked With Investigating Them
 
 -   Three months after the tragic mass shooting in Uvalde Texas, Herrera joined a fellow YouTube creator to create a video in Uvalde. In this video, [Herrera](https://www.mysanantonio.com/entertainment/article/youtube-uvalde-gun-robot-dog-17361562.php) and the creator strapped an assault weapon to a robotic dog. The creators even went as far as to film the robotic dog walking in front of a Uvalde CISD school bus. Later in the video, Herrera joined in testing the robotic dog strapped with the [assault weapon](https://www.youtube.com/watch?v=0rliFQ0qyAM) on cartoon cutouts of children. [19 elementary school students](https://www.pbs.org/newshour/politics/families-of-uvalde-school-shooting-victims-are-suing-texas-state-police-over-botched-response) and two teachers were killed in a mass shooting at Robb Elementary School in Uvalde Texas.
 -   Herrera’s gun content has attracted some disturbing followers. The suspect who killed two people and injured 17 at the Minneapolis church [said](https://www.texastribune.org/2025/08/27/minneapolis-shooting-manifesto-brandon-herrera/) their message was “sponsored” by “Brandon Herrera for president” and claimed they met Herrera at a gun show the previous year. The shooter also said [they agreed](https://www.expressnews.com/politics/article/brandon-herrera-ak-guy-congress-21042600.php) with Herrera on “a lot of things.” Herrera [said](https://x.com/TheAKGuy/status/1960805050072125823?s=20) he was sickened by the attack and claimed he did not remember meeting the shooter. Additionally, the person who tried to assassinate Trump in 2024 [wore a shirt](https://www.expressnews.com/business/article/trump-shooter-shock-demolition-ranch-youtube-19573039.php) associated with a content creator that Herrera had collaborated with.
@@ -85,3 +85,17 @@ Herrera may have been Trump’s only option, but the people of TX-23 can make a 
 **Message:** Even Trump was initially wary of Brandon Herrera.
 
 # Issue Briefs
+## Herrera Displayed Conduct Unbecoming Of A Prospective Congressman
+- [:warning: *Herrera Downplayed The Severity Of Mass Shootings And Called To Disband The Agency Tasked With Helping Investigate Them*](https://research-books.com/en/brandon-herrera/guns)
+- [:warning: *Herrera Used Tragic Historical Shooting Events As Fodder For Content On His Channel*](https://research-books.com/en/brandon-herrera/disturbing)
+- [:warning: *Herrera Once Left An Inactive Explosive Device Behind After An Event, Which Prompted An Investigation By The San Antonio Bomb Squad*](https://research-books.com/en/brandon-herrera/reckless)
+- [:eyes: *Herrera Engaged In Conduct Unbecoming Of A Prospective Congressman*](https://research-books.com/en/brandon-herrera/offensive)
+- [:eyes: *Herrera Previoulsy Had A Troubled Relationship With Trump*](https://research-books.com/en/brandon-herrera/trump)
+{.links-list}
+## Herrera Stood With National Republicans Who Raised Costs And Took Health Care From Texans
+- [:apple: *Herrera Supported Policies That Would Hurt Texas Public Schools*](https://research-books.com/en/brandon-herrera/education)
+- [:hospital: *Herrera Stood With Republicans Who Took Health Care From Texans*](https://research-books.com/en/brandon-herrera/health-care)
+- [:older_man: *Herrera Stood With Republicans Who Put Put Services Texas Seniors Relied On At Risk*](https://research-books.com/en/brandon-herrera/seniors)
+- [:carrot: *Herrera Stood With Republicans Who Took Food Assistance From Texans*](https://research-books.com/en/brandon-herrera/snap)
+- [:shopping_cart: *Herrera Stood With Republicans Whose Policies Raised Prices On Texans*](https://research-books.com/en/brandon-herrera/tariffs)
+{.links-list}
