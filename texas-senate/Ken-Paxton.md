@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-05-27T21:35:49.281Z
+date: 2026-05-27T21:39:51.312Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -30,13 +30,19 @@ dateCreated: 2026-05-19T19:33:30.966Z
 
 **Message:** Paxton supported a bill that took away Texan’s ability to afford groceries to fund billionaire tax breaks.
 
+### Paxton Supported Healthcare Cuts 
+
+Paxton betrayed Texans by [supporting](https://x.com/KenPaxtonTX/status/1940846754087485495) a bill that was estimated to kick off nearly [300,000](https://www.texastribune.org/2025/07/03/trump-megabill-breakdown-texas-medicaid-snap-border/) Texans off their healthcare. 
+
+**Message:** Paxton supported a bill that slashed Texan’s healthcare to fund billionaire tax breaks.
+
 # Issue Back-Ups
 
 ## Ken Paxton Supported Policies That Hurt Texans
 - [:bomb:**Paxton Supported War In Iran Which Caused Skyrocketing Gas and Fertilizer Prices**](/texas-senate/Ken-Paxton/Iran)
 - [:shopping_cart:**Paxton Supported Damaging Tariffs**](/texas-senate/Ken-Paxton/Tariffs)
 - [:apple:**Paxton Supported Taking Food Assistance From Texans**](/texas-senate/Ken-Paxton/SNAP)
-
+- [:pill:**Paxton Supported Healthcare Cuts**](/texas-senate/Ken-Paxton/Medicaid)
 {.links-list}
 
 ## Ken Paxton Was Unethical And Currupt
