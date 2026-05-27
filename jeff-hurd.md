@@ -1,11 +1,83 @@
 ---
-title: Jeff Hurd
+title: Jeff Hurd (CO-03)
 description: 
 published: false
-date: 2026-05-27T23:07:16.310Z
+date: 2026-05-27T23:11:24.074Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T20:24:41.472Z
 ---
 
 # How To Win Against Jeff Hurd
+
+Jeff Hurd sold himself as an independent voice willing to vote with his conscience, but when push came to shove, he stuck with the party line over Coloradans. He repeatedly promised that he would protect benefits like Medicaid and Medicare and then voted to cut them. He voted to protect Trump’s tariffs for nearly a year while admitting his constituents suffered. He supported bills to extend the enhanced Affordable Care Act tax credits but refused to push for them through discharge petitions and then it was too late and his constituents faced massive cost increases. He advocated for local control of land management and then wrote a bill that would throw away painstaking work done by Coloradans. Hurd says one thing, does another, and then dodges his constituents. 
+
+### Hurd Voted To Cut health coverage for coloradans
+
+-   Hurd [repeatedly](https://www.durangoherald.com/articles/u-s-rep-hurd-backs-budget-resolution-which-could-lead-to-cuts-in-medicaid-funding/) [reassured](https://www.aspentimes.com/news/colorado-physicians-call-for-opposition-to-potential-medicare-cuts/) [constituents](https://coloradotimesrecorder.com/2025/06/rubber-stamp-for-trump-and-fake-conservative-west-slope-co-congressman-takes-hits-from-dems-republicans/70639/) that he would protect programs they relied on, like Medicaid. Then [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that would kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including nearly [12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off of Medicaid. More than [34,000 Coloradans](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) in his district could lose their health coverage as a result of his votes, yet Hurd [called](https://www.youtube.com/watch?v=SrW9W1Aq3WI) the bill a “big step in the right direction.”
+-   Hurd [expressed concern](https://www.summitdaily.com/news/government-shutdown-open-enrollment-extend-health-insurance-subsidies-colorado/) for constituents who would be hurt by an increase in healthcare costs from expiration of Affordable Care Act (ACA) enhanced premium tax credits, and even [introduced](https://coloradonewsline.com/briefs/hurd-extend-health-care-subsidies/) and [co-sponsored](https://www.summitdaily.com/news/hurd-western-slope-health-insurance-subsidies/) legislation to extend credits, but [refused](https://www.cpr.org/2025/11/24/hurd-bipartisan-aca-health-insurance-tax-credit-bill/) to push for his bill to get a floor vote through a discharge petition. 
+-   When Hurd [finally voted](http://clerk.house.gov/evs/2026/roll011.xml) for extension of ACA tax credits, he did so [assuming](https://www.politico.com/news/2026/01/08/17-republicans-vote-to-restore-lapsed-obamacare-subsidies-00717497?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQKNjYyODU2ODM3OQABHl57PymSeLzNAvcDkTC184sRJ7IYpH1uTLbs22ayYfHGt2LPZLZgaoUWrG6x_aem_mfjZ-XYLQi-yg_MJ6ACtiA) the bill would not pass the senate as it was written when he voted for it. Hurd’s vote came too little too late and Coloradans were faced [steep premium increases](https://www.9news.com/article/news/local/colorado-news/aca-enrollment-falls-less-than-predicted-colorado/73-425e91bc-b1b4-4a14-99ca-1c9e41c2b147), which could force some to [choose between health care and basic necessities.](https://coloradosun.com/2026/01/23/health-insurance-enrollment-declines-subsidies/) 
+
+**Message:** Hurd claimed he would protect health coverage but voted to take it from Coloradans to give tax breaks to billionaires. 
+
+### Hurd Voted For Medicare Cuts and Joined A Group That Wanted To Turn Medicare Into A Voucher System
+
+-   Hurd advocated for strengthening Medicare and then he [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that would [trigger $500 billion in cuts to Medicare](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) absent future congressional action. [More than one million](https://www.kff.org/medicare/state-indicator/total-medicare-beneficiaries/?currentTimeframe=0&selectedRows=%7B%22states%22:%7B%22colorado%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) Coloradans relied on Medicare for health coverage.
+-   Hurd also [joined](https://hurd.house.gov/about/committees-and-caucuses) the Republican Study Committee, which [repeatedly](https://rollcall.com/2023/06/14/conservatives-budget-plan-renews-battle-over-seniors-benefits/)[proposed](https://hern.house.gov/uploadedfiles/final_budget_including_letter_word_doc-final_as_of_march_25.pdf) switching to a “premium support” system for Medicare that would likely [increase costs](https://www.cbpp.org/blog/house-republican-health-plan-would-radically-restructure-medicare) for Medicare beneficiaries. 
+
+**Message:** Hurd betrayed seniors after saying he wanted to strengthen Medicare for them. 
+
+### Hurd Voted To Take Food Assistance From Coloradans Who Relied On It To Afford Groceries 
+
+-   Hurd claimed he would [protect](https://www.durangoherald.com/articles/u-s-rep-hurd-backs-budget-resolution-which-could-lead-to-cuts-in-medicaid-funding/) SNAP benefits during the Republican budget process and then [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). His vote threatened food assistance for more than [43,000 Colorado households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) in the 3rd congressional district, which had already [experienced](https://www.cbpp.org/research/food-assistance/snap-tracker-people-are-losing-food-assistance-as-the-republican-megabill) a 5% decrease in SNAP participation from bill passage to April 2026. Hurd also told constituents in a town hall that reporting saying the “One Big Beautiful Bill” caused SNAP cuts was “misreporting and completely factually inaccurate.”
+
+**Message:** Hurd voted to take food assistance from Coloradans all to give billionaires tax breaks.. 
+
+### Hurd Could Not Be Trusted To Protect Coloradans From Rising Costs As A Result Of Tariffs
+
+-   Hurd expressed concern several times that Trump’s tariffs were [too broad](https://coloradonewsline.com/2024/12/27/jeff-hurd-boeberts-new-style/), [constitutionally inappropriate](https://www.politico.com/news/2026/01/20/trump-greenland-tariffs-congress-00738472), or [hurting](https://www.listennotes.com/podcasts/dan-caplis/rep-jeff-hurd-co-3-explains-k1qfa_B-Fjo/) his constituents, and even [introduced](https://hurd.house.gov/media/press-releases/hurd-bacon-gottheimer-meeks-introduce-bill-restore-congress-constitutional) and [joined](https://youngkim.house.gov/2025/05/08/rep-young-kim-leads-report-act-to-restore-congressional-authority-on-tariffs/) legislation to rein in executive tariff power. Yet Hurd [voted](http://clerk.house.gov/evs/2025/roll071.xml) [consistently](http://clerk.house.gov/evs/2025/roll094.xml) for [procedural tricks](https://www.reuters.com/legal/government/us-house-rejects-ban-challenges-trump-tariffs-democrats-ready-vote-canada-2026-02-11/) to protect Trump’s tariffs for [eleven](http://clerk.house.gov/evs/2025/roll268.xml) [months](http://clerk.house.gov/evs/2026/roll060.xml), while Coloradans faced negative impacts on [housing](https://www.gjsentinel.com/news/business/how-do-tariffs-impact-construction-in-western-colorado/article_df7db143-1d23-451f-a79a-ef4b60ee90cc.html), [small businesses](https://www.usnews.com/news/u-s-news-decision-points/articles/2025-08-21/how-tariffs-are-affecting-this-colorado-small-business-owner), and [agriculture](https://www.coloradopolitics.com/2026/01/21/colorado-farmers-warn-u-s-sen-john-hickenlooper-tariffs-and-research-cuts-endanger-agriculture/). Nearly one year later, he finally [voted against](http://clerk.house.gov/evs/2026/roll065.xml) tariffs on Canada, which he claimed was hard and [isolating](https://riponsociety.org/2026/03/kiley-hurd-say-congress-must-have-a-role-in-u-s-trade-policy/) for him. 
+-   Despite his concern about tariffs, Hurd [embraced](https://www.instagram.com/jeff4colorado/p/DQPO_V4jtu0/) Trump’s endorsement in October 2025 for his re-election. Trump briefly [unendorsed](https://thehill.com/homenews/campaign/5749448-hurd-loses-trump-backing/) Hurd after he voted against the Canadaian tariffs, but it was short lived and when Trump decided to [re-endorse](https://www.nytimes.com/2026/03/20/us/politics/trump-jeff-hurd-republican-house-tariffs-endorsement-reversal.html) Hurd, Hurd expressed his gratitude and shared goals. 
+-   Despite acknowledging tariffs hurt Coloradans, Hurd said he differed with Trump [“just on the vehicle”](https://www.listennotes.com/podcasts/dan-caplis/rep-jeff-hurd-co-3-explains-k1qfa_B-Fjo/) for tariffs and would [not commit](https://www.youtube.com/watch?v=crf_XnfIJPk) to voting against other “Liberation Day” tariffs. Hurd also admitted to a political motive, [saying](https://www.listennotes.com/podcasts/dan-caplis/rep-jeff-hurd-co-3-explains-k1qfa_B-Fjo/) “one of the fundamental reasons” he voted against Canada tariffs was because a future Democratic president could use those executive powers in “ways that we don’t like.” 
+
+**Message:** Hurd cannot be trusted to protect Coloradans from the costs of tariffs, when he spent the last year saying one thing and doing another. 
+
+### Hurd Supported DOGE And Joined A Group That Wanted To Raise The Social Security Retirement Age
+
+-   Hurd expressed [positive sentiments](https://www.montrosepress.com/news/jeff-hurd-representing-boebert-s-former-district-to-bring-new-style-to-shared-priorities/article_c9bb64da-c45d-11ef-9ea6-93f4450147c9.html) about Trump’s Department of Government Efficiency (DOGE) while attempting to [downplay the negatives](https://www.cpr.org/2025/02/27/interview-gop-rep-jeff-hurd-speaks-on-doge-medicaid-and-nazi-salutes/) and [avoid criticisms](https://www.the-journal.com/articles/u-s-congressman-jeff-hurd-visits-with-montezuma-county-commissioners/), calling constituent protests “[political theater.”](https://www.durangoherald.com/articles/u-s-rep-jeff-hurd-talks-doge-energy-policy-ukraine-in-first-tele-town-hall/)  DOGE-driven cuts and downsizing [affected](https://www.washingtonpost.com/politics/2025/03/25/social-security-phones-doge-cuts/) the federal government’s ability to [deliver services](https://www.axios.com/2025/04/08/social-security-seniors-drive) to seniors. More than [181,000 Coloradans](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2025/co.html) in Hurd’s district relied on Social Security benefits.
+-   Hurd was also [a member](https://hurd.house.gov/about/committees-and-caucuses) of the Republican Study Committee, which has [advocated](https://hern.house.gov/uploadedfiles/final_budget_including_letter_word_doc-final_as_of_march_25.pdf)[consistently](https://rollcall.com/2023/06/14/conservatives-budget-plan-renews-battle-over-seniors-benefits/) for raising the retirement age, which would [cost retirees](https://www.americanprogress.org/article/raising-the-retirement-age-for-social-security-would-cut-benefits-by-thousands-of-dollars-each-year/) thousands each year.
+
+**Message:** Hurd supported an agency that hamstrung services Colorado seniors relied on. 
+
+### Hurd Claimed To Support Inflation Reduction Act Clean Energy Tax Credits, Then Voted To Cut Them On Three Separate Occasions
+
+-   In March 2025, Hurd [signed](https://dailycaller.com/2025/03/10/house-republicans-biden-legacy-climate-law-ira/) a letter asking House Ways And Means Committee to protect clean energy tax credits from the Inflation Reduction Act and provide necessary [stability](https://www.cpr.org/2025/05/09/house-republicans-ira-clean-energy-tax-breaks-debate/) for businesses in his district, but then [voted](http://clerk.house.gov/evs/2025/roll190.xml) for the final version of the “One Big Beautiful Bill” that cut those credits. 
+-   Experts estimated that cuts from the “One Big Beautiful Bill” would [increase energy costs](https://www.rmpbs.org/news/science-environment/budget-bill-renewable-energy-west), hurt [clean energy businesses](https://www.rmpbs.org/news/science-environment/budget-bill-renewable-energy-west), and [kill thousands of jobs](https://www.rmpbs.org/news/science-environment/budget-bill-renewable-energy-west). 
+
+**Message:** Hurd claimed to support clean energy tax credits that created jobs in Colorado, but refused to stand up for them when it mattered. 
+
+### Hurd Could Not Be Trusted To ensure coloradans had a say in how public lands were managed 
+
+-   Before becoming a congressman, Hurd advocated for [local control](https://coloradotimesrecorder.com/2025/06/after-big-oil-powered-his-election-campaign-co-congressman-hurd-introduces-bill-to-enact-project-2025-fossil-fuel-agenda/70631/?fbclid=IwY2xjawRwUmVleHRuA2FlbQIxMQBicmlkETE0RFpQMnZreGQ0TEJETnVrc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiDzBb4WgePFV6PWPhu9Gapyv4tYfKkQJa6NNgjb-DxhhYF5tXfUrddU976q_aem_Ttval9EXNAhWjI-NGhSP_Q) of land management, but after getting elected he  [wrote](https://coloradotimesrecorder.com/2025/06/after-big-oil-powered-his-election-campaign-co-congressman-hurd-introduces-bill-to-enact-project-2025-fossil-fuel-agenda/70631/?fbclid=IwY2xjawRwUmVleHRuA2FlbQIxMQBicmlkETE0RFpQMnZreGQ0TEJETnVrc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHiDzBb4WgePFV6PWPhu9Gapyv4tYfKkQJa6NNgjb-DxhhYF5tXfUrddU976q_aem_Ttval9EXNAhWjI-NGhSP_Q) a bill that would impose a top-down approach over the carefully crafted, locally created plans that had been made over the span of a decade. 
+-   Hurd [floated](https://www.durangoherald.com/articles/jeff-hurd-wants-to-bring-the-blm-back-to-grand-junction/) the idea of reopening the Thompson Divide to mining and energy leases after it was [recently protected](https://coloradosun.com/2024/04/03/biden-mineral-withdrawal-thompson-divide/) following decades of advocacy from environmental, ranching, and recreational groups. 
+
+**Message:** Hurd cannot be trusted to ensure Coloradans are the ones who have a say over how public lands are protected.  
+
+### IT TOOK Hurd 11 MONTHS TO VOTE TO RELEASE THE EPSTEIN FILES AND HE DID ONLY AFTER TRUMP GAVE REPUBLICANS PERMISSION
+
+-   In November 2025, after 11 months, Hurd finally [voted](http://clerk.house.gov/evs/2025/roll289.xml) to release the Epstein files, but only after [Donald Trump gave House Republicans permission](https://truthsocial.com/@realDonaldTrump/posts/115562626931599548) to do so. Previously, Hurd had cast [multiple](http://clerk.house.gov/evs/2025/roll222.xml) [votes](http://clerk.house.gov/evs/2025/roll194.xml) against releasing the Epstein files, protecting the accused pedophiles named within them. Hurd [never signed](https://clerk.house.gov/DischargePetition/2025090209) the discharge petition that called for their release and he [never co-sponsored](https://www.congress.gov/bill/119th-congress/house-resolution/581/cosponsors?pageSort=alphaByParty) Reps. Thomas Massie and Ro Khanna’s resolution calling for their release. 
+
+**Message:** It took Hurd 11 months to vote to release the Epstein files, and he did only after Trump gave Republicans permission.
+
+### Hurd’s Wife Barbora co-Hosted an Event With Tom Ready, A sandy hook Conspiracy Theorist 
+
+-   In 2024, Hurd’s wife, Barbora Hurd, who was [featured](https://www.coloradopolitics.com/2023/10/16/boebert-primary-challenger-jeff-hurds-1st-ad-features-wifes-journey-from-communism-to-colorado-3454ea26-6c50-11ee-81bb-13bfdef5b1da/) in his first campaign ad of the cycle, [was a co-host](https://www.coloradopols.com/diary/204377/sandy-hook-denier-tom-ready-headlines-strong-women-of-pueblo-with-barbora-hurd) of a “Strong Women In Pueblo” fundraising event with Tom Ready, who has [spread conspiracy theories](https://coloradotimesrecorder.com/2020/09/sandy-hook-conspiracist-tom-ready-hosting-boebert-fundraiser/30408/) about aspects of the Sandy Hook school shooting. 
+
+**Message:** Hurd’s wife hosted an event with someone who spouted hurtful conspiracy theories about a school shooting. 
+
+# Issue Briefs
+
+## Hurd Supported Policies That Hurt Everyday Coloradans
+
+## Hurd Used His Power To Benefit Himself And The Powerful
+
+# Key Votes
