@@ -2,7 +2,7 @@
 title: Jeff Hurd (CO-03)
 description: 
 published: false
-date: 2026-05-27T23:11:24.074Z
+date: 2026-05-27T23:16:28.045Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T20:24:41.472Z
@@ -77,7 +77,17 @@ Jeff Hurd sold himself as an independent voice willing to vote with his conscien
 # Issue Briefs
 
 ## Hurd Supported Policies That Hurt Everyday Coloradans
-
+- [:hospital: *Hurd Voted To Take Health Coverage From Coloradans*](https://research-books.com/en/jeff-hurd/health-care)
+- [:older_man: *Hurd Supported Policies That Put Services Colorado Seniors Relied On At-Risk*](https://research-books.com/en/jeff-hurd/seniors)
+- [:carrot: *Hurd Voted To Take Food Assistance From Coloradans Who Relied On It To Afford Groceries*](https://research-books.com/en/jeff-hurd/snap)
+- [:shopping_cart: *Hurd Could Not Be Trusted To Protect Coloradans From Price Increases From Tariffs*](https://research-books.com/en/jeff-hurd/tariffs)
+- [:mechanic: *Hurd Voted To Cut Tax Credits That Helped Create Clean Energy Jobs In Colorado*](https://research-books.com/en/jeff-hurd/clean-energy)
+- [:mountain: *Hurd Could Not Be Trusted To Ensure Coloradans Had A Say In How Public Lands Were Managed*](https://research-books.com/en/jeff-hurd/public-lands)
+{.links-list}
 ## Hurd Used His Power To Benefit Himself And The Powerful
-
+- [:eyes: *It Took Hurd 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/jeff-hurd/epstein)
+- [:warning: *Hurd's Wife Co-Hosted An Event With A Sandy Hook Denier*](https://research-books.com/en/jeff-hurd/conpiracy-theorist)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *Hurd's Key Votes In Congress*](https://research-books.com/en/jeff-hurd/votes)
+{.links-list}
