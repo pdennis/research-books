@@ -1,8 +1,8 @@
 ---
 title: Jeff Hurd (CO-03)
 description: 
-published: false
-date: 2026-05-27T23:16:28.045Z
+published: true
+date: 2026-05-27T23:16:38.414Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T20:24:41.472Z
