@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-05-22T22:35:50.253Z
+date: 2026-05-27T15:04:16.427Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -97,6 +97,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 -   August 2025, John James received an [ethics complaint](https://michiganindependent.com/politics/ethics-complaint-john-james-campaign-governor-misuse-taxpayer-funds-house-representatives/) of illegally using his congressional office and federal resources to promote his [gubernatorial campaign](https://michiganadvance.com/briefs/john-james-faces-mounting-pressure-over-alleged-misuse-of-government-resources-to-promote-campaign/).
 -   In 2024, John James faced an [ethics complaint from End Citizens United](https://michiganadvance.com/briefs/watchdog-group-files-complaint-against-u-s-rep-john-james-for-late-stock-disclosure/) for violating The STOCK Act and failing to disclose 145 stock trades.
+- In 2026, John James campaigned on [eliminating](https://americanjournalnews.com/john-james-pac-hired-consultants-tied-to-alleged-campaign-finance-scheme/) political corruption while his Mission Michigan PAC [paid](https://americanjournalnews.com/john-james-pac-hired-consultants-tied-to-alleged-campaign-finance-scheme/) Red Eagle Media Group, a firm tied to alleged [illegal coordination](https://americanjournalnews.com/john-james-pac-hired-consultants-tied-to-alleged-campaign-finance-scheme/) between Trump’s campaign and NRA advertising operations through its connections to American Media & Advocacy Group
 
 **Message:** John James repeatedly faced ethics complaints for abusing his office and hiding financial dealings.
 
