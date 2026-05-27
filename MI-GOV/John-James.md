@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-05-27T15:04:59.929Z
+date: 2026-05-27T15:08:07.341Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -22,7 +22,7 @@ COMING SOON!
 
 # How To Win Against John James
 
-John James voted to cut services and raise costs on Michiganders. He voted to kick more than 424,000 Michiganders off their health insurance, slash Medicare by $500 billion, and make it harder for Michigan families to buy food. John James cast the deciding vote to protect Trump’s tariffs, crushing small businesses and raising grocery prices. John James stood by while Trump fired Michigan workers and gutted Social Security. John James voted to repeal clean energy tax credits that supported Michigan jobs. James also failed farmers and failed to pass year-round E15 in Congress, voting for a council instead of actually helping Michigan farmers. He also threatened reproductive freedoms with his extreme anti-abortion agenda. Even after voting against releasing the Epstein files, he only supported their release once Trump approved it. John James repeatedly faced ethics complaints for allegedly using official resources to benefit his campaign and hiding financial dealings. James backed Trump’s war with Iran even as rising gas, grocery, fertilizer, and diesel costs squeezed Michigan families, farmers, and businesses across the state
+John James voted to cut services and raise costs on Michiganders. He voted to kick more than 424,000 Michiganders off their health insurance, slash Medicare by $500 billion, and make it harder for Michigan families to buy food. John James cast the deciding vote to protect Trump’s tariffs, crushing small businesses and raising grocery prices. John James stood by while Trump fired Michigan workers and gutted Social Security. John James voted to repeal clean energy tax credits that supported Michigan jobs. James also failed farmers and failed to pass year-round E15 in Congress, voting for a council instead of actually helping Michigan farmers. He also threatened reproductive freedoms with his extreme anti-abortion agenda. Even after voting against releasing the Epstein files, he only supported their release once Trump approved it. John James campaigned on ethics reform while facing ethics complaints for allegedly using official resources to benefit his campaign and paying firms tied to alleged illegal coordination between Trump’s campaign and NRA advertising operations. James backed Trump’s war with Iran even as rising gas, grocery, fertilizer, and diesel costs squeezed Michigan families, farmers, and businesses across the state
  
 
 ###  John James Voted For Devastating Health Care Cuts
