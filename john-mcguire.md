@@ -2,7 +2,7 @@
 title: John McGuire (VA-05)
 description: 
 published: true
-date: 2026-05-28T16:25:37.942Z
+date: 2026-05-28T16:36:47.888Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-27T18:00:29.088Z
@@ -71,7 +71,17 @@ John McGuire has spent his time in Congress fighting to make Virginians’ lives
 # Issue Briefs
 
 ## McGuire Supported Policies That Hurt Everyday Virginians
-
+- [:hospital: *McGuire Voted To Take Health Coverage From Virginians*](https://research-books.com/en/john-mcguire/health-care)
+- [:older_man: *McGuire Supported Policies That Put Services Seniors Relied On At-Risk*](https://research-books.com/en/john-mcguire/seniors)
+- [:carrot: *McGuire Voted To Take Food Assistance From Virginians*](https://research-books.com/en/john-mcguire/snap)
+- [:shopping_cart: *McGuire Voted To Protect Tariffs That Raised Prices On Virginians*](https://research-books.com/en/john-mcguire/tariffs)
+- [:fuelpump: *McGuire Supported A War That Raised Gas Prices On Virginians*](https://research-books.com/en/john-mcguire/gas)
+- [:woman: *McGuire Supported Extreme Anti-Choice Policies That Could Put Virginia Women At-Risk*](https://research-books.com/en/john-mcguire/choice)
+{.links-list}
 ## McGuire Used His Power To Benefit The Powerful And Himself
-
+- [:warning: *McGuire Voted Against Banning Child Marriage in Virginia*](https://research-books.com/en/john-mcguire/child-marriage)
+- [:eyes: *It Took McGuire 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/john-mcguire/epstein)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *McGuire's Key Votes In Congress*](https://research-books.com/en/john-mcguire/votes)
+{.links-list}
