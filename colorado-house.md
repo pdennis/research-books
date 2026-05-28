@@ -2,11 +2,15 @@
 title: Colorado House Races
 description: 
 published: true
-date: 2026-05-25T18:59:05.427Z
+date: 2026-05-28T21:49:15.924Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T17:29:01.808Z
 ---
+
+## CO-03
+- [:elephant: ***Jeff Hurd***](https://research-books.com/jeff-hurd) Colorado Republican who promised to be different, but voted to take health coverage away from Coloradans and supported policies that raised prices.
+{.links-list}
 
 ## CO-04
 - [:elephant:***Lauren Boebert***](/lauren-boebert) Colorado Republican with a trail of scandals and self-dealing, who abandoned her CO-03 district after winning her election.
