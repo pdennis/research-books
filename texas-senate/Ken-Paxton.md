@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-05-28T15:22:36.932Z
+date: 2026-05-28T15:30:39.961Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -51,4 +51,6 @@ Paxton betrayed Texans by [supporting](https://x.com/KenPaxtonTX/status/19408467
 - [:broken_heart:**Paxton Cheated On His Wife Multiple Times Leading To Divorce**](/texas-sen/Ken-Paxton/Divorce-Infidelity)
 {.links-list}
 - [:x:**Paxton Was Impeached Due To A FBI Investigation And Whistleblower Lawsuit**](/texas-senate/Ken-Paxton/Impeachment)
+{.links-list}
+- [:moneybag:**Paxton Defrauded Investors And Colleagues**](/texas-senate/Ken-Paxton/Fraud)
 {.links-list}
