@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-05-28T15:45:09.178Z
+date: 2026-05-28T16:13:50.134Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -57,4 +57,6 @@ Paxton betrayed Texans by [supporting](https://x.com/KenPaxtonTX/status/19408467
 - [:pen:**Paxton Stole A Thousand-Dollar Pen**](/texas-senate/Ken-Paxton/Pen)
 {.links-list}
 - [:money_with_wings:**Paxton Failed To Disclose His Investment In WatchGuard That Made Him Millions**](/texas-senate/Ken-Paxton/Investment)
+{.links-list}
+- [:hotel:**Paxton Initially Used Taxpayer Money To Pay For His Associate's Hotel Rooms**](/texas-senate/Ken-Paxton/Taxpayer-Funded-Hotel-Rooms)
 {.links-list}
