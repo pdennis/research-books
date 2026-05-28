@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-05-28T16:13:50.134Z
+date: 2026-05-28T16:49:48.137Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -45,7 +45,7 @@ Paxton betrayed Texans by [supporting](https://x.com/KenPaxtonTX/status/19408467
 - [:pill:**Paxton Supported Healthcare Cuts**](/texas-senate/Ken-Paxton/Medicaid)
 {.links-list}
 
-## Ken Paxton Was Unethical And Currupt
+## Ken Paxton Was Unethical And Corrupt
 - [:judge:**Paxton Offered Plea Deals In Child Sex Crime Cases**](/texas-senate/Ken-Paxton/Plea-Deal)
 {.links-list}
 - [:broken_heart:**Paxton Cheated On His Wife Multiple Times Leading To Divorce**](/texas-sen/Ken-Paxton/Divorce-Infidelity)
