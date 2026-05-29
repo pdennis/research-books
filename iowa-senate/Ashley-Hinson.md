@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-05-18T21:20:27.907Z
+date: 2026-05-29T15:46:40.904Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
@@ -97,6 +97,14 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 
 **Message:** Hinson supported policies that harmed farmers’ market access, increased their input costs, diminished their supplemental incomes and was wholly ineffective at pushing through renewable fuel policy through Congress. 
 
+### Hinson Accepted Money From A Private Equity Firm That That Was Accused Of Harming Patients At An Iowa Hospital It Owned 
+
+- Hinson accepted Around [$30,000](https://iowaindependentnews.com/politics/hinson-took-campaign-funds-from-private-equity-owners-of-for-profit-ottumwa-hospital/) from executives from the private equity group, Apollo Global Management. 
+
+- Apollo Global Management owned Lifepoint which ran Ottumwa Regional Health Center in Iowa. Apollo was accused of [underinvesting](https://iowaindependentnews.com/politics/hinson-took-campaign-funds-from-private-equity-owners-of-for-profit-ottumwa-hospital/) in the hospital while investors made millions resulting in higher wait times, unsafe conditions and reduced quality of care. 
+
+**Message:** Hinson was ranking in money from the same rich wall street money that was underinvesting in a rural Iowa hospital. 
+
 ### Hinson Would Be Just Another Joni Ernst 
 
 -   Hinson was [endorsed](https://www.kcrg.com/2026/01/10/joni-ernst-formally-endorses-ashley-hinson-us-senator/) and [praised](https://www.desmoinesregister.com/story/news/politics/elections/2026/01/10/joni-ernst-endorses-ashley-hinson-us-senate-iowa-elections/88104221007/) by Ernst with Hinson claiming that she shared the [same values](https://iowacapitaldispatch.com/2025/10/11/ernsts-final-roast-and-ride-filled-with-talks-on-shutdown-dmps-superintendent-arrest/) as Ernst. Ernst claimed that her seat “[belonged](https://iowacapitaldispatch.com/2025/09/20/republicans-mourn-charlie-kirk-call-for-change-at-iowa-faith-and-freedom-coalition-fundraiser/)” to Hinson. 
@@ -138,6 +146,8 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 {.links-list}
 
 ## Ashley Hinson Would Be Bad In The Senate 
+
+- [:woman_health_worker:**Hinson Accepted Money From A Private Equity Firm That That Was Accused Of Harming Patients At An Iowa Hospital It Owned**](/iowa-senate/Ashley-Hinson/Apollo)
 
 - [:pig2:**Hinson Would Be Just Another Joni Ernst**](/iowa-senate/Ashley-Hinson/Ernst) 
 
