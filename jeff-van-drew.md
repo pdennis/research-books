@@ -1,8 +1,8 @@
 ---
 title: Jeff Van Drew (NJ-02)
 description: 
-published: false
-date: 2026-06-02T22:02:59.877Z
+published: true
+date: 2026-06-02T22:31:16.748Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-06T21:50:52.014Z
