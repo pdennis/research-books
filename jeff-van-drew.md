@@ -2,13 +2,11 @@
 title: Jeff Van Drew (NJ-02)
 description: 
 published: false
-date: 2026-06-02T21:49:52.689Z
+date: 2026-06-02T22:02:59.877Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-06T21:50:52.014Z
 ---
-
-**📺 - Click here for our Example Content Library** 
 
 # How to Win Against Jeff Van Drew
 
@@ -61,7 +59,16 @@ Jeff Van Drew was an opportunistic politician who changed his party allegiance d
 # Issue Briefs
 
 ## Van Drew Supported Policies That Hurt Everyday New Jerseyans
-
+- [:hospital: *Van Drew Voted To Take Health Coverage From New Jerseyans*](https://research-books.com/en/jeff-van-drew/health-care)
+- [:older_man: *Van Drew Supported Policies That Put Services Seniors Relied On At-Risk*](https://research-books.com/en/jeff-van-drew/seniors)
+- [:carrot: *Van Drew Voted To Cut Food Assistance For New Jerseyans*](https://research-books.com/en/jeff-van-drew/snap)
+- [:shopping_cart: *Van Drew Voted To Protect Tariffs That Raised Prices On New Jerseyans*](https://research-books.com/en/jeff-van-drew/tariffs)
+- [:x: *Van Drew Supported An Agency That Weakened The Social Security Administration And Laid Off Federal Workers*](https://research-books.com/en/jeff-van-drew/doge)
+{.links-list}
 ## Van Drew Used His Power To Benefit Himself And The Powerful
-
+- [:eyes: *It Took Van Drew 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/jeff-van-drew/epstein)
+- [:clown_face: *Van Drew Was A Political Opportunist*](https://research-books.com/en/jeff-van-drew/opportunist)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *Van Drew's Key Votes In Congress*](https://research-books.com/en/jeff-van-drew/votes)
+{.links-list}
