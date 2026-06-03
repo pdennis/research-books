@@ -2,7 +2,7 @@
 title: California House Races
 description: 
 published: true
-date: 2026-04-17T14:08:48.621Z
+date: 2026-06-03T14:03:41.813Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T17:26:46.954Z
@@ -19,4 +19,8 @@ dateCreated: 2025-05-22T17:26:46.954Z
 
 ## CA-40
 - [:elephant:***Ken Calvert***](/ken-calvert) Corrupt California Republican who has spent his time in Congress requesting earmarks for projects near his own investments while voting to slash health coverage for Californians.
+{.links-list}
+
+## CA-48
+- [:elephant: ***Jim Desmond***](https://research-books.com/jim-desmond) California Republican who said "no pain, no gain" about rising gas prices due to the Iran War.
 {.links-list}
