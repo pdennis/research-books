@@ -2,13 +2,13 @@
 title: State Level Races in Iowa
 description: 
 published: true
-date: 2026-06-09T22:04:13.153Z
+date: 2026-06-09T22:04:46.887Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:48:00.716Z
 ---
 
-*## Governor
+## Governor
 - [:elephant: **Zach Lahn**](/IA-Gov/zach-lahn) Iowa Republican who opposed Medicaid expansion, backed extreme abortion and anti-vaccine policies, and defended Trump’s tariffs
 
 - [:elephant: **Randy Feenstra**](/IA-Gov/randy-feenstra) Iowa Republican who promised to help families, but instead voted to gut health care, SNAP, clean energy investments, and advance Trump’s agenda at Iowans’ expense.
