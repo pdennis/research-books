@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: false
-date: 2026-06-09T21:18:25.220Z
+date: 2026-06-09T21:18:51.954Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -47,11 +47,10 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 **Message:** Despite running an unaccredited private school in Kansas, Zach Lahn sought to punish Iowa public school teachers while expanding private school vouchers. 
  
 
-### Feenstra Stripped SNAP Benefits From Iowa Families 
+### Zach Lahn Was An Anti-Abortion Extremist
 
--   In 2025, Randy Feenstra touted he was a “[key author](https://www.desmoinesregister.com/story/news/politics/2025/10/28/republican-randy-feenstra-running-iowa-governor-2026-election/86180830007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z117723p119550c119550d00----v117723d--66--b--66--&gca-ft=180&gca-ds=sophi)” of Trump’s “One Big Beautiful Bill” and [voted](http://clerk.house.gov/evs/2025/roll190.xml) for the [largest SNAP cuts in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes)**.** Randy Feenstra [supported work requirements for SNAP recipients](https://x.com/RepFeenstra/status/1942278519188267104) under Trump’s “One Big Beautiful Bill.” In Iowa, more than [260,000 people](https://www.desmoinesregister.com/story/news/politics/elections/2025/11/04/randy-feenstra-food-bank-shutdown-snap-benefits/87064118007/) relied on SNAP to afford groceries.
 
-**Message:** Randy Feenstra voted to make food more expensive for Iowans.  
+**Message:** Zach Lahn threatened the reproductive freedoms of Iowans. 
  
 
 ### Feenstra stood by while trump attacked social security and fired hard-working Iowans
