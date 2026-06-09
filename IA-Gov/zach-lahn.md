@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: false
-date: 2026-06-09T21:24:26.090Z
+date: 2026-06-09T21:31:38.516Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -52,56 +52,11 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
 # Issue Back-Ups
 
-## Randy Feenstra's Policies Have Hurt Everyday People
+## Zach Lahn’s Positions Have Hurt Everyday People
 
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
-
--   [| **Randy Feenstra Supported Efforts To Cut Medicaid And Threaten Iowans' Access To Health Care**](/en/IA-Gov/randy-feenstra/feenstra-medicaid)
-
-![👴](/_assets/svg/twemoji/1f474.svg)
-
--   [| **Randy Feenstra Voted For Medicare Cuts**](/en/IA-Gov/randy-feenstra/feenstra-medicare)
-
-![🛒](/_assets/svg/twemoji/1f6d2.svg)
-
--   [| **Randy Feenstra Backed Trump's Tariffs, Endangering Iowa’s Economy**](/en/IA-Gov/randy-feenstra/feenstra-tariffs)
-
-![🍎](/_assets/svg/twemoji/1f34e.svg)
-
--   [| **Randy Feenstra Cast Votes To Cut SNAP Benefits From Iowa Families**](/en/IA-Gov/randy-feenstra/feenstra-food)
-
-![❌](/_assets/svg/twemoji/274c.svg)
-
--   [| **Randy Feenstra Won't Defend Iowans’ Jobs Or Social Security From Trump**](/en/IA-Gov/randy-feenstra/feenstra-doge)
-
-![🧑‍🔧](/_assets/svg/twemoji/1f9d1-200d-1f527.svg)
-
--   [| **Randy Feenstra Voted Against Protecting Iowa’s Clean Energy Jobs**](/en/IA-Gov/randy-feenstra/feenstra-cleanenergy)
-
-![🌽](/_assets/svg/twemoji/1f33d.svg)
-
--   [| **Randy Feenstra Failed Farmers And Failed To Pass Year-Round E15 In Congress**](/IA-Gov/randy-feenstra/feenstra-e15)
-
-![👩](/_assets/svg/twemoji/1f469.svg)
-
--   [| **Randy Feenstra Was An Anti-Abortion Extremist**](/en/IA-Gov/randy-feenstra/feenstra-abortion)
-
-![⛽](/_assets/svg/twemoji/26fd.svg)
-
--   [**Randy Feenstra Supported The War In Iran As The War Led To Increased Costs In Iowa**](/IA-Gov/randy-feenstra/feenstra-iran)
-
-## Randy Feenstra Used His Power To Benefit The Powerful
-
-![👀](/_assets/svg/twemoji/1f440.svg)
-
--   [| **It Took Randy Feenstra 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](/en/IA-Gov/randy-feenstra/feenstra-epstein)
-
-![😬](/_assets/svg/twemoji/1f62c.svg)
-
--   [| **Randy Feenstra Advanced Election Denial Claims**](/en/IA-Gov/randy-feenstra/feenstra-2020)
-
-# Key Votes
-
-![✅](/_assets/svg/twemoji/2705.svg)
-
--   [| **Randy Feenstra's Key Votes As A Member Of Congress**](/en/IA-Gov/randy-feenstra/feenstra-votes)
+- [:hospital: | **Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion**](https://research-books.com/IA-Gov/zach-lahn/lahn-medicaid)
+- [:farmer: | **Zach Lahn Supported Trump’s Tariffs And Dismissed Tariff Impacts On Farmers Despite Increasing Financial Pressure**](https://research-books.com/IA-Gov/zach-lahn/lahn-tariffs)
+- [:teacher: | **Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Would Defund Iowa Public Schools**](https://research-books.com/IA-Gov/zach-lahn/lahn-education)
+- [:woman: | **Zach Lahn Was An Anti-Abortion Extremist**](https://research-books.com/IA-Gov/zach-lahn/lahn-abortion)
+- [:syringe:|  **Zach Lahn Sowed Distrust In Vaccines And Backed Anti-Vaccine Policies**](https://research-books.com/IA-Gov/zach-lahn/lahn-vaccines)
+{.links-list}
