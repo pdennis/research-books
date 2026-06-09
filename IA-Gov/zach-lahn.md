@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: false
-date: 2026-06-09T21:40:02.021Z
+date: 2026-06-09T21:40:18.813Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -52,22 +52,9 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
 ## Zach Lahn’s Positions Have Hurt Everyday People
 
-![💉](/_assets/svg/twemoji/1f489.svg)
-
--   [| **Zach Lahn Sowed Distrust In Vaccines And Backed Anti-Vaccine Policies**](/IA-Gov/zach-lahn/lahn-vaccines)
-
-![👩](/_assets/svg/twemoji/1f469.svg)
-
--   [| **Zach Lahn Was An Anti-Abortion Extremist**](/IA-Gov/zach-lahn/lahn-abortion)
-
-![🧑‍🏫](/_assets/svg/twemoji/1f9d1-200d-1f3eb.svg)
-
--   [| **Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Would Defund Iowa Public Schools**](/IA-Gov/zach-lahn/lahn-education)
-
-![🧑‍🌾](/_assets/svg/twemoji/1f9d1-200d-1f33e.svg)
-
--   [| **Zach Lahn Supported Trump’s Tariffs And Dismissed Tariff Impacts On Farmers Despite Increasing Financial Pressure**](/IA-Gov/zach-lahn/lahn-tariffs)
-
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
-
--   [| **Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion**](/IA-Gov/zach-lahn/lahn-medicaid)
+- [:hospital: | **Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion**](https://research-books.com/IA-Gov/zach-lahn/lahn-medicaid)
+- [:farmer: | **Zach Lahn Supported Trump’s Tariffs And Dismissed Tariff Impacts On Farmers Despite Increasing Financial Pressure**](https://research-books.com/IA-Gov/zach-lahn/lahn-tariffs)
+- [:teacher: | **Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Would Defund Iowa Public Schools**](https://research-books.com/IA-Gov/zach-lahn/lahn-education)
+- [:woman: | **Zach Lahn Was An Anti-Abortion Extremist**](https://research-books.com/IA-Gov/zach-lahn/lahn-abortion)
+- [:syringe:|  **Zach Lahn Sowed Distrust In Vaccines And Backed Anti-Vaccine Policies**](https://research-books.com/IA-Gov/zach-lahn/lahn-vaccines)
+{.links-list}
