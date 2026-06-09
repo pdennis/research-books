@@ -2,7 +2,7 @@
 title: Joe Lombardo
 description: 
 published: true
-date: 2026-05-26T19:32:12.417Z
+date: 2026-06-09T17:50:36.152Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T19:03:34.764Z
@@ -76,7 +76,7 @@ This video is not for public use on a campaign, and is purely here as an example
 
 ### Lombardo Supported Stripping SNAP Benefits From Nevada Families 
 
--   In 2025, Lombardo [supported](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) Trump’s [“One Big Beautiful Bill,”](https://www.congress.gov/votes/house/119-1/190) which made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Lombardo said [“Nevadans should be excited”](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) about the passing of the bill, and dismissed concerns about its impacts as “bickering” while nearly [160,000 Nevada households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
+-   In 2025, Lombardo [supported](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) Trump’s [“One Big Beautiful Bill,”](https://www.congress.gov/votes/house/119-1/190) which made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Lombardo said [“Nevadans should be excited”](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) about the passing of the bill, and dismissed concerns about its impacts as “bickering” while over [145,000 Nevada households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
 
 **Message:** Lombardo supported making food more expensive for Nevadans.
 
