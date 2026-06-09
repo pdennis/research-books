@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: false
-date: 2026-06-09T21:17:58.733Z
+date: 2026-06-09T21:18:25.220Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -39,12 +39,12 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
  
 
-### Feenstra WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS
+### Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Defunded Iowa Public Schools
 
--   From 2025 to 2026, Randy Feenstra voted seven times to protect Trump’s tariffs. In February 2026, Feenstra [voted](http://clerk.house.gov/evs/2026/roll065.xml) against terminating tariffs against Canada and effectively [voted](http://clerk.house.gov/evs/2026/roll060.xml) to block votes on legislation terminating Trump's tariffs, even though the Tax Foundation found that Trump's tariffs resulted in a $[1,300 tax increase](https://plus.cq.com/doc/news-8404311?12) on American households in 2026. In April 2025, Feenstra was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs from being repealed by Congress, dooming Iowans who relied on him to a trade war and [rising prices](https://www.press-citizen.com/story/news/local/2025/06/18/iowa-farmers-business-donald-trump-tariffs-impact/84242027007/). Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi) and are [hurting Iowa small businesses](https://www.mprnews.org/story/2025/11/29/after-slow-sales-small-businesses-feel-more-uneasy-ahead-of-the-holidays) and [farmers](https://www.kcrg.com/2025/11/14/iowas-economy-will-feel-more-impacts-than-other-states-tariffs-says-economist/). In April 2025, Trump’s devastating tariffs cost Iowa businesses nearly [$90 million](https://www.press-citizen.com/story/news/local/2025/06/18/iowa-farmers-business-donald-trump-tariffs-impact/84242027007/).
--   Despite this, Randy Feenstra told Iowans to trust Trump’s team to “[do their magic](https://soundcloud.com/abpac/randy-feenstra-the-fox-news-rundown-101625/s-PFgj9qsW7EH?si=cf5a1db5a11041ff8bee2c577450cbca&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing),” even though the [U.S. stock market crashed](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s escalating global trade war.
 
-**Message:** Randy Feenstra was the deciding vote to crush Iowa small businesses and ensure Iowans will pay more for groceries.  
+- 
+
+**Message:** Despite running an unaccredited private school in Kansas, Zach Lahn sought to punish Iowa public school teachers while expanding private school vouchers. 
  
 
 ### Feenstra Stripped SNAP Benefits From Iowa Families 
