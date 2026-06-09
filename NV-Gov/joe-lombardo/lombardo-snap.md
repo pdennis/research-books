@@ -2,7 +2,7 @@
 title: Joe Lombardo On SNAP Cuts
 description: 
 published: true
-date: 2026-06-09T17:51:23.225Z
+date: 2026-06-09T17:52:12.750Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T21:52:25.180Z
@@ -12,7 +12,7 @@ dateCreated: 2025-12-10T21:52:25.180Z
 
 In 2025, Lombardo [supported](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) Trump’s [“One Big Beautiful Bill,”](https://www.congress.gov/votes/house/119-1/190) which made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Lombardo said [“Nevadans should be excited”](https://x.com/JoeLombardoNV/status/1940894636341653552?s=20) about the passing of the bill, and dismissed concerns about its impacts as “bickering” while over [145,000 Nevada households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
 
-## Lombardo Supported A Bill That Would Strip SNAP Benefits From Millions Of Americans And Make Food More Expensive, Which Could Impact Over 145,000 Nevadans 
+## Lombardo Supported A Bill That Would Strip SNAP Benefits From Millions Of Americans And Make Food More Expensive, Which Could Impact Over 145,000 Nevada Households
 
 ### Lombardo Supported The Republican Reconciliation Bill That Cut Snap Benefits For Millions
 
