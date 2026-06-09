@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: false
-date: 2026-06-09T21:16:55.280Z
+date: 2026-06-09T21:17:58.733Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -35,7 +35,8 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 ### Zach Lahn Supported Trump’s Tariffs And Dismissed Tariff Impacts On Farmers Despite Increasing Financial Pressure
 - 
 
-**Message:** Zach Lahn led efforts to block Medicaid expansion and opposed the Affordable Care Act that helped provide coverage to tens of thousands of Iowans. 
+**Message:** Zach Lahn defended Trump’s tariffs instead of standing up for Iowa farmers facing rising costs.
+
  
 
 ### Feenstra WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS
