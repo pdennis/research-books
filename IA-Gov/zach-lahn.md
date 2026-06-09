@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: false
-date: 2026-06-09T21:16:41.301Z
+date: 2026-06-09T21:16:55.280Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -29,7 +29,7 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
 -  
 
-**Message:** Randy Feenstra voted to rip away health care from tens of thousands of Iowans to fund tax cuts for the wealthy.   
+**Message:** Zach Lahn led efforts to block Medicaid expansion and opposed the Affordable Care Act that helped provide coverage to tens of thousands of Iowans.   
  
 
 ### Zach Lahn Supported Trump’s Tariffs And Dismissed Tariff Impacts On Farmers Despite Increasing Financial Pressure
