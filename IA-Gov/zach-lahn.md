@@ -2,86 +2,106 @@
 title: Zach Lahn
 description: 
 published: false
-date: 2026-06-09T21:20:02.654Z
+date: 2026-06-09T21:24:26.090Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
-
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
+**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
 
 # How To Win Against Zach Lahn
 
 Zach Lahn’s record included attacks on Iowans’ health care, education, and reproductive rights, and support for Trump’s devastating tariffs. Lahn opposed Medicaid expansion and helped lead efforts to block health care coverage for low-income Americans, despite hundreds of thousands of Iowans relying on Medicaid and Affordable Care Act coverage today. He defended Trump's tariffs and downplayed the impacts on Iowa farmers even as farmers and economists warned they were increasing financial pressure on Iowa agriculture and driving up costs across the state. Lahn also backed taxpayer-funded private school vouchers while proposing to revoke teachers' licenses for alleged "indoctrination," despite co-founding an unaccredited private school that did not require licensed teachers. Lahn was an anti-abortion extremist who supported a total abortion ban, opposed abortion medication access, and backed restrictions that went beyond existing Iowa law. Lahn embraced anti-vaccine policies, opposed vaccine requirements, and aligned himself with Robert F. Kennedy Jr.'s MAHA movement.
 
-### Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion 
+### Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion
 
+-   In 2009, Lahn gained national attention after challenging President Obama during a [_town hall_](https://www.foxnews.com/politics/iowa-gop-governor-nominee-recounts-viral-clash-put-obama-spot-2009-town-hall), questioning whether the Affordable Care Act would increase prices and arguing that a government-run health plan would have an unfair advantage over private insurers. In 2015, Lahn dismissed Medicaid expansion as "[_just more of the ObamaCare mess_](https://townhall.com/columnists/zachlahn/2015/04/07/why-gov-bullocks-plan-to-expand-medicaid-is-wrong-for-montanans-n1981632)." As of 2025, more than [_603,000_](https://files.kff.org/attachment/fact-sheet-medicaid-state-IA) Iowans relied on Medicaid, including approximately [_183,000_](https://files.kff.org/attachment/fact-sheet-medicaid-state-IA) adults covered through  [_Medicaid expansion_](https://www.thegazette.com/state-government/work-requirements-for-iowas-expanded-medicaid-population-approved-by-republicans/). In 2026, more than [_123,300_](https://www.kff.org/affordable-care-act/state-indicator/open-enrollment-marketplace-plan-selections/?currentTimeframe=0&selectedRows=%7B%22states%22:%7B%22iowa%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) Iowans received coverage through Affordable Care Act marketplace plans, and Medicaid expansion helped drive significant [_reductions_](https://www.cbpp.org/research/health/medicaid-expansion-frequently-asked-questions-0) in uninsured rates among low-income workers.
+-   From 2014-2015, while Lahn was the Director of [_Americans for Prosperity-Montana_](https://iowastartingline.com/news/meet-zach-lahn-koch-political-operative-iowa-governor/), Lahn helped [_lead_](https://www.bozemandailychronicle.com/news/politics/conservative-group-afp-expands-operation-in-montana/article_402d1036-1a88-11e4-a576-001a4bcf887a.html) efforts to [_block Medicaid expansion_](https://flatheadbeacon.com/2015/02/06/conservative-group-targets-kalispell-lawmaker-medicaid/), using town halls, mailers, phone campaigns, and anti-expansion pledges to [_pressure_](https://flatheadbeacon.com/2015/02/06/conservative-group-targets-kalispell-lawmaker-medicaid/) Republican lawmakers to oppose the policy. Lahn argued Medicaid expansion would “[_shackle_](https://townhall.com/columnists/zachlahn/2015/04/07/why-gov-bullocks-plan-to-expand-medicaid-is-wrong-for-montanans-n1981632)” Montanans to a “[_failing_](https://townhall.com/columnists/zachlahn/2015/04/07/why-gov-bullocks-plan-to-expand-medicaid-is-wrong-for-montanans-n1981632)” health care system and [_incorrectly claimed_](https://iowastartingline.com/news/meet-zach-lahn-koch-political-operative-iowa-governor/) “millions of Montanans” opposed expansion, despite Montana's population being only about one million at the time. Ultimately, Montana [_expanded_](https://iowastartingline.com/news/meet-zach-lahn-koch-political-operative-iowa-governor/) Medicaid despite those efforts. 
 
--  
-
-**Message:** Zach Lahn led efforts to block Medicaid expansion and opposed the Affordable Care Act that helped provide coverage to tens of thousands of Iowans.   
- 
+**Message:** Zach Lahn led efforts to block Medicaid expansion and opposed the Affordable Care Act that helped provide coverage to tens of thousands of Iowans.
 
 ### Zach Lahn Supported Trump’s Tariffs And Dismissed Tariff Impacts On Farmers Despite Increasing Financial Pressure
-- 
+
+-   In 2026, Lahn defended Trump’s tariffs and repeatedly claimed they were “[_not the issue_](https://www.youtube.com/watch?v=_f-3MqrjAHI)” facing Iowa farmers, [_arguing_](https://www.rcreader.com/commentary/first-ever-gubernatorial-republican-primary-forum-held-in-scott-county-was-educational-and-substantive?trumbaEmbed=view%3Devent%26eventid%3D194826359) that rising input costs and agricultural monopolies were the [_real cause_](https://www.rcreader.com/commentary/first-ever-gubernatorial-republican-primary-forum-held-in-scott-county-was-educational-and-substantive?trumbaEmbed=view%3Devent%26eventid%3D194826359) of farmers’ financial struggles. Lahn [_insisted_](https://www.rcreader.com/commentary/first-ever-gubernatorial-republican-primary-forum-held-in-scott-county-was-educational-and-substantive?trumbaEmbed=view%3Devent%26eventid%3D194826359) farmers were more concerned about the cost of seed, fertilizer, and other inputs than tariffs. However, [_farmers_](https://www.pbs.org/newshour/nation/already-under-financial-pressure-farmers-squeezed-further-by-tariffs-and-iran-war), and [_economists_](https://www.kcrg.com/2025/11/14/iowas-economy-will-feel-more-impacts-than-other-states-tariffs-says-economist/) warned that Trump’s [_tariffs_](https://www.pbs.org/newshour/nation/already-under-financial-pressure-farmers-squeezed-further-by-tariffs-and-iran-war) were increasing financial pressure on Iowa agriculture and contributing to higher costs across the state. 
+-   An April 2025 report from the Iowa Farmers for Free Trade found tariffs added nearly [_$90 million_](https://www.press-citizen.com/story/news/local/2025/06/18/iowa-farmers-business-donald-trump-tariffs-impact/84242027007/) in new costs to Iowa businesses in a single month, a 304% increase from the previous year. Economists also [_warned_](https://www.kcrg.com/2025/11/14/iowas-economy-will-feel-more-impacts-than-other-states-tariffs-says-economist/) tariffs were hurting farmers and [_delaying_](https://www.kcrg.com/2025/11/14/iowas-economy-will-feel-more-impacts-than-other-states-tariffs-says-economist/) investments that supported local economies. Iowa farmers were also [_concerned_](https://www.desmoinesregister.com/story/money/business/2025/04/04/trump-tariffs-how-will-they-affect-iowa-farmers-businesses/82791952007/) that Trump’s tariffs would cause the biggest buyers of agricultural goods to look towards other countries since Iowa [_relied_](https://www.iowapublicradio.org/political-news/2025-04-08/iowa-agricultural-exports-trump-trade-war-retaliatory-tariffs) on exporting agricultural goods. Trump’s tariffs also [_impacted_](https://www.desmoinesregister.com/story/money/business/2025/04/04/trump-tariffs-how-will-they-affect-iowa-farmers-businesses/82791952007/) Iowa’s businesses and restaurant industry as Iowa’s manufacturing industry warned the tariffs placed [_more than 226,000 jobs at risk_](https://www.desmoinesregister.com/story/money/business/2025/04/04/trump-tariffs-how-will-they-affect-iowa-farmers-businesses/82791952007/). 
 
 **Message:** Zach Lahn defended Trump’s tariffs instead of standing up for Iowa farmers facing rising costs.
 
- 
-
 ### Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Defunded Iowa Public Schools
 
+-   Lahn pushed policies that would [_expand_](https://www.thenews-ia.com/stories/candidate-for-governor-discusses-iowa-concerns-during-stop-in-kalona,192496) taxpayer-funded private school vouchers while increasing scrutiny of Iowa’s public school teachers. Lahn proposed [_eliminating Iowa’s teacher licensing board_](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate) and revoking the licenses of teachers accused of “[_indoctrination_](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate)” or promoting a “political agenda” in the classroom. His proposals came despite co-founding [_Wonder Inc_](https://www.kansas.com/news/local/education/article217026770.html)., an unaccredited private school in Kansas that was [_not required_](https://www.kansas.com/news/local/education/article217026770.html) to hire licensed teachers.
+-   Lahn supported [_expanding school vouchers_](https://iowacapitaldispatch.com/2026/05/05/qa-iowa-gop-gubernatorial-candidates-on-abortion-eminent-domain-esas/)despite concerns the program [_diverted_](https://www.desmoinesregister.com/story/news/education/2026/03/03/iowa-private-schools-see-esa-usage-surges/88379665007/) public funds to private schools and [_strained_](https://cbs2iowa.com/news/local/iowa-schools-struggle-with-funding-cuts-as-private-vouchers-rise) Iowa public schools. At the same time, [_Wonder Inc_](https://www.kansas.com/news/local/education/article217026770.html)., the private school Lahn co-founded, charged families up to [_$10,000 in annual tuition._](https://www.kansas.com/news/local/education/article217026770.html) Meanwhile, Iowa’s voucher program cost taxpayers more than [_$314 million_](https://iowastatedaily.com/331292/news/transparency-concerns-grow-over-iowas-314-million-private-school-program/) in 2025-2026, subsidized 99% of private school students, and was projected to cost [_$350 million_](https://x.com/DMRPoliticsCzar/status/2028863437200085380) by 2027.
 
-- 
-
-**Message:** Despite running an unaccredited private school in Kansas, Zach Lahn sought to punish Iowa public school teachers while expanding private school vouchers. 
- 
+**Message:** Despite running an unaccredited private school in Kansas, Zach Lahn sought to punish Iowa public school teachers while expanding private school vouchers.
 
 ### Zach Lahn Was An Anti-Abortion Extremist
 
+-   Zach Lahn was an out-of-touch anti-abortion extremist who supported a [_total abortion ban_](https://time.com/article/2026/06/03/how-zach-lahn-overcame-a-trump-backed-opponent-in-iowa/) and argued that [_life begins at conception_](https://www.youtube.com/watch?v=ZPdLLdrcLrU), claiming anti-abortion positions were the “[_only right choice_](https://www.youtube.com/watch?v=ZPdLLdrcLrU).” He pledged to protect the unborn “[_without hesitation and without apology_](https://www.facebook.com/share/p/1935DKpbna/)” and said his opposition to abortion extended to [_embryos_](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate) created through [_IVF_](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate) treatment. 
+-   Lahn said he would go [_further_](https://www.youtube.com/watch?v=Ex--9j5pNec) than [_Iowa’s restrictions on abortion medication_](https://iowacapitaldispatch.com/2026/05/19/gov-kim-reynolds-signs-laws-restricting-access-to-abortion-pills-hpv-vaccine/?_ga=2.140465459.1230179013.1780935909-1543364181.1780517364), calling for a ban on abortion pills. Lahn’s opposition to abortion medication came as the [_Supreme Court_](https://iowacapitaldispatch.com/2026/05/19/gov-kim-reynolds-signs-laws-restricting-access-to-abortion-pills-hpv-vaccine/?_ga=2.140465459.1230179013.1780935909-1543364181.1780517364) allowed telehealth access to abortion medication to continue under current federal rules.
 
-**Message:** Zach Lahn threatened the reproductive freedoms of Iowans. 
- 
+**Message:** Zach Lahn threatened the reproductive freedoms of Iowans.
 
 ### Zach Lahn Sowed Distrust In Vaccines And Backed Anti-Vaccine Policies
 
+-   Zach Lahn called for [_removing_](https://www.radioiowa.com/2026/01/31/four-gop-candidates-for-iowa-governor-back-mrna-vaccine-ban/) COVID-19 vaccines from the market, [_banning mRNA vaccines_](https://www.desmoinesregister.com/story/news/politics/elections/2026/06/03/zach-lahn-iowa-republican-governor-nominee/90380751007/), and [_eliminating all vaccine requirements tied to school enrollment_](https://www.washingtonpost.com/health/2026/06/08/zach-lahn-wins-iowa-republican-governor-primary-after-blasting-pesticides/), arguing that the medical establishment had "[_lost our trust_](https://www.radioiowa.com/2026/01/31/four-gop-candidates-for-iowa-governor-back-mrna-vaccine-ban/)."
+-   Lahn praised delaying certain newborn hepatitis B vaccinations as a “[_MAHA win_](https://x.com/ZachLahn/status/1997051216707064312)” despite [_warnings_](https://www.washingtonpost.com/health/2026/04/27/delaying-hepatitis-b-shot-newborns-infections/) it could [_increase_](https://www.washingtonpost.com/health/2026/04/27/delaying-hepatitis-b-shot-newborns-infections/) infections, deaths, and health care costs. He also [_attacked_](https://www.rcreader.com/commentary/first-ever-gubernatorial-republican-primary-forum-held-in-scott-county-was-educational-and-substantive?trumbaEmbed=view%3Devent%26eventid%3D194826359) organizations like the World Health Organization as "[_globalist organizations_](https://www.rcreader.com/commentary/first-ever-gubernatorial-republican-primary-forum-held-in-scott-county-was-educational-and-substantive?trumbaEmbed=view%3Devent%26eventid%3D194826359)" that sought to strip away rights and sovereignty.
+-   In 2026, Lahn received the [_endorsement_](https://x.com/ZachLahn/status/2019160697381245081?s=20) of [_Stand For Health Freedom_](https://www.pbs.org/newshour/health/anti-science-bills-hit-statehouses-attacking-longstanding-public-health-protections), an organization that [_opposed_](https://www.washingtonpost.com/health/2026/06/08/zach-lahn-wins-iowa-republican-governor-primary-after-blasting-pesticides/) vaccine requirements. Lahn also signed [_Americans For Health Freedom_](https://web.archive.org/web/20260608142428/https://www.americansforhealthfreedom.org/)'s pledge calling for [_COVID vaccines_](https://web.archive.org/web/20260608142603/https://www.americansforhealthfreedom.org/sign-the-pledge) and [_mRNA_](https://web.archive.org/web/20260608142603/https://www.americansforhealthfreedom.org/sign-the-pledge) shots to be pulled from the market. Lahn further aligned himself with [_Robert F. Kennedy Jr._](https://www.chemistryworld.com/news/what-kind-of-damage-has-rfk-jrs-health-department-inflicted-on-vaccine-research-in-the-us-so-far/4023636.article)'s MAHA movement, becoming the [_first candidate_](https://iowacapitaldispatch.com/2026/05/05/qa-iowa-gop-gubernatorial-candidates-on-abortion-eminent-domain-esas/) endorsed by MAHA Action and describing Kennedy as a [_major motivation_](https://www.washingtonpost.com/health/2026/06/08/zach-lahn-wins-iowa-republican-governor-primary-after-blasting-pesticides/) for his campaign.
 
--   
-**Message:** Zach Lahn embraced anti-vaccine policies that put Iowa public health at risk.  
- 
-
+**Message:** Zach Lahn embraced anti-vaccine policies that put Iowa public health at risk.
 
 # Issue Back-Ups
 
 ## Randy Feenstra's Policies Have Hurt Everyday People
-- [:hospital: | **Randy Feenstra Supported Efforts To Cut Medicaid And Threaten Iowans' Access To Health Care**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-medicaid)
-- [:older_man: | **Randy Feenstra Voted For Medicare Cuts**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-medicare)
-- [:shopping_cart: | **Randy Feenstra Backed Trump's Tariffs, Endangering Iowa’s Economy**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-tariffs)
-- [:apple: | **Randy Feenstra Cast Votes To Cut SNAP Benefits From Iowa Families**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-food)
-- [:x: | **Randy Feenstra Won't Defend Iowans’ Jobs Or Social Security From Trump**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-doge)
-- [:mechanic: | **Randy Feenstra Voted Against Protecting Iowa’s Clean Energy Jobs**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-cleanenergy)
-- [:corn: | **Randy Feenstra Failed Farmers And Failed To Pass Year-Round E15 In Congress**](/IA-Gov/randy-feenstra/feenstra-e15)
-- [:woman: | **Randy Feenstra Was An Anti-Abortion Extremist**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-abortion)
-- [:fuelpump: **Randy Feenstra Supported The War In Iran As The War Led To Increased Costs In Iowa**](https://research-books.com/IA-Gov/randy-feenstra/feenstra-iran)
-{.links-list}
+
+![🏥](/_assets/svg/twemoji/1f3e5.svg)
+
+-   [| **Randy Feenstra Supported Efforts To Cut Medicaid And Threaten Iowans' Access To Health Care**](/en/IA-Gov/randy-feenstra/feenstra-medicaid)
+
+![👴](/_assets/svg/twemoji/1f474.svg)
+
+-   [| **Randy Feenstra Voted For Medicare Cuts**](/en/IA-Gov/randy-feenstra/feenstra-medicare)
+
+![🛒](/_assets/svg/twemoji/1f6d2.svg)
+
+-   [| **Randy Feenstra Backed Trump's Tariffs, Endangering Iowa’s Economy**](/en/IA-Gov/randy-feenstra/feenstra-tariffs)
+
+![🍎](/_assets/svg/twemoji/1f34e.svg)
+
+-   [| **Randy Feenstra Cast Votes To Cut SNAP Benefits From Iowa Families**](/en/IA-Gov/randy-feenstra/feenstra-food)
+
+![❌](/_assets/svg/twemoji/274c.svg)
+
+-   [| **Randy Feenstra Won't Defend Iowans’ Jobs Or Social Security From Trump**](/en/IA-Gov/randy-feenstra/feenstra-doge)
+
+![🧑‍🔧](/_assets/svg/twemoji/1f9d1-200d-1f527.svg)
+
+-   [| **Randy Feenstra Voted Against Protecting Iowa’s Clean Energy Jobs**](/en/IA-Gov/randy-feenstra/feenstra-cleanenergy)
+
+![🌽](/_assets/svg/twemoji/1f33d.svg)
+
+-   [| **Randy Feenstra Failed Farmers And Failed To Pass Year-Round E15 In Congress**](/IA-Gov/randy-feenstra/feenstra-e15)
+
+![👩](/_assets/svg/twemoji/1f469.svg)
+
+-   [| **Randy Feenstra Was An Anti-Abortion Extremist**](/en/IA-Gov/randy-feenstra/feenstra-abortion)
+
+![⛽](/_assets/svg/twemoji/26fd.svg)
+
+-   [**Randy Feenstra Supported The War In Iran As The War Led To Increased Costs In Iowa**](/IA-Gov/randy-feenstra/feenstra-iran)
 
 ## Randy Feenstra Used His Power To Benefit The Powerful
 
-- [:eyes: | **It Took Randy Feenstra 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-epstein)
-- [:grimacing: | **Randy Feenstra Advanced Election Denial Claims**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-2020)
-{.links-list}
+![👀](/_assets/svg/twemoji/1f440.svg)
+
+-   [| **It Took Randy Feenstra 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](/en/IA-Gov/randy-feenstra/feenstra-epstein)
+
+![😬](/_assets/svg/twemoji/1f62c.svg)
+
+-   [| **Randy Feenstra Advanced Election Denial Claims**](/en/IA-Gov/randy-feenstra/feenstra-2020)
 
 # Key Votes
 
-- [:white_check_mark: | **Randy Feenstra's Key Votes As A Member Of Congress**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-votes)
-{.links-list}
+![✅](/_assets/svg/twemoji/2705.svg)
+
+-   [| **Randy Feenstra's Key Votes As A Member Of Congress**](/en/IA-Gov/randy-feenstra/feenstra-votes)
