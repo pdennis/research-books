@@ -2,13 +2,12 @@
 title: Zach Lahn
 description: 
 published: false
-date: 2026-06-09T21:31:38.516Z
+date: 2026-06-09T21:31:54.984Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
 
 # How To Win Against Zach Lahn
 
