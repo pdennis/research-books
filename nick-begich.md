@@ -2,7 +2,7 @@
 title: Nick Begich
 description: 
 published: false
-date: 2026-06-09T22:26:41.539Z
+date: 2026-06-09T22:55:09.523Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T15:05:38.283Z
@@ -85,6 +85,7 @@ Nick Begich actively fought to make life harder for Alaskans. He “enthusiastic
 ## Begich Used His Power To Benefit Himself And The Powerful
 - [:eyes: *It Took Begich 11 Months To Voted To Release The Epstein Files*](https://research-books.com/en/nick-begich/epstein)
 - [:moneybag: *Begich Claimed To Be "America First" But Ran A Company That Consisted Almost Entirely Of Foreign Workers*](https://research-books.com/en/nick-begich/business-career)
+- [:warning: *Begich's Old Boss Questioned His Loyalty And Honesty*](https://research-books.com/en/nick-begich/character)
 {.links-list}
 # Key Votes
 - [:white_check_mark: *Begich's Key Votes In Congress*](https://research-books.com/en/nick-begich/votes)
