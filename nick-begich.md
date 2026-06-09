@@ -1,8 +1,8 @@
 ---
 title: Nick Begich
 description: 
-published: false
-date: 2026-06-09T22:55:09.523Z
+published: true
+date: 2026-06-09T23:01:24.812Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T15:05:38.283Z
