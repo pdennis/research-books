@@ -2,7 +2,7 @@
 title: Nick Begich
 description: 
 published: false
-date: 2026-06-09T22:19:45.214Z
+date: 2026-06-09T22:26:41.539Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T15:05:38.283Z
@@ -46,7 +46,7 @@ Nick Begich actively fought to make life harder for Alaskans. He “enthusiastic
 
 **Message:** Begich was an early supporter of an agency that eliminated his constituents’ jobs and caused Alaska seniors to wait longer for services. 
 
-### when campaigning, begich promised to put fishing families first but has Failed To Live Up To His Promises
+### when campaigning, begich promised to Stand Up To Trawling, but has yet to deliver
 
 -   In 2024 Begich [committed](https://www.facebook.com/share/p/1SxfHx6oH8/) to letting his fishing policy be decided by the [Stop Alaskan Trawler Bycatch Group](https://www.facebook.com/groups/181111123119023/about) that was focused on the destructive [commercial fishing](https://northpacificyachts.com/blog/trawler/why-is-it-called-a-trawler/) practice known as [trawling](https://salmonstate.org/bycatch) and finding a solution to [bycatch](https://www.ifaw.org/journal/bycatch). Since 2022, Begich has [taken](https://www.fec.gov/data/receipts/?data_type=processed&committee_id=C00792341&contributor_name=groundfish)[$4,500](https://www.fec.gov/data/receipts/?data_type=processed&committee_id=C00792341&contributor_name=todd+loomis)[from](https://www.fec.gov/data/receipts/?data_type=processed&committee_id=C00792341&contributor_name=Arne+Fuglvog)[trawl](https://www.fec.gov/data/receipts/?data_type=processed&committee_id=C00792341&contributor_name=Kristian+Uri)[interests](https://www.fec.gov/data/receipts/?data_type=processed&committee_id=C00792341&contributor_name=Matt+Tinning) and in 2025 5,000 Alaskans [signed](https://www.nationalfisherman.com/thousands-of-alaskans-urge-begich-to-ban-bottom-trawling) a [reminding Begich of his promise](https://www.nationalfisherman.com/thousands-of-alaskans-urge-begich-to-ban-bottom-trawling) and urging him to ban bottom trawling. He has yet to do so. 
 
@@ -74,7 +74,18 @@ Nick Begich actively fought to make life harder for Alaskans. He “enthusiastic
 # Issue Briefs
 
 ## Begich Supported Policies That Hurt Everyday Alaskans
-
+- [:hospital: *Begich Voted To Take Health Coverage From Alaskans*](https://research-books.com/en/nick-begich/health-care)
+- [:older_man: *Begich Supported Policies That Put Services Alaska Seniors Relied On At Risk*](https://research-books.com/en/nick-begich/seniors)
+- [:carrot: *Begich Voted To Take Food Assistance From Alaskans*](https://research-books.com/en/nick-begich/snap)
+- [:shopping_cart: *Begich Voted To Protect Tariffs That Raised Prices On Alaskans*](https://research-books.com/en/nick-begich/tariffs)
+- [:x: *Begich Supported An Agency That Laid Off Alaskans And Weakened Social Security Services*](https://research-books.com/en/nick-begich/doge)
+- [:fish: *Begich Promised To Stand Up To Trawling And Has Yet To Deliver*](https://research-books.com/en/nick-begich/trawling)
+- [:mountain: *Begich Could Not Be Trusted To Protect Alaska's Public Lands And Marine Life*](https://research-books.com/en/nick-begich/public-land)
+{.links-list}
 ## Begich Used His Power To Benefit Himself And The Powerful
-
+- [:eyes: *It Took Begich 11 Months To Voted To Release The Epstein Files*](https://research-books.com/en/nick-begich/epstein)
+- [:moneybag: *Begich Claimed To Be "America First" But Ran A Company That Consisted Almost Entirely Of Foreign Workers*](https://research-books.com/en/nick-begich/business-career)
+{.links-list}
 # Key Votes
+- [:white_check_mark: *Begich's Key Votes In Congress*](https://research-books.com/en/nick-begich/votes)
+{.links-list}
