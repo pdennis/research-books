@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: false
-date: 2026-06-09T21:42:13.566Z
+date: 2026-06-09T21:57:52.259Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -52,22 +52,15 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
 ## Zach Lahn’s Positions Have Hurt Everyday People
 
-![💉](/_assets/svg/twemoji/1f489.svg)
+- [:syringe: | **Zach Lahn Sowed Distrust In Vaccines And Backed Anti-Vaccine Policies**](/IA-Gov/zach-lahn/lahn-vaccines)
 
--   [| **Zach Lahn Sowed Distrust In Vaccines And Backed Anti-Vaccine Policies**](/IA-Gov/zach-lahn/lahn-vaccines)
+- [:woman: | **Zach Lahn Was An Anti-Abortion Extremist**](/IA-Gov/zach-lahn/lahn-abortion)
 
-![👩](/_assets/svg/twemoji/1f469.svg)
 
--   [| **Zach Lahn Was An Anti-Abortion Extremist**](/IA-Gov/zach-lahn/lahn-abortion)
+-   [:teacher: | **Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Would Defund Iowa Public Schools**](/IA-Gov/zach-lahn/lahn-education)
 
-![🧑‍🏫](/_assets/svg/twemoji/1f9d1-200d-1f3eb.svg)
+-   [:farmer: | **Zach Lahn Supported Trump’s Tariffs And Dismissed Tariff Impacts On Farmers Despite Increasing Financial Pressure**](/IA-Gov/zach-lahn/lahn-tariffs)
 
--   [| **Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Would Defund Iowa Public Schools**](/IA-Gov/zach-lahn/lahn-education)
+-   [:hospital: | **Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion**](/IA-Gov/zach-lahn/lahn-medicaid)
 
-![🧑‍🌾](/_assets/svg/twemoji/1f9d1-200d-1f33e.svg)
-
--   [| **Zach Lahn Supported Trump’s Tariffs And Dismissed Tariff Impacts On Farmers Despite Increasing Financial Pressure**](/IA-Gov/zach-lahn/lahn-tariffs)
-
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
-
--   [| **Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion**](/IA-Gov/zach-lahn/lahn-medicaid)
+{.links-list}
