@@ -2,7 +2,7 @@
 title: Nick LaLota
 description: 
 published: false
-date: 2025-12-27T04:18:41.188Z
+date: 2026-06-10T15:49:12.305Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T18:18:26.551Z
@@ -115,3 +115,4 @@ This summary report is designed to provide a roadmap for understanding and conte
 - [nick lalota's Positions On Judicial Affairs Policy](/nick-lalota/lalota-judicial-affairs)
 - [nick lalota's Positions On Postal Service Policy](/nick-lalota/lalota-postal-policy)
 - [nick lalota's Positions On Medicare Policy](/nick-lalota/lalota-medicare-positions)
+- [:white_check_mark: *Lalota's Key Votes In Congress*](https://research-books.com/en/nick-lalota/votes)
