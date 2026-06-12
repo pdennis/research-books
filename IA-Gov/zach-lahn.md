@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: true
-date: 2026-06-09T22:47:34.676Z
+date: 2026-06-12T16:16:30.545Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -10,7 +10,7 @@ dateCreated: 2026-06-09T20:07:59.131Z
 
 # How To Win Against Zach Lahn
 
-Zach Lahn’s record included attacks on Iowans’ health care, education, and reproductive rights, and support for Trump’s devastating tariffs. Lahn opposed Medicaid expansion and helped lead efforts to block health care coverage for low-income Americans, despite hundreds of thousands of Iowans relying on Medicaid and Affordable Care Act coverage today. He defended Trump's tariffs and downplayed the impacts on Iowa farmers even as farmers and economists warned they were increasing financial pressure on Iowa agriculture and driving up costs across the state. Lahn also backed taxpayer-funded private school vouchers while proposing to revoke teachers' licenses for alleged "indoctrination," despite co-founding an unaccredited private school that did not require licensed teachers. Lahn was an anti-abortion extremist who supported a total abortion ban, opposed abortion medication access, and backed restrictions that went beyond existing Iowa law. Lahn embraced anti-vaccine policies, opposed vaccine requirements, and aligned himself with Robert F. Kennedy Jr.'s MAHA movement.
+Carpetbagger Zach Lahn’s record included attacks on Iowans’ health care, education, and reproductive rights, and support for Trump’s devastating tariffs. Lahn opposed Medicaid expansion and helped lead efforts to block health care coverage for low-income Americans, despite hundreds of thousands of Iowans relying on Medicaid and Affordable Care Act coverage today. He defended Trump's tariffs and downplayed the impacts on Iowa farmers even as farmers and economists warned they were increasing financial pressure on Iowa agriculture and driving up costs across the state. Lahn also backed taxpayer-funded private school vouchers while proposing to revoke teachers' licenses for alleged "indoctrination," despite co-founding an unaccredited private school that did not require licensed teachers. Lahn was an anti-abortion extremist who supported a total abortion ban, opposed abortion medication access, and backed restrictions that went beyond existing Iowa law. Lahn embraced anti-vaccine policies, opposed vaccine requirements, and aligned himself with Robert F. Kennedy Jr.'s MAHA movement. Lahn is a carpetbagger with deep ties to Kansas and other states, maintaining a residence in Kansas and flying frequently to Kansas while running for Iowa governor.
 
 ### Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion
 
@@ -48,6 +48,12 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
 **Message:** Zach Lahn embraced anti-vaccine policies that put Iowa public health at risk.
 
+### Zach Lahn Is A Carpetbagger
+
+- Despite running to be governor of Iowa, as of 2026, Lahn maintained a [home in Kansas](https://www.desmoinesregister.com/story/news/politics/elections/2026/05/14/zach-lahn-iowa-governor-candidate-flies-second-house-home-kansas/90000788007/) and frequently flew to Kansas using his private plane. The Des Moines Register found that Lahn’s private plane took [37 trips to Wichita and spent 75 nights in Wichita](https://www.desmoinesregister.com/story/news/politics/elections/2026/05/14/zach-lahn-iowa-governor-candidate-flies-second-house-home-kansas/90000788007/) between October 2025 and May 2026. Lahn said that if he wins the gubernatorial election, he would [“be in Iowa as much as humanly possible.”](https://www.desmoinesregister.com/story/news/politics/elections/2026/05/14/zach-lahn-iowa-governor-candidate-flies-second-house-home-kansas/90000788007/) Lahn [re-registered to vote in Iowa](https://www.desmoinesregister.com/story/news/politics/elections/2026/05/14/zach-lahn-iowa-governor-candidate-flies-second-house-home-kansas/90000788007/) in October 2024, barely qualifying for [Iowa’s residence requirement](https://iowastartingline.com/news/meet-zach-lahn-koch-political-operative-iowa-governor/) to run for Iowa governor, after living in [Kansas](https://iowastartingline.com/news/meet-zach-lahn-koch-political-operative-iowa-governor/) and [voting in Kansas elections from 2018 to 2022.](https://www.kmuw.org/politics/2026-06-01/co-founder-of-wichita-private-school-contending-for-iowa-gops-gubernatorial-nomination) In 2024, [Lahn’s wife purchased a home near Wichita and declared it her primary residence](https://iowastartingline.com/news/meet-zach-lahn-koch-political-operative-iowa-governor/) before selling it to an LLC in 2025. Prior to living in Kansas, Lahn also lived in Montana, working for [Montana’s Americans for Prosperity](https://www.desmoinesregister.com/story/news/politics/elections/2026/06/03/zach-lahn-iowa-republican-governor-nominee/90380751007/) chapter and [Steve Daines.](https://www.legistorm.com/person/bio/171511/Zachary_A_Lahn.html) He also attended college in [Colorado and worked for Cory Gardner.](https://www.legistorm.com/person/bio/171511/Zachary_A_Lahn.html) 
+
+**Message:** Zach Lahn is a carpetbagger with deep ties to Kansas.
+
 # Issue Back-Ups
 
 ## Zach Lahn’s Positions Have Hurt Everyday People
@@ -56,4 +62,8 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 -   [:teacher: | **Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Defunded Iowa Public Schools**](/IA-Gov/zach-lahn/lahn-education)
 - [:woman: | **Zach Lahn Was An Anti-Abortion Extremist**](/IA-Gov/zach-lahn/lahn-abortion)
 - [:syringe: | **Zach Lahn Sowed Distrust In Vaccines And Backed Anti-Vaccine Policies**](/IA-Gov/zach-lahn/lahn-vaccines)
+{.links-list}
+
+## Zach Lahn Chose Himself Over Iowans
+- [:x:  | **Zach Lahn Is A Carpetbagger**](/IA-Gov/zach-lahn/lahn-carpetbagger)
 {.links-list}
