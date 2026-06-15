@@ -2,7 +2,7 @@
 title: Bryan Steil (WI-01)
 description: 
 published: true
-date: 2026-06-15T15:43:59.188Z
+date: 2026-06-15T16:07:28.305Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T15:42:58.617Z
@@ -21,5 +21,15 @@ Bryan Steil is an extreme MAGA-loyalist who voted to rip away health care and fo
 
 
 ### **Steil Opposed Lowering The Cost Of Prescription Drugs For Seniors**
+- Steil [_voted_](http://clerk.house.gov/evs/2022/roll420.xml) against the Inflation Reduction Act and opposed allowing the government to negotiate lower price for prescription drugs because he believed it would [_stifle research and development_](https://steil.house.gov/media/in-the-news/steil-takes-aim-at-price-hiking-drug-companies-by-trying-to-protect-the-free-market). The inflation reduction act [_capped_](https://www.fox13news.com/news/inflation-reduction-act-signed-into-law-will-cap-insulin-costs-for-millions-of-americans) the cost of insulin and allowed [_Medicare to negotiate better drug prices_](https://www.hhs.gov/inflation-reduction-act/index.html). 
+
+**Message:** Steil opposed alleviating costs for Americans who were paying too much out of pocket for prescription drugs.  
+
+### **Steil Supported Policies That Put Services Wisconsin Seniors Relied On At Risk**
+- Steil claimed he wanted to [_protect Social Security and Medicare_](https://racinecountyeye.com/2025/08/08/steil-telephone-town-hall-facts-aug/), but instead he [_voted_](http://clerk.house.gov/evs/2025/roll145.xml) for a bill that would have triggered nearly [_$500 billion in Medicare cuts_](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf). He also [_defended DOGE_](https://pbswisconsin.org/news-item/us-rep-bryan-steil-on-congress-and-cuts-by-musk-and-trump/) as they [_weakened_](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) Wisconsinites’ access to the Social Security Administration with [_mass layoffs_](https://www.cbpp.org/research/social-security/reassignment-wont-fix-the-largest-ever-social-security-staffing-cut).  
+
+- Steil was a member of the [_Republican Study Committee_](https://steil.house.gov/about/committees-and-caucuses), which advocated for [_raising the retirement age_](https://www.americanprogress.org/article/raising-the-retirement-age-for-social-security-would-cut-benefits-by-thousands-of-dollars-each-year/) and [_increasing the cost of health care_](http://cbpp.org/blog/house-republican-health-plan-would-radically-restructure-medicare#:~:text=The%20plan%20would%20likely%20shift,to%20maintain%20continuous%20health%20coverage.) for Medicare beneficiaries. 
+
+**Message:** Steil voted to rip Medicare away from seniors after claiming he would protect it and sat idly by while the Trump administration weakened his constituents’ access to their Social Security benefits. 
 
 # Key Votes
