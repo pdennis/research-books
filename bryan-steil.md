@@ -2,7 +2,7 @@
 title: Bryan Steil (WI-01)
 description: 
 published: true
-date: 2026-06-15T16:31:39.928Z
+date: 2026-06-15T18:17:51.744Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T15:42:58.617Z
@@ -42,7 +42,23 @@ Bryan Steil is an extreme MAGA-loyalist who voted to rip away health care and fo
 
 **Message:** Steil was the deciding vote to make Wisconsinites pay higher prices. 
 
+### **In Congress, Steil Opposed Reproductive Freedom For Wisconsinites**
+- In 2022, Steil celebrated the Supreme Court’s decision to overturn Roe V. Wade, claiming it was a [_“great victory for life.”_](https://x.com/RepBryanSteil/status/1540348850837258245?s=20_) Steil is [_“proudly pro-life,”_](https://www.salon.com/2025/08/25/proudly-pro-life-wisconsin-republican-scrubs-anti-abortion-text-from-campaign-site/) or so his website claimed until he [_deleted the page_](https://www.salon.com/2025/08/25/proudly-pro-life-wisconsin-republican-scrubs-anti-abortion-text-from-campaign-site/) with his abortion position. 
 
+- In Congress, Steil was a staunch anti-abortion advocate. He [_voted_](http://clerk.house.gov/evs/2022/roll360.xml) against the Women’s Health Protection Act, which would have [_codified_](https://www.nytimes.com/2022/07/15/us/politics/house-passes-abortion-access-bills.html) the right to receive abortion services. He also supported the so-called [_Born-Alive Abortion Survivors Protection Act_](https://x.com/RepBryanSteil/status/1305867977309458434?s=20), which could have resulted in [_criminal penalties for medical providers_](https://michiganindependent.com/reproductive_rights/republicans-house-senate-born-alive-anti-abortion-misleading-bills/). 
 
+**Message:** Steil is an extremist who wants to restrict women’s freedoms.
+
+### **It Took Steil 11 Months To Vote To Release The Epstein Files, And Only Did So After Trump Told House Republicans It Was Okay** 
+- Steil [_claimed he wanted the Epstein Files released_](https://www.wpr.org/news/epstein-files-democrats-demands-wisconsin-swing-districts-new-ads#:~:text=Especially%20in%20Van%20Orden's%20district,Orden%20wrote%20in%20a%20statement.'), but it took him 11 months to vote to release the Epstein files. In November 2025, Steil finally [_voted_](http://clerk.house.gov/evs/2025/roll289.xml) to release the Epstein files, but only after Donald Trump [_gave House Republicans permission_](https://truthsocial.com/@realDonaldTrump/posts/115562626931599548) to do so.
+
+- Previously, Steil had cast the [_deciding vote_](http://clerk.house.gov/evs/2025/roll194.xml) against releasing the Epstein files, protecting the accused pedophiles named within them. Steil also never signed the [_discharge petition_](https://clerk.house.gov/DischargePetition/2025090209) that called for their release and he never co-sponsored [_Reps. Thomas Massie and Ro Khanna’s resolution calling for their release_](https://www.nbcnews.com/politics/congress/schumer-epstein-senate-vote-rcna230389).
+
+**Message:** Steil claimed the public deserved the truth about the Epstein files, but it took him 11 months to vote to release the Epstein files and he did only after Trump gave Republicans permission.
+
+### **Steil Defended Hiring A Former Trump Campaign Official Who Was Involved In Trying To Overturn The 2020 Election** 
+- Steil [_defended_](https://www.jsonline.com/story/news/politics/2023/05/10/steils-committee-hires-ex-trump-staffer-tied-to-fake-elector-plot/70202529007/) his decision to hire a former Trump campaign staffer who worked on overturning the 2020 election results in Arizona. When Steil faced criticism for his choice, he defended the staffer, claiming: “what he did for a previous employer I don’t think is terribly relevant.”
+
+**Message:** Steil’s showed a lack of judgement by hiring someone who was involved in efforts to overturn 2020 election results. 
 
 # Key Votes
