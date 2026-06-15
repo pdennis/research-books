@@ -2,7 +2,7 @@
 title: Bryan Steil (WI-01)
 description: 
 published: true
-date: 2026-06-15T16:07:28.305Z
+date: 2026-06-15T16:31:39.928Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T15:42:58.617Z
@@ -31,5 +31,18 @@ Bryan Steil is an extreme MAGA-loyalist who voted to rip away health care and fo
 - Steil was a member of the [_Republican Study Committee_](https://steil.house.gov/about/committees-and-caucuses), which advocated for [_raising the retirement age_](https://www.americanprogress.org/article/raising-the-retirement-age-for-social-security-would-cut-benefits-by-thousands-of-dollars-each-year/) and [_increasing the cost of health care_](http://cbpp.org/blog/house-republican-health-plan-would-radically-restructure-medicare#:~:text=The%20plan%20would%20likely%20shift,to%20maintain%20continuous%20health%20coverage.) for Medicare beneficiaries. 
 
 **Message:** Steil voted to rip Medicare away from seniors after claiming he would protect it and sat idly by while the Trump administration weakened his constituents’ access to their Social Security benefits. 
+
+### **Steil Voted For The Largest Food Assistance Cut In History**
+- Steil [_voted_](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the largest SNAP cut in history. His vote threatened food assistance for over [_37,790 households_](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) in Wisconsin’s 1st congressional district.  
+
+**Message:** Steil voted to cut food assistance to fund tax breaks for millionaires. 
+
+### **Steil Backed Trump's Tariffs While They Brought Harm To Wisconsin Farmers And Small Business Owners**
+- As of March 2026, Steil [_voted_](http://clerk.house.gov/evs/2026/roll065.xml)  six times to defend Trump’s tariffs, including in April 2025 when he was the [_deciding vote_](http://clerk.house.gov/evs/2025/roll094.xml) to protect the tariffs. In August, 2025, Steil [_defended_](https://abcnews.go.com/Politics/republican-rep-bryan-steil-booed-defending-trump-tariffs/story?id=124274659) Trump’s tariffs and got [_booed_](https://www.reuters.com/legal/government/republican-us-representative-brian-steil-booed-over-trump-tariffs-2025-08-01/) by his constituents because of the harm they were bringing to [_farmers_](https://fox11online.com/news/local/wisconsin-farmers-brace-for-losses-amid-tariff-tensions-and-market-uncertainty) and [_small business owners_](https://spectrumnews1.com/wi/milwaukee/news/2025/10/30/wisconsin-entrepreneur--tariffs--small-business--goldman-sachs-business-summit) in Wisconsin. 
+
+**Message:** Steil was the deciding vote to make Wisconsinites pay higher prices. 
+
+
+
 
 # Key Votes
