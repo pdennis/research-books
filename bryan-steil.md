@@ -2,7 +2,7 @@
 title: Bryan Steil (WI-01)
 description: 
 published: true
-date: 2026-06-15T18:17:51.744Z
+date: 2026-06-15T19:03:47.054Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T15:42:58.617Z
@@ -60,5 +60,18 @@ Bryan Steil is an extreme MAGA-loyalist who voted to rip away health care and fo
 - Steil [_defended_](https://www.jsonline.com/story/news/politics/2023/05/10/steils-committee-hires-ex-trump-staffer-tied-to-fake-elector-plot/70202529007/) his decision to hire a former Trump campaign staffer who worked on overturning the 2020 election results in Arizona. When Steil faced criticism for his choice, he defended the staffer, claiming: “what he did for a previous employer I don’t think is terribly relevant.”
 
 **Message:** Steil’s showed a lack of judgement by hiring someone who was involved in efforts to overturn 2020 election results. 
+
+# Issue Briefs
+## Steil Supported Policies That Hurt Everyday Wisconsinites
+- [:hospital: *Steil Voted To Take Health Coverage From Wisconsinites*](https://research-books.com/en/bryan-steil/health-care)
+- [:pill: *Steil Voted Against Lowering Prescription Drug Costs For Seniors*](https://research-books.com/en/bryan-steil/prescription-drugs)
+- [:older_man: *Steil Supported Policies That Put Services Wisconsin Seniors Relied On At Risk*](https://research-books.com/en/bryan-steil/seniors)
+- [:carrot: *Steil Voted To Take Food Assistance From Wisconsinites*](https://research-books.com/en/bryan-steil/snap)
+- [:shopping_cart: *Steil Supported Tariffs That Raised Prices On Wisconsinites*](https://research-books.com/en/bryan-steil/tariffs)
+- [:woman: *Steil Was An Anti-Choice Extremist*](https://research-books.com/en/bryan-steil/choice)
+
+## Steil Used His Power To Benefit Himself And the Powerful
+- [:eyes: *It Took Steil 11 Months To Vote To Release The Epstein Files and He Did Only After Trump Said It Was Okay*](https://research-books.com/bryan-steil/steil-epstein)
+- [:wastebasket: *Steil Defended Hiring A Former Trump Campaign Official Who Was Involved In Trying To Overturn The 2020 Election*](https://research-books.com/en/bryan-steil/steil-2020)
 
 # Key Votes
