@@ -2,7 +2,7 @@
 title: Bryan Steil (WI-01)
 description: 
 published: true
-date: 2026-06-15T19:03:47.054Z
+date: 2026-06-16T18:02:11.534Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T15:42:58.617Z
@@ -75,3 +75,5 @@ Bryan Steil is an extreme MAGA-loyalist who voted to rip away health care and fo
 - [:wastebasket: *Steil Defended Hiring A Former Trump Campaign Official Who Was Involved In Trying To Overturn The 2020 Election*](https://research-books.com/en/bryan-steil/steil-2020)
 
 # Key Votes
+- [:white_check_mark: *Steil's Key Votes In Congress*](https://research-books.com/en/bryan-steil/votes)
+{.links-list}
