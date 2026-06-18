@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-06-11T17:03:55.328Z
+date: 2026-06-18T15:52:35.047Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -92,7 +92,8 @@ dateCreated: 2026-05-19T19:33:30.966Z
 - [:apple:**Paxton Supported Taking Food Assistance From Texans**](/texas-senate/Ken-Paxton/SNAP)
 - [:pill:**Paxton Supported Healthcare Cuts**](/texas-senate/Ken-Paxton/Medicaid)
 {.links-list}
-
+- [:family:**Paxton Supported Radical Pro-Life Policies That Increased Maternal Mortality**](/texas-senate/Ken-Paxton/Abortion)
+{.links-list}
 ## Ken Paxton Was Unethical And Corrupt
 - [:judge:**Paxton Offered Plea Deals In Child Sex Crime Cases**](/texas-senate/Ken-Paxton/Plea-Deal)
 {.links-list}
