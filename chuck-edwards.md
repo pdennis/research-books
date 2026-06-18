@@ -2,7 +2,7 @@
 title: Chuck Edwards
 description: 
 published: true
-date: 2026-05-08T21:01:48.680Z
+date: 2026-06-18T16:44:56.341Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T19:01:59.270Z
@@ -32,7 +32,7 @@ The example content is only intended to illustrate potential uses of the include
 
 
 # How To Win Against Chuck Edwards
-Chuck Edwards was out-of-touch with Western North Carolina. He was a multi-millionaire who voted for Medicaid and SNAP cuts that would disproportionately hurt his constituents. He voted to protect tariffs that were not only raising costs on Western North Carolina but also making Hurricane Helene recovery more difficult. He voted to protect the tariffs while failing to stand up for Western North Carolina on Helene recovery, leaving local governments and his constituents to scramble and struggle with the uncertainty of whether they were actually going to get support from the administration he was so eager to defend. Most recently, Edwards has faced allegations that he [acted inappropriately](https://www.axios.com/2026/05/04/chuck-edwards-letter-house-ethics) toward his female staffers and that he had an [affair](https://www.citizen-times.com/story/news/2026/05/06/chuck-edwards-allegations-update/89943356007/) with a former aide. 
+Chuck Edwards is out of touch with Western North Carolina. He was a multi-millionaire who voted for Medicaid and SNAP cuts that would disproportionately hurt his constituents. He voted to protect tariffs that were not only raising costs on Western North Carolina but also making Hurricane Helene recovery more difficult. He voted to protect the tariffs while failing to stand up for Western North Carolina on Helene recovery, leaving local governments and his constituents to scramble and struggle with the uncertainty of whether they were actually going to get support from the administration he was so eager to defend. Most recently, Edwards has faced allegations that he [acted inappropriately](https://www.axios.com/2026/05/04/chuck-edwards-letter-house-ethics) toward his female staffers and that he had an [affair](https://www.citizen-times.com/story/news/2026/05/06/chuck-edwards-allegations-update/89943356007/) with a former aide. 
 
 ### Edwards Voted For Massive Medicaid Cuts After Promising He Wouldn’t Disrupt Medicaid
 
