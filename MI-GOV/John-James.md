@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-05-27T15:08:07.341Z
+date: 2026-06-18T14:42:17.986Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -82,7 +82,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 -   John James was an anti-abortion extremist who declared he was “[100% pro-life](https://x.com/JohnJamesMI/status/994242564214620160)” and compared abortion to “[genocide](https://www.mlive.com/public-interest/2019/11/michigan-democrats-hit-john-james-for-anti-abortion-comments.html).”
 -   John James supported the [overturning of Roe v. Wade](https://x.com/JohnJamesMI/status/955851162913333248), claimed [“life begins at conception,”](https://www.youtube.com/watch?v=argEzTJdS-Q) and opposed [abortion exceptions](https://www.freep.com/story/news/local/michigan/2018/07/06/john-james-sandy-pensler-michigan-abortion/762315002/) for rape and incest. He pledged to [only support judges](https://www.freep.com/story/news/local/michigan/2018/07/05/sandy-pensler-john-james-want-unseat-debbie-stabenow/755046002/) who supported [abortion restrictions.](https://www.freep.com/story/news/local/michigan/2017/12/15/whos-running-congress-michigan/948487001/) While in Congress, John James voted to ban the abortion drug [Mifepristone](https://clerk.house.gov/evs/2023/roll507.xml). 
 -   John James [supported efforts](https://www.miningjournal.net/news/front-page-news/2018/06/u-s-senate-candidate-visits-marquette/) to [defund Planned Parenthood](https://www.breitbart.com/politics/2018/04/27/gop-senate-candidate-john-james-president-trump-is-keeping-his-promise-to-americans/) and [eliminating federal funding](https://www.breitbart.com/politics/2018/04/27/gop-senate-candidate-john-james-president-trump-is-keeping-his-promise-to-americans/) for abortion providers.
--   John James maintained deep ties with [Right to Life of Michigan](https://x.com/JohnJamesMI/status/1540368244095205378), which [financially supported his campaigns](https://www.mlive.com/public-interest/2019/11/michigan-democrats-hit-john-james-for-anti-abortion-comments.html) and [promoted](https://x.com/JohnJamesMI/status/954144078375112706) their extreme anti-abortion movement.
+-   John James [maintained](https://x.com/JohnJamesMI/status/2064787638238974290) deep ties with [Right to Life of Michigan](https://x.com/JohnJamesMI/status/1540368244095205378), which [financially supported his campaigns](https://www.mlive.com/public-interest/2019/11/michigan-democrats-hit-john-james-for-anti-abortion-comments.html) and [promoted](https://x.com/JohnJamesMI/status/954144078375112706) their extreme anti-abortion movement.
 
 **Message:** John James threatened the reproductive freedoms of Michiganders.
 
