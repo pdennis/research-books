@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-06-18T15:56:40.367Z
+date: 2026-06-18T15:57:05.987Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
