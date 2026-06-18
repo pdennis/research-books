@@ -2,7 +2,7 @@
 title: Joe Wilson (SC-02)
 description: 
 published: true
-date: 2026-06-18T22:02:42.561Z
+date: 2026-06-18T22:10:31.830Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T17:14:23.850Z
