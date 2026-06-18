@@ -2,7 +2,7 @@
 title: Chuck Edwards
 description: 
 published: true
-date: 2026-06-18T16:44:56.341Z
+date: 2026-06-18T16:45:21.095Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T19:01:59.270Z
