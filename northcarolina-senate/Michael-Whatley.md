@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-06-18T16:21:22.668Z
+date: 2026-06-18T18:57:34.985Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -69,7 +69,7 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 
 **Message:** Whatley cheered on Trump’s war in Iran which was raising gas and fertilizer prices, tightening North Carolina families and farmer’s pockets. 
 
-### Whatley’s Extreme Anti-Choice Views Restricted North Carolina Women Right To Choose
+### Whatley Was An Anti-Abortion Extremist
 
 - Whatley touted that he was [pro-life](https://www.usatoday.com/story/news/politics/elections/2024/07/18/rnc-chair-gop-abortion/74460263007/) and that he worked to have “[pro-life](https://www.nc.gop/scotus_leak_fight_for_life)” candidates elected. 
 
