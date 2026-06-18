@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-06-18T15:52:35.047Z
+date: 2026-06-18T15:56:40.367Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -35,6 +35,10 @@ dateCreated: 2026-05-19T19:33:30.966Z
 - Paxton betrayed Texans by [supporting](https://x.com/KenPaxtonTX/status/1940846754087485495) a bill that was estimated to kick off nearly [300,000](https://www.texastribune.org/2025/07/03/trump-megabill-breakdown-texas-medicaid-snap-border/) Texans off their healthcare. 
 
 **Message:** Paxton supported a bill that slashed Texan’s healthcare to fund billionaire tax breaks.
+
+### Paxton Supported Radical Pro-Life Policies That Increased Maternal Mortality 
+
+- Ken Paxton is a radical pro-life [defender](https://x.com/KenPaxtonTX/status/1543193949808066560?s=20) who knows no limits. Paxton [celebrated](https://www.texasattorneygeneral.gov/news/releases/ag-paxton-celebrates-end-roe-v-wade-announces-abortion-now-illegal-texas) the overturning of Roe v. Wade and increased his work to undermine maternal health care. Paxton petitioned the Texas Supreme Court to [halt](https://www.texastribune.org/2023/12/08/texas-abortion-lawsuit-ken-paxton/) an abortion for a mother whose life and fetus were at risk and [threatened](https://www.texastribune.org/2023/12/08/texas-abortion-lawsuit-ken-paxton/) her care providers with legal consequences. Under Ken Paxton, maternal death rates in Texas [increased](https://www.texastribune.org/2025/02/20/texas-abortion-ban-impact-death-hospitalization/). Still, Paxton defends and supports Texas' abortion [bans](https://x.com/KenPaxtonTX/status/1543193949808066560?s=20) and prosecutions. 
 
 ### Paxton Offered Plea Deals In Child Sex Crime Cases
 
