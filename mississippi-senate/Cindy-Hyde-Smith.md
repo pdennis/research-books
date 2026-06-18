@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-05-20T16:15:03.912Z
+date: 2026-06-18T15:44:25.780Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -98,6 +98,16 @@ Hyde-Smith betrayed Mississippians by cutting their healthcare, SNAP benefits, s
 
 **Message:** Hyde-Smith prioritized tax cuts for wealthy donors over nutrition assistance for Mississippi children.
 
+### Hyde-Smith Supported Anti-Abortion Policies 
+
+- Hyde-Smith actively [tried](https://www.mississippifreepress.org/evangelical-leaders-sen-hyde-smith-barrett-nomination-offers-chance-to-end-abortion/) to [help](https://www.foxnews.com/opinion/senator-hyde-smith-mississippi-abortion-roe-v-wade) get Roe v. Wade overturned and [celebrated](https://www.hydesmith.senate.gov/hyde-smith-statement-scotus-decision-overturning-roe-v-wade-mississippis-dobbs-case) the Dobbs decision. Hyde-Smith co-sponsored a [20-week](https://www.wlbt.com/2021/01/28/wicker-hyde-smith-throw-support-behind-nationwide-week-abortion-ban/) nationwide abortion ban and supported Mississippi’s [15-week](https://www.supertalk.fm/hyde-smith-encouraging-prayer-in-advance-of-scotus-hearing-on-mississippi-abortion-case/) ban. Hyde-Smith claimed that l[ife began at conception](https://adfinternational.org/news/gcd-3rd-anniversary).  
+
+- Hyde-Smith [opposed](https://www.hydesmith.senate.gov/pro-life-senator-introduces-bill-stop-abortion-pills-save-babies) allowing easier access to mifepristone and claimed that the pill was [unsafe](https://www.hydesmith.senate.gov/hyde-smith-renews-push-restore-person-safety-standards-chemical-abortion-drugs).
+
+- When a bill to protect IVF came to the floor of the Senate, she single-handedly [blocked](https://www.politico.com/live-updates/2024/02/28/congress/blocks-ivf-vote-gop-senate-protections-00143918) the legislation. 
+
+**Message:** Hyde-Smith was an anti-choice extremist who supported abortion bans and opposed IVF. 
+
 ### Hyde-Smith Used Racially Insensitive Language And Embraced Confederate History
 
 -   Hyde-Smith had a long history of embracing a history that was insensitive to Black Mississippians. At a campaign event, Hyde-Smith claimed that if the man who introduced her invited her to a public hanging that she would be in “[the front row](https://youtu.be/78Ao0UggyjQ?si=_dzwYFnQpke739bp).” Her comments drew [condemnation](https://www.pbs.org/newshour/politics/public-hanging-remark-by-mississippis-sen-cindy-hyde-smith-draws-rebuke-ahead-of-runoff) from [Mississippi's](https://www.npr.org/2018/11/21/669746158/racial-controversy-stirs-mississippi-senate-runoff) Black community and when asked about it, she claimed that the expression didn't have a “[negative connotation](https://www.pbs.org/newshour/politics/public-hanging-remark-by-mississippis-sen-cindy-hyde-smith-draws-rebuke-ahead-of-runoff).”
@@ -136,6 +146,9 @@ Hyde-Smith betrayed Mississippians by cutting their healthcare, SNAP benefits, s
 -   [:hospital:Hyde-Smith Opposed Access To Affordable Healthcare](https://research-books.com/mississippi-senate/Cindy-Hyde-Smith/healthcare)
 
 -   [:apple:Hyde-Smith Slashed Mississippians’ Supplemental Nutrition Assistance And Threatened Mississippi Children With Food Insecurity](https://research-books.com/mississippi-senate/Cindy-Hyde-Smith/snap-cuts)
+
+- [:woman:Hyde-Smith Supported Anti-Abortion Policies](/mississippi-senate/Cindy-Hyde-Smith/abortion)
+
 {.links-list}
 
 ## Cindy Hyde-Smith Was Not Fit To Represent Mississippi
