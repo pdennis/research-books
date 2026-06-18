@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-05-29T15:46:40.904Z
+date: 2026-06-18T16:50:03.124Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
@@ -97,6 +97,14 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 
 **Message:** Hinson supported policies that harmed farmers’ market access, increased their input costs, diminished their supplemental incomes and was wholly ineffective at pushing through renewable fuel policy through Congress. 
 
+### Hinson Extreme Anti-Choice Views Restricted Iowa Women Right To Choose
+
+- Hinson supported [numerous](https://www.desmoinesregister.com/story/news/politics/2017/04/18/20-week-abortion-ban-gets-final-approval-iowa-legislature/100594074/) abortion bans including co-sponsoring legislation that would have been a [total](https://www.desmoinesregister.com/story/news/politics/2026/03/26/iowa-birth-control-bill-over-the-counter-ashley-hinson/89318911007/) abortion and IVF ban as well as an [Iowa heartbeat bill](https://www.desmoinesregister.com/story/news/politics/2018/05/04/abortion-ban-law-iowa-fetal-heartbeat/577443002/) that was described as the most [restrictive](https://www.desmoinesregister.com/story/news/politics/2018/05/04/abortion-ban-law-iowa-fetal-heartbeat/577443002/) in the nation. 
+
+- Hinson [opposed](https://x.com/RepAshleyHinson/status/1357391111841529858?s=20) Roe v. Wade, submitted a [brief](https://www.wicker.senate.gov/2021/7/miss-delegation-pro-life-caucus-file-amicus-brief-urging-supreme-court-to-uphold-mississippi-pro-life-law) to have it overturned and claimed that it was [rightfully overturned when](https://youtu.be/-NxhgUEEZGk) the Dobbs decision happened. 
+
+**Message:** Hinson was an anti-choice extremist who supported abortion bans and restricting women’s right to choose. 
+
 ### Hinson Accepted Money From A Private Equity Firm That That Was Accused Of Harming Patients At An Iowa Hospital It Owned 
 
 - Hinson accepted Around [$30,000](https://iowaindependentnews.com/politics/hinson-took-campaign-funds-from-private-equity-owners-of-for-profit-ottumwa-hospital/) from executives from the private equity group, Apollo Global Management. 
@@ -143,6 +151,9 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 - [:older_woman:**Hinson Was A Threat To Social Security**](/iowa-senate/Ashley-Hinson/Social-Security)
 
 - [:farmer:**Hinson Was An Ineffective And Bad Representative For Farmers**](/iowa-senate/Ashley-Hinson/Farmers)
+
+- [:woman:**Hinson Extreme Anti-Choice Views Restricted Iowa Women Right To Choose**](/iowa-senate/Ashley-Hinson/abortion)
+
 {.links-list}
 
 ## Ashley Hinson Would Be Bad In The Senate 
