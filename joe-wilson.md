@@ -2,7 +2,7 @@
 title: Joe Wilson (SC-02)
 description: 
 published: true
-date: 2026-06-18T17:54:45.501Z
+date: 2026-06-18T17:56:43.440Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T17:14:23.850Z
@@ -80,6 +80,9 @@ Joe Wilson has never shown an interest in helping South Carolinians. Since joini
 # Issue Briefs
 
 ## Wilson Supported Policies That Hurt Everyday South Carolinians
+
+- [:hospital: *Wilson Voted To Take Health Coverage From South Carolinians*](https://research-books.com/en/joe-wilson/wilson-medicaid)
+{.links-list}
 
 ## Wilson Used His Power To Benefit Himself And The Powerful
 
