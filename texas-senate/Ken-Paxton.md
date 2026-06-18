@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-06-18T18:54:20.861Z
+date: 2026-06-18T18:56:02.971Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -38,7 +38,7 @@ dateCreated: 2026-05-19T19:33:30.966Z
 
 ### Paxton Supported Was An Anti-Abortion Extremist 
 
-- Ken Paxton is a radical anti-abortion [extremist](https://x.com/KenPaxtonTX/status/1543193949808066560?s=20) who knows no limits. Paxton [celebrated](https://www.texasattorneygeneral.gov/news/releases/ag-paxton-celebrates-end-roe-v-wade-announces-abortion-now-illegal-texas) the overturning of Roe v. Wade and increased his work to undermine maternal health care. Paxton petitioned the Texas Supreme Court to [halt](https://www.texastribune.org/2023/12/08/texas-abortion-lawsuit-ken-paxton/) an abortion for a mother whose life and fetus were at risk and [threatened](https://www.texastribune.org/2023/12/08/texas-abortion-lawsuit-ken-paxton/) her care providers with legal consequences. Under Ken Paxton, maternal death rates in Texas [increased](https://www.texastribune.org/2025/02/20/texas-abortion-ban-impact-death-hospitalization/). Still, Paxton defends and supports Texas' abortion [bans](https://x.com/KenPaxtonTX/status/1543193949808066560?s=20) and prosecutions. 
+- Ken Paxton is a radical anti-abortion [extremist](https://x.com/KenPaxtonTX/status/1543193949808066560?s=20) who knows no limits. Paxton [celebrated](https://www.texasattorneygeneral.gov/news/releases/ag-paxton-celebrates-end-roe-v-wade-announces-abortion-now-illegal-texas) the overturning of Roe v. Wade and increased his work to undermine maternal health care. Paxton petitioned the Texas Supreme Court to [halt](https://www.texastribune.org/2023/12/08/texas-abortion-lawsuit-ken-paxton/) an abortion for a mother whose life and fetus were at risk and [threatened](https://www.texastribune.org/2023/12/08/texas-abortion-lawsuit-ken-paxton/) her care providers with legal consequences. Under Ken Paxton, maternal death rates in Texas [increased](https://www.texastribune.org/2025/02/20/texas-abortion-ban-impact-death-hospitalization/). Still, Paxton defends and supports Texas' abortion [bans](https://x.com/KenPaxtonTX/status/1543193949808066560?s=20), even without exceptions for [rape and incest](https://www.washingtonpost.com/politics/courts_law/texas-appeals-abortion-ruling/2021/10/08/56b9fe9e-2774-11ec-8831-a31e7b3de188_story.html).
 
 **Message:** Paxton supported anti-abortion policies that put the lives of mothers and children at risk.
 
