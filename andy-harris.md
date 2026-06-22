@@ -2,7 +2,7 @@
 title: Andy Harris
 description: 
 published: true
-date: 2026-03-25T13:14:50.894Z
+date: 2026-06-22T14:47:53.144Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:57:20.506Z
@@ -76,7 +76,7 @@ He was [accused of an ethics violation for failing to disclose his wife's consul
 - [:rotating_light: *January 6 and the Gun Incident*](/andy-harris/january-6-gun)
 - [:moneybag: *$1.3 Million in Health Sector PAC Money*](/andy-harris/health-care-pac-money)
 - [:herb: *Blocked D.C. Marijuana Legalization for a Decade*](/andy-harris/dc-marijuana)
-- [:warning: *Freedom Caucus Extremism and National Abortion Ban*](/andy-harris/freedom-caucus-extremism)
+- [:warning: *Freedom Caucus Extremism and National Abortion Ban*](/andy-harris/abortion)
 - [:page_facing_up: *Ethics Violation: Wife's Undisclosed Income*](/andy-harris/ethics-violation)
 
 {.links-list}
