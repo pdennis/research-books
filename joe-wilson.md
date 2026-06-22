@@ -2,7 +2,7 @@
 title: Joe Wilson (SC-02)
 description: 
 published: true
-date: 2026-06-22T21:35:00.566Z
+date: 2026-06-22T21:35:57.496Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T17:14:23.850Z
@@ -46,7 +46,7 @@ Joe Wilson has never shown an interest in helping South Carolinians. Since joini
 
 **Message:** Wilson supported an agency that eliminated his constituents’ jobs and caused seniors to wait longer for services. 
 
-### Wilson’s extreme Anti-choice views endangered South Carolina women
+### Wilson’s Extreme Anti-choice Views Endangered South Carolina Women
 
 -   Wilson expressed extreme anti-choice views that put South Carolina women’s lives at risk. On six different occaisions he [co-sponsored](https://www.congress.gov/bill/118th-congress/house-bill/431/cosponsors?s=1&r=1&q=%7B%22search%22%3A%22H.R.+431%22%7D) the Life at Conception Act, a [near-total abortion ban](https://www.washingtonpost.com/politics/2024/02/25/ivf-republicans-legislation/) that provided no protection for IVF. He also [supported](https://www.congress.gov/bill/119th-congress/house-bill/21/cosponsors) anti-choice legislation [rooted](https://www.kff.org/womens-health-policy/issue-brief/abortions-later-in-pregnancy-in-a-post-dobbs-era/) in misinformation, called the Supreme Court’s decision to overturn Roe v. Wade “[correct](https://x.com/RepJoeWilson/status/1540394395928858625)” and [consistently](https://sbaprolife.org/scorecard1) received an “A+” rating from the anti-choice organization Susan B. Anthony Pro-Life America.
 
