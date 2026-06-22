@@ -2,7 +2,7 @@
 title: Aaron Bean
 description: 
 published: true
-date: 2026-04-06T22:53:39.340Z
+date: 2026-06-22T14:47:08.121Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T16:22:59.800Z
@@ -102,7 +102,7 @@ Bean is a member of the Republican Study Committee, which has staunchly advocate
 - [:carrot: *Bean Voted To Cut Food Assistance Floridians Relied On To Afford Groceries*](https://research-books.com/en/aaron-bean/bean-SNAP)
 - [:shopping_cart: *Bean Supported Tariffs That Raised Prices On Floridians*](https://research-books.com/en/aaron-bean/bean-tariffs)
 - [:x: *Bean Supported An Agency That Laid Off Federal Workers And Hamstrung Social Security*](https://research-books.com/en/aaron-bean/bean-doge)
-- [:woman: *Bean's Anti-Choice Views Endangered Florida Women*](https://research-books.com/en/aaron-bean/bean-choice)
+- [:woman: *Bean's Anti-Choice Views Endangered Florida Women*](https://research-books.com/en/aaron-bean/bean-abortion)
 {.links-list}
 
 ## Aaron Bean Used His Power To Protect Himself And The Powerful
