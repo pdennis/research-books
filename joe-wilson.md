@@ -2,7 +2,7 @@
 title: Joe Wilson (SC-02)
 description: 
 published: true
-date: 2026-06-22T20:43:29.324Z
+date: 2026-06-22T21:01:33.447Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T17:14:23.850Z
@@ -93,6 +93,7 @@ Joe Wilson has never shown an interest in helping South Carolinians. Since joini
 ## Wilson Used His Power To Benefit Himself And The Powerful
 
 - [:eyes: *It Took Wilson 11 Months To Vote To Release The Epstein Files And He Only Did So After Trump Signaled To House Republicans That He Approved*](https://research-books.com/en/joe-wilson/wilson-epstein)
+- [:triangular_flag_on_post: *Wilson Said His Confederate Heritage Was "Very Honorable"*](https://research-books.com/en/joe-wilson/wilson-confederate)
 {.links-list}
 
 # Key Votes
