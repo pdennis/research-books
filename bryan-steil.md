@@ -2,7 +2,7 @@
 title: Bryan Steil (WI-01)
 description: 
 published: true
-date: 2026-06-16T18:02:11.534Z
+date: 2026-06-22T16:48:38.598Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T15:42:58.617Z
@@ -69,10 +69,12 @@ Bryan Steil is an extreme MAGA-loyalist who voted to rip away health care and fo
 - [:carrot: *Steil Voted To Take Food Assistance From Wisconsinites*](https://research-books.com/en/bryan-steil/snap)
 - [:shopping_cart: *Steil Supported Tariffs That Raised Prices On Wisconsinites*](https://research-books.com/en/bryan-steil/tariffs)
 - [:woman: *Steil Was An Anti-Choice Extremist*](https://research-books.com/en/bryan-steil/choice)
+{.links-list}
 
 ## Steil Used His Power To Benefit Himself And the Powerful
 - [:eyes: *It Took Steil 11 Months To Vote To Release The Epstein Files and He Did Only After Trump Said It Was Okay*](https://research-books.com/bryan-steil/steil-epstein)
 - [:wastebasket: *Steil Defended Hiring A Former Trump Campaign Official Who Was Involved In Trying To Overturn The 2020 Election*](https://research-books.com/en/bryan-steil/steil-2020)
+{.links-list}
 
 # Key Votes
 - [:white_check_mark: *Steil's Key Votes In Congress*](https://research-books.com/en/bryan-steil/votes)
