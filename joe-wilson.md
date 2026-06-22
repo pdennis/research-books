@@ -2,7 +2,7 @@
 title: Joe Wilson (SC-02)
 description: 
 published: true
-date: 2026-06-22T21:41:10.832Z
+date: 2026-06-22T21:49:54.381Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T17:14:23.850Z
@@ -99,3 +99,6 @@ Joe Wilson has never shown an interest in helping South Carolinians. Since joini
 {.links-list}
 
 # Key Votes
+
+- [:white_check_mark: *Wilson's Key Votes In Congress*](https://research-books.com/en/joe-wilson/wilson-votes)
+{.links-list}
