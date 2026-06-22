@@ -2,7 +2,7 @@
 title: Joe Wilson (SC-02)
 description: 
 published: true
-date: 2026-06-22T19:08:00.152Z
+date: 2026-06-22T19:08:58.693Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T17:14:23.850Z
@@ -25,7 +25,7 @@ Joe Wilson has never shown an interest in helping South Carolinians. Since joini
 - 	Wilson [voted](http://clerk.house.gov/evs/2022/roll420.xml) [against](http://clerk.house.gov/evs/2019/roll682.xml) allowing Medicare to negotiate lower prescription drug costs and [capping the cost of insulin](http://clerk.house.gov/evs/2022/roll102.xml). Over the course of his time in Congress, Wilson has accepted [$161,643](https://www.opensecrets.org/industries/summary?code=H04&cycle=2002&ind=H04&mem=Y&recipdetail=H&t0-search=wilson) in campaign contributions from the pharmaceutical/health products industry.
 -   Wilson was a [member](https://web.archive.org/web/20250124151313/https:/rsc-pfluger.house.gov/about/membership) of the Republican Study Committee, which staunchly advocated for raising the age at which seniors would be eligible to collect Social Security. The Committee claimed that the age increase was [essential](https://rsc-pfluger.house.gov/policy-solutions/preserving-american-freedom) for keeping Social Security solvent, ignoring that a higher retirement age would [cut](https://www.americanprogress.org/article/raising-the-retirement-age-for-social-security-would-cut-benefits-by-thousands-of-dollars-each-year/) the median-wage retiree’s benefits by thousands of dollars every year. The Committee also advocated for switching to a “[premium support](https://rollcall.com/2023/06/14/conservatives-budget-plan-renews-battle-over-seniors-benefits/)” healthcare system, which would [raise](http://cbpp.org/blog/house-republican-health-plan-would-radically-restructure-medicare#:~:text=The%20plan%20would%20likely%20shift,to%20maintain%20continuous%20health%20coverage.) health care costs for most beneficiaries.
 
-**Message:** Wilson worked to make health care more expensive and less accessible for South Carolina seniors. 
+**Message:** Wilson worked to make health care and prescription drugs more expensive and less accessible for South Carolina seniors. 
 
 ### Wilson Voted To Cut Food Assistance His Constituents Rely On To Afford Groceries
 
