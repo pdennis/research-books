@@ -2,7 +2,7 @@
 title: Joe Wilson (SC-02)
 description: 
 published: true
-date: 2026-06-22T21:33:33.674Z
+date: 2026-06-22T21:35:00.566Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T17:14:23.850Z
@@ -35,7 +35,7 @@ Joe Wilson has never shown an interest in helping South Carolinians. Since joini
 
 ### Wilson Was The Deciding Vote To Protect Trump’s Tariffs 
 
--   Wilson embraced Trump’s tariffs and [claimed](https://www.wymt.com/2025/07/16/sen-tuberville-pushes-increased-tariffs-lumber-wood-products/) they were improving the margins for the wood production industry in South Carolina. Then, he voted six times[\[MR1\]](#_msocom_1)  to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming South Carolina families who relied on him to a trade war and [threatening](https://www.nytimes.com/2025/04/12/us/south-carolina-manufacturing-tariffs.html) to sink his state’s manufacturing industry. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), could [raise car insurance rates](https://www.axios.com/local/richmond/2025/08/11/virginia-car-insurance-rates-tariffs) and caused “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the nation.
+-   Wilson embraced Trump’s tariffs and [claimed](https://www.wymt.com/2025/07/16/sen-tuberville-pushes-increased-tariffs-lumber-wood-products/) they were improving the margins for the wood production industry in South Carolina. Then, he voted six times to protect the tariffs, including in April 2025 when he was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect them, dooming South Carolina families who relied on him to a trade war and [threatening](https://www.nytimes.com/2025/04/12/us/south-carolina-manufacturing-tariffs.html) to sink his state’s manufacturing industry. Tariffs are contributing to [higher food prices](https://www.axios.com/local/portland/2025/09/16/trump-tariffs-grocery-prices-rise-cpi), could [raise car insurance rates](https://www.axios.com/local/richmond/2025/08/11/virginia-car-insurance-rates-tariffs) and caused “[mega-layoffs](https://www.commondreams.org/news/mass-layoffs-trump-economy)” across the nation.
 
 **Message:** Wilson thought that paying higher prices, dealing with “mega-layoffs” and tanking South Carolina’s manufacturing industry were okay as long as Trump was happy.
 
