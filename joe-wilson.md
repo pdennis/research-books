@@ -2,7 +2,7 @@
 title: Joe Wilson (SC-02)
 description: 
 published: true
-date: 2026-06-22T21:35:57.496Z
+date: 2026-06-22T21:41:10.832Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T17:14:23.850Z
@@ -85,7 +85,7 @@ Joe Wilson has never shown an interest in helping South Carolinians. Since joini
 - [:hospital: *Wilson Voted To Take Health Coverage From South Carolinians*](https://research-books.com/en/joe-wilson/wilson-medicaid)
 - [:older_man: *Wilson Supported Policies That Hurt South Carolina Seniors*](https://research-books.com/en/joe-wilson/wilson-seniors)
 - [:corn: *Wilson Voted To Take Food Assistance From South Carolinians*](https://research-books.com/en/joe-wilson/wilson-SNAP)
-- [:shopping_cart: *Wilson Embraced Tariffs That Crippled South Carolina Businesses*](https://research-books.com/en/joe-wilson/wilson-tariffs)
+- [:shopping_cart: *Wilson Protected Trump's Tariffs*](https://research-books.com/en/joe-wilson/wilson-tariffs)
 - [:x: *Wilson Watched While Seniors And Federal Workers Came Under Attack*](https://research-books.com/en/joe-wilson/wilson-DOGE)
 - [:baby: *Wilson's Anti-Choice Views Endangered South Carolina Women*](https://research-books.com/en/joe-wilson/wilson-abortion)
 {.links-list}
