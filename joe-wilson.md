@@ -2,7 +2,7 @@
 title: Joe Wilson (SC-02)
 description: 
 published: true
-date: 2026-06-22T20:15:39.783Z
+date: 2026-06-22T20:18:33.747Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T17:14:23.850Z
@@ -86,7 +86,7 @@ Joe Wilson has never shown an interest in helping South Carolinians. Since joini
 - [:older_man: *Wilson Supported Policies That Hurt South Carolina Seniors*](https://research-books.com/en/joe-wilson/wilson-seniors)
 - [:corn: *Wilson Voted To Take Food Assistance From South Carolinians*](https://research-books.com/en/joe-wilson/wilson-SNAP)
 - [:wood: *Wilson Embraced Tariffs That Crippled South Carolina Businesses*](https://research-books.com/en/joe-wilson/wilson-tariffs)
-- [:shopping: *Wilson Supported An Agency That Hurt South Carolina Seniors And Businesses*](https://research-books.com/en/joe-wilson/wilson-DOGE)
+- [:x: *Wilson Watched While Seniors And Federal Workers Came Under Attack*](https://research-books.com/en/joe-wilson/wilson-DOGE)
 {.links-list}
 
 ## Wilson Used His Power To Benefit Himself And The Powerful
