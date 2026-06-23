@@ -2,7 +2,7 @@
 title: House Of Representatives
 description: 
 published: true
-date: 2026-06-23T13:34:59.878Z
+date: 2026-06-23T13:40:04.310Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T02:59:41.057Z
@@ -28,6 +28,7 @@ dateCreated: 2025-12-27T02:59:41.057Z
 - 	[:wrench: *Ohio*](/ohio-house)
 -   [:horse: *Oklahoma*](/oklahoma-house)
 -   [:bell: *Pennsylvania*](/pennsylvania-house)
+-	[:palm_tree: *South Carolina*](/south-carolina-house)
 -  [:musical_note: *Tennessee*](/tennessee-house)
 - 	[:cow: *Texas*](/texas-house)
 -   [:heart: *Virginia*](/virginia-house)
