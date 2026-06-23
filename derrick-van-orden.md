@@ -2,13 +2,53 @@
 title: Derrick Van Orden
 description: 
 published: true
-date: 2026-02-12T21:43:33.709Z
+date: 2026-06-23T17:09:45.846Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:38:08.830Z
 ---
 
 # **How To Win Against Derrick Van Orden**
+
+<details>
+<summary><strong>:tv: - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Derrick Van Orden Promised Federal Benefits Programs Won't Be Cut "By A Nickel."** [Derrick Van Orden Virtual Town Hall 04/10/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/2w86t8?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Derrick Van Orden "Grabbed" A Young CodePink Anti-War Protestor And "Threw Her Out Of The Way."** [WQOW News Report 07/17/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/otzcct?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Derrick Van Orden Yelled At High-School-Aged Senate Pages Resting In The Capitol.** [WMTV News Report 04/20/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/rt148g?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Derrick Van Orden Defended Workforce Cuts, Arguing That Automation Could Replace VA Workers.** [Derrick Van Orden Virtual Town Hall 04/10/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/aalt6v?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Derrick Van Orden Justified The 11 Month Delay Releasing The Epstein Files.** [Sunrise On The Hill 11/18/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/qi1zzs?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Derrick Van Orden Claimed He Was "Not On Board" With Rural Healthcare Cuts, Then Celebrated When Millions Lost Their Benefits.** [Derrick Van Orden Town Hall 03/12/2025, WTTG-DC(FOX) 07/03/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/vsvvbv?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Derrick Van Orden Attended The "Stop The Steal" Rally Just Before The January 6th Capitol Attack.** [MS NOW The Last Word 04/08/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/l36kan?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Derrick Van Orden Boasted About Working "50 Hours" Straight On The One Big Beautiful Bill.** [Derrick Van Orden Tele-Town Hall 05/22/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/cuuur4?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Derrick Van Orden Dismissed Concerns About Higher Food Costs Due To Tariffs, Saying Americans Are "Willing To Pay More For Guacamole."** [WEAU News (NBC) 11/28/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/51fx9v?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Derrick Van Orden Praised Trump's Tariffs, Calling His Trade Policies "Very Brilliant."** [John Fredericks Radio Show 04/22/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/auh0gp?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Derrick Van Orden Admitted Trump's Trade Agenda Would Cause "Very Serious Pain Points."** [Derrick Van Orden Tele-Town Hall 05/01/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/gdbokj?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
+[12:41 PM]
 
 Derrick Van Orden has been a headache for the district. He backed ripping health care from thousands of Wisconsinites, defended Trump’s tariffs as they rattled farm country, cheered on cuts and chaos that slowed Social Security and squeezed agricultural programs, and he can’t control his temper—from the Prairie du Chien library blow-up to berating teen Senate pages to shouting down witnesses in committee. He was also photographed near Capitol grounds on January 6th. La Crosse, Eau Claire, and rural Wisconsin communities deserve sober leadership, not bar-fight politics. 
 
