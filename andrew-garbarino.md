@@ -2,7 +2,7 @@
 title: Andrew Garbarino (NY-02)
 description: 
 published: true
-date: 2026-06-23T14:06:20.272Z
+date: 2026-06-23T14:07:27.074Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-22T20:03:55.435Z
@@ -19,3 +19,7 @@ In addition to Trump’s budget, Garbarino stood with the administration as Trum
 - Garbarino knew the Big, Beautiful Bill would cut Medicaid and even went as far as to sign a letter which claimed he could not support a budget that cut Medicaid for vulnerable populations. He also said he would tank any bill that made cuts to Medicaid.
 - Garbarino even confirmed what we all know when he said, “I think any time it looks like we’re actually hurting people, that’s gonna piss off the American population. And if you piss them off, they’re probably not going to vote for you.”
 - Months later Garbarino fell asleep during the vote on the republican budget, but indicated he was moments away from voting to pass the budget. When it came time to vote on the budget again, he gave his yes vote. 
+
+### GARBARINO VOTED FOR MASSIVE CUTS TO MEDICARE 
+
+- Garbarino voted for a bill that the Congressional Budget Office estimated would trigger nearly $500 billion in cuts to Medicare, absent future congressional action. He also voted against allowing Medicare to negotiate the price of prescription drugs. 
