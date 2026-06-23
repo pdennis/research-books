@@ -2,7 +2,7 @@
 title: House Of Representatives
 description: 
 published: true
-date: 2026-06-09T23:02:41.679Z
+date: 2026-06-23T13:34:59.878Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T02:59:41.057Z
@@ -12,7 +12,7 @@ dateCreated: 2025-12-27T02:59:41.057Z
 -   [:fish: *Alaska*](/alaska-house)
 -   [:cactus: *Arizona*](/arizona-house)
 -   [:sunrise_over_mountains: *Arkansas*](/arkansas-house)
--   [:palm_tree: *California*](/california-house)
+-   [:ocean: *California*](/california-house)
 -   [:mountain: *Colorado*](/colorado-house)
 -   [:sunny: *Florida*](/florida-house)
 -   [:peach: *Georgia*](/georgia-house)
