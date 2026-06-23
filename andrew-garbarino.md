@@ -2,7 +2,7 @@
 title: Andrew Garbarino (NY-02)
 description: 
 published: true
-date: 2026-06-23T14:07:27.074Z
+date: 2026-06-23T14:08:29.362Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-22T20:03:55.435Z
@@ -23,3 +23,9 @@ In addition to Trump’s budget, Garbarino stood with the administration as Trum
 ### GARBARINO VOTED FOR MASSIVE CUTS TO MEDICARE 
 
 - Garbarino voted for a bill that the Congressional Budget Office estimated would trigger nearly $500 billion in cuts to Medicare, absent future congressional action. He also voted against allowing Medicare to negotiate the price of prescription drugs. 
+
+### GARBARINO VOTED TO CUT FOOD ASSISTANCE AND CLAIMED HE WAS ACTUALLY PROTECTING IT
+
+- •	Garbarino voted for a bill that made the largest SNAP cut in history. More than 28,000 New Yorkers in his district relied on SNAP to be able to afford groceries. 
+
+###
