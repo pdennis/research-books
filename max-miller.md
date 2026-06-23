@@ -2,13 +2,53 @@
 title: Max Miller (OH-07)
 description: 
 published: true
-date: 2026-05-05T22:24:57.128Z
+date: 2026-06-23T19:36:02.944Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-05T18:31:57.331Z
 ---
 
 # How To Win Against Max Miller
+<details>
+<summary><strong>:tv: - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Max Miller Said Social Security Was "Never Supposed To Be" A Safety Net.** [Medina, Ohio Candidate Forum 10/08/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/dda98a?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Max Miller Lamented Failure To Repeal ACA: "We Could've Gotten Obamacare Killed."** [Fox Business 01/06/2023]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/r0lhy7?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Max Miller Acknowledged Keeping Guns In His Home.** [CNN The Lead With Jake Tapper 06/10/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/emj15v?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Court Filing Accused Max Miller Of Speaking To His Ex-Wife Emily Moreno In An "Inappropriate, Aggressive, And Demeaning" Manner.** [WEWS-CLE (ABC) 04/24/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/963hme?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Ex-Wife Emily Moreno Alleged Max Miller Held A Gun To Her While She Cared For Their Daughter.** [CNN The Lead With Jake Tapper 06/10/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/eoe2oi?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Max Miller Aimed To "Cut The Fat" From Federal Government Spending.** [Fox Business 02/01/2023]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/hlwhqr?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Max Miller Proclaimed His Dedication To Preserving Senior Benefits.** [Medina, Ohio Candidate Forum 10/08/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/38s5h1?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Max Miller Admitted He Was Present For The January 6th Capitol Attack.** [CSPAN 02/17/2023]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/2v32v2?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Max Miller Promised "To Do What Is Right" And Not Cut Health Care Or Social Security Benefits.** [Medina, Ohio Candidate Forum 10/08/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/aym114?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Defamation Lawsuit Claimed Max Miller Falsely Portrayed A Road Rage Encounter For Political Gain.** [News 5 Cleveland (ABC) 02/17/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/eurbjg?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Max Miller Was Armed And Reached For His Weapon During A Road Rage Incident.** [Fox News 06/07/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/sxk579?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Defamation Lawsuit Challenged Max Miller's Road Rage Allegations, Stating There Was "No Way Miller Could Have Heard" Feras Hamdan.** [News 5 Cleveland (ABC) 02/17/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ngi2uq?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+</details>
 
 Max Miller has voted against Ohioans to give the wealthiest Americans’ tax breaks and support an agenda that raised costs and left Ohioans behind. When he campaigned, Miller promised to fight for seniors and workers but voted to cut Medicare by $500 billion, voted for a bill that would kick 17 million Americans off their health insurance including more than 22,000 of his own constituents, and voted to cut food assistance that more than 21,000 households in his district relied on the afford groceries. Miller voted to protect Trump’s tariffs six different times, even as it became clear they were hurting Ohio businesses, manufacturers, and causing layoffs. Miller supported DOGE and was proud to support its budget cuts that harmed Ohio’s food banks, farmers, and fair housing organizations. Miller requested that the National Guard be sent to Cleveland despite crime rates going down. Miller was also no stranger to legal battles. Miller accused someone of threatening his life in an antisemitic road rage incident, but his account of events was questioned in a defamation suit – the case is still ongoing. Miller had a contentious relationship with his ex-wife and was recently accused of speaking to her in a demeaning manner and having conducted dangerous physical behavior in the presence of their child. Miller also filed a defamation suit against his ex-girlfriend Stephanie Grisham shortly after she published an op-ed about an abusive relationship she had been in with a fellow White House staffer during the first Trump administration. Miller has demonstrated time and time again that he’s wrong for Ohio’s 7^th^ congressional district.
 
