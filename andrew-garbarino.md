@@ -2,7 +2,7 @@
 title: Andrew Garbarino (NY-02)
 description: 
 published: true
-date: 2026-06-23T14:12:41.919Z
+date: 2026-06-23T14:13:54.442Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-22T20:03:55.435Z
@@ -44,3 +44,7 @@ In addition to Trump’s budget, Garbarino stood with the administration as Trum
 ### IT TOOK GARBARINO 11 MONTHS TO VOTE TO RELEASE THE EPSTEIN FILES, ONLY AFTER TRUMP SIGNALED TO HOUSE REPUBLICANS HE APPROVED
 
 -   In November 2025, after 11 months, Garbarino finally [voted](http://clerk.house.gov/evs/2025/roll289.xml) to release the Epstein files, but only after [Donald Trump gave House Republicans permission](https://truthsocial.com/@realDonaldTrump/posts/115562626931599548) to do so. Previously, Garbarino had [cast the deciding vote](http://clerk.house.gov/evs/2025/roll194.xml) against [releasing the Epstein files](https://www.axios.com/2025/07/15/epstein-house-democrats-republicans-trump-doj), protecting the accused pedophiles named within them.
+
+# Issue Briefs
+
+## 
