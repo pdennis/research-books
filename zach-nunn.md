@@ -2,7 +2,7 @@
 title: Zach Nunn
 description: 
 published: true
-date: 2026-02-13T18:52:09.293Z
+date: 2026-06-23T20:30:55.673Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T12:01:57.306Z
@@ -17,7 +17,35 @@ COMING SOON!
 <details>
 <summary><strong>📺 - Click here for Notable Clips and Visuals
   </strong></summary>
-COMING SOON!
+**Zach Nunn Described Medicaid And SNAP Reforms As A "Carrot And Stick" Approach.** [WHO Interview 07/06/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/8abi0i?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Zach Nunn Promised Medicaid Recipients They Would Not "Bear The Brunt" Of Spending Cuts.** [KCCI 04/27/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/4nlsi5?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Zach Nunn Claimed The One Big Beautiful Bill Act Was "A Win For Iowa" And Claimed It Would Safeguard Benefits.** [Local 5 News (ABC) 05/22/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/dg2axv?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Zach Nunn Shrugged Off Concerns That Seniors Would Lose Medicaid Benefits.** [Fox News 07/05/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/738bsz?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Zach Nunn Rejected The Congressional Budget Office's Estimate That The One Big Beautiful Bill Act Would Add $3.8 Trillion To The National Deficit.** [WHO13 05/22/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/xg4uu3?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Zach Nunn Claimed He Has "Always Been Fully Committed" To Protecting Medicare And Social Security Benefits.** [KCCI 04/27/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ayjfor?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Zach Nunn Praised Trump's Tariffs, Saying His Trade Policies Put Other Countries "On Notice."** [KHQA 04/02/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/xfm1vj?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Zach Nunn Defended Trump's Tariffs While Saying He Did Not Want "To See A Trade War."** [BBC World 02/24/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/px6bpu?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Zach Nunn Praised DOGE's Aggressive Budget Cuts.** [KTVO (ABC) 03/13/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/r7ewl6?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Zach Nunn Accused Democrats Of Using The Epstein Case To "Score Political Points."** [KCCI 07/25/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/y7h7ww?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 </details>
 
 # **How to win against Zach Nunn**
