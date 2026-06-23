@@ -2,7 +2,7 @@
 title: Andrew Garbarino (NY-02)
 description: 
 published: true
-date: 2026-06-23T14:13:54.442Z
+date: 2026-06-23T14:16:47.095Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-22T20:03:55.435Z
@@ -47,4 +47,6 @@ In addition to Trump’s budget, Garbarino stood with the administration as Trum
 
 # Issue Briefs
 
-## 
+## Garbarino Supported Policies That Hurt Everyday New Yorkers
+
+## Garbarino Used His Power To Protect The Powerful
