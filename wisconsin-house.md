@@ -2,11 +2,15 @@
 title: House Races In Wisconsin
 description: 
 published: true
-date: 2026-04-17T15:00:38.214Z
+date: 2026-06-23T13:30:57.973Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T13:49:56.246Z
 ---
+
+## WI-01
+- [:elephant:***Bryan Steil***](/bryan-steil) Wisconson Republican who voted to rip health care and food assistance from his constituents. He also pledged to protect Medicare but voted for the Republican budget bill that would trigger substantial cuts to Medicare.
+{.links-list}
 
 ## WI-03
 - [:elephant:***Derrick Van Orden***](/derrick-van-orden) Wisconsin Republican who pledged not to cut Medicaid but then voted to rip health care away from thousands of Wisconsonites who rely on it. He’s also prone to angry outbursts, and does not provide the sober leadership Wisconsin deserves.
