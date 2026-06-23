@@ -2,7 +2,7 @@
 title: Derrick Van Orden
 description: 
 published: true
-date: 2026-06-23T17:09:45.846Z
+date: 2026-06-23T17:10:44.430Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:38:08.830Z
@@ -11,7 +11,7 @@ dateCreated: 2025-06-03T14:38:08.830Z
 # **How To Win Against Derrick Van Orden**
 
 <details>
-<summary><strong>:tv: - Click here for Notable Clips and Visuals
+<summary><strong> 📺 - Click here for Notable Clips and Visuals
   </strong></summary>
 
 **Derrick Van Orden Promised Federal Benefits Programs Won't Be Cut "By A Nickel."** [Derrick Van Orden Virtual Town Hall 04/10/2025]
@@ -48,7 +48,7 @@ dateCreated: 2025-06-03T14:38:08.830Z
 <div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/gdbokj?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 </details>
-[12:41 PM]
+
 
 Derrick Van Orden has been a headache for the district. He backed ripping health care from thousands of Wisconsinites, defended Trump’s tariffs as they rattled farm country, cheered on cuts and chaos that slowed Social Security and squeezed agricultural programs, and he can’t control his temper—from the Prairie du Chien library blow-up to berating teen Senate pages to shouting down witnesses in committee. He was also photographed near Capitol grounds on January 6th. La Crosse, Eau Claire, and rural Wisconsin communities deserve sober leadership, not bar-fight politics. 
 
