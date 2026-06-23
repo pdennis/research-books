@@ -2,7 +2,7 @@
 title: Max Miller (OH-07)
 description: 
 published: true
-date: 2026-06-23T19:36:02.944Z
+date: 2026-06-23T19:36:49.057Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-05T18:31:57.331Z
@@ -10,7 +10,7 @@ dateCreated: 2026-05-05T18:31:57.331Z
 
 # How To Win Against Max Miller
 <details>
-<summary><strong>:tv: - Click here for Notable Clips and Visuals
+<summary><strong>📺 - Click here for Notable Clips and Visuals
   </strong></summary>
 
 **Max Miller Said Social Security Was "Never Supposed To Be" A Safety Net.** [Medina, Ohio Candidate Forum 10/08/2024]
