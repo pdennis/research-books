@@ -2,7 +2,7 @@
 title: Andrew Garbarino (NY-02)
 description: 
 published: true
-date: 2026-06-23T14:10:10.117Z
+date: 2026-06-23T14:11:12.980Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-22T20:03:55.435Z
@@ -27,3 +27,17 @@ In addition to Trump’s budget, Garbarino stood with the administration as Trum
 ### GARBARINO VOTED TO CUT FOOD ASSISTANCE AND CLAIMED HE WAS ACTUALLY PROTECTING IT
 
 -   Garbarino [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). [More than 28,000 New Yorkers](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) in his district relied on SNAP to be able to afford groceries.
+
+### GARBARINO WAS THE DECIDING VOTE TO PROTECT TRUMP’S TARIFFS
+- 
+
+### GARBARINO FELL IN LINE WITH AN ANTI-CHOICE AGENDA
+- 
+
+### GARBARINO PROMISED TO FULLY RESTORE THE SALT DEDUCTION, BUT CAME UP SHORT
+- 
+
+### IT TOOK GARBARINO 11 MONTHS TO VOTE TO RELEASE THE EPSTEIN FILES, ONLY AFTER TRUMP SIGNALED TO HOUSE REPUBLICANS HE APPROVED
+- 
+
+
