@@ -2,7 +2,7 @@
 title: Andrew Garbarino (NY-02)
 description: 
 published: true
-date: 2026-06-23T14:08:29.362Z
+date: 2026-06-23T14:10:10.117Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-22T20:03:55.435Z
@@ -10,22 +10,20 @@ dateCreated: 2026-06-22T20:03:55.435Z
 
 # How To Win Against Andrew Garbarino
 
-Andrew Garbarino wants you to think he’s a moderate, but in reality he stands side by side with the Trump administration’s extremist agenda. When the GOP’s budget reconciliation package outlined substantial cuts to Medicaid, Medicare, and SNAP, Garbarino signed a letter advocating against such cuts. Garbarino even said he wouldn’t support legislation touching Medicaid. Then when it came time to vote for the GOP budget, Garbarino did not cast his ballot. Not because he didn’t support $500 billion in cuts to Medicaid; Garbarino fell asleep as the vote was happening. But when he was asked about it, Garbarino said he was moments away from voting yes. When the vote came back from the Senate months later, Garbarino made sure to cast his yes vote. 
+Andrew Garbarino wants you to think he’s a moderate, but in reality he stands side by side with the Trump administration’s extremist agenda. When the GOP’s budget reconciliation package outlined substantial cuts to Medicaid, Medicare, and SNAP, Garbarino signed a letter advocating against such cuts. Garbarino even said he wouldn’t support legislation touching Medicaid. Then when it came time to vote for the GOP budget, Garbarino did not cast his ballot. Not because he didn’t support $500 billion in cuts to Medicaid; Garbarino fell asleep as the vote was happening. But when he was asked about it, Garbarino said he was moments away from voting yes. When the vote came back from the Senate months later, Garbarino made sure to cast his yes vote.
 
-In addition to Trump’s budget, Garbarino stood with the administration as Trump’s tariffs hurt small businesses across the state of New York. While Garbarino did not comment on the topic often, he voted to protect Trump’s tariffs six times. He didn’t stop there. He only voted to release the Epstein files after Trump said it was ok to do so. 
+In addition to Trump’s budget, Garbarino stood with the administration as Trump’s tariffs hurt small businesses across the state of New York. While Garbarino did not comment on the topic often, he voted to protect Trump’s tariffs six times. He didn’t stop there. He only voted to release the Epstein files after Trump said it was ok to do so.
 
 ### GARBARINO VOTED TO CUT MEDICAID AFTER HE CLAIMED HE COULDN’T SUPPORT A REPUBLICAN BUDGET THAT INCLUDED CUTS TO MEDICAID
 
-- Garbarino knew the Big, Beautiful Bill would cut Medicaid and even went as far as to sign a letter which claimed he could not support a budget that cut Medicaid for vulnerable populations. He also said he would tank any bill that made cuts to Medicaid.
-- Garbarino even confirmed what we all know when he said, “I think any time it looks like we’re actually hurting people, that’s gonna piss off the American population. And if you piss them off, they’re probably not going to vote for you.”
-- Months later Garbarino fell asleep during the vote on the republican budget, but indicated he was moments away from voting to pass the budget. When it came time to vote on the budget again, he gave his yes vote. 
+-   Garbarino knew the Big, Beautiful Bill would cut Medicaid and even went as far as to sign a letter which claimed he could not support a budget that cut Medicaid for [vulnerable populations](https://lawler.house.gov/uploadedfiles/medicaid_letter_to_house_gop.pdf). He also said he would [tank](https://www.nytimes.com/2025/05/19/us/politics/republican-tax-bill-factions.html) any bill that made cuts to Medicaid.
+-   Garbarino even confirmed what we all know when he said, “I think any time it looks like we’re [actually hurting](https://www.cnn.com/2025/05/07/politics/medicaid-republicans-divided-house-trump-bill) people, that’s gonna piss off the American population. And if you piss them off, they’re probably not going to vote for you.”
+-   Months later Garbarino fell asleep during the vote on the republican budget, but indicated he was moments away from [voting to pass](https://www.cbsnews.com/newyork/news/andrew-garbarino-big-beautiful-bill-vote/) the budget. When it came time to vote on the budget again, he gave his yes [vote](http://clerk.house.gov/evs/2025/roll190.xml). 
 
-### GARBARINO VOTED FOR MASSIVE CUTS TO MEDICARE 
+### GARBARINO VOTED FOR MASSIVE CUTS TO MEDICARE
 
-- Garbarino voted for a bill that the Congressional Budget Office estimated would trigger nearly $500 billion in cuts to Medicare, absent future congressional action. He also voted against allowing Medicare to negotiate the price of prescription drugs. 
+-   Garbarino [voted](http://clerk.house.gov/evs/2025/roll145.xml) for a bill that the Congressional Budget Office estimated would trigger [nearly $500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare, absent future congressional action. He also voted against allowing Medicare to negotiate the price of prescription drugs. 
 
 ### GARBARINO VOTED TO CUT FOOD ASSISTANCE AND CLAIMED HE WAS ACTUALLY PROTECTING IT
 
-- •	Garbarino voted for a bill that made the largest SNAP cut in history. More than 28,000 New Yorkers in his district relied on SNAP to be able to afford groceries. 
-
-###
+-   Garbarino [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). [More than 28,000 New Yorkers](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) in his district relied on SNAP to be able to afford groceries.
