@@ -1,8 +1,8 @@
 ---
 title: Rep. French Hill (AR-02): Can't Be Trusted on Jobs and the Economy
 description: 
-published: false
-date: 2026-03-24T15:37:34.210Z
+published: true
+date: 2026-06-24T15:26:20.637Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:06:30.212Z
