@@ -2,7 +2,7 @@
 title: Tom Barrett
 description: 
 published: true
-date: 2026-02-13T18:00:12.722Z
+date: 2026-06-24T16:52:48.960Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:24:34.568Z
@@ -28,7 +28,26 @@ This video has not been produced for public use on a campaign, and is purely her
 <details>
 <summary><strong>📺 - Click here for Notable Clips and Visuals
   </strong></summary>
-COMING SOON!
+**Tom Barrett Voted Against Renewing ACA Tax Credits As Families Faced Higher Health Care Costs.** [WLNS (CBS) 01/13/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/o350po?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Barrett Cut Health Care Funding While Giving Tax Breaks To Billionaires And Corporations.** [WLNS (CBS) 01/13/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/oxukls?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Barrett Admitted Trump's Tariffs Would Cause "Market Disturbance."** [Tom Barrett No Bullshit News Hour 04/09/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/tw6tnx?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Barrett Ran An Ad With The Wrong Election Date In A Black-Owned Newspaper, Which "May Have Broken State Law."** [WJRT 10/14/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/tpap72?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Barrett Blamed Iran For Higher Gas Prices While Defending The Blockade.** [CNN: The Lead with Jake Tapper 05/12/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/67vg64?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Barrett Introduced An Authorization For Use Of Military Force Against Iran.** [WLAJ (ABC) 05/07/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/6xohyb?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Barrett Defended Using Military Force Against Iran To Achieve U.S. Objectives.** [WLAJ (ABC) 04/12/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/lmmuco?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 </details>
 
 # **How To Win Against Tom Barrett**
