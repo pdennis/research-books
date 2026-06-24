@@ -1,8 +1,8 @@
 ---
 title: Rep. French Hill (AR-02): Can't Be Trusted on Health Care
 description: 
-published: false
-date: 2026-03-24T15:16:21.213Z
+published: true
+date: 2026-06-24T15:26:00.194Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:06:22.848Z
