@@ -1,8 +1,8 @@
 ---
 title: Rep. French Hill (AR-02): Says One Thing, Does Another
 description: 
-published: false
-date: 2026-02-18T19:42:14.726Z
+published: true
+date: 2026-06-24T15:26:44.232Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:07:52.117Z
