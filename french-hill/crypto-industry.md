@@ -1,8 +1,8 @@
 ---
 title: Rep. French Hill (AR-02): Crypto Industry's Top Ally In Congress
 description: 
-published: false
-date: 2026-02-18T19:41:59.232Z
+published: true
+date: 2026-06-24T15:26:35.676Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:06:15.883Z
