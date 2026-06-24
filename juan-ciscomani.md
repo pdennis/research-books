@@ -2,13 +2,33 @@
 title: Juan Ciscomani
 description: 
 published: true
-date: 2026-02-13T16:56:05.619Z
+date: 2026-06-24T17:17:12.904Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:40:44.781Z
 ---
 
 # How To Win Against Juan Ciscomani
+
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Juan Ciscomani Pledged Not To Support Legislation That Cuts Medicaid.** [KGUN (ABC) 05/13/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/02nbcg?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Juan Ciscomani Promised To Protect, Streamline, And Improve Medicaid.** [KNXV-PHX (ABC) 04/13/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/6odtr9?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Juan Ciscomani Said Tariffs Directly Affect Arizona's Economy And National Security.** [Ripon Society 02/06/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/x39ik0?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Juan Ciscomani Admitted Tariffs Could Be "Very Detrimental" To Arizona In The Long Term.** [Wake Up Live 04/30/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/jouiwi?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Juan Ciscomani Called DOGE Cuts To Medicaid And Veterans Affairs "Lies."** [KMSB (FOX) 03/20/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/w1dank?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+</details>
 
 Ciscomani pretended to be an independent voice for Arizona, but he was just another far-right Republican who fell in line with whatever Trump told him to do. He repeatedly promised his would protect Arizonans’ health care benefits and services and tax credits that created clean energy manufacturing jobs in his district, then he voted to cut them all. He defended Trump’s tariffs despite knowing they would and were hurting Arizona families, small businesses, and farmers. He can’t be trusted as an independent voice for southern Arizona, after all he was trained to push the far-right, price-skyrocketing agenda.  
 
