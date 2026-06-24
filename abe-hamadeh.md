@@ -2,7 +2,7 @@
 title: Abe Hamadeh
 description: 
 published: true
-date: 2026-03-25T13:24:38.841Z
+date: 2026-06-24T17:06:10.608Z
 tags: shaky8, arizona, az-08
 editor: markdown
 dateCreated: 2026-02-18T18:24:00.917Z
@@ -10,7 +10,25 @@ dateCreated: 2026-02-18T18:24:00.917Z
 
 # How To Win Against Abe Hamadeh
 
+<details>
+<summary><strong> 📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
 
+**Abe Hamadeh Called A 15-Week Abortion Ban A "Reasonable Restriction."** [KSAZ (FOX) 10/22/2022]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/dfzvvr?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Abe Hamadeh Claimed "Criminals" Were Running The Government Due To His 2022 Election Loss.** [The Kimberly Guilfoyle Show 05/16/2023]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/5dvlmn?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Abe Hamadeh Linked His Election Denial To COVID-19 Conspiracies.** [Association of Mature American Citizens Interview 03/14/2023]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/zowbgr?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Abe Hamadeh Claimed His 2022 Election Loss Was A "Direct Attack" On Elections.** [NCRC Lincoln Day Speech 04/15/2023]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/et16eg?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Abe Hamadeh Blamed Democratic Policies For Inflation, Asking "Who Could Tolerate 15% Inflation?"** [Abe Hamadeh Mark Finchem State of the Race 10/26/2022]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/t9tiij?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+</details>
 Abe Hamadeh promised Arizona families he would fight for them, but his voting record tells a very different story. He voted for the [One Big Beautiful Bill Act](https://clerk.house.gov/evs/2025/roll190.xml), which CBO estimated would cut $911 billion from Medicaid and leave [10.9 million more Americans uninsured](https://www.factcheck.org/2025/07/the-cbo-breakdown-on-medicaid-losses-increase-in-uninsured/) — including [more than 300,000 Arizonans](https://azcir.org/news/2025/07/10/could-an-estimated-300000-plus-arizonans-lose-health-care-coverage-under-trumps-big-beautiful-bill-yes/) — then [falsely claimed the bill included "no cuts to Medicaid,"](https://hamadeh.house.gov/news/documentsingle.aspx?DocumentID=480) a talking point [PolitiFact rated as false](https://www.politifact.com/article/2025/jun/24/one-big-beautiful-bill-trump-taxes-senate/).
 
 The bill he voted for [cut $187 billion from SNAP](https://www.cbpp.org/research/food-assistance/by-the-numbers-harmful-republican-megabill-takes-food-assistance-away-from) — the largest cut to food assistance in history — while CBO found it [gives the richest 10% an extra $12,000 per year and takes $1,600 from the poorest 10%](https://www.budget.senate.gov/ranking-member/newsroom/press/merkley-cbo-confirms-big-beautiful-bill-benefits-the-wealthy-working-families-pay-the-price).
