@@ -2,7 +2,7 @@
 title: Mike Lawler
 description: 
 published: true
-date: 2026-02-19T22:44:58.624Z
+date: 2026-06-25T18:16:14.685Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T16:30:11.819Z
@@ -17,7 +17,34 @@ COMING SOON!
 <details>
 <summary><strong>📺 - Click here for Notable Clips and Visuals
   </strong></summary>
-COMING SOON!
+
+  **Mike Lawler Accused Democrats Of Lying About Medicaid, Social Security, And Medicare Cuts.** [WABC 03/09/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/aguvs6?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Lawler Defended Tariffs As An "Effective Tool" To Negotiate Trade Deals.** [CNN: Erin Burnet OutFront 03/04/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/h7pvez?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Lawler Acknowledged Tariffs Would Cause "Short-Term Pain."** [NewsNation: Morning In America 03/16/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/yx4c7y?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Lawler Defended Tariffs While Admitting They Would Cause Market "Ups And Downs."** [CNN: Erin Burnet OutFront 03/04/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/eq2roh?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Lawler Denied Tariffs Would Raise Prices On Everyday Goods.** [NBC News Now 04/03/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/z8rwrz?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Lawler Rejected Claims That Nearly 19,000 People Would Lose Food Assistance.** [NewsNation: Vargas 07/043/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/oad2cs?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Lawler Dismissed Questions About The Epstein Files As A "Conspiracy Theory."** [NewsNation: The Hill 06/13/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/s6j10j?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Lawler Called The Epstein Case A "Colossal Waste Of Time And Effort."** [CNN: News Central 07/14/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/x4qwrn?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Lawler Wore Blackface While Dressed As Michael Jackson.** [CNN: The Source With Kaitlan Collins 10/03/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/8rw5hj?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
 </details>
 
 # **How To Win Against Mike Lawler**
