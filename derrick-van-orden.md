@@ -2,7 +2,7 @@
 title: Derrick Van Orden
 description: 
 published: true
-date: 2026-06-25T00:52:52.649Z
+date: 2026-06-25T00:53:04.167Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:38:08.830Z
