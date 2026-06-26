@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-06-26T17:20:09.052Z
+date: 2026-06-26T18:23:37.883Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -60,6 +60,12 @@ Georgia Republican gubernatorial nominee Rick Jackson stated that he did not dis
 
 **Message:** Rick Jackson is an out of touch billionaire who donated $1 million to MAGA Inc. and courted Trump’s support for his gubernatorial bid as he benefitted from Trump’s tax cuts and tariffs.
 
+### Rick Jackson Hypocritically Opened A Leadership Committee To Raise Unlimited Donations After Challenging Them In Court
+
+- Despite [challenging](https://www.cbsnews.com/atlanta/news/georgia-gop-gubernatorial-candidate-rick-jackson-sues-lt-gov-burt-jones-over-campaign-finance-law/) leadership committees in court as unconstitutional and unfair, Rick Jackson [opened](https://www.ajc.com/politics/2026/06/jackson-opens-leadership-committee-after-challenging-the-law-in-court/) a leadership committee so he could raise unlimited contributions after securing the Republican nomination for Georgia governor. Jackson opened his leadership committee after [celebrating a federal appeals court ruling](https://www.ajc.com/politics/2026/06/federal-court-rules-a-fundraising-advantage-for-burt-jones-is-likely-illegal/) affirming that Georgia’s law allowing Jones and incumbents to raise unlimited funds with leadership committees was likely unconstitutional. Jackson spent [more than $100 million of his own wealth](https://www.politico.com/news/2026/06/16/jackson-wins-georgia-governor-runoff-00964631) to defeat Burt Jones in the primary despite [attacking](https://www.ajc.com/politics/2026/06/top-georgia-politicians-rake-in-cash-as-lawsuits-that-could-stop-them-drag/) Jones for “abusing” his leadership committee. 
+
+**Message:** Rick Jackson hypocritically opened a leadership committee to raise unlimited donations despite challenging leadership committees in court and spending more than $100 million of his own wealth to secure the GOP nomination.
+
 # Issue Back-Ups
 
 ## Rick Jackson Supported Policies That Have Hurt Everyday People
@@ -74,4 +80,5 @@ Georgia Republican gubernatorial nominee Rick Jackson stated that he did not dis
 
 - [:money_with_wings: | **Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-georgia-donations)
 - [:moneybag: | **Billionaire Rick Jackson Courted Trump’s Support After He Benefitted From Trump’s Tax Cuts And Donated To MAGA Inc.**](/GA-Gov/rick-jackson/jackson-billionaire-trump)
+- [:dollar: | **Rick Jackson Hypocritically Opened A Leadership Committee To Raise Unlimited Donations After Challenging Them In Court**](/GA-Gov/rick-jackson/jackson-leadership-committee)
 {.links-list}
