@@ -2,7 +2,7 @@
 title: Eli Crane
 description: 
 published: true
-date: 2026-06-26T17:04:08.988Z
+date: 2026-06-26T17:32:43.705Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T18:31:22.740Z
