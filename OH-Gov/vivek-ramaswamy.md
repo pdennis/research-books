@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy
 description: 
 published: true
-date: 2026-04-24T14:40:59.299Z
+date: 2026-06-26T18:59:55.658Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
@@ -69,6 +69,12 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 
 **Message:** Vivek Ramaswamy accepted donations from extremists.
 
+### Vivek Ramaswamy Used Campaign Donations To Fund His Stay At A Luxury Resort In Puerto Rico
+
+- In late 2025, Vivek Ramaswamy’s campaign [blew nearly $12,000 in campaign funds](https://newrepublic.com/post/208034/vivek-ramaswamy-campaign-funds-luxury-vacation) [at the Dorado Beach Ritz-Carlton Reserve,](https://meidasnews.com/news/vivek-ramaswamy-used-campaign-funds-to-finance-luxury-puerto-rico-trip) one of the most exclusive [luxury](https://heartlandsignal.com/2026/03/24/report-vivek-ramaswamy-shelled-out-12k-in-campaign-funds-on-luxury-puerto-rico-vacation/) destinations in Puerto Rico, while Ohioans experienced higher prices. Ramaswamy even [posted](https://meidasnews.com/news/vivek-ramaswamy-used-campaign-funds-to-finance-luxury-puerto-rico-trip) a picture of himself playing pickleball at the resort with Logan and Jake Paul. 
+
+**Message:** Vivek Ramaswamy used campaign funds on a luxury vacation in Puerto Rico while Ohioans struggled with higher costs.
+
 ### Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base
 
 -   In 2023, Vivek Ramaswamy was found to have paid a Wikipedia editor to delete references to his involvement in [Ohio’s COVID-19 Response Team](https://www.mediaite.com/politics/exclusive-vivek-ramaswamy-paid-to-have-his-soros-fellowship-and-covid-era-role-scrubbed-from-wikipedia-page/) and his relationship with a [stem-cell chemist](https://www.nationalreview.com/news/ramaswamy-paid-wikipedia-editor-to-delete-reference-to-harvard-vaccine-scientist-mentor-days-before-announcing-campaign/) who pioneered the mRNA vaccine. 
@@ -110,8 +116,7 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 {.links-list}
 
 ## Vivek Ramaswamy Used His Power And Wealth To Benefit Himself
-
+- [:moneybag: | **Vivek Ramaswamy Used Campaign Donations To Fund His Stay At A Luxury Resort In Puerto Rico**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-luxury-trip)
 - [:sos: | **Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-wikipedia)
-
 - [:syringe: | **Vivek Ramaswamy Stood To Reap Windfall From Lawsuits Over The COVID-19 Vaccine Technology Which He Attacked In Public**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-covid-vaccine)
 {.links-list}
