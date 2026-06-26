@@ -2,7 +2,7 @@
 title: Eli Crane
 description: 
 published: true
-date: 2026-06-26T17:34:13.058Z
+date: 2026-06-26T17:41:45.005Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T18:31:22.740Z
@@ -11,6 +11,7 @@ dateCreated: 2025-12-05T18:31:22.740Z
 **📺 - Click here for Notable Clips and Visuals**
 
 **Eli Crane Complained That The Billions In Cuts To Medicaid Weren't Enough, Calling Them "Pathetic."** \[The Fresh Freedom Podcast 12/20/2025\]  
+  
 
 [**Click here to check out more videos from Eli Crane.**](https://www.youtube.com/playlist?list=PLWuvMonaruUiN3F0UakEi_6joqv1xWIw2)
 
