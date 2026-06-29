@@ -2,14 +2,33 @@
 title: Jeff Hurd (CO-03)
 description: 
 published: true
-date: 2026-05-27T23:16:38.414Z
+date: 2026-06-29T17:15:49.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T20:24:41.472Z
 ---
 
 # How To Win Against Jeff Hurd
+<details>
+<summary><strong> 📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
 
+**Jeff Hurd Visited A Colorado Hospital Facing The Effects Of Medicaid Cuts He Voted For.** [KXRM (FOX) 04/07/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/dxv21h?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Hurd Opposed Permanent Affordable Care Act Subsidies.** [CNN News Central 11/12/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/1si92b?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Hurd Backed Trump's Trade Goals, Calling Tariffs A "Useful Tool."** [KFQX (FOX) 02/20/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/sbupit?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Hurd Acknowledged Tariffs Impacted Manufacturers In His District.** [Jeff Hurd The Ripon Society 03/06/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ikr5dv?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Hurd Said Tariffs Had A Negative Impact On Farmers In His District.** [Jeff Hurd Capitol Conversations 02/16/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.206%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ta0fyy?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 Jeff Hurd sold himself as an independent voice willing to vote with his conscience, but when push came to shove, he stuck with the party line over Coloradans. He repeatedly promised that he would protect benefits like Medicaid and Medicare and then voted to cut them. He voted to protect Trump’s tariffs for nearly a year while admitting his constituents suffered. He supported bills to extend the enhanced Affordable Care Act tax credits but refused to push for them through discharge petitions and then it was too late and his constituents faced massive cost increases. He advocated for local control of land management and then wrote a bill that would throw away painstaking work done by Coloradans. Hurd says one thing, does another, and then dodges his constituents. 
 
 ### Hurd Voted To Cut health coverage for coloradans
