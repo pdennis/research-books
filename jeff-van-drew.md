@@ -2,14 +2,36 @@
 title: Jeff Van Drew (NJ-02)
 description: 
 published: true
-date: 2026-06-02T22:31:16.748Z
+date: 2026-06-29T20:44:58.475Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-06T21:50:52.014Z
 ---
 
 # How to Win Against Jeff Van Drew
+<details>
+<summary><strong> 📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
 
+**Jeff Van Drew Defended The One Big Beautiful Bill Against Critics.** [FBN: The Evening Edit 04/14/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/yc6h9n?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Van Drew Said He Does Not Like The Affordable Care Act.** [Bipartisan Health Care Press Conference 12/04/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/no98fq?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Van Drew Warned ACA Cuts Would Hurt Blue-Collar And Working Americans.** [Jeff Van Drew Guy Benson Show 12/12/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:66.667%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/h4wze1?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Van Drew Defended Trump's Tariffs, Saying "We Have To Stick With This."** [Newsmax 04/04/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/6yk486?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Van Drew Admitted People Had Been Hurt By Tariffs.** [Newsmax 04/04/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/5pbtwx?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Van Drew Dismissed Concerns About Trump's Tariff Policy, Saying "Everybody Calm Down."** [Newsmax 04/04/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/pnwfky?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 Jeff Van Drew was an opportunistic politician who changed his party allegiance depending on who was polling better. From the moment he switched to the Republican Party in 2019, Van Drew worked to make life harder for New Jerseyans, and has been nothing but a rubber stamp for Trump’s destructive agenda throughout 2025. He voted to kick more than 30,000 New Jerseyans in his district off their health coverage by supporting the Big Ugly Bill, forcing a New Jersey hospital to cancel an expansion and hamstringing a New Jersey program supporting local hospitals. In the same vote, he passed the biggest cuts to SNAP in history, ignoring that over 36,000 households in his district relied on the program. Van Drew was also working to make life harder for seniors as a member of the Republican Study Committee. The group staunchly advocated for raising the retirement age and turning Medicare into a voucher system. Van Drew was an early supporter of DOGE, joining the Congressional DOGE caucus and defending the agency’s debunked claims that 150-year-olds were receiving Social Security benefits. When the agency cut hundreds of millions in federal grants for New Jersey health departments, Van Drew turned a blind eye. He said Trump was “doing the right thing” by instituting tariffs that were contributing to “mega-layoffs” across the country, squeezing New Jersey families, and crippling his state’s port economy. All he had to say about the damage Trump was wreaking was: “hang tough.” He infamously abandoned the Democratic party and became a Republican in 2019, claiming that he didn’t care about political labels and neither did his voters. A closer look at the situation showed that New Jersey Democratic leaders and voters were fed up with Van Drew, and instead of gracefully bowing out in 2020 he saw a chance to extend his political career. 
 
 ### Van Drew Voted For Devastating Health Care Cuts
