@@ -2,14 +2,39 @@
 title: Tom Kean, Jr.
 description: 
 published: true
-date: 2026-02-13T20:31:12.672Z
+date: 2026-06-30T16:25:04.078Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T12:54:53.416Z
 ---
 
 # **How To Win Against Tom Kean Jr.**
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
 
+**Tom Kean Jr. Was "Noticeably Silent" During Reconciliation Debate After Pledging Not To Cut Medicaid.** [WNET 05/14/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/7csg6x?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Kean Jr. Said Trump's Tariff Structure Was "Right As It Is."** [Tom Kean Jr. Tele Town Hall 07/01/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/7qdnwv?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Kean Jr. Avoided Public Town Halls And Media Interviews.** [WNET 05/18/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/5cwtee?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Kean Jr. Was Accused Of "Shunning The Media" For Political Gain.** [WNET 05/18/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/racc5j?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Kean Jr. Was Accused Of "Turning His Back" On His Father's Legacy To Appease The MAGA Wing.** [WNET 05/18/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ppuxeh?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Kean Jr. Promised To Place His Assets In A Blind Trust.** [NJ Spotlight News 07/25/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/pbln5d?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Tom Kean Jr. Faced Scrutiny After Backing Away From His Blind Trust Pledge.** [NJ Spotlight News 07/25/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/qjqxit?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 Multimillionaire Tom Kean, Jr. is a flip-flopper who will say and do anything to get elected and please his Republican party leaders. He voted to take Medicaid benefits and food assistance away from his constituents. He backed Trump’s unpopular tariffs despite the harm it was bringing to New Jerseyans. He criticized his opponent for violating the STOCK Act and swore to put his stocks in a blind trust, then after getting elected he violated the STOCK Act and failed to put his stocks in a blind trust. He was silent when DOGE threatened thousands of his constituents’ jobs and benefits. New Jerseyans can’t count on Tom Kean, Jr. to fight for them, all he can provide is an [awkwardly silent elevator ride](https://x.com/benhulac/status/1838962877132165566?s=20). 
 
 ### Kean Voted To Gut Health Care Benefits For New Jerseyans
