@@ -2,7 +2,7 @@
 title: Gabe Evans
 description: 
 published: true
-date: 2026-02-17T04:51:03.661Z
+date: 2026-07-01T16:33:31.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:53:10.838Z
@@ -27,7 +27,27 @@ This video is not for public use on a campaign, and is purely here as an example
 <details>
 <summary><strong>📺 - Click here for Notable Clips and Visuals
   </strong></summary>
- COMING SOON!
+ 
+  **Gabe Evans Touted Health Care Funding After Voting For $2 Billion In Medicaid Cuts.** [KTVD (MyTV) 01/06/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/t9hw24?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Gabe Evans Said He Was "Protecting Medicaid" While Forcing Millions To Lose Their Health Care Coverage.** [KMGH-DEN 05/29/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/7uep89?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Gabe Evans Played A Key Role In Medicaid Spending Cuts.** [KUSA-DEN (NBC) 05/22/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/sz08ut?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Gabe Evans Backed A Budget Plan Estimated To Leave 8.6 Million People Without Health Insurance.** [KUSA-DEN (NBC) 05/22/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/g9wkq4?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Gabe Evans Defended Tariffs As A Way To "Ensure A Level Playing Field."** [KWGN 12/07/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/wmka7q?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Constituents Protested Gabe Evans' Support For DOGE.** [KDVR-DEN (FOX) 02/21/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/41irs0?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Gabe Evans Took Credit For Releasing The Epstein Files Despite Lauren Boebert Leading The Effort.** [KTVD (MyTv) 11/19/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/4ad1wg?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 </details>
 
 # How To Win Against Gabe Evans
