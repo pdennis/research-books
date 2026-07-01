@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-07-01T21:57:33.862Z
+date: 2026-07-01T21:58:15.261Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -90,6 +90,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 **Message:** Stacy Garrity would allow Trump to overreach his authority and send federal forces against Pennsylvanians. 
 
+### Stacy Garrity Had A Track Record Of Ethical Concerns
 
 - Stacy Garrity repeatedly faced ethical concerns and questions over her record in the private sector and tenure in the Pennsylvania Treasury’s Office. 
 
