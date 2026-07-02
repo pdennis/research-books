@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: true
-date: 2026-07-02T17:41:32.455Z
+date: 2026-07-02T17:47:34.871Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
@@ -86,7 +86,7 @@ Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to
 
 - On May 1, 2026, Kansas Attorney General Kris Kobach [skipped the annual Kansas Law Enforcement Memorial honoring fallen Kansas law enforcement officers](https://kansasreflector.com/2026/05/11/kansas-attorney-general-misses-annual-law-enforcement-memorial-event-during-trip-to-ireland/) to travel to Ireland. Instead of honoring fallen Kansas law enforcement at the ceremony, Kobach claimed he had a “scheduling conflict” and traveled to Ireland to “gather insights into dealing with hooligan fans during World Cup soccer events.” Kobach also traveled back to the U.S. in time to attend a Republican Attorneys General Association retreat at a resort in Sea Island, Georgia. 
 
-**Message:** Kris Kobach prioritized an internal trip over honoring Kansas law enforcement who lost their lives serving Kansans. 
+**Message:** Kris Kobach prioritized an international trip over honoring Kansas law enforcement who lost their lives serving Kansans. 
 
 # **Issue Back-Ups**
 
