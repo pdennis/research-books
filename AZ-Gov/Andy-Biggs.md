@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-05-22T20:36:50.838Z
+date: 2026-07-06T19:36:28.471Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -67,7 +67,17 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 -   Despite claiming to support and [“protect”](https://x.com/RepAndyBiggsAZ/status/2017403717444657614) the livelihoods of Arizona farmers, Andy Biggs failed Arizona farmers in advancing legislation that failed to address the critical need for [year-round E15.](https://www.politico.com/live-updates/2026/01/27/congress/trump-reaffirms-ethanol-support-calls-on-congress-to-finalize-deal-00750857) In January 2026, Biggs [voted](http://clerk.house.gov/evs/2026/roll041.xml) to advance a federal funding package, effectively voting to create an [E15 Rural Domestic Energy Council](https://www.eenews.net/articles/ethanol-allies-stumble-again-in-congress/) in lieu of meaningful legislation to enact [year-round E15.](https://thehill.com/policy/energy-environment/5701330-ethanol-gas-e15/) The National Corn Growers Association called the decision [“weak and offensive”](https://plus.cq.com/doc/news-8392082?12) and warned it would neglect [500,000 American corn farmers.](https://ncga.com/stay-informed/media/in-the-news/article/2026/01/corn-growers-furious-with-new-development-on-e15) The Renewable Fuels Association [emphasized](https://westernagnetwork.com/corn-growers-furious-with-new-development-on-e15) the critical need of year-round E15 to support hard-hit farmers and lower gas prices. The biofuel trade group Growth Energy [noted](https://westernagnetwork.com/corn-growers-furious-with-new-development-on-e15) that failure to pass year-round E15 would “lead to farmers missing out on a critical market during the worst farm crisis in 40 years.” In 2023, Growth Energy [lauded](https://growthenergy.org/2023/03/03/growth-energy-cheers-arizona-rule-expanding-e15-markets/) the Arizona Department of Agriculture for implementing a rule that would expand the sale of E15 in the greater Phoenix area and allow Arizona to take “advantage of lower-cost, lower-carbon E15 blends.”
 
-**Message:** Andy Biggs failed Arizona farmers and effectively voted for an E15 Rural Domestic Energy Council instead of passing year-round E15.
+**Message:** Biggs failed Arizona farmers and effectively voted for an E15 Rural Domestic Energy Council instead of passing year-round E15.
+
+### Biggs Supported School Vouchers And Threatened Teachers Unions
+
+- In 2026, Biggs [intervened](https://www.azcentral.com/story/news/local/arizona-education/2026/06/30/az-school-voucher-deal-dies-setting-up-nov-ballot-fight/90746419007/) in negotiations with the Arizona legislature and the Arizona Education Association over ballot measures impacting school vouchers and union funding. The Arizona Education Association’s [ballot initiative](https://tucson.com/news/state-regional/government-politics/article_519b0d39-0682-4bbb-84a9-b6afa3f3f135.html) would have put income caps and spending restrictions on vouchers, while Republicans had passed three measures that would [block further school voucher reforms](https://www.kjzz.org/politics/2026-06-13/after-deal-fails-republicans-send-poison-pill-for-arizona-school-voucher-reform-to-ballot) and effectively defund the teachers union, and potentially all labor unions, including in public safety.
+
+- The negotiations were approaching a deal that would have both parties drop their ballot measures in exchange for the legislature passing more moderate school voucher reforms, until [Biggs told Republicans it was a bad deal](https://tucson.com/news/state-regional/government-politics/article_519b0d39-0682-4bbb-84a9-b6afa3f3f135.html), and they should instead only agree to drop the anti-union legislation. Arizona Democrats and the Arizona Education Association [walked away from negotiations](https://tucson.com/news/state-regional/government-politics/article_519b0d39-0682-4bbb-84a9-b6afa3f3f135.html), arguing Republicans were not negotiating in good faith, meaning Arizona voters would likely have to vote on all four ballot measures in November.
+
+- During fiscal year 2026, the school voucher program, which Biggs [wanted to expand](https://azmirror.com/2026/06/17/in-gop-governor-debate-biggs-sets-sights-on-hobbs-while-schweikert-tries-to-slow-him-down/), cost Arizona taxpayers [more than $1 billion](https://www.azjlbc.gov/27baseline/ade.pdf). Additionally, after the program instituted automatic approvals for purchases under $2,000, concerns about fraud grew in response to reports that [voucher dollars were used to purchase luxury items](https://cronkitenews.azpbs.org/2026/06/10/school-vouchers-arizona-ballot-petitions/) including jewelry, vacations, and home appliances.
+
+**Message:** Biggs’ meddling broke up negotiations in the Arizona Legislature, leaving the teachers union at risk and promoting the school voucher program that cost Arizona taxpayers more than $1 billion.
 
 ### **BIGGS WAS AN ANTI-ABORTION EXTREMIST**
 
