@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-07-06T19:36:28.471Z
+date: 2026-07-06T19:39:31.476Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -129,6 +129,7 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 -   [:x: ***Biggs Won't Defend Arizonans’ Jobs Or Social Security From Trump***](/en/AZ-Gov/Andy-Biggs/biggs-doge)
 -   [:mechanic: ***Biggs Voted Against Protecting Arizonans' Clean Energy Jobs***](/en/AZ-Gov/Andy-Biggs/biggs-cleanenergy)
 -   [:corn: ***Biggs Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15***](/en/AZ-Gov/Andy-Biggs/Biggs-E15)
+- [:school: ***Biggs Supported School Vouchers And Threatened Teachers Unions***](/en/AZ-Gov/Andy-Biggs/biggs-education)
 -   [:woman: ***Biggs Was An Anti-Abortion Extremist***](/en/AZ-Gov/Andy-Biggs/biggs-abortion)
 {.links-list}
 
