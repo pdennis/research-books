@@ -2,7 +2,7 @@
 title: Warren Petersen
 description: 
 published: true
-date: 2026-06-25T21:59:27.366Z
+date: 2026-07-06T19:39:52.991Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T16:02:27.010Z
@@ -52,7 +52,7 @@ As a member of the Arizona state legislature, Republican Arizona attorney genera
 
 # **Issue Back-Ups**
 
-## **Warren Petersen Policies Have Hurt Everyday People**
+## **Warren Petersen's Policies Have Hurt Everyday People**
 
 - [:woman: ***Petersen Was An Anti-Abortion Extremist***](/AZ-Gov/warren-petersen/petersen-abortion)
 - [:school: ***Petersen Threatened Public School Funding And Championed “School Choice”***](/AZ-Gov/warren-petersen/petersen-education)
