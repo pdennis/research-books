@@ -2,14 +2,45 @@
 title: Jeff Crank (CO-05)
 description: 
 published: true
-date: 2026-05-25T18:40:41.830Z
+date: 2026-07-07T16:05:00.946Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T15:18:53.326Z
 ---
 
 # How To Win Against Jeff Crank 
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
 
+**Jeff Crank Opposed Extending ACA Premium Subsidies.** [FOX 31 Colorado Point Of View 10/11/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/83mxnb?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Crank Backed A Budget Plan Critics Said Would Lay The Groundwork For Medicaid And SNAP Cuts.** [FOX 21 News 03/05/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/spff3q?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Crank Avoided In-Person Town Halls Despite Saying He "Welcomes Open Dialogue."** [KOAA News 5 04/30/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/lwrcwq?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Crank Celebrated Defunding Planned Parenthood, Saying He Was "Proud" Of The Bill Passed.** [Jeff Crank Tele-Town Hall 07/22/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/v014q6?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Crank Defended Texas' Heartbeat Bill, A Six-Week Abortion Ban** [The Jeff Crank Show 09/04/2021]
+<div style="position:relative; width:100%; height:0px; padding-bottom:65.455%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/cy6r7b?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Crank Compared The Risk Of Pregnancy To Getting Hit By A Car On The Way To Buy A Slurpee.** [The Jeff Crank Show 09/04/2021]
+<div style="position:relative; width:100%; height:0px; padding-bottom:65.455%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/sqjgim?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Crank Compared Opposition To Abortion To Opposition To Rape.** [The Jeff Crank Show 10/02/2021]
+<div style="position:relative; width:100%; height:0px; padding-bottom:65.455%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/dvoi1e?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Virginia Giuffrie's Family Called On Jeff Crank To Sign A Petition To Release The Epstein Files.** [KRDO 13 (ABC) 09/29/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/wtl3jq?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jeff Crank "Did Not Committ" To Signing A Petition To Release The Epstein Files.** [KRDO 13 (ABC) 09/29/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/beoml5?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 Crank was a life-long political insider who was out-of-touch with the needs of everyday Coloradans. As a former congressional staffer, state director of Americans for Prosperity Colorado, and now congressman Crank has not stood up to protect Coloradans’ health care or hard-earned benefits. He voted to kick thousands of Coloradans off their health coverage and to let premiums increase for Coloradans who relied on the Affordable Care Act to access health insurance. He voted for a bill that would trigger Medicare cuts and supported an agency that hamstrung Social Security. He even supported that agency as it presented a threat to federal employees and veterans. He voted to take food assistance from Coloradans and supported tariffs that made the already expensive cost-of-living in Colorado worse. As a lifelong political operative who has [wanted this congressional seat since 2006](https://www.coloradopolitics.com/2024/03/24/republican-state-chair-dave-williams-wins-top-line-in-colorados-5th-congressional-district-primary-2-39e6501e-e95b-11ee-b301-efb20612e26f/), Crank is more concerned with being in elected office than listening to the needs of Coloradans.
 
 ### Crank Voted To Rip Health Coverage from thousands of coloradans
