@@ -1,8 +1,8 @@
 ---
 title: Rep. Victoria Spartz (IN-05): Jobs and the Economy
 description: 
-published: false
-date: 2026-02-18T19:49:18.593Z
+published: true
+date: 2026-07-08T13:59:29.943Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:16.202Z
