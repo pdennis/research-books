@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-07-01T21:58:15.261Z
+date: 2026-07-08T20:49:11.783Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -96,7 +96,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 - Garrity’s previous work in the private sector raised questions about whether she [failed to register as a lobbyist.](https://whyy.org/articles/stacy-garrity-lobbying-work-pennsylvania-governor-race/) As a vice president of Global Tungsten and Powders, she [lobbied for federal legislation](https://www.spotlightpa.org/news/2026/04/pennsylvania-primary-election-stacy-garrity-governor-guide-elections/) and managed hundreds of thousands of lobbying dollars to promote policies that benefited the company, including tariffs on foreign competition and tariff exemptions for her company. From 2010 to 2019, Garrity also worked as director of the [Munitions Industrial Base Task Force,](https://whyy.org/articles/stacy-garrity-lobbying-work-pennsylvania-governor-race/) a group that spent more than $1 million lobbying the federal government on defense issues. 
 
-- Garrity joined the board of [ECM Insurance Group](/PA-Gov/stacy-garrity/garrity-ethics)https://www.inquirer.com/politics/election/stacy-garrity-financial-interests-ecm-insurance-20260528.html) in 2024, a for-profit insurance company, earning [nearly $60,000 in 2025,](https://www.inquirer.com/politics/election/stacy-garrity-financial-interests-ecm-insurance-20260528.html) and would oversee the Insurance Department that regulated the company if elected governor. Garrity would even earn [nearly $200,000](https://www.inquirer.com/politics/election/stacy-garrity-financial-interests-ecm-insurance-20260528.html) if a pending acquisition of the company closes. 
+- Garrity joined the board of [ECM Insurance Group](https://www.inquirer.com/politics/election/stacy-garrity-financial-interests-ecm-insurance-20260528.html) in 2024, a for-profit insurance company, earning [nearly $60,000 in 2025,](https://www.inquirer.com/politics/election/stacy-garrity-financial-interests-ecm-insurance-20260528.html) and would oversee the Insurance Department that regulated the company if elected governor. Garrity would even earn [nearly $200,000](https://www.inquirer.com/politics/election/stacy-garrity-financial-interests-ecm-insurance-20260528.html) if a pending acquisition of the company closes. 
 
 - Garrity’s Treasury office [refused](https://americanjournalnews.com/garritys-office-rejected-records-request-that-could-expose-corruption/) to fulfill a public records request over Garrity’s changes to the Investment Policy Statement as she stood to benefit from the changes. Observers [noted](https://americanjournalnews.com/garritys-office-rejected-records-request-that-could-expose-corruption/) Garrity’s changes ended the practice of considering investments’ environmental and social impacts and would benefit the natural gas industry while Garrity [reported](https://www.inquirer.com/politics/election/stacy-garrity-financial-interests-ecm-insurance-20260528.html) she earned an income from two natural gas companies. 
 
