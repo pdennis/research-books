@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy
 description: 
 published: true
-date: 2026-06-26T19:00:34.012Z
+date: 2026-07-08T20:32:16.779Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
@@ -11,7 +11,7 @@ dateCreated: 2026-04-24T13:17:44.471Z
 
 # How To Win Against Vivek Ramaswamy
 
-Former failed presidential candidate and extremist Vivek Ramaswamy sought to bring his extremism to Ohio, promoting policies that would strip Ohioans of their health care and food assistance. Ramaswamy supported Medicaid work requirements, calling them “not extreme but common sense,” and scrutinized Trump for not repealing and replacing the Affordable Care Act. Ramaswamy indicated he supported Trump’s reciprocal tariffs, even though Trump’s tariff policies were harming Ohio farmers and manufacturing. Ramaswamy was a key architect of Trump’s DOGE initiative, which shut down critical federal offices and targeted the livelihoods of 83,000 federal workers in Ohio. Ramaswamy was an anti-abortion extremist, who called abortion "murder" and expressed support for a six-week abortion ban at the state level. Ramaswamy also excused the January 6 insurrectionists, entertained conspiracy theories about the January 6 insurrection, and said he would not have certified the Electoral College votes as Pence did. In late 2025, Ramaswamy used campaign funds on a luxury vacation in Puerto Rico while Ohioans struggled with higher costs. In 2023, Ramaswamy accepted a campaign contribution from a notorious Islamophobe. Ramaswamy was found to have paid a Wikipedia editor to delete references to his involvement in Ohio’s COVID-19 Response Team and his relationship with a stem-cell chemist who pioneered the mRNA vaccine. Despite Ramaswamy’s COVID-19 vaccine skepticism and attacks on Operation Warp Speed and the FDA, he stood to reap a windfall from lawsuits his former companies were pursuing against Moderna, Pfizer, and BioNTech over technology that was used in the COVID-19 vaccines.
+Former failed presidential candidate and extremist Vivek Ramaswamy sought to bring his extremism to Ohio, promoting policies that would strip Ohioans of their health care and food assistance. Ramaswamy supported Medicaid work requirements, calling them “not extreme but common sense,” and scrutinized Trump for not repealing and replacing the Affordable Care Act. Ramaswamy indicated he supported Trump’s reciprocal tariffs, even though Trump’s tariff policies were harming Ohio farmers and manufacturing. Ramaswamy was a key architect of Trump’s DOGE initiative, which shut down critical federal offices and targeted the livelihoods of 83,000 federal workers in Ohio. Ramaswamy was an anti-abortion extremist, who called abortion "murder" and expressed support for a six-week abortion ban at the state level. Ramaswamy also excused the January 6 insurrectionists, entertained conspiracy theories about the January 6 insurrection, and said he would not have certified the Electoral College votes as Pence did. In late 2025, Ramaswamy used campaign funds on a luxury vacation in Puerto Rico while Ohioans struggled with higher costs. On Fourth of July, 2026, Ramaswamy took a trip using his private jet to Paris, France while Ohioans struggled with extreme heat. In 2023, Ramaswamy accepted a campaign contribution from a notorious Islamophobe. Ramaswamy was found to have paid a Wikipedia editor to delete references to his involvement in Ohio’s COVID-19 Response Team and his relationship with a stem-cell chemist who pioneered the mRNA vaccine. Despite Ramaswamy’s COVID-19 vaccine skepticism and attacks on Operation Warp Speed and the FDA, he stood to reap a windfall from lawsuits his former companies were pursuing against Moderna, Pfizer, and BioNTech over technology that was used in the COVID-19 vaccines.
 
 ### Vivek Ramaswamy Supported Restricting Medicaid And Repealing The Affordable Care Act
 
@@ -72,8 +72,9 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 ### Vivek Ramaswamy Used Campaign Donations To Fund His Stay At A Luxury Resort In Puerto Rico
 
 - In late 2025, Vivek Ramaswamy’s campaign [blew nearly $12,000 in campaign funds](https://newrepublic.com/post/208034/vivek-ramaswamy-campaign-funds-luxury-vacation) [at the Dorado Beach Ritz-Carlton Reserve,](https://meidasnews.com/news/vivek-ramaswamy-used-campaign-funds-to-finance-luxury-puerto-rico-trip) one of the most exclusive [luxury](https://heartlandsignal.com/2026/03/24/report-vivek-ramaswamy-shelled-out-12k-in-campaign-funds-on-luxury-puerto-rico-vacation/) destinations in Puerto Rico, while Ohioans experienced higher prices. Ramaswamy even [posted](https://meidasnews.com/news/vivek-ramaswamy-used-campaign-funds-to-finance-luxury-puerto-rico-trip) a picture of himself playing pickleball at the resort with Logan and Jake Paul. 
+-On July 4, 2026, Ramaswamy took a [private jet](https://tiffinohio.net/posts/ramaswamy-private-jet-paris-july-4/) from Columbus, Ohio to Paris, France while much of central Ohio was under a [heat advisory.](https://www.dispatch.com/story/weather/2026/07/04/central-ohio-4th-july-weather-extreme-heat-possible-storms/90801625007/) The Rooster found Ramaswamy’s private jet had flown [54 times](https://tiffinohio.net/posts/ramaswamy-private-jet-paris-july-4/) at an estimated cost of $200,000 from January to June 2026, including to international destinations.
 
-**Message:** Vivek Ramaswamy used campaign funds on a luxury vacation in Puerto Rico while Ohioans struggled with higher costs.
+**Message:** Vivek Ramaswamy  went on luxury vacations while Ohioans struggled with higher costs and extreme heat.
 
 ### Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base
 
@@ -116,7 +117,7 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 {.links-list}
 
 ## Vivek Ramaswamy Used His Power And Wealth To Benefit Himself
-- [:moneybag: | **Vivek Ramaswamy Used Campaign Donations To Fund His Stay At A Luxury Resort In Puerto Rico**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-luxury-trip)
+- [:moneybag: | **Vivek Ramaswamy Took Luxury Trips While Ohioans Struggled With Higher Costs And Extreme Heat**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-luxury-trip)
 - [:sos: | **Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-wikipedia)
 - [:syringe: | **Vivek Ramaswamy Stood To Reap Windfall From Lawsuits Over The COVID-19 Vaccine Technology Which He Attacked In Public**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-covid-vaccine)
 {.links-list}
