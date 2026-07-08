@@ -2,13 +2,30 @@
 title: Monica De La Cruz (TX-15)
 description: 
 published: true
-date: 2026-05-11T21:20:39.893Z
+date: 2026-07-08T15:00:58.385Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-15T00:46:32.500Z
 ---
 
 # How To Win Against Monica De La Cruz
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Protesters Gathered Outside Monica De La Cruz's Office Over Her Votes To Cut Health Care And Food Assistance.** [KRGV Channel 5 News 03/23/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/04opno?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Monica De La Cruz Denied Voting To Continue Obamacare.** [Monica De La Cruz Meet & Greet 04/13/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:108.333%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/znplid?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Monica De La Cruz Voted For A Bill That Cut Medicaid And Added Work Requirements.** [KRGV Channel 5 News 05/22/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/5bmd8l?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Monica De La Cruz Praised Tariffs As A Strategy For Economic Success, Calling Trump's Approach "The Art Of The Deal."** [FOX Business 04/07/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/49h7yq?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 Monica De La Cruz was [out-of-touch](https://www.texastribune.org/2026/04/09/bobby-pulido-quinceaneras-monica-de-la-cruz-south-texas-congress/) with the Texans she claimed to represent. She has spent most of her time in Congress voting to rip away access to critical programs, like health care and food assistance, that Texans relied on. She was an anti-choice extremist opposing exceptions even for rape and incest. She also lacks the temperament for the job. While running for Congress in 2021, De La Cruz’s then-husband requested a restraining order against her and accused her of “cruel and aggressive conduct” toward his 14-year-old daughter. A judge ruled that she was prohibited from going home until her election was over. She also opposed COVID-relief spending packages despite having collected more than a hundred thousand dollars in relief money for her own businesses. De La Cruz cannot not be trusted to represent her constituents’ best interests. 
 
