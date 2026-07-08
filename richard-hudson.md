@@ -2,13 +2,27 @@
 title: Richard Hudson (NC-09)
 description: 
 published: true
-date: 2026-07-01T20:59:27.129Z
+date: 2026-07-08T16:11:49.777Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:12:48.234Z
 ---
 
 # How To Win Against Richard Hudson
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Richard Hudson Supported "Full Repeal" Of Obamacare.** [C-SPAN 05/16/2013]
+<div style="position:relative; width:100%; height:0px; padding-bottom:65.099%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/5f47ju?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Richard Hudson Vowed To Repeal Obamacare.** [Spectrum News 1 Charlotte 01/18/2017]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/kr750b?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Richard Hudson Called Higher Gas Prices A Temporary "Blip" After Trump's Iran Strikes.** [Republican Women: Fighting To Talk 06/25/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/qub4z0?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 Richard Hudson has built his career as a Washington insider who puts industry donors ahead of his own constituents. He was the one of [top pharmaceutical PAC recipient in Congress](https://www.opensecrets.org/members-of-congress/richard-hudson/industries?cid=N00033630&cycle=2020) in the 2020 cycle — pocketing $275,980— who voted against the [capping insulin prices and Medicare drug price negotiation](https://myfox8.com/news/north-carolina/heres-what-the-inflation-reduction-act-means-for-north-carolina/), parroting pharma industry talking points almost verbatim. He personally [inserted a provision into a GOP bill to block Medicaid expansion in North Carolina](https://www.rollcall.com/2017/03/22/gop-bill-takes-aim-at-long-shot-medicaid-expansion-hopes/) — a program that went on to cover [over 600,000 people](https://www.ncdhhs.gov/news/press-releases/2024/12/16/over-600000-north-carolinians-enrolled-medicaid-expansion) once it finally passed without his help. He voted against the [bill](https://www.govtrack.us/congress/votes/117-2022/h404) that funded a [\$5 billion Wolfspeed semiconductor plant and 1,800 jobs in his own district](https://www.wral.com/story/biden-admin-to-provide-750-million-to-north-carolina-based-wolfspeed-for-advanced-computer-chips/21674028/), and voted to [keep tariffs](https://www.govtrack.us/congress/votes/119-2026/h65) projected to cost North Carolina farmers [\$695 million and 8,000 jobs](https://www.carolinajournal.com/report-warns-tariffs-could-cost-nc-farms-700m-8000-jobs/). 
 
