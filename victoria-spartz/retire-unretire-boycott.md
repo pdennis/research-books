@@ -1,8 +1,8 @@
 ---
 title: Rep. Victoria Spartz (IN-05): Retired, Un-Retired, Then Boycotted Her Own Party
 description: 
-published: false
-date: 2026-02-18T19:49:23.358Z
+published: true
+date: 2026-07-08T15:53:28.924Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:21.749Z
