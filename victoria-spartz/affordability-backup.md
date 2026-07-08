@@ -1,8 +1,8 @@
 ---
 title: Rep. Victoria Spartz (IN-05): Affordability
 description: 
-published: false
-date: 2026-02-18T19:49:03.028Z
+published: true
+date: 2026-07-08T14:00:05.404Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:19:26.935Z
