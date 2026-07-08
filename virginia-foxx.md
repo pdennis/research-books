@@ -2,13 +2,21 @@
 title: Virginia Foxx
 description: 
 published: true
-date: 2026-03-25T13:17:26.572Z
+date: 2026-07-08T16:35:23.148Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:59.329Z
 ---
 
 # How To Win Against Virginia Foxx
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Virginia Foxx Called For Dismantling The Department Of Education And "Cleaning Up" Student Loans.** [All Things With Kim Strassel 03/25/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/nqybnr?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 Virginia Foxx has spent two decades in Congress building a record that is indefensible in her own district. She [called the Affordable Care Act more dangerous than terrorism](https://talkingpointsmemo.com/news/rep-foxx-health-care-reform-more-dangerous-than-any-terrorist), voted for a replacement bill that the [CBO said would leave 23 million more Americans uninsured](https://www.npr.org/2017/05/24/529902300/cbo-republicans-ahca-would-leave-23-million-more-uninsured), voted against [\$35 insulin and Medicare drug price negotiation](https://www.kff.org/medicare/issue-brief/faqs-about-the-inflation-reduction-acts-medicare-drug-price-negotiation-program/), then voted for the One Big Beautiful Bill Act that is projected to [strip Medicaid from 200,000 North Carolinians](https://www.kff.org/medicaid/allocating-cbos-estimates-of-federal-medicaid-spending-reductions-across-the-states-enacted-reconciliation-package/) and impose the [largest SNAP cuts in history, threatening 1.35 million North Carolinians](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/) all while that tax law delivers [an average tax cut of \$12,540 to the top 20% of earners but just \$150 for the bottom 20%](https://www.cbsnews.com/news/big-beautiful-bill-tax-cuts-by-income-group/). 
 
