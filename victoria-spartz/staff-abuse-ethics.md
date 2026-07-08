@@ -1,8 +1,8 @@
 ---
 title: Rep. Victoria Spartz (IN-05): Ethics Investigation — Staff Abuse, Furniture-Throwing, and "Complete and Total Rage"
 description: 
-published: false
-date: 2026-02-18T19:49:28.171Z
+published: true
+date: 2026-07-08T15:53:08.268Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:30.524Z
