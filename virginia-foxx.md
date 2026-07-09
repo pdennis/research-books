@@ -2,7 +2,7 @@
 title: Virginia Foxx
 description: 
 published: true
-date: 2026-07-09T16:26:25.508Z
+date: 2026-07-09T16:27:09.335Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:59.329Z
@@ -17,7 +17,7 @@ dateCreated: 2026-02-18T19:20:59.329Z
 <div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/nqybnr?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 **Virginia Foxx Claims Americans Have More To Fear From Healthcare Than Terrorism.** [CSPAN, 11/2/09]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src=https://streamable.com/l/ayag9a/mp4.mp4 style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src=https://streamable.com/l/ayag9a/mp4.mp4 width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 
 </details>
