@@ -2,7 +2,7 @@
 title: Virginia Foxx
 description: 
 published: true
-date: 2026-07-09T16:29:17.585Z
+date: 2026-07-09T16:33:57.662Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:59.329Z
@@ -13,12 +13,36 @@ dateCreated: 2026-02-18T19:20:59.329Z
 <summary><strong>📺 - Click here for Notable Clips and Visuals
   </strong></summary>
 
-**Virginia Foxx Called For Dismantling The Department Of Education And "Cleaning Up" Student Loans.** [All Things With Kim Strassel 03/25/2026]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/nqybnr?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
-
 **Virginia Foxx Claims Americans Have More To Fear From Healthcare Than Terrorism.** [CSPAN, 11/2/09]
 <video
   src="https://streamable.com/l/ayag9a/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+**Virginia Foxx Attacks 4th Grader And His Teacher In Response To School Project** [WGHP (FOX), 5/12/26]
+<video
+  src="https://streamable.com/l/qq5ajm/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+**Virginia Foxx Yells At Reporter To "Shut Up" When Confronted About Attempts To Overturn 2020 Election** [10/24/23]
+<video
+  src="https://streamable.com/l/eny5kv/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+
+**Virginia Foxx Called For Dismantling The Department Of Education And "Cleaning Up" Student Loans.** [All Things With Kim Strassel 03/25/2026]
+<video
+  src="https://streamable.com/l/lf1d4i/mp4.mp4"
   type="video/mp4"
   controls
   preload="metadata"
