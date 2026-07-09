@@ -2,13 +2,27 @@
 title: Addison McDowell
 description: 
 published: true
-date: 2026-03-25T13:19:57.326Z
+date: 2026-07-09T17:25:11.395Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T18:56:15.510Z
 ---
 
 # How To Win Against Addison McDowell
+<details>
+
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Addison McDowell claims North Carolinians need to "trust" Trump on Tariffs** [4/5/2025]
+<video
+  src="https://streamable.com/l/ca1v73/mp4.mp4"
+  type="video/mp4"
+  controls
+  preload="metadata"
+  style="width:560px;max-width:100%;height:auto;border-radius:8px;">
+</video>
+</details>
 
 Addison McDowell was a [Blue Cross Blue Shield lobbyist until the day he launched his congressional campaign](https://ncnewsline.com/briefs/ballot-bites-a-lost-endorsement-and-a-new-trump-favorite-in-ncs-6th-congressional-district/) — and since arriving in Washington, every major vote he has cast has made life harder for the North Carolina families he claims to represent. McDowell voted for the [One Big Beautiful Bill](https://clerk.house.gov/evs/2025/roll190.xml), which cut [\$1 trillion from Medicaid](https://www.wfae.org/health/2026-01-17/changes-required-by-the-one-big-beautiful-bill-will-affect-medicaid-in-nc-heres-what-you-need-to-know) — threatening coverage for more than [670,000 North Carolinians](https://www.wfae.org/health/2026-01-17/changes-required-by-the-one-big-beautiful-bill-will-affect-medicaid-in-nc-heres-what-you-need-to-know) and slashed [\$187 billion from SNAP](https://nciom.org/federal-changes-to-food-assistance-in-north-carolina/), the largest cut to food assistance in history, while representing [one of the most food-insecure metro areas in the country](https://greensboro.com/news/local_news/greensboro-high-point-top-nationwide-hunger-list/article_88828c52-e568-11e4-9b5b-db55afd7f635.html). He told ABC News viewers to ["trust the president" on tariffs](https://abcnews.go.com/Politics/video/trust-president-rep-addison-mcdowell-tariff-impacts-121479650) that are now [costing the average household \$1,300 a year](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) as [textile plants around his district](https://businessnc.com/unifi-now-says-250-will-lose-jobs-when-rockingham-county-textile-plant-closes/). He [refused to join the bipartisan effort to extend ACA subsidies](https://www.nbcnews.com/politics/congress/centrist-republicans-revolt-signing-petition-force-vote-obamacare-fund-rcna249693), causing a [29% premium spike](https://www.northcarolinahealthnews.org/2025/08/15/big-health-insurance-increases-obamacare-coverage-one-big-beautiful-bill-act/) from his former employer Blue Cross Blue Shield of North Carolina. He has [never held a single in-person town hall](https://ncnewsline.com/2025/10/20/as-trump-opposition-grows-north-carolina-republicans-duck-town-halls-does-it-matter/) to face the constituents dealing with these consequences.
 
