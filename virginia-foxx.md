@@ -2,7 +2,7 @@
 title: Virginia Foxx
 description: 
 published: true
-date: 2026-07-08T16:35:23.148Z
+date: 2026-07-09T16:26:25.508Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:59.329Z
@@ -15,6 +15,10 @@ dateCreated: 2026-02-18T19:20:59.329Z
 
 **Virginia Foxx Called For Dismantling The Department Of Education And "Cleaning Up" Student Loans.** [All Things With Kim Strassel 03/25/2026]
 <div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/nqybnr?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Virginia Foxx Claims Americans Have More To Fear From Healthcare Than Terrorism.** [CSPAN, 11/2/09]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src=https://streamable.com/l/ayag9a/mp4.mp4 style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
 
 </details>
 
