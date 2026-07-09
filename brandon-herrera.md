@@ -2,13 +2,27 @@
 title: Brandon Herrera (TX-23)
 description: 
 published: true
-date: 2026-05-27T01:10:31.905Z
+date: 2026-07-09T18:40:00.851Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T19:02:58.206Z
 ---
 
 # How To Win Against Brandon Herrera
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Brandon Herrera Said The One Big Beautiful Bill Was A Win, But "Barely Scratching The Surface."** [Morning Wire 07/05/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/lkpydd?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Brandon Herrera Called For Defunding The Department Of Education.** [Brandon Herrera Campaign Speech 10/12/2023]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/uabydx?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Brandon Herrera Called To Defund The ATF.** [Brandon Herrera YouTube 10/15/2020]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/1rj9aa?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 Don’t just take it from us, Republicans have also denounced Brandon Herrera as a “goose-stepping extremist.” Herrera is completely unfit to serve in congress. Herrera, who was a well-known “gun-tuber” with millions of subscribers, used his platform to create content about mass shootings, joke about veteran suicide, and goose-step to a Nazi marching song. Herrera’s content was often disturbing and inappropriate for a prospective member of Congress. 
 
