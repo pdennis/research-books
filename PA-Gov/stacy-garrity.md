@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-07-08T20:49:11.783Z
+date: 2026-07-10T20:08:18.658Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -102,6 +102,13 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 **Message:** Stacy Garrity had a track record of ethical concerns that questioned her judgment and ability to serve as Pennsylvania governor.
 
+### Stacy Garrity Switched Her Position On Data Centers When It Was Politically Convenient
+
+- Stacy Garrity could be untrustworthy on data center policies after she flip-flopped her position on data center development. Although Garrity pushed back on the notion she [flip-flopped](https://penncapital-star.com/technology-information/garrity-and-shapiro-have-accused-each-other-of-flip-flopping-on-data-centers-are-they-both-right/) on data centers, she previously called for [deregulation](https://penncapital-star.com/technology-information/garrity-and-shapiro-have-accused-each-other-of-flip-flopping-on-data-centers-are-they-both-right/) and [expanding](https://penncapital-star.com/election-2026/republican-stacy-garritys-first-campaign-speech-of-2026-was-all-about-gov-josh-shapiro/) data center development. She previously lauded Amazon’s $20 billion data center investment and said Pennsylvania could be [“doing more”](https://www.spotlightpa.org/news/2026/07/garrity-shapiro-data-center-governor-race-2026-pennsylvania-elections/) to encourage data center development. Garrity began shifting her tone on data centers in [early 2026,](https://www.spotlightpa.org/news/2026/07/garrity-shapiro-data-center-governor-race-2026-pennsylvania-elections/) after announcing her candidacy for governor, and started holding roundtables on data centers in mid-2026, [claiming](https://www.facebook.com/reel/989941210569536) Pennsylvanians were left out of data center conversations until she started listening. In mid-2026, Garrity called for a [“total data center pause”](https://www.eenews.net/articles/pennsylvanias-gop-candidate-for-governor-calls-for-data-center-moratorium/) despite her previous support for data centers and provided [minimal details](https://penncapital-star.com/technology-information/garrity-and-shapiro-have-accused-each-other-of-flip-flopping-on-data-centers-are-they-both-right/) on her [proposals.](https://local21news.com/news/local/garrity-calls-for-pause-on-uncontracted-data-center-projects-local-officials-agree-warehouse-projects-governor-race-stacy-josh-shapiro-republican-democrat-farmland-tech-artificial-intelligence-ai-pa-pennsylvania) 
+
+**Message:** Pennsylvanians could not trust Stacy Garrity’s word after flip-flipping on data center development policies when it was politically convenient. 
+
+
 # Issue Back-Ups
 
 ## Stacy Garrity's Policies Have Hurt Everyday People
@@ -119,5 +126,9 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 - [:x: | **Stacy Garrity Was A Threat To The Voting Rights Of Pennsylvanians**](https://research-books.com/en/PA-Gov/stacy-garrity/garrity-biglie)
 - [:sos: | **Stacy Garrity Would Not Protect Pennsylvanians From Trump’s Federal Forces Overreach**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-federalforces)
 - [:⚖️: | **Stacy Garrity Had A Track Record Of Ethical Concerns**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-ethics)
+
+## Stacy Garrity Flip-Flopped On Key Issues
+- [:computer: | **Stacy Garrity Switched Her Position On Data Centers When It Was Politically Convenient**](/PA-Gov/stacy-garrity/garrity-datacenters-flipflop)
+
 
 {.links-list}
