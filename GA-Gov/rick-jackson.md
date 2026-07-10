@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-06-26T18:26:41.442Z
+date: 2026-07-10T19:28:10.974Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -32,6 +32,12 @@ Georgia Republican gubernatorial nominee Rick Jackson stated that he did not dis
 - In 2026, Rick Jackson [praised](https://www.foxnews.com/politics/gop-governor-hopefuls-pro-trump-pitch-voters-clashes-paper-trail-inside-own-company) Trump's tariffs and his [business decisions,](https://www.youtube.com/watch?v=VhttWecNSSU) touting that Trump inspired Jackson to run for governor. Jackson even [touted](https://americanjournalnews.com/rick-jackson-brags-that-tariffs-and-tax-cuts-are-boosting-his-wealth/) how Trump’s tariffs and tax cuts were growing his wealth. Jackson said he bought stocks when the [stock market crashed in April 2025](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s tariffs and celebrated making a “80% return in four weeks.” Trump’s tariffs were dooming Georgia’s ranking as [7th in the nation](https://www.fox5atlanta.com/news/trumps-tariff-plan-sparks-economic-uncertainty-georgia) for net exports and harming the state’s key industries of agriculture, automotive manufacturing, construction, and port logistics. Additionally, [two-thirds of Georgians](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/) believed the tariffs would cause their everyday costs to increase.
 
 **Message**: While Trump's tariffs harmed Georgia's key industries and drove costs up for Georgians, Rick Jackson celebrated how the tariffs grew his wealth.
+
+### Rick Jackson Won’t Protect Georgia’s Critical Services, Jobs, Or Nonprofits From DOGE
+
+- In April 2026, Rick Jackson [claimed he liked DOGE](https://youtu.be/JVU2gP2qtcI) for evaluating government efficiency when asked what government services he would cut to fund his tax cut proposals. Jackson’s praise of DOGE came after Trump’s DOGE canceled grants worth [hundreds of millions of dollars](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) for public health, nonprofits, [universities,](https://www.ledger-enquirer.com/news/local/education/article310470800.html) and critical services across Georgia. Trump’s DOGE also threatened the livelihoods of [115,600 federal workers](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) in Georgia, fired more than [2,300 Atlanta-based CDC employees,](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) and closed five Georgia Social Security offices in 2025. 
+
+**Message:** Rick Jackson’s backed DOGE even as Georgians lost their jobs and critical services were cut.
 
 ### Rick Jackson Was An Anti-Abortion Extremist
 
@@ -74,6 +80,7 @@ Georgia Republican gubernatorial nominee Rick Jackson stated that he did not dis
 - [:hospital: | **Rick Jackson Opposed Medicaid Expansion And Supported Trump’s Devastating Health Care Cuts**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-medicaid) 
 - [:apple: | **Rick Jackson Supported Stripping SNAP Benefits From Georgia Families**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-food)
 - [:shopping_cart: | **Rick Jackson Celebrated How Trump's Tariffs Grew His Wealth**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-tariffs)
+- [:x: | **Rick Jackson Won’t Protect Georgia’s Critical Services, Jobs, Or Nonprofits From DOGE**](/GA-Gov/rick-jackson/jackson-doge)
 - [:woman: | **Rick Jackson Was An Anti-Abortion Extremist**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-abortion)
 {.links-list}
 
