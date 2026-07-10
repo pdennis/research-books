@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-07-10T20:08:18.658Z
+date: 2026-07-10T20:08:42.772Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -126,9 +126,8 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 - [:x: | **Stacy Garrity Was A Threat To The Voting Rights Of Pennsylvanians**](https://research-books.com/en/PA-Gov/stacy-garrity/garrity-biglie)
 - [:sos: | **Stacy Garrity Would Not Protect Pennsylvanians From Trump’s Federal Forces Overreach**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-federalforces)
 - [:⚖️: | **Stacy Garrity Had A Track Record Of Ethical Concerns**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-ethics)
+{.links-list}
 
 ## Stacy Garrity Flip-Flopped On Key Issues
 - [:computer: | **Stacy Garrity Switched Her Position On Data Centers When It Was Politically Convenient**](/PA-Gov/stacy-garrity/garrity-datacenters-flipflop)
-
-
 {.links-list}
