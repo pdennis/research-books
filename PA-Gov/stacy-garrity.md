@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-07-10T20:27:50.289Z
+date: 2026-07-13T21:41:36.106Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -101,6 +101,17 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 - Garrity’s Treasury office [refused](https://americanjournalnews.com/garritys-office-rejected-records-request-that-could-expose-corruption/) to fulfill a public records request over Garrity’s changes to the Investment Policy Statement as she stood to benefit from the changes. Observers [noted](https://americanjournalnews.com/garritys-office-rejected-records-request-that-could-expose-corruption/) Garrity’s changes ended the practice of considering investments’ environmental and social impacts and would benefit the natural gas industry while Garrity [reported](https://www.inquirer.com/politics/election/stacy-garrity-financial-interests-ecm-insurance-20260528.html) she earned an income from two natural gas companies. 
 
 **Message:** Stacy Garrity had a track record of ethical concerns that questioned her judgment and ability to serve as Pennsylvania governor.
+
+### Stacy Garrity Surrounded Herself With People With Histories Of Corruption, Scandals, And Assault Allegations 
+
+- Stacy Garrity repeatedly accepted support and donations from several controversial donors tied to Trump’s circle, scandals, corruption, and allegations of sexual assault and harassment.
+
+- On March 27, 2026, Trump hosted a [lavish](https://keystonenewsroom.com/2026/03/30/garrity-mar-a-lago-fundraiser/) [fundraiser](https://www.spotlightpa.org/news/2026/04/garrity-shapiro-governor-election-2026-fundraising-elections/) for Garrity at his [Mar-a-Lago estate.](https://www.pennlive.com/politics/2026/03/trump-hosts-garrity-at-mar-a-lago-fundraiser-calls-shapiro-a-stiff.html) Garrity accepted [nearly $10,000 in in-kind donations](https://www.spotlightpa.org/news/2026/04/garrity-shapiro-governor-election-2026-fundraising-elections/) from Adam Kidan, who helped [organize](https://keystonenewsroom.com/news/elections/stacy-garrity-adam-kidan-pardon/) the fundraiser and previously [pleaded guilty](https://keystonenewsroom.com/2026/04/07/garrity-fundraiser-guests-revealed/) to fraud and conspiracy charges related to the Jack Abramoff & SunCruz Casinos [scandal.](https://keystonenewsroom.com/2026/04/07/garrity-fundraiser-guests-revealed/) In July 2026, Trump [pardoned](https://keystonenewsroom.com/news/elections/stacy-garrity-adam-kidan-pardon/) Kidan after he served prison time for his role in the Jack Abramoff scandal from 2006 to 2009 and became a major Republican donor in 2017. At the Mar-a-Lago fundraiser, Garrity also accepted [$1,500](https://www.spotlightpa.org/news/2026/04/garrity-shapiro-governor-election-2026-fundraising-elections/) from the [Trump-pardoned](https://keystonenewsroom.com/2026/04/07/garrity-fundraiser-guests-revealed/) Republican influencer John Strand, who was found [guilty](https://www.spotlightpa.org/news/2026/04/garrity-shapiro-governor-election-2026-fundraising-elections/) after participating in the January 6th insurrection. 
+
+- Cliff Maloney pledged his organization, Citizens Alliance of Pennsylvania, would knock on [750,000 doors](https://www.notus.org/pennsylvania/stacy-garrity-cliff-maloney-governors-race) on behalf of Garrity’s gubernatorial campaign. Since 2020, Garrity accepted [$16,000](https://www.notus.org/pennsylvania/stacy-garrity-cliff-maloney-governors-race) from Citizens Alliance of Pennsylvania and she repeatedly [promoted](https://www.notus.org/pennsylvania/stacy-garrity-cliff-maloney-governors-race) the right-wing grassroots group. Garrity embraced Maloney’s group despite Maloney previously facing [accusations](https://www.notus.org/pennsylvania/stacy-garrity-cliff-maloney-governors-race) of sexual assault and harassment and [falsely](https://thedispatch.com/article/gop-canvasser-falsely-accuses-pennsylvania-nuns-of-voter-fraud/) [accusing](https://x.com/Maloney/status/1848839851451302193) a [group of nuns](https://www.goerie.com/story/news/local/2024/10/24/voter-fraud-accusation-erie-benedictine-sisters-deny-cliff-maloney-charge-social-media-x/75820224007/) of voter fraud during the 2024 election.
+
+**Message:** Stacy Garrity surrounds herself with controversial individuals with histories of corruption and assault allegations.
+
 
 ### Stacy Garrity Switched Her Position On Data Centers When It Was Politically Convenient
 
