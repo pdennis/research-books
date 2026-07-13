@@ -2,13 +2,49 @@
 title: Nick Begich
 description: 
 published: true
-date: 2026-06-09T23:01:24.812Z
+date: 2026-07-13T16:49:31.079Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T15:05:38.283Z
 ---
 
 # How To Win Against Nick Begich
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Nick Begich Said Medicare Was Not At Risk Of Cuts But Called For Reforms To Medicaid.** [Alaska Link 04/21/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/nlywbh?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Nick Begich Justified Medicaid Cuts, Saying It Had "Grown" And Been "Abused."** [Must Read Alaska Show 04/14/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/p1hrqw?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Nick Begich Praised The One Big Beautiful Bill Act, Saying It Had "So Many Good Things."** [@RepNickBegich on X 07/01/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:65.099%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/i9cpqq?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Nick Begich Pointed To Alaska's Improper Payment Rate To Defend SNAP Reforms.** [KYUK 09/24/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:66.667%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/74xz3f?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Nick Begich Blamed States' Lack Of "Skin In The Game" For Improper SNAP Payments.** [KYUK 09/24/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:66.667%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/or0x4i?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Nick Begich Admitted Tariffs "Do Sting" While Defending Reciprocal Trade.** [Nick Begich Interview 09/18/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/086ld3?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Nick Begich Defended DOGE Layoffs As "Efficiency Opportunities."** [KRGV Channel 5 News 05/22/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:100.000%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ez5s3j?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Nick Begich Said He Was "Not In A Position" To Approve Or Deny DOGE Cuts.** [Popular Information 02/20/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:71.618%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/v7qwmz?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Nick Begich Refused To Say DOGE Layoffs Were Wrong.** [Popular Information 02/20/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:71.618%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/r4psl9?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Nick Begich Refused To Denounce DOGE Cuts, Saying "We Have To Cut."** [Popular Information 02/20/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:71.713%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/bby00q?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+
+</details>
 
 Nick Begich actively fought to make life harder for Alaskans. He “enthusiastically” voted for a bill that would kick 37,000 Alaskans off their health insurance and told Medicaid enrollees “to get a job” after he voted for massive cuts, all to give billionaires a tax break. Begich also put billionaires above his constituents when he cut SNAP benefits from the 28,000 households in his district that relied on the program for groceries. Begich has shown voters time and time again that he prioritized Trump’s needs over their own. He was the deciding vote to protect  tariffs that made life more expensive for Alaskans, supported DOGE when it fired Alaskans and weakened the Social Security Administration, and waited to vote the release the Epstein files until Trump told Republicans he could vote to release them. Begich has attacked Alaska’s marine life and beautiful lands by supporting removing protections and opening them up to outside actors. Begich betrayed Alaska’s fishing families when he promised to give them “direct representation” but has taken $4,500 from trawl interests and failed to ban bottom trawling. Begich‘s previous employer described him as disloyal and dishonest. Begich’s hypocrisy also extends to his personal life where he claimed to be “America First” but ran a business for 18 years that had no Alaskan employees and only one American employee. Nick Begich is beholden to billionaires, trawl interest groups, and Trump; Alaskans deserve better. 
 
