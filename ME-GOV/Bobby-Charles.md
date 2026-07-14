@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-05-05T21:15:11.743Z
+date: 2026-07-14T20:52:35.230Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -52,6 +52,13 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 -   In 2025, Bobby Charles pushed an extreme anti-choice agenda, declaring himself “[unapologetically pro-life](https://www.youtube.com/shorts/T3n9sXUzM34).” Charles called for limiting abortion access and ending public funding for abortion. He also opposed pregnancy-related health care coverage for people under 21 and undocumented immigrants, framing access to care as something he would [roll back](https://www.facebook.com/share/p/1De8xjVZBZ/) if elected governor.
 
 **Message:** Bobby Charles threatened the reproductive freedoms of Mainers.
+
+### Bobby Charles Promoted A Debunked Litter Box Hoax And Mocked LGBTQ+ Mainers
+
+- Rather than focusing on issues facing Maine, Bobby Charles spent part of his campaign [mocking](https://www.advocate.com/politics/states/bobby-charles-transgender-kids-animals) LGBTQ+ people. Charles compared transgender identity to children thinking they were "[cats and dogs](https://youtu.be/llbxMBctrPc)" and repeated the long-debunked [litter box hoax](https://www.thedailybeast.com/maga-goons-who-staged-trumps-flop-state-fair-exposed/). Experts have [warned](https://www.edweek.org/leadership/litter-boxes-in-schools-how-a-disruptive-and-demeaning-hoax-frustrated-school-leaders/2022/11) the litter box hoax has been used to ostracize LGBTQ+ students. Charles has also mocked LGBTQ+ Pride celebrations as a celebration of “alphabet soup” and complained there was no "[heterosexual day parade](https://youtu.be/IYNIGW6L8Qw).”
+
+**Message:** Bobby Charles mocked LGBTQ+ Mainers and repeated debunked anti-LGBTQ+ hoaxes instead of focusing on real issues.
+
 
 ### Bobby Charles Promoted Election Fraud Claims 
 
