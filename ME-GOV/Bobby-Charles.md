@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-07-14T20:52:35.230Z
+date: 2026-07-14T20:54:31.391Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -81,6 +81,7 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 - [:x: | **Bobby Charles Won’t Protect Maine’s Nonprofits, Services, Or Social Security From Trump**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-doge)
 - [:money_with_wings: | **Bobby Charles Supported Increases To Energy Costs In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-energyprices)
 - [:woman: | **Bobby Charles Was An Anti-Abortion Extremist**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-abortion)
+- [:rainbow_flag: | **Bobby Charles Promoted A Debunked Litter Box Hoax And Mocked LGBTQ+ Mainers**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-lgbtq)
 {.links-list}
 
 
