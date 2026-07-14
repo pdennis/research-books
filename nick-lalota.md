@@ -2,7 +2,7 @@
 title: Nick LaLota
 description: 
 published: false
-date: 2026-06-10T15:49:12.305Z
+date: 2026-07-14T21:57:42.502Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T18:18:26.551Z
@@ -116,3 +116,24 @@ This summary report is designed to provide a roadmap for understanding and conte
 - [nick lalota's Positions On Postal Service Policy](/nick-lalota/lalota-postal-policy)
 - [nick lalota's Positions On Medicare Policy](/nick-lalota/lalota-medicare-positions)
 - [:white_check_mark: *Lalota's Key Votes In Congress*](https://research-books.com/en/nick-lalota/votes)
+
+
+How To Win Against Nick LaLota
+
+Nick LaLota tries to act like a moderate on the surface. In reality, he has a long history of scandals and extreme policies. In Congress, LaLota voted to cut billions from SNAP and Medicare. He claimed that the Republicans’ plan would strengthen these programs, despite thousands of his constituents now being at risk to lose coverage. Prior to voting for the Republican budget, LaLota advocated for Medicaid. Months later he voted to cut the program, but suggested that he was protecting it. Nick LaLota is no moderate. He is an extremist willing to cut funding and make life more difficult for his constituents.
+
+LALOTA VOTED FOR THE REPUBLICANS' BUDGET RECONCILIATION AFTER EXPRESSING CONCERN WITH THE BILL'S MEDICAID CUTS, THEN LATER CLAIMED THE BILL WOULD PROTECT MEDICAID
+
+LaLota initially expressed concern with the Medicaid cuts in the “Big Beautiful Bill” and even wrote letters to leadership over the matter. Months later he voted for the legislation and claimed that the bill actually protected Medicaid.
+
+Message: LaLota knew The Big Beautiful Bill cut Medicaid and supported it anyway.
+
+LALOTA VOTED TO MAKE MAJOR CUTS TO MEDICARE AND SUPPORTED RAISING THE RETIREMENT AGE
+
+In May and July 2025, LaLota voted for Republicans’ reconciliation bill, which the Congressional Budget Office estimated would trigger more than $500 billion in cuts to Medicare.
+
+LaLota was a member of the Republican Study Committee, which staunchly advocated for raising the age at which seniors would be eligible to collect Social Security. The Committee claimed that the age increase was essential for keeping Social Security solvent, ignoring that a higher retirement age would cut the median-wage retiree’s benefits by thousands of dollars every year. The Committee also advocated for switching to a “premium support” healthcare system, which would raise health care costs for most beneficiaries.
+
+Message: LaLota voted to take Medicare away from New Yorkers.
+
+ 
