@@ -2,7 +2,7 @@
 title: Jeff Crank (CO-05)
 description: 
 published: true
-date: 2026-07-15T19:23:05.809Z
+date: 2026-07-15T19:25:49.276Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T15:18:53.326Z
