@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-07-10T19:37:35.359Z
+date: 2026-07-17T23:03:45.432Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -51,6 +51,12 @@ Georgia Republican gubernatorial nominee Rick Jackson stated that he did not dis
 
 **Message:** Rick Jackson threatened the reproductive freedoms of Georgians. 
 
+### Rick Jackson Repeatedly Undermined The 2020 Election
+
+- Rick Jackson repeatedly pushed [election denialism](https://www.democracydocket.com/news-alerts/election-denier-rick-jackson-wins-georgia-gop-governor-primary-runoff/) and undermined the results of the 2020 election. He called the 2020 election [“totally ridiculous”](https://subscriber.politicopro.com/newsletter/2026/04/3-things-we-learned-on-the-ground-in-georgia-00887873) and [“terrible,”](https://www.ajc.com/politics/2026/07/rick-jackson-leaves-trump-out-of-his-general-election-pitch-to-voters/) and attacked Georgia Secretary of State Brad Raffensperger as [“Judas”](https://www.ajc.com/politics/2026/05/brad-raffensperger-cant-outrun-2020-neither-can-georgia-politics/) for not [overturning](https://apnews.com/article/georgia-trump-republicans-primary-2020-election-0d04567edd60c8d176951cd4a4411643) the 2020 election. Jackson also accused Fulton County of [“cheating on voting”](https://www.ajc.com/politics/2026/07/rick-jackson-leaves-trump-out-of-his-general-election-pitch-to-voters/) for the last 40 years and trying to [“keep the truth in dark”](https://x.com/RickJacksonGA/status/2051642566689612147) after a federal subpoena sought personal data of election workers and volunteers during the 2020 election. 
+
+**Message:** Rick Jackson repeatedly undermined the 2020 election results.
+
 ### Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses
 
 -   Since 2020, Rick Jackson's healthcare company received [more than $1 billion](https://www.ajc.com/politics/2026/03/rick-jackson-promises-to-unwind-his-companys-state-contracts-if-elected/) from [Georgia's government agencies.](https://www.healthbeat.org/atlanta/2026/02/27/rick-jackson-georgia-governor-state-contracts/) Jackson also reported [more than $930 million](https://www.ajc.com/politics/2026/04/the-wealth-divide-defining-georgias-governors-race/) in state-linked transactions since 2021. In 2020, Jackson Healthcare was [awarded a no-bid agreement](https://www.ajc.com/news/coronavirus/hospitals-overreliance-on-travel-nurses-continues-to-drive-up-costs/BDYLNI4FEJGQ5GZA4PI7LPD3E4/) with the State of Georgia under Governor Brian Kemp to provide extra health care staff during the COVID-19 pandemic, and was paid [more than $694 million from 2020 to 2022.](https://www.ajc.com/news/coronavirus/hospitals-overreliance-on-travel-nurses-continues-to-drive-up-costs/BDYLNI4FEJGQ5GZA4PI7LPD3E4/) At the time, Rick Jackson and his family were [well-established Republican donors](https://www.ajc.com/politics/dealing-with-pandemic-in-georgia-cost-taxpayers-more-than-1-billion-early-on/6KEK3IKK3FFNXCI2A2A4EM5O5Y/), and had [contributed $6,600](https://www.ajc.com/politics/dealing-with-pandemic-in-georgia-cost-taxpayers-more-than-1-billion-early-on/6KEK3IKK3FFNXCI2A2A4EM5O5Y/) to Kemp’s 2018 gubernatorial campaign.
@@ -75,18 +81,19 @@ Georgia Republican gubernatorial nominee Rick Jackson stated that he did not dis
 
 # Issue Back-Ups
 
-## Rick Jackson Supported Policies That Have Hurt Everyday People
+## Rick Jackson Supported Policies That Have Hurt Everyday People And Benefitted The Powerful
 
 - [:hospital: | **Rick Jackson Opposed Medicaid Expansion And Supported Trump’s Devastating Health Care Cuts**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-medicaid) 
 - [:apple: | **Rick Jackson Supported Stripping SNAP Benefits From Georgia Families**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-food)
 - [:shopping_cart: | **Rick Jackson Celebrated How Trump's Tariffs Grew His Wealth**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-tariffs)
 - [:x: | **Rick Jackson Won’t Protect Georgia’s Critical Services, Jobs, Or Nonprofits From DOGE**](/GA-Gov/rick-jackson/jackson-doge)
 - [:woman: | **Rick Jackson Was An Anti-Abortion Extremist**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-abortion)
+- [:ballot_box: | **Rick Jackson Repeatedly Undermined The 2020 Election**](/GA-Gov/rick-jackson/jackson-voting)
 {.links-list}
 
-## Rick Jackson Used His Wealth To Make Himself More Powerful
-
+## Rick Jackson Used His Wealth To Make Himself More Powerful 
 - [:money_with_wings: | **Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-georgia-donations)
 - [:moneybag: | **Billionaire Rick Jackson Courted Trump’s Support After He Benefitted From Trump’s Tax Cuts And Donated To MAGA Inc.**](/GA-Gov/rick-jackson/jackson-billionaire-trump)
 - [:dollar: | **Rick Jackson Hypocritically Opened A Leadership Committee To Raise Unlimited Donations After Challenging Them In Court**](/GA-Gov/rick-jackson/jackson-leadership-committee)
+
 {.links-list}
