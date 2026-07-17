@@ -2,13 +2,37 @@
 title: French Hill
 description: 
 published: true
-date: 2026-03-25T13:24:05.525Z
+date: 2026-07-17T19:29:31.048Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:05:56.661Z
 ---
 
 # How To Win Against French Hill
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**French Hill Called To Repeal And Replace Obamacare.** [KLRT (FOX) 05/15/2014]
+<div style="position:relative; width:100%; height:0px; padding-bottom:59.441%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/kjjr4e?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**French Hill Faced Protests After Voting For The American Health Care Act.** [KATV (ABC) 05/09/2017]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ptellp?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**French Hill Voted To Protect Trump's Tariffs.** [Bloomberg Talks 02/12/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/gni30f?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**French Hill Opposed Arkansas' Ballot Measure To Raise Minimum Wage.** [Arkansas Educational Television Network 10/08/2018]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/mm3bzr?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**French Hill Said He Opposed The Concept Of Minimum Wage "As An Economic Principle."** [KTEJ (PBS) 07/11/2014]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/31qvve?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**French Hill Praised The One Big Beautiful Bill Act, Saying It Was Driving The Economy "In A Positive Direction."** [CNBC 07/14/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/pesnwo?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+
+</details>
 
 French Hill is a millionaire former banker who now [chairs the committee that regulates the banking industry](https://arktimes.com/arkansas-blog/2018/10/14/french-hill-high-on-the-wall-street-flunky-list) and his record reflects it. He voted for up to [\$1 trillion in Medicaid cuts](https://arktimes.com/arkansas-blog/2025/07/03/arkansass-congressmen-all-vote-to-slash-their-constituents-health-insurance), then [told constituents he had "never voted to end Medicare or Medicaid"](https://www.arkdems.org/arkansas-democrats-slam-trump-and-republicans-attacks-on-health-care-call-out-rep-french-hill-for-lies-about-medicaid/). He [told a reporter he opposes across-the-board tariffs](https://katv.com/news/local/four-candidates-one-seat-french-hill-discusses-kitchen-table-issues) the day after he [voted to keep Trump's Canada tariffs in place](https://www.reuters.com/world/us/us-house-backs-bid-end-canada-tariffs-rare-rebuke-trump-2026-02-11/), the same tariffs that could [close 1 in 3 Arkansas farms](https://www.npr.org/2025/09/11/nx-s1-5535575/many-arkansas-farmers-seek-federal-support-as-agriculture-crisis-grows). He voted for [\$186 billion in SNAP cuts](https://www.cnbc.com/2025/08/08/trumps-spending-bill-cuts-billions-in-snap-benefits.html) in the state the USDA ranks [dead last for food insecurity](https://www.kait8.com/2026/01/09/arkansas-tops-nation-food-insecurity-usda-study-shows/).
 
