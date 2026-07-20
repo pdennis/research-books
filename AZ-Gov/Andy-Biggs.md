@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-07-06T19:39:31.476Z
+date: 2026-07-20T14:55:19.884Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -36,7 +36,7 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 ### BIGGS STRIPPED SNAP BENEFITS FROM ARIZONA FAMILIES
 
--   In 2025, Biggs [voted](http://clerk.house.gov/evs/2025/roll190.xml) for Trump's "One Big Beautiful Bill," which was made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Biggs [touted](https://biggs.house.gov/media/press-releases/congressman-biggs-issues-statement-houses-passage-president-trumps-big#:~:text=Congressman%20Andy%20Biggs-,Congressman%20Biggs%20Issues%20Statement%20on%20House's%20Passage%20of%20President%20Trump's,to%20Medicaid%20and%20SNAP%20benefits) voting for the SNAP cuts and previously called SNAP a [“highly abused welfare program.”](https://x.com/RepAndyBiggsAZ/status/1787868804921360602) In Arizona, more than [294,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
+-   In 2025, Biggs [voted](http://clerk.house.gov/evs/2025/roll190.xml) for Trump's "One Big Beautiful Bill," which was made the [largest cut to SNAP in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). Biggs [touted](https://biggs.house.gov/media/press-releases/congressman-biggs-issues-statement-houses-passage-president-trumps-big#:~:text=Congressman%20Andy%20Biggs-,Congressman%20Biggs%20Issues%20Statement%20on%20House's%20Passage%20of%20President%20Trump's,to%20Medicaid%20and%20SNAP%20benefits) voting for the SNAP cuts and previously called SNAP a [“highly abused welfare program.”](https://x.com/RepAndyBiggsAZ/status/1787868804921360602) In Arizona, more than [300,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard) relied on SNAP to afford groceries.
 
 **Message:** Biggs voted to make food more expensive for Arizonans.
 
