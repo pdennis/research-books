@@ -2,7 +2,7 @@
 title: Eli Crane
 description: 
 published: true
-date: 2026-06-26T17:55:11.899Z
+date: 2026-07-21T15:59:14.785Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T18:31:22.740Z
@@ -109,3 +109,4 @@ Eli Crane is out-of-touch with his constituents because he doesn’t live in the
 # Key Votes
 
 -    [![✅](/_assets/svg/twemoji/2705.svg) *Crane's Key Votes In Congress*](/en/eli-crane/crane-votes)
+{.links-list}
