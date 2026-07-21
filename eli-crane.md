@@ -2,7 +2,7 @@
 title: Eli Crane
 description: 
 published: true
-date: 2026-07-21T17:25:47.180Z
+date: 2026-07-21T17:28:14.127Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T18:31:22.740Z
@@ -92,20 +92,18 @@ Eli Crane is out-of-touch with his constituents because he doesn’t live in the
 # Issue Briefs
 
 ## Eli Crane's Votes Hurt Everyday Arizonans
-
--    [![🏥](/_assets/svg/twemoji/1f3e5.svg) *Crane Voted To Take Health Coverage From Arizonans*](/en/eli-crane/crane-medicaid)
--    [![👴](/_assets/svg/twemoji/1f474.svg) *Crane Voted For Massive Cuts To Medicare*](/en/eli-crane/crane-medicare)
--    [![🛒](/_assets/svg/twemoji/1f6d2.svg) *Crane Protected Trump's Tariffs That Were Making Life More Expensive For Arizonans*](/en/eli-crane/crane-tariffs)
--    [![❌](/_assets/svg/twemoji/274c.svg) *Crane Backed DOGE As It Attacked Social Security*](/en/eli-crane/crane-doge)
--    [![👩](/_assets/svg/twemoji/1f469.svg) *Crane Was A Danger To Women's Health And Freedoms*](/en/eli-crane/crane-choice)
+-    [🏥 *Crane Voted To Take Health Coverage From Arizonans*](/en/eli-crane/crane-medicaid)
+-    [👴 *Crane Voted For Massive Cuts To Medicare*](/en/eli-crane/crane-medicare)
+-    [🛒 *Crane Protected Trump's Tariffs That Were Making Life More Expensive For Arizonans*](/en/eli-crane/crane-tariffs)
+-    [❌ *Crane Backed DOGE As It Attacked Social Security*](/en/eli-crane/crane-doge)
+-    [👩 *Crane Was A Danger To Women's Health And Freedoms*](/en/eli-crane/crane-choice)
 {.links-list}
 ## Eli Crane Used His Power To Benefit Himself And The Powerful
-
--    [![👀](/_assets/svg/twemoji/1f440.svg) *Despite Calling For Their Release, It Took Crane 11 Months To Vote To Release The Epstein Files*](/en/eli-crane/crane-epstein)
--    [![⚠️](/_assets/svg/twemoji/26a0.svg) *Crane Once Referred To African Americans As “Colored People” On The House Floor*](/en/eli-crane/crane-offensive)
--    [![🏠](/_assets/svg/twemoji/1f3e0.svg) *Crane Does Not Live In The District He Represents*](https://www.dailymail.co.uk/news/article-13748225/eli-crane-republican-arizona-district.html?ico=authors_pagination_desktop)
--    [![💰](/_assets/svg/twemoji/1f4b0.svg) *Crane Paid A Fundraising Consultant Who Was Previously Caught Up In A Meth Lab Drug Bust*](https://azmirror.com/briefs/one-of-eli-cranes-fundraising-consultants-was-busted-for-a-meth-lab-in-2016/)
+-    [👀 *Despite Calling For Their Release, It Took Crane 11 Months To Vote To Release The Epstein Files*](/en/eli-crane/crane-epstein)
+-    [⚠️ *Crane Once Referred To African Americans As "Colored People" On The House Floor*](/en/eli-crane/crane-offensive)
+-    [🏠 *Crane Does Not Live In The District He Represents*](https://www.dailymail.co.uk/news/article-13748225/eli-crane-republican-arizona-district.html?ico=authors_pagination_desktop)
+-    [💰 *Crane Paid A Fundraising Consultant Who Was Previously Caught Up In A Meth Lab Drug Bust*](https://azmirror.com/briefs/one-of-eli-cranes-fundraising-consultants-was-busted-for-a-meth-lab-in-2016/)
 {.links-list}
 # Key Votes
--    [![✅](/_assets/svg/twemoji/2705.svg) *Crane's Key Votes In Congress*](/en/eli-crane/crane-votes)
+-    [✅ *Crane's Key Votes In Congress*](/en/eli-crane/crane-votes)
 {.links-list}
