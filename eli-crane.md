@@ -2,14 +2,35 @@
 title: Eli Crane
 description: 
 published: true
-date: 2026-07-21T17:24:32.873Z
+date: 2026-07-21T17:25:47.180Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T18:31:22.740Z
 ---
 
 
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
 
+**Eli Crane Complained That The Billions In Cuts To Medicaid Weren't Enough, Calling Them "Pathetic."** [The Fresh Freedom Podcast 12/20/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:55.625%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/bqgv5j?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Eli Crane Said He Supported Trump's Health Care Plan Before Admitting He Had Not Read It.** [OANN: Real America With Dan Ball 01/19/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/t9ih2k?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Eli Crane Voted For A Bill With $1.5 Trillion In Spending Cuts.** [KNXV-PHX (ABC) 04/11/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/osgrrh?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Eli Crane Defended Tariffs, Saying They "Really Help Local Communities."** [The Fresh Freedom Podcast
+ 12/20/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:55.645%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/nlrfzk?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Eli Crane Opposed Abortion, Calling It "Killing Babies."** [This is My Show with Drew Berquist 09/09/2020]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/6b4ev6?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>  
+  
 
 
 [**Click here to check out more videos from Eli Crane.**](https://www.youtube.com/playlist?list=PLWuvMonaruUiN3F0UakEi_6joqv1xWIw2)
@@ -86,7 +107,5 @@ Eli Crane is out-of-touch with his constituents because he doesn’t live in the
 -    [![💰](/_assets/svg/twemoji/1f4b0.svg) *Crane Paid A Fundraising Consultant Who Was Previously Caught Up In A Meth Lab Drug Bust*](https://azmirror.com/briefs/one-of-eli-cranes-fundraising-consultants-was-busted-for-a-meth-lab-in-2016/)
 {.links-list}
 # Key Votes
-
 -    [![✅](/_assets/svg/twemoji/2705.svg) *Crane's Key Votes In Congress*](/en/eli-crane/crane-votes)
-
 {.links-list}
