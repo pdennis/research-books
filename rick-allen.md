@@ -2,13 +2,27 @@
 title: Rick Allen (GA-12)
 description: 
 published: true
-date: 2026-04-21T15:36:20.682Z
+date: 2026-07-22T14:59:21.235Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T23:38:54.057Z
 ---
 
 # How To Win Against Rick Allen
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Rick Allen Dismissed Concerns That The One Big Beautiful Bill Would Affect Health Care In Georgia.** [WTOC 08/22/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/y8bgnu?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Rick Allen Justified Raising The Social Security Retirement Age, Saying People "Want To Work Longer."** [Social Security Works Youtube 01/17/2023]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/bi8ubo?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Rick Allen Quoted Scripture To Argue Against Abortion.** [Congressman Rick Allen Youtube 01/20/2022]
+<div style="position:relative; width:100%; height:0px; padding-bottom:75.000%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/fdnt5o?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 Rick Allen has spent his time in Congress fighting to make Georgians’ lives harder. He voted to kick more than 40,000 Georgians off their health coverage by supporting the Big Ugly Bill, even though 45 health care facilities across Georgia, including a rural hospital in his district, were at risk of closure due to the bill’s cuts. In the same vote, he passed the biggest cuts to SNAP in history, ignoring that more than 49,000 households in his district relied on the program. Allen was also working to make life harder for seniors as a member of the Republican Study Committee. The group staunchly advocated for raising the retirement age, ignoring evidence that doing so would cost future retirees thousands of dollars every year. Allen was an early supporter of DOGE, joining the Congressional DOGE caucus and touting how excited he was to partner with the agency. When the agency came under fire for indiscriminately firing federal workers Allen flippantly told them to just go get another job, and when DOGE cut hundreds of millions of federal research grants for agencies and universities across Georgia, Allen was nowhere to be found.
 
