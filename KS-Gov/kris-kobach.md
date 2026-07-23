@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: true
-date: 2026-07-13T14:56:22.317Z
+date: 2026-07-23T20:00:46.241Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
@@ -36,7 +36,8 @@ Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to
 
 ### **Kris Kobach Refused To Defend Kansas’ Critical Grants From DOGE Cuts**
 
--   In 2025, Kris Kobach [refused](https://kansasreflector.com/2025/08/14/kobach-asks-federal-court-to-boot-kansas-governor-from-lawsuit-over-federal-funding-cuts/) to join Kansas Governor Kelly in suing the Trump administration over its devastating DOGE cuts to critical grants. Kobach even [asked](https://kansasreflector.com/2025/08/14/kobach-asks-federal-court-to-boot-kansas-governor-from-lawsuit-over-federal-funding-cuts/) a federal court to remove Governor Kelly from the multi-state lawsuit challenging Trump’s refusal to provide grant funding to states, even though the lawsuit highlighted the harms of the cuts on states’ abilities to provide services. 
+-   In 2025, Kris Kobach [refused](https://kansasreflector.com/2025/08/14/kobach-asks-federal-court-to-boot-kansas-governor-from-lawsuit-over-federal-funding-cuts/) to join Kansas Governor Kelly in suing the Trump administration over its devastating DOGE cuts to critical grants. Kobach even [asked](https://kansasreflector.com/2025/08/14/kobach-asks-federal-court-to-boot-kansas-governor-from-lawsuit-over-federal-funding-cuts/) a federal court to remove Governor Kelly from the multi-state lawsuit challenging Trump’s refusal to provide grant funding to states, even though the lawsuit highlighted the harms of the cuts on states’ abilities to provide services. In July 2026, Governor Kelly was allowed to continue representing Kansans in the federal lawsuit despite [Kobach's objection.](https://www.cjonline.com/story/news/politics/government/2026/07/23/despite-kobach-objection-federal-judge-lets-kelly-sue-over-doge-cuts/90994470007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z117649p116350c116350e001300v117649d--36--b--36--&gca-ft=24&gca-ds=sophi) 
+
 -   Kobach refused to defend Kansas from DOGE cuts even as DOGE cut critical grants that were intended for Kansas to [address broadband](https://capitalandmain.com/doge-posts/doge-cuts-grant-to-kansas-for-rural-broadband), [food access, flood prevention and mitigation, lead testing, and more](https://www.cjonline.com/story/news/politics/government/2025/08/04/why-kansas-is-suing-trump-administration-over-doge-cuts/85508345007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z116358p117450c117450e001500v116358d--30--b--30--&gca-ft=100&gca-ds=sophi). DOGE also [targeted](https://www.kcur.org/politics-elections-and-government/2026-01-21/trump-cut-2-800-federal-jobs-in-kansas-city-and-thousands-more-in-missouri-and-kansas) the livelihoods of more than 11,000 federal workers in Kansas and reduced Kansas’ federal workforce by 15 percent.
 
 **Message:** Kris Kobach refused to defend Kansas’ critical grants from DOGE cuts as the cuts hindered Kansas’ ability to provide critical services and federal workers in Kansas were laid off.
