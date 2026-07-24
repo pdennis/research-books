@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-07-08T21:46:12.525Z
+date: 2026-07-24T14:35:49.317Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -84,7 +84,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 -   John James [supported efforts](https://www.miningjournal.net/news/front-page-news/2018/06/u-s-senate-candidate-visits-marquette/) to [defund Planned Parenthood](https://www.breitbart.com/politics/2018/04/27/gop-senate-candidate-john-james-president-trump-is-keeping-his-promise-to-americans/) and [eliminating federal funding](https://www.breitbart.com/politics/2018/04/27/gop-senate-candidate-john-james-president-trump-is-keeping-his-promise-to-americans/) for abortion providers.
 -  In June 2026, John James [visited and praised](https://x.com/JohnJamesMI/status/2067039343496343971) the Pregnancy Resource Center of Grand Rapids, an anti-abortion clinic that stated it [did not offer, recommend, or refer](https://web.archive.org/web/20260618151024/https://prcgr.org/disclaimer/) patients for abortions. Medical experts at the American College of Obstetricians and Gynecologists [warned](https://web.archive.org/web/20260524181627/https://www.acog.org/-/media/project/acog/acogorg/files/advocacy/issue-briefs/crisis-pregnancy-centers.pdf?rev=57762c9dbc624161b1b21018417e2011&hash=25CDF1171054215CCD197C06A6D0940A) that crisis pregnancy centers could [deter patients](https://web.archive.org/web/20260524181627/https://www.acog.org/-/media/project/acog/acogorg/files/advocacy/issue-briefs/crisis-pregnancy-centers.pdf?rev=57762c9dbc624161b1b21018417e2011&hash=25CDF1171054215CCD197C06A6D0940A) from seeking certain reproductive health care options, including abortion care. 
 
--   John James [maintained](https://x.com/JohnJamesMI/status/2064787638238974290) deep ties with [Right to Life of Michigan](https://x.com/JohnJamesMI/status/1540368244095205378), which [financially supported his campaigns](https://www.mlive.com/public-interest/2019/11/michigan-democrats-hit-john-james-for-anti-abortion-comments.html) and [promoted](https://x.com/JohnJamesMI/status/954144078375112706) their extreme anti-abortion movement.
+-   James has long aligned himself with the anti-abortion movement. He [maintained](https://x.com/JohnJamesMI/status/2064787638238974290) deep ties with [Right to Life of Michigan](https://x.com/JohnJamesMI/status/1540368244095205378), which [financially supported his campaigns](https://www.mlive.com/public-interest/2019/11/michigan-democrats-hit-john-james-for-anti-abortion-comments.html) and promoted their extreme anti-abortion movement. James also received backing from the anti-abortion [Susan B. Anthony Pro-Life America](https://x.com/JohnJamesMI/status/1008711304843063296), including its endorsement and an [A+ rating](https://x.com/JohnJamesMI/status/2079322081141944525). James promoted the [March for Life](https://twitter.com/JohnJamesMI/status/954144078375112706) and praised young activists who traveled to Washington, D.C. to “stand up for life.”
 
 **Message:** John James threatened the reproductive freedoms of Michiganders.
 
