@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: true
-date: 2026-07-23T20:00:46.241Z
+date: 2026-07-24T14:36:28.401Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
@@ -55,6 +55,7 @@ Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to
 ### **Kris Kobach Opposed LGBTQ+ Kansans Adopting Children And Getting Married**
 
 -   Kris Kobach had a long history of opposing the rights of LGBTQ+ Kansans and using extreme anti-LGBTQ+ language.
+- In 2026, Kobach ordered three cities to [repeal their conversion therapy bans,](https://www.kctv5.com/2026/07/23/kansas-ag-demands-three-cities-repeal-conversion-therapy-bans/) citing the Supreme Court ruling that struck down a Colorado law banning conversion therapy.
 -   In 2018, Kobach [supported](https://www.salon.com/2018/05/19/kansas-governor-signs-anti-lgbt-adoption-bill-into-law/) an anti-LGBTQ bill that allowed adoption agencies to refuse adoption or fostering services to same-sex couples and insulated groups “that want to discriminate against the LGBT community.” He also previously said same-sex parents were ["not good for kids.”](https://www.out.com/politics/2020/8/04/peter-thiel-gay-billionaire-funding-anti-lgbtq-republican)
 -   In 2012, Kobach opposed a platform amendment allowing for the civil unions of same-sex couples and [compared same-sex civil unions to polygamy or drug use.](https://www.mediaite.com/media/tv/romney-advisor-argues-against-civil-unions-in-gop-platform-likens-homosexuality-to-drug-use/) In 2004, he [accused](https://www.vice.com/en/article/kris-kobach-attorney-general-far-right/) the Human Rights Campaign of promoting “homosexual pedophilia.”
 
