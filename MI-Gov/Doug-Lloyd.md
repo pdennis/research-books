@@ -2,7 +2,7 @@
 title: Doug Lloyd
 description: 
 published: true
-date: 2026-05-14T16:13:22.162Z
+date: 2026-07-27T17:55:28.965Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-30T16:23:03.899Z
@@ -51,7 +51,7 @@ Michigan Attorney General nominee Doug Lloyd has taken positions on public safet
 
 
 
-- [:x: Doug Lloyd Doug Lloyd Opposed Red Flag Laws Designed To Protect Michiganders](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-red-flag-laws)
+- [:x: Doug Lloyd Opposed Red Flag Laws Designed To Protect Michiganders](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-red-flag-laws)
 
 
 - [:ballot_box: Doug Lloyd Called For Broader Authority To Prosecute Unsubstantiated Voter Fraud](https://research-books.com/en/MI-Gov/Doug-Lloyd/lloyd-democracy)
