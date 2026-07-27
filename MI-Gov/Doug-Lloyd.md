@@ -2,7 +2,7 @@
 title: Doug Lloyd
 description: 
 published: true
-date: 2026-07-27T17:55:28.965Z
+date: 2026-07-27T17:55:57.576Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-30T16:23:03.899Z
@@ -30,7 +30,7 @@ Michigan Attorney General nominee Doug Lloyd has taken positions on public safet
 
 **Message:** Doug Lloyd pushed for expanded election investigations and broader prosecution authority based on voter fraud claims.
 
-**DOUG LLOYD WAS OPEN TO PROSECUTING ABORTION PROVIDERS UNDER MICHIGAN’S 1931 ABORTION BAN DESPITE AN INJUNCTION**
+### **DOUG LLOYD WAS OPEN TO PROSECUTING ABORTION PROVIDERS UNDER MICHIGAN’S 1931 ABORTION BAN DESPITE AN INJUNCTION**
 
 -   In 2022, after the overturning of Roe v. Wade, Lloyd said he would [prosecute abortion providers](https://www.fox47news.com/neighborhoods/state-capitol/county-prosecutors-could-begin-pressing-criminal-charges-against-abortion-providers#google_vignette) after saying Michigan’s 1931 ban was “in force” despite an injunction. Lloyd suggested he would enforce the abortion law and prosecute abortion providers if parties followed procedure and if the local police determined a crime had been committed.
 
