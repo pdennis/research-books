@@ -2,13 +2,36 @@
 title: Jen Kiggans
 description: 
 published: true
-date: 2026-02-13T22:17:39.593Z
+date: 2026-07-27T17:55:20.811Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T13:36:07.734Z
 ---
 
 # **How To Win Against Jen Kiggans**
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Jen Kiggans Defended Medicaid Reforms In The One Big Beautiful Bill.** [Jen Kiggans Tele-Town Hall 10/15/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/9281ng?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jen Kiggans Called Medicaid A "Government Handout Program."** [CBS Mornings 07/03/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/2hu3ax?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jen Kiggans Defended Federal Worker Cuts.** [Jen Kiggans Tele-Town Hall 04/02/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:66.667%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/olj65t?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jen Kiggans Dismissed Concerns About Trump's Tariffs As "Fearmongering."** [Jen Kiggans Tele-Town Hall 04/02/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:66.667%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/scti5y?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Jen Kiggans Said Americans Needed To Play The "Long Game" On Tariffs.** [Jen Kiggans Tele-Town Hall 04/02/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/5bmd8l?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Campaign Finance Records Contradicted Jen Kiggans' Claim That She Never Took Payday Lender Money.** [WAVY TV 10 10/25/2022]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/p7smuu?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 Jen Kiggans is the biggest threat to her constituents well-being and quality of life. As a state senator and now as a Congresswoman, Kiggans has shown that she’s a far-right conservative who would rather run away from Virginians than fight for them. She voted to kick Virginians off of their health coverage by supporting the Big Ugly Bill, breaking her numerous earlier promises to protect those very benefits. She then called the bill a “win” for her district, despite the fact that a major hospital in it was at-risk of closing due to the bill’s cuts. Kiggans claimed Trump’s tariffs put the country in a good direction before casting the deciding vote to protect them. She told Virginians who lost their job due to DOGE cuts to “go out and get” another job. She even ran away when asked why she refused to protect veterans from predatory payday lenders. That’s a clear pattern: cuts to care, higher costs, fewer services, and excuses instead of results for Virginians.
 
