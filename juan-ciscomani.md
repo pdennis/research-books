@@ -2,7 +2,7 @@
 title: Juan Ciscomani
 description: 
 published: true
-date: 2026-06-26T16:58:31.474Z
+date: 2026-07-28T20:53:16.180Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:40:44.781Z
@@ -73,6 +73,7 @@ In November 2025, after 11 months, Ciscomani finally [voted](http://clerk.house.
 -    [![🧑‍🔧](/_assets/svg/twemoji/1f9d1-200d-1f527.svg) *Ciscomani's Votes Threatened Clean Energy Jobs in His District*](/en/juan-ciscomani/ciscomani-IRA-clean-energy)
 -    [![👩](/_assets/svg/twemoji/1f469.svg) *Ciscomani Was A Threat To Women's Health and Reproductive Freedom*](/en/juan-ciscomani/ciscomani-choice)
 -    [![💧](/_assets/svg/twemoji/1f4a7.svg) *Ciscomani Was A Senior Advisor to AZ Governor Who Worsened Water Crisis*](/en/juan-ciscomani/ciscomani-water)
+-    [![🪖](/_assets/svg/twemoji/1f4a7.svg) *Ciscomani Backed Trump's Costly War With Iran That Raised Prices On Arizonans*](/en/juan-ciscomani/ciscomani-iran)
 
 ## Juan Ciscomani Used His Power To Benefit Himself and the Powerful
 
