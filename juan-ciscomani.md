@@ -2,7 +2,7 @@
 title: Juan Ciscomani
 description: 
 published: true
-date: 2026-07-28T20:54:08.658Z
+date: 2026-07-28T20:54:47.082Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:40:44.781Z
