@@ -2,7 +2,7 @@
 title: Eli Crane
 description: 
 published: true
-date: 2026-07-21T17:28:14.127Z
+date: 2026-07-28T23:00:00.231Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-05T18:31:22.740Z
@@ -97,6 +97,7 @@ Eli Crane is out-of-touch with his constituents because he doesn’t live in the
 -    [🛒 *Crane Protected Trump's Tariffs That Were Making Life More Expensive For Arizonans*](/en/eli-crane/crane-tariffs)
 -    [❌ *Crane Backed DOGE As It Attacked Social Security*](/en/eli-crane/crane-doge)
 -    [👩 *Crane Was A Danger To Women's Health And Freedoms*](/en/eli-crane/crane-choice)
+-    [🪖 *Crane Backed Trump's Costly War With Iran That Raised Prices On Arizonans*](/en/eli-crane/crane-iran)
 {.links-list}
 ## Eli Crane Used His Power To Benefit Himself And The Powerful
 -    [👀 *Despite Calling For Their Release, It Took Crane 11 Months To Vote To Release The Epstein Files*](/en/eli-crane/crane-epstein)
