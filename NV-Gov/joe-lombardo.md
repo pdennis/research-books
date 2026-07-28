@@ -2,7 +2,7 @@
 title: Joe Lombardo
 description: 
 published: true
-date: 2026-07-24T22:15:48.207Z
+date: 2026-07-28T21:29:29.984Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T19:03:34.764Z
@@ -104,6 +104,15 @@ This video is not for public use on a campaign, and is purely here as an example
 
 **Message:** Lombardo threatened the reproductive freedoms of women in Nevada and surrounding states.
 
+### Lombardo Used His Position To Access Unwarranted Privileges
+
+- Lombardo was accused of using his position to access unwarranted privileges after a video surfaced of him invoking his identity to avoid a traffic ticket. In 2026, a [video](https://youtu.be/qlIkdkvVLNs?si=7cwSqVOfoSe_RLnX) of Lombardo went viral after it appeared to show Lombardo using his position to avoid being issued a ticket during a traffic stop. The video showed Lombardo interrupting the officer’s explanation of why he was pulled over, saying [“I’m Joe Lombardo”](https://www.reviewjournal.com/news/politics-and-government/nevada/bodycam-video-shows-gov-joe-lombardo-pulled-over-in-las-vegas-3850358/) and [“come on, man,”](https://www.reviewjournal.com/news/politics-and-government/nevada/bodycam-video-shows-gov-joe-lombardo-pulled-over-in-las-vegas-3850358/) before the officer ultimately let him go without a ticket. One Reno resident [filed an ethics complaint](https://www.8newsnow.com/news/local-news/ethics-complaint-filed-against-lombardo-over-behavior-during-may-traffic-stop-in-las-vegas/) in response, accusing Lombardo of [“unlawfully” using “his position and standing”](https://www.reviewjournal.com/news/politics-and-government/nevada/nevada-man-files-ethics-complaint-against-lombardo-over-traffic-stop-3853692/) as governor to [“secure and grant unwarranted privileges, preferences, exemptions and advantages for his personal benefit.”](https://www.8newsnow.com/news/local-news/ethics-complaint-filed-against-lombardo-over-behavior-during-may-traffic-stop-in-las-vegas/) Lombardo’s [campaign](https://www.reviewjournal.com/news/politics-and-government/nevada/bodycam-video-shows-gov-joe-lombardo-pulled-over-in-las-vegas-3850358/) and [law enforcement](https://apnews.com/article/nevada-governor-lombardo-traffic-stop-8d001d8729685411f18a3fd845a15862) [representatives](https://www.reviewjournal.com/news/politics-and-government/nevada/sheriff-officer-used-discretion-in-letting-lombardo-go-without-citation-3850895/) defended Lombardo’s behavior, but Nevada voters and [other](https://www.reviewjournal.com/news/politics-and-government/nevada/ford-lombardo-absolutely-abused-authority-during-traffic-stop-3851312/) [politicians](https://www.reviewjournal.com/news/politics-and-government/nevada/lombardo-traffic-stop-reminds-ex-delaware-ag-of-his-own-you-have-to-give-me-a-ticket-3853980/) questioned the ethics of the interaction. 
+
+- Lombardo’s ethics were again questioned after the Las Vegas Metropolitan Police launched an investigation into a [Lombardo campaign banner vandalized](https://www.reviewjournal.com/news/politics-and-government/nevada/police-probe-into-vandalized-lombardo-sign-initiated-by-officers-not-campaign-3854210/) with references to the traffic stop. While Lombardo and Metro police [denied](https://www.ktnv.com/13-investigates/questions-grow-over-gov-joe-lombardo-traffic-stop-campaign-sign-vandalism) accusations that Lombardo requested the investigation, commenters on social media called it another example of Lombardo seeking special treatment and [“a waste of our tax dollars.”](https://www.ktnv.com/13-investigates/questions-grow-over-gov-joe-lombardo-traffic-stop-campaign-sign-vandalism)
+
+**Message:** Lombardo used his power and position as Nevada governor to avoid consequences and get special treatment that everyday Nevadans are not awarded.
+
+
 ### Lombardo Increased His Own Salary Amid Budget Cuts
 
 -   As Clark County sheriff, Lombardo [used his authority](https://www.nevadacurrent.com/2022/04/26/715-million-lvmpd-to-request-8-increase-in-budget-but-no-new-officers/) to increase his own salary from $[141,000](https://www.nvsos.gov/SOSCandidateServices/AnonymousAccess/ViewCCEReport.aspx?syn=IeucW6fWGAywilg%252biHKCBQ%253d%253d) in 2015 to $[192,000](https://www.nvsos.gov/SOSCandidateServices/AnonymousAccess/ViewCCEReport.aspx?syn=C5i2BlxLnZX4Csfc%252fOXnHA%253d%253d) in 2022.
@@ -123,17 +132,18 @@ This video is not for public use on a campaign, and is purely here as an example
 
 ## Joe Lombardo's Policies Have Hurt Everyday People
 
--   [:hospital: *Lombardo Supported Efforts To Cut Medicaid And Threaten Nevadans’ Access To Health Care*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-medicaid)
--   [:older_man: *Lombardo Supported Medicare Cuts*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-medicare)
--   [:shopping_cart: *Lombardo Backed Trump's Tariffs, Endangering Nevada’s Economy*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-tariffs)
--   [:apple: *Lombardo Supported Cutting SNAP Benefits For Nevada Families*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-snap)
--   [:x: *Lombardo Won't Defend Nevada Jobs Or Social Security From Trump*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-doge)
--   [:mechanic: *Lombardo Opposed Protecting Nevada’s Clean Energy & Infrastructure Jobs*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-clean-energy)
--   [:woman: *Lombardo Was An Anti-Abortion Extremist*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-abortion)
+-   [:hospital: ***Lombardo Supported Efforts To Cut Medicaid And Threaten Nevadans’ Access To Health Care***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-medicaid)
+-   [:older_man: ***Lombardo Supported Medicare Cuts***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-medicare)
+-   [:shopping_cart: ***Lombardo Backed Trump's Tariffs, Endangering Nevada’s Economy***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-tariffs)
+-   [:apple: ***Lombardo Supported Cutting SNAP Benefits For Nevada Families***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-snap)
+-   [:x: ***Lombardo Won't Defend Nevada Jobs Or Social Security From Trump***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-doge)
+-   [:mechanic: ***Lombardo Opposed Protecting Nevada’s Clean Energy & Infrastructure Jobs***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-clean-energy)
+-   [:woman: ***Lombardo Was An Anti-Abortion Extremist***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-abortion)
 {.links-list}
 
 ## Joe Lombardo Used His Power To Benefit The Powerful And Himself
 
--   [:money_mouth_face: *Lombardo Raised His Own Sheriff's Salary While His Department Faced Budget Cuts*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-salary)
--   [:ballot_box: *Lombardo Threatened Voter Access In Nevada And Was Tied To A Fake Elector*](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-election-denial)
+- 	[:police_officer: ***Lombardo Used His Position To Access Unwarranted Privileges***](/NV-Gov/joe-lombardo/lombardo-ethics)
+-   [:money_mouth_face: ***Lombardo Raised His Own Sheriff's Salary While His Department Faced Budget Cuts***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-salary)
+-   [:ballot_box: ***Lombardo Threatened Voter Access In Nevada And Was Tied To A Fake Elector***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-election-denial)
 {.links-list}
