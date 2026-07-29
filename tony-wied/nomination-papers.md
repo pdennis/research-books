@@ -1,8 +1,8 @@
 ---
 title: Rep. Tony Wied (WI-08): Deceptive Campaign Nomination Paper Collection
 description: 
-published: false
-date: 2026-03-24T21:22:28.105Z
+published: true
+date: 2026-07-29T17:00:06.136Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:19:01.720Z
