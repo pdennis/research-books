@@ -2,7 +2,7 @@
 title: Mike Lawler
 description: 
 published: true
-date: 2026-06-25T18:16:14.685Z
+date: 2026-07-29T14:38:03.013Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T16:30:11.819Z
@@ -118,6 +118,7 @@ Mike Lawler sells a moderate brand, but he is a far-right [_gaslighter_](https:/
 - [:shopping_cart: *Lawler Defended Trump's Tariffs At New Yorkers' Expense*](https://research-books.com/en/mike-lawler/lawler-tariffs)
 - [:x: *Lawler Defended Attacks On Social Security*](https://research-books.com/en/mike-lawler/lawler-doge)
 - [:salt: *Lawler Talked Tough on SALT, Then Came Up Short*](https://research-books.com/en/mike-lawler/lawler-salt)
+- [🪖 *Lawler Backed Trump's Costly War With Iran That Raised Prices On New Yorkers*](/en/mike-lawler/lawler-iran)
 {.links-list}
 
 ## Mike Lawler Used His Power To Benefit Himself And The Powerful
