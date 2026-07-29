@@ -2,7 +2,7 @@
 title: Zach Nunn
 description: 
 published: true
-date: 2026-06-23T20:30:55.673Z
+date: 2026-07-29T18:36:39.725Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T12:01:57.306Z
@@ -115,6 +115,7 @@ Nunn isn’t working for IA-03. He backed taking health care from thousands of I
 - [:shopping_cart: *Nunn Defended Trump's Tariffs At The Expense Of Iowans*](/en/zach-nunn/nunn-tariffs) 
 - [:x: *Nunn Defended Trump's Cuts Even Though They Were Disrupting Social Security*](/en/zach-nunn/nunn-doge)
 - [:hammer: *Nunn Opposed A Bipartisan Effort To Repair Iowa's Bridges*](/en/zach-nunn/nunn-bil)
+- [🪖 *Nunn Backed Trump's Costly War With Iran That Raised Prices On Iowans*](/en/zach-nunn/nunn-iran)
 {.links-list}
 
 ## Zach Nunn Has Used His Power To Benefit Himself And The Powerful
