@@ -2,7 +2,7 @@
 title: Gabe Evans
 description: 
 published: true
-date: 2026-07-01T16:33:31.683Z
+date: 2026-07-29T15:53:24.608Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:53:10.838Z
@@ -116,6 +116,7 @@ This video is not for public use on a campaign, and is purely here as an example
 - [:carrot: *Evans Cast Votes To Cut SNAP And That Hurt A Local Food Bank*](https://research-books.com/en/gabe-evans/evans-food) 
 - [:x: *Evans Won't Defend Coloradans' Jobs Or Social Security From Trump*](https://research-books.com/en/gabe-evans/evans-doge)
 - [:woman: *Evans Was An Anti-Choice Extremist*](https://research-books.com/en/gabe-evans/evans-abortion)
+- [🪖 *Evans Backed Trump's Costly War With Iran That Raised Prices On Coloradans*](/en/gabe-evans/evans-iran)
 {.links-list}
 
 ## Gabe Evans Used His Power To Benefit The Powerful And Himself
