@@ -1,8 +1,8 @@
 ---
 title: Rep. Glenn Grothman (WI-06): Health Care Record
 description: 
-published: false
-date: 2026-02-19T12:42:14.753Z
+published: true
+date: 2026-07-29T16:56:39.220Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:34.883Z
