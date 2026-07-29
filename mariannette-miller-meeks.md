@@ -2,7 +2,7 @@
 title: Mariannette Miller-Meeks
 description: 
 published: true
-date: 2026-04-30T14:23:31.942Z
+date: 2026-07-29T17:59:23.272Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:07:45.530Z
@@ -146,6 +146,7 @@ Miller-Meeks faced an ethics complaint over where her primary address was actual
 - [:shopping_cart: *Miller-Meeks Was The Deciding Vote To Protect Trump's Tariffs That Were Crushing Iowa Farmers*](/en/mariannette-miller-meeks/mm-tariffs)
 - [:x: *Miller-Meeks Supported Cutting Medical Research And Social Security Customer Service*](/en/mariannette-miller-meeks/mm-doge)
 - [:mechanic: *Miller-Meeks Voted Against Protecting Iowans' Clean Energy Jobs*](/en/mariannette-miller-meeks/mm-IRA-tax-credits)
+- [🪖 *Miller-Meeks Backed Trump's Costly War With Iran That Raised Prices On Iowans*](/en/mariannette-miller-meeks/mm-iran)
 {.links-list}
 
 ## Mariannette Miller-Meeks Has Used Her Power To Benefit Herself And The Powerful
