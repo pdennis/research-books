@@ -2,7 +2,7 @@
 title: Pete Stauber (MN-08)
 description: 
 published: true
-date: 2026-04-21T16:00:30.884Z
+date: 2026-07-29T21:09:43.557Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-02T14:58:13.050Z
@@ -91,6 +91,8 @@ Pete Stauber voted to rip away health care and food assistance from Minnesotans.
 - [:shopping_cart: *Stauber Supported Tariffs That Raised Prices On Minnesotans*](https://research-books.com/en/pete-stauber/tariffs)
 - [:woman: *Stauber Was An Anti-Choice Extremist*](https://research-books.com/en/pete-stauber/choice)
 - [:warning: *Stauber Refused To Stand Up For Minnesota When ICE Occupied Their State, Killed Two Residents, And Hamstrung Businesses*](https://research-books.com/en/pete-stauber/ice)
+- [🪖 *Stauber Backed Trump's Costly War With Iran That Raised Prices On Minnesotans*](/en/pete-stauber/stauber-iran)
+
 {.links-list}
 ## Pete Stauber Used His Power To Benefit The Powerful And Himself
 - [:eyes: *It Took Stauber 11 Months To Vote To Release The Epstein Files And He Did Only After Trump Said It Was Okay*](https://research-books.com/en/pete-stauber/epstein)
