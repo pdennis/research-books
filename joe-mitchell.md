@@ -2,7 +2,7 @@
 title: Joe Mitchell (IA-02)
 description: 
 published: true
-date: 2026-04-29T22:53:31.719Z
+date: 2026-07-29T19:20:26.693Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T21:43:21.661Z
@@ -69,6 +69,7 @@ Joe Mitchell is a social climber who is more interested in running for Congress 
 - [:older_man: *Mitchell Supported Policies That Put Iowa Seniors At-Risk*](https://research-books.com/en/joe-mitchell/seniors)
 - [:carrot: *Mitchell Supported A Bill That Cut Food Assistance For Iowans*](https://research-books.com/en/joe-mitchell/snap)
 - [:shopping_cart: *Mitchell Supported Policies That Raised Costs On Iowans*](https://research-books.com/en/joe-mitchell/costs)
+- [🪖 *Mitchell Backed Trump's Costly War With Iran That Raised Prices On Iowans*](/en/joe-mitchell/mitchell-iran)
 {.links-list}
 ## Joe Mitchell Used His Power To Benefit The Powerful And Himself
 - [:palm_tree: *Mitchell Spent A Lot Of Time In Palm Beach, FL For Someone Running For Congress In Iowa*](https://research-books.com/en/joe-mitchell/florida-man)
