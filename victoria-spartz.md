@@ -2,13 +2,34 @@
 title: Victoria Spartz
 description: 
 published: true
-date: 2026-03-25T13:18:31.860Z
+date: 2026-07-29T15:31:18.865Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:19:17.866Z
 ---
 
 # How To Win Against Victoria Spartz
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Victoria Spartz Said Obamacare Had "Blown Out The System."** [Victoria Spartz Great American Healthcare Alliance 06/24/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/45tir2?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Victoria Spartz Admitted She Hadn't Read The One Big Beautiful Bill In Detail.** [Victoria Spartz Tele-Town Hall 07/15/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.191%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/fjp20s?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Victoria Spartz Argued Moving People Off Medicaid Could Save The Federal Government Budget** [Forbes Newsroom 06/26/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ffltx4?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Victoria Spartz Was Accused Of "Belittling" And "Berating" Her Staff Members.** [PBS Indiana Week In Review 05/13/2022]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/awsygg?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Victoria Spartz Was Charged With A Weapons Violation For Carrying A Firearm At An Airport.** [WISH Indianapolis 07/01/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/vzsdmn?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
+
 
 Victoria Spartz has built a record defined by chaos, hypocrisy, and capitulation. She declared herself a ["hard no"](https://newrepublic.com/post/192088/donald-trump-bullied-victoria-spartz-vote-budget-bill) on the budget reconciliation bill over deficit concerns, then flipped after Trump [screamed at her and called her "a fake Republican"](https://newrepublic.com/post/192088/donald-trump-bullied-victoria-spartz-vote-budget-bill) — voting for a law projected to [strip Medicaid from nearly 12 million people](https://www.chcs.org/resource/a-summary-of-national-medicaid-work-requirements/) and [cut $186 billion from food assistance](https://www.cnbc.com/2025/08/08/trumps-spending-bill-cuts-billions-in-snap-benefits.html), threatening benefits for [600,000 Hoosiers](https://usafacts.org/answers/how-many-people-receive-snap-benefits-in-the-us-every-month/state/indiana/).
 
