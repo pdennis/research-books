@@ -1,8 +1,8 @@
 ---
 title: Rep. Tony Wied (WI-08): Can't Be Trusted on Affordability
 description: 
-published: false
-date: 2026-03-24T21:28:11.535Z
+published: true
+date: 2026-07-29T16:59:24.154Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:17.385Z
