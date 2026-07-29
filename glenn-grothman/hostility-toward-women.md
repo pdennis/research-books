@@ -1,8 +1,8 @@
 ---
 title: Rep. Glenn Grothman (WI-06): Hostility Toward Women And Single Parents
 description: 
-published: false
-date: 2026-02-18T19:42:48.685Z
+published: true
+date: 2026-07-29T16:57:42.065Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:42.242Z
