@@ -1,8 +1,8 @@
 ---
 title: Rep. Tony Wied (WI-08): Ducked Constituents and Held Curated Town Halls
 description: 
-published: false
-date: 2026-02-18T19:48:31.135Z
+published: true
+date: 2026-07-29T16:59:55.572Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:36.579Z
