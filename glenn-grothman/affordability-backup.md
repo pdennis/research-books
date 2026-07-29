@@ -1,8 +1,8 @@
 ---
 title: Rep. Glenn Grothman (WI-06): Affordability Record
 description: 
-published: false
-date: 2026-02-18T19:42:33.776Z
+published: true
+date: 2026-07-29T16:57:12.953Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:20.956Z
