@@ -2,7 +2,7 @@
 title: Juan Ciscomani
 description: 
 published: true
-date: 2026-07-29T15:23:18.708Z
+date: 2026-07-29T15:35:57.508Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:40:44.781Z
@@ -64,7 +64,7 @@ dateCreated: 2025-05-27T11:40:44.781Z
 <li><a href="/en/juan-ciscomani/ciscomani-IRA-clean-energy" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🧑‍🔧" src="/_assets/svg/twemoji/1f9d1-200d-1f527.svg"> <em>Ciscomani's Votes Threatened Clean Energy Jobs in His District</em></a></li>
 <li><a href="/en/juan-ciscomani/ciscomani-choice" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="👩" src="/_assets/svg/twemoji/1f469.svg"> <em>Ciscomani Was A Threat To Women's Health and Reproductive Freedom</em></a></li>
 <li><a href="/en/juan-ciscomani/ciscomani-water" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="💧" src="/_assets/svg/twemoji/1f4a7.svg"> <em>Ciscomani Was A Senior Advisor to AZ Governor Who Worsened Water Crisis</em></a></li>
-<li><a href="/en/juan-ciscomani/ciscomani-iran" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🪖" src="/_assets/svg/twemoji/U+1FA96.svg"> <em>Ciscomani Backed Trump's Costly War With Iran That Raised Prices On Arizonans</em></a></li>
+<li><a href="/en/juan-ciscomani/ciscomani-iran" class="is-internal-link is-valid-page"><img class="emoji" draggable="false" alt="🪖" src="/_assets/svg/twemoji/1fa96.svg"> <em>Ciscomani Backed Trump's Costly War With Iran That Raised Prices On Arizonans</em></a></li>
 
 </ul>
 <h2 id="juan-ciscomani-used-his-power-to-benefit-himself-and-the-powerful" class="toc-header"> Juan Ciscomani Used His Power To Benefit Himself and the Powerful</h2>
