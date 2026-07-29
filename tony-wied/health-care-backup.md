@@ -1,8 +1,8 @@
 ---
 title: Rep. Tony Wied (WI-08): Can't Be Trusted on Health Care
 description: 
-published: false
-date: 2026-02-19T17:21:37.262Z
+published: true
+date: 2026-07-29T16:59:13.650Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:44.417Z
