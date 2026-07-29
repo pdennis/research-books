@@ -2,7 +2,7 @@
 title: María Elvira Salazar (FL-27)
 description: 
 published: true
-date: 2026-07-29T15:40:40.042Z
+date: 2026-07-29T15:40:59.851Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T21:05:15.089Z
@@ -89,7 +89,7 @@ Salazar was willing to go against her own word and ignore her constituents to pl
 - [:shopping_cart: *Salazar Voted To Protect Tariffs That Raised Prices On Floridians*](https://research-books.com/en/maria-salazar/tariffs)
 - [:woman: *Salazar Supported Restricting Reproductive Freedom In Florida*](https://research-books.com/en/maria-salazar/choice)
 - [:cuba: *Salazar's Stance On Cuba Has Come Under Scrutiny During Her Time In Public Office*](https://research-books.com/en/maria-salazar/cuba)
-- [🪖 *Salazar Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/eli-crane/crane-iran)
+- [🪖 *Salazar Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/maria-salazar/salazar-iran)
 {.links-list}
 
 ## Maria Elvira Salazar Used Her Power To Benefit The Powerful And Herself
