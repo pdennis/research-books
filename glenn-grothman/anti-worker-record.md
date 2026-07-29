@@ -1,8 +1,8 @@
 ---
 title: Rep. Glenn Grothman (WI-06): Anti-Worker Legislative Record
 description: 
-published: false
-date: 2026-02-18T19:42:39.436Z
+published: true
+date: 2026-07-29T16:57:52.489Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:08:28.113Z
