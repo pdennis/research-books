@@ -2,23 +2,11 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-07-24T14:43:33.700Z
+date: 2026-07-29T15:54:26.778Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
 ---
-
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
-
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Stacy Garrity
 
