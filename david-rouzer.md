@@ -2,7 +2,7 @@
 title: David Rouzer (NC-07)
 description: 
 published: true
-date: 2026-05-07T13:41:39.318Z
+date: 2026-07-30T18:45:55.062Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-09T16:55:17.838Z
@@ -74,6 +74,7 @@ North Carolinians in the 7^th^ congressional district deserve better representat
 - [:carrot: *Rouzer Voted To Cut Food Assistance North Carolinians Relied On*](https://research-books.com/en/david-rouzer/snap)
 - [:shopping_cart: *Rouzer Voted To Protect Tariffs That Raised Prices On North Carolina*](https://research-books.com/en/david-rouzer/tariffs)
 - [:apple: *Rouzer Supported Policies That Threatened Public Education In North Carolina*](https://research-books.com/en/david-rouzer/education)
+[🪖 *Rouzer Backed Trump's Costly War With Iran That Raised Prices On North Carolinians*](/en/david-rouzer/rouzer-iran)
 {.links-list}
 ## David Rouzer Used His Power To Benefit The Powerful And Himself
 - [:nauseated_face: *Rouzer Was Just Another DC Swamp Creature*](https://research-books.com/en/david-rouzer/swamp-creature)
