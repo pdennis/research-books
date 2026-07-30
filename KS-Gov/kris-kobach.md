@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: true
-date: 2026-07-24T14:36:28.401Z
+date: 2026-07-30T14:38:27.104Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
@@ -70,10 +70,11 @@ Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to
 
 ### **Kris Kobach Promoted Baseless Voter Fraud Conspiracies And Helped Strategize A Lawsuit To Overturn The 2020 Election**
 
--   Kris Kobach repeatedly promoted baseless voter fraud conspiracies and called for the elimination of ballot drop boxes.
+-   Kris Kobach repeatedly promoted baseless voter fraud conspiracies,  called for the elimination of ballot drop boxes, and attacked Kansas' three-day mail-in ballot grace period.
 -   Kobach claimed Georgia, Michigan, Pennsylvania, and Wisconsin [“held illegitimate elections”](https://www.nytimes.com/2021/01/31/us/trump-election-lie.html) and violated the rights of voters in other states during the 2020 election. He claimed [“there’s no question”](https://apnews.com/article/2022-midterm-elections-voting-rights-kris-kobach-topeka-kansas-a34504e587cc5efcf7f01219b89f03e1) voter fraud occurred in the 2020 election and said Americans would never know “how many fraudulent ballots were cast.”
 -   Kobach was [part of a team of lawyers with close ties to the Trump 2020 campaign](https://www.nytimes.com/2021/01/31/us/trump-election-lie.html) that planned a lawsuit to claim “there were enough inappropriate election-rule changes” that could overturn the 2020 election. Kobach helped strategize Texas Attorney General Ken Paxton’s lawsuit seeking to overturn the election, and claimed the lawsuit [presented a “clear” and “compelling case.”](https://www.breitbart.com/politics/2020/12/07/kobach-texas-case-challenges-election-directly-at-supreme-court/) Kobach argued the swing states violated the constitution when they changed election rules during the 2020 election. 
 -   Kobach called for the [elimination of ballot drop boxes](https://apnews.com/article/2022-midterm-elections-voting-rights-kris-kobach-topeka-kansas-a34504e587cc5efcf7f01219b89f03e1) despite a lack of voter fraud evidence and Kansas’ Republican Secretary of State, Scott Schwab, assuring Kansas’ elections were secure and drop boxes were safe. Kobach repeatedly claimed mail-in voting was the [“primary avenue of voter fraud”](https://www.facebook.com/KrisKobach1787/videos/946133025902187) and allowed for [“ballot harvesting.”](https://x.com/KrisKobach1787/status/1248009370559897600)
+- In 2026, Kobach attacked Kansas' three-day mail-in ballot grace period, calling it an [“experiment”](https://soundcloud.com/abpac/kris-kobach-the-voice-of/s-BALdYaCJoSz?si=cde16a04172c4c92a457a5721b42e528&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) and criticizing legal challenges seeking to preserve Kansans' ability to count their mail-in ballots within the grace period. Kobach filed an expedited [appeal](https://www.cjonline.com/story/news/politics/government/2026/07/16/ag-kris-kobach-seeks-quick-action-on-mail-ballot-grace-period-appeal/90947176007/) with the Kansas Supreme Court after a district court judge issued a temporary injunction against a [2025 law](https://kansasreflector.com/2026/07/16/kansas-judge-issues-injunction-temporarily-blocking-repeal-of-voters-3-day-grace-period/) that repealed the mail-in ballot grace period. Despite Kobach's legal actions as Kansas attorney general to end the mail-in ballot grace period, he was a [proponent](https://kansasreflector.com/2026/07/16/kansas-judge-issues-injunction-temporarily-blocking-repeal-of-voters-3-day-grace-period/) of the legislation that created the three-day grace period in 2017. 
 
 **Message:** Kris Kobach helped sow distrust in U.S. elections and tried to overturn the 2020 election.
 
