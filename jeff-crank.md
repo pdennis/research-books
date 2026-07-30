@@ -2,7 +2,7 @@
 title: Jeff Crank (CO-05)
 description: 
 published: true
-date: 2026-07-30T21:26:39.208Z
+date: 2026-07-30T21:28:08.945Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T15:18:53.326Z
@@ -99,6 +99,7 @@ Crank was a life-long political insider who was out-of-touch with the needs of e
 -    [🛒 *Crank Voted To Protect Tariffs That Amounted To A Tax Increase On Coloradans*](/en/jeff-crank/tariffs)
 -    [❌ *Crank Supported An Agency That Hamstrung Social Security And Threatened Jobs In His District*](/en/jeff-crank/doge)
 -    [👩 *Crank Opposed Protecting Coloradans' Reproductive Freedoms*](/en/jeff-crank/choice)
+- [🪖 *Crank Backed Trump's Costly War With Iran That Raised Prices On Coloradans*](/en/jeff-crank/crank-iran)
 {.links-list}
 
 ## Crank Used His Power To Benefit The Powerful And Himself
