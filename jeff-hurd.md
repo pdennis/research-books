@@ -2,7 +2,7 @@
 title: Jeff Hurd (CO-03)
 description: 
 published: true
-date: 2026-06-29T17:15:49.012Z
+date: 2026-07-30T20:42:26.641Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T20:24:41.472Z
@@ -102,6 +102,7 @@ Jeff Hurd sold himself as an independent voice willing to vote with his conscien
 - [:shopping_cart: *Hurd Could Not Be Trusted To Protect Coloradans From Price Increases From Tariffs*](https://research-books.com/en/jeff-hurd/tariffs)
 - [:mechanic: *Hurd Voted To Cut Tax Credits That Helped Create Clean Energy Jobs In Colorado*](https://research-books.com/en/jeff-hurd/clean-energy)
 - [:mountain: *Hurd Could Not Be Trusted To Ensure Coloradans Had A Say In How Public Lands Were Managed*](https://research-books.com/en/jeff-hurd/public-lands)
+- [🪖 *Hurd Backed Trump's Costly War With Iran That Raised Prices On Coloradans*](/en/jeff-hurd/hurd-iran)
 {.links-list}
 ## Hurd Used His Power To Benefit Himself And The Powerful
 - [:eyes: *It Took Hurd 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/jeff-hurd/epstein)
