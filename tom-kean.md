@@ -2,7 +2,7 @@
 title: Tom Kean, Jr.
 description: 
 published: true
-date: 2026-07-30T20:54:59.651Z
+date: 2026-07-30T20:59:35.751Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T12:54:53.416Z
