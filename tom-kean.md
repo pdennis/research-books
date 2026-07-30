@@ -2,7 +2,7 @@
 title: Tom Kean, Jr.
 description: 
 published: true
-date: 2026-07-30T20:59:35.751Z
+date: 2026-07-30T21:05:45.186Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T12:54:53.416Z
@@ -104,7 +104,7 @@ Multimillionaire Tom Kean, Jr. is a flip-flopper who will say and do anything to
 - [:shopping_cart: *Kean Supported Trump's Tariffs Over New Jerseyans*](https://research-books.com/en/tom-kean/kean-tariffs)
 - [:salt: *Kean Talked Tough On SALT, But Came Up Short*](https://research-books.com/en/tom-kean/kean-SALT)
 - [:x: *Kean Won't Stand Up For New Jerseyans*](https://research-books.com/en/tom-kean/kean-stand-up)
-- [🪖 *Kean Backed Trump's Costly War With Iran That Raised Prices On New Jersey*](/en/zach-nunn/nunn-iran)
+- [🪖 *Kean Backed Trump's Costly War With Iran That Raised Prices On New Jersey*](/en/tom-kean/kean-iran)
 {.links-list}
 
 ## Tom Kean Used His Power to Benefit Himself And the Powerful
