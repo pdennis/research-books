@@ -2,7 +2,7 @@
 title: Ryan Mackenzie
 description: 
 published: true
-date: 2026-02-13T19:12:56.412Z
+date: 2026-07-30T19:25:57.388Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:23:44.035Z
@@ -67,6 +67,7 @@ Mackenzie is a MAGA-aligned partisan posing as a pragmatist. He backed ripping h
 - [:shopping_cart: *Mackenzie Supported Trump's Tariffs At The Expense Of Pennsylvania Jobs*](https://research-books.com/en/ryan-mackenzie/mackenzie-tariffs)
 - [:x: *Mackenzie Defended Attacks on Social Security*](https://research-books.com/en/ryan-mackenzie/mackenzie-doge)
 - [:ladder: *Mackenzie Was A Threat To Worker Safety*](https://research-books.com/en/ryan-mackenzie/mackenzie-osha)
+- [🪖 *Mackenzie Backed Trump's Costly War With Iran That Raised Prices On Pennsylvanians*](https://research-books.com/en/ryan-mackenzie/mackenzie-iran)
 {.links-list}
 
 ## Ryan Mackenzie Used His Power To Benefit Himself and the Powerful
