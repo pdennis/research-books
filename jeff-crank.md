@@ -2,7 +2,7 @@
 title: Jeff Crank (CO-05)
 description: 
 published: true
-date: 2026-07-30T15:38:58.048Z
+date: 2026-07-30T15:39:11.399Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T15:18:53.326Z
@@ -30,7 +30,7 @@ dateCreated: 2026-05-25T15:18:53.326Z
 
 **Jeff Crank "Did Not Committ" To Signing A Petition To Release The Epstein Files.** \[KRDO 13 (ABC) 09/29/2025\]
 
-Crank was a life-long political insider who was out-of-touch with the needs of everyday Coloradans. As a former congressional staffer, state director of Americans for Prosperity Colorado, and now congressman Crank has not stood up to protect Coloradans’ health care or hard-earned benefits. He voted to kick thousands of Coloradans off their health coverage and to let premiums increase for Coloradans who relied on the Affordable Care Act to access health insurance. He voted for a bill that would trigger Medicare cuts and supported an agency that hamstrung Social Security. He even supported that agency as it presented a threat to federal employees and veterans. He voted to take food assistance from Coloradans and supported tariffs that made the already expensive cost-of-living in Colorado worse. As a lifelong political operative who has [wanted this congressional seat since 2006](https://www.coloradopolitics.com/2024/03/24/republican-state-chair-dave-williams-wins-top-line-in-colorados-5th-congressional-district-primary-2-39e6501e-e95b-11ee-b301-efb20612e26f/), Crank is more concerned with being in elected office than listening to the needs of Coloradans.
+Crank was a life-long political insider who was out-of-touch with the needs of everyday Coloradans. As a former congressional staffer, state director of Americans for Prosperity Colorado, and now congressman Crank has not stood up to protect Coloradans’ health care or hard-earned benefits. He voted to kick thousands of Coloradans off their health coverage and to let premiums increase for Coloradans who relied on the Affordable Care Act to access health insurance. He voted for a bill that would trigger Medicare cuts and supported an agency that hamstrung Social Security. He even supported DOGE as it presented a threat to federal employees and veterans. He voted to take food assistance from Coloradans and supported tariffs that made the already expensive cost-of-living in Colorado worse. As a lifelong political operative who has [wanted this congressional seat since 2006](https://www.coloradopolitics.com/2024/03/24/republican-state-chair-dave-williams-wins-top-line-in-colorados-5th-congressional-district-primary-2-39e6501e-e95b-11ee-b301-efb20612e26f/), Crank is more concerned with being in elected office than listening to the needs of Coloradans.
 
 ### Crank Voted To Rip Health Coverage from thousands of coloradans
 
