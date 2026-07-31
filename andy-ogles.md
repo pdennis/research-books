@@ -2,7 +2,7 @@
 title: Andy Ogles (TN-05)
 description: 
 published: true
-date: 2026-03-27T15:21:03.394Z
+date: 2026-07-31T21:14:39.099Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T18:36:23.509Z
@@ -116,6 +116,7 @@ Andy Ogles is just another corrupt politician who doesn’t think the rules appl
 - [:carrot: *Ogles Voted To Cut Food Assistance Tennesseans Rely On To Afford Groceries*](/andy-ogles/SNAP)
 - [:woman: *Ogles Supported Abortion Bans That Endangered Tennessee Women*](/andy-ogles/choice)
 {.links-list}
+-    [🪖 *Ogles Backed Trump's Costly War With Iran That Raised Prices On Tennesseans*](/en/andy-ogles/ogles-iran)
 
 ## Andy Ogles Used His Power To Benefit Himself And The Powerful
 - [:necktie: *Ogles Fabricated His Resume And Professional Credentials*](/andy-ogles/resume-fabrication)
