@@ -2,7 +2,7 @@
 title: Andrew Garbarino (NY-02)
 description: 
 published: true
-date: 2026-07-15T20:54:06.039Z
+date: 2026-07-31T18:07:22.588Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-22T20:03:55.435Z
@@ -48,5 +48,17 @@ In addition to Trump’s budget, Garbarino stood with the administration as Trum
 # Issue Briefs
 
 ## Garbarino Supported Policies That Hurt Everyday New Yorkers
+- [:hospital: *Garabrino Said He Couldn't Support Cuts To Medicaid, Then Voted To Cut It*](https://research-books.com/en/mike-lawler/lawler-medicaid)
+- [:older_man: *Garbarino Voted For Massive Cuts To Medicare*](https://research-books.com/en/mike-lawler/lawler-medicare)
+- [:carrot: *Garbarino Voted To Cut Food Assistance, Then Claimed He Was Protecting it*](https://research-books.com/en/mike-lawler/lawler-snap)
+- [:shopping_cart: *Garbarino Defended Trump's Tariffs At New Yorkers' Expense*](https://research-books.com/en/mike-lawler/lawler-tariffs)
+- [:salt: *Garbarino Talked Tough on SALT, Then Came Up Short*](https://research-books.com/en/mike-lawler/lawler-salt)
+- [:woman: *Garbarino Fell In Line With An Anti-Choice Agenda*](https://research-books.com/en/laurel-lee/choice)
+- [🪖 *Garbarino Backed Trump's Costly War With Iran That Raised Prices On New Yorkers*](/en/mike-lawler/lawler-iran)
+{.links-list}
 
-## Garbarino Used His Power To Protect The Powerful
+
+## Garbarino Used His Power To Benefit Himself And The Powerful
+- [:eyes: *It Took Garbarino 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/laurel-lee/epstein)
+- [:money_with_wings: *Garbarino Took Money From Companies Who Received Contracts He Oversaw*](https://research-books.com/en/laurel-lee/sos)
+{.links-list}
