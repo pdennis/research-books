@@ -2,7 +2,7 @@
 title: Jim Desmond (CA-48)
 description: 
 published: true
-date: 2026-04-28T15:21:00.662Z
+date: 2026-07-31T20:43:10.340Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-27T23:32:24.709Z
@@ -72,6 +72,7 @@ Jim Desmond is an out-of-touch millionaire who wants to be elected to Congress t
 - [:carrot: *Desmond Supported Taking Food Assistance From Southern Californians*](https://research-books.com/en/jim-desmond/snap)
 - [:shopping_cart: *Desmond Defended Policies That Raised Costs On Southern Californians*](https://research-books.com/en/jim-desmond/costs)
 - [:x: *Desmond Was The Only County Supervisor To Vote Against A Proposal To Crack Down On Scams, Junk Fees, And Predatory Financial Practices*](https://research-books.com/en/jim-desmond/scams)
+-    [🪖 *Desmond Backed Trump's Costly War With Iran That Raised Prices On Californians*](/en/jim-desmond/desmond-iran)
 {.links-list}
 ## Desmond Used His Power To Benefit Himself And The Powerful
 - [:office: *Desmond Was Investigated For Accepting Donations From Individuals Who Had A Financial Investment In A Development Project He Greenlit As Mayor*](https://research-books.com/en/jim-desmond/san-marcos)
