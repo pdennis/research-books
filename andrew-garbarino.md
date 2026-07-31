@@ -2,7 +2,7 @@
 title: Andrew Garbarino (NY-02)
 description: 
 published: true
-date: 2026-07-31T18:09:33.236Z
+date: 2026-07-31T18:10:09.248Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-22T20:03:55.435Z
@@ -48,7 +48,7 @@ In addition to Trump’s budget, Garbarino stood with the administration as Trum
 # Issue Briefs
 
 ## Garbarino Supported Policies That Hurt Everyday New Yorkers
-- [:hospital: *Garabrino Said He Couldn't Support Cuts To Medicaid, Then Voted To Cut It*](https://research-books.com/en/andrew-garbarino/garbarino-medicaid)
+- [:hospital: *Garbarino Said He Couldn't Support Cuts To Medicaid, Then Voted To Cut It*](https://research-books.com/en/andrew-garbarino/garbarino-medicaid)
 - [:older_man: *Garbarino Voted For Massive Cuts To Medicare*](https://research-books.com/en/andrew-garbarino/garbarino-medicare)
 - [:carrot: *Garbarino Voted To Cut Food Assistance, Then Claimed He Was Protecting it*](https://research-books.com/en/andrew-garbarino/lawler-snap)
 - [:shopping_cart: *Garbarino Defended Trump's Tariffs At New Yorkers' Expense*](https://research-books.com/en/andrew-garbarino/garbarino-tariffs)
