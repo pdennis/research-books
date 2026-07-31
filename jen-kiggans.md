@@ -2,7 +2,7 @@
 title: Jen Kiggans
 description: 
 published: true
-date: 2026-07-27T17:55:20.811Z
+date: 2026-07-31T21:42:41.540Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T13:36:07.734Z
@@ -99,6 +99,7 @@ Jen Kiggans is the biggest threat to her constituents well-being and quality of 
 - [:x: *Kiggans Watched While Social Security And Federal Workers Came Under Attack*](https://research-books.com/en/jen-kiggans/kiggans-doge)
 - [:shopping_cart: *Kiggans Protected Trump's Tariffs*](https://research-books.com/en/jen-kiggans/kiggans-tariffs)
 - [:mechanic: *Kiggans Broke Her Promise To Protect Clean Energy Jobs*](https://research-books.com/en/jen-kiggans/kiggans-clean-energy-tax-credits)
+- [:military_helmet: *Kiggans Backed Trump's Costly War With Iran That Raised Prices On Virginians*](https://research-books.com/en/jen-kiggans/kiggans-iran)
 {.links-list}
 
 ## Jen Kiggans Used Her Power To Benefit Herself And The Powerful
