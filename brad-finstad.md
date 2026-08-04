@@ -2,13 +2,39 @@
 title: Brad Finstad (MN-01)
 description: 
 published: true
-date: 2026-04-21T16:22:07.339Z
+date: 2026-08-04T17:41:41.253Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
 ---
 
 # How To Win Against Brad Finstad
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Brad Finstad Backed A Bill Democrats Said Would Slash $1 Trillion From Medicaid.** [KAAL (ABC) 07/10/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/nqch5c?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Brad Finstad Said He Was "Proud" To Vote For The One Big Beautiful Bill.** [KTTC 07/09/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ufshl8?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Brad Finstad Faced Protests Over Medicaid Cuts In The One Big Beautiful Bill.** [KAAL (ABC) 05/27/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/i8n22j?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Brad Finstad Was Challenged Over Medicaid Cuts And Their Impact On Everyday Families.** [KAAL (ABC) 07/09/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/kx7kid?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Brad Finstad Defended Tariffs As A Way To "Reignite Trade Conversations."** [KAAL (ABC) 04/17/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/fu5o4y?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Brad Finstad Said Tariffs Would Help Diversify America's Trade Partners.** [KAAL (ABC) 04/17/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/pq0uz1?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Faith Leaders Delivered Hundreds Of Signatures Urging Brad Finstad To Protect Medicaid.** [KAAL (ABC) 02/18/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/4wl9jn?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 Since he entered Congress, Brad Finstad has worked to make life harder for Minnesotans and has been nothing but a rubber stamp for Trump’s destructive agenda throughout 2025. He voted to kick more than 19,000 Minnesotans off their health coverage by supporting the Big Ugly Bill, forcing hospitals in his state to make “difficult choices” about the care they could provide and forcing local clinics to drastically cut their services. In the same vote, he passed the biggest cuts to SNAP in history, ignoring that more than 25,000 households in his district relied on the program. Finstad was also a member of the Republican Study Committee, a group that has staunchly advocated for raising the retirement age and turning Medicare into a voucher system. Finstad was an early supporter of DOGE, joining the Congressional DOGE caucus and touting how eager he was to partner with the agency. He praised Trump’s tariffs despite even though they raised prices on Minnesotans and created uncertainty for Minnesota businesses. Finstad was also an anti-choice extremist who supported a nationwide abortion ban. 
 
