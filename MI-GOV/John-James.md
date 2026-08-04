@@ -2,23 +2,12 @@
 title: John James
 description: 
 published: true
-date: 2026-08-04T22:08:53.018Z
+date: 2026-08-04T22:21:46.082Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
-
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against John James
 
