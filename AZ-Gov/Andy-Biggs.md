@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-08-04T22:18:50.436Z
+date: 2026-08-04T22:19:36.366Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -71,7 +71,7 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 ### Biggs Supported School Vouchers And Threatened Teachers Unions
 
-- In 2026, Biggs [intervened](https://www.azcentral.com/story/news/local/arizona-education/2026/06/30/az-school-voucher-deal-dies-setting-up-nov-ballot-fight/90746419007/) in negotiations with the Arizona legislature and the Arizona Education Association over ballot measures impacting school vouchers and union funding. The Arizona Education Association’s [ballot initiative](https://tucson.com/news/state-regional/government-politics/article_519b0d39-0682-4bbb-84a9-b6afa3f3f135.html) would have put income caps and spending restrictions on vouchers, while Republicans had passed three measures that would [block further school voucher reforms](https://www.kjzz.org/politics/2026-06-13/after-deal-fails-republicans-send-poison-pill-for-arizona-school-voucher-reform-to-ballot) and effectively defund the teachers union, and potentially all labor unions, including in public safety. Biggs later went on to call for the [“absolute elimination”](/AZ-Gov/Andy-Biggs/biggs-education) of unions. 
+- In 2026, Biggs [intervened](https://www.azcentral.com/story/news/local/arizona-education/2026/06/30/az-school-voucher-deal-dies-setting-up-nov-ballot-fight/90746419007/) in negotiations with the Arizona legislature and the Arizona Education Association over ballot measures impacting school vouchers and union funding. The Arizona Education Association’s [ballot initiative](https://tucson.com/news/state-regional/government-politics/article_519b0d39-0682-4bbb-84a9-b6afa3f3f135.html) would have put income caps and spending restrictions on vouchers, while Republicans had passed three measures that would [block further school voucher reforms](https://www.kjzz.org/politics/2026-06-13/after-deal-fails-republicans-send-poison-pill-for-arizona-school-voucher-reform-to-ballot) and effectively defund the teachers union, and potentially all labor unions, including in public safety. Biggs later went on to call for the [“absolute elimination”](https://soundcloud.com/abpac/andy-biggs-az-liberty-network/s-1SMd7klp6X6?si=01222c4865714baaa2aec7f2e0cb617d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) of unions. 
 
 - The negotiations were approaching a deal that would have both parties drop their ballot measures in exchange for the legislature passing more moderate school voucher reforms, until [Biggs told Republicans it was a bad deal](https://tucson.com/news/state-regional/government-politics/article_519b0d39-0682-4bbb-84a9-b6afa3f3f135.html), and they should instead only agree to drop the anti-union legislation. Arizona Democrats and the Arizona Education Association [walked away from negotiations](https://tucson.com/news/state-regional/government-politics/article_519b0d39-0682-4bbb-84a9-b6afa3f3f135.html), arguing Republicans were not negotiating in good faith, meaning Arizona voters would likely have to vote on all four ballot measures in November.
 
