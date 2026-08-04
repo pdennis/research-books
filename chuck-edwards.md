@@ -2,7 +2,7 @@
 title: Chuck Edwards
 description: 
 published: true
-date: 2026-06-18T16:45:21.095Z
+date: 2026-08-04T19:53:07.415Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T19:01:59.270Z
@@ -95,7 +95,7 @@ Chuck Edwards is out of touch with Western North Carolina. He was a multi-millio
 - [:cyclone: *Edwards' Helene Recovery Failures*](https://research-books.com/en/chuck-edwards/helene)
 {.links-list}
 ## Edwards Used His Power To Benefit The Powerful And Himself
-- [:eyes: *Edwards Was Being Investigated By The House Ethics Committee Over Allegations Of Inappropriate Conduct With Female Staffers*](https://www.axios.com/2026/05/04/chuck-edwards-letter-house-ethics)
+- [:eyes: *The House Ethics Committee Found Edwards Engaged In Appropropriate Conduct With Female Staffers*](https://research-books.com/en/chuck-edwards/women)
 - [:hamburger: *Edwards McDonald's Restaurant Scandals*](https://research-books.com/en/chuck-edwards/restaurants)
 - [:moneybag: *Edwards Was Out-Of-Touch With North Carolinians*](https://research-books.com/en/chuck-edwards/out-of-touch)
 {.links-list}
