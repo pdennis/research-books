@@ -2,7 +2,7 @@
 title: Max Miller (OH-07)
 description: 
 published: true
-date: 2026-06-23T19:36:49.057Z
+date: 2026-08-05T20:46:03.551Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-05T18:31:57.331Z
@@ -115,6 +115,7 @@ Max Miller has voted against Ohioans to give the wealthiest Americans’ tax bre
 - [:shopping_cart: *Miller Supported Tariffs That Raised Prices On Ohioans*](https://research-books.com/en/max-miller/tariffs)
 - [:x: *Miller Proudly Supported An Agency That Hurt Services Ohioans Relied On*](https://research-books.com/en/max-miller/doge)
 - [:question: *Miller Requested The National Guard Be Deployed To Cleveland Even Though The City's Crime Rate Had Dropped Since The Pandemic*](https://research-books.com/en/max-miller/national-guard)
+- [🪖 *Miller Backed Trump's Costly War With Iran That Raised Prices On Ohioans*](/en/max-miller/miller-iran)
 {.links-list}
 ## Max Miller Used His Power To Benefit The Powerful And Himself
 - [:file_cabinet: *Miller Has Had Extensive Legal Issues Over The Past Five Years*](https://research-books.com/en/max-miller/legal-problems)
