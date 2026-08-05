@@ -2,7 +2,7 @@
 title: Chuck Edwards
 description: 
 published: true
-date: 2026-08-04T20:08:47.918Z
+date: 2026-08-05T20:59:31.917Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T19:01:59.270Z
@@ -93,6 +93,7 @@ Chuck Edwards is out of touch with Western North Carolina. He was a multi-millio
 - [:shopping_cart: *Edwards Supported Tariffs That Were Crushing North Carolinians*](https://research-books.com/en/chuck-edwards/tariffs)
 - [:fuelpump: *Edwards Defended A War That Raised Gas Prices On Western North Carolina*](https://research-books.com/en/chuck-edwards/gas)
 - [:cyclone: *Edwards' Helene Recovery Failures*](https://research-books.com/en/chuck-edwards/helene)
+- [🪖 *Edwards Backed Trump's Costly War With Iran That Raised Prices On North Carolinians*](/en/chuck-edwards/edwards-iran)
 {.links-list}
 ## Edwards Used His Power To Benefit The Powerful And Himself
 - [:eyes: *The House Ethics Committee Found Edwards Engaged In Appropropriate Conduct Toward Female Staffers*](https://research-books.com/en/chuck-edwards/women)
