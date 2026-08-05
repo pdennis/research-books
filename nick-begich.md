@@ -2,7 +2,7 @@
 title: Nick Begich
 description: 
 published: true
-date: 2026-07-13T16:49:31.079Z
+date: 2026-08-05T20:39:34.946Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T15:05:38.283Z
@@ -117,6 +117,7 @@ Nick Begich actively fought to make life harder for Alaskans. He “enthusiastic
 - [:x: *Begich Supported An Agency That Laid Off Alaskans And Weakened Social Security Services*](https://research-books.com/en/nick-begich/doge)
 - [:fish: *Begich Promised To Stand Up To Trawling And Has Yet To Deliver*](https://research-books.com/en/nick-begich/trawling)
 - [:mountain: *Begich Could Not Be Trusted To Protect Alaska's Public Lands And Marine Life*](https://research-books.com/en/nick-begich/public-land)
+- [🪖 *Begich Backed Trump's Costly War With Iran That Raised Prices On Alaskans*](/en/nick-begich/begich-iran)
 {.links-list}
 ## Begich Used His Power To Benefit Himself And The Powerful
 - [:eyes: *It Took Begich 11 Months To Voted To Release The Epstein Files*](https://research-books.com/en/nick-begich/epstein)
