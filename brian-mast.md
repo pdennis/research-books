@@ -2,7 +2,7 @@
 title: Brian Mast (FL-21)
 description: 
 published: true
-date: 2026-04-06T22:46:12.037Z
+date: 2026-08-06T14:47:25.002Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-01T00:24:49.844Z
@@ -115,6 +115,7 @@ Brian Mast has spent nine years in elected office actively making life harder fo
 - [:carrot: *Mast Voted To Cut Food Assistance Floridians Relied On To Afford Groceries*](https://research-books.com/en/brian-mast/snap)
 - [:shopping_cart: *Mast Voted To Protect Tariffs That Raised Prices On Floridians*](https://research-books.com/en/brian-mast/tariffs)
 - [:woman: *Mast Supported The Overturning Of Roe v. Wade, Which Allowed Florida To Institute A Dangerous Six-Week Abortion Ban*](https://research-books.com/en/brian-mast/choice)
+- [🪖 *Mast Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/brian-mast/mast-iran)
 {.links-list}
 ## Brian Mast Used His Power To Protect The Powerful And Himself
 - [:eyes: *It Took Mast 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/brian-mast/epstein)
