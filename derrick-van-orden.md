@@ -2,7 +2,7 @@
 title: Derrick Van Orden
 description: 
 published: true
-date: 2026-06-25T00:53:04.167Z
+date: 2026-08-06T20:57:54.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:38:08.830Z
@@ -112,6 +112,7 @@ Derrick Van Orden has been a headache for the district. He backed ripping health
 - [:older_man: *Van Orden Voted For Massive Medicare Cuts*](https://research-books.com/derrick-van-orden/van-orden-medicare)
 - [:shopping_cart: *Van Orden Protected Tariffs That Raised Costs On Wisconsinites*](https://research-books.com/derrick-van-orden/van-orden-tariffs)
 - [:x: *Van Orden Defended Attacks on Social Security*](https://research-books.com/derrick-van-orden/van-orden-doge)
+- [🪖 *Van Orden Backed Trump's Costly War With Iran That Raised Prices On Wisconsinites*](/en/derrick-van-orden/van-orden-iran)
 {.links-list}
 
 ## Derrick Van Orden Used His Power To Benefit Himself And the Powerful
