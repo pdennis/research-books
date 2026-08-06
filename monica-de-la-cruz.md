@@ -2,7 +2,7 @@
 title: Monica De La Cruz (TX-15)
 description: 
 published: true
-date: 2026-07-08T15:00:58.385Z
+date: 2026-08-06T20:34:57.959Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-15T00:46:32.500Z
@@ -89,6 +89,7 @@ Monica De La Cruz was [out-of-touch](https://www.texastribune.org/2026/04/09/bob
 - [:carrot: *De La Cruz Voted To Cut Food Assistance For Texans*](https://research-books.com/en/monica-de-la-cruz/snap)
 - [:shopping_cart: *De La Cruz Voted To Protect Tariffs That Were Raising Prices On Texans*](https://research-books.com/en/monica-de-la-cruz/tariffs)
 - [:woman: *De La Cruz Was An Anti-Choice Extremist Who Opposed Exceptions For Rape And Incest*](https://research-books.com/en/monica-de-la-cruz/choice)
+- [🪖 *De La Cruz Backed Trump's Costly War With Iran That Raised Prices On Texas*](/en/monica-de-la-cruz/iran)
 {.links-list}
 ## Monica De La Cruz Used Her Power To Benefit The Powerful And Herself
 - [:warning: *De La Cruz Faced Child Abuse Allegations From Her Ex-Husband*](https://research-books.com/en/monica-de-la-cruz/scandal)
