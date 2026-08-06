@@ -2,7 +2,7 @@
 title: Greg Murphy (NC-03)
 description: 
 published: true
-date: 2026-05-03T23:59:47.293Z
+date: 2026-08-06T18:11:17.137Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-03T23:10:22.395Z
@@ -85,6 +85,7 @@ Greg Murphy has spent his time in Congress fighting to make North Carolinians’
 - [:shopping_cart: *Murphy Supported Tariffs That Raised Prices On North Carolinians*](https://research-books.com/en/greg-murphy/tariffs)
 - [:x: *Murphy Was "Delighted" By An Agency That Laid Off Workers And Hamstrung Social Security*](https://research-books.com/en/greg-murphy/doge)
 - [:woman: *Murphy's Extreme Anti-Choice Viewed Put North Carolina Women At-Risk*](https://research-books.com/en/greg-murphy/choice)
+- [🪖 *Murphy Backed Trump's Costly War With Iran That Raised Prices On North Carolinians*](/en/greg-murphy/murphy-iran)
 {.links-list}
 ## Greg Murphy Used His Power To Benefit The Powerful And Himself
 - [:eyes: *It Took Murphy 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/greg-murphy/epstein)
