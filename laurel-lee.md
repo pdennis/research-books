@@ -2,7 +2,7 @@
 title: Laurel Lee (FL-15)
 description: 
 published: true
-date: 2026-04-10T15:05:15.370Z
+date: 2026-08-06T19:29:13.038Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-23T14:58:21.008Z
@@ -95,6 +95,7 @@ Laurel Lee has made life harder for Floridians in the 15^th^ congressional distr
 - [:carrot: *Lee Voted To Cut Food Assistance Floridians Rely On To Afford Groceries*](https://research-books.com/en/laurel-lee/snap)
 - [:shopping_cart: *Lee Voted To Protect Tariffs That Raised Prices On Floridians*](https://research-books.com/en/laurel-lee/tariffs)
 - [:woman: *Lee Supported Abortion Bans That Endangered Floridians*](https://research-books.com/en/laurel-lee/choice)
+- [🪖 *Lee Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/laurel-lee/lee-iran)
 {.links-list}
 ## Laurel Lee Used Her Power To Benefit Herself And The Powerful
 - [:eyes: *It Took Lee 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/laurel-lee/epstein)
