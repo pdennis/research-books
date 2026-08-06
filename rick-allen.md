@@ -2,7 +2,7 @@
 title: Rick Allen (GA-12)
 description: 
 published: true
-date: 2026-07-22T14:59:21.235Z
+date: 2026-08-06T19:05:49.889Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-30T23:38:54.057Z
@@ -106,6 +106,7 @@ Allen praised Trump’s tariffs despite them contributing to “mega-layoffs” 
 - [:x: *Allen Supported An Agency That Laid Off Federal Workers And Hamstrung Social Security*](https://research-books.com/en/rick-allen/doge)
 - [:woman: *Allen's Extreme Anti-Choice Views Endangered Georgia Women*](https://research-books.com/en/rick-allen/choice)
 - [:eyes: *Allen's Vehement Opposition To LGBTQ+ Rights Could Put Georgians At Risk*](https://research-books.com/en/rick-allen/lgbtq)
+- [🪖 *Allen Backed Trump's Costly War With Iran That Raised Prices On Georgians*](/en/rick-allen/allen-iran)
 {.links-list}
 ## Rick Allen Used His Power To Protect The Powerful And Himself
 - [:eyes: *It Took Allen 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/rick-allen/epstein)
