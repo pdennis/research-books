@@ -2,7 +2,7 @@
 title: Brad Finstad (MN-01)
 description: 
 published: true
-date: 2026-08-04T17:41:41.253Z
+date: 2026-08-06T19:15:33.609Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-07T22:16:27.553Z
@@ -95,6 +95,7 @@ Since he entered Congress, Brad Finstad has worked to make life harder for Minne
 - [:shopping_cart: *Finstad Voted To Protect Tariffs That Raised Prices On Minnesotans*](https://research-books.com/en/brad-finstad/tariffs)
 - [:x: *Finstad Supported An Agency That Laid Off Federal Workers And Hamstrung Social Security*](https://research-books.com/en/brad-finstad/doge)
 - [:woman: *Finstad Was An Anti-Choice Extremist Who Supported A Nationwide Abortion Ban*](https://research-books.com/en/brad-finstad/choice)
+- [🪖 *Finstad Backed Trump's Costly War With Iran That Raised Prices On Minnesotans*](/en/brad-finstad/finstad-iran)
 {.links-list}
 ## Brad Finstad Used His Power To Protect The Powerful And Himself
 - [:eyes: *It Took Finstad 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/brad-finstad/epstein)
