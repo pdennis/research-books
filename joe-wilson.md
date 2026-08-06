@@ -2,7 +2,7 @@
 title: Joe Wilson (SC-02)
 description: 
 published: true
-date: 2026-06-23T13:21:34.604Z
+date: 2026-08-06T18:26:20.540Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-10T17:14:23.850Z
@@ -88,6 +88,7 @@ Joe Wilson has never shown an interest in helping South Carolinians. Since joini
 - [:shopping_cart: *Wilson Protected Trump's Tariffs*](https://research-books.com/en/joe-wilson/wilson-tariffs)
 - [:x: *Wilson Watched While Seniors And Federal Workers Came Under Attack*](https://research-books.com/en/joe-wilson/wilson-DOGE)
 - [:woman: *Wilson's Anti-Choice Views Endangered South Carolina Women*](https://research-books.com/en/joe-wilson/wilson-abortion)
+- [🪖 *Wilson Backed Trump's Costly War With Iran That Raised Prices On South Carolinians*](/en/joe-wilson/wilson-iran)
 {.links-list}
 
 ## Wilson Used His Power To Benefit Himself And The Powerful
