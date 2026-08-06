@@ -2,7 +2,7 @@
 title: Virginia Foxx
 description: 
 published: true
-date: 2026-07-09T16:33:57.662Z
+date: 2026-08-06T18:22:26.360Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:59.329Z
@@ -111,6 +111,7 @@ At 82, Foxx is [among the oldest members of Congress](https://www.nbcnews.com/po
 - [:shopping_cart: *Used Her Gavel to Protect Tariffs While Families Pay More*](/virginia-foxx/affordability-backup)
 - [:briefcase: *Voted Against Infrastructure and Jobs, Shielded Job-Killing Tariffs*](/virginia-foxx/jobs-economy-backup)
 - [:balance_scale: *Tax Law Gave Wealthy 40x More Than Working Families*](/virginia-foxx/tax-inequality)
+- [🪖 *Foxx Backed Trump's Costly War With Iran That Raised Prices On North Carolinians*](/en/virginia-foxx/foxx-iran)
 {.links-list}
 
 ## Personal/Character Vulnerabilities
