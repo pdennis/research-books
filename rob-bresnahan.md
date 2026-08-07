@@ -2,7 +2,7 @@
 title: Rob Bresnahan
 description: 
 published: true
-date: 2026-07-30T19:24:37.532Z
+date: 2026-08-07T20:00:53.202Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:34:16.924Z
@@ -66,7 +66,7 @@ Message: Bresnahan chose politics over affordable groceries and made NEPA famili
 - [:mechanic: *Bresnahan Broke His Promise and Voted to Cut Job-Creating Clean Energy Tax Credits*](https://research-books.com/en/rob-bresnahan/bresnahan-clean-energy)
 - [:x: *Bresnahan Defended DOGE As It Attacked Social Security*](https://research-books.com/en/rob-bresnahan/bresnahan-doge)
 - [:apple: *Bresnahan Lied About His Support For School Vouchers*](https://research-books.com/en/rob-bresnahan/bresnahan-education)
-- [:military_helmet: *Bresnahan Backed Trump's Costly War With Iran That Raised Prices On Pennsylvanians*](https://research-books.com/en/rob-bresnahan/bresnahan-iran)
+- [🪖 *Bresnahan Backed Trump's Costly War With Iran That Raised Prices On Pennsylvanians*](https://research-books.com/en/rob-bresnahan/bresnahan-iran)
 {.links-list}
 
 ## Rob Bresnahan Used His Power To Benefit Himself and The Powerful
