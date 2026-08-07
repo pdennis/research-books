@@ -2,13 +2,36 @@
 title: Pete Stauber (MN-08)
 description: 
 published: true
-date: 2026-07-29T21:09:43.557Z
+date: 2026-08-07T15:48:14.554Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-02T14:58:13.050Z
 ---
 
 # How To Win Against Pete Stauber
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Pete Stauber Backed A Budget That Threatened Medicaid Funding Despite A Quarter Of His Constituents Relying On The Program.** [Northern News Now 04/25/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:55.818%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/23lzdj?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Pete Stauber Brushed Aside Concerns About Withholding Medicaid Funding, Insisting There Was "Actual Fraud."** [KARE11 05/03/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/08dshj?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Pete Stauber Cancelled A Town Hall As Constituents Asked, "Where Is Pete Stauber?"** [Lakeland PBS 03/12/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/5jajgz?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Constituents Protested Pete Stauber's Budget Vote After His Promise To Support Medicaid, Medicare, And Social Security.** Northern News Now 03/02/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:55.937%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/3fsu2c?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Pete Stauber Defended DOGE Layoffs As "Right-Sizing" The Federal Government.** [MPR News 08/04/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:50.078%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/xwxq18?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Pete Stauber's Medicaid Vote Was Condemned As Threatening "Basic Human Rights."** [Northern News Now 04/25/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.138%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/vf2c21?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 Pete Stauber voted to rip away health care and food assistance from Minnesotans. He made promises and then broke them to please his party leaders in Washington. He promised he would protect Medicare but voted for the Republican budget bill that would trigger cuts to Medicare. He promised he would protect Social Security but sat idly by while Donald Trump and DOGE weakened the Social Security Administration. Stauber pretended to care about the rising costs of prescription drugs but then voted against legislation that capped the price of certain prescription drugs, like insulin, for seniors. He voted against legislation that gave millions of dollars in funding for his district to improve roads, bridges, and airports then took credit for the grants once they got to Minnesota. Time after time Pete Stauber has proven he is not someone Minnesotans can trust to represent them.
 
