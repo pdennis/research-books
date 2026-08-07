@@ -2,7 +2,7 @@
 title: Jeff Van Drew (NJ-02)
 description: 
 published: true
-date: 2026-06-29T20:44:58.475Z
+date: 2026-08-07T16:12:02.842Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-06T21:50:52.014Z
@@ -86,6 +86,7 @@ Jeff Van Drew was an opportunistic politician who changed his party allegiance d
 - [:carrot: *Van Drew Voted To Cut Food Assistance For New Jerseyans*](https://research-books.com/en/jeff-van-drew/snap)
 - [:shopping_cart: *Van Drew Voted To Protect Tariffs That Raised Prices On New Jerseyans*](https://research-books.com/en/jeff-van-drew/tariffs)
 - [:x: *Van Drew Supported An Agency That Weakened The Social Security Administration And Laid Off Federal Workers*](https://research-books.com/en/jeff-van-drew/doge)
+- [🪖 *Van Drew Backed Trump's Costly War With Iran That Raised Prices On New Jerseyans*](/en/jeff-van-drew/iran)
 {.links-list}
 ## Van Drew Used His Power To Benefit Himself And The Powerful
 - [:eyes: *It Took Van Drew 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/jeff-van-drew/epstein)
