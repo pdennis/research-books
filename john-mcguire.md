@@ -2,7 +2,7 @@
 title: John McGuire (VA-05)
 description: 
 published: true
-date: 2026-05-28T16:36:47.888Z
+date: 2026-08-07T19:20:55.208Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-27T18:00:29.088Z
@@ -77,6 +77,7 @@ John McGuire has spent his time in Congress fighting to make Virginians’ lives
 - [:shopping_cart: *McGuire Voted To Protect Tariffs That Raised Prices On Virginians*](https://research-books.com/en/john-mcguire/tariffs)
 - [:fuelpump: *McGuire Supported A War That Raised Gas Prices On Virginians*](https://research-books.com/en/john-mcguire/gas)
 - [:woman: *McGuire Supported Extreme Anti-Choice Policies That Could Put Virginia Women At-Risk*](https://research-books.com/en/john-mcguire/choice)
+- [🪖 *McGuire Backed Trump's Costly War With Iran That Raised Prices On Virginians*](/en/john-mcguire/iran)
 {.links-list}
 ## McGuire Used His Power To Benefit The Powerful And Himself
 - [:warning: *McGuire Voted Against Banning Child Marriage in Virginia*](https://research-books.com/en/john-mcguire/child-marriage)
