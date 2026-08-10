@@ -2,7 +2,7 @@
 title: Juan Ciscomani
 description: 
 published: true
-date: 2026-08-10T17:00:05.912Z
+date: 2026-08-10T17:02:07.949Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:40:44.781Z
@@ -87,7 +87,7 @@ Ciscomani finally [voted](http://clerk.house.gov/evs/2025/roll289.xml) to releas
 ## Juan Ciscomani Used His Power To Benefit Himself and the Powerful
 -    [👀 *It Took Ciscomani 11 Months To Vote To Release The Epstein Files*](/en/juan-ciscomani/ciscomani-epstein)
 -    [🐘 *Ciscomani Was On The Board Of The Patriot Academy*](/en/juan-ciscomani/ciscomani-patriot-academy)
--    [💰 *Ciscomani Seemingly Violated The STOCK Act By Failing To Disclose A Financial Transaction*](/https://coppercourier.com/news/politics/did-ciscomani-violate-insider-trading-law/)
+-    [💰 *Ciscomani, A Critic Of Insider Trading, Seemingly Violated The STOCK Act By Failing To Disclose A Financial Transaction*](https://coppercourier.com/news/politics/did-ciscomani-violate-insider-trading-law)
 {.links-list}
 
 # Key Votes
