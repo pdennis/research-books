@@ -2,13 +2,27 @@
 title: John McGuire (VA-05)
 description: 
 published: true
-date: 2026-08-07T19:20:55.208Z
+date: 2026-08-10T16:18:09.753Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-27T18:00:29.088Z
 ---
 
 # How To Win Against John McGuire
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**John McGuire Opposed Extending Affordable Care Act Subsidies.** [The John Fredericks Show 01/05/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/5bhezv?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**John McGuire Linked SNAP And WIC To "Marxist Communists" Trying To Separate Americans From God.** [The Riley Gaines Show 07/03/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/k4kxst?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**John McGuire Refused To Commit To Protecting Access To Contraception.** [WVIR 06/16/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/pafpun?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 John McGuire has spent his time in Congress fighting to make Virginians’ lives harder. He voted to kick more than 35,000 Virginians off their health coverage by supporting the Big Ugly Bill, even though nine rural health clinics across Virginia were at risk of closure, and three had already been closed, due to the bill’s cuts. In the same vote, he passed the biggest cuts to SNAP in history, ignoring that more than 38,000 households in his district relied on the program. McGuire was also working to make life harder for seniors as a member of the Republican Study Committee. The group staunchly advocated for raising the retirement age, ignoring evidence that doing so would cost future retirees thousands of dollars every year. McGuire was an early supporter of DOGE, joining the Congressional DOGE caucus and touting the program’s ability to identify waste, fraud and abuse. When the agency came under fire for indiscriminately firing federal workers McGuire flippantly told his constituents that “we’ve all been fired or lost jobs sometime in our life,” ignoring that DOGE’s cuts wiped out six years of federal job growth in Virginia. He praised Trump’s tariffs despite them contributing to “mega-layoffs” across the country, crippling Virginia’s economy and imposing a $1,000 tax on Americans in 2025. McGuire pushed extreme anti-choice policies that could put Virginia women at-risk. Last but certainly not least, in 2024, he was the only Virginia State Senator to vote against banning child marriage. 
 
