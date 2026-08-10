@@ -2,7 +2,7 @@
 title: Scott Perry
 description: 
 published: true
-date: 2026-02-13T22:12:59.809Z
+date: 2026-08-10T19:53:41.652Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:50:30.919Z
@@ -139,6 +139,7 @@ Perry has repeatedly spread antisemitic conspiracy theories:
 - [:x: *Perry Cheered As Social Security Was Attacked*](https://research-books.com/en/scott-perry/perry-doge)
 - [:shopping_cart: *Perry Backed Tariffs At The Expense Of Pennsylvanians*](https://research-books.com/en/scott-perry/perry-tariffs) 
 - [:woman: *Perry Was An Anti-Choice Extremist*](https://research-books.com/en/scott-perry/perry-abortion)
+- [🪖 *Perry Backed Trump's Costly War With Iran That Raised Prices On Pennsylvanians*](/en/scott-perry/perry-iran)
 {.links-list}
 
 ## **Scott Perry Used His Power To Benefit Himself And The Powerful**
