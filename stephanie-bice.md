@@ -2,13 +2,42 @@
 title: Stephanie Bice
 description: 
 published: true
-date: 2026-06-16T21:08:48.050Z
+date: 2026-08-11T17:50:01.638Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:14:12.565Z
 ---
 
 # How To Win Against Stephanie Bice
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Stephanie Bice Called The One Big Beautiful Bill "Real Support For Hardworking Americans" Despite Cuts To Medicaid And Food Assistance.** [KFOR Oklahoma News 4 07/04/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.559%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/r8erg9?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Stephanie Bice Said Medicare And Medicaid Should Be Targeted For "Efficiencies" Instead Of Social Security.** [CNN News Central 12/05/2024]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.515%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/8fz8rg?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Stephanie Bice Voted Against Legislation To Cap Insulin Prices.** [KFOR Oklahoma News 4 04/08/2022]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/racmvs?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Stephanie Bice Defended Trump's Tariffs As A Way To Negotiate A Better Deal For Americans.** [Representative Stephanie Bice on YouTube 03/05/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:78.043%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/84vell?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Stephanie Bice Pushed Back On An Oklahoma Constituent's Concerns About Rising Grocery Prices.** [Tele-Town Hall 02/19/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:66.667%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/b3w5vp?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Stephanie Bice Defended VA Layoffs As Eliminating "Ancillary Positions."** [KOKH FOX 25 03/06/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/5s9w1c?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Stephanie Bice Dodged A Question About Veterans' Benefits Cuts By Bringing Up Immigration.** [CNN Newsroom Live 02/24/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.025%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/fdrs0m?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Stephanie Bice Voted To Reject Arizona's 2020 Electoral Votes.** [KOCO News 5 01/07/2025]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.278%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/z909qk?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 Stephanie Bice has spent her time in Congress advocating [to repeal the Affordable Care Act](https://www.readfrontier.org/stories/horn-vows-to-protect-affordable-care-act-bice-promotes-use-of-health-savings-accounts-as-a-replacement/) and has voted against every bill that would lower prescription drug costs, including the [\$35 insulin cap](https://ktul.com/news/local/all-oklahoma-republican-congress-members-vote-no-on-bill-capping-insulin-prices) and [Medicare drug price negotiation](https://bice.house.gov/media/press-releases/bice-opposes-democrats-partisan-budget-bill). She voted for the ["One Big Beautiful Bill"](https://bice.house.gov/media/press-releases/bice-passage-one-big-beautiful-bill) that could strip Medicaid from [174,000 Oklahomans](https://www.kff.org/medicaid/allocating-cbos-estimates-of-federal-medicaid-spending-reductions-and-enrollment-loss-across-the-states/) and SNAP benefits from [131,000 more](https://oklahomawatch.org/2025/07/24/historic-cuts-to-snap-put-131000-oklahomans-at-risk-of-losing-benefits/) — while the bill delivers [over \$50,000 a year in tax cuts to the top 1%](https://www.cnbc.com/2025/05/23/house-republican-big-beautiful-tax-bill-favors-the-rich.html).
 
