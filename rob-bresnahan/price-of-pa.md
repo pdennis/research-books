@@ -2,7 +2,7 @@
 title: Rob Bresnahan: The Price of Pennsylvania
 description: 
 published: true
-date: 2026-08-11T13:52:59.950Z
+date: 2026-08-11T14:19:15.960Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T16:32:46.862Z
@@ -34,7 +34,7 @@ Bresnahan promised that he would put his assets into a blind trust, then, after 
 
 Bresnahan: “Some Of The Most Prolific Traders In The Country Serve In Congress. Whether Or Not They Have Done Something Wrong, The Idea That We Can Buy And Sell Stocks While Voting On Legislation That Will Have A Direct Impact On These Companies Is Wrong And Needs To Come To An End Immediately.” According to a letter to the editor Rob Bresnahan wrote in the Republican Herald, “The trust our political leaders and institutions have from Americans is at a historic low and it’s easy to understand why. Too often we hear about how politicians are making millions of dollars during their time in office and it is sickening. If we want to restore trust in government and our political leaders then Congress needs to lead with these policies. […] Second, ban Congressional stock trading. Some of the most prolific traders in the country serve in Congress. Whether or not they have done something wrong, the idea that we can buy and sell stocks while voting on legislation that will have a direct impact on these companies is wrong and needs to come to an end immediately. This is the topic of bipartisan legislation right now in the House that I would happily co-sponsor. My opponent, Matt Cartwright, is not a co-sponsor of this bill.” [Rob Bresnahan Letter to the Editor – Republican Herald, 3/29/24]
 
-After Being Elected To Congress, Bresnahan became One Of The Most Prolific Stock Traders Among Freshman Members
+**After Being Elected To Congress, Bresnahan became One Of The Most Prolific Stock Traders Among Freshman Members**
 
 HEADLINE: "He Said He Would Ban Congressional Stock Trading. Now In Office, He Trades Freely." [New York Times, 4/5/25]
 
@@ -127,3 +127,11 @@ Bresnahan Purchased Stock In A Company That Provided Cables And Chips For Data C
 Two Months Before He Purchased Stock In Credo, Bresnahan Said He Was “Pleased To Hear" That Companies Wanted To Build Data Centers In Northeastern Pennsylvania. According to Politico, “Two months before buying Credo stock, Bresnahan talked up the potential of data centers to create jobs in his northeastern Pennsylvania district. ‘I am pleased to hear that companies are looking to Northeastern Pennsylvania for their data centers, which can serve as catalysts for economic growth and technological innovation for our region,’ he told the Wilkes-Barre Times-Leader in April.” [Politico, 1/12/25]
 
 Bresnahan’s Campaign Spokeswoman Claimed The Timing Of His Credo Stock Purchase In Relation To His Advocacy For Data Centers Was “Irrelevant.” According to Politico, “As Congress debates whether to ban stock trading by members, last month Bresnahan signed on to a discharge petition to bring the ban to the floor. He said in December that he has told his financial advisers to stop trading stocks until Congress passes such a ban. ‘Like Governor Shapiro said in his own words, Rep. Bresnahan will always support projects that bring new jobs to Northeastern Pennsylvania,’ Pope, the spokeswoman, said of the Blackstone initiative. Asked about the timing of the Credo purchase in relation to his advocacy for data centers in his district, Pope said it was ‘irrelevant because Rob doesn’t trade his own stocks.’” [Politico, 1/12/25]
+
+## Rob Bresnahan Used His Power To Benefit Himself and The Powerful
+
+- [:money_mouth_face: *Bresnahan Broke His Own Pledge To Ban Congressional Stock Trading*](https://research-books.com/en/rob-bresnahan/bresnahan-stocks)
+- [:helicopter: *Bresnahan Secretly Bought A Personal Helicopter*](https://research-books.com/en/rob-bresnahan/bresnahan-helicopter)
+- [:moneybag: *Bresnahan Sold His Family Business To A Private Equity Firm*](https://research-books.com/en/rob-bresnahan/bresnahan-private-equity)
+- [:eyes: *It Took Bresnahan 11 Months To Vote To Release The Epstein Files And Only After Trump Gave Republicans Permission*](https://research-books.com/en/rob-bresnahan/bresnahan-epstein)
+{.links-list}
