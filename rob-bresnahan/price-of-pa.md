@@ -2,14 +2,15 @@
 title: Rob Bresnahan: The Price of Pennsylvania
 description: 
 published: true
-date: 2026-08-11T13:52:46.116Z
+date: 2026-08-11T13:52:59.950Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T16:32:46.862Z
 ---
 
 
-\Rob Bresnahan sold a blue-collar brand but governs like just another rich guy who profits from the swamp. He repeatedly promised that he would protect the benefits his neighbors relied on then voted to kick thousands of Pennsylvanians off their health coverage. He broke his own pledge to ban congressional stock trading and bought a secret helicopter. The bottom line: he gets rich while he leaves NEPA behind and that's why they call him the Prince of Pennsylvania.
+Rob Bresnahan sold a blue-collar brand but governs like just another rich guy who profits from the swamp. He repeatedly promised that he would protect the benefits his neighbors relied on then voted to kick thousands of Pennsylvanians off their health coverage. He broke his own pledge to ban congressional stock trading and bought a secret helicopter. The bottom line: he gets rich while he leaves NEPA behind and that's why they call him the Prince of Pennsylvania.
+
 <video
   src="https://streamable.com/l/ai3sox/mp4.mp4"
   type="video/mp4"
