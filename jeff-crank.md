@@ -2,13 +2,13 @@
 title: Jeff Crank (CO-05)
 description: 
 published: true
-date: 2026-08-11T18:01:59.894Z
+date: 2026-08-11T18:11:05.808Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T15:18:53.326Z
 ---
 
-**📺 - Click here for Notable Clips and Visuals**
+**📺 - Click here for Notable Clips and Visuals** 
 
 **Jeff Crank Opposed Extending ACA Premium Subsidies.** \[FOX 31 Colorado Point Of View 10/11/2025\]
 
@@ -34,7 +34,7 @@ Crank was a life-long political insider who was out-of-touch with the needs of e
 
 ### Crank Voted To Rip Health Coverage From Thousands Of Coloradans
 
--   Crank [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that would kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including nearly [12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off Medicaid. As a result of his vote, more than [23,000](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) of his own constituents were at risk of losing their health coverage. Crank ultimately called the bill a [“win for the American people.”](https://crank.house.gov/media/press-releases/rep-crank-votes-advance-one-big-beautiful-bill-president-trumps-desk)
+-   Crank [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that would kick [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including nearly [12 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off Medicaid. As a result of his vote, more than [23,000](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf) of his own constituents were at risk of losing their health coverage. Crank bragged he was the [“deciding vote”](https://soundcloud.com/abpac/jeff-crank-richard-randall-1/s-gcJNzNCSVk6?si=83c2760730494f03a2c367d6908a61f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) on the bill and ultimately called it a [“win for the American people.”](https://crank.house.gov/media/press-releases/rep-crank-votes-advance-one-big-beautiful-bill-president-trumps-desk)
 -   Crank also opposed extending the enhanced Affordable Care Act premium tax credits because he believed they were a [“band-aid on a gaping wound.”](https://www.kktv.com/2025/12/18/colorado-lawmakers-react-healthcare-subsidies-extension-headed-house-floor/) He [voted three times](https://www.coloradopols.com/diary/219993/the-health-care-vote-that-will-haunt-gabe-evans-and-friends) against extending the tax credits that helped Coloradans afford health insurance. As a result of Crank’s votes, Coloradans who relied on the ACA for health coverage faced [steep](https://www.cpr.org/2026/02/06/colorado-marketplace-insurance-plan-health-care-too-expensive/) [premium increases](https://www.9news.com/article/news/local/colorado-news/aca-enrollment-falls-less-than-predicted-colorado/73-425e91bc-b1b4-4a14-99ca-1c9e41c2b147).
 
 **Message:** Crank voted to rip away health care from thousands of Coloradans to give tax breaks to billionaires.
