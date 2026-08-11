@@ -2,44 +2,31 @@
 title: Jeff Crank (CO-05)
 description: 
 published: true
-date: 2026-07-30T21:28:08.945Z
+date: 2026-08-11T18:01:59.894Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T15:18:53.326Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
+**📺 - Click here for Notable Clips and Visuals**
 
-**Jeff Crank Opposed Extending ACA Premium Subsidies.** [FOX 31 Colorado Point Of View 10/11/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/83mxnb?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Jeff Crank Opposed Extending ACA Premium Subsidies.** \[FOX 31 Colorado Point Of View 10/11/2025\]
 
-**Jeff Crank Backed A Budget Plan Critics Said Would Lay The Groundwork For Medicaid And SNAP Cuts.** [FOX 21 News 03/05/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/spff3q?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Jeff Crank Backed A Budget Plan Critics Said Would Lay The Groundwork For Medicaid And SNAP Cuts.** \[FOX 21 News 03/05/2025\]
 
-**Jeff Crank Avoided In-Person Town Halls Despite Saying He "Welcomes Open Dialogue."** [KOAA News 5 04/30/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/lwrcwq?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Jeff Crank Avoided In-Person Town Halls Despite Saying He "Welcomes Open Dialogue."** \[KOAA News 5 04/30/2025\]
 
-**Jeff Crank Celebrated Defunding Planned Parenthood, Saying He Was "Proud" Of The Bill Passed.** [Jeff Crank Tele-Town Hall 07/22/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/v014q6?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Jeff Crank Celebrated Defunding Planned Parenthood, Saying He Was "Proud" Of The Bill Passed.** \[Jeff Crank Tele-Town Hall 07/22/2025\]
 
-**Jeff Crank Defended Texas' Heartbeat Bill, A Six-Week Abortion Ban.** [The Jeff Crank Show 09/04/2021]
-<div style="position:relative; width:100%; height:0px; padding-bottom:65.455%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/cy6r7b?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Jeff Crank Defended Texas' Heartbeat Bill, A Six-Week Abortion Ban.** \[The Jeff Crank Show 09/04/2021\]
 
-**Jeff Crank Compared The Risk Of Pregnancy To Getting Hit By A Car On The Way To Buy A Slurpee.** [The Jeff Crank Show 09/04/2021]
-<div style="position:relative; width:100%; height:0px; padding-bottom:65.455%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/sqjgim?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Jeff Crank Compared The Risk Of Pregnancy To Getting Hit By A Car On The Way To Buy A Slurpee.** \[The Jeff Crank Show 09/04/2021\]
 
-**Jeff Crank Compared Opposition To Abortion To Opposition To Rape.** [The Jeff Crank Show 10/02/2021]
-<div style="position:relative; width:100%; height:0px; padding-bottom:65.455%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/dvoi1e?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Jeff Crank Compared Opposition To Abortion To Opposition To Rape.** \[The Jeff Crank Show 10/02/2021\]
 
-**Virginia Giuffre's Family Called On Jeff Crank To Sign A Petition To Release The Epstein Files.** [KRDO 13 (ABC) 09/29/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/wtl3jq?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Virginia Giuffre's Family Called On Jeff Crank To Sign A Petition To Release The Epstein Files.** \[KRDO 13 (ABC) 09/29/2025\]
 
-**Jeff Crank "Did Not Commit" To Signing A Petition To Release The Epstein Files.** [KRDO 13 (ABC) 09/29/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/beoml5?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
-
-</details>
+**Jeff Crank "Did Not Commit" To Signing A Petition To Release The Epstein Files.** \[KRDO 13 (ABC) 09/29/2025\]
 
 # How To Win Against Jeff Crank
 
@@ -93,19 +80,19 @@ Crank was a life-long political insider who was out-of-touch with the needs of e
 # Issue Briefs
 
 ## Crank's Votes Hurt Everyday Coloradans
--    [🏥 *Crank Voted To Take Health Coverage From Coloradans*](/en/jeff-crank/health-care)
--    [👴 *Crank Voted For Medicare Cuts*](/en/jeff-crank/medicare)
--    [🥕 *Crank Voted To Take Food Assistance From Coloradans*](/en/jeff-crank/snap)
--    [🛒 *Crank Voted To Protect Tariffs That Amounted To A Tax Increase On Coloradans*](/en/jeff-crank/tariffs)
--    [❌ *Crank Supported An Agency That Hamstrung Social Security And Threatened Jobs In His District*](/en/jeff-crank/doge)
--    [👩 *Crank Opposed Protecting Coloradans' Reproductive Freedoms*](/en/jeff-crank/choice)
-- [🪖 *Crank Backed Trump's Costly War With Iran That Raised Prices On Coloradans*](/en/jeff-crank/crank-iran)
-{.links-list}
+
+-   [🏥 *Crank Voted To Take Health Coverage From Coloradans*](/en/jeff-crank/health-care)
+-   [👴 *Crank Voted For Medicare Cuts*](/en/jeff-crank/medicare)
+-   [🥕 *Crank Voted To Take Food Assistance From Coloradans*](/en/jeff-crank/snap)
+-   [🛒 *Crank Voted To Protect Tariffs That Amounted To A Tax Increase On Coloradans*](/en/jeff-crank/tariffs)
+-   [❌ *Crank Supported An Agency That Hamstrung Social Security And Threatened Jobs In His District*](/en/jeff-crank/doge)
+-   [👩 *Crank Opposed Protecting Coloradans' Reproductive Freedoms*](/en/jeff-crank/choice)
+-   [🪖 *Crank Backed Trump's Costly War With Iran That Raised Prices On Coloradans*](/en/jeff-crank/crank-iran)
 
 ## Crank Used His Power To Benefit The Powerful And Himself
--    [👀 *Despite Calling For Their Release, It Took Crank 11 Months To Vote To Release The Epstein Files*](/en/jeff-crank/epstein)
-{.links-list}
+
+-   [👀 *Despite Calling For Their Release, It Took Crank 11 Months To Vote To Release The Epstein Files*](/en/jeff-crank/epstein)
 
 # Key Votes
--    [✅ *Crank's Key Votes In Congress*](/en/jeff-crank/votes)
-{.links-list}
+
+-   [✅ *Crank's Key Votes In Congress*](/en/jeff-crank/votes)
