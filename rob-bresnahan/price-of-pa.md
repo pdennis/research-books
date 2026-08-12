@@ -1,8 +1,8 @@
 ---
-title: Rob Bresnahan: The Price of Pennsylvania
+title: Rob Bresnahan: The Prince of Pennsylvania
 description: 
 published: true
-date: 2026-08-11T14:19:15.960Z
+date: 2026-08-12T20:27:54.398Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T16:32:46.862Z
