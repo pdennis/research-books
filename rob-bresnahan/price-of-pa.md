@@ -2,7 +2,7 @@
 title: Rob Bresnahan: The Prince of Pennsylvania
 description: 
 published: true
-date: 2026-08-12T20:27:54.398Z
+date: 2026-08-12T20:28:16.642Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T16:32:46.862Z
