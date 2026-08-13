@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-08-13T20:03:45.742Z
+date: 2026-08-13T20:06:45.821Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -72,7 +72,7 @@ After urging Trump [not to run](https://www.washingtonexaminer.com/news/campaign
 
 - [:stethoscope:**Tafoya Cheered Cuts To Healthcare And Food Assistance For Minnesotans**](/michele-tafoya/OBBBA)
 
-Tafoya Complained About Fraud But Took Money From A Massive Fraudster
+- [:moneybag:**Tafoya Complained About Fraud But Took Money From A Massive Fraudster**](/michele-tafoya/fraud)
 
 Tafoya Backed Trump's Devastating Tariffs
 
