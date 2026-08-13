@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-08-13T19:59:22.986Z
+date: 2026-08-13T20:03:45.742Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -70,7 +70,7 @@ After urging Trump [not to run](https://www.washingtonexaminer.com/news/campaign
 
 - [:electric_plug:**Tafoya Embraced Deeply Unpopular Data Centers**](/michele-tafoya/data-centers)
 
-Tafoya Cheered Cuts To Healthcare And Food Assistance For Minnesotans
+- [:stethoscope:**Tafoya Cheered Cuts To Healthcare And Food Assistance For Minnesotans**](/michele-tafoya/OBBBA)
 
 Tafoya Complained About Fraud But Took Money From A Massive Fraudster
 
