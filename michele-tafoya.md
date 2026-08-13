@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-08-13T19:48:59.879Z
+date: 2026-08-13T19:56:05.637Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -66,7 +66,7 @@ After urging Trump [not to run](https://www.washingtonexaminer.com/news/campaign
 
 - [:bomb:**Tafoya Supported Trump's Costly War With Iran**](/michele-tafoya/Iran)
 
-Tafoya Backed Abortion Restrictions And The Overturning Of Roe V. Wade
+- [:pregnant_woman:**Tafoya Backed Abortion Restrictions And The Overturning Of Roe V. Wade**](/michele-tafoya/abortion)
 
 Tafoya Embraced Deeply Unpopular Data Centers
 
