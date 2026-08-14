@@ -2,7 +2,7 @@
 title: Rob Bresnahan: The Prince of Pennsylvania
 description: 
 published: true
-date: 2026-08-14T13:18:27.491Z
+date: 2026-08-14T13:22:44.161Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T16:32:46.862Z
@@ -21,7 +21,10 @@ Rob Bresnahan sold a blue-collar brand but governs like just another rich guy wh
 
 
 
-# [Rob Bresnahan Broke His Pledge To Ban Congressional Stock Trading](https://research-books.com/en/rob-bresnahan/bresnahan-stocks)
+# [Rob Bresnahan Broke His Pledge To Ban Congressional Stock Trading]
+- [:moneybag: Rob Bresnahan Broke His Pledge To Ban Congressional Stock Trading](https://research-books.com/en/rob-bresnahan/bresnahan-stocks)
+
+{.links-list}
 
 Before getting elected, Bresnahan [promised](https://www.republicanherald.com/2024/03/29/candidate-offers-policies-to-restore-trust-in-congress/) to end congressional stock trading, but after he got elected he became one of the [most prolific stock traders](https://www.nytimes.com/2025/04/05/us/politics/congress-stock-trading-ban.html) in the House. It took him [months](https://www.timesleader.com/news/1695841/rep-bresnahan-introduces-legislation-to-ban-stock-trade) to introduce his own stock trading ban despite one [already existing](https://www.nytimes.com/2025/04/05/us/politics/congress-stock-trading-ban.html) that he could have signed onto. When he was asked if he would just stop trading, he scoffed and suggested he would [“go broke”](https://www.wvia.org/news/local/2025-07-31/bresnahan-says-house-rules-thwart-plan-to-put-stock-other-investments-in-blind-trust) even though his net worth was [estimated](https://keystonenewsroom.com/2025/08/19/bresnahan-billionaire-donor-reveal/) to be up to $69 million. Bresnahan [promised](https://www.timesleader.com/news/1695841/rep-bresnahan-introduces-legislation-to-ban-stock-trades) that he would put his assets into a blind trust, then, after getting elected, claimed it was [hard](https://www.wvia.org/news/local/2025-07-31/bresnahan-says-house-rules-thwart-plan-to-put-stock-other-investments-in-blind-trust), and [wouldn’t say](https://www.wsj.com/politics/policy/lawmakers-congress-stock-trading-ban-3a93dc59) whether he would follow through on his promise.
 
