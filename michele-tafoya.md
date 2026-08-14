@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-08-14T18:41:03.571Z
+date: 2026-08-14T19:36:15.488Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -63,8 +63,6 @@ After urging Trump [not to run](https://www.washingtonexaminer.com/news/campaign
 # ISSUE BACK-UPS
 
 ## Michele Tafoya
-
-
 
 [**Tafoya Supported Trump's Costly War With Iran**](/michele-tafoya/Iran)
 
