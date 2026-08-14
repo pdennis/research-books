@@ -2,7 +2,7 @@
 title: Rob Bresnahan: The Prince of Pennsylvania
 description: 
 published: true
-date: 2026-08-14T13:22:44.161Z
+date: 2026-08-14T13:22:54.138Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-07T16:32:46.862Z
@@ -21,7 +21,7 @@ Rob Bresnahan sold a blue-collar brand but governs like just another rich guy wh
 
 
 
-# [Rob Bresnahan Broke His Pledge To Ban Congressional Stock Trading]
+# Rob Bresnahan Broke His Pledge To Ban Congressional Stock Trading
 - [:moneybag: Rob Bresnahan Broke His Pledge To Ban Congressional Stock Trading](https://research-books.com/en/rob-bresnahan/bresnahan-stocks)
 
 {.links-list}
