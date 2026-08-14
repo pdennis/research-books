@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-08-14T17:52:43.207Z
+date: 2026-08-14T18:41:03.571Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -78,7 +78,7 @@ After urging Trump [not to run](https://www.washingtonexaminer.com/news/campaign
 
 [**Tafoya Backed Trump's Devastating Tariffs**](/michele-tafoya/tariffs)
 
-[**Tafoya Supported Mining Near Minnesota's Precious Boundary Waters**](/michele-tafoya/fraud)
+[**Tafoya Supported Mining Near Minnesota's Precious Boundary Waters**](/michele-tafoya/Boundary-Waters)
 
 [**Tafoya Sucked Up To Trump And Towed The MAGA Line**](/michele-tafoya/Trump)
 
