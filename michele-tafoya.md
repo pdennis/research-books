@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-08-14T17:51:22.103Z
+date: 2026-08-14T17:52:43.207Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -64,34 +64,22 @@ After urging Trump [not to run](https://www.washingtonexaminer.com/news/campaign
 
 ## Michele Tafoya
 
-![💣](/_assets/svg/twemoji/1f4a3.svg)
+
 
 [**Tafoya Supported Trump's Costly War With Iran**](/michele-tafoya/Iran)
 
-![🤰](/_assets/svg/twemoji/1f930.svg)
-
 [**Tafoya Backed Abortion Restrictions And The Overturning Of Roe V. Wade**](/michele-tafoya/abortion)
-
-![🔌](/_assets/svg/twemoji/1f50c.svg)
 
 [**Tafoya Embraced Deeply Unpopular Data Centers**](/michele-tafoya/data-centers)
 
-![🩺](/_assets/svg/twemoji/1fa7a.svg)
-
 [**Tafoya Cheered Cuts To Healthcare And Food Assistance For Minnesotans**](/michele-tafoya/OBBBA)
-
-![💰](/_assets/svg/twemoji/1f4b0.svg)
 
 [**Tafoya Complained About Fraud But Took Money From A Massive Fraudster**](/michele-tafoya/fraud)
 
-![🌐](/_assets/svg/twemoji/1f310.svg)
-
 [**Tafoya Backed Trump's Devastating Tariffs**](/michele-tafoya/tariffs)
-
-![⚒️](/_assets/svg/twemoji/2692.svg)
 
 [**Tafoya Supported Mining Near Minnesota's Precious Boundary Waters**](/michele-tafoya/fraud)
 
-![🙇‍♀️](/_assets/svg/twemoji/1f647-200d-2640-fe0f.svg)
-
 [**Tafoya Sucked Up To Trump And Towed The MAGA Line**](/michele-tafoya/Trump)
+
+{.links-list}
