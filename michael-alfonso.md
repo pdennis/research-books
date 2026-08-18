@@ -2,7 +2,7 @@
 title: Michael Alfonso
 description: 
 published: true
-date: 2026-08-18T21:13:51.429Z
+date: 2026-08-18T21:24:15.323Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-18T16:22:31.905Z
@@ -17,7 +17,6 @@ Michael Alfonso is a nepo baby who thinks he can use his connections to his fath
 - [:older_man: *Alfonso Supported Policies That Put Services Wisconsin Seniors Relied On At Risk*](https://research-books.com/en/michael-alfonso/seniors)
 - [:carrot: *Alfonso Supported Efforts To Take Food Assistance From Wisconsinites*](https://research-books.com/en/michael-alfonso/snap)
 - [:shopping_cart: *Alfonso Supported Tariffs That Raised Prices On Wisconsinites*](https://research-books.com/en/michael-alfonso/tariffs)
-- [:x: *Alfonso Supported An Agency That Laid Off Federal Workers And Hamstrung Social Security*](https://research-books.com/en/michael-alfonso/doge)
 - [🪖 *Alfonso Backed Trump's Costly War With Iran That Raised Prices On Wisconsinites*](/en/michael-alfonso/iran)
 {.links-list}
 
