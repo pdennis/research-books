@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-06-18T15:44:25.780Z
+date: 2026-08-18T21:08:52.919Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -157,5 +157,5 @@ Hyde-Smith betrayed Mississippians by cutting their healthcare, SNAP benefits, s
 
 -   [:police_car:Hyde-Smith Campaigned With A Sheriff Whose Office Contained An Alleged “Goon Squad”](/mississippi-senate/Cindy-Hyde-Smith/goon-squad)
 
--   [:dollar:Hyde-Smith Voted To Protect Her Stock Portfolio_](/mississippi-senate/Cindy-Hyde-Smith/stocks)
+-   [:dollar:Hyde-Smith Voted To Protect Her Stock Portfolio](/mississippi-senate/Cindy-Hyde-Smith/stocks)
 {.links-list}
