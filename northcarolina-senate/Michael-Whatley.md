@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-06-18T18:57:34.985Z
+date: 2026-08-18T20:44:25.697Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -82,7 +82,7 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 ### Whatley Was A DC Insider And Lobbyist 
 
 -   Whatley was a big [oil lobbyist](https://apnews.com/article/republican-national-committee-whatley-trump-mcdaniel-b0c1714ac648bfa91b6ee72a30278266) who spent his time representing big oil across the country. Whatley led an [special interest funded organization](https://www.huffingtonpost.co.uk/entry/bp-shell-climate_n_5f6e3120c5b64deddeed6762) that launched several [astroturfing campaigns](https://www.salon.com/2011/12/15/big_oil_and_canada_thwarted_u_s_carbon_standards/) and used [deceitful](https://apnews.com/article/republican-national-committee-whatley-trump-mcdaniel-b0c1714ac648bfa91b6ee72a30278266) [tactics](https://captimes.com/news/local/writers/mike_ivey/did-houston-energy-group-dupe-mge-customers-to-back-rate-changes/article_fbe07fa3-c487-5eff-84a7-72d502c842cd.html) to trick people into supporting the organization’s pro-big money causes.
--   Despite running for Senate in North Carolina, Whatley’s LinkedIn still listed [D.C](https://www.wilsontimes.com/columns/michael-whatleys-pseudo-populist-campaign-cdb1621c/). as his location of employment and held his [Senate kickoff](https://www.nationalreview.com/corner/rnc-chairman-michael-whatley-to-hold-senate-campaign-kickoff-in-d-c-september-12/) in Washington D.C. Whatley was [handpicked](https://www.axios.com/2025/07/25/john-thune-michael-whatley-nc-senate-visit-campaign) by DC politicians.
+-   Despite running for Senate in North Carolina, Whatley’s LinkedIn listed [D.C](https://www.wilsontimes.com/columns/michael-whatleys-pseudo-populist-campaign-cdb1621c/). as his location of employment and held his [Senate kickoff](https://www.nationalreview.com/corner/rnc-chairman-michael-whatley-to-hold-senate-campaign-kickoff-in-d-c-september-12/) in Washington D.C. Whatley was [handpicked](https://www.axios.com/2025/07/25/john-thune-michael-whatley-nc-senate-visit-campaign) by DC politicians. Despite being a lobbyist for over a decade, Whatley didn't [share](https://spectrumlocalnews.com/nc/charlotte/news/2026/08/14/michael-whatley-roy-cooper-senate) that he was a lobbyist in his campaign bio or website. 
 
 **Message:** Whatley was a DC insider and big oil lobbyist that spent his career delivering for special interests and DC politicians instead of North Carolinians. 
 
