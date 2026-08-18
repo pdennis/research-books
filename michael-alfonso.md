@@ -2,16 +2,17 @@
 title: Michael Alfonso
 description: 
 published: true
-date: 2026-08-18T16:22:31.905Z
+date: 2026-08-18T18:37:53.938Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-18T16:22:31.905Z
 ---
 
-Bryan Steil is an extreme MAGA-loyalist who voted to rip away health care and food assistance away from his own constituents. He even opposed lowering the cost of prescription drugs to help Wisconsinites afford medications. While taking away health care from his constituents, he was also breaking promises he made them. He promised he would protect Medicare, but voted for the Republican budget bill that would trigger cuts to Medicare. He promised he would protect Social Security benefits for his constituents, but sat idly by while Donald Trump and DOGE weakened the Social Security Administration. He also showed bad judgement when he doubled down on his decision to hire a former Trump staffer who was involved in trying to overturn the 2020 presidential election. Steil has proven to be an untrustworthy representative for the people of Wisconsin’s first congressional district.
+Michael Alfonso is a nepo baby who thinks he can use his connections to his father-in-law, Transportation Secretary Sean Duffy, to buy his seat in Congress. Much like his father-in-law, Alfonso will do everything in his power to advance Trump’s dangerous agenda that cut healthcare, cut food assistance, and raised costs for Wisconsinites. When tariffs raised costs on Wisconsin dairy and ginseng farmers, Alfonso thanked Trump and called the tariffs a “win.” Despite a slew of endorsements from  Trump administration officials, such as President Trump, Secretary Markwayne Mullin, and Speaker Mike Johnson, Alfonso’s campaign has proved it wasn’t as polished as it seemed. When Alfonso’s old Venmo payments with descriptions for “the strippers” and “high supplies” were revealed, Alfonso’s so-called catholic values were called into question. It also came to light that Alfonso didn’t even have a job and was registered to vote at Secretary Sean Duffy’s address. Alfonso isn’t ready for Congress, and he clearly isn’t right for Wisconsin. 
 
 
-### **Steil Voted To Rip Health Insurance Away From Wisconsinites Who Relied On Medicaid**
+
+### **Alfonso Voted To Rip Health Insurance Away From Wisconsinites Who Relied On Medicaid**
 - Steil [_voted_](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that would kick [_17 million Americans_](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance, including nearly [_12 million Americans_](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off of Medicaid. As a result of his vote, [_32,339_](https://www.jec.senate.gov/public/_cache/files/9cfdee90-dd29-41e8-97da-b5dcdc0317cf/updated-jec-fact-sheet-on-district-level-impacts-of-health-care-cuts.pdf)  of his own constituents could lose their health insurance. Steil told voters his vote for the “One Big Beautiful Bill” would [_“strengthen”_](https://x.com/RepBryanSteil/status/1940841777604579717?s=20) Medicaid rather than admit his vote significantly cut the program. 
 - Steil believed the Affordable Care Act had [_“failed,”_](https://x.com/BryanSteil/status/1054895347280080897?s=20)  even though the Affordable Care Act [_dramatically lowered_](https://www.cbpp.org/research/health/medicaid-expansion-frequently-asked-questions-0) the rate of uninsured low-income workers. He also voted against renewing enhanced ACA premium tax credits, which an estimated [_271,589 Wisconsinites relied on_](https://www.kff.org/affordable-care-act/state-indicator/average-monthly-advance-premium-tax-credit-aptc/?currentTimeframe=0&selectedRows=%7B%22states%22:%7B%22wisconsin%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) to afford health insurance. 
 
