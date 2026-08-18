@@ -2,7 +2,7 @@
 title: Michael Alfonso
 description: 
 published: true
-date: 2026-08-18T21:24:22.370Z
+date: 2026-08-18T22:07:57.081Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-18T16:22:31.905Z
@@ -23,5 +23,5 @@ Michael Alfonso is a nepo baby who thinks he can use his connections to his fath
 ## Not Ready For Primetime
 - [:baby: *Alfonso Was A Nepo Baby Who Benefitted From His Powerful Connections*](https://research-books.com/en/michael-alfonso/alfonso-nepo){.links-list}
 - [:eyes:*Alfonso Ran On Christian Values, But His Venmo History Said Otherwise*](https://research-books.com/michael-alfonso/alfonso-venmo) {.links-list}
-- [:briefcase: *Alfonso Didn't Have A Job*](https://research-books.com/en/michael-alfonso/alfonso-job)
+- [:briefcase: *Florida Man Alfonso Didn't Have A Job Or His Own Wisconsin Address To Vote From*](https://research-books.com/en/michael-alfonso/alfonso-job)
 {.links-list}
