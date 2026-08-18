@@ -2,7 +2,7 @@
 title: House Races In Wisconsin
 description: 
 published: true
-date: 2026-06-23T13:30:57.973Z
+date: 2026-08-18T15:24:02.135Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T13:49:56.246Z
@@ -17,7 +17,11 @@ dateCreated: 2025-06-03T13:49:56.246Z
 {.links-list}
 
 ## WI-06
-- [:elephant:***Glenn Grothman***](/glenn-grothman) Wisconsin Republican who represents the congressional districti with most manufacturing jobs, but full endorsed the tariffs that decimated those jobs and raised prices.
+- [:elephant:***Glenn Grothman***](/glenn-grothman) Wisconsin Republican who represents the congressional district with most manufacturing jobs, but full endorsed the tariffs that decimated those jobs and raised prices.
+{.links-list}
+
+## WI-07
+- [:elephant:***Michael Alfonso***](/michael-alfonso) Wisconsin Republican who thinks he can use nepotism to buy a seat in Congress. His policies raised eyebrows as they push Trump's dangerous agenda forward.
 {.links-list}
 
 ## WI-08
