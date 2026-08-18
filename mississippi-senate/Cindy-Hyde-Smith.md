@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-08-18T21:08:52.919Z
+date: 2026-08-18T21:22:22.316Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -85,7 +85,7 @@ Hyde-Smith betrayed Mississippians by cutting their healthcare, SNAP benefits, s
 ### **Hyde-Smith Opposed Access To Affordable Healthcare**
 
 -   Hyde-Smith [_repeatedly_](http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&session=2&vote=00325) [_opposed_](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00644.htm) the Affordable Care Act premium subsidies and [_dismissed_](https://www.hydesmith.senate.gov/hyde-smith-appeals-legitimate-cooperation-fix-unaffordable-fraud-plagued-obamacare) Mississippians who faced increased healthcare costs.
--   200,000 Mississippi residents were projected to [_drop their insurance_](https://www.wlbt.com/2025/12/27/aca-subsidies-set-expire-driving-up-insurance-costs-mississippi-residents/) without the Affordable Care Act premium subsidies and health insurance costs in Mississippi [_increased by 41%_](https://www.wlbt.com/2025/12/27/aca-subsidies-set-expire-driving-up-insurance-costs-mississippi-residents/).
+-   200,000 Mississippi residents were projected to [_drop their insurance_](https://www.wlbt.com/2025/12/27/aca-subsidies-set-expire-driving-up-insurance-costs-mississippi-residents/) without the Affordable Care Act premium subsidies and health insurance costs in Mississippi [_increased by 41%_](https://www.wlbt.com/2025/12/27/aca-subsidies-set-expire-driving-up-insurance-costs-mississippi-residents/). Mississippi's Insurance Commissioner confirmed that [over 200,000](https://www.wlbt.com/2026/08/18/mississippi-weighs-three-year-short-term-health-plan-coverage-drops/?utm_campaign=snd-autopilot&utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=wlbt) Mississippians left the ACA as of August 2026. 
 -   Hyde-Smith [_supported_](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm) the GOP’s Big Beautiful Bill; the Senator [_praised_](https://x.com/cindyhydesmith/status/1943478066317070524) the damaging legislation and [_downplayed_](https://www.hydesmith.senate.gov/one-big-beautiful-bill?fbclid=IwY2xjawRafXlleHRuA2FlbQIxMABicmlkETFRWGpnT1E0bzY3YVkwcDltc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtdEREgbNdJjtBUkF3eajaUO6s-knqoHHQnOJik3KAWi46-f_JEzJtnkwuIe_aem_PczwKypR5ry3dUwbmmK-xA) the Medicaid cuts contained therein.
 -   Six rural Mississippi hospitals were [_at risk of closure_](https://www.clarionledger.com/story/news/2026/04/14/6-mississippi-hospitals-are-at-risk-of-closing-due-to-medicaid-cuts/89609149007/) from the Big Beautiful Bill’s Medicaid cuts and Mississippi hospitals were projected to [_lose $1 billion_](https://mississippitoday.org/2026/04/21/mississippi-lawmakers-health-care/). 115,000 Mississippians expected to [_lose their healthcare benefits_](https://www.mississippifreepress.org/thousands-in-mississippians-could-lose-medicaid-chip-coverage-under-trumps-big-beautiful-bill/) under the Big Beautiful Bill and healthcare enrollment rates [_dropped by 8%_](https://mississippitoday.org/2026/04/21/mississippi-lawmakers-health-care/).
 
