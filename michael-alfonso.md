@@ -2,7 +2,7 @@
 title: Michael Alfonso
 description: 
 published: true
-date: 2026-08-18T18:42:32.612Z
+date: 2026-08-18T21:13:51.429Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-18T16:22:31.905Z
