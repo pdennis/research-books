@@ -2,13 +2,39 @@
 title: Mike Flood (NE-01)
 description: 
 published: true
-date: 2026-07-29T19:22:40.144Z
+date: 2026-08-19T18:57:13.684Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:58:36.642Z
 ---
 
 # How To Win Against Mike Flood
+<details>
+<summary><strong>📺 - Click here for Notable Clips and Visuals
+  </strong></summary>
+
+**Mike Flood Dodged Questions About His Vote On Medicaid As Constituents Called Him Out For Not Answering.** [KLKN (ABC) 07/28/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/llqr7d?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Flood Faced Protests Over Steep Cuts To SNAP, Medicaid, And Health Insurance Assistance.** [KLKN (ABC) 07/28/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/3xyxww?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Flood Said Americans "Shouldn't Expect Free Health Care" While Defending The One Big Beautiful Bill.** [CSPAN: Washington Journal 07/21/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:75.000%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/4uxw1o?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Flood Defended Medicaid Cuts As "Common Sense Changes."** [Brian Fitzpatrick Politico Economy Summit 03/25/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:55.625%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/jloyxg?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Mike Flood Defended SNAP Restrictions By Saying "We Do Not Have Unlimited Money."** [KETV (ABC) 07/07/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/v3030g?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Constituent Anger "Boiled Over" At Mike Flood's Town Hall Over Medicaid Cuts And Other Policies.** [KLKN (ABC) 07/28/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/atc6ka?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+**Constituent Confronted Mike Flood Over Unaffordable Health Care, Gas, And Everyday Costs.** [MS NOW 05/27/2026]
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ppqqw8?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+</details>
 
 Mike Flood was a career politician who has spent his time in congress making life more expensive for Nebraskans. He voted to take away Nebraskans health coverage and food assistance to give tax breaks to the super rich and admitted he didn’t read the bill that did so in its entirety. He opposed a bill that lowered prescription drug costs and capped insulin costs for seniors. He supported tariffs that are making life harder and more expensive for Nebraskans, farmers, and manufacturers. He also pushed extreme anti-choice policies that put Nebraska women at-risk. Nebraskans in the first congressional district deserve a representative who will stand up for them. 
 
