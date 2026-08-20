@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-08-20T15:47:14.960Z
+date: 2026-08-20T16:03:45.726Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -57,6 +57,12 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 
 **Message:** Rick Jackson repeatedly undermined the 2020 election results.
 
+### Rick Jackson Ran As An Immigration Hardliner While His Company Settled A Lawsuit For Allegedly Trafficking Foreign Nurses
+
+- Despite running as an [immigration hardliner](https://www.cnn.com/2026/08/20/politics/rick-jackson-immigration-georgia-governor) and calling for immigrants to be [“deported or departed,”](https://www.theguardian.com/us-news/2026/apr/13/rick-jackson-georgia-anti-immigration-ads) Rick Jackson’s healthcare company, Avant Healthcare Professionals, agreed to a [$3 million settlement](https://www.cnn.com/2026/08/20/politics/rick-jackson-immigration-georgia-governor) with current and former foreign workers for allegedly trafficking foreign nurses. Since 2023, Avant faced a lawsuit from hired foreign nurses for allegedly violating the [Trafficking Victims Protection Act and the Fair Labor Standards Act,](https://www.cnn.com/2026/08/20/politics/rick-jackson-immigration-georgia-governor) claiming the company threatened to report foreign nurses to [U.S. immigration officials](https://dailycaller.com/2026/03/17/georgia-2026-midterms-foreign-nurses-h1b-rick-jackson-healthcare-burt-jones/) if they quit or breached their contracts. The foreign nurses argued working for Avant was [“essentially indentured servitude”](https://dailycaller.com/2026/03/17/georgia-2026-midterms-foreign-nurses-h1b-rick-jackson-healthcare-burt-jones/) and claimed the suit was about [labor trafficking and its impact on the workforce.](https://dailycaller.com/2026/03/17/georgia-2026-midterms-foreign-nurses-h1b-rick-jackson-healthcare-burt-jones/)
+
+**Message:** Rick Jackson promoted an anti-immigrant platform while his company was sued for allegedly trafficking foreign workers.
+
 ### Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses
 
 -   Since 2020, Rick Jackson's healthcare company received [more than $1 billion](https://www.ajc.com/politics/2026/03/rick-jackson-promises-to-unwind-his-companys-state-contracts-if-elected/) from [Georgia's government agencies.](https://www.healthbeat.org/atlanta/2026/02/27/rick-jackson-georgia-governor-state-contracts/) Jackson also reported [more than $930 million](https://www.ajc.com/politics/2026/04/the-wealth-divide-defining-georgias-governors-race/) in state-linked transactions since 2021. In July 2026, Jackson [signed](https://www.11alive.com/article/news/politics/despite-pledge-to-unwind-his-business-rick-jackson-extends-a-state-contract/85-a5f60239-1e77-42b7-afba-e38d4a93b991) a new state contract worth millions for his company Locum Tenens to provide services through mid-2027 [despite](https://www.11alive.com/article/news/politics/despite-pledge-to-unwind-his-business-rick-jackson-extends-a-state-contract/85-a5f60239-1e77-42b7-afba-e38d4a93b991) Jackson's pledge to “unwind” his state contracts if elected governor. 
@@ -91,6 +97,7 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 - [:x: | **Rick Jackson Won’t Protect Georgia’s Critical Services, Jobs, Or Nonprofits From DOGE**](/GA-Gov/rick-jackson/jackson-doge)
 - [:woman: | **Rick Jackson Was An Anti-Abortion Extremist**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-abortion)
 - [:ballot_box: | **Rick Jackson Repeatedly Undermined The 2020 Election**](/GA-Gov/rick-jackson/jackson-voting)
+- [:earth_asia: | **Rick Jackson Ran As An Immigration Hardliner While His Company Settled A Lawsuit For Allegedly Trafficking Foreign Nurses**](/GA-Gov/rick-jackson/jackson-immigration)
 {.links-list}
 
 ## Rick Jackson Used His Wealth To Make Himself More Powerful 
