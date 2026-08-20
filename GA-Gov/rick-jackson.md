@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-08-20T15:15:15.104Z
+date: 2026-08-20T15:47:14.960Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -35,7 +35,7 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 
 ### Rick Jackson Won’t Protect Georgia’s Critical Services, Jobs, Or Nonprofits From DOGE
 
-- In April 2026, Rick Jackson [claimed he liked DOGE](https://youtu.be/JVU2gP2qtcI) for evaluating government efficiency when asked what government services he would cut to fund his tax cut proposals. Jackson’s praise of DOGE came after Trump’s DOGE canceled grants worth [hundreds of millions of dollars](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) for public health, nonprofits, [universities,](https://www.ledger-enquirer.com/news/local/education/article310470800.html) and critical services across Georgia. Trump’s DOGE also threatened the livelihoods of [115,600 federal workers](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) in Georgia, fired more than [2,300 Atlanta-based CDC employees,](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) and closed five Georgia Social Security offices in 2025. 
+- In 2026, Rick Jackson [claimed he liked DOGE](https://youtu.be/JVU2gP2qtcI) for evaluating government efficiency when asked what government services he would cut to fund his tax cut proposals. He also said he would [“not apologize”](https://soundcloud.com/abpac/rick-jackson-albany-campaign/s-629OsPDdCgA?si=d08830f2e4fb4922874cdc0b5671fdc4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) for liking DOGE initiatives and proposed his own version in which he would evaluate every state department. Jackson’s praise of DOGE came after Trump’s DOGE canceled grants worth [hundreds of millions of dollars](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) for public health, nonprofits, [universities,](https://www.ledger-enquirer.com/news/local/education/article310470800.html) and critical services across Georgia. Trump’s DOGE also threatened the livelihoods of [115,600 federal workers](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) in Georgia, fired more than [2,300 Atlanta-based CDC employees,](https://pro.stateaffairs.com/ga/politics/georgia-doge-federal-cuts) and closed five Georgia Social Security offices in 2025. 
 
 **Message:** Rick Jackson backed DOGE even as Georgians lost their jobs and critical services were cut.
 
