@@ -2,7 +2,7 @@
 title: Jon Husted
 description: 
 published: true
-date: 2026-08-21T20:01:42.165Z
+date: 2026-08-21T20:12:14.341Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T18:04:10.787Z
@@ -13,6 +13,12 @@ dateCreated: 2025-12-23T18:04:10.787Z
 # How To Win Against Jon Husted
 
 In his short time as Senator, Husted has championed policies that have hurt Ohio families, damaged Ohio’s economy and set America back. Husted voted for legislation that was set to kick Ohioans off their healthcare, ripped food assistance from families and slashed energy credits which was supporting Ohio’s economy. On top of voting for the legislation, he was advocating for deeper cuts. Instead of protecting Ohioan’s healthcare, he allowed necessary subsidies to expire which was set to spike Ohio families insurance premiums. Despite Ohio voting to protect abortion access, Husted continued to attack women’s rights and even started undermining safe medication like mifepristone. To make matters worse, Husted was caught up in Ohio’s largest corruption scandal. Husted helped push through legislation that provided a bailout to FirstEnergy who were bribing officials. Husted seemed more interested in standing up for the DC swamp and corporations than the hard working citizens of Ohio.
+
+### Husted Supported Data Centers That Increased Costs For Ohioans
+
+While data centers in Ohio [cost](https://signalohio.org/ohio-data-center-tax-break-cost-1-4-billion-more-than-expected-in-2025/) taxpayers up to $1.6 billion, Jon Husted [backed](https://www.datacenterdynamics.com/en/news/google-to-invest-23bn-in-ohio-data-centers/?utm_source=chatgpt.com) them and filled his pockets with their [money](https://tiffinohio.net/posts/husted-took-70k-from-data-center-power-interests-after-defending-google-tax/). Husted also supported giving [tax breaks](https://www.cleveland.com/news/2026/07/jon-husted-says-he-wants-to-protect-you-from-data-centers-but-hes-the-one-who-invited-them-in.html) to data center owners such as Amazon and Google. And when Ohioans [suffered](https://ohiocapitaljournal.com/2026/07/07/ohios-summer-electric-bills-could-top-800-report-says/), he blamed them for the negative impact data centers had and said, “look in the [mirror](https://youtu.be/NsXgasSanl0).”
+
+**Message:** Jon Husted doesn't care about everyday Ohioans. His only concerns are his own pockets and big tech’s.
 
 ### Husted Voted For Devastating Health Care Cuts
 
