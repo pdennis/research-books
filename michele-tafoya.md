@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-08-14T19:36:15.488Z
+date: 2026-08-21T15:57:16.604Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -59,6 +59,11 @@ When Representative Pete Stauber [lifted a ban](https://stauber.house.gov/media/
 After urging Trump [not to run](https://www.washingtonexaminer.com/news/campaigns/congressional/4356969/michele-tafoya-minnesota-senate-bid-trump-criticism/) for President again in 2022, Tafoya swung like a weathervane into full Trump loyalist mode. Tafoya began exalting Trump, saying she was “[wrong](https://www.washingtonexaminer.com/news/campaigns/congressional/4356969/michele-tafoya-minnesota-senate-bid-trump-criticism/)” to criticize him. After she embarked on her run for US Senate, Tafoya [spoke glowingly](https://www.foxnews.com/politics/ex-nfl-reporter-launches-gop-senate-bid-reveals-how-she-will-flip-script-crisis-leadership) about the prospect of receiving his endorsement. She [applauded](https://www.washingtonexaminer.com/news/campaigns/congressional/4356969/michele-tafoya-minnesota-senate-bid-trump-criticism/) his administration's “accomplishments” and [stood with Trump](https://micheletafoya.com/issues/) in support of his brutal immigration crackdown. She even [hedged](https://www.startribune.com/mn-republican-senate-candidates-trump-save-act-filibuster-tafoya-schwarze-white/601870205) on whether Trump or Biden won the 2020 election.
 
 **Message:** Tafoya would be another loyal MAGA foot soldier, not an independent thinker for Minnesotans.
+
+### Tafoya Hated Minnesota
+Tafoya repeatedly insulted Minnesota, and made it clear that she did not want to be there. Tafoya said that she would be "[fleeing](https://x.com/Michele_Tafoya/status/1823013976453607805)" Minnesota soon. Tafoya also called Minnesota a "[provincial](https://www.youtube.com/watch?v=NnUS56RoM18)" state. Tafoya even said "[the last people I'm going to answer to are the Minnesotans who send me there](https://www.youtube.com/watch?v=K99M-9gxHEQ)."
+
+**Message:** Tafoya, a native Californian, cannot be trusted to serve a state that she clearly hates. 
 
 # ISSUE BACK-UPS
 
