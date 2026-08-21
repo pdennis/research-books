@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-08-04T22:19:36.366Z
+date: 2026-08-21T16:27:06.161Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -99,13 +99,19 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 **Message:** Biggs would worsen workplace conditions for Arizonans as he sided with corporate profits over worker safety.
 
-### **BIGGS VOTED TO RELEASE THE EPSTEIN FILES AFTER 11 MONTHS, ONLY BECAUSE TRUMP FINALLY APPROVED OF THE RELEASE**
+### **Biggs Repeatedly Worked To Protect Child Sexual Predators Rather Than Protecting Children**
 
-- It took Biggs 11 months to [vote](http://clerk.house.gov/evs/2025/roll289.xml) for the release of the Epstein files, only after [Trump](https://www.npr.org/2025/11/16/nx-s1-5610552/trump-house-republicans-epstein-files) told House Republicans he approved of the release.
+- Biggs opposed legislation protecting children from sexual predators and vote to protect accused pedophiles in the Epstein files.
+
+- In 2013, as the Arizona State Senate President, Biggs [blocked a vote](https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg0NTIwMDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg1OTAyMzk5LCJpYXQiOjE3ODQ1MjAwMDAsImp0aSI6ImE2ZDNlNjE0LTIyMDItNDA4Yy04OGI3LTUxZDRjZDFkZTg3ZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNi8wNy8yMC9zbWFsbC10b3duLWZpZ2h0LW92ZXItY29ycnVwdGlvbi1hYnVzZS1jb3VsZC1oYXVudC1jYW5kaWRhdGUtYXJpem9uYS1nb3Zlcm5vci8ifQ.8KYe7KVwXf58jJ1sb_NE4FenTy5fIWUn2REojHz7KgU) to disband the marshal's office that protected the Fundamentalist Church of Jesus Christ of Latter-day Saints' (FLDS) practices of polygamy and child marriages in the twin cities of Hildale and Colorado City. Former leaders of the FLDS included convicted child predators Warren Jeffs and Samuel Bateman. Biggs later defended his opposition to the bill, saying he was [“'not sure we ever got to' the conclusion that the marshal's office was fully corrupt.”](https://www.washingtonpost.com/nation/2026/07/20/small-town-fight-over-corruption-abuse-could-haunt-candidate-arizona-governor/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg0NTIwMDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg1OTAyMzk5LCJpYXQiOjE3ODQ1MjAwMDAsImp0aSI6ImE2ZDNlNjE0LTIyMDItNDA4Yy04OGI3LTUxZDRjZDFkZTg3ZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNi8wNy8yMC9zbWFsbC10b3duLWZpZ2h0LW92ZXItY29ycnVwdGlvbi1hYnVzZS1jb3VsZC1oYXVudC1jYW5kaWRhdGUtYXJpem9uYS1nb3Zlcm5vci8ifQ.8KYe7KVwXf58jJ1sb_NE4FenTy5fIWUn2REojHz7KgU)
+
+- In 2007, as a member of the Arizona House Natural Resources and Public Safety Committee, Biggs [voted against](https://meidasnews.com/news/andy-biggs-bizarre-history-of-protecting-child-predators-comes-to-light) increasing penalties for child prostitution and eliminating the defense that the defendant did not know the age of the minor. Biggs said the bill was intended [“to make a political point rather than advance good policy.”](https://www.azfamily.com/2026/08/18/hobbs-allies-accuse-biggs-bizarre-history-protecting-child-predators/)
+
+- In 2025, it took Biggs 11 months to [vote](http://clerk.house.gov/evs/2025/roll289.xml) for the release of the Epstein files, only after [Trump](https://www.npr.org/2025/11/16/nx-s1-5610552/trump-house-republicans-epstein-files) told House Republicans he approved of the release.
 
 - Biggs [touted](https://x.com/RepAndyBiggsAZ/status/1990943599891218510) his vote for the release of the Epstein files, defending Trump and claiming he supported transparency, but he never signed the discharge petition, never co-sponsored the legislation, and previously voted against the release of the files. In [July](https://clerk.house.gov/evs/2025/roll194.xml) and [September 2025,](http://clerk.house.gov/evs/2025/roll222.xml) Biggs cast the deciding votes against [releasing the Epstein files](https://www.axios.com/2025/07/15/epstein-house-democrats-republicans-trump-doj), protecting the accused pedophiles named within them.
 
-**Message:** Despite previously voting against releasing the Epstein files, Biggs ultimately voted for the release of the Epstein files only because Trump approved of the release.
+**Message:** Biggs repeatedly opposed efforts to strengthen protections for children, instead choosing to protect child sexual predators, including those in the Epstein files.
 
 ### **Biggs Helped Plan The January 6th Insurrection And Had Ties To Far-Right Extremist Groups**
 
@@ -135,7 +141,7 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 ## Andy Biggs Used His Power To Benefit The Powerful
 -   [:hammer: ***Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA***](/en/AZ-Gov/Andy-Biggs/biggs-osha)
--   [:eyes: ***Biggs Waited 11 Months To Vote For Releasing The Epstein Files, Only After Trump Approved***](/en/AZ-Gov/Andy-Biggs/biggs-epstein)
+-   [:eyes: ***Biggs Repeatedly Worked To Protect Child Sexual Predators Rather Than Protecting Children***](/en/AZ-Gov/Andy-Biggs/biggs-epstein)
 - [:sos: ***Biggs Helped Plan The January 6th Insurrection And Had Ties To Far-Right Extremist Groups***](/en/AZ-Gov/Andy-Biggs/biggs-extremism)
 {.links-list}
 
