@@ -2,7 +2,7 @@
 title: Jon Husted
 description: 
 published: true
-date: 2026-05-19T21:53:52.350Z
+date: 2026-08-21T20:01:42.165Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T18:04:10.787Z
@@ -67,6 +67,9 @@ Husted [_defended_](https://www.newsandsentinel.com/news/local-news/2026/03/west
 # Issue Back-Ups
 
 ## Jon Husted Supported Policies That Hurt Ohio
+
+-   [:computer: **Husted Supported Data Centers That Increased Costs For Ohioans**](/ohio-senate/Jon-Husted/Data-Center)
+{.links-list}
 
 -   [:hospital: **Husted Voted For Devastating Health Care Cuts**](/ohio-senate/Jon-Husted/Health-Cuts)
 {.links-list}
