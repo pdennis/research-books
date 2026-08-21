@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-08-21T15:57:16.604Z
+date: 2026-08-21T15:59:47.414Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -84,5 +84,7 @@ Tafoya repeatedly insulted Minnesota, and made it clear that she did not want to
 [**Tafoya Supported Mining Near Minnesota's Precious Boundary Waters**](/michele-tafoya/Boundary-Waters)
 
 [**Tafoya Sucked Up To Trump And Towed The MAGA Line**](/michele-tafoya/Trump)
+
+[**Tafoya Hated Minnesota**](/michele-tafoya/Californian)
 
 {.links-list}
