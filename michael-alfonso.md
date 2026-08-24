@@ -2,7 +2,7 @@
 title: Michael Alfonso
 description: 
 published: true
-date: 2026-08-24T19:42:32.051Z
+date: 2026-08-24T19:51:33.488Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-18T16:22:31.905Z
@@ -20,7 +20,7 @@ Michael Alfonso is a nepo baby who thinks he can use his connections to his fath
 - [🪖 *Alfonso Backed Trump's Costly War With Iran That Raised Prices On Wisconsinites*](/en/michael-alfonso/iran)
 {.links-list}
 
-## Not Ready For Primetime
+## Alfonso Wasn't Ready For Primetime
 - [:dollar: *Alfonso Thought His Family Connections Could Buy His Seat In Congress*](https://research-books.com/en/michael-alfonso/alfonso-nepo){.links-list}
 - [:eyes:*Alfonso Ran On Christian Values, But His Venmo History Said Otherwise*](https://research-books.com/michael-alfonso/alfonso-venmo) {.links-list}
 - [:briefcase: *Florida Man Alfonso Didn't Have A Job Or His Own Wisconsin Address To Vote From*](https://research-books.com/en/michael-alfonso/alfonso-job)
