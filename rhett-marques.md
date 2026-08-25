@@ -2,14 +2,13 @@
 title: Rhett Marques
 description: 
 published: true
-date: 2026-08-25T16:07:00.881Z
+date: 2026-08-25T16:34:35.257Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-17T22:37:13.702Z
 ---
 
 # How To Win Against Rhett Marques
-
 Rhett Marques actively supports making life harder for Alabamians. He was “proud” of the “great job” Republicans in Congress did passing legislation that would kick 22,000 residents of his district off their healthcare. Marques also puts billionaires above his constituents when touted the bill cutting SNAP benefits from the 55,000 households in his district that relied on the program for groceries. Marques also touted tariffs that made life more expensive for Alabamians. Marques also touts bringing data centers to Alabama while being supported by a Big Tech super PAC. Rhett Marques is beholden to his donors and Alabamians deserve better.
 
 ### Marques Supporting Cutting Healthcare For Alabamians
