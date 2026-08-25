@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: true
-date: 2026-08-25T21:47:14.701Z
+date: 2026-08-25T21:49:12.188Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -32,7 +32,7 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
 - In 2023, [Lahn’s handgun and ammunition](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) were stolen from Wonder, Inc. the school Lahn co-founded, and his campaign declined to explain how the gun was left somewhere it could be stolen. He later supported [legislation](https://www.rcreader.com/commentary/first-ever-gubernatorial-republican-primary-forum-held-in-scott-county-was-educational-and-substantive?trumbaEmbed=view%3Devent%26eventid%3D194826359) to expand gun rights, including allowing permit holders to [carry firearms on school property](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/), arguing armed adults could help “[protect](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/)” kids.
 
-- Lahn pushed policies that would expand taxpayer-funded private school vouchers while increasing scrutiny of Iowa’s public school teachers. Lahn proposed eliminating Iowa’s teacher licensing board and revoking the licenses of teachers accused of “indoctrination” or promoting a “political agenda” in the classroom. His proposals came despite co-founding Wonder Inc., an unaccredited private school in Kansas that was not required to hire licensed teachers.
+- Lahn pushed policies that would [expand](https://www.thenews-ia.com/stories/candidate-for-governor-discusses-iowa-concerns-during-stop-in-kalona,192496) taxpayer-funded private school vouchers while increasing scrutiny of Iowa’s public school teachers. Lahn proposed [eliminating Iowa’s teacher licensing board](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate) and revoking the licenses of teachers accused of “[indoctrination](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate)” or promoting a “political agenda” in the classroom. His proposals came despite co-founding [Wonder, Inc](https://www.kansas.com/news/local/education/article217026770.html)., an unaccredited private school in Kansas that was [not required](https://www.kansas.com/news/local/education/article217026770.html) to hire licensed teachers.
 
 - Lahn supported expanding school vouchers despite concerns the program diverted public funds to private schools and strained Iowa public schools. At the same time, Wonder Inc., the private school Lahn co-founded, charged families up to $10,000 in annual tuition. Meanwhile, Iowa’s voucher program cost taxpayers more than $314 million in 2025-2026, subsidized 99% of private school students, and was projected to cost $350 million by 2027.
 
