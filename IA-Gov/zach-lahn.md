@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: true
-date: 2026-08-25T21:53:14.917Z
+date: 2026-08-25T21:55:46.579Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -10,7 +10,7 @@ dateCreated: 2026-06-09T20:07:59.131Z
 
 # How To Win Against Zach Lahn
 
-Zach Lahn’s record included attacks on Iowans’ health care, education, and reproductive rights, and support for Trump’s devastating tariffs. Lahn opposed Medicaid expansion and helped lead efforts to block health care coverage for low-income Americans, despite hundreds of thousands of Iowans relying on Medicaid and Affordable Care Act coverage today. He defended Trump's tariffs and downplayed the impacts on Iowa farmers even as farmers and economists warned they were increasing financial pressure on Iowa agriculture and driving up costs across the state. Lahn also backed taxpayer-funded private school vouchers while proposing to revoke teachers' licenses for alleged "indoctrination," despite co-founding an unaccredited private school that did not require licensed teachers. Lahn was an anti-abortion extremist who supported a total abortion ban, opposed abortion medication access, and backed restrictions that went beyond existing Iowa law. Lahn embraced anti-vaccine policies, opposed vaccine requirements, and aligned himself with Robert F. Kennedy Jr.'s MAHA movement. Lahn is a carpetbagger with deep ties to Kansas and other states, maintaining a residence in Kansas and flying frequently to Kansas while running for Iowa governor.
+Zach Lahn’s record included attacks on Iowans’ health care, education, and reproductive rights, and support for Trump’s devastating tariffs. Lahn opposed Medicaid expansion and helped lead efforts to block health care coverage for low-income Americans, despite hundreds of thousands of Iowans relying on Medicaid and Affordable Care Act coverage today. He defended Trump's tariffs and downplayed the impacts on Iowa farmers even as farmers and economists warned they were increasing financial pressure on Iowa agriculture and driving up costs across the state. Lahn also backed taxpayer-funded private school vouchers while proposing to revoke teachers' licenses for alleged "indoctrination," despite co-founding an unaccredited private school that did not require licensed teachers. New reporting found Lahn’s private school ran years of deficits, owed the Lahns $4.5 million, and was where his handgun was [stolen](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) before he pushed to allow guns on school property. Lahn was an anti-abortion extremist who supported a total abortion ban, opposed abortion medication access, and backed restrictions that went beyond existing Iowa law. Lahn embraced anti-vaccine policies, opposed vaccine requirements, and aligned himself with Robert F. Kennedy Jr.'s MAHA movement. Lahn is a carpetbagger with deep ties to Kansas and other states, maintaining a residence in Kansas and flying frequently to Kansas while running for Iowa governor.
 
 ### Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion
 
