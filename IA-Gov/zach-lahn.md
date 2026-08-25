@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: true
-date: 2026-08-25T21:35:30.031Z
+date: 2026-08-25T21:35:53.138Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -28,7 +28,7 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
 ### Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Defunded Iowa Public Schools
 
--   Lahn [co-founded](https://www.kansas.com/news/local/education/article217026770.html) a private school in Kansas and touted Wonder, Inc. as a model for [reinventing](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) schools despite years of [deficits](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) and [owing](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) the Lahns $4.5 million by 2025. Public records exposed Wonder, Inc, relied heavily on [outside](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) funding, while the amount owed to the Lahns grew to $4.5 million and the Lahns’ roles as both school officers and major creditors triggered annual conflict-of-interest disclosures and went against IRS recommendations for nonprofit governance. Despite Lahn’s praise, Wonder, Inc. was not equipped to serve all students with special education needs.
+-   Lahn [co-founded](https://www.kansas.com/news/local/education/article217026770.html) a private school in Kansas and touted Wonder, Inc. as a model for [reinventing](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) schools despite years of [deficits](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) and [owing](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) the Lahns $4.5 million by 2025. Public records exposed Wonder, Inc, relied heavily on [outside](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) funding, while the amount owed to the Lahns grew to $[4.5 million](https://kansasreflector.com/2026/08/25/iowa-gubernatorial-candidates-personal-loans-sustain-kansas-school-he-touts-as-better-model/) and the Lahns’ roles as both school officers and major creditors triggered annual conflict-of-interest disclosures and went against IRS recommendations for nonprofit governance. Despite Lahn’s praise, Wonder, Inc. was not equipped to serve all students with special education needs.
 
 
 **Message:** Despite running an unaccredited private school in Kansas, Zach Lahn sought to punish Iowa public school teachers while expanding private school vouchers.
