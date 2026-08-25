@@ -2,13 +2,12 @@
 title: Jon Husted
 description: 
 published: true
-date: 2026-08-21T20:12:14.341Z
+date: 2026-08-25T21:44:52.334Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T18:04:10.787Z
 ---
 
-**📺 - Click here for our Example Content Library** COMING SOON! **📺 - Click here for Notable Clips and Visuals** COMING SOON! 
 
 # How To Win Against Jon Husted
 
