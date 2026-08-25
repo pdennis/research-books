@@ -2,7 +2,7 @@
 title: Rhett Marques
 description: 
 published: true
-date: 2026-08-25T16:01:12.793Z
+date: 2026-08-25T16:07:00.881Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-17T22:37:13.702Z
@@ -44,3 +44,11 @@ Rhett Marques actively supports making life harder for Alabamians. He was “pro
 **Message:** While being supported by a big-tech super PAC, Marques supported data centers that Alabamians opposed. 
 
 # Issue Briefs
+
+## Marques Supported Policies That Hurt Everyday Alabamians
+- [:hospital: *Marques Supported Cutting Healthcare For Alabamians*](https://research-books.com/en/rhett-marques/health-care)
+- [:banana: *Marques Supported Cutting Food Assistance To Alabamians*](https://research-books.com/en/rhett-marques/food-assistance)
+- [:receipt: *Marques Supported Price-Hikings Tariffs*](https://research-books.com/en/rhett-marques/tariffs)
+- [:bomb: *Marques Supported The Costly War In Iran*](https://research-books.com/en/rhett-marques/iran)
+- [🔌   *Marques Supported Unpopular Data Centers That Would Hurt Alabama*](https://research-books.com/en/rhett-marques/data-centers)
+{.links-list}
