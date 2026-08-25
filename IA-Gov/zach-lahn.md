@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: true
-date: 2026-08-25T21:38:02.401Z
+date: 2026-08-25T21:39:01.160Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -32,7 +32,9 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
 - In 2023, Lahn’s handgun and ammunition were stolen from Wonder, Inc. the school Lahn co-founded, and his campaign declined to explain how the gun was left somewhere it could be stolen. He later supported legislation to expand gun rights, including allowing permit holders to carry firearms on school property, arguing armed adults could help “protect” kids.
 
+- Lahn pushed policies that would expand taxpayer-funded private school vouchers while increasing scrutiny of Iowa’s public school teachers. Lahn proposed eliminating Iowa’s teacher licensing board and revoking the licenses of teachers accused of “indoctrination” or promoting a “political agenda” in the classroom. His proposals came despite co-founding Wonder Inc., an unaccredited private school in Kansas that was not required to hire licensed teachers.
 
+- Lahn supported expanding school vouchers despite concerns the program diverted public funds to private schools and strained Iowa public schools. At the same time, Wonder Inc., the private school Lahn co-founded, charged families up to $10,000 in annual tuition. Meanwhile, Iowa’s voucher program cost taxpayers more than $314 million in 2025-2026, subsidized 99% of private school students, and was projected to cost $350 million by 2027.
 
 **Message:** Despite running an unaccredited private school in Kansas, Zach Lahn sought to punish Iowa public school teachers while expanding private school vouchers.
 
