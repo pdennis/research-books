@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: true
-date: 2026-08-25T21:51:47.493Z
+date: 2026-08-25T21:53:14.917Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -34,7 +34,7 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
 - Lahn pushed policies that would [expand](https://www.thenews-ia.com/stories/candidate-for-governor-discusses-iowa-concerns-during-stop-in-kalona,192496) taxpayer-funded private school vouchers while increasing scrutiny of Iowa’s public school teachers. Lahn proposed [eliminating Iowa’s teacher licensing board](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate) and revoking the licenses of teachers accused of “[indoctrination](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate)” or promoting a “political agenda” in the classroom. His proposals came despite co-founding [Wonder, Inc](https://www.kansas.com/news/local/education/article217026770.html)., an unaccredited private school in Kansas that was [not required](https://www.kansas.com/news/local/education/article217026770.html) to hire licensed teachers.
 
-- Lahn supported [expanding school vouchers](https://iowacapitaldispatch.com/2026/05/05/qa-iowa-gop-gubernatorial-candidates-on-abortion-eminent-domain-esas/) despite concerns the program [diverted](https://www.desmoinesregister.com/story/news/education/2026/03/03/iowa-private-schools-see-esa-usage-surges/88379665007/) public funds to private schools and [strained](https://cbs2iowa.com/news/local/iowa-schools-struggle-with-funding-cuts-as-private-vouchers-rise) Iowa public schools. At the same time, [Wonder, Inc](https://www.kansas.com/news/local/education/article217026770.html)., the private school Lahn co-founded, charged families up to $[10,000](https://www.kansas.com/news/local/education/article217026770.html) in annual tuition. Meanwhile, Iowa’s voucher program cost taxpayers more than $314 million in 2025-2026, subsidized 99% of private school students, and was projected to cost $350 million by 2027.
+- Lahn supported [expanding school vouchers](https://iowacapitaldispatch.com/2026/05/05/qa-iowa-gop-gubernatorial-candidates-on-abortion-eminent-domain-esas/) despite concerns the program [diverted](https://www.desmoinesregister.com/story/news/education/2026/03/03/iowa-private-schools-see-esa-usage-surges/88379665007/) public funds to private schools and [strained](https://cbs2iowa.com/news/local/iowa-schools-struggle-with-funding-cuts-as-private-vouchers-rise) Iowa public schools. At the same time, [Wonder, Inc](https://www.kansas.com/news/local/education/article217026770.html)., the private school Lahn co-founded, charged families up to $[10,000 in annual tuition](https://www.kansas.com/news/local/education/article217026770.html). Meanwhile, Iowa’s voucher program cost taxpayers more than $[314 million](https://iowastatedaily.com/331292/news/transparency-concerns-grow-over-iowas-314-million-private-school-program/) in 2025-2026, [subsidized](https://www.desmoinesregister.com/story/news/education/2026/03/03/iowa-private-schools-see-esa-usage-surges/88379665007/) 99% of private school students, and was projected to cost $[350 million](https://x.com/DMRPoliticsCzar/status/2028863437200085380) by 2027.
 
 **Message:** Despite running an unaccredited private school in Kansas, Zach Lahn sought to punish Iowa public school teachers while expanding private school vouchers.
 
