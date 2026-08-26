@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-06-18T16:50:03.124Z
+date: 2026-08-26T16:53:24.165Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
@@ -40,6 +40,8 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 ### Hinson Voted To Take Food Assistance From Iowans
 
 -   Hinson [voted](https://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes) in history. More than [260,000](https://www.desmoinesregister.com/story/news/politics/2025/05/22/iowa-impact-of-congress-budget-cuts-to-medicaid-snap/83742388007/) Iowans rely on SNAP to afford groceries. Hinson said that the legislation should’ve done “[further cuts](https://soundcloud.com/abpac/ashley-hinson-fox-news-rundown-6425/s-SgRg9XC8GmB?si=3b0a846e0ae049a5961a69c22c373aac&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).”
+
+- One year after the passage of SNAP cuts, [24,000](https://www.desmoinesregister.com/story/news/politics/2026/07/10/snap-benefits-iowa-enrollment-error-rate-drops-restrictions-big-beautiful-bill/90754477007/) less Iowans were enrolled on SNAP. 
 
 **Message:** Hinson voted to take away Iowan’s ability to afford groceries to fund billionaire tax breaks.
 
@@ -81,7 +83,7 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 
 **Message:** Hinson wouldn’t fight for Iowan’s ability to access clean drinking water. 
 
-### Hinson Was A Threat To Social SEcurity
+### Hinson Was A Threat To Social Security
 
 -   Hinson [alluded](https://iowastartingline.com/2022/04/21/hinson-talks-jan-6-russia-social-security-elections-at-town-halls/) to supporting Social Security cuts and she claimed that she was “[open](https://www.thegazette.com/news/politics/ashley-hinson-open-to-raising-social-security-retirement-age/article_6bf8148c-8b1f-5d93-9646-4aa875f463b0.html)” to raising the retirement age despite acknowledging that it would be unpopular.
 
