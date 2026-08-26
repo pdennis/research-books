@@ -2,7 +2,7 @@
 title: Derrick Van Orden
 description: 
 published: true
-date: 2026-08-26T14:38:22.435Z
+date: 2026-08-26T14:50:58.290Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T14:38:08.830Z
@@ -45,9 +45,6 @@ dateCreated: 2025-06-03T14:38:08.830Z
 <div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/auh0gp?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 **Derrick Van Orden Admitted Trump's Trade Agenda Would Cause "Very Serious Pain Points."** [Derrick Van Orden Tele-Town Hall 05/01/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/gdbokj?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
-  
-  **Derrick Van Orden Said The U.S. Needed To "Stand Firm" In The Trade War With Canada.** [WLAX (FOX), 8/25/26]
 <div style="position:relative; width:100%; height:0px; padding-bottom:58.158%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/gdbokj?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 </details>
