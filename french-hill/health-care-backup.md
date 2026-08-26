@@ -2,7 +2,7 @@
 title: Rep. French Hill (AR-02): Can't Be Trusted on Health Care
 description: 
 published: true
-date: 2026-06-24T15:26:00.194Z
+date: 2026-08-26T14:01:55.943Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:06:22.848Z
@@ -41,6 +41,8 @@ Rep. French Hill has spent a decade in Congress voting against the health care i
 - **Hill Then Told Constituents He Had "Never Voted To End Medicare Or Medicaid."** According to the Arkansas Democratic Party, Hill sent a constituent letter claiming, "'I have never voted to end Medicare or Medicaid.'" Arkansas Democratic Party Chair Grant Tennille responded: "'Rep. Hill is lying to you; he voted to slash essential funding for Medicaid. There is bipartisan consensus from every major economist in the country that the reconciliation bill [...] will gut funds from Medicaid to give tax handouts to the richest Americans.'" The bill potentially affects 821,000 Arkansans on Medicaid. [Arkansas Democrats, [3/25/25](https://www.arkdems.org/arkansas-democrats-slam-trump-and-republicans-attacks-on-health-care-call-out-rep-french-hill-for-lies-about-medicaid/)]
 
 **Hill Voted For A GOP Health Plan That Let ACA Premium Subsidies Expire, Doubling Costs For Millions.** According to NBC News, the Senate rejected both the Democratic proposal to extend enhanced ACA premium subsidies and a Republican alternative (H.R. 6703) that Hill voted for, which expanded Health Savings Accounts but did not extend the subsidies. The result, enhanced ACA premium subsidies expired, and "premiums set to spike" for roughly 22 million Americans who benefited from the credits. [NBC News, [12/11/25](https://www.nbcnews.com/politics/congress/senate-rejects-aca-funding-republican-alternative-premiums-set-spike-rcna248497)]
+
+**[VIDEO] Hill Touted The Big Beautiful Bill.** “Let me tell you, the pandemic and ObamaCare is when saw those numbers explode in dependency in our society, which is why President Trump and House Republicans last year in the Big Beautiful Bill instituted work as a priority for the Medicaid program, for able-bodied adults that don’t have a disabled child or are not caring for children, not caring for older seniors. To put some discipline into the Medicaid program like we’ve tried to do here in Arkansas. And then on the Supplemental Nutrition Program, SNAP, the food stamp program, the same way. Let’s require work and let’s have the states put skin in the game to make that much more effective program.” [Fox Business News, [8/25/26](https://www.youtube.com/watch?v=yENaHejFCtE)]
 
 ### Took Insurance Industry Money While Voting Against Health Care
 
