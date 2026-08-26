@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-08-18T21:22:22.316Z
+date: 2026-08-26T20:25:03.860Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -94,7 +94,7 @@ Hyde-Smith betrayed Mississippians by cutting their healthcare, SNAP benefits, s
 ### **Hyde-Smith Slashed Mississippians’ Supplemental Nutrition Assistance And Threatened Mississippi Children With Food Insecurity**
 
 -   Hyde-Smith [_backed_](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm) the GOP’s Big Beautiful Bill and [_downplayed_](https://www.hydesmith.senate.gov/one-big-beautiful-bill?fbclid=IwY2xjawRafXlleHRuA2FlbQIxMABicmlkETFRWGpnT1E0bzY3YVkwcDltc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtdEREgbNdJjtBUkF3eajaUO6s-knqoHHQnOJik3KAWi46-f_JEzJtnkwuIe_aem_PczwKypR5ry3dUwbmmK-xA) the legislation’s cuts to nutritional assistance programs.
--   The Big Beautiful Bill [_slashed_](https://mississippitoday.org/2025/07/24/heres-how-trumps-big-beautiful-bill-will-impact-mississippi-schools/) Mississippians’ Supplemental Nutrition Assistance and [_threatened_](https://mississippitoday.org/2025/07/24/heres-how-trumps-big-beautiful-bill-will-impact-mississippi-schools/) Mississippi children with food insecurity.
+-   The Big Beautiful Bill [_slashed_](https://mississippitoday.org/2025/07/24/heres-how-trumps-big-beautiful-bill-will-impact-mississippi-schools/) Mississippians’ Supplemental Nutrition Assistance, revoking [43,000](https://mississippitoday.org/2026/07/31/mississippi-snap-cuts-congress-trump/) Mississippians access to support and [_threatened_](https://mississippitoday.org/2025/07/24/heres-how-trumps-big-beautiful-bill-will-impact-mississippi-schools/) Mississippi children with food insecurity.
 
 **Message:** Hyde-Smith prioritized tax cuts for wealthy donors over nutrition assistance for Mississippi children.
 
