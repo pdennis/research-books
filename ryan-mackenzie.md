@@ -2,7 +2,7 @@
 title: Ryan Mackenzie
 description: 
 published: true
-date: 2026-07-30T21:48:20.421Z
+date: 2026-08-27T15:07:24.790Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:23:44.035Z
@@ -71,6 +71,7 @@ Mackenzie is a MAGA-aligned partisan posing as a pragmatist. He backed ripping h
 ## Ryan Mackenzie Used His Power To Benefit Himself and the Powerful
 -    [👀 *It Took Mackenzie 11 Months To Vote To Release The Epstein Files And He Did Only After Trump Said It Was Okay*](/en/ryan-mackenzie/mackenzie-epstein)
 -    [📱 *Mackenzie Got Caught Lying On A Dating App*](/en/ryan-mackenzie/mackenzie-tinder)
+-    [:house:*Mackenzie Was Accused Of Fabricating His Real Estate Background*](/en/ryan-mackenzie/mackenzie-realestate)
 {.links-list}
 
 # Key Votes
