@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-08-27T21:10:42.801Z
+date: 2026-08-27T21:11:57.985Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -77,20 +77,20 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 
 ## **Susan Collins Used Her Power To Benefit The Powerful And Hurt Everyday People**
 
-[***Collins Was Bad For Mainers Health Care***](/en/susan-collins/collins-healthcare)
+- [**Collins Was Bad For Mainers Health Care**](/en/susan-collins/collins-healthcare)
 
-[***Susan Collins Directly Curtailed Abortion Rights***](/en/susan-collins/collins-abortion)
+- [**Susan Collins Directly Curtailed Abortion Rights**](/en/susan-collins/collins-abortion)
 
-[***Collins Voted To Confirm RFK Jr. With No Regrets***](/en/susan-collins/collins-rfkjr)
+- [**Collins Voted To Confirm RFK Jr. With No Regrets**](/en/susan-collins/collins-rfkjr)
 
-[***Collins Was MAGA, Not A Moderate***](https://research-books.com/en/susan-collins/collins-maga)
+- [**Collins Was MAGA, Not A Moderate**](https://research-books.com/en/susan-collins/collins-maga)
 
-[***Collins Pushed For Unpopular Voter Restrictions That Maine Voters Already Rejected***](https://research-books.com/en/susan-collins/collins-save-act)
+- [**Collins Pushed For Unpopular Voter Restrictions That Maine Voters Already Rejected**](https://research-books.com/en/susan-collins/collins-save-act)
 
-[***Collins Opposed A Stock Trading Ban While She Profited From Office***](https://research-books.com/en/susan-collins/collins-profiteering)
+- [**Collins Opposed A Stock Trading Ban While She Profited From Office**](https://research-books.com/en/susan-collins/collins-profiteering)
 
-[***Collins Supported The War In Iran That Drove Up Mainers' Prices***](https://research-books.com/en/susan-collins/collins-war)
+- [**Collins Supported The War In Iran That Drove Up Mainers' Prices**](https://research-books.com/en/susan-collins/collins-war)
 
-[***Collins Was Part Of The Epstein Class***](https://research-books.com/en/susan-collins/collins-epstein)
+- [**Collins Was Part Of The Epstein Class**](https://research-books.com/en/susan-collins/collins-epstein)
 
 {.links-list}
