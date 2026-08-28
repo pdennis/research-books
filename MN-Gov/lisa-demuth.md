@@ -2,7 +2,7 @@
 title: Lisa Demuth
 description: 
 published: true
-date: 2026-05-19T16:33:25.849Z
+date: 2026-08-28T17:15:07.651Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-22T22:08:13.355Z
@@ -11,7 +11,7 @@ dateCreated: 2026-01-22T22:08:13.355Z
 
 # How To Win Against Lisa Demuth
 
-Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported Trump administration policies that enriched the already wealthy and further harmed already struggling Minnesotans. Demuth supported Trump’s “One Big Beautiful Bill,” which put 161,000 Minnesotans at risk of losing health insurance, cut $500 billion in Medicare funding, reduced food assistance for 186,000 Minnesotan households relying on SNAP, and killed green energy jobs in Minnesota’s fastest growing industry. Demuth turned a blind eye to Trump’s tariffs, which made gas in Minnesota more expensive and threatened the state’s agricultural industry. Demuth advocated for policies in Minnesota to “root out fraud,” an excuse which Trump’s DOGE used to cut funds that impacted 20,000 federal employees and several nonprofit organizations in Minnesota. Demuth said she "supported life from conception to natural death," and, as a state lawmaker, she introduced a “heartbeat” abortion ban and opposed legislation to protect reproductive rights in Minnesota. Demuth also falsely took credit for being involved in exposing a Minnesota day care fraud scandal. After an ICE agent fatally shot a Minnesota resident, Demuth endorsed aggressive ICE operations in Minneapolis and did not oppose Trump overstepping his authority in sending federal forces against Minnesotans.
+Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported Trump administration policies that enriched the already wealthy and further harmed already struggling Minnesotans. Demuth supported Trump’s “One Big Beautiful Bill,” which put 161,000 Minnesotans at risk of losing health insurance, cut $500 billion in Medicare funding, reduced food assistance for 186,000 Minnesotan households relying on SNAP, and killed green energy jobs in Minnesota’s fastest growing industry. Demuth supported Trump’s tariffs, which made gas in Minnesota more expensive and threatened the state’s agricultural industry. Demuth advocated for policies in Minnesota to “root out fraud,” an excuse which Trump’s DOGE used to cut funds that impacted 20,000 federal employees and several nonprofit organizations in Minnesota. Demuth said she "supported life from conception to natural death," and, as a state lawmaker, she introduced a “heartbeat” abortion ban and opposed legislation to protect reproductive rights in Minnesota. Demuth also falsely took credit for being involved in exposing a Minnesota day care fraud scandal. After an ICE agent fatally shot a Minnesota resident, Demuth endorsed aggressive ICE operations in Minneapolis and did not oppose Trump overstepping his authority in sending federal forces against Minnesotans.
 
 ### Demuth Supported Devastating Health Care Cuts
 
@@ -26,8 +26,9 @@ Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported T
 
 **Message:** Demuth supported making massive cuts to health care services seniors rely on. 
 
-### Demuth Ignored The Crushing Impacts Of Trump’s Tariffs On Minnesota’s Economy
+### Demuth Supported Trump's Tariffs And Their Crushing Impacts On Minnesota’s Economy
 
+- In August 2026, Demuth said Trump's tariffs [“definitely have a purpose”](https://youtu.be/Zdvgozv9zsY?si=SEeCLRVThlLHp_Qm) after Canada [imposed retaliatory tariffs](https://www.cbsnews.com/minnesota/news/canada-tariffs-minnesota/) of up to 50 percent, which was in response to [Trump imposing 50 percent tariffs](https://www.cbsnews.com/news/u-s-set-to-impose-50-percent-tariffs-on-canada-after-failed-talks/) on Canada following failed trade negotiations. Canada was Minnesota's largest foreign trading partner, and [nearly 25 percent](https://www.startribune.com/us-canada-tariffs-trade-war-minnesota-effects/601882411) of Minnesota exports [totaling $5.5 billion](https://www.fox9.com/news/minnesota-farmers-caught-u-s-canada-trade-war) went to Canada each year.
 -   In April 2025, Demuth [refused to acknowledge](https://www.axios.com/local/twin-cities/2025/04/04/minnesota-tariffs-impact-businesses-consumers) Trump’s tariffs, which doomed Minnesotans to a trade war and [rising prices](https://www.startribune.com/canada-goods-mexico-minnesota-tariff-plan-effects/601216198). Since Canada, Mexico, and China were Minnesota’s [largest trading partners](https://www.startribune.com/canada-goods-mexico-minnesota-tariff-plan-effects/601216198), tariffs impacted the state’s [agricultural industry](https://www.startribune.com/minnesota-soybean-farmers-china-export-crisis-tariff-effect-aid-package/601471363), [oil imports, and the ore industry.](https://www.startribune.com/canada-goods-mexico-minnesota-tariff-plan-effects/601216198) 
 -   In December 2025, Demuth [denied claims](https://x.com/LisaDemuthMN/status/1996746646873370807?s=20) that Trump’s tariffs made Minnesota less affordable, even though the [U.S. stock market crashed](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s escalating global trade war earlier in the year.
 
