@@ -2,7 +2,7 @@
 title: Mike Beltran
 description: 
 published: true
-date: 2026-08-28T18:44:42.814Z
+date: 2026-08-28T20:57:49.113Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-27T20:20:33.315Z
@@ -10,6 +10,11 @@ dateCreated: 2026-08-27T20:20:33.315Z
 
 # How To Win Against Mike Beltran
 
+Mike Beltran is a MAGA extremist who would do everything in his power to push Trump's dangerous agenda forward. On his campaign website, Beltran promised to make Trump's Working Families Tax Cuts permanent, legislation also known as the One Big Beautiful Bill, which would kick more than 17 million Americans off their health insurance through Medicaid. Beltran has even said that healthcare isn't a "core function of government." 
+
+Healthcare isn't Beltran's only extreme position. He has called for banning all abortions in Florida and has voiced support for more aggressive foreign policy actions, like Trump's initial strikes on Iran.
+
+Floridians deserve better than another out-of-touch extremist.
 
 
 ### Lee Voted For Devastating Health Care Cuts
