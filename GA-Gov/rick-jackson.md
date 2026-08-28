@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-08-28T16:44:29.594Z
+date: 2026-08-28T22:15:32.924Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -53,7 +53,7 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 
 ### Rick Jackson Said Governor Kemp Would Deploy The National Guard To "Watch" The 2026 Election And Repeatedly Undermined The 2020 Election
 
-- In an unearthed audio from Jackson's Columbus rally in August 2026, Jackson told an attendee he feared Democrats would [“cheat”](https://www.ajc.com/politics/2026/08/georgia-election-rick-jackson-suggests-brian-kemp-will-use-national-guard/) during the November election and said Governor Kemp would deploy the [National Guard to “watch” the election](https://www.ajc.com/politics/2026/08/georgia-election-rick-jackson-suggests-brian-kemp-will-use-national-guard/) he was trying to win. Jackson's comments came amid concerns Trump could use the [military](https://www.ajc.com/politics/2026/08/georgia-election-rick-jackson-suggests-brian-kemp-will-use-national-guard/) to interfere with elections across the country.
+- In an unearthed audio from Jackson's Columbus rally in August 2026, Jackson [told](https://www.rawstory.com/georgia-election-national-guard/) an attendee he feared Democrats would [“cheat”](https://www.ajc.com/politics/2026/08/georgia-election-rick-jackson-suggests-brian-kemp-will-use-national-guard/) during the November election and [said](https://www.washingtonexaminer.com/news/campaigns/state/4699170/rick-jackson-brian-kemp-national-guard-2026-elections/) Governor Kemp would [deploy](https://www.alternet.org/midterms-national-guard/) the [National Guard to “watch” the election](https://www.ajc.com/politics/2026/08/georgia-election-rick-jackson-suggests-brian-kemp-will-use-national-guard/) he was trying to win. Jackson's comments came amid concerns Trump could use the [military](https://www.ajc.com/politics/2026/08/georgia-election-rick-jackson-suggests-brian-kemp-will-use-national-guard/) to interfere with elections across the country.
 - Rick Jackson repeatedly pushed [election denialism](https://www.democracydocket.com/news-alerts/election-denier-rick-jackson-wins-georgia-gop-governor-primary-runoff/) and undermined the results of the 2020 election. He called the 2020 election [“totally ridiculous”](https://subscriber.politicopro.com/newsletter/2026/04/3-things-we-learned-on-the-ground-in-georgia-00887873) and [“terrible,”](https://www.ajc.com/politics/2026/07/rick-jackson-leaves-trump-out-of-his-general-election-pitch-to-voters/) and attacked Georgia Secretary of State Brad Raffensperger as [“Judas”](https://www.ajc.com/politics/2026/05/brad-raffensperger-cant-outrun-2020-neither-can-georgia-politics/) for not [overturning](https://apnews.com/article/georgia-trump-republicans-primary-2020-election-0d04567edd60c8d176951cd4a4411643) the 2020 election. Jackson also accused Fulton County of [“cheating on voting”](https://www.ajc.com/politics/2026/07/rick-jackson-leaves-trump-out-of-his-general-election-pitch-to-voters/) for the last 40 years and trying to [“keep the truth in dark”](https://x.com/RickJacksonGA/status/2051642566689612147) after a federal subpoena sought personal data of election workers and volunteers during the 2020 election. 
 
 **Message:** Rick Jackson said Kemp would launch the National Guard to "watch" the election he was trying to win even as he repeatedly undermined the 2020 election results.
