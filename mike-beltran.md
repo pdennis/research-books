@@ -2,7 +2,7 @@
 title: Mike Beltran
 description: 
 published: true
-date: 2026-08-28T18:41:03.508Z
+date: 2026-08-28T18:44:42.814Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-27T20:20:33.315Z
@@ -76,7 +76,7 @@ dateCreated: 2026-08-27T20:20:33.315Z
 - [:carrot: *Beltran Supported Cuts To Food Assistance Floridians Rely On To Afford Groceries*](https://research-books.com/en/mike-beltran/snap)
 - [:shopping_cart: *Beltran Supported Trump's Agenda That Included Tariffs That Raised Prices On Floridians*](https://research-books.com/en/mike-beltran/tariffs)
 - [:woman: *Beltran Supported Abortion Bans That Endangered Floridians*](https://research-books.com/en/mike-beltran/choice)
-- [🪖 *Beltran Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/laurel-lee/lee-iran)
+- [🪖 *Beltran Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/mike-beltran/beltran-iran)
 {.links-list}
 
 {.links-list}
