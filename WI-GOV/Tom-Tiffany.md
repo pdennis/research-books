@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-08-28T19:13:14.834Z
+date: 2026-08-28T19:14:10.055Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -102,7 +102,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 
 ### Tom Tiffany Campaigned On His Small Business “Success” While He And His Businesses Went Years Without Paying State Income Taxes
 - Tiffany [campaigned](https://x.com/TomTiffanyWI/status/2067999399989432591) to fight high taxes as a “[successful small business owner](https://web.archive.org/web/20260828132311/https://tomtiffany.com/about/),” but Wisconsin Department of Revenue [records](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/) told a different story. He went [five straight years](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/), from 2006 through 2010, [without paying](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/) personal state income taxes and paid [none again in 2019](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/).  
-- His [businesses also went years without paying](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/) state income taxes. Tiffany’s Willow Inc. paid none for more than a decade through 2016 and Wisconsin River Cruises Inc. paid none from 2007 through 2013. Tiffany blamed years of paying no state income taxes on the financial crisis, recession, business costs, and depreciation.
+- His [businesses also went years without paying](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/) state income taxes. Tiffany’s Willow Inc. [paid none for more than a decade](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/) through 2016 and Wisconsin River Cruises Inc. [paid none from 2007 through 2013](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/). Tiffany blamed years of paying no state income taxes on the financial crisis, recession, business costs, and depreciation.
 
 
 
