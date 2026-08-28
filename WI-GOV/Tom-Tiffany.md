@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-08-28T19:17:38.590Z
+date: 2026-08-28T19:20:09.167Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -104,6 +104,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 - Tiffany [campaigned](https://x.com/TomTiffanyWI/status/2067999399989432591) to fight high taxes as a “[successful small business owner](https://web.archive.org/web/20260828132311/https://tomtiffany.com/about/),” but Wisconsin Department of Revenue [records](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/) told a different story. He went [five straight years](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/), from 2006 through 2010, [without paying](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/) personal state income taxes and paid [none again in 2019](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/).  
 - His [businesses also went years without paying](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/) state income taxes. Tiffany’s Willow Inc. [paid none for more than a decade](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/) through 2016 and Wisconsin River Cruises Inc. [paid none from 2007 through 2013](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/). Tiffany [blamed](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/) years of paying no state income taxes on the financial crisis, recession, business costs, and depreciation.
 - Political analyst Scot Ross argued the record raised questions about Tiffany’s business pitch, saying, “[The dam man didn’t pay his damn taxes](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/).”
+
 **Message:**  Tom Tiffany yells about how taxes are too high, but conveniently leaves out the fact his business did not pay state income taxes for years.
 
 ###  Tom Tiffany Joined TheQuartering Podcast, Whose Fringe Host Had A Documented History Of Antisemitic Rhetoric And Online Harassment Controversies
