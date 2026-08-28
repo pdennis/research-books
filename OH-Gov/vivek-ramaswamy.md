@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy
 description: 
 published: true
-date: 2026-07-08T20:32:43.753Z
+date: 2026-08-28T20:33:44.283Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
@@ -69,7 +69,21 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 
 **Message:** Vivek Ramaswamy accepted donations from extremists.
 
-### Vivek Ramaswamy  Took Luxury Trips While Ohioans Struggled With Higher Costs And Extreme Heat
+### Vivek Ramaswamy Supported Alleged Domestic Abuser Max Miller
+- In August 2026, after a voter approached Ramaswamy and thanked him for supporting Max Miller, Ramaswamy said he was [“supporting everyone up and down the ticket,”](https://www.huffpost.com/entry/vivek-ramaswamy-tells-voter-he-supports-max-miller-to-preserve-gop-power_n_6a8e5a60e4b0bc51108cd2e7) and emphasized the importance of preserving Republican control in Congress and Ohio. Prior to this, Ramaswamy had dodged questions about whether he supported Miller, but [kept Miller’s endorsement on his website.](https://web.archive.org/web/20260824171257/https://vivekforohio.com/endorsements/)
+- In July 2026, allegations surfaced [accusing Miller of domestic abuse](https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html?smid=fb-nytimes&smtyp=cur&fbclid=IwY2xjawTYMlRleHRuA2FlbQIxMABicmlkETFha2U4WEQzeEJoYUhLandjc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHt3Zwx0GQrm6MEtGT73GuKUlHEkAFmV2LAGJYs9wzyek0ANwg1tH30Sop63C_aem_Hw6RdUA4S_oCOGkgCa4Nng) against his ex-wife and two-year-old daughter. Emily Moreno, Miller’s ex-wife and daughter of Ohio Senator Bernie Moreno, claimed Miller [threw hot water from a skillet](https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html?smid=fb-nytimes&smtyp=cur&fbclid=IwY2xjawTYMlRleHRuA2FlbQIxMABicmlkETFha2U4WEQzeEJoYUhLandjc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHt3Zwx0GQrm6MEtGT73GuKUlHEkAFmV2LAGJYs9wzyek0ANwg1tH30Sop63C_aem_Hw6RdUA4S_oCOGkgCa4Nng) at her and [held a gun to her head.](https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html?smid=fb-nytimes&smtyp=cur&fbclid=IwY2xjawTYMlRleHRuA2FlbQIxMABicmlkETFha2U4WEQzeEJoYUhLandjc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHt3Zwx0GQrm6MEtGT73GuKUlHEkAFmV2LAGJYs9wzyek0ANwg1tH30Sop63C_aem_Hw6RdUA4S_oCOGkgCa4Nng) The Ohio Division of Children and Family Services [investigated Miller](https://www.motherjones.com/politics/2026/07/assault-misogyny-verbal-threats-records-detail-new-allegations-against-rep-max-miller-bernie-moreno/) after his daughter sustained a broken collarbone, which a specialist said had bruising resembling a handprint. 
+- While Ramaswamy remained silent, prominent Republicans including [Senator Moreno,](https://x.com/berniemoreno/status/2083936589424582942?s=20) Ohio [Senator Jon Husted,](https://x.com/SenJonHusted/status/2085421829708218751?s=20) and Montana [Senator Tim Sheehy](https://x.com/TimSheehyMT/status/2085401898375368735?s=20) called for Miller to resign from Congress and end his reelection campaign.
+
+**Message:** Vivek Ramaswamy showed voters he believed maintaining Republican control was more important than protecting women and children from domestic abuse. 
+
+### Vivek Ramaswamy’s Campaign Ad Featured A GOP Activist Who Threatened Jon Husted And Wrongfully Blamed Amy Acton For Her Mother’s Death
+- On August 24, 2026, Ramaswamy launched a [misleading campaign ad](https://x.com/MediumBuying/status/2091843438509543742?s=20) featuring controversial Ohio GOP activist Linda Caudill implying she could not visit her mother before she passed because Amy Acton [“shut down the state.”](https://tiffinohio.net/posts/ramaswamy-ad-blames-acton-kentucky-death/)
+- The ad failed to mention that Caudill’s mother, Dorothy Farrell, [lived and died in Kentucky,](https://tiffinohio.net/posts/ramaswamy-ad-blames-acton-kentucky-death/) not Ohio. There was [no discernible reason](https://tiffinohio.net/posts/ramaswamy-ad-blames-acton-kentucky-death/) Caudill could not visit her mother in hospice care since, prior to her death, COVID-19 guidelines in Kentucky allowed family members of loved ones in end-of-life care to visit and reopened gatherings of up to 50 people, and Ohio lifted its stay-at-home order. 
+- In 2017, when Caudill was a campaign volunteer for Ohio Republican gubernatorial candidate Jim Renacci, she [posted a Facebook meme](https://tiffinohio.net/posts/ramaswamy-ad-blames-acton-kentucky-death/) appearing to support the assassination of Renacci’s primary opponent Jon Husted that implied the use of a “silencer” against Husted. Caudill also attacked Husted in the comments of his former staffer’s post about her deceased grandmother. Renacci’s campaign [“parted ways”](https://tiffinohio.net/posts/ramaswamy-ad-blames-acton-kentucky-death/) with Caudill following the controversial posts.
+
+**Message:** Vivek Ramaswamy ran a campaign ad that misled voters and featured a GOP activist who promoted political violence.
+
+### Vivek Ramaswamy Took Luxury Trips While Ohioans Struggled With Higher Costs And Extreme Heat
 
 - In late 2025, Vivek Ramaswamy’s campaign [blew nearly $12,000 in campaign funds](https://newrepublic.com/post/208034/vivek-ramaswamy-campaign-funds-luxury-vacation) [at the Dorado Beach Ritz-Carlton Reserve,](https://meidasnews.com/news/vivek-ramaswamy-used-campaign-funds-to-finance-luxury-puerto-rico-trip) one of the most exclusive [luxury](https://heartlandsignal.com/2026/03/24/report-vivek-ramaswamy-shelled-out-12k-in-campaign-funds-on-luxury-puerto-rico-vacation/) destinations in Puerto Rico, while Ohioans experienced higher prices. Ramaswamy even [posted](https://meidasnews.com/news/vivek-ramaswamy-used-campaign-funds-to-finance-luxury-puerto-rico-trip) a picture of himself playing pickleball at the resort with Logan and Jake Paul. 
 -On July 4, 2026, Ramaswamy took a [private jet](https://tiffinohio.net/posts/ramaswamy-private-jet-paris-july-4/) from Columbus, Ohio to Paris, France while much of central Ohio was under a [heat advisory.](https://www.dispatch.com/story/weather/2026/07/04/central-ohio-4th-july-weather-extreme-heat-possible-storms/90801625007/) The Rooster found Ramaswamy’s private jet had flown [54 times](https://tiffinohio.net/posts/ramaswamy-private-jet-paris-july-4/) at an estimated cost of $200,000 from January to June 2026, including to international destinations.
@@ -98,22 +112,19 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 
 ## Vivek Ramaswamy Policies Have Hurt Everyday People
 
-- [:hospital: | **Vivek Ramaswamy Supported Restricting Medicaid And Opposed The Affordable Care Act**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-medicaid)
-
-- [:shopping_cart: | **Vivek Ramaswamy Backed Trump's Reciprocal Tariffs, Endangering Ohio’s Economy**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-tariffs)
-
-- [:apple: | **Vivek Ramaswamy Supported Cutting SNAP Benefits From Ohio Families**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-food)
-
-- [:x: | **Vivek Ramaswamy Was A Co-Architect Of Trump’s DOGE**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-DOGE)
-
-- [:woman: | **Vivek Ramaswamy Was An Anti-Abortion Extremist**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-abortion)
+- [:hospital: ***Vivek Ramaswamy Supported Restricting Medicaid And Opposed The Affordable Care Act***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-medicaid)
+- [:shopping_cart: ***Vivek Ramaswamy Backed Trump's Reciprocal Tariffs, Endangering Ohio’s Economy***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-tariffs)
+- [:apple: ***Vivek Ramaswamy Supported Cutting SNAP Benefits From Ohio Families***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-food)
+- [:x: ***Vivek Ramaswamy Was A Co-Architect Of Trump’s DOGE***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-DOGE)
+- [:woman: ***Vivek Ramaswamy Was An Anti-Abortion Extremist***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-abortion)
 {.links-list}
 
 ## Vivek Ramaswamy Had Ties To Extremists And Conspiracy Theories 
 
-- [:ballot_box: | **Vivek Ramaswamy Was An Election Denier And Entertained January 6 Conspiracy Theories**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-biglie)
-
-- [:money_with_wings: | **Vivek Ramaswamy Accepted A Donation From A Notorious Islamophobe**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-donation-islamophobe)
+- [:ballot_box: ***Vivek Ramaswamy Was An Election Denier And Entertained January 6 Conspiracy Theories***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-biglie)
+- [:money_with_wings: ***Vivek Ramaswamy Accepted A Donation From A Notorious Islamophobe***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-donation-islamophobe)
+- [:family_woman_girl: ***Vivek Ramaswamy Supported Alleged Domestic Abuser Max Miller***](/OH-Gov/vivek-ramaswamy/ramaswamy-max-miller)
+- [:clapper: ***Vivek Ramaswamy’s Campaign Ad Misled Voters And Featured A GOP Activist Who Promoted Political Violence***](/OH-Gov/vivek-ramaswamy/ramaswamy-caudill-ad)
 {.links-list}
 
 ## Vivek Ramaswamy Used His Power And Wealth To Benefit Himself
