@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy
 description: 
 published: true
-date: 2026-08-28T20:33:44.283Z
+date: 2026-08-28T20:37:13.706Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
@@ -128,7 +128,7 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 {.links-list}
 
 ## Vivek Ramaswamy Used His Power And Wealth To Benefit Himself
-- [:moneybag: | **Vivek Ramaswamy Took Luxury Trips While Ohioans Struggled With Higher Costs And Extreme Heat**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-luxury-trip)
-- [:sos: | **Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-wikipedia)
-- [:syringe: | **Vivek Ramaswamy Stood To Reap Windfall From Lawsuits Over The COVID-19 Vaccine Technology Which He Attacked In Public**](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-covid-vaccine)
+- [:moneybag: ***Vivek Ramaswamy Took Luxury Trips While Ohioans Struggled With Higher Costs And Extreme Heat***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-luxury-trip)
+- [:sos: ***Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-wikipedia)
+- [:syringe: ***Vivek Ramaswamy Stood To Reap Windfall From Lawsuits Over The COVID-19 Vaccine Technology Which He Attacked In Public***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-covid-vaccine)
 {.links-list}
