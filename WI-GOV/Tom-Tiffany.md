@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-08-28T19:14:45.560Z
+date: 2026-08-28T19:16:41.418Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -106,10 +106,6 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 - Political analyst Scot Ross argued the record raised questions about Tiffany’s business pitch, saying, “[The dam man didn’t pay his damn taxes](https://www.jsonline.com/story/news/politics/elections/2026/08/26/tom-tiffany-touts-business-success-but-for-years-owed-no-taxes/91389357007/).”
 
 
-
-
-
-
 ###  Tom Tiffany Joined TheQuartering Podcast, Whose Fringe Host Had A Documented History Of Antisemitic Rhetoric And Online Harassment Controversies
 
 - MAGA-endorsed Tom Tiffany is trying to [rebrand](https://www.jsonline.com/story/news/politics/2025/10/07/tiffany-erases-hot-button-issues-like-abortion-from-website-bice/86438816007/) as a mainstream Republican in his bid for governor, all while he continues to court the far-right fringe. On December 30, 2025, Tiffany [appeared](https://www.youtube.com/watch?v=nDO-FAvDfZE) [on](https://soundcloud.com/bethanyanderson-179905639/4669ff3a-220c-45ff-a560-b8c3dfghj35496daa/s-mOQH80zqmZg?si=f4ee7ea0875244d29cb635d770dba6f1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) “[TheQuartering](https://web.archive.org/web/20260515203103/https://thequartering.com/),” a podcast hosted by Jeremy Hambly, an internet personality with a documented history of [antisemitic rhetoric](https://www.youtube.com/watch?v=jcteLHwxz1M) and online harassment controversies. 
@@ -140,6 +136,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 
 - [:eyes:  **It Took Tiffany 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Epstein)
 - [:sos: **Tiffany Was An Election Denier Who Supported Overturning The 2020 Election**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-2020)
+- [:money_with_wings: **Tom Tiffany Campaigned On His Small Business “Success” While He And His Businesses Went Years Without Paying State Income Taxes**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-taxes)
 {.links-list}
 
 ## Tom Tiffany Embraced Far-Right Extremists
