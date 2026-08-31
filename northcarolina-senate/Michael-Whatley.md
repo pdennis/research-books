@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-08-31T20:32:11.430Z
+date: 2026-08-31T20:33:19.555Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -86,6 +86,16 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 - DOGE cuts harmed Western North Carolina [food banks](https://www.charlotteobserver.com/news/politics-government/article302300304.html), harmed North Carolina [military families](https://www.americanprogress.org/article/how-the-trump-administrations-doge-cuts-are-harming-women/) and impacted North Carolina’s [research](https://www.wfmynews2.com/article/news/local/2-wants-to-know/full-list-nc-loses-714-million-grant-cuts-doge-elon-musk/83-9a86380d-601b-4fa5-9fbd-1eb8580dc285) and innovation. 
 
 **Message:** Whatley cheered cuts that harmed North Carolinians and North Carolina’s economy. 
+
+### Whatley Supported Slashing FEMA As Western North Carolina Needs Support 
+
+- As Western North Carolina is recovering from Hurricane Helene, Whatley [supported](https://soundcloud.com/abpac/michael-whatley-the-fox-news/s-bzv4A2lxpqM?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=8bf0ea004df8483585fa67fc08ff8acd) [cutting](https://www.npr.org/2026/05/07/nx-s1-5803121/trump-fema-reform-wildfire-flood-hurricane) [back](nola.com/auth0-redirect/?returnUrl=https%3A%2F%2Fwww.nola.com%2Fnews%2Fpolitics%2Fnational_politics%2Fwhite-house-task-force-recommends-sweeping-changes-to-fema%2Farticle_8e8e3bb7-e846-44ce-ba38-aadc38328ba2.html&error=login_required&error_description=Login%20required&state=RDA3UX5SZ3RucUhPaGZ3b1E0cUpnRjZBTHJrMHE0bVFXVHA1NTN0U3lILQ%3D%3D) FEMA’s in national disaster relief which could leave states having to be responsible for [millions of dollars](https://www.npr.org/2026/05/07/nx-s1-5803121/trump-fema-reform-wildfire-flood-hurricane) in infrastructure rebuilding. Whatley’s support was reflected in the [recommendations](https://www.npr.org/2026/05/07/nx-s1-5803121/trump-fema-reform-wildfire-flood-hurricane) from the FEMA review council in which he was a part of. 
+
+- Also part of the FEMA review council’s recommendations, was a call to [privatize](https://www.citizen-times.com/story/news/local/elections/2026/07/07/helene-recovery-czar-whatley-fema-plan-could-enrich-his-portfolio/90783830007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z11xx18p119150l115950c119150e004400v11xx18d--87--b--87--&gca-ft=166&gca-ds=sophi) flood insurance. Privatizing flood insurance could increase insurance rates for people and increase profits for insurance companies. Whatley held [stock](https://www.citizen-times.com/story/news/local/elections/2026/07/07/helene-recovery-czar-whatley-fema-plan-could-enrich-his-portfolio/90783830007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z11xx18p119150l115950c119150e004400v11xx18d--87--b--87--&gca-ft=166&gca-ds=sophi) in several insurance companies that would benefit from privatization and increased rates. 
+
+- Whatley suggested to Trump that he should [abolish](https://cardinalpine.com/news/michael-whatley-caught-audio-wanting-to-end-fema-western-nc/) FEMA. 
+
+**Message:** Despite claiming to care for the people of Western North Carolina, Whatley is willing to cut and abolish FEMA which would leave states and communities without federal support for future disasters as well as support privatizing flood insurance. 
 
 ### Whatley Was A DC Insider And Lobbyist 
 
