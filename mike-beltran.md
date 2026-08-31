@@ -2,7 +2,7 @@
 title: Mike Beltran
 description: 
 published: true
-date: 2026-08-31T15:22:30.875Z
+date: 2026-08-31T15:28:26.419Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-27T20:20:33.315Z
@@ -76,7 +76,7 @@ Floridians deserve better than another out-of-touch extremist.
 # Issue Briefs
 
 ## Mike Beltran Supported Policies That Hurt Every Day Floridians
-- [:hospital: *Beltran Was Loyal To Trump’s Agenda That Cut Health Care*](https://research-books.com/en/mike-beltran/healthcare)
+- [:hospital: *Beltran Was Loyal To An Agenda That Cut Health Care*](https://research-books.com/en/mike-beltran/healthcare)
 - [:older_man: *Beltran Supported Trump's Dangerous Medicare Cuts*](https://research-books.com/en/mike-beltran/seniors)
 - [:carrot: *Beltran Supported Cuts To Food Assistance Floridians Rely On To Afford Groceries*](https://research-books.com/en/mike-beltran/snap)
 - [:woman: *Beltran Supported Abortion Bans That Endangered Floridians*](https://research-books.com/en/mike-beltran/choice)
