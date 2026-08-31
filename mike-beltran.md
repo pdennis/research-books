@@ -2,7 +2,7 @@
 title: Mike Beltran
 description: 
 published: true
-date: 2026-08-31T16:07:09.673Z
+date: 2026-08-31T17:34:59.133Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-27T20:20:33.315Z
@@ -31,13 +31,13 @@ Floridians deserve better than another out-of-touch extremist.
 
 **Message:** Beltran would be another vote to slash Medicare for seniors. 
 
-### Lee Voted To Cut Food Assistance Her Constituents Rely On To Afford Groceries
+### Beltran Stood By Trump’s Sweeping Cuts To Food Assistance
 
--   Lee [voted](http://clerk.house.gov/evs/2025/roll190.xml) for a bill that made the [largest SNAP cut in history](https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes). [More than 41,000 households](https://www.fns.usda.gov/data-research/data-visualization/snap-community-characteristics-congressional-district-dashboard), making up 13.7% of her district, relied on SNAP to afford groceries.
+-Trump’s One Big, Beautiful Bill was [behind](https://www.foxnews.com/politics/johnson-touts-beauty-unified-government) the single largest cut to SNAP in history. Beltran promised to make the legislation [permanent](https://www.thecentersquare.com/florida/article_e25713d9-d28e-4a27-96ab-463432ce71d3.html) as schools in Tampa were forced to [raise](https://www.axios.com/local/tampa-bay/2026/08/13/tampa-bay-school-year-2026-27-school-lunches) student meal prices as a result of the legislation. 
 
-**Message:** Lee voted to cut food assistance her constituents relied on to afford groceries, all to give tax cuts to billionaires.
+**Message:** Beltran supported to cut food assistance programs that Floridians rely on to afford groceries. 
 
-### Lee supported abortion ban that endangered floridians 
+### Beltran supported abortion ban that endangered floridians 
 
 -   Lee has long been an anti-choice extremist, starting from her first campaign for Congress in 2022 when she [praised](https://youtu.be/rG0QV1KeAyc) the Supreme Court’s decision to overturn Roe v. Wade, which led to Florida instituting a near-total abortion ban. She also [supported](https://floridapolitics.com/archives/564157-alan-cohn-attacks-laurel-lee-on-abortion-issue-amid-reports-of-incest-victim/) Florida’s 15-week abortion ban that [endangered](https://phr.org/news/floridas-abortion-ban-endangers-patients-by-causing-delays-and-denials-of-medical-care-phr-research-brief/) Floridians. After she was elected to Congress, she voiced [opposition](https://x.com/Vote_Laurel/status/1848793349593174502) to a ballot amendment to enshrine the right to abortion in Florida’s constitution that received support from [57 percent of Floridians](https://www.npr.org/2024/11/09/nx-s1-5183891/floridas-amendment-to-protect-abortion-rights-fell-short-of-passing-by-just-3-votes). 
 
@@ -49,18 +49,6 @@ Floridians deserve better than another out-of-touch extremist.
 
 **Message:** Lee voted to protect the accused pedophiles named in the Epstein files until Trump signaled it was okay to vote to release the files. 
 
-### Lee Defended Controversial Efforts To Change Florida Election Laws
-
--   As the Florida Secretary of State, Lee was [named](https://www.forbes.com/sites/alisondurkee/2021/05/06/civil-rights-groups-sue-florida-moments-after-desantis-signs-voter-suppression-bill-into-law/) in a lawsuit after Governor Ron DeSantis signed a law that placed new restrictions on mail-in voting and ballot drop boxes. She [tried](https://www.cbsnews.com/miami/news/florida-secretary-state-lee-elections-lawsuit/) to get the case thrown out claiming the plaintiff lodged a weak allegation and there was no reason for her to be a defendant, but a judge [rejected](https://subscriber.politicopro.com/article/2021/12/20/federal-judge-rejects-bid-to-scuttle-voting-rights-lawsuit-against-florida-1401981) her claim given her role in overseeing Florida elections. The law was later [blocked](https://www.politico.com/newsletters/playbook-pm/2022/03/31/advocates-applaud-bidens-transgender-policy-moves-00022060) by a federal judge who ruled it violated the Voting Rights Act. 
--   Lee later [defended](https://www.wusf.org/courts-law/2022-05-10/florida-fires-back-at-plaintiffs-in-a-redistricting-lawsuit) a controversial Congressional redistricting plan that sought to redraw the district of Rep. Al Lawson, a Black Democrat, under claims that it was unconstitutionally gerrymandered. Voting rights groups argued a plan to redistrict violated a 2010 Florida constitutional amendment that sought to protect the voices of minority voters. In July 2025, the Florida Supreme Court [sided](https://floridaphoenix.com/2025/07/17/florida-supreme-court-upholds-congressional-district-maps/) with Governor DeSantis’ redistricting proposal. 
-
-**Message:** Lee fought to restrict Floridians ability to vote and have their voices heard. 
-
-### Lee misled floridians About Her family’s Investment in A Chinese Company
-
--   When Lee was first running for Congress in 2022, her opponent accused her and her husband of holding an investment in a Chinese-owned company during a debate. Lee immediately [called](https://floridapolitics.com/archives/565673-despite-denial-laurel-lee-owns-250k-in-stocks-for-chinese-owned-alibaba-group/) the claim “wholesale made up” and “nonsense,” but her husband owned up to $250,000 in Alibaba stock at the time. After getting elected to congress, she reported that her husband sold up to $250,000 in Alibaba stock, which drew attention because of her public comments about China and position on the Homeland Security subcommittee on cybersecurity and infrastructure protection. 
-
-**Message:** How can Floridians trust Lee’s word as a Congresswoman if she was willing to mislead them on the campaign trail? 
 
 # Issue Briefs
 
