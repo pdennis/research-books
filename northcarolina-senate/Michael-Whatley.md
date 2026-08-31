@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-08-31T19:59:24.037Z
+date: 2026-08-31T20:31:17.386Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -115,6 +115,7 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 - [:bomb:**Whatley Supported War In Iran Which Caused Skyrocketting Gas And Fertilizer Prices**](/northcarolina-senate/Michael-Whatley/Iran)
 - [:woman:**Whatley’s Extreme Anti-Choice Views Restricted North Carolina Women Right To Choose**](/northcarolina-senate/Michael-Whatley/abortion)
 - [:moneybag:**Whatley Defended Cuts That Threatened North Carolina's Economy**](/northcarolina-senate/Michael-Whatley/DOGE)
+- [:ocean: **Whatley Supported Slashing FEMA As Western North Carolina Needs Support**](//northcarolina-senate/Michael-Whatley/FEMA)
 {.links-list}
 ## Michael Whatley Was A Failed DC Insider
 -   [:moneybag:**Whatley Was A DC Insider And Lobbyist**](/northcarolina-senate/Michael-Whatley/Swamp)
