@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-08-27T21:11:57.985Z
+date: 2026-08-31T19:38:09.459Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -66,10 +66,16 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 
 ### **Collins Applauded And Funded ICE As It Terrorized Maine**
 
--   Susan Collins provided the [**key vote**](https://thehill.com/homenews/senate/5375124-collins-hawley-gop-megabill/?link_id=3&can_id=b800056cdc2f7ec92bed12a7d148c309&source=email-collins-confirms-two-more-anti-choice-judges&email_referrer=email_2955715&email_subject=freudian-slip-susan-collins-appeared-to-take-credit-for-the-one-big-beautiful-bill-act&&&link_id=1&can_id=eb0d458620a7181d9f20338ea95a4e9d&email_referrer=email_3362782&&&email_subject=democrats-hold-biddeford-ice-field-hearing-as-collins-refuses-to-conduct-trump-admin-oversight) to advance the Big Beautiful Bill, which provided [**$75 billion in new funding for ICE**](https://www.npr.org/2026/04/13/nx-s1-5771608/immigration-congress-75-billion).
--   In 2026, Susan Collins [**voted to send ICE $70 billion with no guardrails or reforms**](https://mainebeacon.com/collins-votes-for-70b-ice-funding-with-no-reforms/).
--   Susan Collins also [**voted against an amendment**](https://newrepublic.com/article/213371/trump-ice-maine-screws-susan-collins) that would have required ICE to wear body cameras.
--   Susan Collins [**continued to defend ICE**](https://spectrumlocalnews.com/me/maine/politics/2026/08/14/maine-sen--collins-defends-ice-support--says-she-ll-push-for-continued-reforms) after it murdered Johan Sebastian Duran Guerrero in Biddeford.
+- Collins provided the [key vote](https://thehill.com/homenews/senate/5375124-collins-hawley-gop-megabill/?link_id=3&can_id=b800056cdc2f7ec92bed12a7d148c309&source=email-collins-confirms-two-more-anti-choice-judges&email_referrer=email_2955715&email_subject=freudian-slip-susan-collins-appeared-to-take-credit-for-the-one-big-beautiful-bill-act&&&link_id=1&can_id=eb0d458620a7181d9f20338ea95a4e9d&email_referrer=email_3362782&&&email_subject=democrats-hold-biddeford-ice-field-hearing-as-collins-refuses-to-conduct-trump-admin-oversight) to advance the Big Beautiful Bill, which provided [$75 billion](https://www.npr.org/2026/04/13/nx-s1-5771608/immigration-congress-75-billion) in new funding to ICE. 
+
+- Collins voted to provide ICE an additional [$70 billion](https://mainebeacon.com/collins-votes-for-70b-ice-funding-with-no-reforms/) with no strings or reforms attached, super funding an agency that had already [killed](https://www.nytimes.com/2026/07/08/us/immigration-agent-shootings-vehicles.html) multiple people including citizens and one person in [Maine.](https://newrepublic.com/article/213371/trump-ice-maine-screws-susan-collins?link_id=3&can_id=eb0d458620a7181d9f20338ea95a4e9d&source=email-in-portland-mainers-slam-collins-for-failing-to-protect-mainers-reproductive-rights&email_referrer=email_3359668&email_subject=susan-collins-cant-hide-from-her-votes-to-fund-ice-with-no-guardrails-and-against-funding-for-bodycams&&) When an amendment came up to force ICE agents to wear body cams, she voted [against](https://newrepublic.com/article/213371/trump-ice-maine-screws-susan-collins?link_id=3&can_id=eb0d458620a7181d9f20338ea95a4e9d&source=email-in-portland-mainers-slam-collins-for-failing-to-protect-mainers-reproductive-rights&email_referrer=email_3359668&email_subject=susan-collins-cant-hide-from-her-votes-to-fund-ice-with-no-guardrails-and-against-funding-for-bodycams&&) it. 
+
+- Instead of the funding being used to keep people safe, the funding was being used to purchase gloves that provided [painful electrical shocks](https://www.pressherald.com/2026/08/12/ice-plans-to-give-officers-gloves-that-can-deliver-painful-electric-shocks/) and Collins [refused](https://www.pressherald.com/2026/08/14/susan-collins-pans-trump-administrations-plan-to-buy-shock-gloves-for-ice-agents-2/) to say if she would fight against the purchase if it went through. 
+
+- After Collins’ vote to super fund ICE and after the tragic death of a father in Maine at the hands of ICE agents which spread [fear](https://mainebeacon.com/stop-funding-fear-and-death-mainers-protest-collins-support-for-ice/) among Maine’s immigrant population, Mainers [protested](https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state) Collins’ [complicity](https://mainebeacon.com/stop-funding-fear-and-death-mainers-protest-collins-support-for-ice/) in funding an agency that was committing acts of violence. 
+
+- Collins continued to [defend](https://spectrumlocalnews.com/me/maine/politics/2026/08/14/maine-sen--collins-defends-ice-support--says-she-ll-push-for-continued-reforms) ICE after the murder of Johan Sebastian Duran Guerrero in Biddeford. 
+
 
 **Message**: As ICE terrorized Maine, even murdering an individual in Biddeford, Susan Collins provided the organization all the support Trump wanted and needed for it. 
 
@@ -92,5 +98,7 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 - [**Collins Supported The War In Iran That Drove Up Mainers' Prices**](https://research-books.com/en/susan-collins/collins-war)
 
 - [**Collins Was Part Of The Epstein Class**](https://research-books.com/en/susan-collins/collins-epstein)
+
+- [**Collins voted for ICE funding that was harming Maine's communities**](/susan-collins/ICE)
 
 {.links-list}
