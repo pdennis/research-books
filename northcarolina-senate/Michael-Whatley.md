@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-08-18T20:44:25.697Z
+date: 2026-08-31T19:59:24.037Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -79,6 +79,14 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 
 **Message:** Whatley was an anti-choice extremist who supported abortion bans and restricting women’s right to choose. 
 
+### Whatley Defended Cuts That Threatened North Carolina's Economy
+
+- Whatley [defended](https://soundcloud.com/abpac/michael-whatley-brian-1/s-JmkzxN4A5H9?si=d53d3697dd984c01ab9e3619b866497a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) DOGE and that DOGE needed to be “[aggressive.](https://www.youtube.com/watch?v=KOmEs9tA6Ag)” Whatley claimed that we owed Musk A “[debt of gratitude](https://soundcloud.com/abpac/michael-whatley-the-takeout/s-9DLsZa6NbKa?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=8920098a437849c58be4a6144b1b78e7)” for DOGE. 
+
+- DOGE cuts harmed Western North Carolina [food banks](https://www.charlotteobserver.com/news/politics-government/article302300304.html), harmed North Carolina [military families](https://www.americanprogress.org/article/how-the-trump-administrations-doge-cuts-are-harming-women/) and impacted North Carolina’s [research](https://www.wfmynews2.com/article/news/local/2-wants-to-know/full-list-nc-loses-714-million-grant-cuts-doge-elon-musk/83-9a86380d-601b-4fa5-9fbd-1eb8580dc285) and innovation. 
+
+**Message:** Whatley cheered cuts that harmed North Carolinians and North Carolina’s economy. 
+
 ### Whatley Was A DC Insider And Lobbyist 
 
 -   Whatley was a big [oil lobbyist](https://apnews.com/article/republican-national-committee-whatley-trump-mcdaniel-b0c1714ac648bfa91b6ee72a30278266) who spent his time representing big oil across the country. Whatley led an [special interest funded organization](https://www.huffingtonpost.co.uk/entry/bp-shell-climate_n_5f6e3120c5b64deddeed6762) that launched several [astroturfing campaigns](https://www.salon.com/2011/12/15/big_oil_and_canada_thwarted_u_s_carbon_standards/) and used [deceitful](https://apnews.com/article/republican-national-committee-whatley-trump-mcdaniel-b0c1714ac648bfa91b6ee72a30278266) [tactics](https://captimes.com/news/local/writers/mike_ivey/did-houston-energy-group-dupe-mge-customers-to-back-rate-changes/article_fbe07fa3-c487-5eff-84a7-72d502c842cd.html) to trick people into supporting the organization’s pro-big money causes.
@@ -106,6 +114,7 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 -   [:bulb:**Whatley Supported Cuts To Clean Energy Jobs**](/northcarolina-senate/Michael-Whatley/Clean-Energy)
 - [:bomb:**Whatley Supported War In Iran Which Caused Skyrocketting Gas And Fertilizer Prices**](/northcarolina-senate/Michael-Whatley/Iran)
 - [:woman:**Whatley’s Extreme Anti-Choice Views Restricted North Carolina Women Right To Choose**](/northcarolina-senate/Michael-Whatley/abortion)
+- [:moneybag:**Whatley Defended Cuts That Threatened North Carolina's Economy**](/northcarolina-senate/Michael-Whatley/DOGE)
 {.links-list}
 ## Michael Whatley Was A Failed DC Insider
 -   [:moneybag:**Whatley Was A DC Insider And Lobbyist**](/northcarolina-senate/Michael-Whatley/Swamp)
