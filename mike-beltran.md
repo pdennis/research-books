@@ -2,7 +2,7 @@
 title: Mike Beltran
 description: 
 published: true
-date: 2026-08-31T17:34:59.133Z
+date: 2026-08-31T18:08:56.705Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-27T20:20:33.315Z
@@ -39,15 +39,15 @@ Floridians deserve better than another out-of-touch extremist.
 
 ### Beltran supported abortion ban that endangered floridians 
 
--   Lee has long been an anti-choice extremist, starting from her first campaign for Congress in 2022 when she [praised](https://youtu.be/rG0QV1KeAyc) the Supreme Court’s decision to overturn Roe v. Wade, which led to Florida instituting a near-total abortion ban. She also [supported](https://floridapolitics.com/archives/564157-alan-cohn-attacks-laurel-lee-on-abortion-issue-amid-reports-of-incest-victim/) Florida’s 15-week abortion ban that [endangered](https://phr.org/news/floridas-abortion-ban-endangers-patients-by-causing-delays-and-denials-of-medical-care-phr-research-brief/) Floridians. After she was elected to Congress, she voiced [opposition](https://x.com/Vote_Laurel/status/1848793349593174502) to a ballot amendment to enshrine the right to abortion in Florida’s constitution that received support from [57 percent of Floridians](https://www.npr.org/2024/11/09/nx-s1-5183891/floridas-amendment-to-protect-abortion-rights-fell-short-of-passing-by-just-3-votes). 
+- Beltran has long been an anti-choice extremist who said he would [“give [his] life”](https://x.com/MBeltranFL/status/1541960885756895233?s=20) to end abortion. After Florida passed a 15-week abortion ban, Beltran claimed he wanted to [ban all abortions](https://baynews9.com/fl/tampa/news/2022/06/28/hillsborough-gop-state-rep-wants-state-to-ban-all-abortions-in-florida-) in the state of Florida. Beltran even claimed the state’s ban wasn’t [extreme](https://soundcloud.com/abpac/mike-beltran-washington-watch/s-0Dg8tHVezTp?si=539edeca6bc047b18fca8e0b74393956&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing0) at all. 
 
-**Message:** Lee was an anti-choice extremist who praised the overturning of Roe v. Wade and supported a 15-week abortion ban that endangered Floridians
+**Message:** Beltran was an anti-choice extremist who thought Florida's dangerous abortion ban didn't go far enough. 
 
-### It Took Lee 11 Months To Vote To release The Epstein Files
+### Beltran Supported Trump's strikes against Iran
 
--   Lee voted twice to [protect](https://www.politico.com/live-updates/2025/07/15/congress/jeffrey-epstein-house-democrats-struggle-00454000) the accused pedophiles named in the Epstein files, and never [cosponsored](https://www.congress.gov/bill/119th-congress/house-resolution/581/cosponsors?pageSort=alphaByParty) legislation or [signed](https://clerk.house.gov/DischargePetition/2025090209) Rep. Thomas Massie’s discharge petition that called for the Epstein files to be released. Only after Trump [signaled](https://truthsocial.com/@realDonaldTrump/posts/115562626931599548) it was okay did Lee [vote](http://clerk.house.gov/evs/2025/roll289.xml) to release the files. 
+- Beltran said he wanted [foreign policy]( https://soundcloud.com/abpac/mike-beltran-breitbart-news-1/s-H5CAnDxsmpG?si=dfdb611309544bc5b625a0265ad3ece8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) “like the one we’ve had where we killed the Ayatollah.” The death of the Ayatollah marked the [start]( https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html) of Trump’s costly war in Iran. As a result, Floridians paid more for [gas and groceries]( https://wsvn.com/news/local/miami-dade/everything-is-expensive-south-florida-drivers-react-to-rising-gas-prices-as-iran-war-tensions-intensify/)  
 
-**Message:** Lee voted to protect the accused pedophiles named in the Epstein files until Trump signaled it was okay to vote to release the files. 
+**Message:** Beltran supported Trump's costly war in Iran that raised prices for Floridians. 
 
 
 # Issue Briefs
