@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-08-31T19:38:09.459Z
+date: 2026-08-31T19:38:36.537Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -99,6 +99,6 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 
 - [**Collins Was Part Of The Epstein Class**](https://research-books.com/en/susan-collins/collins-epstein)
 
-- [**Collins voted for ICE funding that was harming Maine's communities**](/susan-collins/ICE)
+- [**Collins Voted For ICE Funding That Was Harming Maine's Communities**](/susan-collins/ICE)
 
 {.links-list}
