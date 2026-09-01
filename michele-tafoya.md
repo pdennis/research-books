@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-08-21T15:59:47.414Z
+date: 2026-09-01T20:00:14.740Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -61,9 +61,10 @@ After urging Trump [not to run](https://www.washingtonexaminer.com/news/campaign
 **Message:** Tafoya would be another loyal MAGA foot soldier, not an independent thinker for Minnesotans.
 
 ### Tafoya Hated Minnesota
+
 Tafoya repeatedly insulted Minnesota, and made it clear that she did not want to be there. Tafoya said that she would be "[fleeing](https://x.com/Michele_Tafoya/status/1823013976453607805)" Minnesota soon. Tafoya also called Minnesota a "[provincial](https://www.youtube.com/watch?v=NnUS56RoM18)" state. Tafoya even said "[the last people I'm going to answer to are the Minnesotans who send me there](https://www.youtube.com/watch?v=K99M-9gxHEQ)."
 
-**Message:** Tafoya, a native Californian, cannot be trusted to serve a state that she clearly hates. 
+**Message:** Tafoya, a native Californian, cannot be trusted to serve a state that she clearly hates.
 
 # ISSUE BACK-UPS
 
@@ -86,5 +87,3 @@ Tafoya repeatedly insulted Minnesota, and made it clear that she did not want to
 [**Tafoya Sucked Up To Trump And Towed The MAGA Line**](/michele-tafoya/Trump)
 
 [**Tafoya Hated Minnesota**](/michele-tafoya/Californian)
-
-{.links-list}
