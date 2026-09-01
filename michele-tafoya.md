@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-09-01T20:05:59.572Z
+date: 2026-09-01T20:06:23.689Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -87,5 +87,4 @@ Tafoya repeatedly insulted Minnesota, and made it clear that she did not want to
 [**Tafoya Sucked Up To Trump And Towed The MAGA Line**](/michele-tafoya/Trump)
 
 [**Tafoya Hated Minnesota**](/michele-tafoya/Californian)
-
 {.links-list}
