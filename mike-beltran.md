@@ -2,7 +2,7 @@
 title: Mike Beltran
 description: 
 published: true
-date: 2026-08-31T18:08:56.705Z
+date: 2026-09-01T16:23:54.100Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-27T20:20:33.315Z
@@ -59,5 +59,6 @@ Floridians deserve better than another out-of-touch extremist.
 - [:woman: *Beltran Supported Abortion Bans That Endangered Floridians*](https://research-books.com/en/mike-beltran/choice)
 - [🪖 *Beltran Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/mike-beltran/beltran-iran)
 {.links-list}
-
+## Mike Beltran Tried Rewrite History
+- [:computer: *Beltran Hid His Support For Trump And His Agenda After Winning The FL-14 Primary*](https://research-books.com/en/mike-beltran/website)
 {.links-list}
