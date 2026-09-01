@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-08-26T16:53:24.165Z
+date: 2026-09-01T15:23:42.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
@@ -33,6 +33,7 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 ### Hinson Opposed Expanding And Protecting Healthcare Coverage
 
 -   Hinson opposed expanding Medicare coverage, claiming that it was “[socialism](https://iowastartingline.com/2021/09/27/mathis-criticizes-hinson-for-medicare-expansion-socialism-comments/).” Hinson [twice](https://iowastartingline.com/2022/04/03/hinson-feenstra-vote-against-insulin-price-cap-axne-and-miller-meeks-support/) [voted](https://iowastartingline.com/2022/08/16/ashley-hinson-voted-against-insulin-caps-because-republicans/) against capping insulin prices for seniors.
+- Hinson [opposed](https://youtu.be/WJYVf_n92-c?si=TxOqU6p2kbLpEOkl) price caps and price negotiations on presccription drugs and [voted](https://meidasnews.com/news/ashley-hinson-received-a-half-million-dollars-from-big-pharma-while-voting-to-increase-healthcare-costs) to exempt and delay certain drugs from having their price negotiated.
 -   Hinson [opposed](https://iowacapitaldispatch.com/2025/12/03/iowa-u-s-house-delegation-largely-wary-of-extending-health-care-tax-credits/) extending ACA subsidies and called the ACA, the “[unaffordable care act](https://www.radioiowa.com/2025/11/05/hinson-says-aca-subsidies-mask-cost-of-insurance/).” Without extending the ACA subsidies, Iowans could face over [$1 thousand](https://www.axios.com/local/des-moines/2025/11/24/iowa-health-cost-premiums-nunn-aca-obamacare) monthly health insurance hike and would hit [rural Iowa hard](https://www.radioiowa.com/2025/12/16/iowa-farmers-union-says-end-of-aca-tax-credits-a-huge-hit-to-rural-america/).
 
 **Message:** Hinson betrayed Iowans by refusing to extend and protect Iowan’s healthcare.
