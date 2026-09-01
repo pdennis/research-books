@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-08-31T19:38:36.537Z
+date: 2026-09-01T16:26:04.709Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -76,29 +76,40 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 
 - Collins continued to [defend](https://spectrumlocalnews.com/me/maine/politics/2026/08/14/maine-sen--collins-defends-ice-support--says-she-ll-push-for-continued-reforms) ICE after the murder of Johan Sebastian Duran Guerrero in Biddeford. 
 
-
 **Message**: As ICE terrorized Maine, even murdering an individual in Biddeford, Susan Collins provided the organization all the support Trump wanted and needed for it. 
+
+### **Collins Allowed A Bill That Slashed Medicaid And SNAP To Go Through**
+
+- Collins voted to [advance](https://www.rollingstone.com/politics/politics-features/susan-collins-trump-tax-bill-wall-street-private-equity-1235420525/) the One Big Beautiful Bill after billionaire Steve Schwarzman, who would’ve benefited greatly from the bill, [injected](https://www.rollingstone.com/politics/politics-features/susan-collins-trump-tax-bill-wall-street-private-equity-1235420525/) $2 million into a super PAC supporting her campaign. 
+
+- The One Big Beautiful bill was expected to kick upwards of [60,000 Mainers](https://www.mainepublic.org/maine/2025-07-03/trumps-budget-bill-will-add-significant-stress-to-maine-hospitals-officials-say) off their health insurance plan and place [four](https://mainemorningstar.com/2025/07/18/medicaid-cuts-could-cost-maine-hospitals-66-million-a-year-report-finds/) rural hospitals at rick of closure. 
+
+- Since the passage of the One Big Beautiful Bill, over 13,000 Mainers have [lost](https://www.wabi.tv/2026/08/05/fewer-mainers-are-receiving-snap-benefits-new-data-shows/) their SNAP benefits. 
+
+**Message:** As much as Susan Collins doesn’t want to admit it, she is complicit in the passage of the Big Ugly Bill and it’s cuts to Mainer’s healthcare and food assistance. 
 
 # **Issue Back-Ups**
 
 ## **Susan Collins Used Her Power To Benefit The Powerful And Hurt Everyday People**
 
-- [**Collins Was Bad For Mainers Health Care**](/en/susan-collins/collins-healthcare)
+- [**Susan Collins Was Bad For Mainers Health Care**](/en/susan-collins/collins-healthcare)
 
 - [**Susan Collins Directly Curtailed Abortion Rights**](/en/susan-collins/collins-abortion)
 
-- [**Collins Voted To Confirm RFK Jr. With No Regrets**](/en/susan-collins/collins-rfkjr)
+- [**Susan Collins Voted To Confirm RFK Jr. With No Regrets**](/en/susan-collins/collins-rfkjr)
 
-- [**Collins Was MAGA, Not A Moderate**](https://research-books.com/en/susan-collins/collins-maga)
+- [**Susan Collins Was MAGA, Not A Moderate**](https://research-books.com/en/susan-collins/collins-maga)
 
-- [**Collins Pushed For Unpopular Voter Restrictions That Maine Voters Already Rejected**](https://research-books.com/en/susan-collins/collins-save-act)
+- [**Susan Collins Pushed For Unpopular Voter Restrictions That Maine Voters Already Rejected**](https://research-books.com/en/susan-collins/collins-save-act)
 
-- [**Collins Opposed A Stock Trading Ban While She Profited From Office**](https://research-books.com/en/susan-collins/collins-profiteering)
+- [**Susan Collins Opposed A Stock Trading Ban While She Profited From Office**](https://research-books.com/en/susan-collins/collins-profiteering)
 
-- [**Collins Supported The War In Iran That Drove Up Mainers' Prices**](https://research-books.com/en/susan-collins/collins-war)
+- [**Susan Collins Supported The War In Iran That Drove Up Mainers' Prices**](https://research-books.com/en/susan-collins/collins-war)
 
-- [**Collins Was Part Of The Epstein Class**](https://research-books.com/en/susan-collins/collins-epstein)
+- [**Susan Collins Was Part Of The Epstein Class**](https://research-books.com/en/susan-collins/collins-epstein)
 
-- [**Collins Voted For ICE Funding That Was Harming Maine's Communities**](/susan-collins/ICE)
+- [**Susan Collins Voted For ICE Funding That Was Harming Maine's Communities**](/susan-collins/ICE)
+
+- [**Susan Collins Allowed A Bill That Slashed Medicaid And SNAP To Go Through**](/susan-collins/OBBB)
 
 {.links-list}
