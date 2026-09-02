@@ -2,7 +2,7 @@
 title: Roger Marshall
 description: 
 published: true
-date: 2026-09-02T14:57:17.378Z
+date: 2026-09-02T14:57:46.904Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-01T16:40:05.673Z
@@ -64,18 +64,20 @@ Roger Marshall knows full well how extensive the damage caused by DOGE cuts was 
 
 ## Roger Marshall
 
-[**Marshall Supported The Disastrous War With Iran**](/roger-marshall/Iran)
+- [**Marshall Supported The Disastrous War With Iran**](/roger-marshall/Iran)
 
-[**Marshall Opposed The CHIPS Act**](/roger-marshall/CHIPS)
+- [**Marshall Opposed The CHIPS Act**](/roger-marshall/CHIPS)
 
-[**Marshall Frequently Traveled To His Expensive Beachfront Vacation Home In Florida On The Taxpayer's Dime**](/roger-marshall/Florida-Man)
+- [**Marshall Frequently Traveled To His Expensive Beachfront Vacation Home In Florida On The Taxpayer's Dime**](/roger-marshall/Florida-Man)
 
-[**Marshall Backed Cuts To Healthcare And Food Assistance For Kansans**](/roger-marshall/OBBB)
+- [**Marshall Backed Cuts To Healthcare And Food Assistance For Kansans**](/roger-marshall/OBBB)
 
-[**Marshall Flip-Flopped On The Save Our Bacon Act**](/roger-marshall/Save-Our-Bacon)
+- [**Marshall Flip-Flopped On The Save Our Bacon Act**](/roger-marshall/Save-Our-Bacon)
 
-[**Marshall Backed Devastating Trade Wars**](/roger-marshall/tariffs)
+- [**Marshall Backed Devastating Trade Wars**](/roger-marshall/tariffs)
 
-[**Marshall Took Credit For The Bipartisan Infrastructure Law He Staunchly Opposed**](/roger-marshall/BIL)
+- [**Marshall Took Credit For The Bipartisan Infrastructure Law He Staunchly Opposed**](/roger-marshall/BIL)
 
-[**Marshall Was All-In On DOGE Cuts**](/roger-marshall/DOGE)
+- [**Marshall Was All-In On DOGE Cuts**](/roger-marshall/DOGE)
+
+{.links-list}
