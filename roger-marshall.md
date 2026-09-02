@@ -2,13 +2,15 @@
 title: Roger Marshall
 description: 
 published: true
-date: 2026-09-01T20:04:43.279Z
+date: 2026-09-02T14:57:17.378Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-01T16:40:05.673Z
 ---
 
 # HOW TO WIN AGAINST ROGER MARSHALL
+
+Florida Man Roger Marshall doesn't represent Kansas values. When he's not busy spending taxpayer money visiting his Florida vacation home, Marshall finds time to enact countless policies that harm everyday Kansans. He voted to continue the Iran war, even as it caused gas prices and fertilizer costs to skyrocket, squeezing Kansas farmers and families. He embraced tariff wars, brushing off the pain that Kansans feel in the rising prices of consumer goods and farming inputs. Marshall also voted to pass the One Big Beautiful Bill, which gutted food assistance and threatened to eliminate healthcare coverage for 13,000 Kansans. He opposed investments that benefited Kansans across the state, and then he took credit for them. Roger Marshall lacks principle and lacks a spine, and Kansans are tired of being hung out to dry by this Florida Senator.
 
 ### Marshall Supported The Disastrous War With Iran
 
@@ -48,7 +50,7 @@ Roger Marshall brands himself a champion of Kansas farmers. In reality, he seems
 
 ### Marshall Took Credit For The Bipartisan Infrastructure Law He Staunchly Opposed
 
-Roger Marshall turned his back on Kansans when he failed to support the Bipartisan Infrastructure Law. Marshall [**panned**](https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-statement-on-president-bidens-infrastructure-proposal/) the bill, [**called**](https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-statement-on-infrastructure-package-that-adds-256-billion-to-deficit/) it names, and [**voted**](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions) it down. Thankfully, the bill still passed, because Kansas saw [**billions**](https://kclyradio.com/blog/three-years-after-passage-bipartisan-infrastructure-law-brings-3-3-billion-to-kansas-for-roads-water-broadband-and-more/) of dollars invested in a sprawling [**rejuvenation**](https://www.epa.gov/newsreleases/biden-harris-administration-announces-over-56m-kansas-drinking-water-wastewater-and) of infrastructure across the board, benefiting Kansans from all walks of live in every corner of the state. Marshall seems to be thankful, too, because he has made a habit of [**taking credit**](https://www.kansascity.com/news/politics-government/article316648316.html) for projects around Kansas that stem from the Bipartisan Infrastructure Law he so vehemently opposed.
+Roger Marshall turned his back on Kansans when he failed to support the Bipartisan Infrastructure Law. Marshall [**panned**](https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-statement-on-president-bidens-infrastructure-proposal/) the bill, [**called**](https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-statement-on-infrastructure-package-that-adds-256-billion-to-deficit/) it names, and [**voted**](https://www.congress.gov/bill/117th-congress/house-bill/3684/actions) it down. Thankfully, the bill still passed, because Kansas saw [**billions**](https://kclyradio.com/blog/three-years-after-passage-bipartisan-infrastructure-law-brings-3-3-billion-to-kansas-for-roads-water-broadband-and-more/) of dollars invested in a sprawling [**rejuvenation**](https://www.epa.gov/newsreleases/biden-harris-administration-announces-over-56m-kansas-drinking-water-wastewater-and) of infrastructure across the board, benefiting Kansans from all walks of life in every corner of the state. Marshall seems to be thankful, too, because he has made a habit of [**taking credit**](https://www.kansascity.com/news/politics-government/article316648316.html) for projects around Kansas that stem from the Bipartisan Infrastructure Law he so vehemently opposed.
 
 **Message:** Marshall opposed vital investments for Kansas infrastructure; then, he turned around and took credit for them.
 
