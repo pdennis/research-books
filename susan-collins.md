@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-09-03T18:32:35.558Z
+date: 2026-09-03T18:33:46.161Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -87,6 +87,16 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 - Since the passage of the One Big Beautiful Bill, over 13,000 Mainers have [lost](https://www.wabi.tv/2026/08/05/fewer-mainers-are-receiving-snap-benefits-new-data-shows/) their SNAP benefits. 
 
 **Message:** As much as Susan Collins doesn’t want to admit it, she is complicit in the passage of the Big Ugly Bill and it’s cuts to Mainer’s healthcare and food assistance. 
+
+### **Susan Collins Opposed Defunding DOGE And Was Friendly With DOGe Founder And Billionaire Elon Musk**
+
+- Susan Collins was friendly with Musk, claiming that she was “[very impressed](https://www.politico.com/live-updates/2024/12/05/congress/collins-and-musk-meet-00192854)” by him and when she had the chance to have him testify about DOGE at the appropriations committee, she claimed she hasn’t [considered it](https://www.pressherald.com/2025/03/03/challenger-criticizes-collins-for-lack-of-oversight-of-elon-musk-spending-cuts/). 
+
+- Collins also wasn’t totally against DOGE despite the damage it has done to Maine, she claimed that DOGE could be “[useful](https://www.pressherald.com/2024/11/15/sen-collins-wants-full-confirmation-process-for-trump-appointees/),” voted [against](https://mustreadalaska.com/murkowski-votes-with-dems-to-defund-doge/) defunding it and even was open to [codifying](https://thehill.com/homenews/senate/5204350-senate-republicans-trump-doge-government-funding/) DOGE cuts. 
+
+- Musk could spend [millions](https://www.mainepublic.org/news/2026-08-03/report-elon-musk-to-spend-millions-backing-collins-reelection) backing Collins campaign and has already spent [$170,000](https://thehill.com/homenews/campaign/6069181-musk-america-pac-spending-surge/). 
+
+**Message:** Collins claimed to fight for Maine but she has been friendly with Musk, opposed defunding DOGE which was hurting Maine and in trade, Musk was preparing to support her campaign through his Super PAC. 
 
 # **Issue Back-Ups**
 
