@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-09-03T18:33:46.161Z
+date: 2026-09-03T18:34:17.085Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -88,7 +88,7 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 
 **Message:** As much as Susan Collins doesn’t want to admit it, she is complicit in the passage of the Big Ugly Bill and it’s cuts to Mainer’s healthcare and food assistance. 
 
-### **Susan Collins Opposed Defunding DOGE And Was Friendly With DOGe Founder And Billionaire Elon Musk**
+### **Susan Collins Opposed Defunding DOGE And Was Friendly With DOGE Founder And Billionaire Elon Musk**
 
 - Susan Collins was friendly with Musk, claiming that she was “[very impressed](https://www.politico.com/live-updates/2024/12/05/congress/collins-and-musk-meet-00192854)” by him and when she had the chance to have him testify about DOGE at the appropriations committee, she claimed she hasn’t [considered it](https://www.pressherald.com/2025/03/03/challenger-criticizes-collins-for-lack-of-oversight-of-elon-musk-spending-cuts/). 
 
@@ -122,6 +122,6 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 
 - [**Susan Collins Allowed A Bill That Slashed Medicaid And SNAP To Go Through**](/susan-collins/OBBB)
 
-- [**Susan Collins Opposed Defunding DOGE And Was Friendly With DOGe Founder And Billionaire Elon Musk**](/susan-collins/DOGE)
+- [**Susan Collins Opposed Defunding DOGE And Was Friendly With DOGE Founder And Billionaire Elon Musk**](/susan-collins/DOGE)
 
 {.links-list}
