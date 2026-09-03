@@ -2,7 +2,7 @@
 title: Joe Mitchell (IA-02)
 description: 
 published: true
-date: 2026-07-29T19:20:26.693Z
+date: 2026-09-03T16:18:35.298Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T21:43:21.661Z
@@ -26,7 +26,7 @@ Joe Mitchell is a social climber who is more interested in running for Congress 
 
 ### Mitchell supported tariffs that were raising costs on iowans and harming iowa farmers. 
 
--   On the campaign trail, Mitchell had nothing but [positive things](https://soundcloud.com/newstalk1540kxel/joe-mitchell-gop-for-congress) to say about Trump’s tariffs. He said he was [“supportive of the president and what he’s done with tariffs.”](https://soundcloud.com/newstalk1540kxel/joe-mitchell-gop-for-congress) 
+-   On the campaign trail, Mitchell had nothing but [positive things](https://soundcloud.com/newstalk1540kxel/joe-mitchell-gop-for-congress) to say about Trump’s tariffs. He said he was [“supportive of the president and what he’s done with tariffs.”](https://soundcloud.com/newstalk1540kxel/joe-mitchell-gop-for-congress) In March 2026, Mitchell said what the president had done with tariff ["has actually been a good thing."](https://www.youtube.com/watch?v=gt7MYGTDDVc) 
 -   Iowans on the other hand, expressed [concern](https://www.iowapublicradio.org/political-news/2025-04-08/iowa-agricultural-exports-trump-trade-war-retaliatory-tariffs) about the impact of Trump’s tariffs on the economy. One Iowa State University professor of economics told a reporter [“we’re all going to be poorer”](https://www.thegazette.com/article/iowa-state-economist-on-trump-tariff-policies-were-all-going-to-be-poorer/) after Trump’s tariffs took effect. Farmers were also struggling after Trump’s tariffs that caused [China](https://www.reuters.com/world/china/us-misses-out-billions-dollars-china-soybean-sales-midway-through-peak-season-2025-09-10/) to stop buying American soybeans. The Iowa Farmers Union president [said](https://www.nytimes.com/2026/01/27/us/politics/trump-iowa-farms-tariffs.html) farmers were losing money on every bushel they produced Iowa’s two main crops. One cattle producer said, [“We’re tired of being a pawn…and we’re tired of being sacrificed.”](https://www.desmoinesregister.com/story/money/agriculture/2026/02/19/iowa-farmers-dump-president-donald-trump-tariffs/88742069007/) 
 
 **Message:** Mitchell was eager to back an economic agenda that led to more hardship for Iowa farmers. 
