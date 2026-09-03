@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-09-01T16:26:04.709Z
+date: 2026-09-03T18:32:35.558Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -111,5 +111,7 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 - [**Susan Collins Voted For ICE Funding That Was Harming Maine's Communities**](/susan-collins/ICE)
 
 - [**Susan Collins Allowed A Bill That Slashed Medicaid And SNAP To Go Through**](/susan-collins/OBBB)
+
+- [**Susan Collins Opposed Defunding DOGE And Was Friendly With DOGe Founder And Billionaire Elon Musk**](/susan-collins/DOGE)
 
 {.links-list}
