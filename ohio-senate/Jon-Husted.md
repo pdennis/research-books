@@ -2,7 +2,7 @@
 title: Jon Husted
 description: 
 published: true
-date: 2026-09-04T19:45:33.559Z
+date: 2026-09-04T19:52:51.416Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T18:04:10.787Z
@@ -68,6 +68,12 @@ Husted was at the center of Ohio’s FirstEnergy bribery scandal. The scandal, w
 Husted [_defended_](https://www.newsandsentinel.com/news/local-news/2026/03/west-virginia-ohio-politicians-candidates-weigh-in-on-attacks-on-iran/) the war in Iran despite the war causing gas prices in Ohio to skyrocket. The resulting price increases were hurting Ohio [_families_](https://www.cantonrep.com/story/news/local/alliance/2026/04/30/gas-higher-prices-drivers-alliance-reaction/89874971007/), [_farmers_](https://www.nbc4i.com/news/local-news/central-ohio-news/unrest-in-iran-impacts-local-farmers-food-costs/), and [_organizations_](https://www.13abc.com/2026/03/17/gas-prices-strain-northwest-ohio-food-nonprofits/).
 
 **Message**: Husted ignored Ohioans and supported Trump’s war in Iran, which was raising gas and fertilizer prices and tightening Ohio families’, farmers’, and organizations’ budgets.
+
+### **Husted Supported DOGE Efforts That Cut Funding For Ohioans**
+
+Husted claimed Elon Musk was helping Ohioans and supported DOGE spending cuts. However, DOGE cuts harmed Ohioans while Husted stood by in [support](https://www.cleveland.com/news/2025/02/democrats-are-noisy-republicans-mostly-silent-over-trump-job-cuts-at-cvnp-and-potentially-elsewhere.html). DOGE cuts hurt farmers whose produce was used to feed schoolchildren and local food [banks](https://www.nbc4i.com/news/local-news/columbus/doge-cuts-hitting-ohio-farmers-food-banks/). DOGE cut funding for programs in Ohio, such as the Cincinnati Contemporary Arts Center program that helped thousands of [teenagers](https://www.wcpo.com/news/local-news/elon-musk-leaves-trump-administration-heres-how-the-doge-cuts-impacted-the-tri-state). DOGE also initially cut funding for Cleveland’s Fair Housing Center for Rights & Research, revoking $112,500 that would have gone toward fighting housing [discrimination](https://www.cleveland.com/realestate-news/2025/03/cleveland-fair-housing-nonprofit-among-those-suing-doge-over-unlawful-cuts.html). Now Jon, does that sound like helping Ohioans? 
+
+**Message**: Husted pretends to care about Ohioans, but in reality he supports cuts to their essential programs.
 
 # Issue Back-Ups
 
