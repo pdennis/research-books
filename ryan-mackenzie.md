@@ -2,7 +2,7 @@
 title: Ryan Mackenzie
 description: 
 published: true
-date: 2026-08-27T15:07:24.790Z
+date: 2026-09-04T15:36:51.344Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T11:23:44.035Z
@@ -60,10 +60,10 @@ Mackenzie is a MAGA-aligned partisan posing as a pragmatist. He backed ripping h
 
 ## Ryan Mackenzie's Policies Hurt Everyday Pennsylvanians
 -    [🏥 *Mackenzie Voted To Take Health Coverage From Pennsylvanians*](/en/ryan-mackenzie/mackenzie-medicaid)
--    [👴 *Mackenzie Voted for Massive Cuts To Medicare*](/en/ryan-mackenzie/mackenzie-medicare)
+-    [👴 *Mackenzie Voted For Massive Cuts To Medicare*](/en/ryan-mackenzie/mackenzie-medicare)
 -    [💊 *Mackenzie Chose Big Pharma Over Pennsylvanians*](/en/ryan-mackenzie/mackenzie-pharma)
 -    [🛒 *Mackenzie Supported Trump's Tariffs At The Expense Of Pennsylvania Jobs*](/en/ryan-mackenzie/mackenzie-tariffs)
--    [❌ *Mackenzie Defended Attacks on Social Security*](/en/ryan-mackenzie/mackenzie-doge)
+-    [❌ *Mackenzie Defended Attacks On Social Security*](/en/ryan-mackenzie/mackenzie-doge)
 -    [🪜 *Mackenzie Was A Threat To Worker Safety*](/en/ryan-mackenzie/mackenzie-osha)
 -    [🪖 *Mackenzie Backed Trump's Costly War With Iran That Raised Prices On Pennsylvanians*](/en/ryan-mackenzie/mackenzie-iran)
 {.links-list}
