@@ -2,7 +2,7 @@
 title: Jon Husted
 description: 
 published: true
-date: 2026-08-25T21:44:52.334Z
+date: 2026-09-04T19:44:18.250Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T18:04:10.787Z
@@ -95,6 +95,9 @@ Husted [_defended_](https://www.newsandsentinel.com/news/local-news/2026/03/west
 {.links-list}
 
 - [:bomb:**Husted Supported War In Iran Which Caused Skyrocketing Gas and Fertilizer Prices**](/Jon-Husted/Iran)
+{.links-list}
+
+- [:moneybag:**Husted Supported DOGE Efforts That Cut Funding For Ohioans**](/Jon-Husted/DOGE)
 {.links-list}
 
 ## Jon Husted Was Involved In Scandal
