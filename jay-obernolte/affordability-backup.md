@@ -1,8 +1,8 @@
 ---
 title: Rep. Jay Obernolte (CA-23): Can't Be Trusted on Affordability
 description: 
-published: false
-date: 2026-02-18T19:43:12.709Z
+published: true
+date: 2026-09-08T15:49:35.093Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:09:22.294Z
