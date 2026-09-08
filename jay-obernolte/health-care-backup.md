@@ -1,8 +1,8 @@
 ---
 title: Rep. Jay Obernolte (CA-23): Can't Be Trusted on Health Care
 description: 
-published: false
-date: 2026-02-18T19:43:27.149Z
+published: true
+date: 2026-09-08T15:49:46.805Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:09:45.651Z
