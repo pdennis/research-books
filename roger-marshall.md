@@ -2,7 +2,7 @@
 title: Roger Marshall
 description: 
 published: true
-date: 2026-09-02T14:57:46.904Z
+date: 2026-09-08T20:44:16.340Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-01T16:40:05.673Z
@@ -60,24 +60,34 @@ Roger Marshall knows full well how extensive the damage caused by DOGE cuts was 
 
 **Message:** Marshall hid from Kansas voters as DOGE ravaged the state.
 
+### Marshall Took Money From Epstein’s Pals, Then Voted To Hide The Epstein Files
+
+Roger Marshall doesn’t think the Epstein Files are really that big of a deal. He dismissed efforts to unseal the files to the public as a “[political stunt](https://www.ksnt.com/news/top-stories/kansas-senators-explain-votes-blocking-epstein-file-release/)” and [voted](http://www.congress.gov/bill/119th-congress/senate-bill/2296) to keep them hidden. To Marshall, uncovering information that could bring justice for the many girls trafficked by Epstein was simply “[not of much interest](https://www.youtube.com/watch?v=dTKJ5He3pKo).” Maybe the [tens of thousands of dollars in donations](https://americanjournalnews.com/roger-marshall-has-an-epstein-files-problem/) he has accepted from Epstein’s buddies play a role in his reluctance to shine a light on the truth. 
+
+**Message:** Marshall downplayed the Epstein File scandal while racking in cash from Epstein's buddies.
+
+### Marshall Sued Hundreds Of His Patients Over Medical Debt
+
+Doctor Roger Marshall likes to [present himself](https://kansansformarshall.com/about/) to Kansas voters as a selfless, caring OB-GYN who helped deliver babies for rural Kansas mothers in need. He would rather voters didn’t see the cutthroat reality behind the curtain: for years, Marshall unleashed an endless, “[extreme](https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html?unlocked_article_code=1._lA.1PNP.I5XomW2Ay7yK&smid=url-share)” torrent of [hundreds of lawsuits](https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html?unlocked_article_code=1._lA.1PNP.I5XomW2Ay7yK&smid=url-share) on his patients for unpaid medical debts as small as $101. These patients, often financially vulnerable, saw wage and bank account garnishments and were frequently [charged 18 percent interest](https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html?unlocked_article_code=1._lA.1PNP.I5XomW2Ay7yK&smid=url-share) on their debts, all to pad Marshall’s pocketbook. Dozens of patients were arrested in service of his lawsuits, which he [collected on](https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html?unlocked_article_code=1._lA.1PNP.I5XomW2Ay7yK&smid=url-share) long after he left his practice and entered Congress. In contrast with the persona his campaign promotes, Roger Marshall has a callous and cruel record toward hundreds of his patients in rural Kansas. 
+
+**Message:** Marshall went to uniquely extreme lengths to extract money from some of his most vulnerable patients.
+
 # ISSUE BACK-UPS
 
 ## Roger Marshall
 
-- [**Marshall Supported The Disastrous War With Iran**](/roger-marshall/Iran)
+[**Marshall Supported The Disastrous War With Iran**](/roger-marshall/Iran)
 
-- [**Marshall Opposed The CHIPS Act**](/roger-marshall/CHIPS)
+[**Marshall Opposed The CHIPS Act**](/roger-marshall/CHIPS)
 
-- [**Marshall Frequently Traveled To His Expensive Beachfront Vacation Home In Florida On The Taxpayer's Dime**](/roger-marshall/Florida-Man)
+[**Marshall Frequently Traveled To His Expensive Beachfront Vacation Home In Florida On The Taxpayer's Dime**](/roger-marshall/Florida-Man)
 
-- [**Marshall Backed Cuts To Healthcare And Food Assistance For Kansans**](/roger-marshall/OBBB)
+[**Marshall Backed Cuts To Healthcare And Food Assistance For Kansans**](/roger-marshall/OBBB)
 
-- [**Marshall Flip-Flopped On The Save Our Bacon Act**](/roger-marshall/Save-Our-Bacon)
+[**Marshall Flip-Flopped On The Save Our Bacon Act**](/roger-marshall/Save-Our-Bacon)
 
-- [**Marshall Backed Devastating Trade Wars**](/roger-marshall/tariffs)
+[**Marshall Backed Devastating Trade Wars**](/roger-marshall/tariffs)
 
-- [**Marshall Took Credit For The Bipartisan Infrastructure Law He Staunchly Opposed**](/roger-marshall/BIL)
+[**Marshall Took Credit For The Bipartisan Infrastructure Law He Staunchly Opposed**](/roger-marshall/BIL)
 
-- [**Marshall Was All-In On DOGE Cuts**](/roger-marshall/DOGE)
-
-{.links-list}
+[**Marshall Was All-In On DOGE Cuts**](/roger-marshall/DOGE)
