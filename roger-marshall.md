@@ -2,7 +2,7 @@
 title: Roger Marshall
 description: 
 published: true
-date: 2026-09-08T20:45:51.599Z
+date: 2026-09-08T21:31:35.808Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-01T16:40:05.673Z
@@ -95,3 +95,5 @@ Doctor Roger Marshall likes to [present himself](https://kansansformarshall.com/
 [**Marshall Took Money From Epstein’s Pals, Then Voted To Hide The Epstein Files**](/roger-marshall/Epstein)
 
 [**Marshall Sued Hundreds Of His Patients Over Medical Debt**](/roger-marshall/medical-debt)
+
+[**Marshall Took Money From Groups He Cast As His "Haters"**](/roger-marshall/haters)
