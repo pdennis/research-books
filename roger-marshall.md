@@ -2,7 +2,7 @@
 title: Roger Marshall
 description: 
 published: true
-date: 2026-09-08T20:44:16.340Z
+date: 2026-09-08T20:45:51.599Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-01T16:40:05.673Z
@@ -91,3 +91,7 @@ Doctor Roger Marshall likes to [present himself](https://kansansformarshall.com/
 [**Marshall Took Credit For The Bipartisan Infrastructure Law He Staunchly Opposed**](/roger-marshall/BIL)
 
 [**Marshall Was All-In On DOGE Cuts**](/roger-marshall/DOGE)
+
+[**Marshall Took Money From Epstein’s Pals, Then Voted To Hide The Epstein Files**](/roger-marshall/Epstein)
+
+[**Marshall Sued Hundreds Of His Patients Over Medical Debt**](/roger-marshall/medical-debt)
