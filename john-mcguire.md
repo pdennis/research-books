@@ -2,7 +2,7 @@
 title: John McGuire (VA-05)
 description: 
 published: true
-date: 2026-08-10T16:18:09.753Z
+date: 2026-09-08T21:58:20.190Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-27T18:00:29.088Z
@@ -89,7 +89,6 @@ John McGuire has spent his time in Congress fighting to make Virginians’ lives
 - [:older_man: *McGuire Supported Policies That Put Services Seniors Relied On At-Risk*](https://research-books.com/en/john-mcguire/seniors)
 - [:carrot: *McGuire Voted To Take Food Assistance From Virginians*](https://research-books.com/en/john-mcguire/snap)
 - [:shopping_cart: *McGuire Voted To Protect Tariffs That Raised Prices On Virginians*](https://research-books.com/en/john-mcguire/tariffs)
-- [:fuelpump: *McGuire Supported A War That Raised Gas Prices On Virginians*](https://research-books.com/en/john-mcguire/gas)
 - [:woman: *McGuire Supported Extreme Anti-Choice Policies That Could Put Virginia Women At-Risk*](https://research-books.com/en/john-mcguire/choice)
 - [🪖 *McGuire Backed Trump's Costly War With Iran That Raised Prices On Virginians*](/en/john-mcguire/iran)
 {.links-list}
