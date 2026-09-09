@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-09-09T18:51:45.320Z
+date: 2026-09-09T18:54:12.729Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -114,5 +114,8 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 - [:money_with_wings: | **Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-georgia-donations)
 - [:moneybag: | **Billionaire Rick Jackson Courted Trump’s Support After He Benefitted From Trump’s Tax Cuts And Donated To MAGA Inc.**](/GA-Gov/rick-jackson/jackson-billionaire-trump)
 - [:dollar: | **Rick Jackson Hypocritically Opened A Leadership Committee To Raise Unlimited Donations After Challenging Them In Court**](/GA-Gov/rick-jackson/jackson-leadership-committee)
+{.links-list}
 
+## Rick Jackson's "Business Solutions" Includes Multi-Million-Dollar Settlements
+- [:money_with_wings: | **Rick Jackson’s Companies Agreed Multi-Million-Dollar Settlements For Allegedly Breaching Labor Laws, Failing To Pay Overtime, And Exploiting Workers**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-georgia-donations)
 {.links-list}
