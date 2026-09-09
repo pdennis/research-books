@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-09-09T18:47:07.927Z
+date: 2026-09-09T18:51:45.320Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -88,7 +88,7 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 
 **Message:** Rick Jackson hypocritically opened a leadership committee to raise unlimited donations despite challenging leadership committees in court and spending more than $100 million of his own wealth to secure the GOP nomination.
 
-### Rick Jackson’s Company Agreed To Multi-Million-Dollar Settlements For Allegedly Breaching Labor Laws, Failing To Pay Overtime, And Exploting Workers
+### Rick Jackson’s Companies Agreed To Multi-Million-Dollar Settlements For Allegedly Breaching Labor Laws, Failing To Pay Overtime, And Exploting Workers
 
 - Rick Jackson faced scrutiny for his [companies’ multi–million-dollar payments](https://www.thedailybeast.com/maga-billionaire-rick-jacksons-ugly-business-baggage-exposed/) to settle claims they [exploited workers and breached labor laws](https://www.rawstory.com/rick-jackson/) despite Jackson’s campaign promise to create jobs and bring [“business solutions to Georgia just like President Trump.”](https://www.thedailybeast.com/maga-billionaire-rick-jacksons-ugly-business-baggage-exposed/)
 
