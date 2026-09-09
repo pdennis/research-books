@@ -2,12 +2,13 @@
 title: Jim Desmond (CA-48)
 description: 
 published: true
-date: 2026-09-09T18:03:58.926Z
+date: 2026-09-09T18:11:49.001Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-27T23:32:24.709Z
 ---
 
+```markdown
 # How To Win Against Jim Desmond
 
 Jim Desmond is an out-of-touch millionaire who wants to be elected to Congress to fight for Donald Trump instead of the people of California's new 48^th^ district. Desmond has made it clear he supports Donald Trump's agenda, including the "One Big Beautiful Bill" that slashed health care and food assistance for Californians. He even defended the Trump administration's policies that raised prices on Southern Californians, like tariffs. He defended the war in Iran that contributed to high gas prices, saying "no pain, no gain." He even went so far as to vote against his own proposal so that he wouldn't be on the record saying Trump's policies had caused costs to skyrocket in California. Desmond accused Democrats of "fear-mongering" about DOGE even as the agency made cuts that weakened seniors' ability to access services and hindered health research in Southern California. As a Mayor and County Supervisor, he has been investigated over conflict-of-interest allegations and allegations that he accepted campaign contributions too close to a vote on a controversial development project. Desmond's time in public service has demonstrated that he is out of step with the needs of San Diegans.
@@ -67,6 +68,10 @@ Jim Desmond is an out-of-touch millionaire who wants to be elected to Congress t
 # Issue Briefs
 
 ## Desmond Supported Policies That Hurt Everyday Californians
+-    [🛒 *Desmond Defended Policies That Raised Costs On Southern Californians*](/en/jim-desmond/costs)
+-    [🥕 *Desmond Supported Taking Food Assistance From Southern Californians*](/en/jim-desmond/snap)
+-    [👴 *Desmond Defended Policies That Put Southern California Seniors At Risk*](/en/jim-desmond/seniors)
+-    [🏥 *Desmond Supported A Bill That Took Health Coverage From Southern Californians*](/en/jim-desmond/health-care)
 -    [🪖 *Desmond Backed Trump's Costly War With Iran That Raised Prices On Californians*](/en/jim-desmond/desmond-iran)
 {.links-list}
 
@@ -74,8 +79,5 @@ Jim Desmond is an out-of-touch millionaire who wants to be elected to Congress t
 -    [👀 *The California Fair Political Practices Commission Investigated Desmond For Conflict-Of-Interest Violations*](/en/jim-desmond/conflicts)
 -    [🏢 *Desmond Was Investigated For Accepting Donations From Individuals Who Had A Financial Interest In A Development Project He Greenlit As Mayor*](/en/jim-desmond/san-marcos)
 -    [❌ *Desmond Was The Only County Supervisor To Vote Against A Proposal To Crack Down On Scams, Junk Fees, And Predatory Financial Practices*](/en/jim-desmond/scams)
--    [🛒 *Desmond Defended Policies That Raised Costs On Southern Californians*](/en/jim-desmond/costs)
--    [🥕 *Desmond Supported Taking Food Assistance From Southern Californians*](/en/jim-desmond/snap)
--    [👴 *Desmond Defended Policies That Put Southern California Seniors At Risk*](/en/jim-desmond/seniors)
--    [🏥 *Desmond Supported A Bill That Took Health Coverage From Southern Californians*](/en/jim-desmond/health-care)
 {.links-list}
+```
