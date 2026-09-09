@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-08-28T22:15:32.924Z
+date: 2026-09-09T18:47:07.927Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -87,6 +87,15 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 - Despite [challenging](https://www.cbsnews.com/atlanta/news/georgia-gop-gubernatorial-candidate-rick-jackson-sues-lt-gov-burt-jones-over-campaign-finance-law/) leadership committees in court as unconstitutional and unfair, Rick Jackson [opened](https://www.ajc.com/politics/2026/06/jackson-opens-leadership-committee-after-challenging-the-law-in-court/) a leadership committee so he could raise unlimited contributions after securing the Republican nomination for Georgia governor. Jackson opened his leadership committee after [celebrating a federal appeals court ruling](https://www.ajc.com/politics/2026/06/federal-court-rules-a-fundraising-advantage-for-burt-jones-is-likely-illegal/) affirming that Georgia’s law allowing Jones and incumbents to raise unlimited funds with leadership committees was likely unconstitutional. Jackson spent [more than $100 million of his own wealth](https://www.politico.com/news/2026/06/16/jackson-wins-georgia-governor-runoff-00964631) to defeat Jones in the primary despite [attacking](https://www.ajc.com/politics/2026/06/top-georgia-politicians-rake-in-cash-as-lawsuits-that-could-stop-them-drag/) Jones for “abusing” his leadership committee. 
 
 **Message:** Rick Jackson hypocritically opened a leadership committee to raise unlimited donations despite challenging leadership committees in court and spending more than $100 million of his own wealth to secure the GOP nomination.
+
+### Rick Jackson’s Company Agreed To Multi-Million-Dollar Settlements For Allegedly Breaching Labor Laws, Failing To Pay Overtime, And Exploting Workers
+
+- Rick Jackson faced scrutiny for his [companies’ multi–million-dollar payments](https://www.thedailybeast.com/maga-billionaire-rick-jacksons-ugly-business-baggage-exposed/) to settle claims they [exploited workers and breached labor laws](https://www.rawstory.com/rick-jackson/) despite Jackson’s campaign promise to create jobs and bring [“business solutions to Georgia just like President Trump.”](https://www.thedailybeast.com/maga-billionaire-rick-jacksons-ugly-business-baggage-exposed/)
+
+- In 2022, Jackson Nurse Professionals agreed to a [nearly $2 million payout](https://www.thedailybeast.com/maga-billionaire-rick-jacksons-ugly-business-baggage-exposed/) after being accused of [violating](https://drive.google.com/file/d/13dyYsAnO-7OZtKgCsCLiX9rC6my0hQQ3/view?usp=sharing) California’s Unfair Competition Law and the Fair Labor Standards Act. In a federal suit filed in 2017, nursing employees accused Jackson Nurse Professionals of [failing to pay overtime wages](https://drive.google.com/file/d/13dyYsAnO-7OZtKgCsCLiX9rC6my0hQQ3/view?usp=sharing) and [wages owed at the time of employment termination.](https://drive.google.com/file/d/13JwMiv_hvIiY8qOBvFFfKOsc5hJNIlvI/view?usp=sharing) The company allegedly also [unlawfully collected wages](https://drive.google.com/file/d/13JwMiv_hvIiY8qOBvFFfKOsc5hJNIlvI/view?usp=sharing) from employees who did not work the minimum hours required under their contracts. 
+- In 2026, Jackson’s healthcare company, Avant Healthcare Professionals, agreed to a [$3 million settlement](https://www.cnn.com/2026/08/20/politics/rick-jackson-immigration-georgia-governor) with current and former foreign workers for allegedly trafficking foreign nurses. Since 2023, Avant faced a lawsuit from hired foreign nurses for allegedly violating the [Trafficking Victims Protection Act and the Fair Labor Standards Act,](https://www.cnn.com/2026/08/20/politics/rick-jackson-immigration-georgia-governor) claiming the company threatened to report foreign nurses to [U.S. immigration officials](https://dailycaller.com/2026/03/17/georgia-2026-midterms-foreign-nurses-h1b-rick-jackson-healthcare-burt-jones/) if they quit or breached their contracts. The foreign nurses argued working for Avant was [“essentially indentured servitude”](https://dailycaller.com/2026/03/17/georgia-2026-midterms-foreign-nurses-h1b-rick-jackson-healthcare-burt-jones/) and claimed the suit was about [labor trafficking and its impact on the workforce.](https://dailycaller.com/2026/03/17/georgia-2026-midterms-foreign-nurses-h1b-rick-jackson-healthcare-burt-jones/)
+
+**Message:** Rick Jackson wants to bring “business solutions to Georgia” despite his companies agreeing to multi-million-dollar settlements for exploiting workers and failing to pay overtime wages.
 
 # Issue Back-Ups
 
