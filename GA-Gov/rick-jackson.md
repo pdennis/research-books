@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-09-09T18:54:12.729Z
+date: 2026-09-09T18:54:36.307Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -117,5 +117,5 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 {.links-list}
 
 ## Rick Jackson's "Business Solutions" Includes Multi-Million-Dollar Settlements
-- [:money_with_wings: | **Rick Jackson’s Companies Agreed Multi-Million-Dollar Settlements For Allegedly Breaching Labor Laws, Failing To Pay Overtime, And Exploiting Workers**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-georgia-donations)
+- [:money_with_wings: | **Rick Jackson’s Companies Agreed Multi-Million-Dollar Settlements For Allegedly Breaching Labor Laws, Failing To Pay Overtime, And Exploiting Workers**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-labor)
 {.links-list}
