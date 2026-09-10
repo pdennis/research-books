@@ -2,7 +2,7 @@
 title: Brandon Herrera (TX-23)
 description: 
 published: true
-date: 2026-07-09T18:40:00.851Z
+date: 2026-09-10T20:43:53.274Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-25T19:02:58.206Z
@@ -101,6 +101,7 @@ Herrera may have been Trump’s only option, but the people of TX-23 can make a 
 # Issue Briefs
 ## Herrera Displayed Conduct Unbecoming Of A Prospective Congressman
 - [:warning: *Herrera Downplayed The Severity Of Mass Shootings And Called To Disband The Agency Tasked With Helping Investigate Them*](https://research-books.com/en/brandon-herrera/guns)
+- [:woman: *Herrera Made Vulgar Comments About Women And Children*](https://research-books.com/en/brandon-herrera/women)
 - [:warning: *Herrera Used Tragic Historical Shooting Events As Fodder For Content On His Channel*](https://research-books.com/en/brandon-herrera/disturbing)
 - [:warning: *Herrera Once Left An Inactive Explosive Device Behind After An Event, Which Prompted An Investigation By The San Antonio Bomb Squad*](https://research-books.com/en/brandon-herrera/reckless)
 - [:eyes: *Herrera Engaged In Conduct Unbecoming Of A Prospective Congressman*](https://research-books.com/en/brandon-herrera/offensive)
