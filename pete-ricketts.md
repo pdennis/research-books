@@ -2,7 +2,7 @@
 title: Pete Ricketts
 description: 
 published: true
-date: 2026-09-10T19:59:04.389Z
+date: 2026-09-10T20:00:00.883Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-10T17:00:32.280Z
@@ -52,14 +52,14 @@ Pete Ricketts claims he is sympathetic to the financial plight of Nebraska farme
 
 ## Pete Ricketts
 
-**Ricketts Supported The Disastrous War With Iran**
+[**Ricketts Supported The Disastrous War With Iran**](/pete-ricketts/Iran)
 
-**Ricketts Took Money From Epstein’s Pals, Then Voted To Hide The Epstein Files Before Flip-Flopping Under Pressure**
+[**Ricketts Took Money From Epstein’s Pals, Then Voted To Hide The Epstein Files Before Flip-Flopping Under Pressure**](/pete-ricketts/Epstein)
 
-**Ricketts Backed Devastating Trade Wars**
+[**Ricketts Backed Devastating Trade Wars**](/pete-ricketts/tariffs)
 
-**Ricketts Supported Deeply Unpopular Data Centers**
+[**Ricketts Supported Deeply Unpopular Data Centers**](/pete-ricketts/data-centers)
 
-**Ricketts Backed Cuts To Healthcare And Food Assistance For Nebraskans**
+[**Ricketts Backed Cuts To Healthcare And Food Assistance For Nebraskans**](/pete-ricketts/OBBB)
 
-**Ricketts Took Money From Fertilizer Companies Under Investigation For Price Fixing**
+[**Ricketts Took Money From Fertilizer Companies Under Investigation For Price Fixing**](/pete-ricketts/fertilizer)
