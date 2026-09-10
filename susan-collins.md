@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-09-10T16:40:34.937Z
+date: 2026-09-10T16:43:53.161Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -106,22 +106,22 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 
 - [:woman:**Susan Collins Directly Curtailed Abortion Rights**](/en/susan-collins/collins-abortion)
 
-- [:worm:**Susan Collins Voted To Confirm RFK Jr. With No Regrets**](/en/susan-collins/collins-rfkjr)
+- [:medical_symbol:**Susan Collins Voted To Confirm RFK Jr. With No Regrets**](/en/susan-collins/collins-rfkjr)
 
-- [**Susan Collins Was MAGA, Not A Moderate**](https://research-books.com/en/susan-collins/collins-maga)
+- [:elephant:**Susan Collins Was MAGA, Not A Moderate**](https://research-books.com/en/susan-collins/collins-maga)
 
-- [**Susan Collins Pushed For Unpopular Voter Restrictions That Maine Voters Already Rejected**](https://research-books.com/en/susan-collins/collins-save-act)
+- [:ballot_box:**Susan Collins Pushed For Unpopular Voter Restrictions That Maine Voters Already Rejected**](https://research-books.com/en/susan-collins/collins-save-act)
 
-- [**Susan Collins Opposed A Stock Trading Ban While She Profited From Office**](https://research-books.com/en/susan-collins/collins-profiteering)
+- [:money_with_wings:**Susan Collins Opposed A Stock Trading Ban While She Profited From Office**](https://research-books.com/en/susan-collins/collins-profiteering)
 
-- [**Susan Collins Supported The War In Iran That Drove Up Mainers' Prices**](https://research-books.com/en/susan-collins/collins-war)
+- [:bomb:**Susan Collins Supported The War In Iran That Drove Up Mainers' Prices**](https://research-books.com/en/susan-collins/collins-war)
 
-- [**Susan Collins Was Part Of The Epstein Class**](https://research-books.com/en/susan-collins/collins-epstein)
+- [:desert_island:**Susan Collins Was Part Of The Epstein Class**](https://research-books.com/en/susan-collins/collins-epstein)
 
-- [**Susan Collins Voted For ICE Funding That Was Harming Maine's Communities**](/susan-collins/ICE)
+- [:ice_cube:**Susan Collins Voted For ICE Funding That Was Harming Maine's Communities**](/susan-collins/ICE)
 
-- [**Susan Collins Allowed A Bill That Slashed Medicaid And SNAP To Go Through**](/susan-collins/OBBB)
+- [:apple:**Susan Collins Allowed A Bill That Slashed Medicaid And SNAP To Go Through**](/susan-collins/OBBB)
 
-- [**Susan Collins Supported DOGE's Efforts And Was In The Pocket Of Elon Musk**](/susan-collins/DOGE)
+- [:dog:**Susan Collins Supported DOGE's Efforts And Was In The Pocket Of Elon Musk**](/susan-collins/DOGE)
 
 {.links-list}
