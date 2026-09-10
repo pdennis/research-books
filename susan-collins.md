@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-09-03T19:48:43.873Z
+date: 2026-09-10T16:40:34.937Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -102,11 +102,11 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 
 ## **Susan Collins Used Her Power To Benefit The Powerful And Hurt Everyday People**
 
-- [**Susan Collins Was Bad For Mainers Health Care**](/en/susan-collins/collins-healthcare)
+- [:hospital:**Susan Collins Was Bad For Mainers Health Care**](/en/susan-collins/collins-healthcare)
 
-- [**Susan Collins Directly Curtailed Abortion Rights**](/en/susan-collins/collins-abortion)
+- [:woman:**Susan Collins Directly Curtailed Abortion Rights**](/en/susan-collins/collins-abortion)
 
-- [**Susan Collins Voted To Confirm RFK Jr. With No Regrets**](/en/susan-collins/collins-rfkjr)
+- [:worm:**Susan Collins Voted To Confirm RFK Jr. With No Regrets**](/en/susan-collins/collins-rfkjr)
 
 - [**Susan Collins Was MAGA, Not A Moderate**](https://research-books.com/en/susan-collins/collins-maga)
 
