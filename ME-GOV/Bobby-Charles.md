@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-09-11T16:40:02.554Z
+date: 2026-09-11T16:40:29.270Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -60,7 +60,8 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 **Message:** Bobby Charles mocked LGBTQ+ Mainers and repeated debunked anti-LGBTQ+ hoaxes instead of focusing on real issues.
 
 
-### Bobby Charles Promoted Election Fraud Claims 
+### Bobby Charles Repeatedly Called For Federal Agents At Maine Polling Locations And Promoted Election Conspiracy Theories 
+ 
 
 -   In 2025, Charles promoted [election fraud claims](https://amac.us/newsline/politics/democrats-cocky-for-the-wrong/), accused Democrats and immigrants of undermining Maine’s voting system, and encouraged voters to support Question 1, which would have imposed voter ID and absentee voting restrictions. Charles claimed that Maine elections were “[corrupt](https://x.com/Bobby4Maine/status/1976710444573487400?s=20)” and pushed voter ID and absentee voting restrictions, despite Maine voters later [rejecting](https://www.mainepublic.org/politics/2025-11-04/mainers-reject-voter-id-absentee-ballot-restrictions-as-question-1-fails) Question 1 by a more than 25-point margin in 2025.
 
