@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-09-11T19:25:24.289Z
+date: 2026-09-11T19:33:25.893Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -94,10 +94,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 - By August 2026, James would not say whether he would accept a loss in his current governor’s race as legitimate, and CNN reported that he did not answer whether he would certify the winner of the 2028 presidential election if elected governor of Michigan.
 
-
 **Message:** John James was a threat to Michigan elections and promoted election conspiracy theories.
-
-
 
 ###  John James Was An Ethics Nightmare
 
