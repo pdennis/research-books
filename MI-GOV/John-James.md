@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-08-04T22:21:46.082Z
+date: 2026-09-11T19:23:59.360Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -123,7 +123,9 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 ## John James Used His Power To Benefit The Powerful And Himself
 - [:eyes: | **It Took John James 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/MI-GOV/John-James/James-epstein)
+- [:ballot_box: | **John James Was An Election Denier**](https://research-books.com/MI-GOV/John-James/james-2020 )
 - [:grimacing: | **John James Was An Ethics Nightmare**](https://research-books.com/en/MI-GOV/John-James/James-ethics)
+
 {.links-list}
 # Key Votes
 - [:white_check_mark: | **John James' Key Votes As A Member Of Congress**](https://research-books.com/en/MI-GOV/John-James/James-votes)
