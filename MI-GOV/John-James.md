@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-09-11T19:34:46.182Z
+date: 2026-09-11T19:36:05.505Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -85,7 +85,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 ###  James Was An Election Denier
 
-- James posed a threat to Michigan elections when he [refused](https://thehill.com/homenews/campaign/524716-james-refuses-to-concede-to-peters-in-michigan-senate-race/) to accept his 2020 Senate loss and continued undermining confidence in Michigan elections by [amplifying false claims](https://michiganadvance.com/2026/07/27/trump-boosts-rogers-james-and-other-michigan-republicans-at-milford-rally/) about the results. James claimed there was “[enough credible evidence](https://x.com/JohnJamesMI/status/1324450412427153409/)” to investigate the election despite failing to provide real evidence to support his claims. He also retweeted, then later deleted, a post claiming he had won and accusing Democrats of “making up numbers” and “cheating the system.” James later launched a legal defense fund with the Republican National Committee over alleged Wayne County irregularities before conceding nearly three weeks after Election Day.
+- James posed a threat to Michigan elections when he [refused](https://thehill.com/homenews/campaign/524716-james-refuses-to-concede-to-peters-in-michigan-senate-race/) to accept his 2020 Senate loss and continued undermining confidence in Michigan elections by [amplifying false claims](https://michiganadvance.com/2026/07/27/trump-boosts-rogers-james-and-other-michigan-republicans-at-milford-rally/) about the results. James claimed there was “[enough credible evidence](https://x.com/JohnJamesMI/status/1324450412427153409/)” to investigate the election despite failing to provide real evidence to support his claims. He also [retweeted](https://wwmt.com/news/local/sen-gary-peters-speaks-in-flint-after-winning-reelection-against-republican-john-james), then later [deleted](https://projects.propublica.org/politwoops/tweet/1324034419729059841), a [post](https://web.archive.org/web/20201104170117/twitter.com/stusandler/status/1324033904643366913) claiming he had won and accusing Democrats of “making up numbers” and “cheating the system.” James later launched a legal defense fund with the Republican National Committee over alleged Wayne County irregularities before conceding nearly three weeks after Election Day.
 
 - While running for governor, James has continued to revisit the 2020 election. In September 2025, he said he was “screwed” in his 2020 Senate race and promised “consequences for those who did you wrong.” In August 2026, James said the 2020 election was “rigged and manipulated” against both himself and Trump and falsely said Trump had won Michigan “three times.” In July 2026, James again falsely claimed Trump won Michigan in 2020 and offered no evidence for the claim. 
 
