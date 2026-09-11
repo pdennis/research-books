@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-09-11T16:49:03.496Z
+date: 2026-09-11T16:50:04.708Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -90,6 +90,6 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 
 ## Bobby Charles Used His Influence To Benefit The Powerful
 
-- [:x: | **Bobby Charles Promoted Election Fraud Claims**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-voting)
+- [:x: | **Bobby Charles Repeatedly Called For Federal Agents At Maine Polling Locations And Promoted Election Conspiracy Theories**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-voting)
 - [:sos: | **Bobby Charles Called For The Closure Of The Northern Border And A Replica Of The Failed “Alligator Alcatraz” In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-immigration)
 {.links-list}
