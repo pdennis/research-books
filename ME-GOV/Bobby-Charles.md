@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-09-11T16:42:38.281Z
+date: 2026-09-11T16:44:49.815Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -62,7 +62,7 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 
 ### Bobby Charles Repeatedly Called For Federal Agents At Maine Polling Locations And Promoted Election Conspiracy Theories 
 
-- In 2026, Charles repeatedly [called](https://apnews.com/article/bobby-charles-audio-ice-polls-maine-governor-4e77e0f06a28d2a8f42b51ce28a91677) for the U.S. Marshals and U.S. Immigration and Customs Enforcement agents to be [present](https://apnews.com/article/bobby-charles-audio-ice-polls-maine-governor-4e77e0f06a28d2a8f42b51ce28a91677) at Maine polling locations ahead of the 2026 election, despite federal restrictions on armed federal officers near polls. His calls aligned with Trump’s push for greater federal involvement in the 2026 elections and as Trump declined to rule out sending federal agents to the polls.
+- In 2026, Charles repeatedly [called](https://apnews.com/article/bobby-charles-audio-ice-polls-maine-governor-4e77e0f06a28d2a8f42b51ce28a91677) for the U.S. Marshals and U.S. Immigration and Customs Enforcement agents to be [present](https://apnews.com/article/bobby-charles-audio-ice-polls-maine-governor-4e77e0f06a28d2a8f42b51ce28a91677) at Maine polling locations ahead of the 2026 election, despite federal [restrictions](https://apnews.com/article/bobby-charles-audio-ice-polls-maine-governor-4e77e0f06a28d2a8f42b51ce28a91677) on armed federal officers near polls. His calls [aligned](https://www.cnn.com/2026/08/11/politics/trump-national-emergency-election) with Trump’s push [for greater federal involvement](https://www.cnn.com/2026/08/11/politics/trump-national-emergency-election) in the 2026 elections and as Trump [declined to rule out sending federal agents to the polls](https://www.democracydocket.com/news-alerts/anything-necessary-trump-wont-rule-out-sending-troops-to-polls/).
 - 
 -   In 2025, Charles promoted [election fraud claims](https://amac.us/newsline/politics/democrats-cocky-for-the-wrong/), accused Democrats and immigrants of undermining Maine’s voting system, and encouraged voters to support Question 1, which would have imposed voter ID and absentee voting restrictions. Charles claimed that Maine elections were “[corrupt](https://x.com/Bobby4Maine/status/1976710444573487400?s=20)” and pushed voter ID and absentee voting restrictions, despite Maine voters later [rejecting](https://www.mainepublic.org/politics/2025-11-04/mainers-reject-voter-id-absentee-ballot-restrictions-as-question-1-fails) Question 1 by a more than 25-point margin in 2025.
 
