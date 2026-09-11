@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-09-11T16:39:23.406Z
+date: 2026-09-11T16:39:54.851Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -12,7 +12,7 @@ dateCreated: 2026-01-23T20:54:59.829Z
 
 # How To Win Against Robert “Bobby” Charles
 
-Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health care cuts that would leave tens of thousands of Mainers without coverage, including Medicaid recipients, trigger massive Medicare reductions, and rescind tax credits that experts warned would increase energy costs for Mainers. He supported work requirements and the largest SNAP cuts in history, making it harder for Maine families to afford food. Charles praised Trump’s DOGE agenda and said he wanted to bring it to Maine, even as those policies disrupted Social Security services, cut funding for nonprofits, and threatened thousands of jobs across the state. Charles also pushed an extreme anti-abortion agenda, backing restrictions on abortion access, an end to public funding for abortion, and denying pregnancy-related health care to people under 21 and undocumented immigrants. Charles repeatedly called for U.S. Immigration and Customs Enforcement agents at Maine polling locations, promoted election fraud claims rejected by Maine voters, and supported sweeping changes to the state’s elections.
+Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health care cuts that would leave tens of thousands of Mainers without coverage, including Medicaid recipients, trigger massive Medicare reductions, and rescind tax credits that experts warned would increase energy costs for Mainers. He supported work requirements and the largest SNAP cuts in history, making it harder for Maine families to afford food. Charles praised Trump’s DOGE agenda and said he wanted to bring it to Maine, even as those policies disrupted Social Security services, cut funding for nonprofits, and threatened thousands of jobs across the state. Charles also pushed an extreme anti-abortion agenda, backing restrictions on abortion access and denying pregnancy-related health care to people under 21 and undocumented immigrants. Charles repeatedly called for U.S. Immigration and Customs Enforcement agents at Maine polling locations, promoted election fraud claims rejected by Maine voters, and supported sweeping changes to the state’s elections.
 Charles also floated a Maine version of Florida’s failed “Alligator Alcatraz,” called for closing the northern border, and embraced immigration policies that would cause legal, environmental, and economic harm to Maine communities.
 
 ### Bobby Charles Supported Devastating Health Care Cuts
