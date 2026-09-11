@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-09-11T16:45:57.747Z
+date: 2026-09-11T16:46:24.808Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -64,8 +64,9 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 
 - In 2026, Charles repeatedly [called](https://apnews.com/article/bobby-charles-audio-ice-polls-maine-governor-4e77e0f06a28d2a8f42b51ce28a91677) for the U.S. Marshals and U.S. Immigration and Customs Enforcement agents to be [present](https://apnews.com/article/bobby-charles-audio-ice-polls-maine-governor-4e77e0f06a28d2a8f42b51ce28a91677) at Maine polling locations ahead of the 2026 election, despite federal [restrictions](https://apnews.com/article/bobby-charles-audio-ice-polls-maine-governor-4e77e0f06a28d2a8f42b51ce28a91677) on armed federal officers near polls. His calls [aligned](https://www.cnn.com/2026/08/11/politics/trump-national-emergency-election) with Trump’s push [for greater federal involvement](https://www.cnn.com/2026/08/11/politics/trump-national-emergency-election) in the 2026 elections and as Trump [declined to rule out sending federal agents to the polls](https://www.democracydocket.com/news-alerts/anything-necessary-trump-wont-rule-out-sending-troops-to-polls/).
 - In February, Charles described the [presence](https://on.soundcloud.com/WYaPSdfDdG9c1t7WUJ) of U.S. Immigration and Customs Enforcement agents as a “[deterrent](https://on.soundcloud.com/WYaPSdfDdG9c1t7WUJ)” to undocumented immigrants he accused of being used to “[tip the balance](https://on.soundcloud.com/WYaPSdfDdG9c1t7WUJ)” in elections. By June, Charles again said he would call Tom Homan to send federal agents to Maine and warned the state would not tolerate election “[irregularities](https://on.soundcloud.com/mE2ZfUEtxyJ7Hayn7N).”
-- 
--   In 2025, Charles promoted [election fraud claims](https://amac.us/newsline/politics/democrats-cocky-for-the-wrong/), accused Democrats and immigrants of undermining Maine’s voting system, and encouraged voters to support Question 1, which would have imposed voter ID and absentee voting restrictions. Charles claimed that Maine elections were “[corrupt](https://x.com/Bobby4Maine/status/1976710444573487400?s=20)” and pushed voter ID and absentee voting restrictions, despite Maine voters later [rejecting](https://www.mainepublic.org/politics/2025-11-04/mainers-reject-voter-id-absentee-ballot-restrictions-as-question-1-fails) Question 1 by a more than 25-point margin in 2025.
+- In August, Charles repeated the proposal at a Maine Young Republicans event in Arundel, saying he would ask his “friend” Tom Homan to send U.S. Marshals and U.S. Immigration and Customs Enforcement agents to the polls weeks before Election Day. Arundel directly borders Biddeford, where a U.S. Immigration and Customs Enforcement agent fatally shot Joan Sebastián Durán Guerrero in July during an enforcement operation that did not target him. Charles responded by calling for Congress to provide U.S. Immigration and Customs Enforcement with additional resources.
+
+- Charles’ calls for federal agents at Maine polling locations were not the first time he promoted claims of election fraud in Maine. In 2025, Charles promoted [election fraud claims](https://amac.us/newsline/politics/democrats-cocky-for-the-wrong/), accused Democrats and immigrants of undermining Maine’s voting system, and encouraged voters to support Question 1, which would have imposed voter ID and absentee voting restrictions. Charles claimed that Maine elections were “[corrupt](https://x.com/Bobby4Maine/status/1976710444573487400?s=20)” and pushed voter ID and absentee voting restrictions, despite Maine voters later [rejecting](https://www.mainepublic.org/politics/2025-11-04/mainers-reject-voter-id-absentee-ballot-restrictions-as-question-1-fails) Question 1 by a more than 25-point margin in 2025.
 
 **Message:** Bobby Charles was a threat to Maine elections and promoted election conspiracy theories.
 
