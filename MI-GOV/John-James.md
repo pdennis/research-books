@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-09-11T19:23:59.360Z
+date: 2026-09-11T19:25:24.289Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -82,6 +82,22 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 -    John James [touted](https://x.com/RepJames/status/1990872674235805966) his vote for the release of the Epstein files, claiming he supported transparency, but he never signed the [discharge petition](https://clerk.house.gov/DischargePetition/2025090209), never [co-sponsored the legislation](https://www.congress.gov/bill/119th-congress/house-resolution/581/cosponsors?pageSort=alphaByParty), and previously voted against the release of the files. In [July](http://clerk.house.gov/evs/2025/roll194.xml) and [September 2025](https://clerk.house.gov/evs/2025/roll222.xml), John James cast the deciding votes against [releasing the Epstein files](https://www.axios.com/2025/07/15/epstein-house-democrats-republicans-trump-doj), protecting the accused pedophiles named within them. 
 
 **Message:** Despite previously voting against releasing the Epstein files, John James ultimately voted for the release of the Epstein files only because Trump approved of the release. 
+
+###  James Was An Election Denier
+
+- James posed a threat to Michigan elections when he refused to accept his 2020 Senate loss and continued undermining confidence in Michigan elections by amplifying false claims about the results. James claimed there was “enough credible evidence” to investigate the election despite failing to provide real evidence to support his claims. He also retweeted, then later deleted, a post claiming he had won and accusing Democrats of “making up numbers” and “cheating the system.” James later launched a legal defense fund with the Republican National Committee over alleged Wayne County irregularities before conceding nearly three weeks after Election Day.
+
+- While running for governor, James has continued to revisit the 2020 election. In September 2025, he said he was “screwed” in his 2020 Senate race and promised “consequences for those who did you wrong.” In August 2026, James said the 2020 election was “rigged and manipulated” against both himself and Trump and falsely said Trump had won Michigan “three times.” In July 2026, James again falsely claimed Trump won Michigan in 2020 and offered no evidence for the claim. 
+
+- As James continued revisiting the 2020 election during his gubernatorial campaign, he increasingly focused those claims on his opponent, Jocelyn Benson. James compared her election administration to the conduct of “tyrannical dictators” and made unsubstantiated claims about deceased people remaining on Michigan’s voter rolls. He later even suggested Benson “screwed Trump in 2020,” and accused her without credible evidence of having “rigged an election twice before.”
+
+
+- By August 2026, James would not say whether he would accept a loss in his current governor’s race as legitimate, and CNN reported that he did not answer whether he would certify the winner of the 2028 presidential election if elected governor of Michigan.
+
+
+**Message:** John James was a threat to Michigan elections and promoted election conspiracy theories.
+
+
 
 ###  John James Was An Ethics Nightmare
 
