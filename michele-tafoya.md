@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-09-15T19:10:36.375Z
+date: 2026-09-15T19:10:55.485Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -93,3 +93,5 @@ Michele Tafoya likes to brand herself as a moderate, [independent thinker](https
 [**Tafoya Sucked Up To Trump And Towed The MAGA Line**](/michele-tafoya/Trump)
 
 [**Tafoya Hated Minnesota**](/michele-tafoya/Californian)
+
+[**Tafoya Carried Water For January 6 Rioters**](/michele-tafoya/Jan-Six)
