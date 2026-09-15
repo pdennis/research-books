@@ -2,7 +2,7 @@
 title: Michele Tafoya
 description: 
 published: true
-date: 2026-09-01T20:06:46.488Z
+date: 2026-09-15T19:10:36.375Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-11T18:07:07.974Z
@@ -65,6 +65,12 @@ After urging Trump [not to run](https://www.washingtonexaminer.com/news/campaign
 Tafoya repeatedly insulted Minnesota, and made it clear that she did not want to be there. Tafoya said that she would be "[fleeing](https://x.com/Michele_Tafoya/status/1823013976453607805)" Minnesota soon. Tafoya also called Minnesota a "[provincial](https://www.youtube.com/watch?v=NnUS56RoM18)" state. Tafoya even said "[the last people I'm going to answer to are the Minnesotans who send me there](https://www.youtube.com/watch?v=K99M-9gxHEQ)."
 
 **Message:** Tafoya, a native Californian, cannot be trusted to serve a state that she clearly hates.
+
+### Tafoya Carried Water For January 6 Rioters
+
+Michele Tafoya likes to brand herself as a moderate, [independent thinker](https://www.mprnews.org/story/2026/08/12/gop-senate-nominee-michele-tafoya-claims-she-wont-fall-in-line-with-national-party-leadership). Minnesotans know the truth: Tafoya is MAGA through and through. Nowhere is this more evident than with her blatant, repeated support of [January 6 rioters](https://punchbowl.news/article/campaigns/michele-tafoya-supported-jan-6-rioters/). Tafoya hosted multiple insurrectionists on her podcast, showering them with sympathy and painting them as “[really good people](https://punchbowl.news/article/campaigns/michele-tafoya-supported-jan-6-rioters/).” Tafoya’s whitewashing of an attempted insurrection tied to at least [seven fatalities](https://www.nytimes.com/2022/01/05/us/politics/jan-6-capitol-deaths.html) shows her shocking disrespect for the rule of law, and it insults the intelligence of Minnesotans everywhere.
+
+**Message:** Tafoya downplayed a deadly insurrection attempt and uplifted the rioters at fault.
 
 # ISSUE BACK-UPS
 
