@@ -2,7 +2,7 @@
 title: Darline Graham
 description: 
 published: true
-date: 2026-09-16T18:39:51.805Z
+date: 2026-09-16T18:40:21.504Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-16T18:29:12.875Z
@@ -19,3 +19,6 @@ Despite saying that national security was “[not her thing](https://www.techtim
 # ISSUE BACK-UPS
 
 ## Darline Graham
+
+[**Graham Supported The Price-Hiking War With Iran**](/darline-graham/Iran)
+
