@@ -2,7 +2,7 @@
 title: Casey Askar
 description: 
 published: true
-date: 2026-09-16T16:45:39.575Z
+date: 2026-09-16T18:46:37.439Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-16T16:17:28.256Z
@@ -51,5 +51,6 @@ Floridians don’t need another rubber stamp for Trump’s agenda of less health
 - [:hospital: *Askar Supported An Agenda That Cut Health Care For Floridians*](/en/casey-askar/healthcare)
 - [:older_man: *Askar Supported An Agenda That Included Trump's Medicare Cuts*](/en/casey-askar/seniors)
 - [:carrot: *Askar Supported An Agenda That Included Cuts To Food Assistance Floridians Rely On*](/en/casey-askar/snap)
+- [:shopping_cart: *Askar Supported An Agenda That Included Raising Prices On Floridians Through Tariffs*](https://research-books.com/en/casey-askar/tariffs)
 - [🪖 *Askar Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/casey-askar/iran)
 {.links-list}
