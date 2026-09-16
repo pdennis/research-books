@@ -2,7 +2,7 @@
 title: Darline Graham
 description: 
 published: true
-date: 2026-09-16T21:06:43.746Z
+date: 2026-09-16T21:07:14.632Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-16T18:29:12.875Z
@@ -27,3 +27,5 @@ Nepo baby Darline Graham found herself hoisted into a US Senate seat based on li
 ## Darline Graham
 
 [**Graham Supported The Price-Hiking War With Iran**](/darline-graham/Iran)
+
+[**Graham Was Grossly Unqualified To Serve As Senator**](/darline-graham/nepo-baby)
