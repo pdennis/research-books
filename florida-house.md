@@ -2,7 +2,7 @@
 title: Florida House Races
 description: 
 published: true
-date: 2026-09-14T15:05:09.155Z
+date: 2026-09-16T16:13:55.670Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T16:20:23.455Z
@@ -19,6 +19,9 @@ dateCreated: 2026-02-24T16:20:23.455Z
 {.links-list}
 ## FL-21
 - [:elephant: ***Brian Mast***](https://research-books.com/en/brian-mast)
+{.links-list}
+## FL-22
+- [:elephant: ***Casey Askar***](https://research-books.com/en/casey-askar)
 {.links-list}
 ## FL-27
 - [:elephant:***Maria Elvira Salazar***](/maria-salazar)
