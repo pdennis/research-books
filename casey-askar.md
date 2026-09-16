@@ -2,7 +2,7 @@
 title: Casey Askar
 description: 
 published: true
-date: 2026-09-16T16:17:47.470Z
+date: 2026-09-16T16:19:48.961Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-16T16:17:28.256Z
@@ -43,3 +43,12 @@ Floridians don’t need another rubber stamp for Trump’s agenda of less health
 -   Askar said he supported Trump’s “[peace through strength](https://www.caseyaskar.com/#issues)” approach to foreign policy and that Trump was acting “[very effectively, very strategically”](https://www.youtube.com/watch?v=M-19CxTiTbk) with Iran. When asked to clarify whether he supported the U.S. going into Iran, Askar expressed support by [saying](https://www.youtube.com/watch?v=M-19CxTiTbk) “I support not having a nuclear Iran, I support not having a terrorist state.”
 
 **Message:** Askar supported Trump's costly war in Iran that raised prices for Floridians.
+
+# Issue Briefs
+
+## Casey Askar Supported Policies That Hurt Every Day Floridians
+
+-    [![🏥](/_assets/svg/twemoji/1f3e5.svg) *Askar Was Loyal To An Agenda That Cut Health Care*](/en/casey-askar/healthcare)
+-    [![👴](/_assets/svg/twemoji/1f474.svg) *Askar Was Loyal To Agenda That Included Trump's Medicare Cuts*](/en/casey-askar/seniors)
+-    [![🥕](/_assets/svg/twemoji/1f955.svg) *Askar Supported Cuts To Food Assistance Floridians Rely On To Afford Groceries*](/en/casey-askar/snap)
+-   [🪖 *Beltran Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/mike-beltran/beltran-iran)
