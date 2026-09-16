@@ -2,7 +2,7 @@
 title: Casey Askar
 description: 
 published: true
-date: 2026-09-16T16:23:11.962Z
+date: 2026-09-16T16:25:42.299Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-16T16:17:28.256Z
@@ -16,7 +16,7 @@ Askar claims to want to deal with the “affordability crisis,” but has not co
 
 Floridians don’t need another rubber stamp for Trump’s agenda of less healthcare, higher prices, and a prolonged war in Iran. 
 
-### ASKAR Supported Policies That Would Cut Healthcare For Millions Of Americans
+### Askar Supported Policies That Would Cut Healthcare For Millions Of Americans
 
 -   Askar promised to stand by President Trump, who signed into law the One Big, Beautiful Bill that kicked more than [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance.
 -   Askar said he wanted to “[end Obamacare once and for all](https://www.caseyaskar.com/#issues).” In 2024, Florida had the [greatest number](https://www.wusf.org/health-news-florida/2025-01-10/florida-leads-the-country-in-affordable-care-act-enrollment) of residents who received health care coverage through the Affordable Care Act.
@@ -38,7 +38,7 @@ Floridians don’t need another rubber stamp for Trump’s agenda of less health
 **Message:** Askar would be a rubber stamp for policies that cut food assistance programs Floridians rely on to afford groceries.  
  
 
-### ASKAR Supported Trump's Actions In Iran
+### Askar Supported Trump's Actions In Iran
 
 -   Askar said he supported Trump’s “[peace through strength](https://www.caseyaskar.com/#issues)” approach to foreign policy and that Trump was acting “[very effectively, very strategically”](https://www.youtube.com/watch?v=M-19CxTiTbk) with Iran. When asked to clarify whether he supported the U.S. going into Iran, Askar expressed support by [saying](https://www.youtube.com/watch?v=M-19CxTiTbk) “I support not having a nuclear Iran, I support not having a terrorist state.”
 
@@ -48,7 +48,8 @@ Floridians don’t need another rubber stamp for Trump’s agenda of less health
 
 ## Casey Askar Supported Policies That Hurt Every Day Floridians
 
--    [![🏥](/_assets/svg/twemoji/1f3e5.svg) *Askar Was Loyal To An Agenda That Cut Health Care*](/en/casey-askar/healthcare)
--    [![👴](/_assets/svg/twemoji/1f474.svg) *Askar Was Loyal To Agenda That Included Trump's Medicare Cuts*](/en/casey-askar/seniors)
--    [![🥕](/_assets/svg/twemoji/1f955.svg) *Askar Supported Cuts To Food Assistance Floridians Rely On To Afford Groceries*](/en/casey-askar/snap)
--   [🪖 *Askar Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/casey-askar/iran)
+- [:hospital: *Askar Supported An Agenda That Cut Health Care*](/en/casey-askar/healthcare)
+- [:older_man: *Askar Supported An Agenda That Included Trump's Medicare Cuts*](/en/casey-askar/seniors)
+- [:carrot: *Askar Supported An Agenda That Included Cuts To Food Assistance Floridians Rely On To Afford Groceries*](/en/casey-askar/snap)
+- [🪖 *Askar Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/casey-askar/iran)
+{.links-list}
