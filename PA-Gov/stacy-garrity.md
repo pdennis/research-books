@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-09-17T16:27:33.147Z
+date: 2026-09-17T16:30:15.315Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -21,7 +21,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 ### **Stacy GARRITY SUPPORTED MASSIVE CUTS TO MEDICARE**
 
--   In 2025, Garrity [supported]( https://x.com/GarrityForPA/status/1940757598761816555) Trump's "One Big Beautiful Bill," which the Congressional Budget Office estimated would trigger [nearly $500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare absent future congressional action.
+-   In 2025, Garrity [supported]( https://x.com/GarrityForPA/status/1940757598761816555) Trump's "One Big Beautiful Bill," which the Congressional Budget Office estimated would trigger [nearly $500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare absent future congressional action. In 2026, Garrity also claimed the [“fraud would be”](https://www.youtube.com/watch?v=00nuaJlWuko) in Medicare programs.
 
 **Message:** Stacy Garrity supported making massive cuts to health care services seniors rely on. 
 
