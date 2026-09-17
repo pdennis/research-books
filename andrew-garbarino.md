@@ -2,7 +2,7 @@
 title: Andrew Garbarino (NY-02)
 description: 
 published: true
-date: 2026-09-17T19:47:36.169Z
+date: 2026-09-17T19:48:00.187Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-22T20:03:55.435Z
@@ -61,5 +61,5 @@ In addition to Trump’s budget, Garbarino stood with the administration as Trum
 - [:eyes: *It Took Garbarino 11 Months To Vote To Release The Epstein Files*](https://research-books.com/en/andrew-garbarino/garbarino-epstein)
 - [:money_with_wings: *Garbarino Took Money From Companies Who Received DHS Contracts He Oversaw*](https://research-books.com/en/andrew-garbarino/garbarino-dhs)
 {.links-list}
-- [✈️ *Garbarino Traveled The Globe With Money From Special Interests*](https://research-books.com/en/andrew-garbarino/garbarino-dhs)
+- [✈️ *Garbarino Traveled The Globe With Money From Special Interests*](https://research-books.com/en/andrew-garbarino/garbarino-travel)
 {.links-list}
