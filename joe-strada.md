@@ -1,8 +1,8 @@
 ---
-title: Joe Strada
+title: Joe Strada (FL-11)
 description: 
 published: true
-date: 2026-09-17T17:10:48.816Z
+date: 2026-09-17T17:12:02.152Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-17T17:10:48.816Z
