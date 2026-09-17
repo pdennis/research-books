@@ -2,7 +2,7 @@
 title: Florida House Races
 description: 
 published: true
-date: 2026-09-16T16:13:55.670Z
+date: 2026-09-17T16:37:48.240Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-24T16:20:23.455Z
@@ -10,6 +10,9 @@ dateCreated: 2026-02-24T16:20:23.455Z
 
 ## FL-04
 - [:elephant:***Aaron Bean***](/aaron-bean)
+{.links-list}
+## FL-11
+- [:elephant:***Joe Strada***](/joe-strada)
 {.links-list}
 ## FL-14
 - [:elephant:***Mike Beltran***](/mike-beltran)
