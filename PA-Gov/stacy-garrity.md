@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-09-17T16:30:15.315Z
+date: 2026-09-17T16:32:18.296Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -35,7 +35,7 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 
 ### **Stacy GARRITY SUPPORTED STRIPPING SNAP BENEFITS FROM PENNSYLVANIA FAMILIES**
 
-- In January 2026, Garrity said she [opposed](https://www.youtube.com/watch?v=wmqKeTp94O0) Pennsylvania’s lawsuit seeking to restore [$13 million](https://www.spotlightpa.org/news/2025/06/pennsylvania-usda-lawsuit-food-aid-program/) in federal funding for Pennsylvania farmers and food banks, and [claimed](https://www.pennlive.com/news/2026/01/garrity-opens-2026-election-year-with-attack-on-shapiro-and-threading-needle-on-trump.html) too many Pennsylvanians were receiving SNAP assistance. In 2025, the Trump administration rescinded funding for a program that provided aid to states to purchase food from farms to stock food banks. 
+- In January 2026, Garrity said she [opposed](https://www.youtube.com/watch?v=wmqKeTp94O0) Pennsylvania’s lawsuit seeking to restore [$13 million](https://www.spotlightpa.org/news/2025/06/pennsylvania-usda-lawsuit-food-aid-program/) in federal funding for Pennsylvania farmers and food banks, and [claimed](https://www.pennlive.com/news/2026/01/garrity-opens-2026-election-year-with-attack-on-shapiro-and-threading-needle-on-trump.html) too many Pennsylvanians were receiving SNAP assistance. In 2025, the Trump administration rescinded funding for a program that provided aid to states to purchase food from farms to stock food banks. Garrity also claimed the [“fraud would be”](https://www.youtube.com/watch?v=00nuaJlWuko) in SNAP programs.
 -	In 2025, Garrity [supported]( https://www.spotlightpa.org/news/2025/11/pennsylvania-gop-trump-garrity-2026-governor-election-elections/) Trump's "One Big Beautiful Bill, which made the [largest cut to SNAP in history.]( https://www.cbpp.org/research/food-assistance/by-the-numbers-senate-republican-leaderships-reconciliation-bill-takes) Garrity [praised]( https://x.com/GarrityForPA/status/1924879935728189650) the legislation as a “historic plan,” claiming the bill would cut [“wasteful spending.”]( https://x.com/GarrityForPA/status/1924879933119332598) In Pennsylvania, nearly [2 million](https://www.pa.gov/governor/newsroom/2025-press-releases/fact-sheet--how-many-pennsylvanians-lose-snap-benefits-republica) Pennsylvanians relied on SNAP to afford groceries.
 
 **Message:** Stacy Garrity supported making food more expensive for Pennsylvanians.
