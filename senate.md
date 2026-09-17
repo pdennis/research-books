@@ -2,7 +2,7 @@
 title: Senate Races
 description: 
 published: true
-date: 2026-09-15T15:00:01.165Z
+date: 2026-09-17T14:28:47.257Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-27T03:01:09.377Z
@@ -21,5 +21,6 @@ dateCreated: 2025-12-27T03:01:09.377Z
 -   [🪨 *New Hampshire*](/newhampshire-senate)
 -   [:deciduous_tree: *North Carolina*](/northcarolina-senate)
 -   [:wrench:*Ohio*](/ohio-senate)
+-   [🌴 *South Carolina*](/south-carolina)
 -   [:cow: *Texas*](/texas-senate)
 {.links-list}
