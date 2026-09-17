@@ -2,7 +2,7 @@
 title: Darline Graham
 description: 
 published: true
-date: 2026-09-17T19:39:28.591Z
+date: 2026-09-17T19:40:00.344Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-16T18:29:12.875Z
@@ -37,3 +37,5 @@ When Darline Graham attacked her primary opponent for [not voting sooner](https:
 [**Graham Supported The Price-Hiking War With Iran**](/darline-graham/Iran)
 
 [**Graham Was Grossly Unqualified To Serve As Senator**](/darline-graham/nepo-baby)
+
+[**Graham Backed Cuts To Healthcare And Food Benefits In South Carolina**](/darline-graham/OBBB)
