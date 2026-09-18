@@ -2,7 +2,7 @@
 title: Anthony Constantino
 description: 
 published: true
-date: 2026-09-18T16:25:54.259Z
+date: 2026-09-18T16:29:07.285Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-18T16:25:33.454Z
@@ -45,3 +45,13 @@ New Yorkers don’t need another rubber stamp for Trump’s agenda of less healt
 -   Constantino supported Trump’s actions in Iran, [claiming](https://www.wwnytv.com/2026/06/03/constantino-discuss-congressional-campaign-live-interview/) “I trust him to use his judgement.” He also said he believed Trump’s actions would create “a lasting peace.” 
 
 **Message:** Constantino supported Trump's costly war in Iran that raised prices for New Yorkers.
+
+# Issue Backups
+
+## Anthony Constantino's Policies Hurt Everyday New Yorkers
+
+-    [![🏥](/_assets/svg/twemoji/1f3e5.svg) *Constantino Backed Trump's Agenda, Which Cut Healthcare For Millions Of Americans*](/en/anthony-constantino/constantino-medicaid)
+-    [![👴](/_assets/svg/twemoji/1f474.svg) *Constantino Was Ready To Support Trump And Johnson’s Plan To Weaken Medicare*](/en/anthony-constantino/constantino-medicare)
+-    [![🥕](/_assets/svg/twemoji/1f955.svg) *Constantino Stood With Trump And Johnson As They Made Significant Cuts To Food Assistance*](/en/anthony-constantino/constantino-snap)
+-    [![🛒](/_assets/svg/twemoji/1f6d2.svg) *Constantino Repeatedly Defended Trump’s Tariffs That Raised Prices For New Yorkers*](/en/anthony-constantino/constantino-tariffs)
+-   [🪖 *Constantino Backed Trump's Costly War With Iran That Raised Prices On New Yorkers*](/en/anthony-constantino/constantino-iran)
