@@ -2,7 +2,7 @@
 title: Anthony Constantino
 description: 
 published: true
-date: 2026-09-18T16:34:46.435Z
+date: 2026-09-18T16:36:26.263Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-18T16:25:33.454Z
@@ -24,7 +24,7 @@ New Yorkers don't need another rubber stamp for Trump's agenda of less healthcar
 
 ### Constantino Supported Cuts To Medicare
 
--   Constantino promised to stand by President Trump, who [fought](https://www.theguardian.com/us-news/2025/may/22/house-vote-trump-tax-bill) for passage of the One Big Beautiful Bill, which would trigger nearly [$500 billion](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf) in Medicare cuts absent future congressional action. More than [192,000](https://www.americanprogress.org/article/medicaid-and-chip-coverage-mapped-by-119th-congressional-districts/) New Yorkers in the 21st congressional desitrict rely on Medicare or CHIP for insurance. 
+-   Constantino promised to stand by President Trump, who [fought](https://www.theguardian.com/us-news/2025/may/22/house-vote-trump-tax-bill) for passage of the One Big Beautiful Bill, which would trigger nearly [$500 billion](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf) in Medicare cuts absent future congressional action. More than [192,000](https://www.americanprogress.org/article/medicaid-and-chip-coverage-mapped-by-119th-congressional-districts/) New Yorkers in the 21st congressional district rely on Medicare or CHIP for insurance. 
 
 **Message:** Constantino would be another vote to slash Medicare for seniors.
 
@@ -50,8 +50,9 @@ New Yorkers don't need another rubber stamp for Trump's agenda of less healthcar
 
 ## Anthony Constantino's Policies Hurt Everyday New Yorkers
 
--   [🏥 *Constantino Backed Trump's Agenda, Which Cut Healthcare For Millions Of Americans*](/en/anthony-constantino/constantino-medicaid)
--   [👴 *Constantino Was Ready To Support Trump And Johnson's Plan To Weaken Medicare*](/en/anthony-constantino/constantino-medicare)
--   [🥕 *Constantino Stood With Trump And Johnson As They Made Significant Cuts To Food Assistance*](/en/anthony-constantino/constantino-snap)
--   [🛒 *Constantino Repeatedly Defended Trump's Tariffs That Raised Prices For New Yorkers*](/en/anthony-constantino/constantino-tariffs)
--   [🪖 *Constantino Backed Trump's Costly War With Iran That Raised Prices On New Yorkers*](/en/anthony-constantino/constantino-iran)
+-    [🏥 *Constantino Backed Trump's Agenda, Which Cut Healthcare For Millions Of Americans*](/en/anthony-constantino/constantino-medicaid)
+-    [👴 *Constantino Was Ready To Support Trump And Johnson's Plan To Weaken Medicare*](/en/anthony-constantino/constantino-medicare)
+-    [🥕 *Constantino Stood With Trump And Johnson As They Made Significant Cuts To Food Assistance*](/en/anthony-constantino/constantino-snap)
+-    [🛒 *Constantino Repeatedly Defended Trump's Tariffs That Raised Prices For New Yorkers*](/en/anthony-constantino/constantino-tariffs)
+-    [🪖 *Constantino Backed Trump's Costly War With Iran That Raised Prices On New Yorkers*](/en/anthony-constantino/constantino-iran)
+{.links-list}
