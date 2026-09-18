@@ -2,7 +2,7 @@
 title: Anthony Constantino
 description: 
 published: true
-date: 2026-09-18T16:36:26.263Z
+date: 2026-09-18T16:37:26.462Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-18T16:25:33.454Z
@@ -22,13 +22,13 @@ New Yorkers don't need another rubber stamp for Trump's agenda of less healthcar
 
 **Message:** Constantino promised to be another vote in Congress to kick New Yorkers off their health care all to give billionaires tax breaks.
 
-### Constantino Supported Cuts To Medicare
+### Constantino Supported Trump's Agenda, Which Included Cuts To Medicare
 
 -   Constantino promised to stand by President Trump, who [fought](https://www.theguardian.com/us-news/2025/may/22/house-vote-trump-tax-bill) for passage of the One Big Beautiful Bill, which would trigger nearly [$500 billion](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf) in Medicare cuts absent future congressional action. More than [192,000](https://www.americanprogress.org/article/medicaid-and-chip-coverage-mapped-by-119th-congressional-districts/) New Yorkers in the 21st congressional district rely on Medicare or CHIP for insurance. 
 
 **Message:** Constantino would be another vote to slash Medicare for seniors.
 
-### Constantino Stood By Trump's Sweeping Cuts To Food Assistance
+### Constantino Stood By Trump's Agenda, Which Included Sweeping Cuts To Food Assistance
 
 -   Constantino promised to stand by President Trump even though his One Big, Beautiful Bill was [behind](https://www.foxnews.com/politics/johnson-touts-beauty-unified-government) the single largest cut to SNAP in history.
 
