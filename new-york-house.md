@@ -2,7 +2,7 @@
 title: House Races In New York
 description: 
 published: true
-date: 2026-09-17T19:45:31.673Z
+date: 2026-09-18T16:16:55.968Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-03T16:29:29.518Z
@@ -14,3 +14,7 @@ dateCreated: 2025-06-03T16:29:29.518Z
 ## NY-17
 - [:elephant:***Mike Lawler***](/mike-lawler) New York Republican who wants to leave his constituents behind with a string of broken promises so he can climb the political ladder. He promised to protect Medicaid, but voted to cut it anyway. He also promised New Yorkers a higher SALT deduction, but fell short. 
 {.links-list}
+## NY-22
+- [:elephant:***Anthony Constantino***](/anthony-constantino) New York Republican who is a loyal foot soldier for Donald Trump and backs the tariffs and war with Iran that are raising prices for New Yorkers.
+{.links-list}
+
