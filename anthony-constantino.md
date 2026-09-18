@@ -2,7 +2,7 @@
 title: Anthony Constantino
 description: 
 published: true
-date: 2026-09-18T17:05:06.574Z
+date: 2026-09-18T17:05:58.091Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-18T16:25:33.454Z
@@ -50,8 +50,9 @@ New Yorkers don't need another rubber stamp for Trump's agenda of less healthcar
 
 ## Anthony Constantino's Policies Hurt Everyday New Yorkers
 
--   [🏥 *Constantino Backed Trump's Agenda, Which Cut Healthcare For Millions Of Americans*](/en/anthony-constantino/constantino-medicaid)
--   [👴 *Constantino Was Ready To Support Trump And Johnson's Plan To Weaken Medicare*](/en/anthony-constantino/constantino-medicare)
--   [🥕 *Constantino Stood With Trump And Johnson As They Made Significant Cuts To Food Assistance*](/en/anthony-constantino/constantino-snap)
--   [🛒 *Constantino Repeatedly Defended Trump's Tariffs That Raised Prices For New Yorkers*](/en/anthony-constantino/constantino-tariffs)
--   [🪖 *Constantino Backed Trump's Costly War With Iran That Raised Prices On New Yorkers*](/en/anthony-constantino/constantino-iran)
+-    [🏥 *Constantino Backed Trump's Agenda, Which Cut Healthcare For Millions Of Americans*](/en/anthony-constantino/constantino-medicaid)
+-    [👴 *Constantino Was Ready To Support Trump And Johnson's Plan To Weaken Medicare*](/en/anthony-constantino/constantino-medicare)
+-    [🥕 *Constantino Stood With Trump And Johnson As They Made Significant Cuts To Food Assistance*](/en/anthony-constantino/constantino-snap)
+-    [🛒 *Constantino Repeatedly Defended Trump's Tariffs That Raised Prices For New Yorkers*](/en/anthony-constantino/constantino-tariffs)
+-    [🪖 *Constantino Backed Trump's Costly War With Iran That Raised Prices On New Yorkers*](/en/anthony-constantino/constantino-iran)
+{.links-list}
