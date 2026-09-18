@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-09-18T20:23:17.421Z
+date: 2026-09-18T20:23:40.903Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -108,7 +108,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 - John James [supported](https://www.mlive.com/news/us-world/2026/02/michigan-lawmakers-react-to-us-israel-strikes-on-iran.html?outputType=amp) Trump’s war with [Iran](https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html) and [repeatedly](https://x.com/JohnJamesMI/status/2029597453582749760) praised Trump’s military actions against Iran. James defended the U.S. air strikes on Iran, declared “[America’s worth fighting for](https://x.com/JohnJamesMI/status/2027779790539800897),” and later [admitted](https://www.youtube.com/watch?v=6EEy5qI-_vE) that gas prices above $4 per gallon “[hurts everybody around the state, around the country](https://youtu.be/6EEy5qI-_vE).” Despite acknowledging those concerns, James doubled down on his support for Trump’s war with Iran and later [voted](https://clerk.house.gov/evs/2026/roll085.xml) [against](https://clerk.house.gov/Votes/2026170) resolutions directing the president to end U.S. military involvement in Iran without congressional authorization.
 
-- Trump’s war with Iran triggered an [increase](https://web.archive.org/web/20260918124908/https://gasprices.aaa.com/?state=MI) in gas prices for Michiganders and by mid-September 2026, gas and diesel prices had [climbed across Michigan](https://www.cbsnews.com/detroit/news/gas-prices-sept-18/). In Metro Detroit, some stations were charging more than $[5 per gallon](/rhett-marques/data-centers), while diesel prices reached record highs at $7.09 per gallon at some Southeast Michigan stations.
+- Trump’s war with Iran triggered an [increase](https://web.archive.org/web/20260918124908/https://gasprices.aaa.com/?state=MI) in gas prices for Michiganders and by mid-September 2026, gas and diesel prices had [climbed across Michigan](https://www.cbsnews.com/detroit/news/gas-prices-sept-18/). In Metro Detroit, some stations were charging more than $[5 per gallon](/rhett-marques/data-centers), while diesel prices reached record highs at $[7.09 per gallon](https://www.cbsnews.com/detroit/news/gas-prices-sept-18/) at some Southeast Michigan stations.
  
 
 The war also drove up [fuel](https://bridgemi.com/business-watch/michigan-farms-losing-money-on-every-acre-as-war-spikes-costs/) and [fertilizer](https://www.wpr.org/agriculture/harvest-wisconsin-groceries-expensive-fuel-prices-climb) costs for Michigan farmers, increasing [financial pressure](https://bridgemi.com/business-watch/michigan-farms-losing-money-on-every-acre-as-war-spikes-costs/) during planting season and [threatening](https://bridgemi.com/business-watch/michigan-farms-losing-money-on-every-acre-as-war-spikes-costs/) farm profitability.
