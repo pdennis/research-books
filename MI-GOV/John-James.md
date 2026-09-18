@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-09-18T20:24:13.608Z
+date: 2026-09-18T20:24:58.426Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -111,7 +111,7 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 - Trump’s war with Iran triggered an [increase](https://web.archive.org/web/20260918124908/https://gasprices.aaa.com/?state=MI) in gas prices for Michiganders and by mid-September 2026, gas and diesel prices had [climbed across Michigan](https://www.cbsnews.com/detroit/news/gas-prices-sept-18/). In Metro Detroit, some stations were charging more than $[5 per gallon](/rhett-marques/data-centers), while diesel prices reached record highs at $[7.09 per gallon](https://www.cbsnews.com/detroit/news/gas-prices-sept-18/) at some Southeast Michigan stations.
  
 
-The Center for American Progress calculated that [Michigan gas prices](https://www.americanprogress.org/article/americans-are-paying-more-at-the-pump-as-trumps-war-with-iran-expands/) had risen at least $[1.76 per gallon since the war began](https://www.americanprogress.org/article/americans-are-paying-more-at-the-pump-as-trumps-war-with-iran-expands/). By early September 2026, the group also estimated that the Iran war had already cost the average American household $1,650, with costs expected to keep rising.
+- The Center for American Progress calculated that [Michigan gas prices](https://www.americanprogress.org/article/americans-are-paying-more-at-the-pump-as-trumps-war-with-iran-expands/) had risen at least $[1.76 per gallon since the war began](https://www.americanprogress.org/article/americans-are-paying-more-at-the-pump-as-trumps-war-with-iran-expands/). By early September 2026, the group also estimated that the Iran war had already cost the [average American household $1,650](https://www.americanprogress.org/article/americans-are-paying-more-at-the-pump-as-trumps-war-with-iran-expands/), with costs expected to keep rising.
 The war also drove up [fuel](https://bridgemi.com/business-watch/michigan-farms-losing-money-on-every-acre-as-war-spikes-costs/) and [fertilizer](https://www.wpr.org/agriculture/harvest-wisconsin-groceries-expensive-fuel-prices-climb) costs for Michigan farmers, increasing [financial pressure](https://bridgemi.com/business-watch/michigan-farms-losing-money-on-every-acre-as-war-spikes-costs/) during planting season and [threatening](https://bridgemi.com/business-watch/michigan-farms-losing-money-on-every-acre-as-war-spikes-costs/) farm profitability.
 
 - Experts also [warned](https://www.wpr.org/agriculture/harvest-wisconsin-groceries-expensive-fuel-prices-climb) the Iran war could increase grocery prices, reduce crop yields, and further strain the food supply chain. Independent grocery store owners [warned](https://apnews.com/article/consumer-prices-food-groceries-war-fuel-f5e442ef60858c96a2fc4b4ee9e18780) rising fuel surcharges and wholesale prices increased financial pressure during the Iran war.
