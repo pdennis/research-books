@@ -2,7 +2,7 @@
 title: Anthony Constantino
 description: 
 published: true
-date: 2026-09-18T16:32:52.867Z
+date: 2026-09-18T16:33:13.172Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-18T16:25:33.454Z
@@ -20,7 +20,7 @@ New Yorkers don't need another rubber stamp for Trump's agenda of less healthcar
 
 -   Constantino promised to stand by President Trump, who signed into law the One Big, Beautiful Bill that kicked more than [17 million Americans](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) off their health insurance.
 
-**Message:** Constantino promised to be another vote in Congress to kick Floridians off their health care all to give billionaires tax breaks.
+**Message:** Constantino promised to be another vote in Congress to kick New Yorkers off their health care all to give billionaires tax breaks.
 
 ### Constantino Supported Cuts To Medicare
 
