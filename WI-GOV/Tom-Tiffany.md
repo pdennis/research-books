@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-08-28T19:20:09.167Z
+date: 2026-09-21T15:54:21.217Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -109,7 +109,10 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 
 ###  Tom Tiffany Joined TheQuartering Podcast, Whose Fringe Host Had A Documented History Of Antisemitic Rhetoric And Online Harassment Controversies
 
-- MAGA-endorsed Tom Tiffany is trying to [rebrand](https://www.jsonline.com/story/news/politics/2025/10/07/tiffany-erases-hot-button-issues-like-abortion-from-website-bice/86438816007/) as a mainstream Republican in his bid for governor, all while he continues to court the far-right fringe. On December 30, 2025, Tiffany [appeared](https://www.youtube.com/watch?v=nDO-FAvDfZE) [on](https://soundcloud.com/bethanyanderson-179905639/4669ff3a-220c-45ff-a560-b8c3dfghj35496daa/s-mOQH80zqmZg?si=f4ee7ea0875244d29cb635d770dba6f1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) “[TheQuartering](https://web.archive.org/web/20260515203103/https://thequartering.com/),” a podcast hosted by Jeremy Hambly, an internet personality with a documented history of [antisemitic rhetoric](https://www.youtube.com/watch?v=jcteLHwxz1M) and online harassment controversies. 
+- MAGA-endorsed Tom Tiffany is trying to [rebrand](https://www.jsonline.com/story/news/politics/2025/10/07/tiffany-erases-hot-button-issues-like-abortion-from-website-bice/86438816007/) as a mainstream Republican in his bid for governor, while continuing to associate with figures tied to [antisemitism](https://milwaukeecourier.com/news/2026/07/17/tom-tiffany-criticizes-francesca-hong-for-appearing-with-hasan-piker-but-the-republican-appeared-on-a-podcast-with-a-host-who-made-antisemitic-remarks-of-his-own), [election conspiracies](https://www.nbcnews.com/politics/2024-election/scott-presler-conspiracy-theories-lara-trump-rnc-job-rcna144144), and [discrimination](https://milwaukeecourier.com/news/2026/09/18/tom-tiffany-accepted-political-contributions-from-notorious-islamophobic-ceo-who-settled-largest-civil-rights-case-over-discriminatory-hiring-practices).
+
+
+- On December 30, 2025, Tiffany [appeared](https://www.youtube.com/watch?v=nDO-FAvDfZE) [on](https://soundcloud.com/bethanyanderson-179905639/4669ff3a-220c-45ff-a560-b8c3dfghj35496daa/s-mOQH80zqmZg?si=f4ee7ea0875244d29cb635d770dba6f1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) “[TheQuartering](https://web.archive.org/web/20260515203103/https://thequartering.com/),” a podcast hosted by Jeremy Hambly, an internet personality with a documented history of [antisemitic rhetoric](https://www.youtube.com/watch?v=jcteLHwxz1M) and online harassment controversies. 
 
 - TheQuartering founder and host Jeremy Hambly has previously said Hitler had “[actually done some good things](https://www.youtube.com/watch?v=M7i_MqiRaOk),” defended a [shirt](https://archive.org/details/hambly-jeremy-dale-daily-stormer/camp_auschwitz_jan_6.jpg) with “Camp Auschwitz” emblazoned on the front as “[dark humor](https://archive.org/details/hambly-jeremy-dale-daily-stormer/camp_auschwitz_jan_6.jpg),” used [antisemitic](https://www.youtube.com/watch?v=aZFH6Dujfe8) [rhetoric](https://www.youtube.com/watch?v=8zApCo7YaSY) and [slurs,](https://archive.org/details/hambly-jeremy-dale-daily-stormer/jeremy_dale_hamblys_homophia_antisemitism_racism_in_one_tweet.png) and told jokes making light of the [Holocaust](https://www.youtube.com/watch?v=FhcE8yK8Bwc&feature=youtu.be) and [Hitler](https://archive.org/details/hambly-jeremy-dale-daily-stormer/Hambly_Jeremy_Dale__Fuck_Hitler_YIKES_Peace_Nobel_Price.jpg). 
 
