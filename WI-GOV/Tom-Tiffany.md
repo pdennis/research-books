@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-09-21T16:24:44.082Z
+date: 2026-09-21T16:25:17.929Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -144,7 +144,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 {.links-list}
 
 ## Tom Tiffany Embraced Far-Right Extremists
-- [:exclamation:  **Tiffany Joined TheQuartering Podcast, Whose Fringe Host Had A Documented History Of Antisemitic Rhetoric And Online Harassment Controversies**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-extremists)
+- [:exclamation:  **Tiffany Surrounded Himself With Figures Tied To Antisemitic Rhetoric, Election Conspiracies, And Discrimination**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-extremists)
 {.links-list}
 
 # Key Votes
