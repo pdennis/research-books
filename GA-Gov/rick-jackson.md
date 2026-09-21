@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-09-10T16:58:15.585Z
+date: 2026-09-21T18:35:22.338Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -73,6 +73,17 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 
 **Message:** Rick Jackson used his wealth and power to further enrich himself and his businesses.
 
+### Despite Running As A Philanthropist Who Cared About Local Communities, Rick Jackson Used His Power And Wealth To Put Himself First
+
+
+- While Rick Jackson [promotes](https://www.thedailybeast.com/billionaire-maga-candidate-rick-jacksons-stunning-snobbery-exposed/) himself as a selfless philanthropist and gubernatorial candidate running to help Georgians, he faced backlash for using his wealth and power to do the opposite. 
+
+- Despite pitching himself as a philanthropist who would [address rent and housing costs,](https://www.thedailybeast.com/billionaire-maga-candidate-rick-jacksons-stunning-snobbery-exposed/) Jackson [bashed](https://www.thedailybeast.com/billionaire-maga-candidate-rick-jacksons-stunning-snobbery-exposed/) Georgians living in apartments and voiced a fear of children, all while boasting about his [mega-mansion](https://www.forsythnews.com/local/business/mansion-owner-sues-to-block-complex/) in a [2013 deposition.](https://drive.google.com/file/d/1YTs9clyibHi5SxYGTfBXvji712CEbvfZ/view?usp=sharing) In 2012, Jackson [sued](https://www.forsythnews.com/local/business/mansion-owner-sues-to-block-complex/) the Forsyth County Board of Commissioners over [zoning approval of apartments near his property.](https://www.forsythnews.com/local/business/mansion-owner-sues-to-block-complex/) In his 2013 deposition, Jackson [belittled](https://drive.google.com/file/d/1YTs9clyibHi5SxYGTfBXvji712CEbvfZ/view?usp=sharing) people who lived in apartments, including children, and [boasted](https://drive.google.com/file/d/1YTs9clyibHi5SxYGTfBXvji712CEbvfZ/view?usp=sharing) about having the [“nicest home in Georgia”](https://drive.google.com/file/d/1YTs9clyibHi5SxYGTfBXvji712CEbvfZ/view?usp=sharing) and a lavish home in areas where people could not afford [several acres of land.](https://drive.google.com/file/d/1YTs9clyibHi5SxYGTfBXvji712CEbvfZ/view?usp=sharing) Jackson boasted having a [dog “agility center”](https://drive.google.com/file/d/1YTs9clyibHi5SxYGTfBXvji712CEbvfZ/view?usp=sharing) in his mega-mansion, which would have the closest proximity to the apartment complex. Jackson said having apartments adjacent to his mansion would be a ["complete total disgrace and disrespect,”](https://www.thedailybeast.com/billionaire-maga-candidate-rick-jacksons-stunning-snobbery-exposed/) claimed ["people that rent are not as responsible as people that own,"](https://www.thedailybeast.com/billionaire-maga-candidate-rick-jacksons-stunning-snobbery-exposed/) and said the [“type of people”](https://www.thedailybeast.com/billionaire-maga-candidate-rick-jacksons-stunning-snobbery-exposed/) that lived in apartments would [affect the value of his mansion’s property](https://drive.google.com/file/d/1YTs9clyibHi5SxYGTfBXvji712CEbvfZ/view?usp=sharing) and would [increase security concerns](https://drive.google.com/file/d/1YTs9clyibHi5SxYGTfBXvji712CEbvfZ/view?usp=sharing) for him. Jackson admitted to [believing the stereotype](https://drive.google.com/file/d/1YTs9clyibHi5SxYGTfBXvji712CEbvfZ/view?usp=sharing) that renters bring in “bigger security issue[s].” He said apartment children increased his security concerns, believing they would find a way to [sneak into his property.](https://www.thedailybeast.com/billionaire-maga-candidate-rick-jacksons-stunning-snobbery-exposed/) Jackson complained that he needed to install a [$500,000 security upgrade](https://drive.google.com/file/d/1YTs9clyibHi5SxYGTfBXvji712CEbvfZ/view?usp=sharing) to prevent any potential crime associated with renters moving in near his property.
+
+- Jackson also touted the [investment in a Texas data center](https://www.13wmaz.com/article/news/politics/rick-jackson-invests-a-data-center-makes-case-for-economic-impact/93-8093d9ee-7e69-4a9e-bb85-bfceb72f6fa3) and promoted the need for [local input](https://www.ajc.com/opinion/2026/08/opinion-rick-jackson-says-georgians-must-have-voice-on-local-data-centers/) over data center development, yet faced [backlash from Bowie County, Texas residents](https://couriergeorgia.com/news/rick-jackson-says-communities-should-decide-on-data-centers-but-his-own-data-center-project-in-texas-is-under-fire-from-locals/) over his company’s development of a massive hyperscale data center campus. [No Bowie Data Centers](https://www.ajc.com/politics/2026/09/keisha-lance-bottoms-rick-jackson-clash-over-data-centers/) organized against the data center project linked to Jackson’s company and [questioned](https://www.ajc.com/politics/2026/09/keisha-lance-bottoms-rick-jackson-clash-over-data-centers/) his pledge for local input due to a [confidentiality agreement](https://couriergeorgia.com/news/rick-jackson-says-communities-should-decide-on-data-centers-but-his-own-data-center-project-in-texas-is-under-fire-from-locals/) between Bowie County Commissioners and Jackson’s company over the land sale.
+
+**Message:** Rick Jackson was the opposite of who he said he was, instead using his power and wealth to enrich himself and belittle the people he claimed to support. 
+
 ### RICK JACKSON COURTED TRUMP’S SUPPORT AFTER HE BENEFITTED FROM TRUMP’S TAX CUTS AND DONATED TO MAGA INC.
 
 - Rick Jackson seemingly became an ardent Trump supporter and courted Trump’s approval for his gubernatorial campaign after Jackson benefitted from Trump’s devastating tax cuts and tariff policies. Jackson even [claimed](https://www.youtube.com/watch?v=VhttWecNSSU) Trump inspired him to run for governor and pledged to run the State of Georgia like Trump ran the federal government.
@@ -113,6 +124,7 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 
 ## Rick Jackson Used His Wealth To Make Himself More Powerful 
 - [:money_with_wings: | **Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-georgia-donations)
+- [:money_with_wings: | **Despite Running As A Philanthropist Who Cared About Local Communities, Rick Jackson Used His Power And Wealth To Put Himself First**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-fake)
 - [:moneybag: | **Billionaire Rick Jackson Courted Trump’s Support After He Benefitted From Trump’s Tax Cuts And Donated To MAGA Inc.**](/GA-Gov/rick-jackson/jackson-billionaire-trump)
 - [:dollar: | **Rick Jackson Hypocritically Opened A Leadership Committee To Raise Unlimited Donations After Challenging Them In Court**](/GA-Gov/rick-jackson/jackson-leadership-committee)
 {.links-list}
