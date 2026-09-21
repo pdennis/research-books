@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-09-21T16:24:22.045Z
+date: 2026-09-21T16:24:44.082Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -107,7 +107,7 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 
 **Message:**  Tom Tiffany yells about how taxes are too high, but conveniently leaves out the fact his business did not pay state income taxes for years.
 
-###  Tom Tiffany Joined TheQuartering Podcast, Whose Fringe Host Had A Documented History Of Antisemitic Rhetoric And Online Harassment Controversies
+###  Tom Tiffany Surrounded Himself With Figures Tied To Antisemitic Rhetoric, Election Conspiracies, And Discrimination
 
 - MAGA-endorsed Tom Tiffany is trying to [rebrand](https://www.jsonline.com/story/news/politics/2025/10/07/tiffany-erases-hot-button-issues-like-abortion-from-website-bice/86438816007/) as a mainstream Republican in his bid for governor, while continuing to associate with figures tied to [antisemitism](https://milwaukeecourier.com/news/2026/07/17/tom-tiffany-criticizes-francesca-hong-for-appearing-with-hasan-piker-but-the-republican-appeared-on-a-podcast-with-a-host-who-made-antisemitic-remarks-of-his-own), [election conspiracies](https://www.nbcnews.com/politics/2024-election/scott-presler-conspiracy-theories-lara-trump-rnc-job-rcna144144), and [discrimination](https://milwaukeecourier.com/news/2026/09/18/tom-tiffany-accepted-political-contributions-from-notorious-islamophobic-ceo-who-settled-largest-civil-rights-case-over-discriminatory-hiring-practices).
 
