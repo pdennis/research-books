@@ -2,7 +2,7 @@
 title: David Valadao
 description: 
 published: true
-date: 2026-09-22T13:45:39.701Z
+date: 2026-09-22T14:42:11.590Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T13:36:39.888Z
@@ -74,7 +74,7 @@ Message: Valadao puts loyalty to party over ending an expensive war that is cost
 - [:older_man: *Valadao Voted To Make Massive Cuts To Medicare*](https://research-books.com/en/david-valadao/valadao-medicare)
 - [:carrot: *Valadao Voted To Take Food Assistance From Californians*](https://research-books.com/en/david-valadao/valadao-SNAP)
 - [:shopping_cart: *Valadao Defended Trump's Tariffs That Hurt Californians*](https://research-books.com/en/david-valadao/valadao-tariffs)
-- [:x: *Valadao Supported DOGE While They Cut Critical Programs In HIs District*](https://research-books.com/en/david-valadao/valadao-doge)
+- [:x: *Valadao Supported DOGE While It Cut Critical Programs In His District*](https://research-books.com/en/david-valadao/valadao-doge)
 -   [🪖 *Valadao Backed Trump's Costly War With Iran That Raised Prices On Arizonans*](/en/david-valadao/valadao-iran)
 {.links-list}
 
