@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-09-10T16:43:53.161Z
+date: 2026-09-22T16:07:35.645Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -123,5 +123,7 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 - [:apple:**Susan Collins Allowed A Bill That Slashed Medicaid And SNAP To Go Through**](/susan-collins/OBBB)
 
 - [:dog:**Susan Collins Supported DOGE's Efforts And Was In The Pocket Of Elon Musk**](/susan-collins/DOGE)
+
+- [:moneybag:**Susan Collins Was Deep In Pay-To-Play Corruption**](/susan-collins/corruption)
 
 {.links-list}
