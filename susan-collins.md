@@ -2,7 +2,7 @@
 title: Susan Collins
 description: 
 published: true
-date: 2026-09-22T16:07:35.645Z
+date: 2026-09-22T16:12:03.841Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-27T17:05:54.661Z
@@ -97,6 +97,16 @@ Susan Collins has proven unwilling to stand up to Trump in a state that has repe
 - Musk could spend [millions](https://www.mainepublic.org/news/2026-08-03/report-elon-musk-to-spend-millions-backing-collins-reelection) backing Collins campaign and has already spent [$170,000](https://thehill.com/homenews/campaign/6069181-musk-america-pac-spending-surge/). 
 
 **Message:** Collins claimed to fight for Maine but she has been friendly with Musk, opposed defunding DOGE which was hurting Maine and in trade, Musk was preparing to support her campaign through his Super PAC. 
+
+### **Susan Collins Was Deep In Pay-To-Play Corruption**
+
+Collins repeatedly exchanged donations for contracts that went to Navatek. She asked, then CEO Martin Kao, to host a [fundraiser](https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation) and bundle tens of thousands of towards her campaign in exchange for funding in the annual defense budget. 
+
+Collins asked for additional donations, saying “[you’ve seen me deliver.](https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation)” Kao And Navatek funneled donations though a [shell company](https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation) to Collins’ super PAC in exchange for additional funding. 
+
+The projects that federal funds were being used for were going towards research that [didn’t result](https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation) in use by the military.
+
+**Message:** Collins often touts her role as chair of the appropriations committee for the people of Maine, but she used that role to benefit a company siphoning public funds. 
 
 # **Issue Back-Ups**
 
