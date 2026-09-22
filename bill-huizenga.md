@@ -2,7 +2,7 @@
 title: Bill Huizenga (MI-04)
 description: 
 published: true
-date: 2026-09-22T16:39:09.722Z
+date: 2026-09-22T16:39:43.260Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-22T14:23:46.505Z
@@ -93,7 +93,7 @@ Bill Huizenga has shown that he will turn his back on West Michiganders when it 
 
 -   [*Huizenga Flip-Flopped On Tariffs Dooming Michiganders To Higher Prices*](/en/bill-huizenga/tariffs)
 
-[![❌](/_assets/svg/twemoji/274c.svg) *Huizenga Supported An Agency That Cut Grants To Michigan And Weakened Social Security Services*](/en/bill-huizenga/doge)
+- [![❌](/_assets/svg/twemoji/274c.svg) *Huizenga Supported An Agency That Cut Grants To Michigan And Weakened Social Security Services*](/en/bill-huizenga/doge)
 
 ![🔨](/_assets/svg/twemoji/1f528.svg)
 
