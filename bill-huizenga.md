@@ -2,7 +2,7 @@
 title: Bill Huizenga (MI-04)
 description: 
 published: true
-date: 2026-09-22T16:27:35.133Z
+date: 2026-09-22T16:29:35.649Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-22T14:23:46.505Z
@@ -80,7 +80,7 @@ Bill Huizenga has shown that he will turn his back on West Michiganders when it 
 - [:carrot: *Huizenga Voted To Take Food Assistance From Michiganders*](/en/bill-huizenga/snap)
 - [:shopping_cart: *Huizenga Flip-Flopped On Tariffs Dooming Michiganders To Higher Prices*](/en/bill-huizenga/tariffs)
 - [:hammer: *Huizenga Voted Against Repairing West Michigan's Infrastructure*](/en/bill-huizenga/infrastructure)
-- [:military_helmet: *Huizenga Backed Trump's Costly War With Iran That Raised Prices On Michiganders*](/en/bill-huizenga/huizenga-iran)
+- [🪖 *Huizenga Backed Trump's Costly War With Iran That Raised Prices On Michiganders*](/en/bill-huizenga/huizenga-iran)
 {.links-list}
 
 ## Bill Huizenga Used His Power To Benefit The Powerful And Himself
