@@ -2,32 +2,23 @@
 title: Juan Ciscomani
 description: 
 published: true
-date: 2026-08-10T17:02:07.949Z
+date: 2026-09-22T13:40:09.439Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T11:40:44.781Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
+**📺 - Click here for Notable Clips and Visuals**
 
-**Juan Ciscomani Pledged Not To Support Legislation That Cuts Medicaid.** [KGUN (ABC) 05/13/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/02nbcg?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Juan Ciscomani Pledged Not To Support Legislation That Cuts Medicaid.** \[KGUN (ABC) 05/13/2025\]
 
-**Juan Ciscomani Promised To Protect, Streamline, And Improve Medicaid.** [KNXV-PHX (ABC) 04/13/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/6odtr9?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Juan Ciscomani Promised To Protect, Streamline, And Improve Medicaid.** \[KNXV-PHX (ABC) 04/13/2025\]
 
-**Juan Ciscomani Said Tariffs Directly Affect Arizona's Economy And National Security.** [Ripon Society 02/06/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/x39ik0?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Juan Ciscomani Said Tariffs Directly Affect Arizona's Economy And National Security.** \[Ripon Society 02/06/2025\]
 
-**Juan Ciscomani Admitted Tariffs Could Be "Very Detrimental" To Arizona In The Long Term.** [Wake Up Live 04/30/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/jouiwi?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Juan Ciscomani Admitted Tariffs Could Be "Very Detrimental" To Arizona In The Long Term.** \[Wake Up Live 04/30/2025\]
 
-**Juan Ciscomani Called DOGE Cuts To Medicaid And Veterans Affairs "Lies."** [KMSB (FOX) 03/20/2025]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/w1dank?loop=0" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
-
-</details>
+**Juan Ciscomani Called DOGE Cuts To Medicaid And Veterans Affairs "Lies."** \[KMSB (FOX) 03/20/2025\]
 
 # How To Win Against Juan Ciscomani
 
@@ -74,22 +65,22 @@ Ciscomani finally [voted](http://clerk.house.gov/evs/2025/roll289.xml) to releas
 # Issue Briefs
 
 ## Juan Ciscomani's Policies Hurt Everyday Arizonans
--    [🏥 *Ciscomani Broke His Promises and Voted To Take Health Coverage From Arizonans*](/en/juan-ciscomani/ciscomani-medicaid)
--    [👴 *Ciscomani Voted for Massive Cuts To Medicare*](/en/juan-ciscomani/ciscomani-medicare)
--    [🛒 *Ciscomani Supported Trump's Tariffs That Were Crushing Arizonans*](/en/juan-ciscomani/ciscomani-tariffs)
--    [❌ *Ciscomani Backed DOGE Despite Its Impacts To Federal Workers, Social Security, And Veterans' Care*](/en/juan-ciscomani/ciscomani-doge)
--    [🧑‍🔧 *Ciscomani's Votes Threatened Clean Energy Jobs in His District*](/en/juan-ciscomani/ciscomani-IRA-clean-energy)
--    [👩 *Ciscomani Was A Threat To Women's Health and Reproductive Freedom*](/en/juan-ciscomani/ciscomani-choice)
--    [💧 *Ciscomani Was A Senior Advisor to AZ Governor Who Worsened Water Crisis*](/en/juan-ciscomani/ciscomani-water)
--    [🪖 *Ciscomani Backed Trump's Costly War With Iran That Raised Prices On Arizonans*](/en/juan-ciscomani/ciscomani-iran)
-{.links-list}
+
+-   [🏥 *Ciscomani Broke His Promises and Voted To Take Health Coverage From Arizonans*](/en/juan-ciscomani/ciscomani-medicaid)
+-   [👴 *Ciscomani Voted for Massive Cuts To Medicare*](/en/juan-ciscomani/ciscomani-medicare)
+-   [🛒 *Ciscomani Supported Trump's Tariffs That Were Crushing Arizonans*](/en/juan-ciscomani/ciscomani-tariffs)
+-   [❌ *Ciscomani Backed DOGE Despite Its Impacts To Federal Workers, Social Security, And Veterans' Care*](/en/juan-ciscomani/ciscomani-doge)
+-   [🧑‍🔧 *Ciscomani's Votes Threatened Clean Energy Jobs in His District*](/en/juan-ciscomani/ciscomani-IRA-clean-energy)
+-   [👩 *Ciscomani Was A Threat To Women's Health and Reproductive Freedom*](/en/juan-ciscomani/ciscomani-choice)
+-   [💧 *Ciscomani Was A Senior Advisor to AZ Governor Who Worsened Water Crisis*](/en/juan-ciscomani/ciscomani-water)
+-   [🪖 *Ciscomani Backed Trump's Costly War With Iran That Raised Prices On Arizonans*](/en/juan-ciscomani/ciscomani-iran)
 
 ## Juan Ciscomani Used His Power To Benefit Himself and the Powerful
--    [👀 *It Took Ciscomani 11 Months To Vote To Release The Epstein Files*](/en/juan-ciscomani/ciscomani-epstein)
--    [🐘 *Ciscomani Was On The Board Of The Patriot Academy*](/en/juan-ciscomani/ciscomani-patriot-academy)
--    [💰 *Ciscomani, A Critic Of Insider Trading, Seemingly Violated The STOCK Act By Failing To Disclose A Financial Transaction*](https://coppercourier.com/news/politics/did-ciscomani-violate-insider-trading-law)
-{.links-list}
+
+-   [👀 *It Took Ciscomani 11 Months To Vote To Release The Epstein Files*](/en/juan-ciscomani/ciscomani-epstein)
+-   [🐘 *Ciscomani Was On The Board Of The Patriot Academy*](/en/juan-ciscomani/ciscomani-patriot-academy)
+-   [💰 *Ciscomani, A Critic Of Insider Trading, Seemingly Violated The STOCK Act By Failing To Disclose A Financial Transaction*](https://coppercourier.com/news/politics/did-ciscomani-violate-insider-trading-law)
 
 # Key Votes
--    [✅ *Ciscomani's Key Votes As A Member Of Congress*](/en/juan-ciscomani/ciscomani-votes)
-{.links-list}
+
+-   [✅ *Ciscomani's Key Votes As A Member Of Congress*](/en/juan-ciscomani/ciscomani-votes)
