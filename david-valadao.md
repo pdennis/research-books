@@ -2,7 +2,7 @@
 title: David Valadao
 description: 
 published: true
-date: 2026-09-22T13:37:47.855Z
+date: 2026-09-22T13:45:39.701Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T13:36:39.888Z
@@ -65,3 +65,21 @@ Message: Valadao puts loyalty to party over ending an expensive war that is cost
 -   Valadao Dairy was found [mostly responsible](https://www.visaliatimesdelta.com/story/news/2020/02/19/tj-cox-david-valadao-face-questions-business-dealings/4787198002/) for an accident in 2016 where a farm worker lost part of his arm while cleaning a machine, which an employee of the manufacturer [testified](https://www.fresnobee.com/news/local/article239991038.html) he had explicitly told Valadao should be turned off while the worker was cleaning but the farm was unable to provide training records and Valadao’s response when asked if he understood the employer responsibility for employee training, he said, “Well, yeah, today.” 
 
 **Message:** Valadao brags about his experience as a dairy farmer but his dairy farming career was wrought with financial and employee mismanagement that ended with someone getting hurt.
+
+# Issue Backups
+
+## David Valadao's Policies Hurt Everyday Californians
+
+- [:hospital: *Valadao Voted To Take Health Coverage From Californians*](https://research-books.com/en/david-valadao/valadao-medicaid)
+- [:older_man: *Valadao Voted To Make Massive Cuts To Medicare*](https://research-books.com/en/david-valadao/valadao-medicare)
+- [:carrot: *Valadao Voted To Take Food Assistance From Californians*](https://research-books.com/en/david-valadao/valadao-SNAP)
+- [:shopping_cart: *Valadao Defended Trump's Tariffs That Hurt Californians*](https://research-books.com/en/david-valadao/valadao-tariffs)
+- [:x: *Valadao Supported DOGE While They Cut Critical Programs In HIs District*](https://research-books.com/en/david-valadao/valadao-doge)
+-   [🪖 *Valadao Backed Trump's Costly War With Iran That Raised Prices On Arizonans*](/en/david-valadao/valadao-iran)
+{.links-list}
+
+## David Valadao Used His Power To Benefit Himself and The Powerful
+
+- [:cow: *One Of Valadao's Dairy Farms Was Accused Of Labor Violations And Another Was Found Responsible For A Major Injury*](https://research-books.com/en/david-valadao/valadao-dairy)
+- [:eyes: *It Took Valadao 11 Months To Vote To Release The Epstein Files And He Did Only After Trump Gave Republicans Permission*](https://research-books.com/en/david-valadao/valadao-epstein)
+{.links-list}
