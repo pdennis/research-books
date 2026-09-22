@@ -2,24 +2,19 @@
 title: Bill Huizenga (MI-04)
 description: 
 published: true
-date: 2026-09-22T16:29:35.649Z
+date: 2026-09-22T16:38:06.126Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-22T14:23:46.505Z
 ---
 
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
+**📺 - Click here for Notable Clips and Visuals** 
 
-**Bill Huizenga Claims There Will Be "Bumps In The Road" With Tariffs, But It Will Be "Good In The Long Run."** [Bloomberg Balance of Power, 4/28/25]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://www.youtube.com/embed/h60_DCLBNjo" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Bill Huizenga Claims There Will Be "Bumps In The Road" With Tariffs, But It Will Be "Good In The Long Run."** \[Bloomberg Balance of Power, 4/28/25\]
 
-**Bill Huizenga Claims The One Big Beautiful Bill Didn't Make Cuts To Medicaid: "These Are Savings Not Cuts."** [Newsmax: Wake Up America, 6/17/25]
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://www.youtube.com/embed/7oPuXvMtoSU" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+**Bill Huizenga Claims The One Big Beautiful Bill Didn't Make Cuts To Medicaid: "These Are Savings Not Cuts."** \[Newsmax: Wake Up America, 6/17/25\]
 
 [**Click here to check out more videos from Bill Huizenga.**](https://www.youtube.com/playlist?list=PLWuvMonaruUhsv7dIFeEzgf1Lb_MQfaUs)
-</details>
 
 # How To Win Against Bill Huizenga
 
@@ -36,7 +31,7 @@ Bill Huizenga has shown that he will turn his back on West Michiganders when it 
 
 -   Huizenga [voted](http://clerk.house.gov/evs/2022/roll420.xml) [against](http://clerk.house.gov/evs/2019/roll682.xml) allowing Medicare to negotiate lower prescription drug costs and [capping the cost of insulin](http://clerk.house.gov/evs/2022/roll102.xml). Over the course of his time in Congress, Huizenga has accepted [$78,737 in campaign contributions](https://www.opensecrets.org/industries/summary?code=H04&cycle=2010&ind=H04&mem=Y&recipdetail=H&t0-search=hui) from the pharmaceutical/health products industry.
 -   In 2025, Huizenga promised that Republicans had no intention of cutting Medicare, but then he [voted](http://clerk.house.gov/evs/2025/roll145.xml) for House Republicans' reconciliation bill, which would trigger nearly [$500 billion in Medicare cuts](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf), absent future congressional action. He was also a [member](https://web.archive.org/web/20250124151313/https:/rsc-pfluger.house.gov/about/membership) of the Republican Study Committee, which has advocated for [raising the retirement age](https://hern.house.gov/uploadedfiles/final_budget_including_letter_word_doc-final_as_of_march_25.pdf) and turning [Medicare](https://www.cbpp.org/blog/house-republican-health-plan-would-radically-restructure-medicare) into a voucher system. Earlier in his career in Congress, Huizenga also [defended proposals](https://www.detroitnews.com/story/news/local/michigan/2016/11/29/gop-explores-medicare-reforms-affecting-mich/94647322/) that sought to turn Medicare into a premium support system. Huizenga even once called to [block grant Medicare](https://www.hollandsentinel.com/story/news/2013/01/02/rep-bill-huizenga-knows-where/44487669007/).
--   Huizenga has also expressed support for raising the Social Security retirement age. In 2013, he said congress needed to reexamine Social Security, particularly ["who qualifies and at what level they qualify."](https://www.hollandsentinel.com/story/news/2013/01/02/rep-bill-huizenga-knows-where/44487669007/) In 2024, he [pushed for a fiscal commission](https://www.newsweek.com/republicans-plan-cut-social-security-sparks-fierce-backlash-1862439) to review federal spending that advocates worried could threaten Social Security by setting up a process that could ram through drastic cuts to programs without amendment or full public debate. Huizenga has also [defended](https://www.wsjm.com/2025/02/06/huizenga-administration-will-have-to-work-with-congress-when-time-comes-to-cut-the-budget/) Trump's "Department of Government Efficiency" (DOGE) while [promising](https://www.bostonglobe.com/2025/03/15/nation/voters-town-halls-social-security-cuts-republicans/?event=event12) that Republicans would not touch Social Security even as DOGE was weakening Americans' ability to access the [Social Security Administration](https://www.washingtonpost.com/politics/2025/04/07/social-security-website-crashes-musk-trump/). [More than 174,000 Michiganders](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2024/mi.pdf) in the 4^th^ congressional district rely on Social Security benefits.
+-   Huizenga has also expressed support for raising the Social Security retirement age. In 2013, he said congress needed to reexamine Social Security, particularly ["who qualifies and at what level they qualify."](https://www.hollandsentinel.com/story/news/2013/01/02/rep-bill-huizenga-knows-where/44487669007/) In 2024, he [pushed for a fiscal commission](https://www.newsweek.com/republicans-plan-cut-social-security-sparks-fierce-backlash-1862439) to review federal spending that advocates worried could threaten Social Security by setting up a process that could ram through drastic cuts to programs without amendment or full public debate. 
 
 **Message:** West Michigan seniors cannot count on Bill Huizenga to fight to protect their benefits or lower prescription drug costs.
 
@@ -52,6 +47,13 @@ Bill Huizenga has shown that he will turn his back on West Michiganders when it 
 -   Then Huizenga lost his spine and bowed to Trump during his second administration when it came to tariffs, claiming they were the ["right thing to do."](https://www.mlive.com/politics/2025/04/michigan-gop-congressman-backs-trump-tariffs-ahead-of-liberation-day-announcement.html) He claimed tariffs were "common sense" and that they would make the United States more prosperous despite also acknowledging they would cause some "bumps in the road." Then he voted six times to protect Trump's tariffs including in April 2025, when Huizenga was the [deciding vote](http://clerk.house.gov/evs/2025/roll094.xml) to protect Trump's tariffs. Tariffs ["created havoc"](https://finance.yahoo.com/news/west-michigan-economy-sees-slight-193625613.html) for Western Michigan's industrial buyers, raised costs on Michiganders and [small businesses](https://www.mlive.com/politics/2026/02/supreme-court-strikes-down-trump-tariffs-what-michigan-businesses-are-saying.html), made farmers [lose money](https://www.mlive.com/politics/2026/02/supreme-court-strikes-down-trump-tariffs-what-michigan-businesses-are-saying.html), and amounted to a [$1,000 tax increase](https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/) on Americans.
 
 **Message:** Huizenga betrayed his principles and West Michiganders, dooming them to higher costs because he wouldn't fight back against tariffs.
+
+### Huizenga Supported An Agency That Laid Off Federal Workers And Hamstrung Social Security
+
+-   Huizenga was a very early supporter of Trump’s “Department of Government Efficiency” and said the agency was “[going to be able to do a lot of good work](https://www.wsjm.com/2025/02/06/huizenga-administration-will-have-to-work-with-congress-when-time-comes-to-cut-the-budget/).” Huizenga also [defended](https://huizenga.house.gov/news/email/show.aspx?ID=BHQA3XWCHKQBBD5FMSR5WRVK2M) DOGE to constituents that were [protesting](https://www.wgvunews.org/news/2025-03-31/u-s-rep-bill-huizenga-meets-with-constituents-outside-his-holland-office) outside his office and said the agency was “[greatly improving transparency and accountability](https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404046).”
+-   Despite Huizenga’s praise for DOGE, Michiganders were suffering thanks to the agency’s actions. DOGE’s downsizing efforts were affecting the [federal government’s](https://www.washingtonpost.com/politics/2025/06/20/social-security-wait-times-cuts/) ability to [deliver services](https://www.washingtonpost.com/politics/2025/04/04/social-security-layoffs-trump-musk/) to seniors, including more than [178,000](https://www.ssa.gov/policy/docs/factsheets/cong_stats/2025/mi.html) of Huizenga’s constituents. DOGE [cancelled grants](https://www.mlive.com/politics/2025/06/doge-claims-to-have-saved-630m-in-michigan-some-say-the-numbers-dont-add-up.html) for the Michigan Department of Health And Human Services, Department of Education, and EPA.
+
+**Message:** Huizenga was an early and continued supporter of an agency that eliminated key state level grants and caused Michigan seniors to wait longer for services. 
 
 ### Huizenga voted against the bipartisan infrastructure law that was helping rebuild michigan's infrastructure
 
@@ -75,21 +77,39 @@ Bill Huizenga has shown that he will turn his back on West Michiganders when it 
 
 ## Bill Huizenga Supported Policies That Hurt Every Day Michiganders
 
-- [:hospital: *Huizenga Has Repeatedly Voted To Take Health Care From Michiganders*](/en/bill-huizenga/health-care)
-- [:older_man: *Huizenga Supported Policies That Hurt West Michigan Seniors*](/en/bill-huizenga/seniors)
-- [:carrot: *Huizenga Voted To Take Food Assistance From Michiganders*](/en/bill-huizenga/snap)
-- [:shopping_cart: *Huizenga Flip-Flopped On Tariffs Dooming Michiganders To Higher Prices*](/en/bill-huizenga/tariffs)
-- [:hammer: *Huizenga Voted Against Repairing West Michigan's Infrastructure*](/en/bill-huizenga/infrastructure)
-- [🪖 *Huizenga Backed Trump's Costly War With Iran That Raised Prices On Michiganders*](/en/bill-huizenga/huizenga-iran)
-{.links-list}
+![🏥](/_assets/svg/twemoji/1f3e5.svg)
+
+-   [*Huizenga Has Repeatedly Voted To Take Health Care From Michiganders*](/en/bill-huizenga/health-care)
+
+![👴](/_assets/svg/twemoji/1f474.svg)
+
+-   [*Huizenga Supported Policies That Hurt West Michigan Seniors*](/en/bill-huizenga/seniors)
+
+![🥕](/_assets/svg/twemoji/1f955.svg)
+
+-   [*Huizenga Voted To Take Food Assistance From Michiganders*](/en/bill-huizenga/snap)
+
+![🛒](/_assets/svg/twemoji/1f6d2.svg)
+
+-   [*Huizenga Flip-Flopped On Tariffs Dooming Michiganders To Higher Prices*](/en/bill-huizenga/tariffs)
+
+![🔨](/_assets/svg/twemoji/1f528.svg)
+
+-   [*Huizenga Voted Against Repairing West Michigan's Infrastructure*](/en/bill-huizenga/infrastructure)
+-   [🪖 *Huizenga Backed Trump's Costly War With Iran That Raised Prices On Michiganders*](/en/bill-huizenga/huizenga-iran)
 
 ## Bill Huizenga Used His Power To Benefit The Powerful And Himself
 
-- [:moneybag: *Huizenga's Net Worth Has Increased During His Time In Congress*](/en/bill-huizenga/personal-wealth)
-- [:eyes: *It Took Huizenga 11 Months To Vote To Release The Epstein Files*](/en/bill-huizenga/epstein)
-{.links-list}
+![💰](/_assets/svg/twemoji/1f4b0.svg)
+
+-   [*Huizenga's Net Worth Has Increased During His Time In Congress*](/en/bill-huizenga/personal-wealth)
+
+![👀](/_assets/svg/twemoji/1f440.svg)
+
+-   [*It Took Huizenga 11 Months To Vote To Release The Epstein Files*](/en/bill-huizenga/epstein)
 
 # Key Votes
 
-- [:white_check_mark: *Huizenga's Key Votes In Congress*](/en/bill-huizenga/votes)
-{.links-list}
+![✅](/_assets/svg/twemoji/2705.svg)
+
+-   [*Huizenga's Key Votes In Congress*](/en/bill-huizenga/votes)
