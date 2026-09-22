@@ -2,7 +2,7 @@
 title: California House Races
 description: 
 published: true
-date: 2026-06-03T14:03:41.813Z
+date: 2026-09-22T13:34:10.562Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T17:26:46.954Z
@@ -11,6 +11,10 @@ dateCreated: 2025-05-22T17:26:46.954Z
 
 ## CA-05
 - [:elephant:***Tom McClintock***](/tom-mcclintock) A nine-term incumbent who has voted against virtually every major investment in his own district while working to strip coverage from the constituents who depend on it most.
+{.links-list}
+
+## CA-2
+- [:elephant:***David Valadao***](/david-valadao) Voted for Medicaid cuts and has a history of voting against healthcare for his constituents, including his opposition to the Affordable Care Act
 {.links-list}
 
 ## CA-23
