@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-09-21T19:24:53.735Z
+date: 2026-09-23T14:58:06.517Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -96,7 +96,7 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 
 ### Rick Jackson Hypocritically Opened A Leadership Committee To Raise Unlimited Donations After Challenging Them In Court
 
-- Despite [challenging](https://www.cbsnews.com/atlanta/news/georgia-gop-gubernatorial-candidate-rick-jackson-sues-lt-gov-burt-jones-over-campaign-finance-law/) leadership committees in court as unconstitutional and unfair, Rick Jackson [opened](https://www.ajc.com/politics/2026/06/jackson-opens-leadership-committee-after-challenging-the-law-in-court/) a leadership committee so he could raise unlimited contributions after securing the Republican nomination for Georgia governor. Jackson opened his leadership committee after [celebrating a federal appeals court ruling](https://www.ajc.com/politics/2026/06/federal-court-rules-a-fundraising-advantage-for-burt-jones-is-likely-illegal/) affirming that Georgia’s law allowing Jones and incumbents to raise unlimited funds with leadership committees was likely unconstitutional. Jackson spent [more than $100 million of his own wealth](https://www.politico.com/news/2026/06/16/jackson-wins-georgia-governor-runoff-00964631) to defeat Jones in the primary despite [attacking](https://www.ajc.com/politics/2026/06/top-georgia-politicians-rake-in-cash-as-lawsuits-that-could-stop-them-drag/) Jones for “abusing” his leadership committee. 
+- Despite [challenging](https://www.cbsnews.com/atlanta/news/georgia-gop-gubernatorial-candidate-rick-jackson-sues-lt-gov-burt-jones-over-campaign-finance-law/) leadership committees in court as unconstitutional and unfair, Rick Jackson [opened](https://www.ajc.com/politics/2026/06/jackson-opens-leadership-committee-after-challenging-the-law-in-court/) a leadership committee so he could raise unlimited contributions after securing the Republican nomination for Georgia governor. Jackson opened his leadership committee after [celebrating a federal appeals court ruling](https://www.ajc.com/politics/2026/06/federal-court-rules-a-fundraising-advantage-for-burt-jones-is-likely-illegal/) affirming that Georgia’s law allowing Jones and incumbents to raise unlimited funds with leadership committees was likely unconstitutional. In September 2026, Jackson [dropped](https://www.ajc.com/politics/2026/09/gop-candidate-for-governor-rick-jackson-drops-lawsuits-against-burt-jones/) [the suit against Jones](https://www.washingtonexaminer.com/news/campaigns/state/4738141/rick-jackson-drops-lawsuits-burt-jones-georgia-gubernatorial-race/) challenging leadership committees as Jackson reportedly sought to make amends with Jones. Jackson spent [more than $100 million of his own wealth](https://www.politico.com/news/2026/06/16/jackson-wins-georgia-governor-runoff-00964631) to defeat Jones in the primary despite [attacking](https://www.ajc.com/politics/2026/06/top-georgia-politicians-rake-in-cash-as-lawsuits-that-could-stop-them-drag/) Jones for “abusing” his leadership committee. 
 
 **Message:** Rick Jackson hypocritically opened a leadership committee to raise unlimited donations despite challenging leadership committees in court and spending more than $100 million of his own wealth to secure the GOP nomination.
 
