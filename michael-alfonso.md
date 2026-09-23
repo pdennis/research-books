@@ -2,7 +2,7 @@
 title: Michael Alfonso
 description: 
 published: true
-date: 2026-08-24T19:51:33.488Z
+date: 2026-09-23T21:15:41.782Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-18T16:22:31.905Z
@@ -26,3 +26,4 @@ Michael Alfonso is a nepo baby who thinks he can use his connections to his fath
 - [:briefcase: *Florida Man Alfonso Didn't Have A Job Or His Own Wisconsin Address To Vote From*](https://research-books.com/en/michael-alfonso/alfonso-job)
 {.links-list}
 - [:baby: *Alfonso Claimed He "Saw" Socialism 44 Years Before He Was Born*](https://research-books.com/en/michael-alfonso/alfonso-socialism){.links-list}
+- [🗳️ *Alfonso Said He Would Support Raising The Voting Age To 21*](https://research-books.com/en/michael-alfonso/alfonso-voting){.links-list}
