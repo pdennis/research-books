@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-09-23T15:37:33.948Z
+date: 2026-09-24T20:10:57.311Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -28,11 +28,12 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 
 **Message:** Rick Jackson supported making food more expensive for Georgia families. 
 
-### Rick Jackson Celebrated How Trump's Tariffs Grew His Wealth
+### Rick Jackson Celebrated How Trump's Tariffs Grew His Wealth And Supported Trump's War In Iran Even As It Increased Costs For Georgians
 
 - In 2026, Rick Jackson [praised](https://www.foxnews.com/politics/gop-governor-hopefuls-pro-trump-pitch-voters-clashes-paper-trail-inside-own-company) Trump's tariffs and his [business decisions,](https://www.youtube.com/watch?v=VhttWecNSSU) touting that Trump inspired Jackson to run for governor. Jackson even [touted](https://americanjournalnews.com/rick-jackson-brags-that-tariffs-and-tax-cuts-are-boosting-his-wealth/) how Trump’s tariffs and tax cuts were growing his wealth. Jackson said he bought stocks when the [stock market crashed in April 2025](https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs) due to Trump’s tariffs and celebrated making a “80% return in four weeks.” Trump’s tariffs were dooming Georgia’s ranking as [7th in the nation](https://www.fox5atlanta.com/news/trumps-tariff-plan-sparks-economic-uncertainty-georgia) for net exports and harming the state’s key industries of agriculture, automotive manufacturing, construction, and port logistics. Additionally, [two-thirds of Georgians](https://www.ajc.com/politics/georgia-republicans-industries-brace-for-impact-of-trumps-tariffs/LSOO37N5AJDWLB3CV2T3CYC64A/) believed the tariffs would cause their everyday costs to increase.
+- In 2026, Jackson called on Americans to [“trust”](https://x.com/RickJacksonGA/status/2041682444470898843) Trump and said he [“completely”](https://www.lagrangenews.com/news/governor-hopeful-rick-jackson-makes-case-in-lagrange-60f9fbc9) supported Trump’s war in Iran. In September 2026, Jackson claimed the political environment [“has never been worse” due to increases in gas prices and interest rates,](https://www.youtube.com/watch?v=8cLEhZSEFcI) failing to mention he supported Trump’s war in Iran, which led to increased costs in Georgia. Trump's war of choice with Iran [drove up](https://www.ajc.com/business/2026/05/metro-atlanta-gas-prices-are-up-50-since-start-of-iran-war/) [Georgians'](https://gasprices.aaa.com/?state=GA#state-metro) [gas prices](https://www.walb.com/2026/04/08/experts-warn-war-with-iran-could-raise-costs-georgia-fuel-prices-leading-way/) and [squeezed](https://www.cbsnews.com/atlanta/news/georgia-farmers-delivery-drivers-diesel-gas-prices-iran-war-impact/) [Georgia farmers.](https://www.13wmaz.com/article/news/local/georgia-farmers-brace-for-price-spike-as-iran-war-rattles-fertilizer-markets/93-9f41de8a-5449-403b-8edc-f38512da9b75) [Fertilizer](https://www.walb.com/2026/04/08/experts-warn-war-with-iran-could-raise-costs-georgia-fuel-prices-leading-way/) costs soared and Georgians braced for higher utility bills as the war prolonged. The Iran war [disrupted](https://www.walb.com/2026/04/08/experts-warn-war-with-iran-could-raise-costs-georgia-fuel-prices-leading-way/) shipping at Georgia ports and slammed Georgia exporters with uncertainty and increased insurance costs. The war also [led](https://www.walb.com/2026/04/08/experts-warn-war-with-iran-could-raise-costs-georgia-fuel-prices-leading-way/) to Georgia airlines raising their baggage fees and experts warned of reverberating price shocks from increased jet fuel prices.
 
-**Message**: While Trump's tariffs harmed Georgia's key industries and drove costs up for Georgians, Rick Jackson celebrated how the tariffs grew his wealth.
+**Message**: While Trump's tariffs harmed Georgia's key industries and Trump’s war in Iran drove costs up for Georgians, Rick Jackson celebrated how the tariffs grew his wealth and said he “completely” supported Trump’s war in Iran.
 
 ### Rick Jackson Won’t Protect Georgia’s Critical Services, Jobs, Or Nonprofits From DOGE
 
