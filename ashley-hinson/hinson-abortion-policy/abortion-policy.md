@@ -1,8 +1,8 @@
 ---
 title: Abortion Policy Stance and Legislative Record
 description: 
-published: true
-date: 2025-05-04T17:30:28.582Z
+published: false
+date: 2026-09-24T18:46:02.581Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T17:30:23.834Z
