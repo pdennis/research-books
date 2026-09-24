@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-09-24T20:12:51.529Z
+date: 2026-09-24T20:26:15.253Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -116,7 +116,7 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 
 - [:hospital: | **Rick Jackson Opposed Medicaid Expansion And Supported Trump’s Devastating Health Care Cuts**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-medicaid) 
 - [:apple: | **Rick Jackson Supported Stripping SNAP Benefits From Georgia Families**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-food)
-- [:shopping_cart: | **Rick Jackson Celebrated How Trump's Tariffs Grew His Wealth**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-tariffs)
+- [:shopping_cart: | **Rick Jackson Celebrated How Trump's Tariffs Grew His Wealth And Supported Trump's War In Iran Even As It Increased Costs For Georgians**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-tariffs)
 - [:x: | **Rick Jackson Won’t Protect Georgia’s Critical Services, Jobs, Or Nonprofits From DOGE**](/GA-Gov/rick-jackson/jackson-doge)
 - [:woman: | **Rick Jackson Was An Anti-Abortion Extremist**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-abortion)
 - [:ballot_box: | **Rick Jackson Said Governor Kemp Would Deploy The National Guard To "Watch" The 2026 Election And Repeatedly Undermined The 2020 Election**](/GA-Gov/rick-jackson/jackson-voting)
