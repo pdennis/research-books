@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-09-25T21:51:29.783Z
+date: 2026-09-25T21:52:24.321Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -80,7 +80,7 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 ### Bobby Charles’ Firm Lobbied For A Pharmaceutical Company That Pushed For Over-The-Counter Sales Of A Drug The DEA Said Could Be Used To Manufacture Meth
 
 - Maine gubernatorial candidate Bobby Charles made [fighting](https://x.com/Bobby4Maine/status/2040122407630069829?s=20) [drug proliferation](https://on.soundcloud.com/xWgdsra9elJrqCf9BV) a cornerstone of his campaign, but his lobbying firm, The Charles Group, LLC [lobbied for a pharmaceutical company](https://www.pressherald.com/2026/09/12/bobby-charles-spent-years-as-a-d-c-lobbyist-who-were-his-clients/) that manufactured Zephrex-D, a pseudoephedrine product its makers sought to sell over the counter [despite evidence it could be converted into methamphetamine](https://www.pressherald.com/2026/09/12/bobby-charles-spent-years-as-a-d-c-lobbyist-who-were-his-clients/).
-- From 2013 to 2016, The Charles Group, LLC received [more than $30,000](https://www.pressherald.com/2026/09/12/bobby-charles-spent-years-as-a-d-c-lobbyist-who-were-his-clients/) to lobby for Westport Pharmaceuticals while it pushed Zephrex-D as a “[meth resistant](https://mb.cision.com/Main/7743/9461228/156304.pdf)” drug. After the U.S. Drug Enforcement Agency [chemists](https://medicalxpress.com/news/2013-09-dea-insists-cold-drug-meth-resistant.html) successfully [made methamphetamine](https://www.dailyherald.com/20130529/business/dea-disagrees-with-firms-meth-resistant-claims/) from Zephrex-D, the DEA challenged [Westport](https://mb.cision.com/Main/7743/9461228/156304.pdf)’s “[meth-resistant](https://web.archive.org/web/20260708183644/https:/www.zephrex-d.com/faq)” claims. The DEA refused to approve over-the-counter sales of Zephrex-D, and required pseudoephedrine products to be sold behind the counter.
+- From 2013 to 2016, The Charles Group, LLC received [more than $30,000](https://www.pressherald.com/2026/09/12/bobby-charles-spent-years-as-a-d-c-lobbyist-who-were-his-clients/) to lobby for Westport Pharmaceuticals while it pushed Zephrex-D as a “[meth resistant](https://mb.cision.com/Main/7743/9461228/156304.pdf)” drug. After the U.S. Drug Enforcement Agency [chemists](https://medicalxpress.com/news/2013-09-dea-insists-cold-drug-meth-resistant.html) successfully [made methamphetamine](https://www.dailyherald.com/20130529/business/dea-disagrees-with-firms-meth-resistant-claims/) from Zephrex-D, the DEA challenged [Westport](https://mb.cision.com/Main/7743/9461228/156304.pdf)’s “[meth-resistant](https://web.archive.org/web/20260708183644/https:/www.zephrex-d.com/faq)” claims. The DEA [refused](https://medicalxpress.com/news/2013-09-dea-insists-cold-drug-meth-resistant.html) to [approve over-the-counter sales](https://www.dailyherald.com/20130529/business/dea-disagrees-with-firms-meth-resistant-claims/) of Zephrex-D, and required pseudoephedrine products to be [sold behind the counter.](https://www.dailyherald.com/20130529/business/dea-disagrees-with-firms-meth-resistant-claims/)
  
 **Message:**  Bobby Charles’ lobbying firm worked for a company that sought broader access to a drug that could be converted into meth.
 
