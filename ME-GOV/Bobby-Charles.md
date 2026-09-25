@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-09-25T21:12:37.223Z
+date: 2026-09-25T21:14:58.621Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -106,4 +106,5 @@ Message: Bobby Charles’ lobbying firm worked for a company that sought broader
 
 - [:x: | **Bobby Charles Repeatedly Called For Federal Agents At Maine Polling Locations And Promoted Election Conspiracy Theories**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-voting)
 - [:sos: | **Bobby Charles Called For The Closure Of The Northern Border And A Replica Of The Failed “Alligator Alcatraz” In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-immigration)
+- [:classical_building: | **Bobby Charles’ Firm Lobbied For A Pharmaceutical Company That Pushed For Over-The-Counter Sales Of A Drug The DEA Said Could Be Used To Manufacture Meth**](https://research-books.com/ME-GOV/Bobby-Charles/charles-lobbying)
 {.links-list}
