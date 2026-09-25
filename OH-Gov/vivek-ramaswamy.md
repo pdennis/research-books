@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy
 description: 
 published: true
-date: 2026-08-28T20:37:13.706Z
+date: 2026-09-25T16:22:32.249Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
@@ -86,7 +86,7 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 ### Vivek Ramaswamy Took Luxury Trips While Ohioans Struggled With Higher Costs And Extreme Heat
 
 - In late 2025, Vivek Ramaswamy’s campaign [blew nearly $12,000 in campaign funds](https://newrepublic.com/post/208034/vivek-ramaswamy-campaign-funds-luxury-vacation) [at the Dorado Beach Ritz-Carlton Reserve,](https://meidasnews.com/news/vivek-ramaswamy-used-campaign-funds-to-finance-luxury-puerto-rico-trip) one of the most exclusive [luxury](https://heartlandsignal.com/2026/03/24/report-vivek-ramaswamy-shelled-out-12k-in-campaign-funds-on-luxury-puerto-rico-vacation/) destinations in Puerto Rico, while Ohioans experienced higher prices. Ramaswamy even [posted](https://meidasnews.com/news/vivek-ramaswamy-used-campaign-funds-to-finance-luxury-puerto-rico-trip) a picture of himself playing pickleball at the resort with Logan and Jake Paul. 
--On July 4, 2026, Ramaswamy took a [private jet](https://tiffinohio.net/posts/ramaswamy-private-jet-paris-july-4/) from Columbus, Ohio to Paris, France while much of central Ohio was under a [heat advisory.](https://www.dispatch.com/story/weather/2026/07/04/central-ohio-4th-july-weather-extreme-heat-possible-storms/90801625007/) The Rooster found Ramaswamy’s private jet had flown [54 times](https://tiffinohio.net/posts/ramaswamy-private-jet-paris-july-4/) at an estimated cost of $200,000 from January to June 2026, including to international destinations.
+- On July 4, 2026, Ramaswamy took a [private jet](https://tiffinohio.net/posts/ramaswamy-private-jet-paris-july-4/) from Columbus, Ohio to Paris, France while much of central Ohio was under a [heat advisory.](https://www.dispatch.com/story/weather/2026/07/04/central-ohio-4th-july-weather-extreme-heat-possible-storms/90801625007/) The Rooster found Ramaswamy’s private jet had flown [54 times](https://tiffinohio.net/posts/ramaswamy-private-jet-paris-july-4/) at an estimated cost of $200,000 from January to June 2026, including to international destinations. When asked why he was still flying his private jet while Ohioans struggled, Ramaswamy accused his critics of trying to [“villainize and penalize success,”](https://youtu.be/rlZTjFYKtc8) and deflected the question, calling Acton's running mate a [“trust fund baby.”](https://youtu.be/rlZTjFYKtc8)
 
 **Message:** Vivek Ramaswamy  went on luxury vacations while Ohioans struggled with higher costs and extreme heat.
 
