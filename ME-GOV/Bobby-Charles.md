@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-09-11T16:50:04.708Z
+date: 2026-09-25T21:12:37.223Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -75,6 +75,20 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 -   That same year, Bobby Charles [said](https://www.youtube.com/shorts/tKxOqz3kKC4) he wanted to close the northern border while aligning himself with Trump’s immigration agenda. At the same time, Trump’s border and tariff policies cut Canadian travel to Maine [down](https://www.mecep.org/blog/trumps-attacks-on-canadians-are-hurting-maines-border-economies/) by nearly 750,000 crossings and contributed to a 3.3% decline in retail sales and nearly 5% drops in restaurant and lodging sales in border communities. Trump also escalated diplomatic tensions with U.S. allies by posting an AI-generated image depicting Canada and Greenland [under U.S. control](https://www.cnn.com/2026/01/20/americas/canada-greenland-trump-analysis-latam-intl), adding to cross-border uncertainty.
 
 **Message:** Bobby Charles supported extreme immigration policies that would cause legal, environmental, and economic harm in Maine.
+
+
+### Bobby Charles’ Firm Lobbied For A Pharmaceutical Company That Pushed For Over-The-Counter Sales Of A Drug The DEA Said Could Be Used To Manufacture Meth
+
+- Maine gubernatorial candidate Bobby Charles made fighting drug proliferation a cornerstone of his campaign, but his lobbying firm, The Charles Group, LLC lobbied for a pharmaceutical company that manufactured Zephrex-D, a pseudoephedrine product its makers sought to sell over the counter despite evidence it could be converted into methamphetamine.
+- From 2013 to 2016, The Charles Group, LLC received more than $30,000 to lobby for Westport Pharmaceuticals while it pushed Zephrex-D as a “meth resistant” drug. After the U.S. Drug Enforcement Agency chemists successfully made methamphetamine from Zephrex-D, the DEA challenged Westport’s “meth-resistant” claims. The DEA refused to approve over-the-counter sales of Zephrex-D, and required pseudoephedrine products to be sold behind the counter.
+ 
+**Message:**  Bobby Charles’ lobbying firm worked for a company that sought broader access to a drug that could be converted into meth.
+
+
+
+Message: Bobby Charles’ lobbying firm worked for a company that sought broader access to a drug that could be converted into meth.
+
+
 
 ## Bobby Charles’ Policies Have Hurt Everyday People
 
