@@ -2,7 +2,7 @@
 title: Brian Strickland
 description: 
 published: true
-date: 2026-07-24T16:37:30.921Z
+date: 2026-09-30T18:03:26.732Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T20:12:33.873Z
@@ -63,7 +63,7 @@ Brian Strickland’s tenure in the Georgia General Assembly reflected a record o
 
 ### Brian Strickland Supported “Crack Downs” On The Right To Protest
 
--   In 2022, Brian Strickland [voted](https://www.legis.ga.gov/legislation/59676) for legislation that would “crack down” on protesters and [impose undemocratic additional permitting rules](https://georgiarecorder.com/briefs/rally-needed-for-georgia-senate-protest-crimes-bill-after-panel-no-show/) for protests and rallies. Opponents of the legislation alerted it would [“stifle the right to protest”](https://www.thecentersquare.com/georgia/article_5b64ff96-cb1d-11ec-a321-77c8489c0f88.html) as State Representative William Boddie [warned](https://georgiarecorder.com/briefs/rally-needed-for-georgia-senate-protest-crimes-bill-after-panel-no-show/) the bill would require permits for protests and rallies on public property, including the Georgia State Capitol.
+-   In 2022, Brian Strickland [voted](https://www.legis.ga.gov/legislation/59676) for legislation that would “crack down” on protesters and [impose undemocratic additional permitting rules](https://georgiarecorder.com/briefs/rally-needed-for-georgia-senate-protest-crimes-bill-after-panel-no-show/) for protests and rallies. Opponents of the legislation alerted it would [“stifle the right to protest”](https://www.thecentersquare.com/georgia/article_5b64ff96-cb1d-11ec-a321-77c8489c0f88.html) as State Representative William Boddie [warned](https://georgiarecorder.com/briefs/rally-needed-for-georgia-senate-protest-crimes-bill-after-panel-no-show/) the bill would require permits for protests and rallies on public property, including the Georgia State Capitol. In 2026, Strickland doubled down on his support for cracking down on protesters, saying he believed it should be a [crime](https://on.soundcloud.com/ZLe7I43tjrjRwfWPG6) for protesters to block an interstate and argued people could not use their First Amendment rights to [“cause chaos."](https://on.soundcloud.com/ZLe7I43tjrjRwfWPG6)
 
 **Message:** Brian Strickland supported “crack downs” that would “stifle” Georgians’ right to protest.
 
