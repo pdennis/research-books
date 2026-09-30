@@ -2,7 +2,7 @@
 title: John E. Sununu
 description: 
 published: true
-date: 2026-09-30T19:32:41.173Z
+date: 2026-09-30T19:35:06.866Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-23T14:40:21.650Z
@@ -107,4 +107,4 @@ Trump-endorsed John E. Sununu served in Congress for 12 years before getting thr
 
 ## Sununu Supported Trump Policies That Hurt Everyday Granite Staters
 
-**Sununu Was A Trump-Backed MAGA Cheerleader**
+- [🔴 **Sununu Was A Trump-Backed MAGA Cheerleader**](/newhampshire-senate/Johne-Sununu/MAGA)
