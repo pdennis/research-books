@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-08-31T20:33:19.555Z
+date: 2026-10-02T19:03:33.399Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -97,6 +97,16 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 
 **Message:** Despite claiming to care for the people of Western North Carolina, Whatley is willing to cut and abolish FEMA which would leave states and communities without federal support for future disasters as well as support privatizing flood insurance. 
 
+### Whatley Stood To Profit From The Data Center Buildout 
+
+- Michael Whatley was a supporter of unpopular data centers. Whatley supported [tax breaks](https://cardinalpine.com/news/michael-whatley-data-center/) for data centers and dismissed North Carolinian’s opposition to data centers by claiming the opposition wasn’t “[organic.](https://youtu.be/AeNxC6_s_gU?si=W_4UzlVmvSpK3aia)” 
+
+- Whatley and his family held stock in companies that were [building data centers](https://cardinalpine.com/news/michael-whatley-data-center/) and the [utility companies](https://www.foxnews.com/politics/inside-gop-senate-hopefuls-financial-ties-controversial-data-center-boom) that was fueling the data center boom. 
+
+- Whatley is being backed by [private equity executives](https://cardinalpine.com/news/michael-whatley-data-center/) who were developing a data center in Lee County, North Carolina that faced [opposition](https://cardinalpine.com/news/michael-whatley-data-center/) from Lee County residents. 
+
+**Message:** Whatley stood to profit from unpopular data centers backed by private equity. 
+
 ### Whatley Was A DC Insider And Lobbyist 
 
 -   Whatley was a big [oil lobbyist](https://apnews.com/article/republican-national-committee-whatley-trump-mcdaniel-b0c1714ac648bfa91b6ee72a30278266) who spent his time representing big oil across the country. Whatley led an [special interest funded organization](https://www.huffingtonpost.co.uk/entry/bp-shell-climate_n_5f6e3120c5b64deddeed6762) that launched several [astroturfing campaigns](https://www.salon.com/2011/12/15/big_oil_and_canada_thwarted_u_s_carbon_standards/) and used [deceitful](https://apnews.com/article/republican-national-committee-whatley-trump-mcdaniel-b0c1714ac648bfa91b6ee72a30278266) [tactics](https://captimes.com/news/local/writers/mike_ivey/did-houston-energy-group-dupe-mge-customers-to-back-rate-changes/article_fbe07fa3-c487-5eff-84a7-72d502c842cd.html) to trick people into supporting the organization’s pro-big money causes.
@@ -126,6 +136,7 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 - [:woman:**Whatley’s Extreme Anti-Choice Views Restricted North Carolina Women Right To Choose**](/northcarolina-senate/Michael-Whatley/abortion)
 - [:moneybag:**Whatley Defended Cuts That Threatened North Carolina's Economy**](/northcarolina-senate/Michael-Whatley/DOGE)
 - [:ocean: **Whatley Supported Slashing FEMA As Western North Carolina Needs Support**](/northcarolina-senate/Michael-Whatley/FEMA)
+- [:electric_plug:**Whatley Stood To Profit From The Data Center Buildout**](/northcarolina-senate/Michael-Whatley/Data-Centers)
 {.links-list}
 ## Michael Whatley Was A Failed DC Insider
 -   [:moneybag:**Whatley Was A DC Insider And Lobbyist**](/northcarolina-senate/Michael-Whatley/Swamp)
