@@ -2,7 +2,7 @@
 title: Warren Petersen
 description: 
 published: true
-date: 2026-07-06T19:39:52.991Z
+date: 2026-10-02T16:26:25.811Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T16:02:27.010Z
@@ -50,6 +50,16 @@ As a member of the Arizona state legislature, Republican Arizona attorney genera
 
 **Message:** Petersen’s continued promotion of election fraud theories posed a threat to democracy in Arizona. 
 
+### **Warren Petersen Would Not Protect Arizonans From Trump’s Federal Forces Overreach**
+
+- In 2026, Petersen would not commit to protecting Arizonans from Trump’s federal immigration operations, instead indicating that he would welcome them and assist Trump with mass deportations.
+- In September 2026, Petersen was asked on a Spanish-language show if he would file lawsuits against the Trump administration if they conducted immigration raids in Arizona. Petersen dodged the question, dismissing it as [“a federal matter.”](https://youtu.be/V4qYvv2himc?si=KOUGbs6VrcOviXZ6)
+- In May 2026, Petersen criticized Attorney General Kris Mayes for determining that local governments in Arizona could refuse to allow federal immigration agents from using county property. He claimed Arizona law was [“crystal clear”](https://azmirror.com/2026/05/06/pima-county-can-require-judicial-warrants-before-letting-ice-onto-its-property-mayes-says/) that local governments did not have the authority to do so. In January 2026, amid rumors that Trump planned to send federal immigration forces to Arizona, Petersen said he would [“welcome”](https://www.azfamily.com/2026/01/03/arizona-politicians-respond-unconfirmed-reports-increased-ice-operations/) them and [“support whatever we need to do to keep Arizona safe.”](https://www.azfamily.com/2026/01/03/arizona-politicians-respond-unconfirmed-reports-increased-ice-operations/) 
+- Petersen repeatedly pledged his loyalty to Trump and his immigration agenda. In June 2026, Petersen said he would assist Trump with deporting [“everyone who enters this country illegally,”](https://azmirror.com/2026/06/17/warren-petersen-pledges-to-deport-arizona-dreamers/) including DACA recipients, who Petersen said were [“illegals”](https://azmirror.com/2026/06/17/warren-petersen-pledges-to-deport-arizona-dreamers/) because DACA was not in the Constitution. In April 2026, after receiving a shoutout from Trump, Petersen said he was looking forward to working with Trump [“to restore law and order.”](https://x.com/votewarren/status/2046224492570223097?s=20)
+
+**Message:** Petersen would allow Trump to overreach his authority and send federal forces against Arizonans.
+
+
 # **Issue Back-Ups**
 
 ## **Warren Petersen's Policies Have Hurt Everyday People**
@@ -62,5 +72,6 @@ As a member of the Arizona state legislature, Republican Arizona attorney genera
 
 ## **Warren Petersen Used His Power To Benefit The Powerful** 
 
-- [:sos: ***Petersen Platformed 2020 Election Fraud Conspiracy Theories Continuing Into 2026***](/AZ-Gov/warren-petersen/petersen-democracy)
+- [:ballot_box: ***Petersen Platformed 2020 Election Fraud Conspiracy Theories Continuing Into 2026***](/AZ-Gov/warren-petersen/petersen-democracy)
+- [:sos: ***Petersen Would Not Protect Arizonans From Trump’s Federal Forces Overreach***](/AZ-Gov/warren-petersen/petersen-immigration)
 {.links-list}
