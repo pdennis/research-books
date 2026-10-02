@@ -2,7 +2,7 @@
 title: Warren Petersen
 description: 
 published: true
-date: 2026-10-02T16:26:25.811Z
+date: 2026-10-02T16:26:54.689Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T16:02:27.010Z
@@ -50,7 +50,7 @@ As a member of the Arizona state legislature, Republican Arizona attorney genera
 
 **Message:** Petersen’s continued promotion of election fraud theories posed a threat to democracy in Arizona. 
 
-### **Warren Petersen Would Not Protect Arizonans From Trump’s Federal Forces Overreach**
+### **Petersen Would Not Protect Arizonans From Trump’s Federal Forces Overreach**
 
 - In 2026, Petersen would not commit to protecting Arizonans from Trump’s federal immigration operations, instead indicating that he would welcome them and assist Trump with mass deportations.
 - In September 2026, Petersen was asked on a Spanish-language show if he would file lawsuits against the Trump administration if they conducted immigration raids in Arizona. Petersen dodged the question, dismissing it as [“a federal matter.”](https://youtu.be/V4qYvv2himc?si=KOUGbs6VrcOviXZ6)
