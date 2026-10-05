@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-09-18T19:31:42.045Z
+date: 2026-10-05T16:20:55.917Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -123,6 +123,14 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 **Message:** Biggs used his power in Congress to push his extremist views and attempt to undermine the 2020 election, which culminated in a violent insurrection at the Capitol.
 
+
+### **Biggs Took Donations From Executives Of An Anti-LGBTQ Hate Group**
+
+- In 2026, Andy Biggs [accepted $3,000](https://www.rawstory.com/raw-investigates/andy-biggs-2677930810/) from Sharon Slater and her husband, Greg, who were executives of an anti-gay hate group that allegedly supported legislation in African countries making homosexuality punishable by death. Sharon Slater was the president of Family Watch International (FWI), of which Biggs was a [founding board member](https://www.rawstory.com/raw-investigates/andy-biggs-2677930810/) and a policy adviser for the associated organization United Families International.
+- In 2023, CNN investigated FWI for its involvement in [“kill the gays”](https://www.rawstory.com/raw-investigates/andy-biggs-2677930810/) laws in African countries, which made homosexuality punishable with life imprisonment or death. Sources claimed FWI was [“vital”](https://www.cnn.com/2023/12/18/africa/anti-lgbtq-laws-uganda-kenya-ghana) in planning a Uganda sex education conference that took place weeks before the president passed an anti-homosexuality act. Sharon Slater and FWI denied supporting anti-gay legislation in Africa and called the allegations [“absurd.”](https://www.rawstory.com/raw-investigates/andy-biggs-2677930810/) 
+- The Southern Poverty Law Center designated FWI as an [extremist, anti-LGBTQ+ hate group.](https://www.rawstory.com/raw-investigates/andy-biggs-2677930810/) FWI’s website often equated homosexuality with mental disorders and pedophilia, and stated its opposition to conversion therapy bans. Greg Slater, an FWI board member, [faced calls from](https://www.rawstory.com/raw-investigates/andy-biggs-2677930810/) human rights organizations to be dismissed from his executive role at the Intel Corporation PAC for his affiliation with the group.
+
+**Message:** Biggs associated with and helped create an organization that promoted anti-LGBTQ+ rhetoric and was connected to anti-homosexuality laws in Africa.
 # Issue Back-Ups
 
 ## Andy Biggs' Policies Have Hurt Everyday People
@@ -143,6 +151,7 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 -   [:hammer: ***Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA***](/en/AZ-Gov/Andy-Biggs/biggs-osha)
 -   [:eyes: ***Biggs Repeatedly Worked To Protect Child Sexual Predators Rather Than Protecting Children***](/en/AZ-Gov/Andy-Biggs/biggs-epstein)
 - [:sos: ***Biggs Helped Plan The January 6th Insurrection And Had Ties To Far-Right Extremist Groups***](/en/AZ-Gov/Andy-Biggs/biggs-extremism)
+- [:rainbow_flag: ***Biggs Took Donations From Executives Of An Anti-LGBTQ Hate Group***](/en/AZ-Gov/Andy-Biggs/biggs-lgbtq+)
 {.links-list}
 
 # Key Votes
