@@ -2,7 +2,7 @@
 title: Darline Graham
 description: 
 published: true
-date: 2026-09-17T19:40:00.344Z
+date: 2026-10-08T18:42:33.638Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-16T18:29:12.875Z
@@ -29,6 +29,12 @@ Nepo baby Darline Graham found herself hoisted into a US Senate seat based on li
 When Darline Graham attacked her primary opponent for [not voting sooner](https://www.live5news.com/2026/08/19/graham-norman-clash-only-scheduled-runoff-debate-ahead-early-voting/) to pass the “Big Beautiful Bill,” she made plain her lack of respect and support for South Carolina communities. Graham supported the passage of a bill that has already [yanked](https://dss.sc.gov/media/zzlpsm4i/july-2025-snap-tab13.pdf) [away](https://dss.sc.gov/media/bcen2f3r/august-2026-snap-tab13.pdf) food assistance from nearly 100,000 vulnerable South Carolinians, [pushed](https://www.islandpacket.com/news/state/south-carolina/article311160865.html) several rural hospitals to their breaking point, and [endangered](https://www.southcarolinapublicradio.org/sc-news/2025-07-31/will-one-big-beautiful-bill-rescue-south-carolinas-rural-hospitals-or-break-them) health coverage for nearly 60,000 Medicaid recipients. Even after a year of the Big Beautiful Bill wreaking havoc on South Carolina, Darline Graham thinks it wasn’t passed soon enough.
 
 **Message:** Graham embraced the Big Beautiful Bill, which sapped thousands of vulnerable South Carolinians of their food aid and health coverage.
+
+### Graham Was Part Of The Epstein Class
+
+Following in her [late brother’s footsteps](https://abcnews4.com/news/local/democrat-calls-on-sen-graham-to-refund-campaign-contributions-from-epstein-linked-donors-jeffery-epstein-files-doj-les-wexner-leon-black-carl-icahn-john-paulson-lindsey-annie-andrews-us-senate), Senator Darline Graham doesn’t seem to have a problem raking in cash from the Epstein Class. During her short stint as Senator, FEC filings show she has already been willing to accepted over $20,000 from [multiple big donors](https://www.fec.gov/data/receipts/?data_type=processed&committee_id=C00957308&contributor_name=Schwab&contributor_name=schwarzman&two_year_transaction_period=2026) tied up in the Epstein scandal. The FEC later flagged these donations as “[excessive, prohibited, and impermissible](https://docquery.fec.gov/pdf/970/202608170300358970/202608170300358970.pdf)” for exceeding legal limits. Not only did Darline Graham take money from Epstein’s pals; she also took more than she was legally allowed.
+
+**Message:** Graham talked a big game on protecting children from predators, but she had no problem taking money from Jeffrey Epstein's buddies.
 
 # ISSUE BACK-UPS
 
