@@ -2,7 +2,7 @@
 title: Virginia Foxx
 description: 
 published: true
-date: 2026-08-06T18:22:26.360Z
+date: 2026-10-08T16:13:51.481Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:20:59.329Z
@@ -118,5 +118,5 @@ At 82, Foxx is [among the oldest members of Congress](https://www.nbcnews.com/po
 - [:mortar_board: *$665,000 From For-Profit Colleges While Chairing the Committee That Oversees Them*](/virginia-foxx/for-profit-colleges)
 - [:moneybag: *Told Students She Has "Very Little Tolerance" for Their Debt*](/virginia-foxx/student-debt-hypocrisy)
 - [:older_woman: *At 82, Among the Oldest Members of Congress*](/virginia-foxx/age-primary)
-
+- [:syringe: *Held Controversial Opioid And Mining Stocks*](/virginia-foxx/stocks)
 {.links-list}
