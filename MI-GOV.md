@@ -2,7 +2,7 @@
 title: State Level Races In Michigan
 description: 
 published: true
-date: 2026-05-18T13:59:01.620Z
+date: 2026-10-08T15:01:53.647Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-11T14:23:11.498Z
@@ -16,5 +16,5 @@ dateCreated: 2025-12-11T14:23:11.498Z
 
 ## Attorney General
 
-- [:elephant: ***Doug Lloyd***](https://research-books.com/en/MI-Gov/Doug-Lloyd) Michigan Republican who opposed red flag laws, backed prosecuting abortion providers, and supported extreme policies that threatened Michiganders’ rights and safety.
+- [:elephant: ***Doug Lloyd***](https://research-books.com/en/MI-GOV/Doug-Lloyd) Michigan Republican who opposed red flag laws, backed prosecuting abortion providers, and supported extreme policies that threatened Michiganders’ rights and safety.
 {.links-list}
