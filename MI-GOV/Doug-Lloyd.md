@@ -2,7 +2,7 @@
 title: Doug Lloyd
 description: 
 published: true
-date: 2026-10-08T15:04:39.278Z
+date: 2026-10-08T16:13:24.899Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-30T16:23:03.899Z
@@ -16,7 +16,7 @@ Michigan Attorney General nominee Doug Lloyd has taken positions on public safet
 
 ### **Doug Lloyd Opposed Red Flag Laws Designed To Protect Michiganders**
 
--   In 2026, Doug Lloyd [claimed red flag laws lacked due process](https://web.archive.org/web/20260420144058/https:/mi.gop/doug-lloyd/) protections, but Extreme Risk Protection Orders included multiple [legal safeguards](https://everytownresearch.org/report/extreme-risk-laws-save-lives/) and structured court review. 
+-   In 2026, Doug Lloyd [claimed red flag laws lacked due process](https://web.archive.org/web/20260420144058/https:/mi.gop/doug-lloyd/) protections, but Extreme Risk Protection Orders included multiple [legal safeguards](https://everytownresearch.org/report/extreme-risk-laws-save-lives/) and structured court review. Lloyd also [supported repealing Michigan’s red-flag law](https://bridgemi.com/michigan-government/doug-lloyd-wants-to-make-the-michigan-attorney-generals-office-boring-again/) and called for the Legislature to [approve](https://bridgemi.com/michigan-government/doug-lloyd-wants-to-make-the-michigan-attorney-generals-office-boring-again/) permitless carry.
 -     
     In 2023, Michigan [implemented](https://web.archive.org/web/20260424140859/https:/www.michigan.gov/ag/initiatives/crime-victim-rights/extreme-risk-protection-order) a red flag law allowing courts to issue Extreme Risk Protection Orders to temporarily restrict firearm access for individuals deemed a risk to themselves or others. 
 -   According to [Everytown Research & Policy](https://everytownresearch.org/report/extreme-risk-laws-save-lives/), these laws limited who could file petitions, required evidence of serious threats, and ensured respondents had opportunities to present a defense. 
