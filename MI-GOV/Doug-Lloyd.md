@@ -2,7 +2,7 @@
 title: Doug Lloyd
 description: 
 published: true
-date: 2026-10-08T16:13:24.899Z
+date: 2026-10-08T16:19:57.055Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-30T16:23:03.899Z
@@ -33,6 +33,7 @@ Michigan Attorney General nominee Doug Lloyd has taken positions on public safet
 ### **DOUG LLOYD WAS OPEN TO PROSECUTING ABORTION PROVIDERS UNDER MICHIGAN’S 1931 ABORTION BAN DESPITE AN INJUNCTION**
 
 -   In 2022, after the overturning of Roe v. Wade, Lloyd said he would [prosecute abortion providers](https://www.fox47news.com/neighborhoods/state-capitol/county-prosecutors-could-begin-pressing-criminal-charges-against-abortion-providers#google_vignette) after saying Michigan’s 1931 ban was “in force” despite an injunction. Lloyd suggested he would enforce the abortion law and prosecute abortion providers if parties followed procedure and if the local police determined a crime had been committed.
+- In September 2026, while running for Michigan Attorney General, Lloyd [campaigned with anti-abortion lawyer](https://michiganindependent.com/politics/doug-lloyd-campaigns-with-prominent-anti-abortion-leader-ahead-of-election/) David Kallman, who represented two local prosecutors in a legal battle [over Michigan’s 1931 abortion ban following the Dobbs ruling.](https://michiganindependent.com/politics/doug-lloyd-campaigns-with-prominent-anti-abortion-leader-ahead-of-election/) Kallman previously said his clients were prepared to [enforce the ban](https://michiganindependent.com/politics/doug-lloyd-campaigns-with-prominent-anti-abortion-leader-ahead-of-election/) if presented with legitimate cases.
 
 **Message:** Doug Lloyd would leave Michigan abortion providers at risk for criminal charges.
 
