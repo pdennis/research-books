@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: true
-date: 2026-10-01T21:20:43.596Z
+date: 2026-10-09T15:51:37.701Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -41,7 +41,7 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 
 ### Zach Lahn Was An Anti-Abortion Extremist
 
--   Zach Lahn was an out-of-touch anti-abortion extremist who supported a [total abortion ban](https://time.com/article/2026/06/03/how-zach-lahn-overcame-a-trump-backed-opponent-in-iowa/) and argued that [life begins at conception](https://www.youtube.com/watch?v=ZPdLLdrcLrU), claiming anti-abortion positions were the “[only right choice](https://www.youtube.com/watch?v=ZPdLLdrcLrU).” He pledged to protect the unborn “[without hesitation and without apology](https://www.facebook.com/share/p/1935DKpbna/)” and said his opposition to abortion extended to [embryos](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate) created through [IVF](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate) treatment.
+-   Zach Lahn was an out-of-touch anti-abortion extremist who supported a [total abortion ban](https://time.com/article/2026/06/03/how-zach-lahn-overcame-a-trump-backed-opponent-in-iowa/) and argued that [life begins at conception](https://www.youtube.com/watch?v=ZPdLLdrcLrU), claiming anti-abortion positions were the “[only right choice](https://www.youtube.com/watch?v=ZPdLLdrcLrU).” He pledged to protect the unborn “[without hesitation and without apology](https://www.facebook.com/share/p/1935DKpbna/)” and said his opposition to abortion extended to [embryos](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate) created through [IVF](https://www.iowapublicradio.org/political-news/2026-01-28/republican-candidates-iowa-governor-mom-for-liberty-debate) treatment. In 2026, while running for Iowa governor, Lahn signaled support for [even stricter abortion restrictions beyond the state’s existing six-week ban.](https://www.desmoinesregister.com/story/news/politics/elections/2026/10/06/iowa-governor-race-zach-lahn-campaign-energizing-unnerving-gop/91559202007/)
 -   Lahn said he would go [further](https://www.youtube.com/watch?v=Ex--9j5pNec) than [Iowa’s restrictions on abortion medication](https://iowacapitaldispatch.com/2026/05/19/gov-kim-reynolds-signs-laws-restricting-access-to-abortion-pills-hpv-vaccine/?_ga=2.140465459.1230179013.1780935909-1543364181.1780517364), calling for a ban on abortion pills. Lahn’s opposition to abortion medication came as the [Supreme Court](https://iowacapitaldispatch.com/2026/05/19/gov-kim-reynolds-signs-laws-restricting-access-to-abortion-pills-hpv-vaccine/?_ga=2.140465459.1230179013.1780935909-1543364181.1780517364) allowed telehealth access to abortion medication to continue under current federal rules.
 
 **Message:** Zach Lahn threatened the reproductive freedoms of Iowans.
