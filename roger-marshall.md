@@ -2,7 +2,7 @@
 title: Roger Marshall
 description: 
 published: true
-date: 2026-10-09T22:18:47.792Z
+date: 2026-10-09T22:19:31.609Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-01T16:40:05.673Z
@@ -109,3 +109,5 @@ Roger Marshall takes taxpaying Kansans for chumps. With an air of impunity, Mars
 [**Marshall Sued Hundreds Of His Patients Over Medical Debt**](/roger-marshall/medical-debt)
 
 [**Marshall Took Money From Groups He Cast As His "Haters"**](/roger-marshall/haters)
+
+[**Marshall And His Henchmen Abused His Public Office And Ripped Off Taxpayers**](/roger-marshall/ripoff)
