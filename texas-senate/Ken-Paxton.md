@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-10-13T19:59:27.100Z
+date: 2026-10-13T21:15:17.979Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -114,6 +114,8 @@ dateCreated: 2026-05-19T19:33:30.966Z
 - [🇦🇪**Paxton Partied With Wanted Fugitives In Dubai With His Mistress**](/texas-senate/Ken-Paxton/Dubai-Fugitive-Party)
 {.links-list}
 - [:x:**Paxton Was Impeached Due To A FBI Investigation And Whistleblower Lawsuit**](/texas-senate/Ken-Paxton/Impeachment)
+{.links-list}
+- [:handshake:**Paxton Used His Positions To Rule In Favor Of His Campaign Donors**](/texas-senate/Ken-Paxton/Bribery)
 {.links-list}
 - [:worm:**Paxton Supported DOGE Cuts That Eroded Screwworm Tracking And Prevention**](/texas-senate/Ken-Paxton/Screwworm)
 {.links-list}
