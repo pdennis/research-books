@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-10-13T19:28:40.109Z
+date: 2026-10-13T19:59:27.100Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -53,6 +53,12 @@ dateCreated: 2026-05-19T19:33:30.966Z
 - Attorney General Ken Paxton claimed that America’s moral and legal values [originated](https://x.com/KenPaxtonTX/status/1986873795966345416?s=20) with Christianity, but he cheated on his [wife](https://www.texastribune.org/2023/09/11/ken-paxton-affair-impeachment-trial/) with [two](https://www.sacurrent.com/news/texas-news/news-report-accuses-texas-ag-ken-paxton-of-affair-with-married-christian-influencer/) other women. His wife, Angela, filed for divorce on “[biblical grounds](https://www.texastribune.org/2025/07/10/angela-paxton-divorce-texas-attorney-general-ken/).” 
 
 **Message:** How can Texan's trust that Paxton would uphold Texan values in Congress when he can't uphold his vows in his own home.
+
+### Paxton Partied With Fugitives And His Mistress In Dubai
+
+- Despite claiming that he had “gone after [fraud](https://x.com/KenPaxtonTX/status/2071632815616360560?s=20)” as Attorney General, Ken Paxton was caught partying in Dubai with two wanted [fugitives](https://www.wsj.com/politics/policy/ken-paxton-texas-senate-dubai-trip-b54292c3?mod=hp_lead_pos3). Paxton's associates, Anosh Ahmed and Sameer Suhail, fled the United States after federal prosecutors indicted them on healthcare fraud charges. Ahmed was charged with money laundering, wire fraud, and kickback conspiracy as part of a $900 million healthcare fraud [scheme](https://abc7chicago.com/post/former-loretto-hospital-exec-anosh-ahmed-pleads-not-guilty-money-laundering-wire-fraud-kickback-conspiracy-covid-test-case/19771215/). Suhail faced embezzlement charges over a $15 million medical supply fraud [scheme](https://www.cbsnews.com/chicago/news/fugitive-medical-executive-sameer-suhail-loretto-hospital-fraud-embezzlement/). Additionally, Paxton was accompanied by Trucy [Duhon](https://www.sacurrent.com/news/texas-news/ken-paxton-caught-on-video-jetting-off-to-european-vacation-with-alleged-mistress/), one of the mistresses with whom he cheated on his wife, Angela [Paxton](https://www.texasmonthly.com/news-politics/angela-ken-paxton-divorce-biblical-grounds/).
+
+**Message:** The saying goes "you are who you surround yourself with."
 
 ### Paxton Was Impeached Due To A FBI Investigation And Whistleblower Lawsuit
 
