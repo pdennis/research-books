@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-06-18T18:56:02.971Z
+date: 2026-10-13T19:28:15.463Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -104,6 +104,8 @@ dateCreated: 2026-05-19T19:33:30.966Z
 - [:judge:**Paxton Offered Plea Deals In Child Sex Crime Cases**](/texas-senate/Ken-Paxton/Plea-Deal)
 {.links-list}
 - [:broken_heart:**Paxton Cheated On His Wife Multiple Times Leading To Divorce**](/texas-senate/Ken-Paxton/Divorce-Infidelity)
+{.links-list}
+- [🇦🇪**Paxton Partied With Fugitives In Dubai**](/texas-senate/Ken-Paxton/Dubai-Fugitive-Party)
 {.links-list}
 - [:x:**Paxton Was Impeached Due To A FBI Investigation And Whistleblower Lawsuit**](/texas-senate/Ken-Paxton/Impeachment)
 {.links-list}
