@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-10-13T21:15:17.979Z
+date: 2026-10-13T21:16:18.706Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -115,7 +115,7 @@ dateCreated: 2026-05-19T19:33:30.966Z
 {.links-list}
 - [:x:**Paxton Was Impeached Due To A FBI Investigation And Whistleblower Lawsuit**](/texas-senate/Ken-Paxton/Impeachment)
 {.links-list}
-- [:handshake:**Paxton Used His Positions To Rule In Favor Of His Campaign Donors**](/texas-senate/Ken-Paxton/Bribery)
+- [:handshake:**Paxton Used His Position To Rule In Favor Of His Campaign Donors**](/texas-senate/Ken-Paxton/Bribery)
 {.links-list}
 - [:worm:**Paxton Supported DOGE Cuts That Eroded Screwworm Tracking And Prevention**](/texas-senate/Ken-Paxton/Screwworm)
 {.links-list}
