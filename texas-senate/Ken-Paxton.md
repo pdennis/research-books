@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-10-13T21:16:18.706Z
+date: 2026-10-13T21:38:52.580Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -65,6 +65,16 @@ dateCreated: 2026-05-19T19:33:30.966Z
 - Paxton used his position as the Attorney General of Texas to benefit his associate, [Nate Paul](https://apnews.com/article/ken-paxton-austin-texas-crime-f8413d14842d848e69cf81bb4d2e87e2). Paxton used his power to interfere with the FBI’s [investigation](https://apnews.com/article/bf05e918b1e3b8805609c38d821fd222) of Paul. Paxton’s employees [accused](https://web.archive.org/web/20201003235422/https://www.statesman.com/news/20201003/top-aides-accuse-texas-attorney-general-ken-paxton-of-bribery-abusing-office) him of improper influence, abuse of office, and bribery. Paxton then fired his accusers, which violated the Texas Whistleblower Act. Subsequently, the Texas House of Representatives [impeached](https://thebarbedwire.com/2026/02/17/ken-paxton-scandal-timeline/) Ken Paxton for his various violations. 
 
 **Message:** Paxton's own party knows he is unfit for positions of power.
+
+### Paxton Used His Position To Rule In Favor Of His Campaign Donors
+
+- During his time as Attorney General of Texas and as a Senate candidate, Ken Paxton used his position to rule in favor of his campaign donors. On five separate instances, Paxton ruled in favor of organizations that donated thousands of dollars to his [campaign](https://www.washingtonpost.com/politics/2026/10/11/texas-gop-senate-candidate-ken-paxton-wrote-legal-opinions-that-benefited-large-donors/). Paxton also avoided participating in lawsuits that would hurt his donors, such as the betting platform [Kalshi](https://www.texastribune.org/2026/05/01/texas-prediction-market-regulations-kalshi-gambling-sports-betting/). Additionally, Paxton threatened legal [action](https://www.on3.com/news/big-12-threatened-by-texas-attorney-general-if-league-sanctions-texas-tech-amid-brendan-sorsby-saga/) against any entity that challenged Texas Tech Football after the Brendan Sorsby Incident, when the Board of Regents' head, Cody Campbell, donated [$274,300](https://www.fec.gov/data/receipts/individual-contributions/?committee_id=C00901918&committee_id=C00952218&committee_id=C00952507&contributor_name=cody+campbell&contributor_name=tara+campbell&two_year_transaction_period=2026&min_date=01%2F01%2F2025&max_date=12%2F31%2F2026) to Paxton's campaign. 
+
+**Message:** Paxton's own party knows he is unfit for positions of power.
+
+- Paxton used his position as the Attorney General of Texas to benefit his associate, [Nate Paul](https://apnews.com/article/ken-paxton-austin-texas-crime-f8413d14842d848e69cf81bb4d2e87e2). Paxton used his power to interfere with the FBI’s [investigation](https://apnews.com/article/bf05e918b1e3b8805609c38d821fd222) of Paul. Paxton’s employees [accused](https://web.archive.org/web/20201003235422/https://www.statesman.com/news/20201003/top-aides-accuse-texas-attorney-general-ken-paxton-of-bribery-abusing-office) him of improper influence, abuse of office, and bribery. Paxton then fired his accusers, which violated the Texas Whistleblower Act. Subsequently, the Texas House of Representatives [impeached](https://thebarbedwire.com/2026/02/17/ken-paxton-scandal-timeline/) Ken Paxton for his various violations. 
+
+**Message:** Ken "Pay To Play" Paxton would be a senator only for the rich and the powerful.
 
 ### Paxton Supported DOGE Cuts That Eroded Screwworm Tracking And Prevention
 
