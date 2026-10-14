@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-09-01T15:23:42.921Z
+date: 2026-10-14T18:46:54.814Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
@@ -87,6 +87,8 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 ### Hinson Was A Threat To Social Security
 
 -   Hinson [alluded](https://iowastartingline.com/2022/04/21/hinson-talks-jan-6-russia-social-security-elections-at-town-halls/) to supporting Social Security cuts and she claimed that she was “[open](https://www.thegazette.com/news/politics/ashley-hinson-open-to-raising-social-security-retirement-age/article_6bf8148c-8b1f-5d93-9646-4aa875f463b0.html)” to raising the retirement age despite acknowledging that it would be unpopular.
+
+- Hinson [floated](https://youtu.be/a_chlrooeCU?si=QUZe-05RjVJIPtSg) support for privatizing Social Security. 
 
 **Message:** Hinson couldn’t be trusted to protect Iowan’s social security. 
 
