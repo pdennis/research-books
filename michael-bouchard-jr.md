@@ -2,7 +2,7 @@
 title: Michael Bouchard (MI-10)
 description: 
 published: true
-date: 2026-04-29T15:03:28.807Z
+date: 2026-10-15T19:02:20.836Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-28T15:25:15.671Z
@@ -45,7 +45,8 @@ Michael Bouchard Jr. thought he could win the MI-10 Republican nomination on fa
 
 ### Bouchard Endorsed Trump’s “Peace Through Strength” Approach To Foreign Policy that Raised Costs On Michiganders
 
--   Bouchard said he [believed](https://www.detroitnews.com/story/news/politics/2025/11/06/army-veteran-mike-bouchard-congress-macomb-oakland-counties-robert-lulgjuraj-republican-primary/87111704007/) in Trump’s “peace through strength” approach to foreign policy and would [continue fighting](https://x.com/BouchardforMI/status/2022861488633860282) for that approach if elected to Congress. He was equally supportive of Trump’s war in Iran, claiming the war was evidence of Trump [“putting our country first.”](https://x.com/BouchardforMI/status/2027824263156179432)
+-   When Bouchard announced his bid for Congress, he said he [believed](https://www.detroitnews.com/story/news/politics/2025/11/06/army-veteran-mike-bouchard-congress-macomb-oakland-counties-robert-lulgjuraj-republican-primary/87111704007/) in Trump’s “peace through strength” approach to foreign policy and would [continue fighting](https://x.com/BouchardforMI/status/2022861488633860282) for that approach if elected to Congress. He was equally supportive of Trump’s war in Iran, claiming the war was evidence of Trump [“putting our country first.”](https://x.com/BouchardforMI/status/2027824263156179432)
+-   Bouchard later reversed his stance on Trump's war with Iran, claiming he had ["been clear"](https://x.com/BouchardforMI/status/2110055589015339498) about his desire to end the war. When questioned what his plan was to end the conflict, Bouchard [claimed](https://soundcloud.com/abpac/michael-bouchard-the-wilkow-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=bc2d7d71583d4f34b6d486a370de2d95) to know a "couple different things" that could be done but was unable to articulate any of those alleged things. 
 -   As a result of the war in Iran, the Michigan Farm Bureau warned farmers to [expect rising costs through 2027](https://www.freep.com/story/news/local/michigan/2026/03/12/fertilizer-costs-up-iran-war-farm-bureau-michigan-donald-trump/89114930007/). Fertilizer costs had risen sharply as a result of the war. Gas prices in the Detroit metro area [averaged](https://www.wxyz.com/news/voices/were-tired-farmers-brace-for-rising-costs-of-fertilizer-amid-iran-war) $3.93 per gallon and diesel averaged $4.93 per gallon. Bouchard supported the war despite [opposition](https://www.theguardian.com/us-news/2026/mar/13/detroit-michigan-gas-prices) from Macomb County residents. 
 -   Trump’s war in Iran was projected to cost Americans an extra [estimated $235](https://responsiblestatecraft.org/gas-prices-iran-war/) to fill up their car with gas, and rising fuel costs resulted in corporations beginning to [pass fuel surcharges](https://www.washingtonpost.com/business/2026/04/04/iran-war-global-economy/) onto American consumers. Americans were also [primarily concerned](https://www.pewresearch.org/global/2026/04/07/gas-prices-are-americans-top-concern-in-iran-war/) with how the war would impact their wallet, with a Ipsos poll [finding](https://www.washingtonpost.com/business/2026/04/04/iran-war-global-economy/) that 56 percent of Americas expected Trump’s war in Iran to have a “mostly negative impact” on their personal financial situation. 
 
