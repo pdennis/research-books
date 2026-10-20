@@ -2,7 +2,7 @@
 title: Lisa Demuth
 description: 
 published: true
-date: 2026-08-28T17:15:07.651Z
+date: 2026-10-20T19:43:51.193Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-22T22:08:13.355Z
@@ -23,6 +23,7 @@ Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported T
 ### Demuth Supported Massive Cuts To Medicare
 
 -   In 2025, Demuth [supported](https://www.minnpost.com/state-government/2025/07/the-dfl-loathes-one-big-beautiful-bill-but-what-do-minnesota-legislative-republicans-think/) Trump’s “One Big Beautiful Bill,” which the Congressional Budget Office estimated would trigger [$500 billion](https://www.washingtonpost.com/business/2025/05/21/medicare-cuts-big-beautiful-bill-republicans-house/) in cuts to Medicare. 
+- In 2026, Demuth [argued that fraud and business mandates under the Walz administration were the true cause of increasing health care costs,](https://youtu.be/8reva54VEbg) not Trump's Medicare cuts. Several insurance providers announced plans to eliminate their Medicare Advantage plans in 2027, which was expected to cause a [17 percent increase](https://youtu.be/8reva54VEbg) in premiums for Minnesota seniors. 
 
 **Message:** Demuth supported making massive cuts to health care services seniors rely on. 
 
@@ -84,17 +85,17 @@ Minnesota House Speaker and 2026 gubernatorial candidate Lisa Demuth supported T
 
 ## Lisa Demuth’s Policies Have Hurt Everyday People
 
-- [:hospital:*Demuth Supported Devastating Health Care Cuts*](/MN-Gov/lisa-demuth/demuth-medicaid)
-- [:older_man:*Demuth Supported Massive Cuts To Medicare*](/MN-Gov/lisa-demuth/demuth-medicare)
-- [:shopping_cart:*Demuth Ignored The Crushing Impacts Of Trump’s Tariffs On Minnesota’s Economy*](/MN-Gov/lisa-demuth/demuth-tariffs)
-- [:apple:*Demuth Supported Stripping SNAP Benefits From Minnesota Families*](/MN-Gov/lisa-demuth/demuth-snap)
-- [:x:*Demuth Won’t Protect Minnesota’s Jobs Or Nonprofits From Trump*](/MN-Gov/lisa-demuth/demuth-doge)
-- [:mechanic:*Demuth Opposed Clean Energy Tax Credits That Supported Minnesota Jobs*](/MN-Gov/lisa-demuth/demuth-clean-energy)
-- [:woman:*Demuth Was An Anti-Abortion Extremist*](/MN-Gov/lisa-demuth/demuth-abortion)
+- [:hospital:***Demuth Supported Devastating Health Care Cuts***](/MN-Gov/lisa-demuth/demuth-medicaid)
+- [:older_man:***Demuth Supported Massive Cuts To Medicare***](/MN-Gov/lisa-demuth/demuth-medicare)
+- [:shopping_cart:***Demuth Ignored The Crushing Impacts Of Trump’s Tariffs On Minnesota’s Economy***](/MN-Gov/lisa-demuth/demuth-tariffs)
+- [:apple:***Demuth Supported Stripping SNAP Benefits From Minnesota Families***](/MN-Gov/lisa-demuth/demuth-snap)
+- [:x:***Demuth Won’t Protect Minnesota’s Jobs Or Nonprofits From Trump***](/MN-Gov/lisa-demuth/demuth-doge)
+- [:mechanic:***Demuth Opposed Clean Energy Tax Credits That Supported Minnesota Jobs***](/MN-Gov/lisa-demuth/demuth-clean-energy)
+- [:woman:***Demuth Was An Anti-Abortion Extremist***](/MN-Gov/lisa-demuth/demuth-abortion)
 {.links-list}
 
 ## Lisa Demuth Used Her Power To Harm The Vulnerable
 
-- [:baby:*Demuth Lied About Exposing Day Care Fraud In Minnesota*](/MN-Gov/lisa-demuth/demuth-fraud)
-- [:sos:*Demuth Would Not Protect Minnesotans From Trump’s Federal Forces Overreach*](/MN-Gov/lisa-demuth/demuth-trump)
+- [:baby:***Demuth Lied About Exposing Day Care Fraud In Minnesota***](/MN-Gov/lisa-demuth/demuth-fraud)
+- [:sos:***Demuth Would Not Protect Minnesotans From Trump’s Federal Forces Overreach***](/MN-Gov/lisa-demuth/demuth-trump)
 {.links-list}
