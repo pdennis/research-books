@@ -2,7 +2,7 @@
 title: Tony Wied
 description: 
 published: true
-date: 2026-04-01T20:59:26.790Z
+date: 2026-10-27T18:49:28.209Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-18T19:18:08.756Z
@@ -62,6 +62,7 @@ Wied's campaign circulators were [accused of tricking voters into signing nomina
 - [:hospital: *Can't Be Trusted on Health Care*](/tony-wied/health-care-backup)
 - [:shopping_cart: *Can't Be Trusted on Affordability*](/tony-wied/affordability-backup)
 - [:briefcase: *Can't Be Trusted on Jobs and the Economy*](/tony-wied/jobs-economy-backup)
+- [🪖 *Supported Trump's Costly Iran War*](/tony-wied/iran-backup)
 {.links-list}
 
 ## Personal/Character Vulnerabilities
