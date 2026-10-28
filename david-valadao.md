@@ -2,7 +2,7 @@
 title: David Valadao
 description: 
 published: true
-date: 2026-10-05T18:41:34.236Z
+date: 2026-10-28T20:45:40.247Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T13:36:39.888Z
@@ -76,6 +76,7 @@ David Valadao sells himself as a defender of his constituents with a willingness
 - [🪖 *Valadao Backed Trump's Costly War With Iran That Raised Prices On Californians*](/en/david-valadao/valadao-iran)
 - [:shopping_cart: *Valadao Defended Trump's Tariffs That Hurt Californians*](/en/david-valadao/valadao-tariffs)
 - [:x: *Valadao Supported DOGE While It Cut Critical Programs In His District*](/en/david-valadao/valadao-doge)
+- [:warning: *Valadao Refused To Stand Up For His Constituents Against Immigration Enforcement Overreach*](https://research-books.com/en/david-valadao/immigration)
 {.links-list}
 
 ## David Valadao Used His Power To Benefit Himself and The Powerful
