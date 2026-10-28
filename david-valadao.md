@@ -2,7 +2,7 @@
 title: David Valadao
 description: 
 published: true
-date: 2026-10-28T20:45:40.247Z
+date: 2026-10-28T21:02:15.855Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-22T13:36:39.888Z
@@ -52,6 +52,14 @@ David Valadao sells himself as a defender of his constituents with a willingness
 -   Trump’s DOGE also eliminated programs for constituents in Valadao’s district in [public health](https://calmatters.org/health/2025/09/doge-cuts-county-health-prevention/), [food, housing, and utilities assistance,](https://www.kget.com/news/local-news/the-issue-is-were-now-in-limbo-doge-cuts-impact-kern-county-food-and-housing-assistance-programs/) and [teacher training and placement](https://www.fresnobee.com/news/local/article304912656.html).
 
 **Message:** Valadao supported an agency that hamstrung services that Californians in his district relied on.
+
+### Valadao Refused To Stand Up For His Constituents Against Immigration Enforcement Overreach
+
+- In October 2026, Immigration and Customs Enforcement (ICE) was [reported](https://www.washingtonexaminer.com/policy/infrastructure/4757848/ice-operation-underway-california-go-after-anybody/?srsltid=AYCX9vImZ0kxdMDvbdDbr6RcVnIjPkf3d9NteLJI0yZBf99FXSnbjeQU) across the Central Valley conducting raids and detaining immigrants without criminal backgrounds. Valadao [denied](https://www.bakersfield.com/news/in-wake-of-latest-ice-actions-in-the-central-valley-valadao-calls-for-immigration-reform/article_c3827864-ebb4-48c6-a537-cc023afa9f34.html) that anyone was detained without a criminal background, despite [groups in the area](https://www.bakersfield.com/news/homeland-security-confirms-california-ice-actions-but-gives-few-details/article_20a1f137-e1dc-4aac-8023-d32c60f06516.html) and [data suggesting otherwise](https://www.bakersfield.com/news/ufw-issues-strong-statement-on-ice-activity-valadao/article_2f42a73a-78e3-4e1b-aed4-d7cc529074df.html), and brushed off concerns, [saying “it is what it is.”](https://www.youtube.com/watch?v=VTRkYJgMFI8)
+- Despite [saying](https://www.sacbee.com/news/politics-government/capitol-alert/article317755800.html) he thought there were instances where ICE had gone too far, Valadao [said](https://www.youtube.com/watch?v=CIAd6V-Z6Dw) he would fund ICE because that’s “just the way it works.”
+- Farms across the Central Valley [reported](https://www.latintimes.com/central-valley-farmers-report-harvest-delays-immigration-raids-reduce-worker-attendance-600494) signs that this immigration overreach was posing challenges to already burdened farms and expressed concerns that it would impact future harvests, which would ripple nationally given the significant role the Valley plays in the nation’s food supply. 
+
+**Message:** Valadao brushed off constituent concerns on immigration enforcement to maintain the status quo.   
 
 ### It Took Valadao 11 Months To Vote To Release The Epstein Files And He Did Only After Trump Gave Republicans Permission
 
