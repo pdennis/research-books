@@ -2,7 +2,7 @@
 title: Rhett Marques
 description: 
 published: true
-date: 2026-10-29T19:48:25.080Z
+date: 2026-10-29T19:49:38.767Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-17T22:37:13.702Z
@@ -15,7 +15,7 @@ Rhett Marques actively supports making life harder for Alabamians. He was “pro
 ### Marques Supporting Cutting Healthcare For Alabamians
 
 -   Marques said he was “[**proud**](https://youtu.be/zTUNxFO_uEk?si=Bsx8xSi__umPSvLe)” of the Big Beautiful Bill and said Republicans had done a “[**great job**](https://youtu.be/Z-Wv3WP34k0?si=7cZ8Qrn0cWRyimHN)” on it. The bill [**would kick**](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) 17 million Americans off their health coverage including nearly 12 million on Medicaid. As a result of the bill that Marques touted, [**22,000 Alabamians**](https://www.americanprogress.org/article/the-one-big-beautiful-bill-act-will-increase-the-number-of-americans-without-health-coverage-in-every-state-and-congressional-district/) in the 2nd could lose their health coverage.
--   Marques [praised](https://youtu.be/zTUNxFO_uEk?si=Bsx8xSi__umPSvLe) the Big Beautiful Bill even though he [pledged](https://on.soundcloud.com/5TudYDZpcon3RwKEYh) not to cut Medicare. The Big Beautiful Bill would trigger nearly [$500 billion](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf) in Medicare cuts for the [1.1 million Alabamians](https://www.kff.org/medicare/state-indicator/total-medicare-beneficiaries/?currentTimeframe=0&selectedRows=%7B%22states%22:%7B%22alabama%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) who relied on Medicare plans. 
+-   Marques [praised](https://youtu.be/zTUNxFO_uEk?si=Bsx8xSi__umPSvLe) the Big Beautiful Bill even though he [pledged](https://on.soundcloud.com/5TudYDZpcon3RwKEYh) not to cut Medicare. The Big Beautiful Bill would trigger nearly [$500 billion](https://www.cbo.gov/system/files/2025-05/61423-PAYGO.pdf) in Medicare cuts for the [1.1 million Alabamians](https://www.kff.org/medicare/state-indicator/total-medicare-beneficiaries/?currentTimeframe=0&selectedRows=%7B%22states%22:%7B%22alabama%22:%7B%7D%7D%7D&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) who relied on Medicare plans.
 
 **Message:** Marques supported a bill that kicked Alabamians off their health coverage all to give billionaires a tax break.
 
@@ -48,20 +48,9 @@ Rhett Marques actively supports making life harder for Alabamians. He was “pro
 
 ## Marques Supported Policies That Hurt Everyday Alabamians
 
--   [🔌 *Marques Supported Unpopular Data Centers That Would Hurt Alabama*](/en/rhett-marques/data-centers)
-
-![💣](/_assets/svg/twemoji/1f4a3.svg)
-
--   [*Marques Supported The Costly War In Iran*](/en/rhett-marques/iran)
-
-![🧾](/_assets/svg/twemoji/1f9fe.svg)
-
--   [*Marques Supported Price-Hiking Tariffs*](/en/rhett-marques/tariffs)
-
-![🍌](/_assets/svg/twemoji/1f34c.svg)
-
--   [*Marques Supported Cutting Food Assistance To Alabamians*](/en/rhett-marques/food-assistance)
-
-![🏥](/_assets/svg/twemoji/1f3e5.svg)
-
--   [*Marques Supported Cutting Healthcare For Alabamians*](/en/rhett-marques/health-care)
+-    [🔌 *Marques Supported Unpopular Data Centers That Would Hurt Alabama*](/en/rhett-marques/data-centers)
+-    [💣 *Marques Supported The Costly War In Iran*](/en/rhett-marques/iran)
+-    [🧾 *Marques Supported Price-Hiking Tariffs*](/en/rhett-marques/tariffs)
+-    [🍌 *Marques Supported Cutting Food Assistance To Alabamians*](/en/rhett-marques/food-assistance)
+-    [🏥 *Marques Supported Cutting Healthcare For Alabamians*](/en/rhett-marques/health-care)
+{.links-list}
