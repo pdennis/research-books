@@ -1,8 +1,8 @@
 ---
 title: Rudy Yakym
 description: 
-published: true
-date: 2026-11-12T18:48:59.052Z
+published: false
+date: 2026-11-13T14:42:33.399Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-12T17:36:06.676Z
