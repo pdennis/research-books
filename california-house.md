@@ -2,7 +2,7 @@
 title: California House Races
 description: 
 published: true
-date: 2026-09-22T13:34:23.312Z
+date: 2026-11-18T19:20:30.931Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T17:26:46.954Z
@@ -13,10 +13,6 @@ dateCreated: 2025-05-22T17:26:46.954Z
 - [:elephant:***Tom McClintock***](/tom-mcclintock) A nine-term incumbent who has voted against virtually every major investment in his own district while working to strip coverage from the constituents who depend on it most.
 {.links-list}
 
-## CA-22
-- [:elephant:***David Valadao***](/david-valadao) Voted for Medicaid cuts and has a history of voting against healthcare for his constituents, including his opposition to the Affordable Care Act.
-{.links-list}
-
 ## CA-23
 - [:elephant:***Jay Obernolte***](/jay-obernolte) Voted for the largest Medicaid cuts in a district where 48% of residents depend on Medi-cal and supported the most severe SNAP cuts in the program's history.
 {.links-list}
@@ -25,6 +21,9 @@ dateCreated: 2025-05-22T17:26:46.954Z
 - [:elephant:***Ken Calvert***](/ken-calvert) Corrupt California Republican who has spent his time in Congress requesting earmarks for projects near his own investments while voting to slash health coverage for Californians.
 {.links-list}
 
-## CA-48
-- [:elephant: ***Jim Desmond***](https://research-books.com/jim-desmond) California Republican who said "no pain, no gain" about rising gas prices due to the Iran War.
+
+## Research Archive
+- [:elephant: ***Jim Desmond***](/jim-desmond)
+
+- [:elephant:***David Valadao***](/david-valadao)
 {.links-list}
