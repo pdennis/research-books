@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: true
-date: 2026-11-18T23:26:23.011Z
+date: 2026-11-18T23:30:25.975Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
@@ -95,22 +95,22 @@ Kansas Attorney General Kris Kobach was an out-of-touch extremist who refused to
 
 ## **Kris Kobach Policies Have Hurt Everyday People**
 
-- [:hospital: | **Kris Kobach Supported Restricting Medicaid And Opposed The Affordable Care Act**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-medicaid)
-- [:shopping_cart: | **Kris Kobach Backed Trump's Tariffs, Endangering Kansas’ Economy**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-tariffs)
-- [:apple: | **Kris Kobach Supported SNAP And TANF Cuts And Handing Over Sensitive SNAP Data To The Trump Administration**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-food)
-- [:x: | **Kris Kobach Refused To Defend Kansas’ Critical Grants From DOGE Cuts**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-DOGE)
-- [:woman: | **Kris Kobach Was An Anti-Abortion Extremist**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-abortion)
-- [:rainbow: | **Kris Kobach Opposed LGBTQ+ Kansans Adopting Children And Getting Married**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-LGBTQ)
+- [:hospital: | **Kris Kobach Supported Restricting Medicaid And Opposed The Affordable Care Act**](https://research-books.com/en/kris-kobach/kobach-medicaid)
+- [:shopping_cart: | **Kris Kobach Backed Trump's Tariffs, Endangering Kansas’ Economy**](https://research-books.com/en/kris-kobach/kobach-tariffs)
+- [:apple: | **Kris Kobach Supported SNAP And TANF Cuts And Handing Over Sensitive SNAP Data To The Trump Administration**](https://research-books.com/en/kris-kobach/kobach-food)
+- [:x: | **Kris Kobach Refused To Defend Kansas’ Critical Grants From DOGE Cuts**](https://research-books.com/en/kris-kobach/kobach-DOGE)
+- [:woman: | **Kris Kobach Was An Anti-Abortion Extremist**](https://research-books.com/en/kris-kobach/kobach-abortion)
+- [:rainbow: | **Kris Kobach Opposed LGBTQ+ Kansans Adopting Children And Getting Married**](https://research-books.com/en/kris-kobach/kobach-LGBTQ)
 {.links-list}
 
 ## **Kris Kobach Used His Power To Benefit The Powerful And Himself**
 
-- [:sos: | **Kris Kobach Would Allow Trump To Deploy Federal Forces Against Kansans**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-federalforces)
-- [:ballot_box: | **Kris Kobach Promoted Baseless Voter Fraud Conspiracies And Helped Strategize A Lawsuit To Overturn The 2020 Election**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-biglie)
-- [:money_with_wings: | **Kris Kobach Wasted Millions Of Taxpayer Dollars On Personal And Partisan Political Battles**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-partisan-political-battles)
+- [:sos: | **Kris Kobach Would Allow Trump To Deploy Federal Forces Against Kansans**](https://research-books.com/en/kris-kobach/kobach-federalforces)
+- [:ballot_box: | **Kris Kobach Promoted Baseless Voter Fraud Conspiracies And Helped Strategize A Lawsuit To Overturn The 2020 Election**](https://research-books.com/en/kris-kobach/kobach-biglie)
+- [:money_with_wings: | **Kris Kobach Wasted Millions Of Taxpayer Dollars On Personal And Partisan Political Battles**](https://research-books.com/en/kris-kobach/kobach-partisan-political-battles)
 {.links-list}
 
 ## **Kris Kobach Neglected Kansans**
 
-- [:cop: | **Kris Kobach Skipped A Law Enforcement Ceremony For A Trip To Ireland**](https://research-books.com/en/KS-Gov/kris-kobach/kobach-ireland)
+- [:cop: | **Kris Kobach Skipped A Law Enforcement Ceremony For A Trip To Ireland**](https://research-books.com/en/kris-kobach/kobach-ireland)
 {.links-list}
