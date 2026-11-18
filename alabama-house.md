@@ -2,7 +2,7 @@
 title: Alabama House Races
 description: 
 published: true
-date: 2026-11-18T20:51:39.864Z
+date: 2026-11-18T20:51:47.893Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-17T22:29:42.958Z
