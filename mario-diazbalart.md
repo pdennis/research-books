@@ -2,7 +2,7 @@
 title: Mario Diaz-Balart
 description: 
 published: true
-date: 2026-11-18T18:25:05.342Z
+date: 2026-11-18T19:45:36.724Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-18T18:25:05.342Z
@@ -27,3 +27,13 @@ dateCreated: 2026-11-18T18:25:05.342Z
 ### Diaz-Balart Was The Deciding Vote To Protect Trump's Tariffs That Hurt Floridians
 
 - Diaz-Balart voted to protect Trump’s tariffs six times, including in April 2025 when he was the [deciding vote](https://clerk.house.gov/evs/2025/roll094.xml) to protect them in Congress. Diaz-Balart commended the president for his tariffs and claimed he was [“standing up”](https://floridianpress.com/2025/04/buchanan-commends-trumps-renegotiation-of-european-trade-deals-after-eu-visit/) for American jobs. Tariffs contributed to [higher food prices](https://fortune.com/2026/04/08/iran-war-high-grocery-prices-getting-worse/) for Florida consumers and [“mega-layoffs”](https://www.washingtonpost.com/business/2025/11/06/job-cuts-accelerate-october-layoffs-trump/) across the nation. 
+
+
+# Issue Briefs
+
+## Mario Diaz-Balart Supported Policies That Hurt Everyday Floridians
+- [:hospital: *Diaz-Balart Voted To Take Health Coverage From Floridians*](https://research-books.com/en/mario-diazbalart/health-care)
+- [:carrot: *Diaz-Balart Voted To Cut Food Assistance For Floridians*](https://research-books.com/en/mario-diazbalart/snap)
+- [🪖 *Diaz-Balart Backed Trump's Costly War With Iran That Raised Prices On Floridians*](/en/mario-diazbalart/iran)
+- [:shopping_cart: *Diaz-Balart Voted To Protect Tariffs That Rose Prices On Floridians*](https://research-books.com/en/mario-diazbalart/tariffs)
+{.links-list}
