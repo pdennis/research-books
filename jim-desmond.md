@@ -1,8 +1,8 @@
 ---
-title: Jim Desmond (CA-48)
+title: Jim Desmond
 description: 
 published: true
-date: 2026-09-09T18:13:36.637Z
+date: 2026-11-18T17:23:22.207Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-27T23:32:24.709Z
