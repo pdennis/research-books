@@ -2,7 +2,7 @@
 title: California House Races
 description: 
 published: true
-date: 2026-11-18T19:20:30.931Z
+date: 2026-11-18T19:20:40.512Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T17:26:46.954Z
