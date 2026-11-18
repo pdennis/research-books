@@ -2,7 +2,7 @@
 title: Kris Kobach
 description: 
 published: true
-date: 2026-08-05T17:34:30.257Z
+date: 2026-11-18T23:26:23.011Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:48:53.745Z
