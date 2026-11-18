@@ -2,7 +2,7 @@
 title: Iowa House Races
 description: 
 published: true
-date: 2026-11-18T21:25:59.146Z
+date: 2026-11-18T21:26:30.310Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-27T12:01:42.959Z
