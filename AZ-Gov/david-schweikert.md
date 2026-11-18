@@ -2,7 +2,7 @@
 title: David Schweikert
 description: 
 published: true
-date: 2026-05-22T20:24:17.008Z
+date: 2026-11-18T23:10:19.396Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:01:35.784Z
