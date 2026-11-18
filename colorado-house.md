@@ -2,7 +2,7 @@
 title: Colorado House Races
 description: 
 published: true
-date: 2026-11-18T20:44:58.360Z
+date: 2026-11-18T20:50:58.925Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T17:29:01.808Z
