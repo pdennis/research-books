@@ -2,7 +2,7 @@
 title: California House Races
 description: 
 published: true
-date: 2026-11-18T19:20:40.512Z
+date: 2026-11-18T19:22:06.326Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T17:26:46.954Z
@@ -25,5 +25,5 @@ dateCreated: 2025-05-22T17:26:46.954Z
 ## Research Archive
 - [:elephant: ***Jim Desmond***](/jim-desmond)
 
-- [:elephant:***David Valadao***](/david-valadao)
+- [:elephant: ***David Valadao***](/david-valadao)
 {.links-list}
