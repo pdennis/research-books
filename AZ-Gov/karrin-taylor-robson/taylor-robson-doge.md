@@ -2,7 +2,7 @@
 title: Karrin Taylor Robson Won't Protect Arizona Jobs Or Social Security From Trump
 description: 
 published: true
-date: 2025-12-21T16:45:02.693Z
+date: 2026-11-19T17:37:30.509Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T17:02:42.893Z
