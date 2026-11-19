@@ -2,7 +2,7 @@
 title: Hyde-Smith Opposed Infrastructure Spending That Supported Mississippians
 description: 
 published: true
-date: 2026-04-27T14:45:49.687Z
+date: 2026-11-19T19:37:36.150Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-27T14:43:24.751Z
