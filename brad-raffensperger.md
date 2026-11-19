@@ -2,7 +2,7 @@
 title: Brad Raffensperger
 description: 
 published: true
-date: 2026-11-19T03:05:48.785Z
+date: 2026-11-19T03:08:10.201Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:14:10.238Z
@@ -77,17 +77,17 @@ Brad Raffensperger supported federal legislation that stripped health care from 
 
 ## Brad Raffensperger's Policies Have Hurt Everyday People
 
-- [:hospital:*Raffensperger Supported Efforts To Cut Medicaid And Threaten Georgians’ Access To Health Care*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-medicaid)
-- [:older_man:*Raffensperger Supported Massive Cuts To Medicare*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-medicare)
-- [:shopping_cart:*Raffensperger Praised Trump’s Tariffs, Endagering Georgia's Economy*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-tariffs)
-- [:apple:*Raffensperger Supported Stripping SNAP Benefits From Georgia Families*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-snap) 
-- [:x:*Raffensperger Stood By While Trump Attacked Social Security And Fired Hard-Working Georgians*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-doge)
-- [:mechanic:*Raffensperger Supported Legislation That Threatened Clean Energy Jobs In Georgia*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-clean-energy)
-- [:woman:*Raffensperger Was An Anti-Abortion Extremist*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-abortion)
+- [:hospital:*Raffensperger Supported Efforts To Cut Medicaid And Threaten Georgians’ Access To Health Care*](https://research-books.com/en/brad-raffensperger/raffensperger-medicaid)
+- [:older_man:*Raffensperger Supported Massive Cuts To Medicare*](https://research-books.com/en/brad-raffensperger/raffensperger-medicare)
+- [:shopping_cart:*Raffensperger Praised Trump’s Tariffs, Endagering Georgia's Economy*](https://research-books.com/en/brad-raffensperger/raffensperger-tariffs)
+- [:apple:*Raffensperger Supported Stripping SNAP Benefits From Georgia Families*](https://research-books.com/en/brad-raffensperger/raffensperger-snap) 
+- [:x:*Raffensperger Stood By While Trump Attacked Social Security And Fired Hard-Working Georgians*](https://research-books.com/en/brad-raffensperger/raffensperger-doge)
+- [:mechanic:*Raffensperger Supported Legislation That Threatened Clean Energy Jobs In Georgia*](https://research-books.com/en/brad-raffensperger/raffensperger-clean-energy)
+- [:woman:*Raffensperger Was An Anti-Abortion Extremist*](https://research-books.com/en/brad-raffensperger/raffensperger-abortion)
 {.links-list}
 
 ## Brad Raffensperger Used His Power To Benefit The Powerful
 
-- [:sos:*Raffensperger Dismissed Concerns About Georgia’s Election Security*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-election-security)
-- [:ballot_box:*Raffensperger Was Accused Of Suppressing Voters Of Color In Georgia*](https://research-books.com/en/GA-Gov/brad-raffensperger/raffensperger-voting)
+- [:sos:*Raffensperger Dismissed Concerns About Georgia’s Election Security*](https://research-books.com/en/brad-raffensperger/raffensperger-election-security)
+- [:ballot_box:*Raffensperger Was Accused Of Suppressing Voters Of Color In Georgia*](https://research-books.com/en/brad-raffensperger/raffensperger-voting)
 {.links-list}
