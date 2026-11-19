@@ -2,7 +2,7 @@
 title: Jon Husted
 description: 
 published: true
-date: 2026-09-04T19:52:51.416Z
+date: 2026-11-19T19:59:16.227Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T18:04:10.787Z
@@ -79,34 +79,34 @@ Husted claimed Elon Musk was helping Ohioans and supported DOGE spending cuts. H
 
 ## Jon Husted Supported Policies That Hurt Ohio
 
--   [:computer: **Husted Supported Data Centers That Increased Costs For Ohioans**](/ohio-senate/Jon-Husted/Data-Center)
+-   [:computer: **Husted Supported Data Centers That Increased Costs For Ohioans**](/Jon-Husted/Data-Center)
 {.links-list}
 
--   [:hospital: **Husted Voted For Devastating Health Care Cuts**](/ohio-senate/Jon-Husted/Health-Cuts)
+-   [:hospital: **Husted Voted For Devastating Health Care Cuts**](/Jon-Husted/Health-Cuts)
 {.links-list}
 
--   [:pill: **Husted Opposed Expanding And Protecting Ohioans Healthcare Coverage**](/ohio-senate/Jon-Husted/ACA)
+-   [:pill: **Husted Opposed Expanding And Protecting Ohioans Healthcare Coverage**](/Jon-Husted/ACA)
 {.links-list}
 
--   [:plate_with_cutlery: **Husted Voted To Take Food Assistance From Ohioans**](/ohio-senate/Jon-Husted/SNAP)
+-   [:plate_with_cutlery: **Husted Voted To Take Food Assistance From Ohioans**](/Jon-Husted/SNAP)
 {.links-list}
 
--   [:money_with_wings: **Husted Voted For Damaging Tariffs**](/ohio-senate/Jon-Husted/Tariffs)
+-   [:money_with_wings: **Husted Voted For Damaging Tariffs**](/Jon-Husted/Tariffs)
 {.links-list}
 
--   [:bulb: **Husted Voted Against Protecting Ohioans' Clean Energy Jobs**](/ohio-senate/Jon-Husted/Clean-Energy)
+-   [:bulb: **Husted Voted Against Protecting Ohioans' Clean Energy Jobs**](/Jon-Husted/Clean-Energy)
 {.links-list}
 
--   [:medical_symbol: **Husted Was An Anti-Abortion Extremist**](/ohio-senate/Jon-Husted/Abortion)
+-   [:medical_symbol: **Husted Was An Anti-Abortion Extremist**](/Jon-Husted/Abortion)
 {.links-list}
 
 - [:bomb:**Husted Supported War In Iran Which Caused Skyrocketing Gas and Fertilizer Prices**](/Jon-Husted/Iran)
 {.links-list}
 
-- [:chart_with_downwards_trend:**Husted Supported DOGE Efforts That Cut Funding For Ohioans**](/ohio-senate/Jon-Husted/DOGE)
+- [:chart_with_downwards_trend:**Husted Supported DOGE Efforts That Cut Funding For Ohioans**](/Jon-Husted/DOGE)
 {.links-list}
 
 ## Jon Husted Was Involved In Scandal
 
--   [:moneybag: **Husted Was Involved In Ohio's Major Corruption Scandal**](/ohio-senate/Jon-Husted/FirstEnergy)
+-   [:moneybag: **Husted Was Involved In Ohio's Major Corruption Scandal**](/Jon-Husted/FirstEnergy)
 {.links-list}
