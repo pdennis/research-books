@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-11-19T18:36:18.517Z
+date: 2026-11-19T18:39:11.294Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
@@ -124,37 +124,37 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 
 ## Ashley Hinson Supported Policies That Hurt Iowans
 
--   [:moneybag:**Hinson Defended Cuts That Threatened Social Security, Iowans' Livelihoods And Iowa's Economy**](/iowa-senate/Ashley-Hinson/DOGE)
+-   [:moneybag:**Hinson Defended Cuts That Threatened Social Security, Iowans' Livelihoods And Iowa's Economy**](/Ashley-Hinson/DOGE)
 
--   [:bulb:**Hinson Voted Against Protecting Iowans' Clean Energy Jobs**](/iowa-senate/Ashley-Hinson/Energy)
+-   [:bulb:**Hinson Voted Against Protecting Iowans' Clean Energy Jobs**](/Ashley-Hinson/Energy)
 
--   [:shopping_cart:**Hinson Voted To Protect Damaging Tariffs**](/iowa-senate/Ashley-Hinson/Tariffs)
+-   [:shopping_cart:**Hinson Voted To Protect Damaging Tariffs**](/Ashley-Hinson/Tariffs)
 
--   [:apple:**Hinson Voted To Take Food Assistance From Iowans**](/iowa-senate/Ashley-Hinson/SNAP)
+-   [:apple:**Hinson Voted To Take Food Assistance From Iowans**](/Ashley-Hinson/SNAP)
 
--   [:pill:**Hinson Opposed Expanding And Protecting Healthcare Coverage**](/iowa-senate/Ashley-Hinson/Health-Coverage)
+-   [:pill:**Hinson Opposed Expanding And Protecting Healthcare Coverage**](/Ashley-Hinson/Health-Coverage)
 
--   [:hospital:**Hinson Voted For Devastating Health Care Cuts**](/iowa-senate/Ashley-Hinson/Health-Care-Cuts)
+-   [:hospital:**Hinson Voted For Devastating Health Care Cuts**](/Ashley-Hinson/Health-Care-Cuts)
 
-- [:bomb: **Hinson Supported War In Iran Which Caused Skyrocketing Gas And Fertilizer Prices**](/iowa-senate/Ashley-Hinson/Iran)
+- [:bomb: **Hinson Supported War In Iran Which Caused Skyrocketing Gas And Fertilizer Prices**](/Ashley-Hinson/Iran)
 
-- [:hammer:**Hinson Opposed Infrastructure Spending That Supported Iowans**](/iowa-senate/Ashley-Hinson/Infrastructure)
+- [:hammer:**Hinson Opposed Infrastructure Spending That Supported Iowans**](/Ashley-Hinson/Infrastructure)
 
 - [:potable_water:**Hinson Opposed Keeping Iowa’s Drinking Water Clean**](/iowa-senate/Ashley-Hinson/drinking-water) 
 
-- [:older_woman:**Hinson Was A Threat To Social Security**](/iowa-senate/Ashley-Hinson/Social-Security)
+- [:older_woman:**Hinson Was A Threat To Social Security**](/Ashley-Hinson/Social-Security)
 
-- [:farmer:**Hinson Was An Ineffective And Bad Representative For Farmers**](/iowa-senate/Ashley-Hinson/Farmers)
+- [:farmer:**Hinson Was An Ineffective And Bad Representative For Farmers**](/Ashley-Hinson/Farmers)
 
-- [:woman:**Hinson Extreme Anti-Choice Views Restricted Iowa Women Right To Choose**](/iowa-senate/Ashley-Hinson/abortion)
+- [:woman:**Hinson Extreme Anti-Choice Views Restricted Iowa Women Right To Choose**](/Ashley-Hinson/abortion)
 
 {.links-list}
 
 ## Ashley Hinson Would Be Bad In The Senate 
 
-- [:woman_health_worker:**Hinson Accepted Money From A Private Equity Firm That That Was Accused Of Harming Patients At An Iowa Hospital It Owned**](/iowa-senate/Ashley-Hinson/Apollo)
+- [:woman_health_worker:**Hinson Accepted Money From A Private Equity Firm That That Was Accused Of Harming Patients At An Iowa Hospital It Owned**](/Ashley-Hinson/Apollo)
 
-- [:pig2:**Hinson Would Be Just Another Joni Ernst**](/iowa-senate/Ashley-Hinson/Ernst) 
+- [:pig2:**Hinson Would Be Just Another Joni Ernst**](/Ashley-Hinson/Ernst) 
 
-- [:writing_hand:**Hinson Was Caught Plagiarizing Campaign Materials**](/iowa-senate/Ashley-Hinson/plagiarism)
+- [:writing_hand:**Hinson Was Caught Plagiarizing Campaign Materials**](/Ashley-Hinson/plagiarism)
 {.links-list}
