@@ -2,7 +2,7 @@
 title: Eric Toney
 description: 
 published: true
-date: 2026-05-14T16:24:51.886Z
+date: 2026-11-19T17:07:57.842Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T19:53:17.420Z
@@ -71,10 +71,10 @@ Wisconsin Attorney General candidate Eric Toney repeatedly pledged to “enforce
 
 ## Eric Toney's  Positions Have Hurt Everyday People
 
-- [:woman: **Eric Toney Was An Abortion Extremist And Was Open To Prosecuting Wisconsin Abortion Providers**](https://research-books.com/en/WI-GOV/eric-toney/toney-abortion)
-- [:ring: **Eric Toney Opposed Same-Sex Marriage**](https://research-books.com/en/WI-GOV/eric-toney/toney-marriage-equality)
-- [:warning: **Eric Toney Opposed Stronger Environmental Protections Amid Wisconsin PFAS Concerns**](https://research-books.com/en/WI-GOV/eric-toney/toney-environment)
-- [:ballot_box: **Eric Toney Embraced Aggressive Voter Fraud Prosecutions That Were Called “A Hammer In Search Of A Nail”**](https://research-books.com/en/WI-GOV/eric-toney/toney-elections)
-- [:triangular_flag_on_post: **Eric Toney Opposed Red Flag Laws Designed To Protect Wisconsinites**](https://research-books.com/en/WI-GOV/eric-toney/toney-red-flag-laws)
+- [:woman: **Eric Toney Was An Abortion Extremist And Was Open To Prosecuting Wisconsin Abortion Providers**](https://research-books.com/en/eric-toney/toney-abortion)
+- [:ring: **Eric Toney Opposed Same-Sex Marriage**](https://research-books.com/en/eric-toney/toney-marriage-equality)
+- [:warning: **Eric Toney Opposed Stronger Environmental Protections Amid Wisconsin PFAS Concerns**](https://research-books.com/en/eric-toney/toney-environment)
+- [:ballot_box: **Eric Toney Embraced Aggressive Voter Fraud Prosecutions That Were Called “A Hammer In Search Of A Nail”**](https://research-books.com/en/eric-toney/toney-elections)
+- [:triangular_flag_on_post: **Eric Toney Opposed Red Flag Laws Designed To Protect Wisconsinites**](https://research-books.com/en/eric-toney/toney-red-flag-laws)
 
 {.links-list}
