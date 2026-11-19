@@ -2,7 +2,7 @@
 title: Andy Biggs
 description: 
 published: true
-date: 2026-10-05T16:20:55.917Z
+date: 2026-11-19T17:46:42.479Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T21:59:03.084Z
@@ -135,25 +135,25 @@ Andy Biggs, who only got [half an endorsement](https://apnews.com/article/trump-
 
 ## Andy Biggs' Policies Have Hurt Everyday People
 
--   [:hospital: ***Biggs Supported Efforts To Cut Medicaid And Threaten Arizonans' Access To Health Care***](/en/AZ-Gov/Andy-Biggs/biggs-medicaid)
--   [:older_man: ***Biggs Voted For Medicare Cuts***](/en/AZ-Gov/Andy-Biggs/biggs-medicare)
--   [:shopping_cart: ***Biggs Backed Trump's Tariffs, Endangering Arizona's Economy***](/en/AZ-Gov/Andy-Biggs/biggs-tariffs)
--   [:apple: ***Biggs Cast Votes To Cut SNAP Benefits From Arizona Families***](/en/AZ-Gov/Andy-Biggs/biggs-snap)
-- [:fuelpump: ***Biggs Supported Trump's War In Iran Despite It Increasing Gas Prices In Arizona***](/en/AZ-Gov/Andy-Biggs/biggs-iran-war)
--   [:x: ***Biggs Won't Defend Arizonans’ Jobs Or Social Security From Trump***](/en/AZ-Gov/Andy-Biggs/biggs-doge)
--   [:mechanic: ***Biggs Voted Against Protecting Arizonans' Clean Energy Jobs***](/en/AZ-Gov/Andy-Biggs/biggs-cleanenergy)
--   [:corn: ***Biggs Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15***](/en/AZ-Gov/Andy-Biggs/Biggs-E15)
-- [:school: ***Biggs Supported School Vouchers And Threatened Teachers Unions***](/en/AZ-Gov/Andy-Biggs/biggs-education)
+-   [:hospital: ***Biggs Supported Efforts To Cut Medicaid And Threaten Arizonans' Access To Health Care***](/en/Andy-Biggs/biggs-medicaid)
+-   [:older_man: ***Biggs Voted For Medicare Cuts***](/en/Andy-Biggs/biggs-medicare)
+-   [:shopping_cart: ***Biggs Backed Trump's Tariffs, Endangering Arizona's Economy***](/en/Andy-Biggs/biggs-tariffs)
+-   [:apple: ***Biggs Cast Votes To Cut SNAP Benefits From Arizona Families***](/en/Andy-Biggs/biggs-snap)
+- [:fuelpump: ***Biggs Supported Trump's War In Iran Despite It Increasing Gas Prices In Arizona***](/en/Andy-Biggs/biggs-iran-war)
+-   [:x: ***Biggs Won't Defend Arizonans’ Jobs Or Social Security From Trump***](/en/Andy-Biggs/biggs-doge)
+-   [:mechanic: ***Biggs Voted Against Protecting Arizonans' Clean Energy Jobs***](/en/Andy-Biggs/biggs-cleanenergy)
+-   [:corn: ***Biggs Effectively Voted For A Council In Lieu Of Helping Arizona Farmers With Year-Round E15***](/en/Andy-Biggs/Biggs-E15)
+- [:school: ***Biggs Supported School Vouchers And Threatened Teachers Unions***](/en/Andy-Biggs/biggs-education)
 -   [:woman: ***Biggs Was An Anti-Abortion Extremist***](/en/AZ-Gov/Andy-Biggs/biggs-abortion)
 {.links-list}
 
 ## Andy Biggs Used His Power To Benefit The Powerful
--   [:hammer: ***Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA***](/en/AZ-Gov/Andy-Biggs/biggs-osha)
--   [:eyes: ***Biggs Repeatedly Worked To Protect Child Sexual Predators Rather Than Protecting Children***](/en/AZ-Gov/Andy-Biggs/biggs-epstein)
-- [:sos: ***Biggs Helped Plan The January 6th Insurrection And Had Ties To Far-Right Extremist Groups***](/en/AZ-Gov/Andy-Biggs/biggs-extremism)
-- [:rainbow_flag: ***Biggs Took Donations From Executives Of An Anti-LGBTQ Hate Group***](/en/AZ-Gov/Andy-Biggs/biggs-lgbtq+)
+-   [:hammer: ***Biggs Sided With Corporate Profits Over Worker Safety As He Tried To Dismantle OSHA***](/en/Andy-Biggs/biggs-osha)
+-   [:eyes: ***Biggs Repeatedly Worked To Protect Child Sexual Predators Rather Than Protecting Children***](/en/Andy-Biggs/biggs-epstein)
+- [:sos: ***Biggs Helped Plan The January 6th Insurrection And Had Ties To Far-Right Extremist Groups***](/en/Andy-Biggs/biggs-extremism)
+- [:rainbow_flag: ***Biggs Took Donations From Executives Of An Anti-LGBTQ Hate Group***](/en/Andy-Biggs/biggs-lgbtq+)
 {.links-list}
 
 # Key Votes
--   [:white_check_mark: ***Biggs' Key Votes As A Member Of Congress***](/en/AZ-Gov/Andy-Biggs/biggs-votes)
+-   [:white_check_mark: ***Biggs' Key Votes As A Member Of Congress***](/en/Andy-Biggs/biggs-votes)
 {.links-list}
