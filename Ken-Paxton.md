@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-11-19T20:47:04.723Z
+date: 2026-11-19T20:48:37.514Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -135,5 +135,5 @@ dateCreated: 2026-05-19T19:33:30.966Z
 {.links-list}
 - [:money_with_wings:**Paxton Failed To Disclose His Investment In WatchGuard That Made Him Millions**](/Ken-Paxton/Investment)
 {.links-list}
-- [:hotel:**Paxton Initially Used Taxpayer Money To Pay For His Associate's Hotel Rooms**](/Ken-Paxton/taxpayer-Funded-Hotel-Rooms)
+- [:hotel:**Paxton Initially Used Taxpayer Money To Pay For His Associate's Hotel Rooms**](https://research-books.com/e/en/Ken-Paxton/Taxpayer-Funded-Hotel-Rooms)
 {.links-list}
