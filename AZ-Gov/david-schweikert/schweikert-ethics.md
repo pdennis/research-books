@@ -2,7 +2,7 @@
 title: David Schweikert Is An Ethics Nightmare
 description: 
 published: true
-date: 2025-12-17T16:58:56.370Z
+date: 2026-11-19T17:40:27.586Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T21:01:50.121Z
