@@ -2,7 +2,7 @@
 title: State Level Races in Pennsylvania
 description: 
 published: true
-date: 2026-11-19T17:03:41.024Z
+date: 2026-11-19T17:03:50.418Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T22:20:20.145Z
