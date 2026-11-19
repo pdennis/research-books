@@ -2,7 +2,7 @@
 title: Karrin Taylor Robson On Clean Energy Jobs
 description: 
 published: true
-date: 2025-12-21T16:45:20.504Z
+date: 2026-11-19T17:37:23.564Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T17:03:37.391Z
