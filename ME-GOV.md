@@ -2,7 +2,7 @@
 title: State Level Races In Maine
 description: 
 published: true
-date: 2026-11-19T01:20:13.260Z
+date: 2026-11-19T01:21:06.991Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:02:34.992Z
@@ -13,10 +13,10 @@ dateCreated: 2026-01-20T21:02:34.992Z
 
 {.links-list}
 
-- [:elephant: **Garrett Mason**](/en/ME-GOV/garrett-mason) Maine Republican who supported devastating health care cuts, supported stripping food assistance from families, and aligned himself with Trump’s agenda to roll back reproductive rights and public benefits for Mainers.
+- [:elephant: **Garrett Mason**](/en/garrett-mason) Maine Republican who supported devastating health care cuts, supported stripping food assistance from families, and aligned himself with Trump’s agenda to roll back reproductive rights and public benefits for Mainers.
 
 {.links-list}
 
-- [:elephant: **Jonathan Bush**](https://research-books.com/en/ME-GOV/Jonathan-Bush) Supported Trump’s agenda to roll back health care and public benefits for Mainers while downplaying domestic violence allegations and facing questions about his Maine residency.
+- [:elephant: **Jonathan Bush**](https://research-books.com/en/Jonathan-Bush) Supported Trump’s agenda to roll back health care and public benefits for Mainers while downplaying domestic violence allegations and facing questions about his Maine residency.
 
 {.links-list}
