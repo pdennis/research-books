@@ -2,7 +2,7 @@
 title: Paxton Supported Healthcare Cuts
 description: 
 published: true
-date: 2026-05-27T21:37:34.650Z
+date: 2026-11-19T20:44:22.068Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-27T21:36:31.212Z
