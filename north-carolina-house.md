@@ -2,7 +2,7 @@
 title: North Carolina House
 description: 
 published: true
-date: 2026-11-18T23:01:48.202Z
+date: 2026-11-19T14:57:04.593Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T18:47:51.831Z
@@ -14,6 +14,10 @@ dateCreated: 2025-11-08T18:47:51.831Z
 
 ## NC-07
 - [:elephant:*David Rouzer*](https://research-books.com/en/david-rouzer)
+{.links-list}
+
+## NC-08
+- [:elephant:*Mark Harris*](https://research-books.com/en/mark-harris)
 {.links-list}
 
 ## NC-14
