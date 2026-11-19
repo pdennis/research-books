@@ -2,7 +2,7 @@
 title: Rick Jackson
 description: 
 published: true
-date: 2026-10-05T16:41:00.644Z
+date: 2026-11-19T02:56:09.085Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-10T19:01:12.745Z
@@ -114,22 +114,22 @@ Georgia Republican gubernatorial nominee Rick Jackson repeatedly campaigned on b
 
 ## Rick Jackson Supported Policies That Have Hurt Everyday People And Benefitted The Powerful
 
-- [:hospital: | **Rick Jackson Opposed Medicaid Expansion And Supported Trump’s Devastating Health Care Cuts**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-medicaid) 
-- [:apple: | **Rick Jackson Supported Stripping SNAP Benefits From Georgia Families**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-food)
-- [:shopping_cart: | **Rick Jackson Celebrated How Trump's Tariffs Grew His Wealth And Supported Trump's War In Iran Even As It Increased Costs For Georgians**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-tariffs)
-- [:x: | **Rick Jackson Won’t Protect Georgia’s Critical Services, Jobs, Or Nonprofits From DOGE**](/GA-Gov/rick-jackson/jackson-doge)
-- [:woman: | **Rick Jackson Was An Anti-Abortion Extremist**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-abortion)
-- [:ballot_box: | **Rick Jackson Said Governor Kemp Would Deploy The National Guard To "Watch" The 2026 Election And Repeatedly Undermined The 2020 Election**](/GA-Gov/rick-jackson/jackson-voting)
-- [:earth_asia: | **Rick Jackson Ran As An Immigration Hardliner While His Company Settled A Lawsuit For Allegedly Trafficking Foreign Nurses**](/GA-Gov/rick-jackson/jackson-immigration)
+- [:hospital: | **Rick Jackson Opposed Medicaid Expansion And Supported Trump’s Devastating Health Care Cuts**](https://research-books.com/en/rick-jackson/jackson-medicaid) 
+- [:apple: | **Rick Jackson Supported Stripping SNAP Benefits From Georgia Families**](https://research-books.com/en/rick-jackson/jackson-food)
+- [:shopping_cart: | **Rick Jackson Celebrated How Trump's Tariffs Grew His Wealth And Supported Trump's War In Iran Even As It Increased Costs For Georgians**](https://research-books.com/en/rick-jackson/jackson-tariffs)
+- [:x: | **Rick Jackson Won’t Protect Georgia’s Critical Services, Jobs, Or Nonprofits From DOGE**](/rick-jackson/jackson-doge)
+- [:woman: | **Rick Jackson Was An Anti-Abortion Extremist**](https://research-books.com/en/rick-jackson/jackson-abortion)
+- [:ballot_box: | **Rick Jackson Said Governor Kemp Would Deploy The National Guard To "Watch" The 2026 Election And Repeatedly Undermined The 2020 Election**](/rick-jackson/jackson-voting)
+- [:earth_asia: | **Rick Jackson Ran As An Immigration Hardliner While His Company Settled A Lawsuit For Allegedly Trafficking Foreign Nurses**](/rick-jackson/jackson-immigration)
 {.links-list}
 
 ## Rick Jackson Used His Wealth To Make Himself More Powerful 
-- [:money_with_wings: | **Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-georgia-donations)
-- [:receipt: | **Despite Running As A Philanthropist Who Cared About Local Communities, Rick Jackson Used His Power And Wealth To Put Himself First**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-fake)
-- [:moneybag: | **Billionaire Rick Jackson Courted Trump’s Support After He Benefitted From Trump’s Tax Cuts And Donated To MAGA Inc.**](/GA-Gov/rick-jackson/jackson-billionaire-trump)
-- [:dollar: | **Rick Jackson Hypocritically Opened A Leadership Committee To Raise Unlimited Donations After Challenging Them In Court**](/GA-Gov/rick-jackson/jackson-leadership-committee)
+- [:money_with_wings: | **Rick Jackson Donated To Georgia Republicans That Helped Benefit His Businesses**](https://research-books.com/en/rick-jackson/jackson-georgia-donations)
+- [:receipt: | **Despite Running As A Philanthropist Who Cared About Local Communities, Rick Jackson Used His Power And Wealth To Put Himself First**](https://research-books.com/en/rick-jackson/jackson-fake)
+- [:moneybag: | **Billionaire Rick Jackson Courted Trump’s Support After He Benefitted From Trump’s Tax Cuts And Donated To MAGA Inc.**](/rick-jackson/jackson-billionaire-trump)
+- [:dollar: | **Rick Jackson Hypocritically Opened A Leadership Committee To Raise Unlimited Donations After Challenging Them In Court**](/rick-jackson/jackson-leadership-committee)
 {.links-list}
 
 ## Rick Jackson's "Business Solutions" Includes Multi-Million-Dollar Settlements
-- [:bank: | **Rick Jackson’s Companies Agreed To Multi-Million-Dollar Settlements For Allegedly Breaching Labor Laws, Failing To Pay Overtime, And Exploiting Workers**](https://research-books.com/en/GA-Gov/rick-jackson/jackson-labor)
+- [:bank: | **Rick Jackson’s Companies Agreed To Multi-Million-Dollar Settlements For Allegedly Breaching Labor Laws, Failing To Pay Overtime, And Exploiting Workers**](https://research-books.com/en/rick-jackson/jackson-labor)
 {.links-list}
