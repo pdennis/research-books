@@ -2,7 +2,7 @@
 title: Joe Lombardo Increased His Own Salary Amid Budget Cuts
 description: 
 published: true
-date: 2025-12-21T16:42:19.226Z
+date: 2026-11-19T16:40:27.006Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T21:55:57.037Z
