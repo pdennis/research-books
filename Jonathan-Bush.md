@@ -2,7 +2,7 @@
 title: Jonathan Bush
 description: 
 published: true
-date: 2026-11-19T01:25:13.669Z
+date: 2026-11-19T01:27:56.957Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:03:49.536Z
@@ -80,20 +80,20 @@ Jonathan Bush aligned closely with Donald Trump’s governing agenda, repeatedly
 
 ## Jonathan Bush's Policies Have Hurt Everyday People
 
-- [:hospital: | **Jonathan Bush Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-Medicaid)
-- [:stethoscope: | **Jonathan Bush Scrutinized Medicare**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-Medicare)
-- [:older_man: | **Jonathan Bush Supported Raising The Social Security Retirement Age**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-socialsecurity)
-- [:apple: | **Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-food)
-- [:x: | **Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services**](https://research-books.com/en/ME-GOV/Jonathan-Bush/Bush-DOGE)
+- [:hospital: | **Jonathan Bush Supported Efforts To Cut Medicaid And Threaten Mainers’ Access To Health Care**](https://research-books.com/en/Jonathan-Bush/Bush-Medicaid)
+- [:stethoscope: | **Jonathan Bush Scrutinized Medicare**](https://research-books.com/en/Jonathan-Bush/Bush-Medicare)
+- [:older_man: | **Jonathan Bush Supported Raising The Social Security Retirement Age**](https://research-books.com/en/Jonathan-Bush/bush-socialsecurity)
+- [:apple: | **Jonathan Bush Criticized SNAP While Thousands Of Mainers Relied On It**](https://research-books.com/en/Jonathan-Bush/Bush-food)
+- [:x: | **Jonathan Bush Praised Trump’s Governing Approach While Trump’s DOGE Cuts Threatened Maine’s Non-Profits And Services**](https://research-books.com/en/Jonathan-Bush/Bush-DOGE)
 
 {.links-list}
 ## Jonathan Bush Laid Off Workers
-- [:boom:| **Jonathan Bush Stood Behind Laying Off Employees As Athenahealth CEO**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-layoffs)
+- [:boom:| **Jonathan Bush Stood Behind Laying Off Employees As Athenahealth CEO**](https://research-books.com/en/Jonathan-Bush/bush-layoffs)
 
 {.links-list}
 ## Jonathan Bush Had Notorious Scandals
-- [:no_entry_sign: | **As Athenahealth CEO, Jonathan Bush Faced Allegations Of Sexually Inappropriate Conduct And A Sexually Hostile Work Environment**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-misconduct)
-- [:sos: | **Jonathan Bush Downplayed His History Of Domestic Violence As "Cancel Culture"**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-divorce)
-- [:house: | **Jonathan Bush Was Not A Mainer And Might Not Have Met Maine’s Residency Requirement For Governor**](https://research-books.com/en/ME-GOV/Jonathan-Bush/bush-residency)
+- [:no_entry_sign: | **As Athenahealth CEO, Jonathan Bush Faced Allegations Of Sexually Inappropriate Conduct And A Sexually Hostile Work Environment**](https://research-books.com/en/Jonathan-Bush/bush-misconduct)
+- [:sos: | **Jonathan Bush Downplayed His History Of Domestic Violence As "Cancel Culture"**](https://research-books.com/en/Jonathan-Bush/bush-divorce)
+- [:house: | **Jonathan Bush Was Not A Mainer And Might Not Have Met Maine’s Residency Requirement For Governor**](https://research-books.com/en/Jonathan-Bush/bush-residency)
 {.links-list}
 
