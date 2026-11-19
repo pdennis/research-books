@@ -2,7 +2,7 @@
 title: John James
 description: 
 published: true
-date: 2026-09-18T20:25:52.131Z
+date: 2026-11-19T17:29:45.637Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T21:24:49.160Z
@@ -124,21 +124,21 @@ John James voted to cut services and raise costs on Michiganders. He voted to ki
 
 ## John James' Policies Have Hurt Everyday People
 
-- [:hospital: | **John James Supported Efforts To Cut Medicaid And Threaten Michiganders' Access To Health Care**](https://research-books.com/en/MI-GOV/John-James/James-Medicaid)
-- [:older_man: | **John James Voted For Medicare Cuts**](https://research-books.com/en/MI-GOV/John-James/James-medicare)
-- [:shopping_cart: | **John James Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/MI-GOV/John-James/James-Tariffs)
-- [:apple: | **John James Cast Votes To Cut SNAP Benefits From Michigan Families**](https://research-books.com/en/MI-GOV/John-James/James-Food)
+- [:hospital: | **John James Supported Efforts To Cut Medicaid And Threaten Michiganders' Access To Health Care**](https://research-books.com/en/John-James/James-Medicaid)
+- [:older_man: | **John James Voted For Medicare Cuts**](https://research-books.com/en/John-James/James-medicare)
+- [:shopping_cart: | **John James Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/John-James/James-Tariffs)
+- [:apple: | **John James Cast Votes To Cut SNAP Benefits From Michigan Families**](https://research-books.com/en/John-James/James-Food)
 - [:x: | **John James Won't Defend Michigan Jobs Or Social Security From Trump**](https://research-books.com/en/MI-GOV/John-James/James-doge)
-- [:mechanic: | **John James Voted Against Protecting Michigan’s Clean Energy Jobs**](https://research-books.com/en/MI-GOV/John-James/James-cleanenergy)
-- [:corn: | **John James Failed Michigan Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/MI-GOV/John-James/James-E15)
-- [:woman: | **John James Was An Anti-Abortion Extremist**](https://research-books.com/en/MI-GOV/John-James/James-abortion)
-- [:fuelpump: **John James Supported The War In Iran As The War Led To Increased Costs In Michigan**](https://research-books.com/MI-GOV/John-James/james-iran )
+- [:mechanic: | **John James Voted Against Protecting Michigan’s Clean Energy Jobs**](https://research-books.com/en/John-James/James-cleanenergy)
+- [:corn: | **John James Failed Michigan Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/John-James/James-E15)
+- [:woman: | **John James Was An Anti-Abortion Extremist**](https://research-books.com/en/John-James/James-abortion)
+- [:fuelpump: **John James Supported The War In Iran As The War Led To Increased Costs In Michigan**](https://research-books.com/John-James/james-iran )
 {.links-list}
 
 ## John James Used His Power To Benefit The Powerful And Himself
-- [:eyes: | **It Took John James 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/MI-GOV/John-James/James-epstein)
-- [:ballot_box: | **John James Was An Election Denier**](https://research-books.com/MI-GOV/John-James/james-2020 )
-- [:grimacing: | **John James Was An Ethics Nightmare**](https://research-books.com/en/MI-GOV/John-James/James-ethics)
+- [:eyes: | **It Took John James 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/John-James/James-epstein)
+- [:ballot_box: | **John James Was An Election Denier**](https://research-books.com/John-James/james-2020 )
+- [:grimacing: | **John James Was An Ethics Nightmare**](https://research-books.com/en/John-James/James-ethics)
 
 {.links-list}
 # Key Votes
