@@ -2,7 +2,7 @@
 title: David Schweikert Won't Protect Arizona Jobs Or Social Security From Trump 
 description: 
 published: true
-date: 2025-12-17T17:05:35.658Z
+date: 2026-11-19T17:41:17.546Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T20:59:26.242Z
