@@ -2,7 +2,7 @@
 title: David Schweikert Opposed Lowering Drug Prices
 description: 
 published: true
-date: 2025-12-17T16:56:32.746Z
+date: 2026-11-19T17:41:43.506Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T18:56:22.338Z
