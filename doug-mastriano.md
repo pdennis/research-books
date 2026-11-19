@@ -2,7 +2,7 @@
 title: Doug Mastriano
 description: 
 published: true
-date: 2026-11-19T17:01:08.140Z
+date: 2026-11-19T17:03:06.851Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-04T18:52:08.630Z
@@ -123,7 +123,7 @@ Doug Mastriano would not fight for Pennsylvanians, but instead would continue to
 - [:hospital:| **Mastriano Would Threaten Pennsylvanians’ Access To Health Care**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-health-care)
 - [:mask:| **Mastriano Threatened The Privacy Rights Of Medical Patients**](https://research-books.com/en/doug-mastriano/mastriano-hipaa)
 - [:shopping_cart:| **Mastriano Backed Trump's Tariffs, Endangering Pennsylvania’s Economy**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-tariffs)
-- [:x:| **Mastriano Won't Defend Pennsylvania Jobs Or Social Security From Trump**](https://research-books.com/enx/doug-mastriano/mastriano-doge)
+- [:x:| **Mastriano Won't Defend Pennsylvania Jobs Or Social Security From Trump**](https://research-books.com/en/doug-mastriano/mastriano-doge)
 - [:mechanic:| **Mastriano Opposed Protecting Pennsylvania’s Clean Energy Jobs**](https://research-books.com/en/doug-mastriano/mastriano-cleanenergy)
 - [:woman:| **Mastriano Was An Anti-Abortion Extremist**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-abortion)
 - [:us:| **Mastriano Threatened The Voting Rights Of Pennsylvanians**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-voting)
