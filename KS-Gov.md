@@ -2,7 +2,7 @@
 title: State Level Races In Kansas
 description: 
 published: true
-date: 2026-11-18T23:27:04.768Z
+date: 2026-11-19T01:20:36.678Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-04T19:51:24.184Z
