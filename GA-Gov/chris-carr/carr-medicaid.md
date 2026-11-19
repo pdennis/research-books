@@ -2,7 +2,7 @@
 title: Chris Carr Attacks On Health Care
 description: 
 published: true
-date: 2026-01-07T18:39:05.683Z
+date: 2026-11-19T03:02:22.523Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T15:45:02.717Z
