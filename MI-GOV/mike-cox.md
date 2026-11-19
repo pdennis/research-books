@@ -2,7 +2,7 @@
 title: Mike Cox
 description: 
 published: true
-date: 2026-05-15T21:24:22.676Z
+date: 2026-11-19T17:25:24.805Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:18:50.686Z
@@ -102,19 +102,19 @@ Mike Cox supported federal legislation that stripped health care from hundreds o
 
 ## Mike Cox Policies Have Hurt Everyday People
 
-- [:hospital: | **Mike Cox Supported Efforts To Cut Medicaid And Threaten Michiganders’ Access To Health Care**](https://research-books.com/en/MI-GOV/mike-cox/cox-medicaid)
-- [:older_man: | **Mike Cox Supported Medicare Cuts**](https://research-books.com/en/MI-GOV/mike-cox/cox-medicare)
-- [:shopping_cart: | **Mike Cox Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/MI-GOV/mike-cox/cox-tariffs)
-- [:apple: | **Mike Cox Supported Cutting SNAP Benefits From Michigan Families**](https://research-books.com/en/MI-GOV/mike-cox/cox-food)
-- [:x: | **Mike Cox Won't Defend Michigan Jobs Or Social Security From Trump**](https://research-books.com/en/MI-GOV/mike-cox/cox-doge)
-- [:mechanic: | **Mike Cox Opposed Protecting Michigan Clean Energy Jobs**](https://research-books.com/en/MI-GOV/mike-cox/cox-cleanenergy)
+- [:hospital: | **Mike Cox Supported Efforts To Cut Medicaid And Threaten Michiganders’ Access To Health Care**](https://research-books.com/en/mike-cox/cox-medicaid)
+- [:older_man: | **Mike Cox Supported Medicare Cuts**](https://research-books.com/en/mike-cox/cox-medicare)
+- [:shopping_cart: | **Mike Cox Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/mike-cox/cox-tariffs)
+- [:apple: | **Mike Cox Supported Cutting SNAP Benefits From Michigan Families**](https://research-books.com/en/mike-cox/cox-food)
+- [:x: | **Mike Cox Won't Defend Michigan Jobs Or Social Security From Trump**](https://research-books.com/en/mike-cox/cox-doge)
+- [:mechanic: | **Mike Cox Opposed Protecting Michigan Clean Energy Jobs**](https://research-books.com/en/mike-cox/cox-cleanenergy)
 - [:woman: | **Mike Cox Was An Anti-Abortion Extremist**](https://research-books.com/en/MI-GOV/mike-cox/cox-abortion)
 
 {.links-list}
 
 ## Mike Cox Used His Power To Benefit The Powerful And Himself
 
-- [:sos: | **Mike Cox Would Not Protect Michiganders From Trump’s Federal Forces Overreach**](https://research-books.com/en/MI-GOV/mike-cox/cox-federalforces)
-- [:ballot_box: | **Mike And Laura Cox Sowed Distrust In The 2020 Election**](https://research-books.com/en/MI-GOV/mike-cox/cox-biglie)
-- [:grimacing: | **Mike Cox Was Accused Of “Throttling” An Investigation Into A Manoogian Mansion Party Where A Stripper Was Beaten And Later Murdered**](https://research-books.com/en/MI-GOV/mike-cox/cox-manoogian-masion)
+- [:sos: | **Mike Cox Would Not Protect Michiganders From Trump’s Federal Forces Overreach**](https://research-books.com/en/mike-cox/cox-federalforces)
+- [:ballot_box: | **Mike And Laura Cox Sowed Distrust In The 2020 Election**](https://research-books.com/en/mike-cox/cox-biglie)
+- [:grimacing: | **Mike Cox Was Accused Of “Throttling” An Investigation Into A Manoogian Mansion Party Where A Stripper Was Beaten And Later Murdered**](https://research-books.com/en/mike-cox/cox-manoogian-masion)
 {.links-list}
