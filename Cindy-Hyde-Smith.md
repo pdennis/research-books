@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-11-19T19:39:26.967Z
+date: 2026-11-19T19:40:37.573Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -145,7 +145,7 @@ Hyde-Smith betrayed Mississippians by cutting their healthcare, SNAP benefits, s
 
 -   [:hospital:Hyde-Smith Opposed Access To Affordable Healthcare](https://research-books.com/Cindy-Hyde-Smith/healthcare)
 
--   [:apple:Hyde-Smith Slashed Mississippians’ Supplemental Nutrition Assistance And Threatened Mississippi Children With Food Insecurity](https://research-books.com/mississippi-senate/snap-cuts)
+-   [:apple:Hyde-Smith Slashed Mississippians’ Supplemental Nutrition Assistance And Threatened Mississippi Children With Food Insecurity](https://research-books.com/Cindy-Hyde-Smith/snap-cuts)
 
 - [:woman:Hyde-Smith Supported Anti-Abortion Policies](/Cindy-Hyde-Smith/abortion)
 
