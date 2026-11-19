@@ -2,7 +2,7 @@
 title: Brad Sherman
 description: 
 published: true
-date: 2026-11-19T01:50:56.233Z
+date: 2026-11-19T01:53:39.511Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:18:03.664Z
@@ -95,22 +95,22 @@ Brad Sherman built a record in Iowa of supporting policies that would have raise
 
 ## Brad Sherman's Policies Have Hurt Everyday People
 
-- [:hospital: | **Brad Sherman Supported Efforts To Cut Medicaid And Threaten Iowans' Access To Health Care**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-medicaid)
-- [:shopping_cart: | **Brad Sherman Downplayed Trump's Tariffs, Endangering Iowa’s Economy**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-tariffs)
-- [:apple: | **Brad Sherman Supported Cutting SNAP Benefits From Iowa Families**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-food)
-- [:money_with_wings: | **Brad Sherman Suggested Increasing Sales Taxes On Iowans**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-taxes)
-- [:earth_americas: | **Brad Sherman Was A Climate Denier**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-environment)
-- [:woman: | **Brad Sherman Was An Anti-Abortion Extremist**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-abortion)
-- [:rainbow_flag: | **Brad Sherman Opposed Marriage Equality**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-lgbtq)
+- [:hospital: | **Brad Sherman Supported Efforts To Cut Medicaid And Threaten Iowans' Access To Health Care**](https://research-books.com/en/brad-sherman/sherman-medicaid)
+- [:shopping_cart: | **Brad Sherman Downplayed Trump's Tariffs, Endangering Iowa’s Economy**](https://research-books.com/en/brad-sherman/sherman-tariffs)
+- [:apple: | **Brad Sherman Supported Cutting SNAP Benefits From Iowa Families**](https://research-books.com/en/brad-sherman/sherman-food)
+- [:money_with_wings: | **Brad Sherman Suggested Increasing Sales Taxes On Iowans**](https://research-books.com/en/brad-sherman/sherman-taxes)
+- [:earth_americas: | **Brad Sherman Was A Climate Denier**](https://research-books.com/en/brad-sherman/sherman-environment)
+- [:woman: | **Brad Sherman Was An Anti-Abortion Extremist**](https://research-books.com/en/brad-sherman/sherman-abortion)
+- [:rainbow_flag: | **Brad Sherman Opposed Marriage Equality**](https://research-books.com/en/brad-sherman/sherman-lgbtq)
 {.links-list}
 ## Brad Sherman Used His Power To Force His Personal Beliefs On Others
 
-- [:sos: | **Brad Sherman Was An Election Denier**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-biglie)
-- [	⚖️  | **Brad Sherman Opposed The Separation Of Church And State**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-religious-extremism) 
-- [:mask: | **Brad Sherman Was An Anti-Vaccine Extremist**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-vaccines) 
+- [:sos: | **Brad Sherman Was An Election Denier**](https://research-books.com/en/brad-sherman/sherman-biglie)
+- [	⚖️  | **Brad Sherman Opposed The Separation Of Church And State**](https://research-books.com/en/brad-sherman/sherman-religious-extremism) 
+- [:mask: | **Brad Sherman Was An Anti-Vaccine Extremist**](https://research-books.com/en/brad-sherman/sherman-vaccines) 
 
 {.links-list}
 # Key Votes
 
--   [:white_check_mark: | **Brad Sherman’s Key Votes As A Member Of The Iowa Legislature**](https://research-books.com/en/IA-Gov/brad-sherman/sherman-votes)
+-   [:white_check_mark: | **Brad Sherman’s Key Votes As A Member Of The Iowa Legislature**](https://research-books.com/en/brad-sherman/sherman-votes)
 {.links-list}
