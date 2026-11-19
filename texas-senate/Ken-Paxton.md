@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-10-13T21:38:52.580Z
+date: 2026-11-19T20:45:45.398Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -109,31 +109,31 @@ dateCreated: 2026-05-19T19:33:30.966Z
 # Issue Back-Ups
 
 ## Ken Paxton Supported Policies That Hurt Texans
-- [:bomb:**Paxton Supported War In Iran Which Caused Skyrocketing Gas and Fertilizer Prices**](/texas-senate/Ken-Paxton/Iran)
-- [:shopping_cart:**Paxton Supported Damaging Tariffs**](/texas-senate/Ken-Paxton/Tariffs)
-- [:apple:**Paxton Supported Taking Food Assistance From Texans**](/texas-senate/Ken-Paxton/SNAP)
-- [:pill:**Paxton Supported Healthcare Cuts**](/texas-senate/Ken-Paxton/Medicaid)
+- [:bomb:**Paxton Supported War In Iran Which Caused Skyrocketing Gas and Fertilizer Prices**](/Ken-Paxton/Iran)
+- [:shopping_cart:**Paxton Supported Damaging Tariffs**](/Ken-Paxton/Tariffs)
+- [:apple:**Paxton Supported Taking Food Assistance From Texans**](/Ken-Paxton/SNAP)
+- [:pill:**Paxton Supported Healthcare Cuts**](/Ken-Paxton/Medicaid)
 {.links-list}
-- [:family:**Paxton Supported Radical Pro-Life Policies That Increased Maternal Mortality**](/texas-senate/Ken-Paxton/Abortion)
+- [:family:**Paxton Supported Radical Pro-Life Policies That Increased Maternal Mortality**](/Ken-Paxton/Abortion)
 {.links-list}
 ## Ken Paxton Was Unethical And Corrupt
-- [:judge:**Paxton Offered Plea Deals In Child Sex Crime Cases**](/texas-senate/Ken-Paxton/Plea-Deal)
+- [:judge:**Paxton Offered Plea Deals In Child Sex Crime Cases**](/Ken-Paxton/Plea-Deal)
 {.links-list}
-- [:broken_heart:**Paxton Cheated On His Wife Multiple Times Leading To Divorce**](/texas-senate/Ken-Paxton/Divorce-Infidelity)
+- [:broken_heart:**Paxton Cheated On His Wife Multiple Times Leading To Divorce**](/Ken-Paxton/Divorce-Infidelity)
 {.links-list}
-- [🇦🇪**Paxton Partied With Wanted Fugitives In Dubai With His Mistress**](/texas-senate/Ken-Paxton/Dubai-Fugitive-Party)
+- [🇦🇪**Paxton Partied With Wanted Fugitives In Dubai With His Mistress**](/Ken-Paxton/Dubai-Fugitive-Party)
 {.links-list}
-- [:x:**Paxton Was Impeached Due To A FBI Investigation And Whistleblower Lawsuit**](/texas-senate/Ken-Paxton/Impeachment)
+- [:x:**Paxton Was Impeached Due To A FBI Investigation And Whistleblower Lawsuit**](/Ken-Paxton/Impeachment)
 {.links-list}
-- [:handshake:**Paxton Used His Position To Rule In Favor Of His Campaign Donors**](/texas-senate/Ken-Paxton/Bribery)
+- [:handshake:**Paxton Used His Position To Rule In Favor Of His Campaign Donors**](/Ken-Paxton/Bribery)
 {.links-list}
-- [:worm:**Paxton Supported DOGE Cuts That Eroded Screwworm Tracking And Prevention**](/texas-senate/Ken-Paxton/Screwworm)
+- [:worm:**Paxton Supported DOGE Cuts That Eroded Screwworm Tracking And Prevention**](/Ken-Paxton/Screwworm)
 {.links-list}
-- [:moneybag:**Paxton Defrauded Investors And Colleagues**](/texas-senate/Ken-Paxton/Fraud)
+- [:moneybag:**Paxton Defrauded Investors And Colleagues**](/Ken-Paxton/Fraud)
 {.links-list}
-- [:pen:**Paxton Stole A Thousand-Dollar Pen**](/texas-senate/Ken-Paxton/Pen)
+- [:pen:**Paxton Stole A Thousand-Dollar Pen**](/Ken-Paxton/Pen)
 {.links-list}
-- [:money_with_wings:**Paxton Failed To Disclose His Investment In WatchGuard That Made Him Millions**](/texas-senate/Ken-Paxton/Investment)
+- [:money_with_wings:**Paxton Failed To Disclose His Investment In WatchGuard That Made Him Millions**](/Ken-Paxton/Investment)
 {.links-list}
-- [:hotel:**Paxton Initially Used Taxpayer Money To Pay For His Associate's Hotel Rooms**](/texas-senate/Ken-Paxton/Taxpayer-Funded-Hotel-Rooms)
+- [:hotel:**Paxton Initially Used Taxpayer Money To Pay For His Associate's Hotel Rooms**](/texas-senate/Taxpayer-Funded-Hotel-Rooms)
 {.links-list}
