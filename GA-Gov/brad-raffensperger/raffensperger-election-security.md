@@ -2,7 +2,7 @@
 title: Brad Raffensperger On Election Security
 description: 
 published: true
-date: 2025-12-22T14:42:31.380Z
+date: 2026-11-19T03:04:41.908Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-19T16:14:43.285Z
