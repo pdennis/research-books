@@ -2,7 +2,7 @@
 title: Zach Lahn
 description: 
 published: true
-date: 2026-10-09T15:51:37.701Z
+date: 2026-11-19T01:59:43.919Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-09T20:07:59.131Z
@@ -66,13 +66,13 @@ Zach Lahn’s record included attacks on Iowans’ health care, education, and r
 # Issue Back-Ups
 
 ## Zach Lahn’s Positions Have Hurt Everyday People
--   [:hospital: | **Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion**](/IA-Gov/zach-lahn/lahn-medicaid)
--   [:farmer: | **Zach Lahn Supported Trump’s Tariffs And Dismissed Tariff Impacts On Farmers Despite Increasing Financial Pressure**](/IA-Gov/zach-lahn/lahn-tariffs)
--   [:teacher: | **Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Defunded Iowa Public Schools**](/IA-Gov/zach-lahn/lahn-education)
-- [:woman: | **Zach Lahn Was An Anti-Abortion Extremist**](/IA-Gov/zach-lahn/lahn-abortion)
-- [:syringe: | **Zach Lahn Sowed Distrust In Vaccines And Backed Anti-Vaccine Policies**](/IA-Gov/zach-lahn/lahn-vaccines)
+-   [:hospital: | **Zach Lahn Opposed The Affordable Care Act And Medicaid Expansion**](/zach-lahn/lahn-medicaid)
+-   [:farmer: | **Zach Lahn Supported Trump’s Tariffs And Dismissed Tariff Impacts On Farmers Despite Increasing Financial Pressure**](/zach-lahn/lahn-tariffs)
+-   [:teacher: | **Zach Lahn Ran An Unaccredited Private School In Kansas While Supporting Policies That Defunded Iowa Public Schools**](/zach-lahn/lahn-education)
+- [:woman: | **Zach Lahn Was An Anti-Abortion Extremist**](/zach-lahn/lahn-abortion)
+- [:syringe: | **Zach Lahn Sowed Distrust In Vaccines And Backed Anti-Vaccine Policies**](/zach-lahn/lahn-vaccines)
 {.links-list}
 
 ## Zach Lahn Chose Himself Over Iowans
-- [:x:  | **Zach Lahn Is A Carpetbagger**](/IA-Gov/zach-lahn/lahn-carpetbagger)
+- [:x:  | **Zach Lahn Is A Carpetbagger**](/zach-lahn/lahn-carpetbagger)
 {.links-list}
