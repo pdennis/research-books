@@ -2,7 +2,7 @@
 title: Karrin Taylor Robson On Abortion
 description: 
 published: true
-date: 2025-12-21T16:45:41.188Z
+date: 2026-11-19T17:37:16.113Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T17:04:16.811Z
