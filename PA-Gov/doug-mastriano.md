@@ -2,7 +2,7 @@
 title: Doug Mastriano
 description: 
 published: true
-date: 2025-12-27T04:21:31.843Z
+date: 2026-11-19T17:01:08.140Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-04T18:52:08.630Z
@@ -121,10 +121,10 @@ Doug Mastriano would not fight for Pennsylvanians, but instead would continue to
 ## Doug Mastriano's Policies Have Hurt Everyday People
 
 - [:hospital:| **Mastriano Would Threaten Pennsylvanians’ Access To Health Care**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-health-care)
-- [:mask:| **Mastriano Threatened The Privacy Rights Of Medical Patients**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-hipaa)
+- [:mask:| **Mastriano Threatened The Privacy Rights Of Medical Patients**](https://research-books.com/en/doug-mastriano/mastriano-hipaa)
 - [:shopping_cart:| **Mastriano Backed Trump's Tariffs, Endangering Pennsylvania’s Economy**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-tariffs)
-- [:x:| **Mastriano Won't Defend Pennsylvania Jobs Or Social Security From Trump**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-doge)
-- [:mechanic:| **Mastriano Opposed Protecting Pennsylvania’s Clean Energy Jobs**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-cleanenergy)
+- [:x:| **Mastriano Won't Defend Pennsylvania Jobs Or Social Security From Trump**](https://research-books.com/enx/doug-mastriano/mastriano-doge)
+- [:mechanic:| **Mastriano Opposed Protecting Pennsylvania’s Clean Energy Jobs**](https://research-books.com/en/doug-mastriano/mastriano-cleanenergy)
 - [:woman:| **Mastriano Was An Anti-Abortion Extremist**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-abortion)
 - [:us:| **Mastriano Threatened The Voting Rights Of Pennsylvanians**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-voting)
 
@@ -139,13 +139,13 @@ Doug Mastriano would not fight for Pennsylvanians, but instead would continue to
 ## Doug Mastriano’s Extremism And Scandals
 
 - [:x:| **Mastriano’s Ties To Anti-Semitism**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-antisemitism)
-- [:sos: | **Mastriano Was A Christian Nationalist And Far-Right Extremist**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-extremism)
-- [:pencil:| **Mastriano Faced Backlash Over His Doctoral Research, Published Book, And Academic Papers**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-academia)
+- [:sos: | **Mastriano Was A Christian Nationalist And Far-Right Extremist**](https://research-books.com/en/doug-mastriano/mastriano-extremism)
+- [:pencil:| **Mastriano Faced Backlash Over His Doctoral Research, Published Book, And Academic Papers**](https://research-books.com/en/doug-mastriano/mastriano-academia)
 
 {.links-list}
 
 # Key Votes
 
-- [:white_check_mark: | **Mastriano’s Key Votes As A Member Of The Pennsylvania Senate**](https://research-books.com/en/PA-Gov/doug-mastriano/mastriano-votes)
+- [:white_check_mark: | **Mastriano’s Key Votes As A Member Of The Pennsylvania Senate**](https://research-books.com/en/doug-mastriano/mastriano-votes)
 
 {.links-list}
