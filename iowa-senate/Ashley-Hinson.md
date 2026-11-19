@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-10-14T18:46:54.814Z
+date: 2026-11-19T18:35:59.322Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
