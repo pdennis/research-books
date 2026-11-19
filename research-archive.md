@@ -2,7 +2,7 @@
 title: Research Archive
 description: 
 published: true
-date: 2026-11-19T19:17:41.139Z
+date: 2026-11-19T19:54:50.613Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T17:56:21.853Z
@@ -104,6 +104,71 @@ dateCreated: 2026-11-19T17:56:21.853Z
 - [***Mike Rogers***](https://research-books.com/mike-rogers)
 
 {.links-list}
+
+
+## Minnesota :ice_hockey:
+
+- [***Lisa Demuth***](https://research-books.com/en/lisa-demuth)
+- [***Mike Lindell***](https://research-books.com/en/mike-lindell)
+- [***Ron Schutz***](https://research-books.com/en/ron-schutz)
+- [***Michele Tafoya***](https://research-books.com/michele-tafoya)
+
+{.links-list}
+
+## Minnesota :ice_hockey:
+
+- [***Lisa Demuth***](https://research-books.com/en/lisa-demuth)
+- [***Mike Lindell***](https://research-books.com/en/mike-lindell)
+- [***Ron Schutz***](https://research-books.com/en/ron-schutz)
+- [***Michele Tafoya***](https://research-books.com/michele-tafoya)
+
+{.links-list}
+
+## Mississippi :hibiscus: 
+
+- [***Cindy Hyde-Smith***](https://research-books.com/Cindy-Hyde-Smith)
+
+{.links-list}
+
+## North Carolina :deciduous_tree: 
+
+- [***Chuck Edwards***](https://research-books.com/chuck-edwards)
+- [***Virginia Foxx***](https://research-books.com/en/virginia-foxx)
+- [***Richard Hudson***](https://research-books.com/en/richard-hudson)
+- [***Brad Knott***](https://research-books.com/brad-knott)
+- [***Addison McDowell***](https://research-books.com/en/addison-mcdowell)
+- [***Michael Whatley***](https://research-books.com/en/Michael-Whatley)
+{.links-list}
+
+## Nebraska :tractor: 
+
+- [***Brinker Harding***](https://research-books.com/en/brinker-harding)
+- [***Pete Ricketts***](https://research-books.com/pete-ricketts)
+
+{.links-list}
+
+## Nevada :slot_machine: 
+
+- [***Adriana Guzmán Fralick***](https://research-books.com/adriana-guzm%C3%A1n-fralick)
+- [***Joe Lombardo***](https://research-books.com/en/joe-lombardo)
+
+{.links-list}
+
+## New Jersey :tulip: 
+
+- [***Tom Kean***](https://research-books.com/tom-kean)
+
+{.links-list}
+
+## New York :taxi: 
+
+- [***Mike Lawler***](https://research-books.com/mike-lawler)
+
+{.links-list}
+
+
+
+
 
 
 
