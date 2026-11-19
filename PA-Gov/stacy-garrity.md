@@ -2,7 +2,7 @@
 title: Stacy Garrity
 description: 
 published: true
-date: 2026-10-15T15:30:16.895Z
+date: 2026-11-19T16:56:34.991Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T19:08:59.193Z
@@ -111,23 +111,23 @@ As Stacy Garrity continuously called Pennsylvania ["mediocre,"](https://x.com/Ga
 # Issue Back-Ups
 
 ## Stacy Garrity's Policies Have Hurt Everyday People
-- [:hospital: | **Stacy Garrity Supported Efforts To Cut Medicaid And Threaten Pennsylvanians’ Access To Health Care**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-medicaid)
-- [:older_man: | **Stacy Garrity Supported Medicare Cuts**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-medicare)
-- [:shopping_cart: | **Stacy Garrity Backed Trump's Tariffs, Endangering Pennsylvania's Economy**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-tariffs) 
-- [:apple: | **Stacy Garrity Supported Stripping SNAP Benefits From Pennsylvania Families**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-food) 
-- [:x: | **Stacy Garrity Won't Defend Pennsylvanians’ Jobs Or Social Security From Trump**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-doge) 
-- [:money_with_wings: | **Stacy Garrity Supported Increases To Energy Costs In Pennsylvania**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-energyprices) 
-- [:woman: | **Stacy Garrity Was An Anti-Abortion Extremist**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-abortion) 
+- [:hospital: | **Stacy Garrity Supported Efforts To Cut Medicaid And Threaten Pennsylvanians’ Access To Health Care**]( https://research-books.com/en/stacy-garrity/garrity-medicaid)
+- [:older_man: | **Stacy Garrity Supported Medicare Cuts**]( https://research-books.com/en/stacy-garrity/garrity-medicare)
+- [:shopping_cart: | **Stacy Garrity Backed Trump's Tariffs, Endangering Pennsylvania's Economy**]( https://research-books.com/en/stacy-garrity/garrity-tariffs) 
+- [:apple: | **Stacy Garrity Supported Stripping SNAP Benefits From Pennsylvania Families**]( https://research-books.com/en/stacy-garrity/garrity-food) 
+- [:x: | **Stacy Garrity Won't Defend Pennsylvanians’ Jobs Or Social Security From Trump**]( https://research-books.com/en/stacy-garrity/garrity-doge) 
+- [:money_with_wings: | **Stacy Garrity Supported Increases To Energy Costs In Pennsylvania**]( https://research-books.com/en/stacy-garrity/garrity-energyprices) 
+- [:woman: | **Stacy Garrity Was An Anti-Abortion Extremist**]( https://research-books.com/en/stacy-garrity/garrity-abortion) 
 
 {.links-list}
 
 ## Stacy Garrity Used Her Power To Benefit The Powerful And Herself 
-- [:x: | **Stacy Garrity Was A Threat To The Voting Rights Of Pennsylvanians**](https://research-books.com/en/PA-Gov/stacy-garrity/garrity-biglie)
-- [:sos: | **Stacy Garrity Would Not Protect Pennsylvanians From Trump’s Federal Forces Overreach**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-federalforces)
-- [:⚖️: | **Stacy Garrity Had A Track Record Of Ethical Concerns**]( https://research-books.com/en/PA-Gov/stacy-garrity/garrity-ethics)
-- [:money_with_wings: | **Stacy Garrity Surrounded Herself With People With Histories Of Corruption, Scandals, And Assault Allegations**](/PA-Gov/stacy-garrity/garrity-donors)
+- [:x: | **Stacy Garrity Was A Threat To The Voting Rights Of Pennsylvanians**](https://research-books.com/en/stacy-garrity/garrity-biglie)
+- [:sos: | **Stacy Garrity Would Not Protect Pennsylvanians From Trump’s Federal Forces Overreach**]( https://research-books.com/en/stacy-garrity/garrity-federalforces)
+- [:⚖️: | **Stacy Garrity Had A Track Record Of Ethical Concerns**]( https://research-books.com/en/stacy-garrity/garrity-ethics)
+- [:money_with_wings: | **Stacy Garrity Surrounded Herself With People With Histories Of Corruption, Scandals, And Assault Allegations**](/stacy-garrity/garrity-donors)
 {.links-list}
 
 ## Stacy Garrity Flip-Flopped On Key Issues
-- [:computer: | **Stacy Garrity Switched Her Position On Data Centers When It Was Politically Convenient**](/PA-Gov/stacy-garrity/garrity-datacenters-flipflop)
+- [:computer: | **Stacy Garrity Switched Her Position On Data Centers When It Was Politically Convenient**](/stacy-garrity/garrity-datacenters-flipflop)
 {.links-list}
