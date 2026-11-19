@@ -2,7 +2,7 @@
 title: Joe Lombardo On SNAP Cuts
 description: 
 published: true
-date: 2026-06-09T17:52:12.750Z
+date: 2026-11-19T16:41:12.127Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T21:52:25.180Z
