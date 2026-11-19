@@ -2,7 +2,7 @@
 title: Brad Sherman on Increasing Taxes
 description: 
 published: true
-date: 2025-12-22T19:51:22.710Z
+date: 2026-11-19T01:52:01.359Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T22:12:22.392Z
