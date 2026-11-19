@@ -2,7 +2,7 @@
 title: Ken Paxton
 description: 
 published: true
-date: 2026-11-19T20:45:45.398Z
+date: 2026-11-19T20:46:32.608Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-19T19:33:30.966Z
@@ -135,5 +135,5 @@ dateCreated: 2026-05-19T19:33:30.966Z
 {.links-list}
 - [:money_with_wings:**Paxton Failed To Disclose His Investment In WatchGuard That Made Him Millions**](/Ken-Paxton/Investment)
 {.links-list}
-- [:hotel:**Paxton Initially Used Taxpayer Money To Pay For His Associate's Hotel Rooms**](/texas-senate/Taxpayer-Funded-Hotel-Rooms)
+- [:hotel:**Paxton Initially Used Taxpayer Money To Pay For His Associate's Hotel Rooms**](/Ken-Paxton/taxpayer-Funded-Hotel-Rooms)
 {.links-list}
