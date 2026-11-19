@@ -2,26 +2,26 @@
 title: State Level Races in Arizona
 description: 
 published: true
-date: 2026-11-18T23:09:52.640Z
+date: 2026-11-19T17:36:31.947Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:00:26.802Z
 ---
 
 ## Research Archive
-- [:elephant: ***David Schweikert***](/AZ-Gov/david-schweikert) Arizona Republican who had numerous ethics issues and claimed to care about federal spending, but pushed budget-busting tax cuts for the wealthy.
+- [:elephant: ***David Schweikert***](/david-schweikert) Arizona Republican who had numerous ethics issues and claimed to care about federal spending, but pushed budget-busting tax cuts for the wealthy.
 
 {.links-list}
 
-- [:elephant: ***Andy Biggs***](/AZ-Gov/Andy-Biggs) Arizona Republican who voted to strip health care and SNAP benefits from Arizonans for tax cuts for the wealthy, and sided with corporate profits over Arizonans' worker safety.
+- [:elephant: ***Andy Biggs***](Andy-Biggs) Arizona Republican who voted to strip health care and SNAP benefits from Arizonans for tax cuts for the wealthy, and sided with corporate profits over Arizonans' worker safety.
 
 {.links-list}
 
-- [:elephant: ***Karrin Taylor Robson***](/AZ-Gov/karrin-taylor-robson) Arizona Republican who supported extreme abortion bans and called devastating healthcare cuts in exchange for tax cuts for the wealthy a "huge win for Arizona."
+- [:elephant: ***Karrin Taylor Robson***](karrin-taylor-robson) Arizona Republican who supported extreme abortion bans and called devastating healthcare cuts in exchange for tax cuts for the wealthy a "huge win for Arizona."
 
 {.links-list}
 
-- [:elephant: ***Warren Petersen***](/AZ-Gov/warren-petersen) Arizona Republican who threatened reproductive rights and public education funding while promoting tax cuts for the wealthy and sowing distrust in democracy.
+- [:elephant: ***Warren Petersen***](warren-petersen) Arizona Republican who threatened reproductive rights and public education funding while promoting tax cuts for the wealthy and sowing distrust in democracy.
 {.links-list}
 
 
