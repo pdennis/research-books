@@ -2,7 +2,7 @@
 title: Chris Carr Won't Protect Georgians' Jobs Or Social Security From Trump
 description: 
 published: true
-date: 2025-12-22T16:52:14.423Z
+date: 2026-11-19T03:01:52.222Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T15:55:02.403Z
