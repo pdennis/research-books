@@ -2,7 +2,7 @@
 title: Warren Petersen
 description: 
 published: true
-date: 2026-10-02T16:26:54.689Z
+date: 2026-11-19T17:33:45.470Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-29T16:02:27.010Z
@@ -64,14 +64,14 @@ As a member of the Arizona state legislature, Republican Arizona attorney genera
 
 ## **Warren Petersen's Policies Have Hurt Everyday People**
 
-- [:woman: ***Petersen Was An Anti-Abortion Extremist***](/AZ-Gov/warren-petersen/petersen-abortion)
-- [:school: ***Petersen Threatened Public School Funding And Championed “School Choice”***](/AZ-Gov/warren-petersen/petersen-education)
-- [:hospital: ***Petersen Supported Massive Cuts To Medicaid And The Affordable Care Act***](/AZ-Gov/warren-petersen/petersen-medicaid)
-- [:shopping_cart: ***Petersen Supported Trump’s Devastating Tariffs***](/AZ-Gov/warren-petersen/petersen-tariffs) 
+- [:woman: ***Petersen Was An Anti-Abortion Extremist***](/warren-petersen/petersen-abortion)
+- [:school: ***Petersen Threatened Public School Funding And Championed “School Choice”***](/warren-petersen/petersen-education)
+- [:hospital: ***Petersen Supported Massive Cuts To Medicaid And The Affordable Care Act***](/warren-petersen/petersen-medicaid)
+- [:shopping_cart: ***Petersen Supported Trump’s Devastating Tariffs***](/warren-petersen/petersen-tariffs) 
 {.links-list}
 
 ## **Warren Petersen Used His Power To Benefit The Powerful** 
 
-- [:ballot_box: ***Petersen Platformed 2020 Election Fraud Conspiracy Theories Continuing Into 2026***](/AZ-Gov/warren-petersen/petersen-democracy)
-- [:sos: ***Petersen Would Not Protect Arizonans From Trump’s Federal Forces Overreach***](/AZ-Gov/warren-petersen/petersen-immigration)
+- [:ballot_box: ***Petersen Platformed 2020 Election Fraud Conspiracy Theories Continuing Into 2026***](/warren-petersen/petersen-democracy)
+- [:sos: ***Petersen Would Not Protect Arizonans From Trump’s Federal Forces Overreach***](/warren-petersen/petersen-immigration)
 {.links-list}
