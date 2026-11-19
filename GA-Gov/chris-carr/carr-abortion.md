@@ -2,7 +2,7 @@
 title: Chris Carr On Abortion
 description: 
 published: true
-date: 2025-12-22T16:52:52.175Z
+date: 2026-11-19T03:01:36.498Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T15:59:05.251Z
