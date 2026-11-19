@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-11-19T19:45:49.913Z
+date: 2026-11-19T19:46:32.146Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
