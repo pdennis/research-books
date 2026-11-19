@@ -2,7 +2,7 @@
 title: David Schweikert Bad On Clean Energy Jobs
 description: 
 published: true
-date: 2025-12-17T16:57:00.607Z
+date: 2026-11-19T17:41:09.677Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T20:15:11.109Z
