@@ -2,7 +2,7 @@
 title: Joe Lombardo
 description: 
 published: true
-date: 2026-09-04T19:48:46.989Z
+date: 2026-11-19T16:42:49.545Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T19:03:34.764Z
@@ -133,18 +133,18 @@ This video is not for public use on a campaign, and is purely here as an example
 
 ## Joe Lombardo's Policies Have Hurt Everyday People
 
--   [:hospital: ***Lombardo Supported Efforts To Cut Medicaid And Threaten Nevadans’ Access To Health Care***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-medicaid)
--   [:older_man: ***Lombardo Supported Medicare Cuts***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-medicare)
--   [:shopping_cart: ***Lombardo Backed Trump's Tariffs, Endangering Nevada’s Economy***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-tariffs)
--   [:apple: ***Lombardo Supported Cutting SNAP Benefits For Nevada Families***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-snap)
--   [:x: ***Lombardo Won't Defend Nevada Jobs Or Social Security From Trump***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-doge)
--   [:mechanic: ***Lombardo Opposed Protecting Nevada’s Clean Energy & Infrastructure Jobs***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-clean-energy)
--   [:woman: ***Lombardo Was An Anti-Abortion Extremist***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-abortion)
+-   [:hospital: ***Lombardo Supported Efforts To Cut Medicaid And Threaten Nevadans’ Access To Health Care***](https://research-books.com/en/joe-lombardo/lombardo-medicaid)
+-   [:older_man: ***Lombardo Supported Medicare Cuts***](https://research-books.com/en/joe-lombardo/lombardo-medicare)
+-   [:shopping_cart: ***Lombardo Backed Trump's Tariffs, Endangering Nevada’s Economy***](https://research-books.com/en/joe-lombardo/lombardo-tariffs)
+-   [:apple: ***Lombardo Supported Cutting SNAP Benefits For Nevada Families***](https://research-books.com/en/joe-lombardo/lombardo-snap)
+-   [:x: ***Lombardo Won't Defend Nevada Jobs Or Social Security From Trump***](https://research-books.com/en/joe-lombardo/lombardo-doge)
+-   [:mechanic: ***Lombardo Opposed Protecting Nevada’s Clean Energy & Infrastructure Jobs***](https://research-books.com/en/joe-lombardo/lombardo-clean-energy)
+-   [:woman: ***Lombardo Was An Anti-Abortion Extremist***](https://research-books.com/en/joe-lombardo/lombardo-abortion)
 {.links-list}
 
 ## Joe Lombardo Used His Power To Benefit The Powerful And Himself
 
-- 	[:police_officer: ***Lombardo Used His Position To Access Unwarranted Privileges***](/NV-Gov/joe-lombardo/lombardo-ethics)
--   [:money_mouth_face: ***Lombardo Raised His Own Sheriff's Salary While His Department Faced Budget Cuts***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-salary)
+- 	[:police_officer: ***Lombardo Used His Position To Access Unwarranted Privileges***](/joe-lombardo/lombardo-ethics)
+-   [:money_mouth_face: ***Lombardo Raised His Own Sheriff's Salary While His Department Faced Budget Cuts***](https://research-books.com/en/joe-lombardo/lombardo-salary)
 -   [:ballot_box: ***Lombardo Threatened Voter Access In Nevada And Was Tied To A Fake Elector***](https://research-books.com/en/NV-Gov/joe-lombardo/lombardo-election-denial)
 {.links-list}
