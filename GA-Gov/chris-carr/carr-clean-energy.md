@@ -2,7 +2,7 @@
 title: Chris Carr On Clean Energy Jobs
 description: 
 published: true
-date: 2025-12-22T16:52:32.055Z
+date: 2026-11-19T03:01:44.876Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T15:57:13.737Z
