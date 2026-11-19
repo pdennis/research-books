@@ -2,7 +2,7 @@
 title: Perry Johnson
 description: 
 published: true
-date: 2026-03-12T20:43:12.684Z
+date: 2026-11-19T17:20:05.161Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-05T20:03:40.172Z
@@ -94,16 +94,16 @@ Failed gubernatorial and presidential candidate Perry Johnson built his campaign
 
 - [:hospital: | **Perry Johnson Supported Efforts To Cut Medicaid And Threaten Michiganders’ Access To Health Care**](https://research-books.com/en/MI-GOV/perry-johnson/johnson-medicaid)
 - [:older_man: | **Perry Johnson Supported Medicare Cuts**](https://research-books.com/en/MI-GOV/perry-johnson/johnson-medicare)
-- [:shopping_cart: | **Perry Johnson Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/MI-GOV/perry-johnson/johnson-tariffs)
+- [:shopping_cart: | **Perry Johnson Backed Trump's Tariffs, Endangering Michigan’s Economy**](https://research-books.com/en/perry-johnson/johnson-tariffs)
 - [:apple: | **Perry Johnson Supported Cutting SNAP Benefits From Michigan Families**](https://research-books.com/en/MI-GOV/perry-johnson/johnson-food)
-- [:x: | **Perry Johnson Supported Trump’s Attacks On Social Security, Michigan Non-Profits, And Hard-Working Federal Employees**](https://research-books.com/en/MI-GOV/perry-johnson/johnson-doge)
+- [:x: | **Perry Johnson Supported Trump’s Attacks On Social Security, Michigan Non-Profits, And Hard-Working Federal Employees**](https://research-books.com/en/perry-johnson/johnson-doge)
 - [:mechanic: | **Perry Johnson Opposed Protecting Michigan Clean Energy Jobs**](https://research-books.com/en/MI-GOV/perry-johnson/johnson-CleanEnergy)
-- [:woman: | **Perry Johnson Was An Anti-Abortion Extremist**](https://research-books.com/en/MI-GOV/perry-johnson/johnson-abortion)
+- [:woman: | **Perry Johnson Was An Anti-Abortion Extremist**](https://research-books.com/en/perry-johnson/johnson-abortion)
 {.links-list}
 
 ## Perry Johnson Used His Power To Benefit The Powerful And Himself
 
-- [:sos: | **Perry Johnson Sowed Distrust In The 2020 Election**](https://research-books.com/en/MI-GOV/perry-johnson/johnson-2020)
+- [:sos: | **Perry Johnson Sowed Distrust In The 2020 Election**](https://research-books.com/en/perry-johnson/johnson-2020)
 
-- [:ballot_box: | **Perry Johnson Submitted Fraudulent Petition Signatures During His 2022 Gubernatorial Bid**](https://research-books.com/en/MI-GOV/perry-johnson/johnson-BallotFraud)
+- [:ballot_box: | **Perry Johnson Submitted Fraudulent Petition Signatures During His 2022 Gubernatorial Bid**](https://research-books.com/en/perry-johnson/johnson-BallotFraud)
 {.links-list}
