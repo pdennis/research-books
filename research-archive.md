@@ -2,7 +2,7 @@
 title: Research Archive
 description: 
 published: true
-date: 2026-11-19T19:54:50.613Z
+date: 2026-11-19T19:55:33.944Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T17:56:21.853Z
