@@ -2,7 +2,7 @@
 title: Michael Whatley 
 description: 
 published: true
-date: 2026-10-02T19:03:33.399Z
+date: 2026-11-19T19:45:49.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T23:14:18.514Z
@@ -127,19 +127,19 @@ Whatley [supported](https://www.foxnews.com/politics/rnc-chair-says-big-beautif
 # Issue Back-ups
 
 ## Michael Whatley Supported Policies That Hurt North Carolinians 
--   [:pill:**Whatley Supported Devastating Health Care Cuts**](/northcarolina-senate/Michael-Whatley/Health-Cuts)
--   [:green_apple:**Whatley Supported Taking Away Food Assistance From North Carolinians**](/northcarolina-senate/Michael-Whatley/SNAP)
--   [:hospital:**Whatley Opposed Expanding Healthcare For North Carolina**](/northcarolina-senate/Michael-Whatley/ACA)
--   [:money_with_wings:**Whatley Supported Tariffs That Placed North Carolina's Economy At Risk**](/northcarolina-senate/Michael-Whatley/Tariffs)
--   [:bulb:**Whatley Supported Cuts To Clean Energy Jobs**](/northcarolina-senate/Michael-Whatley/Clean-Energy)
-- [:bomb:**Whatley Supported War In Iran Which Caused Skyrocketting Gas And Fertilizer Prices**](/northcarolina-senate/Michael-Whatley/Iran)
-- [:woman:**Whatley’s Extreme Anti-Choice Views Restricted North Carolina Women Right To Choose**](/northcarolina-senate/Michael-Whatley/abortion)
-- [:moneybag:**Whatley Defended Cuts That Threatened North Carolina's Economy**](/northcarolina-senate/Michael-Whatley/DOGE)
-- [:ocean: **Whatley Supported Slashing FEMA As Western North Carolina Needs Support**](/northcarolina-senate/Michael-Whatley/FEMA)
-- [:electric_plug:**Whatley Stood To Profit From The Data Center Buildout**](/northcarolina-senate/Michael-Whatley/Data-Centers)
+-   [:pill:**Whatley Supported Devastating Health Care Cuts**](/Michael-Whatley/Health-Cuts)
+-   [:green_apple:**Whatley Supported Taking Away Food Assistance From North Carolinians**](/Michael-Whatley/SNAP)
+-   [:hospital:**Whatley Opposed Expanding Healthcare For North Carolina**](/Michael-Whatley/ACA)
+-   [:money_with_wings:**Whatley Supported Tariffs That Placed North Carolina's Economy At Risk**](/Michael-Whatley/Tariffs)
+-   [:bulb:**Whatley Supported Cuts To Clean Energy Jobs**](/Michael-Whatley/Clean-Energy)
+- [:bomb:**Whatley Supported War In Iran Which Caused Skyrocketting Gas And Fertilizer Prices**](/Michael-Whatley/Iran)
+- [:woman:**Whatley’s Extreme Anti-Choice Views Restricted North Carolina Women Right To Choose**](/Michael-Whatley/abortion)
+- [:moneybag:**Whatley Defended Cuts That Threatened North Carolina's Economy**](/Michael-Whatley/DOGE)
+- [:ocean: **Whatley Supported Slashing FEMA As Western North Carolina Needs Support**](/Michael-Whatley/FEMA)
+- [:electric_plug:**Whatley Stood To Profit From The Data Center Buildout**](/Michael-Whatley/Data-Centers)
 {.links-list}
 ## Michael Whatley Was A Failed DC Insider
--   [:moneybag:**Whatley Was A DC Insider And Lobbyist**](/northcarolina-senate/Michael-Whatley/Swamp)
--   [:cyclone:**Whatley Failed As Hurricane Recovery Czar**](/northcarolina-senate/Michael-Whatley/Hurricane)
-- [:triangular_flag_on_post:**Whatley Elevated A Convicted Child Sex Offender**](/northcarolina-senate/Michael-Whatley/West-Jr)
+-   [:moneybag:**Whatley Was A DC Insider And Lobbyist**](/Michael-Whatley/Swamp)
+-   [:cyclone:**Whatley Failed As Hurricane Recovery Czar**](/Michael-Whatley/Hurricane)
+- [:triangular_flag_on_post:**Whatley Elevated A Convicted Child Sex Offender**](/Michael-Whatley/West-Jr)
 {.links-list}
