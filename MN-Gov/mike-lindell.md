@@ -2,7 +2,7 @@
 title: Mike Lindell
 description: 
 published: true
-date: 2026-11-19T01:43:33.666Z
+date: 2026-11-19T01:44:56.456Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:32:31.557Z
