@@ -2,7 +2,7 @@
 title: Garrett Mason
 description: 
 published: true
-date: 2026-05-12T21:51:19.414Z
+date: 2026-11-19T01:21:19.296Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T15:38:56.727Z
