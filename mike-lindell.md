@@ -2,7 +2,7 @@
 title: Mike Lindell
 description: 
 published: true
-date: 2026-11-19T01:48:05.042Z
+date: 2026-11-19T01:49:36.838Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:32:31.557Z
@@ -95,7 +95,7 @@ Mike Lindell, [pillow salesman](https://www.pbs.org/newshour/politics/mypillow-f
 - [:hospital: *LindellTV Supported Devastating Cuts To Medicaid And The Affordable Care Act*](/MN-Gov/mike-lindell/lindell-medicaid)
 - [:older_man: *LindellTV Supported Massive Cuts To Medicare*](/mike-lindell/lindell-medicare) 
 - [:shopping_cart: *Lindell Supported Trump’s Stock Market-Crashing Tariffs*](/mike-lindell/lindell-tariffs)
-- [:apple: *LindellTV Supported Stripping SNAP Benefits From Minnesota Families*](MN-Gov/mike-lindell/lindell-snap)
+- [:apple: *LindellTV Supported Stripping SNAP Benefits From Minnesota Families*](https://research-books.com/en/MN-Gov/mike-lindell/lindell-snap)
 - [:x: *Lindell Won’t Protect Minnesota’s Public Services Or Social Security From Trump*](https://research-books.com/en/mike-lindell/lindell-doge)
 - [:mechanic: *LindellTV Opposed Clean Energy Tax Credits That Supported Minnesota Jobs*](/mike-lindell/lindell-clean-energy)
 - [:woman: *Lindell Was An Anti-Abortion Extremist*](/mike-lindell/lindell-abortion)
