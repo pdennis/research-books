@@ -2,7 +2,7 @@
 title: Hyde-Smith Supported Anti-Abortion Policies 
 description: 
 published: true
-date: 2026-06-18T15:39:56.236Z
+date: 2026-11-19T19:37:15.141Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-18T15:39:34.068Z
