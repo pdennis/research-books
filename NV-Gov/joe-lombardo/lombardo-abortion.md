@@ -2,7 +2,7 @@
 title: Joe Lombardo On Abortion
 description: 
 published: true
-date: 2025-12-21T16:41:57.443Z
+date: 2026-11-19T16:40:44.094Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-10T21:54:56.780Z
