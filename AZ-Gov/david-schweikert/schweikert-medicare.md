@@ -2,7 +2,7 @@
 title: David Schweikert On Medicare
 description: 
 published: true
-date: 2025-12-17T16:59:53.977Z
+date: 2026-11-19T17:41:51.802Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T18:51:04.276Z
