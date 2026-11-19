@@ -2,7 +2,7 @@
 title: Chris Carr Was Silent On Trump's Tariffs
 description: 
 published: true
-date: 2025-12-22T16:50:12.818Z
+date: 2026-11-19T03:02:06.087Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T15:49:59.327Z
