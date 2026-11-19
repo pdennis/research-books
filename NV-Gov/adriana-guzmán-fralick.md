@@ -2,7 +2,7 @@
 title: Adriana Guzmán Fralick
 description: 
 published: true
-date: 2026-10-20T18:50:21.541Z
+date: 2026-11-19T16:41:47.009Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-12T20:03:16.855Z
