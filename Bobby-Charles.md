@@ -2,7 +2,7 @@
 title: Robert "Bobby" Charles
 description: 
 published: true
-date: 2026-11-19T01:13:59.327Z
+date: 2026-11-19T01:17:14.458Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-23T20:54:59.829Z
@@ -87,19 +87,19 @@ Bobby Charles supported Trump’s “One Big Beautiful Bill,” backing health c
 
 ## Bobby Charles’ Policies Have Hurt Everyday People
 
-- [:hospital: | **Bobby Charles Supported Devastating Health Care Cuts**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-medicaid)
-- [:older_man: | **Bobby Charles Supported Massive Cuts To Medicare**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-medicare)
-- [:apple: | **Bobby Charles Supported Stripping SNAP Benefits From Maine Families**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-food)
-- [:x: | **Bobby Charles Won’t Protect Maine’s Nonprofits, Services, Or Social Security From Trump**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-doge)
-- [:money_with_wings: | **Bobby Charles Supported Increases To Energy Costs In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-energyprices)
-- [:woman: | **Bobby Charles Was An Anti-Abortion Extremist**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-abortion)
-- [:rainbow_flag: | **Bobby Charles Promoted A Debunked Litter Box Hoax And Mocked LGBTQ+ Mainers**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-lgbtq)
+- [:hospital: | **Bobby Charles Supported Devastating Health Care Cuts**](https://research-books.com/en/Bobby-Charles/charles-medicaid)
+- [:older_man: | **Bobby Charles Supported Massive Cuts To Medicare**](https://research-books.com/en/Bobby-Charles/charles-medicare)
+- [:apple: | **Bobby Charles Supported Stripping SNAP Benefits From Maine Families**](https://research-books.com/en/Bobby-Charles/charles-food)
+- [:x: | **Bobby Charles Won’t Protect Maine’s Nonprofits, Services, Or Social Security From Trump**](https://research-books.com/en/Bobby-Charles/charles-doge)
+- [:money_with_wings: | **Bobby Charles Supported Increases To Energy Costs In Maine**](https://research-books.com/en/Bobby-Charles/charles-energyprices)
+- [:woman: | **Bobby Charles Was An Anti-Abortion Extremist**](https://research-books.com/en/Bobby-Charles/charles-abortion)
+- [:rainbow_flag: | **Bobby Charles Promoted A Debunked Litter Box Hoax And Mocked LGBTQ+ Mainers**](https://research-books.com/en/Bobby-Charles/charles-lgbtq)
 {.links-list}
 
 
 ## Bobby Charles Used His Influence To Benefit The Powerful
 
-- [:x: | **Bobby Charles Repeatedly Called For Federal Agents At Maine Polling Locations And Promoted Election Conspiracy Theories**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-voting)
-- [:sos: | **Bobby Charles Called For The Closure Of The Northern Border And A Replica Of The Failed “Alligator Alcatraz” In Maine**](https://research-books.com/en/ME-GOV/Bobby-Charles/charles-immigration)
-- [:classical_building: | **Bobby Charles’ Firm Lobbied For A Pharmaceutical Company That Pushed For Over-The-Counter Sales Of A Drug The DEA Said Could Be Used To Manufacture Meth**](https://research-books.com/ME-GOV/Bobby-Charles/charles-lobbying)
+- [:x: | **Bobby Charles Repeatedly Called For Federal Agents At Maine Polling Locations And Promoted Election Conspiracy Theories**](https://research-books.com/en/Bobby-Charles/charles-voting)
+- [:sos: | **Bobby Charles Called For The Closure Of The Northern Border And A Replica Of The Failed “Alligator Alcatraz” In Maine**](https://research-books.com/en/Bobby-Charles/charles-immigration)
+- [:classical_building: | **Bobby Charles’ Firm Lobbied For A Pharmaceutical Company That Pushed For Over-The-Counter Sales Of A Drug The DEA Said Could Be Used To Manufacture Meth**](https://research-books.com/Bobby-Charles/charles-lobbying)
 {.links-list}
