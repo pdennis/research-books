@@ -2,7 +2,7 @@
 title: State Level Races in Arizona
 description: 
 published: true
-date: 2026-11-19T17:36:31.947Z
+date: 2026-11-19T17:39:39.857Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T21:00:26.802Z
