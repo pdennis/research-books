@@ -2,7 +2,7 @@
 title: Chris Carr On SNAP Cuts
 description: 
 published: true
-date: 2025-12-22T16:54:40.276Z
+date: 2026-11-19T03:01:59.213Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T15:52:35.384Z
