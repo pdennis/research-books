@@ -2,7 +2,7 @@
 title: Karrin Taylor Robson Supported Trump's Tariffs
 description: 
 published: true
-date: 2025-12-21T16:44:26.129Z
+date: 2026-11-19T17:37:46.265Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T17:00:51.941Z
