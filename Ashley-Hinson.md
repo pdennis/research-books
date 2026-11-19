@@ -2,7 +2,7 @@
 title: Ashley Hinson
 description: 
 published: true
-date: 2026-11-19T18:39:11.294Z
+date: 2026-11-19T18:42:17.545Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-18T21:24:58.097Z
@@ -140,7 +140,7 @@ Ashley Hinson betrayed Iowans by voting for devastating healthcare cuts, ripping
 
 - [:hammer:**Hinson Opposed Infrastructure Spending That Supported Iowans**](/Ashley-Hinson/Infrastructure)
 
-- [:potable_water:**Hinson Opposed Keeping Iowa’s Drinking Water Clean**](/iowa-senate/Ashley-Hinson/drinking-water) 
+- [:potable_water:**Hinson Opposed Keeping Iowa’s Drinking Water Clean**](/Ashley-Hinson/drinking-water) 
 
 - [:older_woman:**Hinson Was A Threat To Social Security**](/Ashley-Hinson/Social-Security)
 
