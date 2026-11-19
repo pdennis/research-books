@@ -2,7 +2,7 @@
 title: Karrin Taylor Robson's Attacks On Health Care
 description: 
 published: true
-date: 2025-12-21T16:43:55.333Z
+date: 2026-11-19T17:38:01.834Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-09T16:58:56.798Z
