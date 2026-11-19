@@ -2,7 +2,7 @@
 title: Tom Tiffany
 description: 
 published: true
-date: 2026-09-21T16:25:17.929Z
+date: 2026-11-19T17:12:23.593Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T15:42:47.782Z
@@ -125,26 +125,26 @@ Tom Tiffany built his career claiming to stand up for Wisconsin families but vot
 # Issue Back-Ups
 
 ## Tom Tiffany's Policies Have Hurt Everyday People
-- [:hospital:  **Tiffany Supported Efforts To Cut Medicaid And Threaten Wisconsin’s Access To Health Care**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-medicaid)
-- [:older_man: **Tiffany Voted For Medicare Cuts**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Medicare)
-- [:shopping_cart: **Tiffany Backed Trump's Tariffs, Endangering Wisconsin’s Economy**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Tariffs)
-- [:apple: **Tiffany Cast Votes To Cut SNAP Benefits From Wisconsin Families**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Food)
-- [:x: **Tiffany Won't Defend Wisconsin Jobs Or Social Security From Trump**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-DOGE)
-- [:mechanic: **Tiffany Voted Against Protecting Wisconsin’s Clean Energy Jobs**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-CleanEnergy)
-- [:corn: **Tiffany Failed Wisconsin Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-E15)
-- [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Abortion)
-- [:fuelpump: **Tiffany Supported The War In Iran As The War Led To Increased Costs In Wisconsin**](https://research-books.com/WI-GOV/Tom-Tiffany/tiffany-iran)
+- [:hospital:  **Tiffany Supported Efforts To Cut Medicaid And Threaten Wisconsin’s Access To Health Care**](https://research-books.com/en/Tom-Tiffany/Tiffany-medicaid)
+- [:older_man: **Tiffany Voted For Medicare Cuts**](https://research-books.com/en/Tom-Tiffany/Tiffany-Medicare)
+- [:shopping_cart: **Tiffany Backed Trump's Tariffs, Endangering Wisconsin’s Economy**](https://research-books.com/en/Tom-Tiffany/Tiffany-Tariffs)
+- [:apple: **Tiffany Cast Votes To Cut SNAP Benefits From Wisconsin Families**](https://research-books.com/en/Tom-Tiffany/Tiffany-Food)
+- [:x: **Tiffany Won't Defend Wisconsin Jobs Or Social Security From Trump**](https://research-books.com/en/Tom-Tiffany/Tiffany-DOGE)
+- [:mechanic: **Tiffany Voted Against Protecting Wisconsin’s Clean Energy Jobs**](https://research-books.com/en/Tom-Tiffany/Tiffany-CleanEnergy)
+- [:corn: **Tiffany Failed Wisconsin Farmers And Failed To Pass Year-Round E15 In Congress**](https://research-books.com/en/Tom-Tiffany/tiffany-E15)
+- [:woman: **Tiffany Was An Anti-Abortion Extremist**](https://research-books.com/en/Tom-Tiffany/Tiffany-Abortion)
+- [:fuelpump: **Tiffany Supported The War In Iran As The War Led To Increased Costs In Wisconsin**](https://research-books.com/Tom-Tiffany/tiffany-iran)
 {.links-list}
 
 ## Tom Tiffany Used His Power To Benefit The Powerful 
 
-- [:eyes:  **It Took Tiffany 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-Epstein)
-- [:sos: **Tiffany Was An Election Denier Who Supported Overturning The 2020 Election**](https://research-books.com/en/WI-GOV/Tom-Tiffany/Tiffany-2020)
-- [:money_with_wings: **Tom Tiffany Campaigned On His Small Business “Success” While He And His Businesses Went Years Without Paying State Income Taxes**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-taxes)
+- [:eyes:  **It Took Tiffany 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/Tom-Tiffany/Tiffany-Epstein)
+- [:sos: **Tiffany Was An Election Denier Who Supported Overturning The 2020 Election**](https://research-books.com/en/Tom-Tiffany/Tiffany-2020)
+- [:money_with_wings: **Tom Tiffany Campaigned On His Small Business “Success” While He And His Businesses Went Years Without Paying State Income Taxes**](https://research-books.com/en/Tom-Tiffany/tiffany-taxes)
 {.links-list}
 
 ## Tom Tiffany Embraced Far-Right Extremists
-- [:exclamation:  **Tiffany Surrounded Himself With Figures Tied To Antisemitic Rhetoric, Election Conspiracies, And Discrimination**](https://research-books.com/en/WI-GOV/Tom-Tiffany/tiffany-extremists)
+- [:exclamation:  **Tiffany Surrounded Himself With Figures Tied To Antisemitic Rhetoric, Election Conspiracies, And Discrimination**](https://research-books.com/en/Tom-Tiffany/tiffany-extremists)
 {.links-list}
 
 # Key Votes
