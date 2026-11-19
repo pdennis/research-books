@@ -2,7 +2,7 @@
 title: Research Archive
 description: 
 published: true
-date: 2026-11-19T19:55:33.944Z
+date: 2026-11-19T20:53:53.892Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-19T17:56:21.853Z
@@ -165,6 +165,66 @@ dateCreated: 2026-11-19T17:56:21.853Z
 - [***Mike Lawler***](https://research-books.com/mike-lawler)
 
 {.links-list}
+## Ohio :wrench: 
+
+- [***Jon Husted***](https://research-books.com/Jon-Husted)
+- [***Max Miller***](https://research-books.com/max-miller)
+- [***Vivek Ramaswamy***](https://research-books.com/en/vivek-ramaswamy)
+
+{.links-list}
+
+## Pennsylvania :bell: 
+
+- [***Jon Husted***](https://research-books.com/rob-bresnahan)
+- [***Max Miller***](https://research-books.com/en/stacy-garrity)
+- [***Ryan Mackenzie***](https://research-books.com/ryan-mackenzie)
+- [***Doug Mastriano***](https://research-books.com/en/doug-mastriano)
+{.links-list}
+
+
+## South Carolina :palm_tree:
+
+- [***Darline Graham***](https://research-books.com/darline-graham)
+{.links-list}
+
+## Tennessee :musical_note:
+
+- [***Andy Ogles***](https://research-books.com/andy-ogles)
+{.links-list}
+
+## Texas :cow:
+
+- [***John Cornyn***](https://research-books.com/john-cornyn)
+- [***Brandon Herrera***](https://research-books.com/en/brandon-herrera)
+- [***Ken Paxton***](https://research-books.com/en/Ken-Paxton)
+{.links-list}
+
+## Virginia :heart:
+
+- [***Winsome Earle-Sears***](https://research-books.com/winsome-earle-sears)
+- [***Jen Kiggans***](https://research-books.com/jen-kiggans)
+- [***Jason Miyares***](https://research-books.com/jason-miyares)
+- [***John Reid***](https://research-books.com/John-reid)
+{.links-list}
+
+## Wisconsin :cheese:
+
+- [***Maria Lazar***](https://research-books.com/en/Maria-Lazar)
+- [***Bryan Steil***](https://research-books.com/bryan-steil)
+- [***Tom Tiffany***](https://research-books.com/en/Tom-Tiffany)
+- [***Eric Toney***](https://research-books.com/en/eric-toney)
+{.links-list}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
