@@ -2,7 +2,7 @@
 title: Paxton Supported Taking Food Assistance From Texans
 description: 
 published: true
-date: 2026-05-27T21:31:52.643Z
+date: 2026-11-19T20:44:32.819Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-27T21:31:33.080Z
