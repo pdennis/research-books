@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy
 description: 
 published: true
-date: 2026-11-19T01:04:27.495Z
+date: 2026-11-19T01:09:30.090Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T13:17:44.471Z
@@ -112,23 +112,23 @@ Former failed presidential candidate and extremist Vivek Ramaswamy sought to bri
 
 ## Vivek Ramaswamy Policies Have Hurt Everyday People
 
-- [:hospital: ***Vivek Ramaswamy Supported Restricting Medicaid And Opposed The Affordable Care Act***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-medicaid)
-- [:shopping_cart: ***Vivek Ramaswamy Backed Trump's Reciprocal Tariffs, Endangering Ohio’s Economy***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-tariffs)
-- [:apple: ***Vivek Ramaswamy Supported Cutting SNAP Benefits From Ohio Families***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-food)
-- [:x: ***Vivek Ramaswamy Was A Co-Architect Of Trump’s DOGE***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-DOGE)
-- [:woman: ***Vivek Ramaswamy Was An Anti-Abortion Extremist***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-abortion)
+- [:hospital: ***Vivek Ramaswamy Supported Restricting Medicaid And Opposed The Affordable Care Act***](https://research-books.com/en/vivek-ramaswamy/ramaswamy-medicaid)
+- [:shopping_cart: ***Vivek Ramaswamy Backed Trump's Reciprocal Tariffs, Endangering Ohio’s Economy***](https://research-books.com/en/vivek-ramaswamy/ramaswamy-tariffs)
+- [:apple: ***Vivek Ramaswamy Supported Cutting SNAP Benefits From Ohio Families***](https://research-books.com/en/vivek-ramaswamy/ramaswamy-food)
+- [:x: ***Vivek Ramaswamy Was A Co-Architect Of Trump’s DOGE***](https://research-books.com/en/vivek-ramaswamy/ramaswamy-DOGE)
+- [:woman: ***Vivek Ramaswamy Was An Anti-Abortion Extremist***](https://research-books.com/en/vivek-ramaswamy/ramaswamy-abortion)
 {.links-list}
 
 ## Vivek Ramaswamy Had Ties To Extremists And Conspiracy Theories 
 
-- [:ballot_box: ***Vivek Ramaswamy Was An Election Denier And Entertained January 6 Conspiracy Theories***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-biglie)
-- [:money_with_wings: ***Vivek Ramaswamy Accepted A Donation From A Notorious Islamophobe***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-donation-islamophobe)
-- [:family_woman_girl: ***Vivek Ramaswamy Supported Alleged Domestic Abuser Max Miller***](/OH-Gov/vivek-ramaswamy/ramaswamy-max-miller)
-- [:clapper: ***Vivek Ramaswamy’s Campaign Ad Misled Voters And Featured A GOP Activist Who Promoted Political Violence***](/OH-Gov/vivek-ramaswamy/ramaswamy-caudill-ad)
+- [:ballot_box: ***Vivek Ramaswamy Was An Election Denier And Entertained January 6 Conspiracy Theories***](https://research-books.com/en/vivek-ramaswamy/ramaswamy-biglie)
+- [:money_with_wings: ***Vivek Ramaswamy Accepted A Donation From A Notorious Islamophobe***](https://research-books.com/en/vivek-ramaswamy/ramaswamy-donation-islamophobe)
+- [:family_woman_girl: ***Vivek Ramaswamy Supported Alleged Domestic Abuser Max Miller***](/vivek-ramaswamy/ramaswamy-max-miller)
+- [:clapper: ***Vivek Ramaswamy’s Campaign Ad Misled Voters And Featured A GOP Activist Who Promoted Political Violence***](/vivek-ramaswamy/ramaswamy-caudill-ad)
 {.links-list}
 
 ## Vivek Ramaswamy Used His Power And Wealth To Benefit Himself
-- [:moneybag: ***Vivek Ramaswamy Took Luxury Trips While Ohioans Struggled With Higher Costs And Extreme Heat***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-luxury-trip)
-- [:sos: ***Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-wikipedia)
-- [:syringe: ***Vivek Ramaswamy Stood To Reap Windfall From Lawsuits Over The COVID-19 Vaccine Technology Which He Attacked In Public***](https://research-books.com/en/OH-Gov/vivek-ramaswamy/ramaswamy-covid-vaccine)
+- [:moneybag: ***Vivek Ramaswamy Took Luxury Trips While Ohioans Struggled With Higher Costs And Extreme Heat***](https://research-books.com/en/vivek-ramaswamy/ramaswamy-luxury-trip)
+- [:sos: ***Vivek Ramaswamy Paid A Wikipedia Editor To Hide His Record From His Base***](https://research-books.com/en/vivek-ramaswamy/ramaswamy-wikipedia)
+- [:syringe: ***Vivek Ramaswamy Stood To Reap Windfall From Lawsuits Over The COVID-19 Vaccine Technology Which He Attacked In Public***](https://research-books.com/en/vivek-ramaswamy/ramaswamy-covid-vaccine)
 {.links-list}
