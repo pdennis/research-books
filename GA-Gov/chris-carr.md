@@ -2,7 +2,7 @@
 title: Chris Carr
 description: 
 published: true
-date: 2026-01-23T19:44:07.454Z
+date: 2026-11-19T03:03:00.531Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:40:55.761Z
@@ -91,17 +91,17 @@ Chris Carr supported federal legislation that stripped health care from thousand
 
 ## Chris Carr's Policies Have Hurt Everyday People
 
-- [:hospital:*Carr Supported Devastating Health Care Cuts*](https://research-books.com/en/GA-Gov/chris-carr/carr-medicaid)
-- [:older_man:*Carr Supported Massive Cuts To Medicare*](https://research-books.com/en/GA-Gov/chris-carr/carr-medicare)
-- [:shopping_cart:*Carr Was Silent On Trump’s Tariffs As They Threatened Georgia’s Economy*](https://research-books.com/en/GA-Gov/chris-carr/carr-tariffs)
-- [:apple:*Carr Supported Stripping SNAP Benefits From Georgia Families*](https://research-books.com/en/GA-Gov/chris-carr/carr-snap)
-- [:x:*Carr Stood By While Trump Attacked Social Security And Fired Hard-Working Georgians*](https://research-books.com/en/GA-Gov/chris-carr/carr-doge)
-- [:mechanic:*Carr Supported Legislation That Threatened Clean Energy Jobs In Georgia*](https://research-books.com/en/GA-Gov/chris-carr/carr-clean-energy) 
-- [:woman:*Carr Was An Anti-Abortion Extremist*](https://research-books.com/en/GA-Gov/chris-carr/carr-abortion)
+- [:hospital:*Carr Supported Devastating Health Care Cuts*](https://research-books.com/en/chris-carr/carr-medicaid)
+- [:older_man:*Carr Supported Massive Cuts To Medicare*](https://research-books.com/en/chris-carr/carr-medicare)
+- [:shopping_cart:*Carr Was Silent On Trump’s Tariffs As They Threatened Georgia’s Economy*](https://research-books.com/en/chris-carr/carr-tariffs)
+- [:apple:*Carr Supported Stripping SNAP Benefits From Georgia Families*](https://research-books.com/en/chris-carr/carr-snap)
+- [:x:*Carr Stood By While Trump Attacked Social Security And Fired Hard-Working Georgians*](https://research-books.com/en/chris-carr/carr-doge)
+- [:mechanic:*Carr Supported Legislation That Threatened Clean Energy Jobs In Georgia*](https://research-books.com/en/chris-carr/carr-clean-energy) 
+- [:woman:*Carr Was An Anti-Abortion Extremist*](https://research-books.com/en/chris-carr/carr-abortion)
 {.links-list}
 
 ## Chris Carr Used His Power To Benefit The Powerful
 
-- [:sos:*Carr Would Not Protect Georgians From Trump Deploying Federal Forces To Georgia’s Cities*](https://research-books.com/en/GA-Gov/chris-carr/carr-federalforces)
-- [:judge:*Carr Filed RICO Charges Against Protesters Without Having Authority To Under Georgia’s RICO Law*](https://research-books.com/en/GA-Gov/chris-carr/carr-rico)
+- [:sos:*Carr Would Not Protect Georgians From Trump Deploying Federal Forces To Georgia’s Cities*](https://research-books.com/en/chris-carr/carr-federalforces)
+- [:judge:*Carr Filed RICO Charges Against Protesters Without Having Authority To Under Georgia’s RICO Law*](https://research-books.com/en/chris-carr/carr-rico)
 {.links-list}
