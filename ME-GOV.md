@@ -2,14 +2,14 @@
 title: State Level Races In Maine
 description: 
 published: true
-date: 2026-11-19T01:13:24.095Z
+date: 2026-11-19T01:20:13.260Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-20T21:02:34.992Z
 ---
 
 ## Research Archive
-- [:elephant: **Bobby Charles**](/en/ME-GOV/Bobby-Charles)  Maine Republican who supported devastating health care cuts to fund tax breaks for the wealthy and repeatedly aligned with Trump's agenda to strip public benefits from Mainers.
+- [:elephant: **Bobby Charles**](/en/Bobby-Charles)  Maine Republican who supported devastating health care cuts to fund tax breaks for the wealthy and repeatedly aligned with Trump's agenda to strip public benefits from Mainers.
 
 {.links-list}
 
