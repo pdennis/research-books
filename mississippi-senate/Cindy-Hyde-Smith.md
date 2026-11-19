@@ -2,7 +2,7 @@
 title: Cindy Hyde-Smith 
 description: 
 published: true
-date: 2026-08-26T20:25:03.860Z
+date: 2026-11-19T19:39:26.967Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-23T19:41:42.848Z
@@ -133,29 +133,29 @@ Hyde-Smith betrayed Mississippians by cutting their healthcare, SNAP benefits, s
 
 ## Cindy Hyde-Smith Supported Policies That Hurt Mississippi
 
-- [🛒Hyde-Smith Supported Tariffs Which Harmed Mississippi’s Economy](/mississippi-senate/Cindy-Hyde-Smith/tariffs)
+- [🛒Hyde-Smith Supported Tariffs Which Harmed Mississippi’s Economy](/Cindy-Hyde-Smith/tariffs)
 
-- [:bomb:Hyde-Smith Supported Iran’s War Which Was Driving Up Gas And Fertilizer Prices](/mississippi-senate/Cindy-Hyde-Smith/Iran)
+- [:bomb:Hyde-Smith Supported Iran’s War Which Was Driving Up Gas And Fertilizer Prices](/Cindy-Hyde-Smith/Iran)
 
-- [:tractor:Hyde-Smith Took Donations From Big Fertilizer Companies While Farmers Were Struggling With Soaring Costs](/mississippi-senate/Cindy-Hyde-Smith/fertilizer)
+- [:tractor:Hyde-Smith Took Donations From Big Fertilizer Companies While Farmers Were Struggling With Soaring Costs](/Cindy-Hyde-Smith/fertilizer)
 
-- [:cow:Hyde-Smith Dismissed Concerns About The Rising Cost Of Beef](/mississippi-senate/Cindy-Hyde-Smith/Beef)
+- [:cow:Hyde-Smith Dismissed Concerns About The Rising Cost Of Beef](/Cindy-Hyde-Smith/Beef)
 
-- [:wrench:Hyde-Smith Opposed Infrastructure Spending That Supported Mississippians](/mississippi-senate/Cindy-Hyde-Smith/infrastructure)
+- [:wrench:Hyde-Smith Opposed Infrastructure Spending That Supported Mississippians](/Cindy-Hyde-Smith/infrastructure)
 
--   [:hospital:Hyde-Smith Opposed Access To Affordable Healthcare](https://research-books.com/mississippi-senate/Cindy-Hyde-Smith/healthcare)
+-   [:hospital:Hyde-Smith Opposed Access To Affordable Healthcare](https://research-books.com/Cindy-Hyde-Smith/healthcare)
 
--   [:apple:Hyde-Smith Slashed Mississippians’ Supplemental Nutrition Assistance And Threatened Mississippi Children With Food Insecurity](https://research-books.com/mississippi-senate/Cindy-Hyde-Smith/snap-cuts)
+-   [:apple:Hyde-Smith Slashed Mississippians’ Supplemental Nutrition Assistance And Threatened Mississippi Children With Food Insecurity](https://research-books.com/mississippi-senate/snap-cuts)
 
-- [:woman:Hyde-Smith Supported Anti-Abortion Policies](/mississippi-senate/Cindy-Hyde-Smith/abortion)
+- [:woman:Hyde-Smith Supported Anti-Abortion Policies](/Cindy-Hyde-Smith/abortion)
 
 {.links-list}
 
 ## Cindy Hyde-Smith Was Not Fit To Represent Mississippi
 
--   [:white_flag:Hyde-Smith Used Racially Insensitive Language And Embraced Confederate History](/mississippi-senate/Cindy-Hyde-Smith/Confederate)
+-   [:white_flag:Hyde-Smith Used Racially Insensitive Language And Embraced Confederate History](/Cindy-Hyde-Smith/Confederate)
 
--   [:police_car:Hyde-Smith Campaigned With A Sheriff Whose Office Contained An Alleged “Goon Squad”](/mississippi-senate/Cindy-Hyde-Smith/goon-squad)
+-   [:police_car:Hyde-Smith Campaigned With A Sheriff Whose Office Contained An Alleged “Goon Squad”](/Cindy-Hyde-Smith/goon-squad)
 
--   [:dollar:Hyde-Smith Voted To Protect Her Stock Portfolio](/mississippi-senate/Cindy-Hyde-Smith/stocks)
+-   [:dollar:Hyde-Smith Voted To Protect Her Stock Portfolio](/Cindy-Hyde-Smith/stocks)
 {.links-list}
