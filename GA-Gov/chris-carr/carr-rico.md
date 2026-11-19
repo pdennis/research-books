@@ -2,7 +2,7 @@
 title: Chris Carr On Georgia's Racketeer Influenced And Corrupt Organizations Act Law
 description: 
 published: true
-date: 2025-12-22T16:53:35.817Z
+date: 2026-11-19T03:01:19.284Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-17T16:03:09.852Z
