@@ -2,7 +2,7 @@
 title: David Schweikert On SNAP Cuts
 description: 
 published: true
-date: 2025-12-17T17:00:50.450Z
+date: 2026-11-19T17:41:30.173Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-08T20:04:39.639Z
