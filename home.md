@@ -2,7 +2,7 @@
 title: Research Books
 description: 
 published: true
-date: 2026-01-27T02:17:14.391Z
+date: 2026-11-19T16:37:12.130Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T14:53:15.605Z
@@ -33,6 +33,11 @@ dateCreated: 2025-05-04T14:53:15.605Z
     <a href="https://trumpresearchbook.com/" class="home-flex-child">
     <span class="icon">🦅</span>
     <span class="label">Executive</span>
+  </a>
+</a>
+    <a href="/research-archive" class="home-flex-child">
+    <span class="icon">📄</span>
+    <span class="label">Research Archive</span>
   </a>
 </div>
 
