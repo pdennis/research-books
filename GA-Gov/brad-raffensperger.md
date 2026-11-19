@@ -2,23 +2,11 @@
 title: Brad Raffensperger
 description: 
 published: true
-date: 2026-01-23T19:48:54.461Z
+date: 2026-11-19T03:05:48.785Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T16:14:10.238Z
 ---
-
-<details>
-<summary><strong>📺 - Click here for our Example Content Library</strong></summary>
-COMING SOON!
-</details>
-
-
-<details>
-<summary><strong>📺 - Click here for Notable Clips and Visuals
-  </strong></summary>
-COMING SOON!
-</details>
 
 # How To Win Against Brad Raffensperger
 
