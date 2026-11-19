@@ -2,7 +2,7 @@
 title: Brian Strickland
 description: 
 published: true
-date: 2026-09-30T18:03:26.732Z
+date: 2026-11-19T03:10:16.986Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-24T20:12:33.873Z
@@ -77,25 +77,25 @@ Brian Strickland’s tenure in the Georgia General Assembly reflected a record o
 # Issue Back-Ups
 ## Brian Strickland’s Policies Have Hurt Everyday People
 
-- [:hospital: | **Brian Strickland Repeatedly Voted To Make It Harder For Georgia To Expand Medicaid**](https://research-books.com/en/GA-Gov/brian-strickland/strickland-medicaid)
-- [:woman: | **Brian Strickland Was An Anti-Abortion Extremist**](https://research-books.com/en/GA-Gov/brian-strickland/strickland-abortion)
-- [:pencil: | **Brian Strickland Supported Defunding Georgia’s Public Schools**](https://research-books.com/en/GA-Gov/brian-strickland/strickland-education)
-- [:apple: | **Brian Strickland Supported Illegal Drug Tests For SNAP Recipients**](https://research-books.com/en/GA-Gov/brian-strickland/strickland-food)
+- [:hospital: | **Brian Strickland Repeatedly Voted To Make It Harder For Georgia To Expand Medicaid**](https://research-books.com/en/brian-strickland/strickland-medicaid)
+- [:woman: | **Brian Strickland Was An Anti-Abortion Extremist**](https://research-books.com/en/brian-strickland/strickland-abortion)
+- [:pencil: | **Brian Strickland Supported Defunding Georgia’s Public Schools**](https://research-books.com/en/brian-strickland/strickland-education)
+- [:apple: | **Brian Strickland Supported Illegal Drug Tests For SNAP Recipients**](https://research-books.com/en/brian-strickland/strickland-food)
 {.links-list}
 
 ## Brian Strickland Threatened Georgians’ Fundamental Rights
 
-- [:rainbow: | **Brian Strickland Supported Denying Services Or Employment To LGBTQ+ Georgians**](https://research-books.com/en/GA-Gov/brian-strickland/strickland-lgbtq)
-- [:ballot_box: | **Brian Strickland Supported Voter Suppression Laws**](https://research-books.com/en/GA-Gov/brian-strickland/strickland-votingrights)
-- [⚖️ | **Brian Strickland Supported “Crack Downs” On The Right To Protest**](https://research-books.com/en/GA-Gov/brian-strickland/strickland-protests)
+- [:rainbow: | **Brian Strickland Supported Denying Services Or Employment To LGBTQ+ Georgians**](https://research-books.com/en/brian-strickland/strickland-lgbtq)
+- [:ballot_box: | **Brian Strickland Supported Voter Suppression Laws**](https://research-books.com/en/brian-strickland/strickland-votingrights)
+- [⚖️ | **Brian Strickland Supported “Crack Downs” On The Right To Protest**](https://research-books.com/en/brian-strickland/strickland-protests)
 {.links-list}
 
 ## Brian Strickland Would Allow Trump To Overstep His Authority 
 
-- [:sos: | **Brian Strickland Would Allow Trump To Deploy Federal Forces Against Georgians**](https://research-books.com/en/GA-Gov/brian-strickland/strickland-federalforces)
+- [:sos: | **Brian Strickland Would Allow Trump To Deploy Federal Forces Against Georgians**](https://research-books.com/en/brian-strickland/strickland-federalforces)
 {.links-list}
 
 # Key Votes
 
-- [:white_check_mark: | **Brian Strickland’s Key Votes As A Member Of The Georgia General Assembly**](https://research-books.com/en/GA-Gov/brian-strickland/strickland-votes)
+- [:white_check_mark: | **Brian Strickland’s Key Votes As A Member Of The Georgia General Assembly**](https://research-books.com/en/brian-strickland/strickland-votes)
 {.links-list}
