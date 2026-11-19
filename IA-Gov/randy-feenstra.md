@@ -2,7 +2,7 @@
 title: Randy Feenstra
 description: 
 published: true
-date: 2026-05-22T22:24:12.673Z
+date: 2026-11-19T01:58:13.125Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-12T14:43:18.333Z
@@ -114,24 +114,24 @@ Randy Feenstra built his career claiming to fight for Iowan families but voted t
 # Issue Back-Ups
 
 ## Randy Feenstra's Policies Have Hurt Everyday People
-- [:hospital: | **Randy Feenstra Supported Efforts To Cut Medicaid And Threaten Iowans' Access To Health Care**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-medicaid)
-- [:older_man: | **Randy Feenstra Voted For Medicare Cuts**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-medicare)
-- [:shopping_cart: | **Randy Feenstra Backed Trump's Tariffs, Endangering Iowa’s Economy**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-tariffs)
-- [:apple: | **Randy Feenstra Cast Votes To Cut SNAP Benefits From Iowa Families**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-food)
-- [:x: | **Randy Feenstra Won't Defend Iowans’ Jobs Or Social Security From Trump**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-doge)
-- [:mechanic: | **Randy Feenstra Voted Against Protecting Iowa’s Clean Energy Jobs**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-cleanenergy)
-- [:corn: | **Randy Feenstra Failed Farmers And Failed To Pass Year-Round E15 In Congress**](/IA-Gov/randy-feenstra/feenstra-e15)
-- [:woman: | **Randy Feenstra Was An Anti-Abortion Extremist**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-abortion)
-- [:fuelpump: **Randy Feenstra Supported The War In Iran As The War Led To Increased Costs In Iowa**](https://research-books.com/IA-Gov/randy-feenstra/feenstra-iran)
+- [:hospital: | **Randy Feenstra Supported Efforts To Cut Medicaid And Threaten Iowans' Access To Health Care**](https://research-books.com/en/randy-feenstra/feenstra-medicaid)
+- [:older_man: | **Randy Feenstra Voted For Medicare Cuts**](https://research-books.com/en/randy-feenstra/feenstra-medicare)
+- [:shopping_cart: | **Randy Feenstra Backed Trump's Tariffs, Endangering Iowa’s Economy**](https://research-books.com/en/randy-feenstra/feenstra-tariffs)
+- [:apple: | **Randy Feenstra Cast Votes To Cut SNAP Benefits From Iowa Families**](https://research-books.com/en/randy-feenstra/feenstra-food)
+- [:x: | **Randy Feenstra Won't Defend Iowans’ Jobs Or Social Security From Trump**](https://research-books.com/en/randy-feenstra/feenstra-doge)
+- [:mechanic: | **Randy Feenstra Voted Against Protecting Iowa’s Clean Energy Jobs**](https://research-books.com/en/randy-feenstra/feenstra-cleanenergy)
+- [:corn: | **Randy Feenstra Failed Farmers And Failed To Pass Year-Round E15 In Congress**](/randy-feenstra/feenstra-e15)
+- [:woman: | **Randy Feenstra Was An Anti-Abortion Extremist**](https://research-books.com/en/randy-feenstra/feenstra-abortion)
+- [:fuelpump: **Randy Feenstra Supported The War In Iran As The War Led To Increased Costs In Iowa**](https://research-books.com/randy-feenstra/feenstra-iran)
 {.links-list}
 
 ## Randy Feenstra Used His Power To Benefit The Powerful
 
-- [:eyes: | **It Took Randy Feenstra 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-epstein)
-- [:grimacing: | **Randy Feenstra Advanced Election Denial Claims**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-2020)
+- [:eyes: | **It Took Randy Feenstra 11 Months To Vote To Release The Epstein Files, And He Did Only After Trump Signaled To House Republicans That He Approved**](https://research-books.com/en/randy-feenstra/feenstra-epstein)
+- [:grimacing: | **Randy Feenstra Advanced Election Denial Claims**](https://research-books.com/en/randy-feenstra/feenstra-2020)
 {.links-list}
 
 # Key Votes
 
-- [:white_check_mark: | **Randy Feenstra's Key Votes As A Member Of Congress**](https://research-books.com/en/IA-Gov/randy-feenstra/feenstra-votes)
+- [:white_check_mark: | **Randy Feenstra's Key Votes As A Member Of Congress**](https://research-books.com/en/randy-feenstra/feenstra-votes)
 {.links-list}
