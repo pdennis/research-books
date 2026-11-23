@@ -2,7 +2,7 @@
 title: Rudy Yakym
 description: 
 published: false
-date: 2026-11-23T14:07:10.253Z
+date: 2026-11-23T16:15:02.776Z
 tags: 
 editor: markdown
 dateCreated: 2026-11-12T17:36:06.676Z
@@ -36,7 +36,7 @@ Rudy Yakym is just another loyal foot soldier for President Trump’s agenda tha
 **Message:** Yakym voted to make it harder for Hoosier families to put food on the table, all to give tax breaks to the wealthy.
 ### **Yakym Backed Trump’s Costly Iran War As Prices Surged For Hoosiers**
 - Yakym celebrated the U.S. strikes on Iran as [“a bold and decisive step”](https://x.com/RepRudyYakym/status/2027734001398489553?s=20) and voted five times [against](https://clerk.house.gov/Votes/2026170) ending the war, opposing resolutions to withdraw U.S. forces from hostilities Congress never authorized.
-- The war cost the Pentagon $38 billion through July, and CBO found higher energy costs drove more than 40 percent of consumer inflation in the second quarter of 2026. Indiana farmers saw diesel prices more than double and fertilizer prices jump as much as 35 percent, while gas prices rose across the state.
+- The war cost the Pentagon [$38 billion](https://plus.cq.com/doc/news-8527919?9) through July, and CBO found higher energy costs drove more than [40 percent](https://plus.cq.com/doc/news-8527919?9) of consumer inflation in the second quarter of 2026. Indiana farmers saw diesel prices more than [double](https://www.wndu.com/2026/07/07/indiana-farmers-already-faced-hard-financial-year-iran-war-made-it-worse/) and fertilizer prices jump as much as [35 percent,](https://www.wndu.com/2026/07/07/indiana-farmers-already-faced-hard-financial-year-iran-war-made-it-worse/) while gas [prices](https://www.ipm.org/news/2026-03-10/gas-prices-continue-to-rise-in-indiana-after-start-of-iran-war) rose across the state.
 
 **Message:** Yakym rubber-stamped Trump’s war, and Hoosiers are paying for it. 
 
